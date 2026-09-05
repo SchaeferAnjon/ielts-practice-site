@@ -1,0 +1,1204 @@
+{
+  "id": "c16t2",
+  "book": "剑桥雅思16",
+  "test": 2,
+  "title": "剑16 Test 2 · Listening",
+  "source": "Cambridge IELTS 16, Test 2（OCR 文字层抽取 + 人工核对，答案页逐题核对图片）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c16/t2p1.mp3",
+      "duration": 404,
+      "title": "Copying photos to digital format",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Copying photos to digital format",
+          "lines": [
+            "Name of company: Picturerep",
+            "## Requirements",
+            "Maximum size of photos is 30 cm, minimum size 4 cm.",
+            "Photos must not be in a {{1}} or an album.",
+            "## Cost",
+            "The cost for 360 photos is £{{2}} (including one disk).",
+            "Before the completed order is sent, {{3}} is required.",
+            "## Services included in the price",
+            "Photos can be placed in a folder, e.g. with the name {{4}}.",
+            "The {{5}} and contrast can be improved if necessary.",
+            "Photos which are very fragile will be scanned by {{6}}.",
+            "## Special restore service (costs extra)",
+            "It may be possible to remove an object from a photo, or change the {{7}}.",
+            "A photo which is not correctly in {{8}} cannot be fixed.",
+            "## Other information",
+            "Orders are completed within {{9}}.",
+            "Send the photos in a box (not {{10}})."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "EMPLOYEE",
+          "t": "Hello, Picturerep. Can I help you?",
+          "start": 79.17,
+          "end": 80.97
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, hi. I saw your advertisement about copying pictures to disk and I'd like a bit more information about what you do.",
+          "start": 81.13,
+          "end": 89.93
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "Sure. What would you like to know?",
+          "start": 90.67,
+          "end": 92.31
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, I've got a box full of old family photos that's been up in the attic for years, some of them must be 50 or 60 years old, and I'd like to get them converted to digital format.",
+          "start": 92.63,
+          "end": 106.25
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "Sure, we can do that for you.",
+          "start": 106.57,
+          "end": 108.49
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right. And what about size? The photos are all sorts of sizes — are there any restrictions?",
+          "start": 109.01,
+          "end": 116.52
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "Well the maximum size of photo we can do with our normal service is 30 centimetres. And each picture must be at least 4 centimetres, that's the minimum we can cope with.",
+          "start": 117.48,
+          "end": 129.04
+        },
+        {
+          "s": "WOMAN",
+          "t": "That should be fine. And some of them are in a frame — should I take them out before I send them?",
+          "q": [
+            1
+          ],
+          "start": 129.36,
+          "end": 135.94
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "Yes please, we can't copy them otherwise. And also the photos must all be separate, they mustn't be stuck into an album.",
+          "start": 136.18,
+          "end": 143.98
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK, that's not a problem. So can you give me an idea of how much this will cost? I've got about 360 photos I think.",
+          "start": 144.67,
+          "end": 155.03
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "We charge £195 for 300 to 400 photos for the basic service.",
+          "q": [
+            2
+          ],
+          "start": 155.46,
+          "end": 161.86
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK. And does that include the disk?",
+          "start": 162.14,
+          "end": 165.54
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "Yes, one disk — but you can get extra ones for £5 each.",
+          "start": 166.08,
+          "end": 170.68
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's good. So do I need to pay when I send you the photos?",
+          "start": 170.92,
+          "end": 175.56
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "No, we won't need anything until we've actually copied the pictures. Then we'll let you know how much it is, and once we've received the payment, we'll send the parcel off to you.",
+          "q": [
+            3
+          ],
+          "start": 176.28,
+          "end": 186.88
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right.",
+          "start": 187.21,
+          "end": 187.57
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "Is there anything else you'd like to ask about our services?",
+          "start": 234.93,
+          "end": 237.61
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes. I've roughly sorted out the photos into groups, according to what they're about — so can you keep them in those groups when you copy them?",
+          "start": 237.61,
+          "end": 248.68
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "Sure. We'll save each group in a different folder on the disk and if you like, you can suggest a name for each folder.",
+          "start": 249.48,
+          "end": 256.6
+        },
+        {
+          "s": "WOMAN",
+          "t": "So I could have one called 'Grandparents' for instance?",
+          "q": [
+            4
+          ],
+          "start": 258.07,
+          "end": 260.79
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "Exactly.",
+          "start": 260.79,
+          "end": 262.07
+        },
+        {
+          "s": "WOMAN",
+          "t": "And do you do anything besides scan the photos? Like, can you make any improvements?",
+          "start": 262.75,
+          "end": 269.52
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast — that can make a big difference.",
+          "q": [
+            5
+          ],
+          "start": 270.04,
+          "end": 280.76
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK. And some of the photos are actually quite fragile — they won't get damaged in the process, will they?",
+          "start": 281.8,
+          "end": 288.48
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "No, if any look particularly fragile, we'd do them by hand. We do realise how precious these old photos can be.",
+          "q": [
+            6
+          ],
+          "start": 289.44,
+          "end": 296.85
+        },
+        {
+          "s": "WOMAN",
+          "t": "Sure.",
+          "start": 296.93,
+          "end": 297.53
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "And another thing is we can make changes to a photo if you want — so if you want to remove an object from a photo, or maybe alter the background, we can do that.",
+          "q": [
+            7
+          ],
+          "start": 297.53,
+          "end": 309.67
+        },
+        {
+          "s": "WOMAN",
+          "t": "Really? I might be interested in that. I'll have a look through the photos and see. Oh, and talking of fixing photos — I've got a few that aren't properly in focus. Can you do anything to make that better?",
+          "q": [
+            8
+          ],
+          "start": 309.87,
+          "end": 325.34
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "No, I'm afraid that's one thing we can't do.",
+          "start": 326.42,
+          "end": 328.82
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK.",
+          "start": 328.9,
+          "end": 329.78
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "Any other information I can give you?",
+          "start": 330.47,
+          "end": 332.43
+        },
+        {
+          "s": "WOMAN",
+          "t": "Er ... oh, how long will it all take?",
+          "start": 334.8,
+          "end": 336.64
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "We aim to get the copying done in ten days.",
+          "q": [
+            9
+          ],
+          "start": 336.92,
+          "end": 339.6
+        },
+        {
+          "s": "WOMAN",
+          "t": "Fine. Right, well I'll get the photos packed up in a box and post them off to you.",
+          "start": 340.16,
+          "end": 346.48
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post.",
+          "q": [
+            10
+          ],
+          "start": 347.0,
+          "end": 354.44
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK. Right, thanks for your help. Bye.",
+          "start": 354.72,
+          "end": 359.26
+        },
+        {
+          "s": "EMPLOYEE",
+          "t": "Bye.",
+          "start": 359.54,
+          "end": 360.3
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c16/t2p2.mp3",
+      "duration": 481,
+      "title": "Changes at a school",
+      "groups": [
+        {
+          "range": [
+            11,
+            15
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 11,
+              "text": "Dartfield House school used to be",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a tourist information centre."
+                },
+                {
+                  "k": "B",
+                  "text": "a private home."
+                },
+                {
+                  "k": "C",
+                  "text": "a local council building."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "What is planned with regard to the lower school?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "All buildings on the main site will be improved."
+                },
+                {
+                  "k": "B",
+                  "text": "The lower school site will be used for new homes."
+                },
+                {
+                  "k": "C",
+                  "text": "Additional school buildings will be constructed on the lower school site."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "The catering has been changed because of",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "long queuing times."
+                },
+                {
+                  "k": "B",
+                  "text": "changes to the school timetable."
+                },
+                {
+                  "k": "C",
+                  "text": "dissatisfaction with the menus."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "Parents are asked to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "help their children to decide in advance which serving point to use."
+                },
+                {
+                  "k": "B",
+                  "text": "make sure their children have enough money for food."
+                },
+                {
+                  "k": "C",
+                  "text": "advise their children on healthy food to eat."
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "What does the speaker say about the existing canteen?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Food will still be served there."
+                },
+                {
+                  "k": "B",
+                  "text": "Only staff will have access to it."
+                },
+                {
+                  "k": "C",
+                  "text": "Pupils can take their food into it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            16,
+            18
+          ],
+          "type": "matching",
+          "instruction": "What comment does the speaker make about each of the following serving points in the Food Hall?",
+          "limit": "Choose THREE answers from the box and write the correct letter, A-D, next to Questions 16-18.",
+          "optionsTitle": "Comments",
+          "options": [
+            {
+              "k": "A",
+              "text": "pupils help to plan menus"
+            },
+            {
+              "k": "B",
+              "text": "only vegetarian food"
+            },
+            {
+              "k": "C",
+              "text": "different food every week"
+            },
+            {
+              "k": "D",
+              "text": "daily change in menu"
+            }
+          ],
+          "itemsTitle": "Food available at serving points in Food Hall",
+          "items": [
+            {
+              "n": 16,
+              "text": "World Adventures"
+            },
+            {
+              "n": 17,
+              "text": "Street Life"
+            },
+            {
+              "n": 18,
+              "text": "Speedy Italian"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO optional after-school lessons are new?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "swimming"
+            },
+            {
+              "k": "B",
+              "text": "piano"
+            },
+            {
+              "k": "C",
+              "text": "acting"
+            },
+            {
+              "k": "D",
+              "text": "cycling"
+            },
+            {
+              "k": "E",
+              "text": "theatre sound and lighting"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning and thank you for coming here today. I'd like to bring you up to date with changes in the school that will affect your children.",
+          "start": 57.14,
+          "end": 65.98
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As you know, the school buildings date from various times: some from the 1970s, some from the last five years, and of course Dartfield House is over a century old. It was commissioned by a businessman, Neville Richards, and intended as his family home, but he died before it was completed. His heir chose to sell it to the local council, who turned it into offices. A later plan to convert it into a tourist information centre didn't come about, through lack of money, and instead it formed the nucleus of this school when it opened 40 years ago.",
+          "q": [
+            11
+          ],
+          "start": 67.39,
+          "end": 108.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The school has grown as the local population has increased, and I can now give you some news about the lower school site, which is separated from the main site by a road. Planning permission has been granted for development of both sites. The lower school will move to new buildings that will be constructed on the main site. Developers will construct houses on the existing lower school site. Work on the new school buildings should start within the next few months.",
+          "q": [
+            12
+          ],
+          "start": 110.42,
+          "end": 144.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A more imminent change concerns the catering facilities and the canteen. The canteen is always very busy throughout the lunch period — in fact it's often full to capacity, because a lot of our pupils like the food that's on offer there. But there's only one serving point, so most pupils have to wait a considerable time to be served. This is obviously unsatisfactory, as they may have hardly finished their lunch before afternoon lessons start.",
+          "q": [
+            13
+          ],
+          "start": 146.38,
+          "end": 179.09
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So we've had a new Food Hall built, and this will come into use next week. It'll have several serving areas, and I'll give you more details about those in a minute, but one thing we ask you to do, to help in the smooth running of the Food Hall, is to discuss with your children each morning which type of food they want to eat that day, so they can go straight to the relevant serving point. There won't be any junk food — everything on offer will be healthy — and there's no change to the current system of paying for lunches by topping up your child's electronic payment card online.",
+          "q": [
+            14
+          ],
+          "start": 180.29,
+          "end": 221.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You may be wondering what will happen to the old canteen. We'll still have tables and chairs in there, and pupils can eat food from the Food Hall or lunch they've brought from home. Eventually we may use part of the canteen for storage, but first we'll see how many pupils go in there at lunchtime.",
+          "q": [
+            15
+          ],
+          "start": 223.05,
+          "end": 243.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK, back to the serving points in the Food Hall, which will all have side dishes, desserts and drinks on sale, as well as main courses.",
+          "start": 285.32,
+          "end": 295.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One serving point we call World Adventures. This will serve a different country's cuisine each day, maybe Chinese one day and Lebanese the next. The menus will be planned for a week at a time, so pupils will know what's going to be available the whole of that week.",
+          "q": [
+            16
+          ],
+          "start": 297.04,
+          "end": 317.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Street Life is also international, with food from three particular cultures. We'll ask pupils to make suggestions, so perhaps sometimes there'll be food from Thailand, Ethiopia and Mexico, and then one of them will be replaced by Jamaican food for a week or two.",
+          "q": [
+            17
+          ],
+          "start": 319.0,
+          "end": 339.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Speedy Italian serving point will cater particularly for the many pupils who don't eat meat or fish: they can be sure that all the food served there is suitable for them. There'll be plenty of variety, so they shouldn't get bored with the food.",
+          "q": [
+            18
+          ],
+          "start": 342.01,
+          "end": 360.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK, that's all on the new Food Hall. Now after-school lessons. These are very popular with pupils, particularly swimming — in fact there's a waiting list for lessons. Cycling is another favourite, and I'm delighted that dozens of pupils make use of the chance to learn to ride in off-road conditions. It means that more and more cycle to and from school every day. As you know, we have a well-equipped performance centre, and we're going to start drama classes in there, too. Pupils will be able to join in just for fun or work up to taking part in a play — we hope to put on at least one a year. We already teach a number of pupils to use the sound and lighting systems in the centre.",
+          "q": [
+            19,
+            20
+          ],
+          "start": 361.3,
+          "end": 412.67
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And a former pupil has given a magnificent grand piano to the school, so a few pupils will be able to learn at the school instead of going to the local college, as many of them do at the moment.",
+          "q": [
+            19,
+            20
+          ],
+          "start": 413.71,
+          "end": 426.23
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c16/t2p3.mp3",
+      "duration": 437,
+      "title": "Assignment on sleep and dreams",
+      "groups": [
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Assignment on sleep and dreams",
+          "questions": [
+            {
+              "n": 21,
+              "text": "Luke read that one reason why we often forget dreams is that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "our memories cannot cope with too much information."
+                },
+                {
+                  "k": "B",
+                  "text": "we might otherwise be confused about what is real."
+                },
+                {
+                  "k": "C",
+                  "text": "we do not think they are important."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "What do Luke and Susie agree about dreams predicting the future?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It may just be due to chance."
+                },
+                {
+                  "k": "B",
+                  "text": "It only happens with certain types of event."
+                },
+                {
+                  "k": "C",
+                  "text": "It happens more often than some people think."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "Susie says that a study on pre-school children having a short nap in the day",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "had controversial results."
+                },
+                {
+                  "k": "B",
+                  "text": "used faulty research methodology."
+                },
+                {
+                  "k": "C",
+                  "text": "failed to reach any clear conclusions."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "In their last assignment, both students had problems with",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "statistical analysis."
+                },
+                {
+                  "k": "B",
+                  "text": "making an action plan."
+                },
+                {
+                  "k": "C",
+                  "text": "self-assessment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            30
+          ],
+          "type": "notes",
+          "instruction": "Complete the flow chart below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Assignment plan",
+          "lines": [
+            "Decide on research question:",
+            "Is there a relationship between hours of sleep and number of dreams?",
+            "Decide on sample:",
+            "Twelve students from the {{25}} department",
+            "Decide on methodology:",
+            "Self-reporting",
+            "Decide on procedure:",
+            "Answers on {{26}}",
+            "Check ethical guidelines for working with {{27}}",
+            "Ensure that risk is assessed and {{28}} is kept to a minimum",
+            "Analyse the results",
+            "Calculate the correlation and make a {{29}}",
+            "{{30}} the research"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SUSIE",
+          "t": "So Luke, for our next psychology assignment we have to do something on sleep and dreams.",
+          "start": 55.65,
+          "end": 61.53
+        },
+        {
+          "s": "LUKE",
+          "t": "Right. I've just read an article suggesting why we tend to forget most of our dreams soon after we wake up. I mean, most of my dreams aren't that interesting anyway, but what it said was that if we remembered everything, we might get mixed up about what actually happened and what we dreamed. So it's a sort of protection. I hadn't heard that idea before. I'd always assumed that it was just that we didn't have room in our memories for all that stuff.",
+          "q": [
+            21
+          ],
+          "start": 61.89,
+          "end": 92.22
+        },
+        {
+          "s": "SUSIE",
+          "t": "Me too. What do you think about the idea that our dreams may predict the future?",
+          "start": 92.42,
+          "end": 98.11
+        },
+        {
+          "s": "LUKE",
+          "t": "It's a belief that you get all over the world.",
+          "start": 98.47,
+          "end": 100.95
+        },
+        {
+          "s": "SUSIE",
+          "t": "Yeah, lots of people have a story of it happening to them, but the explanation I've read is that for each dream that comes true, we have thousands that don't, but we don't notice those, we don't even remember them. We just remember the ones where something in the real world, like a view or an action, happens to trigger a dream memory.",
+          "q": [
+            22
+          ],
+          "start": 101.23,
+          "end": 124.46
+        },
+        {
+          "s": "LUKE",
+          "t": "Right. So it's just a coincidence really. Something else I read about is what they call segmented sleeping. That's a theory that hundreds of years ago, people used to get up in the middle of the night and have a chat or something to eat, then go back to bed. So I tried it myself.",
+          "start": 124.7,
+          "end": 144.59
+        },
+        {
+          "s": "SUSIE",
+          "t": "Why?",
+          "start": 144.95,
+          "end": 145.63
+        },
+        {
+          "s": "LUKE",
+          "t": "Well it's meant to make you more creative. I don't know why. But I gave it up after a week. It just didn't fit in with my lifestyle.",
+          "start": 146.35,
+          "end": 154.55
+        },
+        {
+          "s": "SUSIE",
+          "t": "But most pre-school children have a short sleep in the day don't they? There was an experiment some students did here last term to see at what age kids should stop having naps. But they didn't really find an answer. They spent a lot of time working out the most appropriate methodology, but the results didn't seem to show any obvious patterns.",
+          "q": [
+            23
+          ],
+          "start": 155.03,
+          "end": 177.79
+        },
+        {
+          "s": "LUKE",
+          "t": "Right. Anyway, let's think about our assignment. Last time I had problems with the final stage, where we had to describe and justify how successful we thought we'd been. I struggled a bit with the action plan too.",
+          "q": [
+            24
+          ],
+          "start": 177.95,
+          "end": 193.23
+        },
+        {
+          "s": "SUSIE",
+          "t": "I was OK with the planning, but I got marked down for the self-assessment as well. And I had big problems with the statistical stuff, that's where I really lost marks.",
+          "start": 193.35,
+          "end": 204.88
+        },
+        {
+          "s": "LUKE",
+          "t": "Right.",
+          "start": 205.12,
+          "end": 205.52
+        },
+        {
+          "s": "SUSIE",
+          "t": "So shall we plan what we have to do for this assignment?",
+          "start": 253.41,
+          "end": 256.41
+        },
+        {
+          "s": "LUKE",
+          "t": "OK.",
+          "start": 256.61,
+          "end": 256.97
+        },
+        {
+          "s": "SUSIE",
+          "t": "First, we have to decide on our research question. So how about 'Is there a relationship between hours of sleep and number of dreams?'",
+          "start": 257.29,
+          "end": 269.54
+        },
+        {
+          "s": "LUKE",
+          "t": "OK. Then we need to think about who we'll do the study on. About 12 people?",
+          "start": 270.22,
+          "end": 276.75
+        },
+        {
+          "s": "SUSIE",
+          "t": "Right. And shall we use other psychology students?",
+          "start": 276.99,
+          "end": 281.07
+        },
+        {
+          "s": "LUKE",
+          "t": "Let's use people from a different department. What about history?",
+          "q": [
+            25
+          ],
+          "start": 281.83,
+          "end": 286.35
+        },
+        {
+          "s": "SUSIE",
+          "t": "Yes, they might have interesting dreams! Or literature students?",
+          "start": 286.79,
+          "end": 291.95
+        },
+        {
+          "s": "LUKE",
+          "t": "I don't really know any.",
+          "start": 292.63,
+          "end": 293.71
+        },
+        {
+          "s": "SUSIE",
+          "t": "OK, forget that idea. Then we have to think about our methodology. So we could use observation, but that doesn't seem appropriate.",
+          "start": 294.03,
+          "end": 304.42
+        },
+        {
+          "s": "LUKE",
+          "t": "No. It needs to be self-reporting I think. And we could ask them to answer questions online.",
+          "start": 304.7,
+          "end": 311.83
+        },
+        {
+          "s": "SUSIE",
+          "t": "But in this case, paper might be better as they'll be doing it straight after they wake up ... in fact while they're still half-asleep.",
+          "q": [
+            26
+          ],
+          "start": 312.31,
+          "end": 322.09
+        },
+        {
+          "s": "LUKE",
+          "t": "Right. And we'll have to check the ethical guidelines for this sort of research.",
+          "q": [
+            27
+          ],
+          "start": 322.33,
+          "end": 327.61
+        },
+        {
+          "s": "SUSIE",
+          "t": "Mm, because our experiment involves humans, so there are special regulations.",
+          "start": 329.05,
+          "end": 333.77
+        },
+        {
+          "s": "LUKE",
+          "t": "Yes, I had a look at those for another assignment I did. There's a whole section on risk assessment, and another section on making sure they aren't put under any unnecessary stress.",
+          "q": [
+            28
+          ],
+          "start": 334.21,
+          "end": 346.92
+        },
+        {
+          "s": "SUSIE",
+          "t": "Let's hope they don't have any bad dreams!",
+          "start": 347.68,
+          "end": 350.04
+        },
+        {
+          "s": "LUKE",
+          "t": "Yeah.",
+          "start": 350.71,
+          "end": 351.39
+        },
+        {
+          "s": "SUSIE",
+          "t": "Then when we've collected all our data we have to analyse it and calculate the correlation between our two variables, that's time sleeping and number of dreams and then present our results visually in a graph.",
+          "q": [
+            29
+          ],
+          "start": 351.47,
+          "end": 368.15
+        },
+        {
+          "s": "LUKE",
+          "t": "Right. And the final thing is to think about our research and evaluate it. So that seems quite straightforward.",
+          "q": [
+            30
+          ],
+          "start": 368.47,
+          "end": 375.9
+        },
+        {
+          "s": "SUSIE",
+          "t": "Yeah. So now let's ...",
+          "start": 376.14,
+          "end": 378.38
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c16/t2p4.mp3",
+      "duration": 538,
+      "title": "Health benefits of dance",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Health benefits of dance",
+          "lines": [
+            "## Recent findings",
+            "All forms of dance produce various hormones associated with feelings of happiness.",
+            "Dancing with others has a more positive impact than dancing alone.",
+            "An experiment on university students suggested that dance increases {{31}}.",
+            "For those with mental illness, dance could be used as a form of {{32}}.",
+            "## Benefits of dance for older people",
+            "accessible for people with low levels of {{33}}",
+            "reduces the risk of heart disease",
+            "better {{34}} reduces the risk of accidents",
+            "improves {{35}} function by making it work faster",
+            "improves participants' general well-being",
+            "gives people more {{36}} to take exercise",
+            "can lessen the feeling of {{37}}, very common in older people",
+            "## Benefits of Zumba",
+            "A study at The University of Wisconsin showed that doing Zumba for 40 minutes uses up as many {{38}} as other quite intense forms of exercise.",
+            "The American Journal of Health Behavior study showed that:",
+            "women suffering from {{39}} benefited from doing Zumba.",
+            "Zumba became a {{40}} for the participants."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Dancing is something that humans do when they want to have a good time. It's a universal response to music, found in all cultures. But what's only been discovered recently is that dancing not only makes us feel good, it's also extremely good for our health.",
+          "start": 73.27,
+          "end": 91.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Dancing, like other forms of exercise, releases hormones, such as dopamine, which make us feel relaxed and happy. And it also reduces feelings of stress or anxiety.",
+          "start": 92.64,
+          "end": 106.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Dancing is also a sociable activity, which is another reason it makes us feel good. One study compared people's enjoyment of dancing at home in front of a video with dancing in a group in a studio.",
+          "start": 107.95,
+          "end": 123.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The people dancing in a group reported feeling happier, whereas those dancing alone did not. In another experiment, university researchers at York and Sheffield took a group of students and sent each of them into a lab where music was played for five minutes. Each had to choose from three options: to sit and listen quietly to the music, to cycle on an exercise bike while they listened, or to get up and dance. All were given cognitive tasks to perform before and after. The result showed that those who chose to dance showed much more creativity when doing problem-solving tasks.",
+          "q": [
+            31
+          ],
+          "start": 124.25,
+          "end": 173.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Doctor Lovatt at the University of Hertfordshire believes dance could be a very useful way to help people suffering from mental health problems. He thinks dance should be prescribed as therapy to help people overcome issues such as depression.",
+          "q": [
+            32
+          ],
+          "start": 175.34,
+          "end": 192.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's well established that dance is a good way of encouraging adolescent girls to take exercise but what about older people? Studies have shown that there are enormous benefits for people in their sixties and beyond. One of the great things about dance is that there are no barriers to participation. Anyone can have a go, even those whose standard of fitness is quite low.",
+          "q": [
+            33
+          ],
+          "start": 198.42,
+          "end": 226.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Dance can be especially beneficial for older adults who can't run or do more intense workouts, or for those who don't want to. One 2015 study found that even a gentle dance workout helps to promote a healthy heart. And there's plenty of evidence which suggests that dancing lowers the risk of falls, which could result in a broken hip, for example, by helping people to improve their balance.",
+          "q": [
+            34
+          ],
+          "start": 227.77,
+          "end": 260.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are some less obvious benefits of dance for older people too. One thing I hadn't realised before researching this topic was that dance isn't just a physical challenge. It also requires a lot of concentration because you need to remember different steps and routines. For older people, this kind of activity is especially important because it forces their brain to process things more quickly and to retain more information.",
+          "q": [
+            35
+          ],
+          "start": 262.44,
+          "end": 295.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Current research also shows that dance promotes a general sense of well-being in older participants, which can last up to a week after a class. Participants report feeling less tired and having greater motivation to be more active and do daily activities such as gardening or walking to the shops or a park.",
+          "q": [
+            36
+          ],
+          "start": 297.25,
+          "end": 321.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Ballroom or country dancing, both popular with older people, have to be done in groups. They require collaboration and often involve touching a dance partner, all of which encourages interaction on the dance floor. This helps to develop new relationships and can reduce older people's sense of isolation, which is a huge problem in many countries.",
+          "q": [
+            37
+          ],
+          "start": 323.25,
+          "end": 349.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I also looked at the benefits of Zumba. Fifteen million people in 180 countries now regularly take a Zumba class, an aerobic workout based on Latin American dance moves. John Porcari, a professor of exercise and sport science at the University of Wisconsin, analysed a group of women who were Zumba regulars and found that a class lasting 40 minutes burns about 370 calories. This is similar to moderately intense exercises like step aerobics or kickboxing.",
+          "q": [
+            38
+          ],
+          "start": 351.86,
+          "end": 393.24
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A study in the American Journal of Health Behavior showed that when women with obesity did Zumba three times a week for 16 weeks, they lost an average of 1.2 kilos and lowered their percentage of body fat by 1%.",
+          "q": [
+            39
+          ],
+          "start": 394.7,
+          "end": 411.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "More importantly, the women enjoyed the class so much that they made it a habit and continued to attend classes at least once a week — very unusual for an aerobic exercise programme.",
+          "q": [
+            40
+          ],
+          "start": 412.96,
+          "end": 427.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Dance is never going to compete with high-intensity workouts when it comes to physical fitness gains, but its popularity is likely to keep on rising because it's such a fun way to keep fit.",
+          "start": 429.99,
+          "end": 443.76
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "frame"
+    ],
+    "2": [
+      "195"
+    ],
+    "3": [
+      "payment"
+    ],
+    "4": [
+      "Grandparents"
+    ],
+    "5": [
+      "colour",
+      "color"
+    ],
+    "6": [
+      "hand"
+    ],
+    "7": [
+      "background"
+    ],
+    "8": [
+      "focus"
+    ],
+    "9": [
+      "ten days",
+      "10 days"
+    ],
+    "10": [
+      "plastic"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "B"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "A"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "D"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "B"
+    ],
+    "19": [
+      "B",
+      "C"
+    ],
+    "20": [
+      "B",
+      "C"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "C"
+    ],
+    "25": [
+      "history"
+    ],
+    "26": [
+      "paper"
+    ],
+    "27": [
+      "humans",
+      "people"
+    ],
+    "28": [
+      "stress"
+    ],
+    "29": [
+      "graph"
+    ],
+    "30": [
+      "evaluate"
+    ],
+    "31": [
+      "creativity"
+    ],
+    "32": [
+      "therapy"
+    ],
+    "33": [
+      "fitness"
+    ],
+    "34": [
+      "balance"
+    ],
+    "35": [
+      "brain"
+    ],
+    "36": [
+      "motivation"
+    ],
+    "37": [
+      "isolation"
+    ],
+    "38": [
+      "calories"
+    ],
+    "39": [
+      "obesity"
+    ],
+    "40": [
+      "habit"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "c16t2",
+  "book": "剑桥雅思16",
+  "test": 2,
+  "title": "剑16 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "process",
+      "kindZh": "流程图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "You should spend about 20 minutes on this task.",
+        "The diagram below shows the manufacturing process for making sugar from sugar cane.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "Write at least 150 words."
+      ],
+      "image": "/img/c16t2-task1.png",
+      "imageCaption": "How sugar is produced from sugar cane",
+      "sample": {
+        "band": 6,
+        "text": "The diagram illustrates the process by which sugar is produced from sugar cane. The process consists of seven steps of various time length, starting by farming sugar canes and ending by dry sugar ready to use.\n\nFirst, sugarcane is farmed and nurished for a period of 12 to 18 months, which is the longest step in the whole process. Second, sugar cane get harvested by the means of two ways, either manually or using specialized vehicles. Third, the harvested sugar cane go through the step of crushing, resulting in liquid form called juice.\n\nThe fourth step involves purifying the juice through Limestone filters. The purified juice now goes through the fifth step, which put it under extreme heat to allow it to evaporate to get syrup out from it. Then the syrup is centrifuged to separate sugar crystals from syrup. Once that happend the sugar is taken into the last phase of drying and cooling, which finalise the process and produce ready-to-use sugar that is packed and ready for sale.",
+        "comment": "There is an overview presented in the first paragraph which summarises the process into the farming stages and the drying stages. This summary could be more detailed, e.g. farming, crushing, separating and drying stages. The ideas are presented in three paragraphs and follow the logical sequence of the process. Cohesive devices are basic [First | Second | Third | fourth] and there is some repetition, but there is a clear progression.\n\nSpelling is generally accurate and the vocabulary conveys the message well, with some range [the longest step | specialized vehicles | liquid]. Grammatical range is weaker and there are a number of errors [get harvested / is harvested] including third-person endings [go through / goes through | put / puts].\n\nThis response could be improved by a more detailed overview and more accuracy in grammatical structures."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "You should spend about 40 minutes on this task.",
+        "Write about the following topic:",
+        "In their advertising, businesses nowadays usually emphasise that their products are new in some way.",
+        "Why is this? Do you think it is a positive or negative development?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+        "Write at least 250 words."
+      ],
+      "sample": {
+        "band": 4.5,
+        "text": "In their advertising, businesses nowdays sometimes stress that their products are new in some way. From my point of view, some businesses want to have good products to give to the people, but usually they worry about their products are newer than some other's businesses products.\n\nIn think it is a negative development, because when businesses stress about the quality of their products, sometimes they do something wrong while they are producing them. It is good when the businesses take care of and look after their products but with a limit. According to some experts, when you take a lot of care of something, you will probably do some things, about it, wrong.\n\nFrom my own experience, I was trying to make three school projects, which my teachers asked me to do, and despite my hard work and because I was stressed about the projects I had to do, I finally failed because I had made a lot of mistakes.\n\nTo sum up, businesses nowdays should not stress about their products being new in some way. Besides that they should calm down and be careful on what they are producing.",
+        "comment": "This response does not really address the requirements of the question. There is a view expressed at the beginning of the second paragraph [a negative development] but mainly, the writer is talking about the quality of products rather than advertising. In the third paragraph, an example is given about an unsuccessful school project which is not relevant to the question either. This response only touches on the question set, and is a tangential response. Ideas are not arranged coherently, as they do not address the task given. Paragraphing is not helpful and there is a one-sentence paragraph. Vocabulary is not appropriate as it does not focus on the question set.\n\nSentence structure shows a mix of simple and more complex forms with a range of tenses and modal and comparative structures. There are a number of errors but they do not reduce communication."
+      }
+    }
+  ]
+}
