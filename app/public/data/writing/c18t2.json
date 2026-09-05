@@ -1,0 +1,55 @@
+{
+  "id": "c18t2",
+  "book": "剑桥雅思18",
+  "test": 2,
+  "title": "剑18 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "bar-chart",
+      "kindZh": "柱状图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The chart below shows the number of households in the US by their annual income in 2007, 2011 and 2015.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c18t2-task1.png",
+      "imageCaption": "Number of US households (in millions), by annual income",
+      "data": {
+        "unit": "Number of households (millions)",
+        "years": [2007, 2011, 2015],
+        "series": {
+          "Less than $25,000": [25, 28.5, 28],
+          "$25,000-$49,999": [27, 29.5, 28.5],
+          "$50,000-$74,999": [21, 21, 21],
+          "$75,000-$99,999": [14.5, 14, 15],
+          "$100,000 or more": [29.5, 28, 33.5]
+        }
+      },
+      "sample": {
+        "band": 5.5,
+        "text": "The graph illustrats the data of different levels of annual wage of families in the united states in 2001, 2011 and 2015.\n\nAs far as the number of families whose annual income was less than $25,000, it began with around >5 million in 2007, then increased to approximately 27 million in 2011, but decreased by 2 million 4 years later. Similarly, those of families that earned $25,000 to $49,974 were about 25 million in 2001, after that it rose to nearly 20 million in 2011. Finally it decreased to around 27 million in 2015.\n\nBy contrast, the groups of families which have high income, including $15,000 to $74,499 and $100,000 or more, experienced a drop in 2011, but their data went up in 2015.\n\nInteresting things could be seen in the group of middle income, the data remain the same in 2007, 2011 and 2015.",
+        "comment": "This response does present most of the data within the bar chart and the key features required.\nTo improve the response, an overview of the information should be included, for example: Across the 8 years, households with incomes below $50,000 rose, then fell back slightly, households with incomes of over $75,000 fell slightly then increased and those with the mid-level incomes remained the same.\nThe information is arranged coherently, starting with the details for the lower-income households, then the higher, then the mid-section. There are some effective cohesive devices [As far as / Similarly / By contrast].\nThe vocabulary is suitable for the task, but there is an error [>5 million / 25 million] which is not helpful when reporting the details.\nThere is a mix of simple and complex structures, with sentences that contain multiple clauses. There are some examples of missing capitalisation [united states / United States] with some errors [remain / remained].\nTo improve the response, it is important to re-read to check for small errors with vocabulary and to include an overview or summary of the salient information."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some university students want to learn about other subjects in addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "Students attend university to improve their prospects and find suitable employment after graduation. For this reason, some feel that they should focus all their energy on their main subjects to gain a relevant qualification. Others want a more well-rounded education, so they try to learn about additional subjects.\n\nIt is perfectly reasonable for students to enter university with a strong sense of curiosity and a desire to learn as much as possible. Unfortunately, we tend to put subjects into artificial boxes, suggesting that business, art and science are not connected. If students become too focused on a single area, it may stifle their initial curiosity, limiting their potential. They could also graduate with a very narrow skill set that doesn't translate well to the current job market, which often favours those who have taken a multidisciplinary approach to their studies.\n\nDespite this, caution is certainly needed. The more we learn about a subject, the more complex it becomes. Gaining an in-depth, specialist knowledge of a subject requires a certain level of focus and dedication over a long period. If we try to learn about too many things at once, our knowledge may lack the depth required to obtain a qualification. If they are not careful, young people could begin to lose interest in their main subjects, which would be detrimental to their studies.\n\nWhile learning about other subjects is not necessarily a bad thing, I believe university students should ensure that their main subjects remain the priority so that they do not lose sight of their objective: gaining a qualification. Then they can calculate how much time, energy and headspace they have left for learning about other topics.",
+        "comment": "This response addresses both parts of the task and presents a clear opinion at the end. The second paragraph explains how the current university system is set up to [put subjects into artificial boxes] and how this narrow focus can disadvantage students. The third paragraph presents the benefits of [Gaining an in-depth, specialist knowledge] and the dangers of trying to include too much. Both sides of the question are addressed in well-developed paragraphs.\nTo improve the response, it would be helpful to set out the opinion at the start, for added continuity of the position.\nVocabulary is natural and sophisticated [stifle their initial curiosity / Gaining an in-depth, specialist knowledge / detrimental to their studies] without errors.\nGrammatical structures are wide-ranging, with a range of tenses and conditional [if] and modal [may / could / would / can] structures embedded in complex, flexible sentences.\nThis is a high-level response which fully addresses the task."
+      }
+    }
+  ]
+}
