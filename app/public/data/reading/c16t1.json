@@ -1,0 +1,837 @@
+{
+  "id": "c16t1",
+  "book": "剑桥雅思16",
+  "test": 1,
+  "title": "剑16 Test 1 · Reading",
+  "minutes": 60,
+  "passages": [
+    {
+      "n": 1,
+      "title": "Why we need to protect polar bears",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Polar bears are being increasingly threatened by the effects of climate change, but their disappearance could have far-reaching consequences. They are uniquely adapted to the extreme conditions of the Arctic Circle, where temperatures can reach −40°C. One reason for this is that they have up to 11 centimetres of fat underneath their skin. Humans with comparative levels of adipose tissue would be considered obese and would be likely to suffer from diabetes and heart disease. Yet the polar bear experiences no such consequences."
+        },
+        {
+          "id": "p2",
+          "text": "A 2014 study by Shi Ping Liu and colleagues sheds light on this mystery. They compared the genetic structure of polar bears with that of their closest relatives from a warmer climate, the brown bears. This allowed them to determine the genes that have allowed polar bears to survive in one of the toughest environments on Earth. Liu and his colleagues found the polar bears had a gene known as APoB, which reduces levels of low-density lipoproteins (LDLs) — a form of ‘bad’ cholesterol. In humans, mutations of this gene are associated with increased risk of heart disease. Polar bears may therefore be an important study model to understand heart disease in humans."
+        },
+        {
+          "id": "p3",
+          "text": "The genome of the polar bear may also provide the solution for another condition, one that particularly affects our older generation: osteoporosis. This is a disease where bones show reduced density, usually caused by insufficient exercise, reduced calcium intake or food starvation. Bone tissue is constantly being remodelled, meaning that bone is added or removed, depending on nutrient availability and the stress that the bone is under. Female polar bears, however, undergo extreme conditions during every pregnancy. Once autumn comes around, these females will dig maternity dens in the snow and will remain there throughout the winter, both before and after the birth of their cubs. This process results in about six months of fasting, where the female bears have to keep themselves and their cubs alive, depleting their own calcium and calorie reserves. Despite this, their bones remain strong and dense. Physiologists Alanda Lennox and Allen Goodship found an explanation for this paradox in 2008. They discovered that pregnant bears were able to increase the density of their bones before they started to build their dens. In addition, six months later, when they finally emerged from the den with their cubs, there was no evidence of significant loss of bone density. Hibernating brown bears do not have this capacity and must therefore resort to major bone reformation in the following spring. If the mechanism of bone remodelling in polar bears can be understood, many bedridden humans, and even astronauts, could potentially benefit."
+        },
+        {
+          "id": "p4",
+          "text": "The medical benefits of the polar bear for humanity certainly have their importance in our conservation efforts, but these should not be the only factors taken into consideration. We tend to want to protect animals we think are intelligent and possess emotions, such as elephants and primates. Bears, on the other hand, seem to be perceived as stupid and in many cases violent. And yet anecdotal evidence from the field challenges those assumptions, suggesting for example that polar bears have good problem-solving abilities. A male bear called GoGo in Tennoji Zoo, Osaka, has even been observed making use of a tool to manipulate his environment. The bear used a tree branch on multiple occasions to dislodge a piece of meat hung out of his reach. Problem-solving ability has also been witnessed in wild polar bears, although not as obviously as with GoGo. A calculated move by a male bear involved running and jumping onto barrels in an attempt to get to a photographer standing on a platform four metres high."
+        },
+        {
+          "id": "p5",
+          "text": "In other studies, such as one by Alison Ames in 2008, polar bears showed deliberate and focussed manipulation. For example, Ames observed bears putting objects in piles and then knocking them over in what appeared to be a game. The study demonstrates that bears are capable of agile and thought-out behaviours. These examples suggest bears have greater creativity and problem-solving abilities than previously thought."
+        },
+        {
+          "id": "p6",
+          "text": "As for emotions, while the evidence is once again anecdotal, many bears have been seen to hit out at ice and snow — seemingly out of frustration — when they have just missed out on a kill. Moreover, polar bears can form unusual relationships with other species, including playing with the dogs used to pull sleds in the Arctic. Remarkably, one hand-raised polar bear called Agee has formed a close relationship with her owner Mark Dumas to the point where they even swim together. This is even more astonishing since polar bears are known to actively hunt humans in the wild."
+        },
+        {
+          "id": "p7",
+          "text": "If climate change were to lead to their extinction, this would mean not only the loss of potential breakthroughs in human medicine, but more importantly, the disappearance of an intelligent, majestic animal."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            7
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "Polar bears suffer from various health problems due to the build-up of fat under their skin."
+            },
+            {
+              "n": 2,
+              "text": "The study done by Liu and his colleagues compared different groups of polar bears."
+            },
+            {
+              "n": 3,
+              "text": "Liu and colleagues were the first researchers to compare polar bears and brown bears genetically."
+            },
+            {
+              "n": 4,
+              "text": "Polar bears are able to control their levels of ‘bad’ cholesterol by genetic means."
+            },
+            {
+              "n": 5,
+              "text": "Female polar bears are able to survive for about six months without food."
+            },
+            {
+              "n": 6,
+              "text": "It was found that the bones of female polar bears were very weak when they came out of their dens in spring."
+            },
+            {
+              "n": 7,
+              "text": "The polar bear’s mechanism for increasing bone density could also be used by people one day."
+            }
+          ]
+        },
+        {
+          "range": [
+            8,
+            13
+          ],
+          "type": "notes",
+          "instruction": "Complete the table below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Reasons why polar bears should be protected",
+          "lines": [
+            "People think of bears as unintelligent and {{8}}.",
+            "However, this may not be correct. For example:",
+            "In Tennoji Zoo, a bear has been seen using a branch as a {{9}}. This allowed him to knock down some {{10}}.",
+            "A wild polar bear worked out a method of reaching a platform where a {{11}} was located.",
+            "Polar bears have displayed behaviour such as conscious manipulation of objects and activity similar to a {{12}}.",
+            "Bears may also display emotions. For example:",
+            "They may make movements suggesting {{13}} if disappointed when hunting.",
+            "They may form relationships with other species."
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The Step Pyramid of Djoser",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 on pages 21 and 22.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "The pyramids are the most famous monuments of ancient Egypt and still hold enormous interest for people in the present day. These grand, impressive tributes to the memory of the Egyptian kings have become linked with the country even though other cultures, such as the Chinese and Mayan, also built pyramids. The evolution of the pyramid form has been written and argued about for centuries. However, there is no question that, as far as Egypt is concerned, it began with one monument to one king designed by one brilliant architect: the Step Pyramid of Djoser at Saqqara."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Djoser was the first king of the Third Dynasty of Egypt and the first to build in stone. Prior to Djoser’s reign, tombs were rectangular monuments made of dried clay brick, which covered underground passages where the deceased person was buried. For reasons which remain unclear, Djoser’s main official, whose name was Imhotep, conceived of building a taller, more impressive tomb for his king by stacking stone slabs on top of one another, progressively making them smaller, to form the shape now known as the Step Pyramid. Djoser is thought to have reigned for 19 years, but some historians and scholars attribute a much longer time for his rule, owing to the number and size of the monuments he built."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "The Step Pyramid has been thoroughly examined and investigated over the last century, and it is now known that the building process went through many different stages. Historian Marc Van de Mieroop comments on this, writing ‘Much experimentation was involved, which is especially clear in the construction of the pyramid in the center of the complex. It had several plans ... before it became the first Step Pyramid in history, piling six levels on top of one another ... The weight of the enormous mass was a challenge for the builders, who placed the stones at an inward incline in order to prevent the monument breaking up.’"
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "When finally completed, the Step Pyramid rose 62 meters high and was the tallest structure of its time. The complex in which it was built was the size of a city in ancient Egypt and included a temple, courtyards, shrines, and living quarters for the priests. It covered a region of 16 hectares and was surrounded by a wall 10.5 meters high. The wall had 13 false doors cut into it with only one true entrance cut into the south-east corner; the entire wall was then ringed by a trench 750 meters long and 40 meters wide. The false doors and the trench were incorporated into the complex to discourage unwanted visitors. If someone wished to enter, he or she would have needed to know in advance how to find the location of the true opening in the wall. Djoser was so proud of his accomplishment that he broke the tradition of having only his own name on the monument and had Imhotep’s name carved on it as well."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "The burial chamber of the tomb, where the king’s body was laid to rest, was dug beneath the base of the pyramid, surrounded by a vast maze of long tunnels that had rooms off them to discourage robbers. One of the most mysterious discoveries found inside the pyramid was a large number of stone vessels. Over 40,000 of these vessels, of various forms and shapes, were discovered in storerooms off the pyramid’s underground passages. They are inscribed with the names of rulers from the First and Second Dynasties of Egypt and made from different kinds of stone. There is no agreement among scholars and archaeologists on why the vessels were placed in the tomb of Djoser or what they were supposed to represent. The archaeologist Jean-Philippe Lauer, who excavated most of the pyramid and complex, believes they were originally stored and then given a ‘proper burial’ by Djoser in his pyramid to honor his predecessors. There are other historians, however, who claim the vessels were dumped into the shafts as yet another attempt to prevent grave robbers from getting to the king’s burial chamber."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Unfortunately, all of the precautions and intricate design of the underground network did not prevent ancient robbers from finding a way in. Djoser’s grave goods, and even his body, were stolen at some point in the past and all archaeologists found were a small number of his valuables overlooked by the thieves. There was enough left throughout the pyramid and its complex, however, to astonish and amaze the archaeologists who excavated it."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "Egyptologist Miroslav Verner writes, ‘Few monuments hold a place in human history as significant as that of the Step Pyramid in Saqqara ... It can be said without exaggeration that this pyramid complex constitutes a milestone in the evolution of monumental stone architecture in Egypt and in the world as a whole.’ The Step Pyramid was a revolutionary advance in architecture and became the archetype which all the other great pyramid builders of Egypt would follow."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            20
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below.",
+          "limit": "Write the correct number, i-ix, in boxes 14-20 on your answer sheet.",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "Paragraph A"
+            },
+            {
+              "n": 15,
+              "text": "Paragraph B"
+            },
+            {
+              "n": 16,
+              "text": "Paragraph C"
+            },
+            {
+              "n": 17,
+              "text": "Paragraph D"
+            },
+            {
+              "n": 18,
+              "text": "Paragraph E"
+            },
+            {
+              "n": 19,
+              "text": "Paragraph F"
+            },
+            {
+              "n": 20,
+              "text": "Paragraph G"
+            }
+          ]
+        },
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "The Step Pyramid of Djoser",
+          "lines": [
+            "The complex that includes the Step Pyramid and its surroundings is considered to be as big as an Egyptian {{21}} of the past.",
+            "The area outside the pyramid included accommodation that was occupied by {{22}}, along with many other buildings and features.",
+            "A wall ran around the outside of the complex and a number of false entrances were built into this.",
+            "In addition, a long {{23}} encircled the wall.",
+            "As a result, any visitors who had not been invited were cleverly prevented from entering the pyramid grounds unless they knew the {{24}} of the real entrance."
+          ]
+        },
+        {
+          "range": [
+            25,
+            26
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO of the following points does the writer make about King Djoser?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Initially he had to be persuaded to build in stone rather than clay."
+            },
+            {
+              "k": "B",
+              "text": "There is disagreement concerning the length of his reign."
+            },
+            {
+              "k": "C",
+              "text": "He failed to appreciate Imhotep’s part in the design of the Step Pyramid."
+            },
+            {
+              "k": "D",
+              "text": "A few of his possessions were still in his tomb when archaeologists found it."
+            },
+            {
+              "k": "E",
+              "text": "He criticised the design and construction of other pyramids in Egypt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "The future of work",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "According to a leading business consultancy, 3-14% of the global workforce will need to switch to a different occupation within the next 10-15 years, and all workers will need to adapt as their occupations evolve alongside increasingly capable machines. Automation — or ‘embodied artificial intelligence’ (AI) — is one aspect of the disruptive effects of technology on the labour market. ‘Disembodied AI’, like the algorithms running in our smartphones, is another."
+        },
+        {
+          "id": "p2",
+          "text": "Dr Stella Pachidi from Cambridge Judge Business School believes that some of the most fundamental changes are happening as a result of the ‘algorithmication’ of jobs that are dependent on data rather than on production — the so-called knowledge economy. Algorithms are capable of learning from data to undertake tasks that previously needed human judgement, such as reading legal contracts, analysing medical scans and gathering market intelligence."
+        },
+        {
+          "id": "p3",
+          "text": "‘In many cases, they can outperform humans,’ says Pachidi. ‘Organisations are attracted to using algorithms because they want to make choices based on what they consider is “perfect information”, as well as to reduce costs and enhance productivity.’"
+        },
+        {
+          "id": "p4",
+          "text": "‘But these enhancements are not without consequences,’ says Pachidi. ‘If routine cognitive tasks are taken over by AI, how do professions develop their future experts?’ she asks. ‘One way of learning about a job is “legitimate peripheral participation” — a novice stands next to experts and learns by observation. If this isn’t happening, then you need to find new ways to learn.’"
+        },
+        {
+          "id": "p5",
+          "text": "Another issue is the extent to which the technology influences or even controls the workforce. For over two years, Pachidi monitored a telecommunications company. ‘The way telecoms salespeople work is through personal and frequent contact with clients, using the benefit of experience to assess a situation and reach a decision. However, the company had started using a[n] ... algorithm that defined when account managers should contact certain customers about which kinds of campaigns and what to offer them.’"
+        },
+        {
+          "id": "p6",
+          "text": "The algorithm — usually built by external designers — often becomes the keeper of knowledge, she explains. In cases like this, Pachidi believes, a short-sighted view begins to creep into working practices whereby workers learn through the ‘algorithm’s eyes’ and become dependent on its instructions. Alternative explorations — where experimentation and human instinct lead to progress and new ideas — are effectively discouraged."
+        },
+        {
+          "id": "p7",
+          "text": "Pachidi and colleagues even observed people developing strategies to make the algorithm work to their own advantage. ‘We are seeing cases where workers feed the algorithm with false data to reach their targets,’ she reports."
+        },
+        {
+          "id": "p8",
+          "text": "It’s scenarios like these that many researchers are working to avoid. Their objective is to make AI technologies more trustworthy and transparent, so that organisations and individuals understand how AI decisions are made. In the meantime, says Pachidi, ‘We need to make sure we fully understand the dilemmas that this new world raises regarding expertise, occupational boundaries and control.’"
+        },
+        {
+          "id": "p9",
+          "text": "Economist Professor Hamish Low believes that the future of work will involve major transitions across the whole life course for everyone: ‘The traditional trajectory of full-time education followed by full-time work followed by a pensioned retirement is a thing of the past,’ says Low. Instead, he envisages a multistage employment life: one where retraining happens across the life course, and where multiple jobs and no job happen by choice at different stages."
+        },
+        {
+          "id": "p10",
+          "text": "On the subject of job losses, Low believes the predictions are founded on a fallacy: ‘It assumes that the number of jobs is fixed. If in 30 years, half of 100 jobs are being carried out by robots, that doesn’t mean we are left with just 50 jobs for humans. The number of jobs will increase: we would expect there to be 150 jobs.’"
+        },
+        {
+          "id": "p11",
+          "text": "Dr Ewan McGaughey, at Cambridge’s Centre for Business Research and King’s College London, agrees that ‘apocalyptic’ views about the future of work are misguided. ‘It’s the laws that restrict the supply of capital to the job market, not the advent of new technologies that causes unemployment.’"
+        },
+        {
+          "id": "p12",
+          "text": "His recently published research answers the question of whether automation, AI and robotics will mean a ‘jobless future’ by looking at the causes of unemployment. ‘History is clear that change can mean redundancies. But social policies can tackle this through retraining and redeployment.’ He adds: ‘If there is going to be change to jobs as a result of AI and robotics then I’d like to see governments seizing the opportunity to improve policy to enforce good job security. We can “reprogramme” the law to prepare for a fairer future of work and leisure.’ McGaughey’s findings are a call to arms to leaders of organisations, governments and banks to pre-empt the coming changes with bold new policies that guarantee full employment, fair incomes and a thriving economic democracy."
+        },
+        {
+          "id": "p13",
+          "text": "‘The promises of these new technologies are astounding. They deliver humankind the capacity to live in a way that nobody could have once imagined,’ he adds. ‘Just as the industrial revolution brought people past subsistence agriculture, and the corporate revolution enabled mass production, a third revolution has been pronounced. But it will not only be one of technology. The next revolution will be social.’"
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 27,
+              "text": "The first paragraph tells us about",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the kinds of jobs that will be most affected by the growth of AI."
+                },
+                {
+                  "k": "B",
+                  "text": "the extent to which AI will alter the nature of the work that people do."
+                },
+                {
+                  "k": "C",
+                  "text": "the proportion of the world’s labour force who will have jobs in AI in the future."
+                },
+                {
+                  "k": "D",
+                  "text": "the difference between ways that embodied and disembodied AI will impact on workers."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "According to the second paragraph, what is Stella Pachidi’s view of the ‘knowledge economy’?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It is having an influence on the number of jobs available."
+                },
+                {
+                  "k": "B",
+                  "text": "It is changing people’s attitudes towards their occupations."
+                },
+                {
+                  "k": "C",
+                  "text": "It is the main reason why the production sector is declining."
+                },
+                {
+                  "k": "D",
+                  "text": "It is a key factor driving current developments in the workplace."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "What did Pachidi observe at the telecommunications company?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "staff disagreeing with the recommendations of AI"
+                },
+                {
+                  "k": "B",
+                  "text": "staff feeling resentful about the intrusion of AI in their work"
+                },
+                {
+                  "k": "C",
+                  "text": "staff making sure that AI produces the results that they want"
+                },
+                {
+                  "k": "D",
+                  "text": "staff allowing AI to carry out tasks they ought to do themselves"
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "In his recently published research, Ewan McGaughey",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "challenges the idea that redundancy is a negative thing."
+                },
+                {
+                  "k": "B",
+                  "text": "shows the profound effect of mass unemployment on society."
+                },
+                {
+                  "k": "C",
+                  "text": "highlights some differences between past and future job losses."
+                },
+                {
+                  "k": "D",
+                  "text": "illustrates how changes in the job market can be successfully handled."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            31,
+            34
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words, A-G, below.",
+          "limit": "Write the correct letter, A-G, in boxes 31-34 on your answer sheet.",
+          "title": "The ‘algorithmication’ of jobs",
+          "text": "Stella Pachidi of Cambridge Judge Business School has been focusing on the ‘algorithmication’ of jobs which rely not on production but on {{31}}.\n\nWhile monitoring a telecommunications company, Pachidi observed a growing {{32}} on the recommendations made by AI, as workers begin to learn through the ‘algorithm’s eyes’. Meanwhile, staff are deterred from experimenting and using their own {{33}}, and are therefore prevented from achieving innovation.\n\nTo avoid the kind of situations which Pachidi observed, researchers are trying to make AI’s decision-making process easier to comprehend, and to increase users’ {{34}} with regard to the technology.",
+          "options": [
+            {
+              "k": "A",
+              "text": "pressure"
+            },
+            {
+              "k": "B",
+              "text": "satisfaction"
+            },
+            {
+              "k": "C",
+              "text": "intuition"
+            },
+            {
+              "k": "D",
+              "text": "promotion"
+            },
+            {
+              "k": "E",
+              "text": "reliance"
+            },
+            {
+              "k": "F",
+              "text": "confidence"
+            },
+            {
+              "k": "G",
+              "text": "information"
+            }
+          ]
+        },
+        {
+          "range": [
+            35,
+            40
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following statements (Questions 35-40) and the list of people below. Match each statement with the correct person, A, B or C.",
+          "limit": "NB You may use any letter more than once.",
+          "optionsTitle": "List of people",
+          "options": [
+            {
+              "k": "A",
+              "text": "Stella Pachidi"
+            },
+            {
+              "k": "B",
+              "text": "Hamish Low"
+            },
+            {
+              "k": "C",
+              "text": "Ewan McGaughey"
+            }
+          ],
+          "questions": [
+            {
+              "n": 35,
+              "text": "Greater levels of automation will not result in lower employment."
+            },
+            {
+              "n": 36,
+              "text": "There are several reasons why AI is appealing to businesses."
+            },
+            {
+              "n": 37,
+              "text": "AI’s potential to transform people’s lives has parallels with major cultural shifts which occurred in previous eras."
+            },
+            {
+              "n": 38,
+              "text": "It is important to be aware of the range of problems that AI causes."
+            },
+            {
+              "n": 39,
+              "text": "People are going to follow a less conventional career path than in the past."
+            },
+            {
+              "n": 40,
+              "text": "Authorities should take measures to ensure that there will be adequately paid work for everyone."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "FALSE"
+    ],
+    "2": [
+      "FALSE"
+    ],
+    "3": [
+      "NOT GIVEN"
+    ],
+    "4": [
+      "TRUE"
+    ],
+    "5": [
+      "TRUE"
+    ],
+    "6": [
+      "FALSE"
+    ],
+    "7": [
+      "TRUE"
+    ],
+    "8": [
+      "violent"
+    ],
+    "9": [
+      "tool"
+    ],
+    "10": [
+      "meat"
+    ],
+    "11": [
+      "photographer"
+    ],
+    "12": [
+      "game"
+    ],
+    "13": [
+      "frustration"
+    ],
+    "14": [
+      "iv"
+    ],
+    "15": [
+      "vii"
+    ],
+    "16": [
+      "ii"
+    ],
+    "17": [
+      "v"
+    ],
+    "18": [
+      "i"
+    ],
+    "19": [
+      "viii"
+    ],
+    "20": [
+      "vi"
+    ],
+    "21": [
+      "city"
+    ],
+    "22": [
+      "priests"
+    ],
+    "23": [
+      "trench"
+    ],
+    "24": [
+      "location"
+    ],
+    "25": [
+      "B",
+      "D"
+    ],
+    "26": [
+      "B",
+      "D"
+    ],
+    "27": [
+      "B"
+    ],
+    "28": [
+      "D"
+    ],
+    "29": [
+      "C"
+    ],
+    "30": [
+      "D"
+    ],
+    "31": [
+      "G"
+    ],
+    "32": [
+      "E"
+    ],
+    "33": [
+      "C"
+    ],
+    "34": [
+      "F"
+    ],
+    "35": [
+      "B"
+    ],
+    "36": [
+      "A"
+    ],
+    "37": [
+      "C"
+    ],
+    "38": [
+      "A"
+    ],
+    "39": [
+      "B"
+    ],
+    "40": [
+      "C"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "key": "Humans with comparative levels of adipose tissue would be considered obese and would be likely to suffer from diabetes and heart disease. Yet the polar bear experiences no such consequences.",
+      "why": "原文明确说人类若有相同脂肪含量会得糖尿病、心脏病，但北极熊完全没有这些问题 → 与题干矛盾，FALSE。"
+    },
+    "2": {
+      "loc": "p2",
+      "key": "They compared the genetic structure of polar bears with that of their closest relatives from a warmer climate, the brown bears.",
+      "why": "研究比较的是北极熊和棕熊两个不同物种，不是“不同的北极熊群体” → FALSE。"
+    },
+    "3": {
+      "loc": "p2",
+      "key": "A 2014 study by Shi Ping Liu and colleagues sheds light on this mystery.",
+      "why": "原文只说 Liu 等人做了这项比较，没有提及他们是否是“第一个”这样做的研究者 → NOT GIVEN。"
+    },
+    "4": {
+      "loc": "p2",
+      "key": "the polar bears had a gene known as APoB, which reduces levels of low-density lipoproteins (LDLs) — a form of ‘bad’ cholesterol",
+      "why": "题干 control ... by genetic means = 原文靠基因 APoB 降低坏胆固醇水平 → TRUE。"
+    },
+    "5": {
+      "loc": "p3",
+      "key": "This process results in about six months of fasting, where the female bears have to keep themselves and their cubs alive",
+      "why": "原文直接说这个过程带来约六个月的禁食，与题干一致 → TRUE。"
+    },
+    "6": {
+      "loc": "p3",
+      "key": "when they finally emerged from the den with their cubs, there was no evidence of significant loss of bone density",
+      "why": "原文说出洞时骨密度并没有明显下降，与题干“骨骼很弱”矛盾 → FALSE。"
+    },
+    "7": {
+      "loc": "p3",
+      "key": "If the mechanism of bone remodelling in polar bears can be understood, many bedridden humans, and even astronauts, could potentially benefit.",
+      "why": "原文说该机制一旦被理解，卧床病人和宇航员都可能受益，即“未来可能被人类利用” → TRUE。"
+    },
+    "8": {
+      "loc": "p4",
+      "key": "Bears, on the other hand, seem to be perceived as stupid and in many cases violent.",
+      "why": "题干 unintelligent = 原文 stupid，另一个形容词就是 violent。"
+    },
+    "9": {
+      "loc": "p4",
+      "key": "The bear used a tree branch on multiple occasions to dislodge a piece of meat hung out of his reach.",
+      "why": "树枝被用作工具（tool）来取食物，填 tool。"
+    },
+    "10": {
+      "loc": "p4",
+      "key": "to dislodge a piece of meat hung out of his reach",
+      "why": "用树枝敲下来的东西是 meat（肉）。"
+    },
+    "11": {
+      "loc": "p4",
+      "key": "A calculated move by a male bear involved running and jumping onto barrels in an attempt to get to a photographer standing on a platform four metres high.",
+      "why": "平台上站着的是一名 photographer（摄影师）。"
+    },
+    "12": {
+      "loc": "p5",
+      "key": "Ames observed bears putting objects in piles and then knocking them over in what appeared to be a game.",
+      "why": "题干 activity similar to a ___ = 原文 what appeared to be a game，填 game。"
+    },
+    "13": {
+      "loc": "p6",
+      "key": "many bears have been seen to hit out at ice and snow — seemingly out of frustration — when they have just missed out on a kill",
+      "why": "题干 movements suggesting ___ if disappointed = 原文 seemingly out of frustration，填 frustration。"
+    },
+    "14": {
+      "loc": "A",
+      "key": "there is no question that, as far as Egypt is concerned, it began with one monument to one king designed by one brilliant architect",
+      "why": "A 段先说金字塔起源众说纷纭（less definite facts），但有一点是确定的（a single certainty）— 阶梯金字塔的起源，对应标题 iv。"
+    },
+    "15": {
+      "loc": "B",
+      "key": "Djoser’s main official, whose name was Imhotep, conceived of building a taller, more impressive tomb for his king by stacking stone slabs",
+      "why": "B 段讲 Imhotep 提出了改变墓葬建筑设计的新想法（阶梯金字塔），对应标题 vii。"
+    },
+    "16": {
+      "loc": "C",
+      "key": "The weight of the enormous mass was a challenge for the builders, who placed the stones at an inward incline in order to prevent the monument breaking up.",
+      "why": "C 段描述建造过程中工匠面对的巨大挑战，对应标题 ii ‘A difficult task for those involved’。"
+    },
+    "17": {
+      "loc": "D",
+      "key": "The complex in which it was built was the size of a city in ancient Egypt and included a temple, courtyards, shrines, and living quarters for the priests.",
+      "why": "D 段概述了金字塔外部建筑与区域（温度、庙宇、院子等），对应标题 v ‘An overview of the external buildings and areas’。"
+    },
+    "18": {
+      "loc": "E",
+      "key": "The burial chamber of the tomb ... One of the most mysterious discoveries found inside the pyramid was a large number of stone vessels.",
+      "why": "E 段讲金字塔内部的墓室与文物（石器），对应标题 i ‘The areas and artefacts within the pyramid itself’。"
+    },
+    "19": {
+      "loc": "F",
+      "key": "There was enough left throughout the pyramid and its complex, however, to astonish and amaze the archaeologists who excavated it.",
+      "why": "F 段说虽然文物大多被盗（few remains），但剩下的仍让考古学家感到惊叹（incredible experience），对应标题 viii。"
+    },
+    "20": {
+      "loc": "G",
+      "key": "The Step Pyramid was a revolutionary advance in architecture and became the archetype which all the other great pyramid builders of Egypt would follow.",
+      "why": "G 段说阶梯金字塔成为后来所有金字塔建造者效仿的原型，对应标题 vi ‘A pyramid design that others copied’。"
+    },
+    "21": {
+      "loc": "D",
+      "key": "The complex in which it was built was the size of a city in ancient Egypt",
+      "why": "题干 as big as an Egyptian ___ = 原文 the size of a city，填 city。"
+    },
+    "22": {
+      "loc": "D",
+      "key": "included a temple, courtyards, shrines, and living quarters for the priests",
+      "why": "题干 accommodation occupied by ___ = 原文 living quarters for the priests，填 priests。"
+    },
+    "23": {
+      "loc": "D",
+      "key": "the entire wall was then ringed by a trench 750 meters long and 40 meters wide",
+      "why": "题干 a long ___ encircled the wall = 原文 ringed by a trench，填 trench。"
+    },
+    "24": {
+      "loc": "D",
+      "key": "he or she would have needed to know in advance how to find the location of the true opening in the wall",
+      "why": "题干 knew the ___ of the real entrance = 原文 the location of the true opening，填 location。"
+    },
+    "25": {
+      "loc": "B",
+      "key": "Djoser is thought to have reigned for 19 years, but some historians and scholars attribute a much longer time for his rule",
+      "why": "关于乔赛尔在位时长，学者们说法不一 → 对应 B ‘disagreement concerning the length of his reign’。"
+    },
+    "26": {
+      "loc": "F",
+      "key": "all archaeologists found were a small number of his valuables overlooked by the thieves",
+      "why": "盗墓贼没有拿走全部财物，还剩下一小部分被考古学家发现 → 对应 D ‘A few of his possessions were still in his tomb’。"
+    },
+    "27": {
+      "loc": "p1",
+      "key": "all workers will need to adapt as their occupations evolve alongside increasingly capable machines",
+      "why": "第一段主要讲 AI 会在多大程度上改变人们的工作性质，而非具体受影响的行业或岗位比例 → B。"
+    },
+    "28": {
+      "loc": "p2",
+      "key": "some of the most fundamental changes are happening as a result of the ‘algorithmication’ of jobs ... the so-called knowledge economy",
+      "why": "题干 key factor driving current developments = 原文 fundamental changes ... happening as a result of，说明知识经济是当前职场变化的关键驱动因素 → D。"
+    },
+    "29": {
+      "loc": "p7",
+      "key": "We are seeing cases where workers feed the algorithm with false data to reach their targets",
+      "why": "员工故意给算法输入假数据，以让算法给出他们想要的结果 → staff making sure AI produces the results they want → C。"
+    },
+    "30": {
+      "loc": "p12",
+      "key": "History is clear that change can mean redundancies. But social policies can tackle this through retraining and redeployment.",
+      "why": "McGaughey 的研究说明可以通过再培训等政策成功应对就业市场的变化 → D ‘illustrates how changes ... can be successfully handled’。"
+    },
+    "31": {
+      "loc": "p2",
+      "key": "the ‘algorithmication’ of jobs that are dependent on data rather than on production",
+      "why": "题干 rely not on production but on ___ = 原文 dependent on data，data → information → G。"
+    },
+    "32": {
+      "loc": "p6",
+      "key": "workers learn through the ‘algorithm’s eyes’ and become dependent on its instructions",
+      "why": "题干 growing ___ on the recommendations made by AI = 原文 become dependent on its instructions，dependent → reliance → E。"
+    },
+    "33": {
+      "loc": "p6",
+      "key": "Alternative explorations — where experimentation and human instinct lead to progress and new ideas — are effectively discouraged",
+      "why": "题干 using their own ___ = 原文 human instinct，instinct → intuition → C。"
+    },
+    "34": {
+      "loc": "p8",
+      "key": "Their objective is to make AI technologies more trustworthy and transparent",
+      "why": "题干 increase users’ ___ with regard to the technology = 原文让 AI 更 trustworthy，trustworthy → confidence → F。"
+    },
+    "35": {
+      "loc": "p10",
+      "key": "The number of jobs will increase: we would expect there to be 150 jobs.",
+      "why": "Low 认为自动化不会导致就业总量下降，反而会增加 → B。"
+    },
+    "36": {
+      "loc": "p3",
+      "key": "Organisations are attracted to using algorithms because they want to make choices based on ... ‘perfect information’, as well as to reduce costs and enhance productivity.",
+      "why": "Pachidi 列举了企业青睐算法的多个原因（完美信息、降低成本、提高效率）→ A。"
+    },
+    "37": {
+      "loc": "p13",
+      "key": "Just as the industrial revolution brought people past subsistence agriculture, and the corporate revolution enabled mass production, a third revolution has been pronounced.",
+      "why": "McGaughey 把 AI 带来的变革比作工业革命、公司革命等历史性变革 → C。"
+    },
+    "38": {
+      "loc": "p8",
+      "key": "We need to make sure we fully understand the dilemmas that this new world raises regarding expertise, occupational boundaries and control.",
+      "why": "Pachidi 强调需要充分了解 AI 带来的各种困境和问题 → A。"
+    },
+    "39": {
+      "loc": "p9",
+      "key": "he envisages a multistage employment life: one where retraining happens across the life course, and where multiple jobs and no job happen by choice at different stages",
+      "why": "Low 认为未来人们的职业道路会更加多阶段、不那么传统 → B。"
+    },
+    "40": {
+      "loc": "p12",
+      "key": "I’d like to see governments seizing the opportunity to improve policy to enforce good job security ... guarantee full employment, fair incomes",
+      "why": "McGaughey 呼吁政府采取政策措施保障充分就业和公平收入 → C。"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "c16t1",
+  "book": "剑桥雅思16",
+  "test": 1,
+  "title": "剑16 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "line-graph",
+      "kindZh": "曲线图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The charts below show the changes in ownership of electrical appliances and amount of time spent doing housework in households in one country between 1920 and 2019.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c16t1-task1.png",
+      "imageCaption": "Percentage of households with electrical appliances (1920-2019) and number of hours of housework per week, per household (1920-2019)",
+      "data": {
+        "unit": "见各系列名称（% households / hours per week）",
+        "years": [
+          1920,
+          1940,
+          1960,
+          1980,
+          2000,
+          2019
+        ],
+        "series": {
+          "Washing machine (% of households)": [
+            40,
+            60,
+            70,
+            64,
+            69,
+            74
+          ],
+          "Refrigerator (% of households)": [
+            3,
+            53,
+            90,
+            100,
+            100,
+            100
+          ],
+          "Vacuum cleaner (% of households)": [
+            30,
+            48,
+            70,
+            90,
+            100,
+            100
+          ],
+          "Housework (hours per week)": [
+            50,
+            35,
+            20,
+            15,
+            15,
+            12
+          ]
+        }
+      },
+      "sample": {
+        "band": 5.0,
+        "text": "This charts shows about percentage of households with electrical appliances and Number of hour at housework per week, per household between 1920 and 2019,\n\nIn the first chart washing machine. Refrigerator. Vacuum cleaner all rise from 1920 to 2019. Refrigerator and Vacuum cleaner increase faster than washing machine. In 1920, Refrigerator just zero percentage of households and Refrigerator is 30 percentage of households, but in 2019 they all increase 100 percentage of household. Washing machine is to percantage of households in 1920, however in 2019 is just increase about 15 percantage at households, and washing mashine is overed by Pefrigerator and Vacuum cleaner in 1940 and 1960. Vacuum cleaner is overed by Pefrigerator in 1942.\n\nIn the second chart Houses per week is 50 Number of hours per week, but it decline to 10 Number of hours per week in 2019.\n\nOver than, percentang of households with electical appliance increase however Number of hours per week decline from 1920 to 2019.",
+        "comment": "This is an attempt to present the information from both graphs. However, there is inaccurate data, e.g. washing machine use increased by 15%. It actually increased from 40% in 1920 to just over 70% in 2019. The response focuses on the detail of when the lines on the graph intersect but there is a lack of clarity in these details. The description of the second chart lacks detail. This limits the task achievement. There is an attempt to present the information in order, and the last line attempts an overview. However, there is a lack of coherence caused by missing or inaccurate cohesive features [Over than] and there is repetition [percentage of household / number of hours per week] caused by the lack of cohesion.\n\nVocabulary is minimally adequate for the task but there are errors in word choice [overed by / overtaken by] which mean the response is difficult to understand. The frequency of errors in spelling is also high [percantage / percentang / percentage | mashine / machine | Pefrigerator / refrigerator | electical / electrical]. The range of grammatical structures is limited. There are some correct examples [all rise from 1920 to 2019 | they all increase (to) 100 percentage]; however, the errors in grammar and punctuation mean the response is not clear.",
+        "exampleOverview": "Overall, ownership of all three appliances rose sharply over the century, with the refrigerator and vacuum cleaner eventually reaching almost universal ownership while the washing machine rose more slowly and levelled off at around 70-75%. Over the same period, the number of hours spent on housework each week fell steadily, from 50 hours in 1920 to just 12 hours in 2019."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "two-part",
+      "kindZh": "双问题",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in.",
+        "What are the reasons for this?",
+        "How can people research this?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 6.0,
+        "text": "In our rather futuristic society for a number of reasons people are getting more interested in the past of their hometowns. With the help of rapidly ameliorating technology their desire to learn about the history can be easily put into life. But what are the roots of such an eagerness?\n\nFirst of all, the hectic lifestyle that we all experience nowadays does not leave any space for calmness and peace in our souls, so most of the people — especially adolescence — are struggling with finding their feet, whilst having a broad spectrum of knowledge about the world around really gives a feeling of confidence in the impermanence of life. In addition to this, it is said that being aware of the past you can change the future. Consequently, if people want to live a better life in more comfortable environment, they have to explore the history of their homes in order not to repeat past mistakes.\n\nFor this aims we are lucky to have multiple tools to carry out research into the subject. Despite libraries being considered as an old-fashioned and not necessarily convinient approach of learning, there are actually quite a few books and magazines which are not available online but which are extremely helpful when it comes to the local interests. News, photos, articles and interviews with different people published in old magazines indeed provide with a clear image of past events. Brousing the internet forums is also a great idea to find new information and make friend with mutual objectives.\n\nPutting everything into a nutshell, learning about the history of your place not only builds a sense of confidence but also might have a big impact on our future way of life.",
+        "comment": "This response provides a range of ideas on the value of knowing about history, but not specifically about the history of houses or buildings people live in. The main points are addressed but the ideas that relate directly to the question are limited.\n\nThe response is organised into four paragraphs, with an introduction and conclusion. Each main paragraph covers one of the points in the question, but the lack of focus means that there is a lack of overall progression. Cohesive devices are used well [First of all | Consequently] but there are some errors [For this aims].\n\nVocabulary is the strongest part of this response, with some examples of higher-level collocation [hectic lifestyle | peace in our souls | finding their feet | broad spectrum of knowledge | impermanence of life | mutual objectives]. There are a variety of sentence structures but errors remain.\n\nTo improve this response, the candidate should refer more closely to the ‘house or building’ rather than the hometown."
+      }
+    }
+  ]
+}

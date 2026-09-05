@@ -1,0 +1,1259 @@
+{
+  "id": "c16t1",
+  "book": "剑桥雅思16",
+  "test": 1,
+  "title": "剑16 Test 1 · Listening",
+  "source": "Cambridge IELTS 16 Academic, Test 1（OCR 文字层抽取 + 人工核对页面图片）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c16/t1p1.mp3",
+      "duration": 427,
+      "title": "Children's Engineering Workshops",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Children's Engineering Workshops",
+          "lines": [
+            "## Tiny Engineers (ages 4-5)",
+            "Activities",
+            "Create a cover for an {{1}} so they can drop it from a height without breaking it.",
+            "Take part in a competition to build the tallest {{2}}.",
+            "Make a {{3}} powered by a balloon.",
+            "## Junior Engineers (ages 6-8)",
+            "Activities",
+            "Build model cars, trucks and {{4}} and learn how to program them so they can move.",
+            "Take part in a competition to build the longest {{5}} using card and wood.",
+            "Create a short {{6}} with special software.",
+            "Build, {{7}} and program a humanoid robot.",
+            "## Cost and location",
+            "Cost for a five-week block: £50",
+            "Held on {{8}} from 10 am to 11 am",
+            "Location: on Building 10A, {{9}} Industrial Estate, Grasford",
+            "Plenty of {{10}} is available."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SARAH",
+          "t": "Hello. Children's Engineering Workshops.",
+          "start": 89.96,
+          "end": 92.24
+        },
+        {
+          "s": "FATHER",
+          "t": "Oh hello. I wanted some information about the workshops in the school holidays.",
+          "start": 92.68,
+          "end": 98.08
+        },
+        {
+          "s": "SARAH",
+          "t": "Sure.",
+          "start": 98.36,
+          "end": 98.88
+        },
+        {
+          "s": "FATHER",
+          "t": "I have two daughters who are interested. The younger one's Lydia, she's four – do you take children as young as that?",
+          "start": 99.6,
+          "end": 107.15
+        },
+        {
+          "s": "SARAH",
+          "t": "Yes, our Tiny Engineers workshop is for four to five-year-olds.",
+          "start": 107.35,
+          "end": 112.83
+        },
+        {
+          "s": "FATHER",
+          "t": "What sorts of activities do they do?",
+          "start": 113.51,
+          "end": 115.39
+        },
+        {
+          "s": "SARAH",
+          "t": "All sorts. For example, they work together to design a special cover that goes round an egg, so that when it's inside they can drop it from a height and it doesn't break. Well, sometimes it does break but that's part of the fun!",
+          "q": [
+            1
+          ],
+          "start": 115.73,
+          "end": 131.95
+        },
+        {
+          "s": "FATHER",
+          "t": "Right. And Lydia loves building things. Is there any opportunity for her to do that?",
+          "start": 132.19,
+          "end": 139.19
+        },
+        {
+          "s": "SARAH",
+          "t": "Well, they have a competition to see who can make the highest tower. You'd be amazed how high they can go.",
+          "q": [
+            2
+          ],
+          "start": 139.47,
+          "end": 146.99
+        },
+        {
+          "s": "FATHER",
+          "t": "Right.",
+          "start": 147.07,
+          "end": 147.51
+        },
+        {
+          "s": "SARAH",
+          "t": "But they're learning all the time as well as having fun. For example, one thing they do is to design and build a car that's attached to a balloon, and the force of the air in that actually powers the car and makes it move along. They go really fast too.",
+          "q": [
+            3
+          ],
+          "start": 148.23,
+          "end": 166.26
+        },
+        {
+          "s": "SARAH",
+          "t": "OK, well, all this sounds perfect.",
+          "start": 166.38,
+          "end": 169.58
+        },
+        {
+          "s": "FATHER",
+          "t": "Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group?",
+          "start": 210.55,
+          "end": 225.75
+        },
+        {
+          "s": "SARAH",
+          "t": "Yes, she'd be in the Junior Engineers. That's for children from six to eight.",
+          "start": 225.95,
+          "end": 231.82
+        },
+        {
+          "s": "FATHER",
+          "t": "And do they do the same sorts of activities?",
+          "start": 232.7,
+          "end": 235.14
+        },
+        {
+          "s": "SARAH",
+          "t": "Some are the same, but a bit more advanced. So they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique, and then they learn how they can program them and make them move.",
+          "q": [
+            4
+          ],
+          "start": 235.54,
+          "end": 255.77
+        },
+        {
+          "s": "FATHER",
+          "t": "So they learn a bit of coding?",
+          "start": 256.44,
+          "end": 258.0
+        },
+        {
+          "s": "SARAH",
+          "t": "They do. They pick it up really quickly. We're there to help if they need it, but they learn from one another too.",
+          "start": 258.24,
+          "end": 266.0
+        },
+        {
+          "s": "FATHER",
+          "t": "Right. And do they have competitions too?",
+          "start": 266.12,
+          "end": 269.86
+        },
+        {
+          "s": "SARAH",
+          "t": "Yes, with the Junior Engineers, it's to use recycled materials like card and wood to build a bridge, and the longest one gets a prize.",
+          "q": [
+            5
+          ],
+          "start": 270.42,
+          "end": 279.91
+        },
+        {
+          "s": "FATHER",
+          "t": "That sounds fun. I wouldn't mind doing that myself!",
+          "start": 281.07,
+          "end": 283.95
+        },
+        {
+          "s": "SARAH",
+          "t": "Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it, using special animation software. You'd be amazed what they come up with.",
+          "q": [
+            6
+          ],
+          "start": 284.47,
+          "end": 298.11
+        },
+        {
+          "s": "FATHER",
+          "t": "And of course, that's something they can put on their phone and take home to show all their friends.",
+          "start": 298.27,
+          "end": 303.51
+        },
+        {
+          "s": "SARAH",
+          "t": "Exactly. And then they also build a robot in the shape of a human, and they decorate it and program it so that it can move its arms and legs.",
+          "q": [
+            7
+          ],
+          "start": 303.83,
+          "end": 314.35
+        },
+        {
+          "s": "FATHER",
+          "t": "Perfect. So, is it the same price as the Tiny Engineers?",
+          "start": 314.59,
+          "end": 319.14
+        },
+        {
+          "s": "SARAH",
+          "t": "It's just a bit more: £50 for the five weeks.",
+          "start": 319.94,
+          "end": 323.42
+        },
+        {
+          "s": "FATHER",
+          "t": "And are the classes on a Monday, too?",
+          "start": 323.74,
+          "end": 325.94
+        },
+        {
+          "s": "SARAH",
+          "t": "They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays. The classes are held in the morning from ten to eleven.",
+          "q": [
+            8
+          ],
+          "start": 326.42,
+          "end": 339.25
+        },
+        {
+          "s": "FATHER",
+          "t": "OK. That's better for me actually. And what about the location? Where exactly are the workshops held?",
+          "start": 341.76,
+          "end": 347.36
+        },
+        {
+          "s": "SARAH",
+          "t": "They're in building 10A — there's a big sign on the door, you can't miss it, and that's in Fradstone Industrial Estate.",
+          "q": [
+            9
+          ],
+          "start": 347.72,
+          "end": 355.76
+        },
+        {
+          "s": "FATHER",
+          "t": "Sorry?",
+          "start": 356.32,
+          "end": 356.76
+        },
+        {
+          "s": "SARAH",
+          "t": "Fradstone — that's F-R-A-D-S-T-O-N-E.",
+          "start": 358.88,
+          "end": 365.42
+        },
+        {
+          "s": "FATHER",
+          "t": "And that's in Grasford, isn't it?",
+          "start": 365.46,
+          "end": 370.38
+        },
+        {
+          "s": "SARAH",
+          "t": "Yes, up past the station.",
+          "start": 370.5,
+          "end": 372.34
+        },
+        {
+          "s": "FATHER",
+          "t": "And will I have any parking problems there?",
+          "q": [
+            10
+          ],
+          "start": 372.66,
+          "end": 375.34
+        },
+        {
+          "s": "SARAH",
+          "t": "No, there's always plenty available. So would you like to enrol Lydia and Carly now?",
+          "start": 375.5,
+          "end": 381.66
+        },
+        {
+          "s": "FATHER",
+          "t": "OK.",
+          "start": 381.74,
+          "end": 382.18
+        },
+        {
+          "s": "SARAH",
+          "t": "So can I have your full name ...",
+          "start": 382.82,
+          "end": 384.82
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c16/t1p2.mp3",
+      "duration": 416,
+      "title": "Work experience at Stevenson's",
+      "groups": [
+        {
+          "range": [
+            11,
+            14
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Work experience at Stevenson's",
+          "questions": [
+            {
+              "n": 11,
+              "text": "Stevenson's was founded in",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "1923."
+                },
+                {
+                  "k": "B",
+                  "text": "1924."
+                },
+                {
+                  "k": "C",
+                  "text": "1926."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "Originally, Stevenson's manufactured goods for",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the healthcare industry."
+                },
+                {
+                  "k": "B",
+                  "text": "the automotive industry."
+                },
+                {
+                  "k": "C",
+                  "text": "the machine tools industry."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "What does the speaker say about the company premises?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "The company has recently moved."
+                },
+                {
+                  "k": "B",
+                  "text": "The company has no plans to move."
+                },
+                {
+                  "k": "C",
+                  "text": "The company is going to move shortly."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "The programme for the work experience group includes",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "time to do research."
+                },
+                {
+                  "k": "B",
+                  "text": "meetings with a teacher."
+                },
+                {
+                  "k": "C",
+                  "text": "talks by staff."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            20
+          ],
+          "type": "matching",
+          "instruction": "Label the map below.（原题为地图标注 \"Plan of Stevenson's site\"，见原书第 12 页；下方选项是各字母房间在平面图中的位置说明。）",
+          "limit": "Write the correct letter, A-J, next to Questions 15-20.",
+          "optionsTitle": "字母位置（Plan of Stevenson's site）",
+          "options": [
+            {
+              "k": "A",
+              "text": "顶排最左侧的房间，正下方是 D，紧邻工厂和门外的树林"
+            },
+            {
+              "k": "B",
+              "text": "顶排 A 右侧（隔一条走廊）的房间，正下方是 E，内部没有对外窗户"
+            },
+            {
+              "k": "C",
+              "text": "顶排最右侧的房间，靠近门厅前的弧形车道，紧邻工厂"
+            },
+            {
+              "k": "D",
+              "text": "A 正下方的房间"
+            },
+            {
+              "k": "E",
+              "text": "B 正下方、与内院（open courtyard）相邻的房间"
+            },
+            {
+              "k": "F",
+              "text": "D 下方、内院左侧的房间"
+            },
+            {
+              "k": "G",
+              "text": "C 正下方、与内院和门厅相邻的房间"
+            },
+            {
+              "k": "H",
+              "text": "底排最左侧的房间，邻主路（Main Road）和门外的树林"
+            },
+            {
+              "k": "I",
+              "text": "H 右侧的房间，邻主路"
+            },
+            {
+              "k": "J",
+              "text": "I 右侧、门厅（Reception）左侧的房间"
+            }
+          ],
+          "itemsTitle": "Rooms",
+          "items": [
+            {
+              "n": 15,
+              "text": "coffee room"
+            },
+            {
+              "n": 16,
+              "text": "warehouse"
+            },
+            {
+              "n": 17,
+              "text": "staff canteen"
+            },
+            {
+              "n": 18,
+              "text": "meeting room"
+            },
+            {
+              "n": 19,
+              "text": "human resources"
+            },
+            {
+              "n": 20,
+              "text": "boardroom"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning, everyone, and welcome to Stevenson's, one of the country's major manufacturers of metal goods. Thank you for choosing us for your two weeks of work experience. My name is Julia Simmons, and since the beginning of this year I've been the managing director.",
+          "start": 54.37,
+          "end": 70.81
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Stevenson's is quite an old company. Like me, the founder, Ronald Stevenson, went into the steel industry when he left school — that was in 1923. He set up this company when he finished his apprenticeship, in 1926, although he actually started making plans two years earlier, in 1924. He was a very determined young man!",
+          "q": [
+            11
+          ],
+          "start": 72.84,
+          "end": 97.63
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Stevenson's long-term plan was to manufacture components for the machine tools industry — although in fact that never came about — and for the automotive industry, that is, cars and lorries. However, there was a delay of five years before that happened, because shortly before the company went into production, Stevenson was given the opportunity to make goods for hospitals and other players in the healthcare industry, so that's what we did for the first five years.",
+          "q": [
+            12
+          ],
+          "start": 99.18,
+          "end": 130.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Over the years, we've expanded the premises considerably — we were lucky that the site is big enough, so moving to a new location has never been necessary. However, the layout is far from ideal for modern machinery and production methods, so we intend to carry out major refurbishment of this site over the next five years.",
+          "q": [
+            13
+          ],
+          "start": 132.33,
+          "end": 154.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'd better give you some idea of what you'll be doing during your two weeks with us, so you know what to expect. Most mornings you'll have a presentation from one of the managers, to learn about their department, starting this morning with research and development. And you'll all spend some time in each department, observing what's going on and talking to people — as long as you don't stop them from doing their work altogether! In the past, a teacher from your school has come in at the end of each week to find out how the group were getting on, but your school isn't able to arrange that this year.",
+          "q": [
+            14
+          ],
+          "start": 156.44,
+          "end": 197.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK, now I'll briefly help you to orientate yourselves around the site. As you can see, we're in the reception area, which we try to make attractive and welcoming to visitors.",
+          "start": 244.26,
+          "end": 256.54
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's a corridor running left from here, and if you go along that, the door facing you at the end is the entrance to the coffee room. This looks out onto the main road on one side, and some trees on the other, and that'll be where you meet each morning.",
+          "q": [
+            15
+          ],
+          "start": 257.43,
+          "end": 274.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The factory is the very big room on the far side of the site. Next to it is the warehouse, which can be accessed by lorries going up the road to the turning area at the end. You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right.",
+          "q": [
+            16
+          ],
+          "start": 276.0,
+          "end": 295.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Somewhere you'll be keen to find is the staff canteen. This is right next to reception. I can confidently say that the food's very good, but the view isn't. The windows on one side look onto a corridor and courtyard, which aren't very attractive at all, and on the other onto the access road, which isn't much better.",
+          "q": [
+            17
+          ],
+          "start": 296.74,
+          "end": 319.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll be using the meeting room quite often, and you'll find it by walking along the corridor to the left of the courtyard, and continuing along it to the end. The meeting room is the last one on the right, and I'm afraid there's no natural daylight in the room.",
+          "q": [
+            18
+          ],
+          "start": 320.68,
+          "end": 339.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then you'll need to know where some of the offices are. The human resources department is at the front of this building, so you head to the left along the corridor from reception, and it's the second room you come to. It looks out onto the main road.",
+          "q": [
+            19
+          ],
+          "start": 340.93,
+          "end": 357.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And finally, the boardroom, where you'll be meeting sometimes. That has quite a pleasant view, as it looks out on to the trees. Go along the corridor past the courtyard, right to the end. The boardroom is on the left, next to the factory.",
+          "q": [
+            20
+          ],
+          "start": 358.86,
+          "end": 374.89
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK, now are there any questions before we ...",
+          "start": 375.85,
+          "end": 379.09
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c16/t1p3.mp3",
+      "duration": 390,
+      "title": "Art project on birds",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO parts of the introductory stage to their art projects do Jess and Tom agree were useful?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "the Bird Park visit"
+            },
+            {
+              "k": "B",
+              "text": "the workshop sessions"
+            },
+            {
+              "k": "C",
+              "text": "the Natural History Museum visit"
+            },
+            {
+              "k": "D",
+              "text": "the projects done in previous years"
+            },
+            {
+              "k": "E",
+              "text": "the handouts with research sources"
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            24
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "In which TWO ways do both Jess and Tom decide to change their proposals?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "by giving a rationale for their action plans"
+            },
+            {
+              "k": "B",
+              "text": "by being less specific about the outcome"
+            },
+            {
+              "k": "C",
+              "text": "by adding a video diary presentation"
+            },
+            {
+              "k": "D",
+              "text": "by providing a timeline and a mind map"
+            },
+            {
+              "k": "E",
+              "text": "by making their notes more evaluative"
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            30
+          ],
+          "type": "matching",
+          "instruction": "Which personal meaning do the students decide to give to each of the following pictures?",
+          "limit": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
+          "optionsTitle": "Personal meanings",
+          "options": [
+            {
+              "k": "A",
+              "text": "a childhood memory"
+            },
+            {
+              "k": "B",
+              "text": "hope for the future"
+            },
+            {
+              "k": "C",
+              "text": "fast movement"
+            },
+            {
+              "k": "D",
+              "text": "a potential threat"
+            },
+            {
+              "k": "E",
+              "text": "the power of colour"
+            },
+            {
+              "k": "F",
+              "text": "the continuity of life"
+            },
+            {
+              "k": "G",
+              "text": "protection of nature"
+            },
+            {
+              "k": "H",
+              "text": "a confused attitude to nature"
+            }
+          ],
+          "itemsTitle": "Pictures",
+          "items": [
+            {
+              "n": 25,
+              "text": "Falcon (Landseer)"
+            },
+            {
+              "n": 26,
+              "text": "Fish hawk (Audubon)"
+            },
+            {
+              "n": 27,
+              "text": "Kingfisher (van Gogh)"
+            },
+            {
+              "n": 28,
+              "text": "Portrait of William Wells"
+            },
+            {
+              "n": 29,
+              "text": "Vairumati (Gauguin)"
+            },
+            {
+              "n": 30,
+              "text": "Portrait of Giovanni de Medici"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "JESS",
+          "t": "How are you getting on with your art project, Tom?",
+          "start": 43.08,
+          "end": 45.44
+        },
+        {
+          "s": "TOM",
+          "t": "OK. Like, they gave us the theme of birds to base our project on, and I'm not really all that interested in wildlife. But I'm starting to get into it. I've pretty well finished the introductory stage.",
+          "start": 45.76,
+          "end": 58.92
+        },
+        {
+          "s": "JESS",
+          "t": "So have I. When they gave us all those handouts with details of books and websites to look at, I was really put off, but the more I read, the more interested I got.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 59.24,
+          "end": 70.2
+        },
+        {
+          "s": "TOM",
+          "t": "Me too. I found I could research so many different aspects of birds in art — colour, movement, texture. So I was looking forward to the Bird Park visit.",
+          "start": 70.6,
+          "end": 81.22
+        },
+        {
+          "s": "JESS",
+          "t": "What a letdown! It poured with rain and we hardly saw a single bird. Much less use than the trip to the Natural History Museum.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 81.58,
+          "end": 91.3
+        },
+        {
+          "s": "TOM",
+          "t": "Yeah. I liked all the stuff about evolution there. The workshop sessions with Dr Fletcher were good too, especially the brainstorming sessions.",
+          "start": 91.38,
+          "end": 100.6
+        },
+        {
+          "s": "JESS",
+          "t": "I missed those because I was ill. I wish we could've seen the projects last year's students did.",
+          "start": 103.99,
+          "end": 107.23
+        },
+        {
+          "s": "TOM",
+          "t": "Mm. I suppose they want us to do our own thing, not copy.",
+          "start": 108.19,
+          "end": 111.19
+        },
+        {
+          "s": "JESS",
+          "t": "Have you drafted your proposal yet?",
+          "start": 111.67,
+          "end": 113.95
+        },
+        {
+          "s": "TOM",
+          "t": "Yes, but I haven't handed it in. I need to amend some parts. I've realised the notes from my research are almost all just descriptions, I haven't actually evaluated anything. So I'll have to fix that.",
+          "q": [
+            23,
+            24
+          ],
+          "start": 114.23,
+          "end": 128.52
+        },
+        {
+          "s": "JESS",
+          "t": "Oh, I didn't know we had to do that. I'll have to look at that too. Did you do a timeline for the project?",
+          "start": 128.72,
+          "end": 136.39
+        },
+        {
+          "s": "TOM",
+          "t": "Yes, and a mind map.",
+          "start": 136.67,
+          "end": 138.43
+        },
+        {
+          "s": "JESS",
+          "t": "Yeah, so did I. I quite enjoyed that. But it was hard having to explain the basis for my decisions in my action plan.",
+          "start": 138.59,
+          "end": 146.71
+        },
+        {
+          "s": "TOM",
+          "t": "What?",
+          "start": 147.31,
+          "end": 147.39
+        },
+        {
+          "s": "JESS",
+          "t": "You know, give a rationale.",
+          "start": 147.71,
+          "end": 149.31
+        },
+        {
+          "s": "TOM",
+          "t": "I didn't realise we had to do that. OK, I can add it now. And I've done the video diary presentation, and worked out what I want my outcome to be in the project.",
+          "start": 149.83,
+          "end": 161.93
+        },
+        {
+          "s": "JESS",
+          "t": "Someone told me it's best not to be too precise about your actual outcome at this stage, so you have more scope to explore your ideas later on. So I'm going to go back to my proposal to make it a bit more vague.",
+          "q": [
+            23,
+            24
+          ],
+          "start": 162.6,
+          "end": 175.68
+        },
+        {
+          "s": "TOM",
+          "t": "Really? OK, I'll change that too then.",
+          "start": 175.88,
+          "end": 178.87
+        },
+        {
+          "s": "TOM",
+          "t": "One part of the project I'm unsure about is where we choose some paintings of birds and say what they mean to us. Like, I chose a painting of a falcon by Landseer. I like it because the bird's standing there with his head turned to one side, but he seems to be staring straight at you. But I can't just say it's a bit scary, can I?",
+          "start": 226.24,
+          "end": 248.03
+        },
+        {
+          "s": "JESS",
+          "t": "You could talk about the possible danger suggested by the bird's look.",
+          "q": [
+            25
+          ],
+          "start": 249.79,
+          "end": 254.23
+        },
+        {
+          "s": "TOM",
+          "t": "Oh, OK.",
+          "start": 254.47,
+          "end": 256.23
+        },
+        {
+          "s": "JESS",
+          "t": "There's a picture of a fish hawk by Audubon I like. It's swooping over the water with a fish in its talons, and with great black wings which take up most of the picture.",
+          "start": 256.51,
+          "end": 268.5
+        },
+        {
+          "s": "TOM",
+          "t": "So you could discuss it in relation to predators and food chains?",
+          "start": 268.82,
+          "end": 272.98
+        },
+        {
+          "s": "JESS",
+          "t": "Well actually I think I'll concentrate on the impression of rapid motion it gives.",
+          "q": [
+            26
+          ],
+          "start": 273.87,
+          "end": 278.51
+        },
+        {
+          "s": "TOM",
+          "t": "Right.",
+          "start": 278.71,
+          "end": 279.03
+        },
+        {
+          "s": "JESS",
+          "t": "Do you know that picture of a kingfisher by van Gogh — it's perching on a reed growing near a stream.",
+          "start": 280.03,
+          "end": 286.25
+        },
+        {
+          "s": "TOM",
+          "t": "Yes it's got these beautiful blue and red and black shades.",
+          "start": 286.49,
+          "end": 290.61
+        },
+        {
+          "s": "JESS",
+          "t": "Mm hm. I've actually chosen it because I saw a real kingfisher once when I was little, I was out walking with my grandfather, and I've never forgotten it.",
+          "q": [
+            27
+          ],
+          "start": 290.97,
+          "end": 301.35
+        },
+        {
+          "s": "TOM",
+          "t": "So we can use a personal link?",
+          "start": 302.03,
+          "end": 304.15
+        },
+        {
+          "s": "JESS",
+          "t": "Sure.",
+          "start": 304.23,
+          "end": 304.63
+        },
+        {
+          "s": "TOM",
+          "t": "OK. There's a portrait called William Wells, I can't remember the artist but it's a middle-aged man who's just shot a bird. And his expression, and the way he's holding the bird in his hand suggests he's not sure about what he's done. To me it's about how ambiguous people are in the way they exploit the natural world.",
+          "q": [
+            28
+          ],
+          "start": 304.83,
+          "end": 328.06
+        },
+        {
+          "s": "JESS",
+          "t": "Interesting. There's Gauguin's picture Vairumati. He did it in Tahiti. It's a woman with a white bird behind her that is eating a lizard, and what I'm interested in is what idea this bird refers to. Apparently, it's a reference to the never-ending cycle of existence.",
+          "q": [
+            29
+          ],
+          "start": 328.42,
+          "end": 348.71
+        },
+        {
+          "s": "TOM",
+          "t": "Wow. I chose a portrait of a little boy, Giovanni de Medici. He's holding a tiny bird in one fist. I like the way he's holding it carefully so he doesn't hurt it.",
+          "q": [
+            30
+          ],
+          "start": 349.27,
+          "end": 362.11
+        },
+        {
+          "s": "JESS",
+          "t": "Ah right.",
+          "start": 363.07,
+          "end": 363.31
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c16/t1p4.mp3",
+      "duration": 476,
+      "title": "Stoicism",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Stoicism",
+          "lines": [
+            "Stoicism is still relevant today because of its {{31}} appeal.",
+            "## Ancient Stoics",
+            "Stoicism was founded over 2,000 years ago in Greece.",
+            "The Stoics' ideas are surprisingly well known, despite not being intended for {{32}}.",
+            "## Stoic principles",
+            "Happiness could be achieved by leading a virtuous life.",
+            "Controlling emotions was essential.",
+            "Epictetus said that external events cannot be controlled but the {{33}} people make in response can be controlled.",
+            "A Stoic is someone who has a different view on experiences which others would consider as {{34}}.",
+            "## The influence of Stoicism",
+            "George Washington organised a {{35}} about Cato to motivate his men.",
+            "The French artist Delacroix was a Stoic.",
+            "Adam Smith's ideas on {{36}} were influenced by Stoicism.",
+            "Some of today's political leaders are inspired by the Stoics.",
+            "Cognitive Behaviour Therapy (CBT)",
+            "the treatment for {{37}} is based on ideas from Stoicism",
+            "people learn to base their thinking on {{38}}.",
+            "In business, people benefit from Stoicism by identifying obstacles as {{39}}.",
+            "## Relevance of Stoicism",
+            "It requires a lot of {{40}} but Stoicism can help people to lead a good life.",
+            "It teaches people that having a strong character is more important than anything else."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Ancient philosophy is not just about talking or lecturing, or even reading long, dense books. In fact, it is something people have used throughout history — to solve their problems and to achieve their greatest triumphs.",
+          "start": 73.95,
+          "end": 91.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Specifically, I am referring to Stoicism, which, in my opinion, is the most practical of all philosophies and therefore the most appealing. Stoicism was founded in Ancient Greece by Zeno of Citium in the early 3rd century BC, but was practised by the likes of Epictetus, Cato, Seneca and Marcus Aurelius.",
+          "q": [
+            31
+          ],
+          "start": 92.34,
+          "end": 117.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Amazingly, we still have access to these ideas, despite the fact that the most famous Stoics never wrote anything down for publication. Cato definitely didn't. Marcus Aurelius never intended his Meditations to be anything but personal. Seneca's letters were, well, letters and Epictetus' thoughts come to us by way of a note-taking student.",
+          "q": [
+            32
+          ],
+          "start": 117.92,
+          "end": 144.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Stoic principles were based on the idea that its followers could have an unshakable happiness in this life and the key to achieving this was virtue. The road to virtue, in turn, lay in understanding that destructive emotions, like anger and jealousy, are under our conscious control — they don't have to control us, because we can learn to control them.",
+          "start": 144.9,
+          "end": 174.33
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the words of Epictetus: \"external events I cannot control, but the choices I make with regard to them, I do control\".",
+          "q": [
+            33
+          ],
+          "start": 175.58,
+          "end": 184.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The modern day philosopher and writer Nassim Nicholas Taleb defines a Stoic as someone who has a different perspective on experiences which most of us would see as wholly negative; a Stoic \"transforms fear into caution, pain into transformation, mistakes into initiation and desire into undertaking\". Using this definition as a model, we can see that throughout the centuries Stoicism has been practised in more recent history by kings, presidents, artists, writers and entrepreneurs.",
+          "q": [
+            34
+          ],
+          "start": 185.96,
+          "end": 228.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The founding fathers of the United States were inspired by the philosophy. George Washington was introduced to Stoicism by his neighbours at age seventeen, and later, put on a play based on the life of Cato to inspire his men. Thomas Jefferson kept a copy of Seneca beside his bed.",
+          "q": [
+            35
+          ],
+          "start": 234.15,
+          "end": 254.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Writers and artists have also been inspired by the stoics. Eugène Delacroix, the renowned French Romantic artist (known best for his painting Liberty Leading the People) was an ardent Stoic, referring to it as his \"consoling religion\".",
+          "start": 255.45,
+          "end": 273.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The economist Adam Smith's theories on capitalism were significantly influenced by the Stoicism that he studied as a schoolboy, under a teacher who had translated Marcus Aurelius' works.",
+          "q": [
+            36
+          ],
+          "start": 274.99,
+          "end": 288.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Today's political leaders are no different, with many finding their inspiration from the ancient texts. Former US president Bill Clinton rereads Marcus Aurelius every single year, and many have compared former President Obama's calm leadership style to that of Cato. Wen Jiabao, the former prime minister of China, claims that Meditations is one of two books he travels with and that he has read it more than one hundred times over the course of his life.",
+          "start": 289.74,
+          "end": 323.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Stoicism had a profound influence on Albert Ellis, who invented Cognitive Behaviour Therapy, which is used to help people manage their problems by changing the way that they think and behave. It's most commonly used to treat depression.",
+          "q": [
+            37
+          ],
+          "start": 324.08,
+          "end": 340.52
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The idea is that we can take control of our lives by challenging the irrational beliefs that create our faulty thinking, symptoms and behaviours by using logic instead.",
+          "q": [
+            38
+          ],
+          "start": 341.72,
+          "end": 353.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Stoicism has also become popular in the world of business. Stoic principles can build the resilience and state of mind required to overcome setbacks because Stoics teach turning obstacles into opportunity. A lesson every business entrepreneur needs to learn.",
+          "q": [
+            39
+          ],
+          "start": 353.67,
+          "end": 373.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I would argue that studying Stoicism is as relevant today as it was 2,000 years ago, thanks to its brilliant insights into how to lead a good life. At the very root of the thinking, there is a very simple way of living — control what you can and accept what you can't. This is not as easy as it sounds and will require considerable practice — it can take a lifetime to master.",
+          "q": [
+            40
+          ],
+          "start": 375.01,
+          "end": 405.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Stoics also believed the most important foundation for a good and happy life is not money, fame, power or pleasure, but having a disciplined and principled character — something which seems to resonate with many people today.",
+          "start": 406.29,
+          "end": 424.93
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "egg"
+    ],
+    "2": [
+      "tower"
+    ],
+    "3": [
+      "car"
+    ],
+    "4": [
+      "animals"
+    ],
+    "5": [
+      "bridge"
+    ],
+    "6": [
+      "movie",
+      "film"
+    ],
+    "7": [
+      "decorate"
+    ],
+    "8": [
+      "Wednesdays"
+    ],
+    "9": [
+      "Fradstone"
+    ],
+    "10": [
+      "parking"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "B"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "H"
+    ],
+    "16": [
+      "C"
+    ],
+    "17": [
+      "G"
+    ],
+    "18": [
+      "B"
+    ],
+    "19": [
+      "I"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "C",
+      "E"
+    ],
+    "22": [
+      "C",
+      "E"
+    ],
+    "23": [
+      "B",
+      "E"
+    ],
+    "24": [
+      "B",
+      "E"
+    ],
+    "25": [
+      "D"
+    ],
+    "26": [
+      "C"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "H"
+    ],
+    "29": [
+      "F"
+    ],
+    "30": [
+      "G"
+    ],
+    "31": [
+      "practical"
+    ],
+    "32": [
+      "publication"
+    ],
+    "33": [
+      "choices"
+    ],
+    "34": [
+      "negative"
+    ],
+    "35": [
+      "play"
+    ],
+    "36": [
+      "capitalism"
+    ],
+    "37": [
+      "depression"
+    ],
+    "38": [
+      "logic"
+    ],
+    "39": [
+      "opportunity"
+    ],
+    "40": [
+      "practice",
+      "practise"
+    ]
+  }
+}
