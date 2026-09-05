@@ -1,0 +1,795 @@
+{
+  "id": "c19t4",
+  "book": "剑桥雅思19",
+  "test": 4,
+  "title": "剑19 Test 4 · Reading",
+  "minutes": 60,
+  "passages": [
+    {
+      "n": 1,
+      "title": "The impact of climate change on butterflies in Britain",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "According to conservationists, populations of around two thirds of butterfly species have declined in Britain over the past 40 years. If this trend continues, it might have unpredictable knock-on effects for other species in the ecosystem. Butterfly eggs develop into caterpillars and these insects, which are the second stage in a new butterfly's lifecycle, consume vast quantities of plant material, and in turn act as prey for birds as well as bats and other small mammals. Only by arming themselves with an understanding of why butterfly numbers are down can conservationists hope to halt or reverse the decline."
+        },
+        {
+          "id": "p2",
+          "text": "Butterflies prefer outdoor conditions to be 'just right', which means neither too hot nor too cold. Under the conditions of climate change, the temperature at any given time in summer is generally getting warmer, leaving butterflies with the challenge of how to deal with this. One of the main ways in which species are ensuring conditions suit them is by changing the time of year at which they are active and reproduce. Scientists refer to the timing of such lifecycle events as 'phenology', so when an animal or plant starts to do something earlier in the year than it usually does, it is said to be 'advancing its phenology'."
+        },
+        {
+          "id": "p3",
+          "text": "These advances have been observed already in a wide range of butterflies — indeed, most species are advancing their phenology to some extent. In Britain, as the average spring temperature has increased by roughly 0.5°C over the past 20 years, species have advanced by between three days and a week on average, to keep in line with cooler temperatures. Is this a sign that butterflies are well equipped to cope with climate change, and readily adjust to new temperatures? Or are these populations under stress, being dragged along unwillingly by unnaturally fast changes? The answer is still unknown, but a new study is seeking to answer these questions."
+        },
+        {
+          "id": "p4",
+          "text": "First, the researchers pulled together data from millions of records that had been submitted by butterfly enthusiasts — people who spend their free time observing the activities of different species. This provided information on 130 species of butterflies in Great Britain every year for a 20-year period. They then estimated the abundance and distribution of each species across this time, along with how far north in the country they had moved. The data also, crucially, allowed researchers to estimate subtle changes in what time of the year each species was changing into an adult butterfly."
+        },
+        {
+          "id": "p5",
+          "text": "Analysing the trends in each variable, the researchers discovered that species with more flexible lifecycles were more likely to be able to benefit from an earlier emergence driven by climate change. Some species are able to go from caterpillar to butterfly twice or more per year, so that the individual butterflies you see flying in the spring are the grandchildren or great-grandchildren of the individuals seen a year previously. Among these species, researchers observed that those which have been advancing their phenology the most over the 20-year study period also had the most positive trends in abundance, distribution and northwards extent. For these species, such as Britain's tiniest butterfly, the dainty Small Blue, whose colonies are up to a hundred strong, some develop into butterflies early in spring, allowing their summer generations to complete another reproductive cycle by autumn so that more population growth occurs."
+        },
+        {
+          "id": "p6",
+          "text": "Other species, however, are less flexible and restricted to a single reproductive cycle per year. For these species, there was no evidence of any benefit to emerging earlier. Indeed, worryingly, it was found that the species in this group that specialise in very specific habitat types, often related to the caterpillar's preferred diet, actually tended to be most at harm from advancing phenology. The beautiful High Brown Fritillary, often described as Britain's most endangered butterfly, is in this group. It is found only in coppiced woodland and limestone pavement habitats. It is also a single-generation butterfly that has advanced its phenology. This suggests that climate change, while undoubtedly not the sole cause, might have played a part in the downfall of this species."
+        },
+        {
+          "id": "p7",
+          "text": "All is not lost, however. Many of Britain's single-generation species show the capacity, in continental Europe, to add a second generation in years that are sufficiently warm. Therefore, as the climate continues to warm, species like the Silver-studded Blue might be able to switch to multiple generations in the UK as well, and so begin to extract benefits from the additional warmth, potentially leading to population increases."
+        },
+        {
+          "id": "p8",
+          "text": "More immediately, conservationists can arm themselves with all this knowledge to spot the warning signs of species that may be at risk. The White Admiral of southern England, a much sought-after butterfly, experienced a significant increase in numbers from the 1920s but has shown a considerable decline in the past 20 years. This may be because the caterpillar exists solely on a diet of a plant called honeysuckle. But it is also likely to be due to climate change."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            6
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "Forty years ago, there were fewer butterflies in Britain than at present."
+            },
+            {
+              "n": 2,
+              "text": "Caterpillars are eaten by a number of different predators."
+            },
+            {
+              "n": 3,
+              "text": "'Phenology' is a term used to describe a creature's ability to alter the location of a lifecycle event."
+            },
+            {
+              "n": 4,
+              "text": "Some species of butterfly have a reduced lifespan due to spring temperature increases."
+            },
+            {
+              "n": 5,
+              "text": "There is a clear reason for the adaptations that butterflies are making to climate change."
+            },
+            {
+              "n": 6,
+              "text": "The data used in the study was taken from the work of amateur butterfly watchers."
+            }
+          ]
+        },
+        {
+          "range": [
+            7,
+            13
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Butterflies in the UK",
+          "lines": [
+            "## The Small Blue",
+            "lives in large {{7}}",
+            "first appears at the start of {{8}}",
+            "completes more than one reproductive cycle per year",
+            "## The High Brown Fritillary",
+            "has one reproductive cycle",
+            "is considered to be more {{9}} than other species",
+            "its caterpillars occupy a limited range of {{10}}",
+            "## The Silver-studded Blue",
+            "is already able to reproduce twice a year in warm areas of {{11}}",
+            "## The White Admiral",
+            "is found in {{12}} areas of England",
+            "both climate change and the {{13}} of the caterpillar are possible reasons for decline"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Deep-sea mining",
+      "subtitle": "Bacteria from the ocean floor can beat superbugs and cancer. But habitats are at risk from the hunger for marine minerals",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "When Professor Mat Upton found that a microbe from a deep-sea sponge was killing pathogenic bugs in his laboratory, he realised it could be a breakthrough in the fight against antibiotic-resistant superbugs, which are responsible for thousands of deaths a year in the UK alone. Further tests confirmed that an antibiotic from the sponge bacteria, found living more than 700 metres under the sea at the Rockall trough in the north-east Atlantic, was previously unknown to science, boosting its potential as a life-saving medicine. But Upton, and other scientists who view the deep ocean and its wealth of unique and undocumented species as a prospecting ground for new medicines, fear such potential will be lost in the rush to exploit the deep sea's equally rich metal and mineral resources."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "'We're looking at the bioactive potential of marine resources, to see if there are any more medicines or drugs down there before we destroy it for ever,' says Upton, a medical microbiologist at the University of Plymouth. He is among many scientists urging a halt to deep-sea mining, asking for time to weigh up the pros and cons. 'In sustainability terms, this could be a better way of exploiting the economic potential of the deep sea,' he argues. Oceanographers using remotely operated vehicles have spotted many new species. Among them have been sea cucumbers with tails allowing them to sail along the ocean floor, and a rare 'Dumbo' octopus, found 3,000 metres under the Pacific Ocean, off the coast of California. Any one of these could offer lifesaving potential. Upton estimates it could take up to a decade for a newly discovered antibiotic to become a medicine — but the race towards commercial mining in the ocean abyss has already begun."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "The deep sea contains more nickel, cobalt and rare earth metals than all land reserves combined, according to the US Geological Survey. Mining corporations argue that deep-sea exploration could help diversify the supply of metals and point to the fact that demand for resources such as copper, aluminium, cobalt for electric car batteries and other metals to power technology and smartphones, is soaring. They say that deep-sea mining could yield far superior ore to land mining with little, if any, waste. Different methods of extraction exist, but most involve employing some form of converted machinery previously used in terrestrial mining to excavate materials from the sea floor, at depths of up to 6,000 metres, then drawing a seawater slurry, containing rock and other solid particles, from the sea floor to ships on the surface. The slurry is then 'de-watered' and transferred to another vessel for shipping. Extracted seawater is pumped back down and discharged close to the sea floor."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "But environmental and legal groups have urged caution, arguing there are potentially massive and unknown ramifications for the environment and for nearby communities, and that the global regulatory framework is not yet drafted. 'Despite arising in the last half century, the \"new global gold rush\" of deep-sea mining shares many features with past resource scrambles — including a general disregard for environmental and social impacts, and the marginalisation of indigenous peoples and their rights,' a paper, written by Julie Hunter and Julian Aguon, from Blue Ocean Law, and Pradeep Singh, from the Center for Marine Environmental Sciences, Bremen, argues. The authors say that knowledge of the deep seabed remains extremely limited. 'The surface of the Moon, Mars and even Venus have all been mapped and studied in much greater detail, leading marine scientists to commonly remark that, with respect to the deep sea, \"We don't yet know what we need to know\".'"
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Scientific research — including a recent paper in Marine Policy journal — has suggested the deep seabed, and hydrothermal vents, which are created when seawater meets volcanic magma, have crucial impacts upon biodiversity and the global climate. The mineral-rich vents and their surrounds are also home to many well-known animals including crustaceans, tubeworms, clams, slugs, anemones and fish. 'It is becoming increasingly clear that deep-sea mining poses a grave threat to these vital seabed functions,' the paper says. 'Extraction methods would produce large sediment plumes and involve the discharge of waste back into the ocean, significantly disturbing seafloor environments,' the paper continues. 'On deep sea vents, scientists are clear,' says Dr Jon Copley of the National Oceanography Centre, Southampton: 'we don't want mining on them.'"
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "The oceans occupy around 70% of the planet and are relatively unexplored, says Mike Johnston, chief executive of Nautilus, a Canadian underwater exploration company: 'It makes sense to explore this untapped potential in an environmentally sustainable way, instead of continually looking at the fast depleting land resources of the planet to meet society's rising needs.' Those leading the global rush to place giant mining machines thousands of metres below the sea surface say the environmental impacts will be far lower than on land. But critics say exotic and little-known ecosystems in the deep oceans could be destroyed and must be protected. 'Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans,' according to hydrothermal vent expert Verena Tunnicliffe, at the University of Victoria in Canada. She argues that active vents must be off-limits for mining to protect the new knowledge and biotechnology spin-offs they can deliver, and that strict controls must be in place elsewhere."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            17
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F. Which paragraph contains the following information?",
+          "limit": "Write the correct letter, A-F, in boxes 14-17 on your answer sheet.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "reference to the rapidly increasing need for one raw material in the transport industry"
+            },
+            {
+              "n": 15,
+              "text": "a rough estimate of the area of the Earth covered by the oceans"
+            },
+            {
+              "n": 16,
+              "text": "how a particular underwater habitat, where minerals and organisms co-exist, is formed"
+            },
+            {
+              "n": 17,
+              "text": "reference to the fact that the countries of the world have yet to agree on rules for the exploration of the seabed"
+            }
+          ]
+        },
+        {
+          "range": [
+            18,
+            23
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following statements (Questions 18-23) and the list of people below. Match each statement with the correct person or people, A-E.",
+          "limit": "NB You may use any letter more than once.",
+          "optionsTitle": "List of People",
+          "options": [
+            {
+              "k": "A",
+              "text": "Professor Mat Upton"
+            },
+            {
+              "k": "B",
+              "text": "Julie Hunter, Julian Aguon and Pradeep Singh"
+            },
+            {
+              "k": "C",
+              "text": "Dr Jon Copley"
+            },
+            {
+              "k": "D",
+              "text": "Mike Johnston"
+            },
+            {
+              "k": "E",
+              "text": "Verena Tunnicliffe"
+            }
+          ],
+          "questions": [
+            {
+              "n": 18,
+              "text": "A move away from the exploration of heavily mined reserves on land is a good idea."
+            },
+            {
+              "n": 19,
+              "text": "The negative effects of undersea exploration on local areas and their inhabitants are being ignored."
+            },
+            {
+              "n": 20,
+              "text": "There are more worthwhile things to extract from the sea than minerals."
+            },
+            {
+              "n": 21,
+              "text": "No other form of human exploration will have such a destructive impact on marine life as deep-sea mining."
+            },
+            {
+              "n": 22,
+              "text": "More is known about outer space than about what lies beneath the oceans."
+            },
+            {
+              "n": 23,
+              "text": "There is one marine life habitat where experts agree mining should not take place."
+            }
+          ]
+        },
+        {
+          "range": [
+            24,
+            26
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Mining the sea floor",
+          "text": "Mining corporations believe that the mineral resources lying under the sea may be superior to those found in the earth. They also say that these can be removed without producing much {{24}}.\n\nThe extraction is often done by adapting the {{25}} that has already been used to work on land. The method of excavation involves removing the seawater from the slurry that is brought up to ships and returning it to the seabed.\n\nHowever, concerned groups strongly believe that {{26}} is necessary due to the possible number of unidentified consequences."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "The Unselfish Gene",
+      "subtitle": "A psychologist gives his view on how humans became self-centred",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "There has long been a general assumption that human beings are essentially selfish. We're apparently ruthless, with strong impulses to compete against each other for resources and to accumulate power and possessions. If we are kind to one another, it's usually because we have ulterior motives. If we are good, it's only because we have managed to control and transcend our innate selfishness and brutality."
+        },
+        {
+          "id": "p2",
+          "text": "This bleak view of human nature is closely associated with the science writer Richard Dawkins, whose 1976 book The Selfish Gene became popular because it fitted so well with — and helped to justify — the competitive and individualistic ethos that was so prevalent in late 20th-century societies. Like many others, Dawkins justifies his views with reference to the field of evolutionary psychology. Evolutionary psychology theorises that present-day human traits developed in prehistoric times, during what is termed the 'environment of evolutionary adaptedness'."
+        },
+        {
+          "id": "p3",
+          "text": "Prehistory is usually seen as a period of intense competition, when life was such a brutal battle that only those with traits such as selfishness, aggression and ruthlessness survived. And because survival depended on access to resources — such as rivers, forests and animals — there was bound to be conflict between rival groups, which led to the development of traits such as racism and warfare. This seems logical. But, in fact, the assumption on which this all rests — that prehistoric life was a desperate struggle for survival — is false."
+        },
+        {
+          "id": "p4",
+          "text": "It's important to remember that in the prehistoric era, the world was very sparsely populated. According to some estimates, around 15,000 years ago, the population of Europe was only 29,000, and the population of the whole world was less than half a million. Humans at that time were hunter-gatherers: people who lived by hunting wild animals and collecting wild plants. With such small population densities, it seems unlikely that prehistoric hunter-gatherer groups had to compete against each other for resources or had any need to develop ruthlessness and competitiveness, or to go to war."
+        },
+        {
+          "id": "p5",
+          "text": "There is significant evidence to back this notion from contemporary hunter-gatherer groups, who live in the same way as prehistoric humans did. As the anthropologist Bruce Knauft has remarked, hunter-gatherers are characterised by 'extreme political and sexual egalitarianism'. Knauft has observed that individuals in such groups don't accumulate property or possessions and have an ethical obligation to share everything. They also have methods of preserving egalitarianism by ensuring that disparities of status don't arise."
+        },
+        {
+          "id": "p6",
+          "text": "The !Kung people of southern Africa, for example, swap arrows before going hunting and when an animal is killed, the acclaim does not go to the person who fired the arrow, but to the person the arrow belongs to. And if a person becomes too domineering, the other members of the group ostracise them, exiling the offender from society. Typically in such groups, men do not dictate what women do. Women in hunter-gatherer groups worldwide often benefit from a high level of autonomy, being able to select their own marriage partners, decide what work they do and work whenever they choose to. And if a marriage breaks down, they have custody rights over their children."
+        },
+        {
+          "id": "p7",
+          "text": "Many anthropologists believe that societies such as the !Kung were normal until a few thousand years ago, when population growth led to the development of agriculture and a settled lifestyle. In view of the above, there seems little reason to assume that traits such as racism, warfare and male domination should have been selected by evolution — as they would have been of little benefit in the prehistoric era. Individuals who behaved selfishly and ruthlessly would be less likely to survive, since they would have been ostracised from their groups."
+        },
+        {
+          "id": "p8",
+          "text": "It makes more sense, then, to see traits such as cooperation, egalitarianism, altruism and peacefulness as innate characteristics of human beings. These were the traits that were prevalent in human life for tens of thousands of years. So presumably these traits are still strong in us now."
+        },
+        {
+          "id": "p9",
+          "text": "But if prehistoric life wasn't really as brutal as has often been assumed, why do modern humans behave so selfishly and ruthlessly? Perhaps these negative traits should be seen as a later development, the result of environmental and psychological factors. Research has shown repeatedly that when the natural habitats of primates such as apes and gorillas are disrupted, they tend to become more violent and hierarchical."
+        },
+        {
+          "id": "p10",
+          "text": "So, it could well be that the same thing has happened to us. I believe that the end of the hunter-gatherer lifestyle and the advent of farming was connected to a psychological change that occurred in some groups of people. There was a new sense of individuality and separateness, which led to a new selfishness, and ultimately to hierarchical societies, patriarchy and warfare. At any rate, these negative traits appear to have developed so recently that it doesn't seem feasible to explain them in adaptive or evolutionary terms."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 27,
+              "text": "What is the writer doing in the first paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "setting out two opposing views about human nature"
+                },
+                {
+                  "k": "B",
+                  "text": "justifying his opinion about our tendency to be greedy"
+                },
+                {
+                  "k": "C",
+                  "text": "describing a commonly held belief about people's behaviour"
+                },
+                {
+                  "k": "D",
+                  "text": "explaining why he thinks that humans act in a selfish manner"
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "What point is made about Richard Dawkins' book The Selfish Gene?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Its appeal lay in the radical nature of its ideas."
+                },
+                {
+                  "k": "B",
+                  "text": "Its success was due to the scientific support it offered."
+                },
+                {
+                  "k": "C",
+                  "text": "It presented a view that was in line with the attitudes of its time."
+                },
+                {
+                  "k": "D",
+                  "text": "It took an innovative approach to the analysis of human psychology."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "What does the writer suggest about the prehistoric era in the fourth paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Societies were more complex than many people believe."
+                },
+                {
+                  "k": "B",
+                  "text": "Supplies of natural resources were probably relatively plentiful."
+                },
+                {
+                  "k": "C",
+                  "text": "Most estimates about population sizes are likely to be inaccurate."
+                },
+                {
+                  "k": "D",
+                  "text": "Humans moved across continents more than was previously thought."
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "The writer refers to Bruce Knauft's work as support for the idea that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "selfishness is a relatively recent development in human societies."
+                },
+                {
+                  "k": "B",
+                  "text": "only people in isolated communities can live in an unselfish manner."
+                },
+                {
+                  "k": "C",
+                  "text": "very few lifestyles have survived unchanged since prehistoric times."
+                },
+                {
+                  "k": "D",
+                  "text": "hunter-gatherer cultures worldwide are declining in number."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            31,
+            35
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Contemporary hunter-gatherer societies",
+          "text": "Bruce Knauft's research shows that contemporary hunter-gatherer societies tend to exhibit a high level of {{31}} in all areas of life. In these cultures, distributing resources fairly among all members is a moral obligation. These societies also employ strategies to prevent differences in {{32}} occurring: for example, the !Kung follow a custom whereby the credit for one person's success at {{33}} is given to another member of the group. Individuals who behave in a {{34}} manner are punished by being excluded from the group, and women have a considerable amount of {{35}} in choices regarding work and marriage."
+        },
+        {
+          "range": [
+            36,
+            40
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the views of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the views of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 36,
+              "text": "Some anthropologists are mistaken about the point when the number of societies such as the !Kung began to decline."
+            },
+            {
+              "n": 37,
+              "text": "Humans who developed warlike traits in prehistory would have had an advantage over those who did not."
+            },
+            {
+              "n": 38,
+              "text": "Being peaceful and cooperative is a natural way for people to behave."
+            },
+            {
+              "n": 39,
+              "text": "Negative traits are more apparent in some modern cultures than in others."
+            },
+            {
+              "n": 40,
+              "text": "Animal research has failed to reveal a link between changes in the environment and the emergence of aggressive tendencies."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "FALSE"
+    ],
+    "2": [
+      "TRUE"
+    ],
+    "3": [
+      "FALSE"
+    ],
+    "4": [
+      "NOT GIVEN"
+    ],
+    "5": [
+      "FALSE"
+    ],
+    "6": [
+      "TRUE"
+    ],
+    "7": [
+      "colonies"
+    ],
+    "8": [
+      "spring"
+    ],
+    "9": [
+      "endangered"
+    ],
+    "10": [
+      "habitat",
+      "habitats"
+    ],
+    "11": [
+      "Europe"
+    ],
+    "12": [
+      "southern"
+    ],
+    "13": [
+      "diet"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "F"
+    ],
+    "16": [
+      "E"
+    ],
+    "17": [
+      "D"
+    ],
+    "18": [
+      "D"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "E"
+    ],
+    "22": [
+      "B"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "waste"
+    ],
+    "25": [
+      "machinery"
+    ],
+    "26": [
+      "caution"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "A"
+    ],
+    "31": [
+      "egalitarianism"
+    ],
+    "32": [
+      "status"
+    ],
+    "33": [
+      "hunting"
+    ],
+    "34": [
+      "domineering"
+    ],
+    "35": [
+      "autonomy"
+    ],
+    "36": [
+      "NOT GIVEN"
+    ],
+    "37": [
+      "NO"
+    ],
+    "38": [
+      "YES"
+    ],
+    "39": [
+      "NOT GIVEN"
+    ],
+    "40": [
+      "NO"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "key": "populations of around two thirds of butterfly species have declined in Britain over the past 40 years",
+      "why": "题干说40年前蝴蝶数量比现在少，但原文是数量在过去40年里下降，即40年前更多，与题干相反 → FALSE。"
+    },
+    "2": {
+      "loc": "p1",
+      "key": "act as prey for birds as well as bats and other small mammals",
+      "why": "毛毛虫被鸟类、蝙蝠及其他小型哺乳动物捕食，说明确有多种天敌 → TRUE。"
+    },
+    "3": {
+      "loc": "p2",
+      "key": "Scientists refer to the timing of such lifecycle events as 'phenology'",
+      "why": "phenology 指的是生命周期事件发生的时间（timing），而非地点（location）的改变 → FALSE。"
+    },
+    "4": {
+      "loc": "p3",
+      "key": "species have advanced by between three days and a week on average",
+      "why": "原文只提到物候提前的天数，没有提到寿命因此缩短 → NOT GIVEN。"
+    },
+    "5": {
+      "loc": "p3",
+      "key": "The answer is still unknown, but a new study is seeking to answer these questions",
+      "why": "原文明确说明原因尚不清楚（still unknown），与题干“有明确原因”相反 → FALSE。"
+    },
+    "6": {
+      "loc": "p4",
+      "key": "data from millions of records that had been submitted by butterfly enthusiasts",
+      "why": "butterfly enthusiasts（业余爱好者）提交的记录即titled的 amateur butterfly watchers 的工作成果 → TRUE。"
+    },
+    "7": {
+      "loc": "p5",
+      "key": "the dainty Small Blue, whose colonies are up to a hundred strong",
+      "why": "原文提到 Small Blue 的 colonies（群落）规模可达上百只，对应 “lives in large colonies”。"
+    },
+    "8": {
+      "loc": "p5",
+      "key": "some develop into butterflies early in spring",
+      "why": "Small Blue 在春季（spring）早期就羽化，对应 “first appears at the start of spring”。"
+    },
+    "9": {
+      "loc": "p6",
+      "key": "often described as Britain's most endangered butterfly",
+      "why": "High Brown Fritillary 被称为英国最濒危（endangered）的蝴蝶，对应 “more endangered than other species”。"
+    },
+    "10": {
+      "loc": "p6",
+      "key": "specialise in very specific habitat types",
+      "why": "该物种的毛毛虫依赖非常特定的栖息地类型（habitat types），对应 “a limited range of habitats”。"
+    },
+    "11": {
+      "loc": "p7",
+      "key": "Many of Britain's single-generation species show the capacity, in continental Europe, to add a second generation",
+      "why": "在欧洲大陆（Europe）温暖地区已能一年两代，对应 Silver-studded Blue 的情况。"
+    },
+    "12": {
+      "loc": "p8",
+      "key": "The White Admiral of southern England",
+      "why": "White Admiral 分布在英格兰南部（southern）地区。"
+    },
+    "13": {
+      "loc": "p8",
+      "key": "the caterpillar exists solely on a diet of a plant called honeysuckle",
+      "why": "毛毛虫的食物（diet）只有忍冬一种植物，这也是其数量下降的可能原因之一。"
+    },
+    "14": {
+      "loc": "C",
+      "key": "demand for resources such as copper, aluminium, cobalt for electric car batteries",
+      "why": "C 段提到电动汽车电池对钴等原材料需求快速增长，属于交通行业（transport industry）对原材料的需求。"
+    },
+    "15": {
+      "loc": "F",
+      "key": "The oceans occupy around 70% of the planet",
+      "why": "F 段给出海洋占地球表面约70%的粗略估计（rough estimate of the area）。"
+    },
+    "16": {
+      "loc": "E",
+      "key": "hydrothermal vents, which are created when seawater meets volcanic magma",
+      "why": "E 段说明热液喷口（一种矿物与生物共存的栖息地）是海水遇到岩浆形成的。"
+    },
+    "17": {
+      "loc": "D",
+      "key": "the global regulatory framework is not yet drafted",
+      "why": "D 段指出全球监管框架尚未起草，即各国尚未就深海勘探规则达成一致。"
+    },
+    "18": {
+      "loc": "F",
+      "key": "instead of continually looking at the fast depleting land resources",
+      "why": "Mike Johnston 认为应该探索海洋而不是持续消耗陆地资源，即支持摆脱对陆地矿藏的依赖。"
+    },
+    "19": {
+      "loc": "D",
+      "key": "a general disregard for environmental and social impacts, and the marginalisation of indigenous peoples",
+      "why": "Hunter、Aguon 和 Singh 的论文指出深海采矿忽视环境和社会影响，边缘化原住民权益，即当地社区受到的负面影响被忽视。"
+    },
+    "20": {
+      "loc": "A",
+      "key": "fear such potential will be lost in the rush to exploit the deep sea's equally rich metal and mineral resources",
+      "why": "Upton 担心深海丰富的医药潜力（新药）会因矿产开采而丧失，认为医药价值比矿产更值得开发。"
+    },
+    "21": {
+      "loc": "F",
+      "key": "Mining will be the greatest assault on deep-sea ecosystems ever inflicted by humans",
+      "why": "Tunnicliffe 认为深海采矿将是人类对海洋生态系统造成的最大破坏，超过其他任何形式的人类探索。"
+    },
+    "22": {
+      "loc": "D",
+      "key": "The surface of the Moon, Mars and even Venus have all been mapped and studied in much greater detail",
+      "why": "Hunter 等人指出月球、火星甚至金星表面都比深海研究得更详细，即我们对太空的了解多于深海。"
+    },
+    "23": {
+      "loc": "E",
+      "key": "we don't want mining on them",
+      "why": "Dr Jon Copley 明确表示热液喷口这一栖息地不应该被开采，是专家一致认为不能采矿的地方。"
+    },
+    "24": {
+      "loc": "C",
+      "key": "could yield far superior ore to land mining with little, if any, waste",
+      "why": "原文提到深海采矿产生的废料（waste）很少，对应空格“without producing much waste”。"
+    },
+    "25": {
+      "loc": "C",
+      "key": "employing some form of converted machinery previously used in terrestrial mining",
+      "why": "开采使用的是改装自陆地采矿的机械设备（machinery），对应空格。"
+    },
+    "26": {
+      "loc": "D",
+      "key": "environmental and legal groups have urged caution",
+      "why": "环保和法律团体呼吁保持谨慎（caution），因为存在未知的环境后果。"
+    },
+    "27": {
+      "loc": "p1",
+      "key": "There has long been a general assumption that human beings are essentially selfish",
+      "why": "第一段在描述一种普遍存在的看法（人性本质上是自私的），即 describing a commonly held belief。"
+    },
+    "28": {
+      "loc": "p2",
+      "key": "it fitted so well with — and helped to justify — the competitive and individualistic ethos that was so prevalent in late 20th-century societies",
+      "why": "该书受欢迎是因为它契合了20世纪末盛行的竞争与个人主义思潮，即观点与当时社会态度一致。"
+    },
+    "29": {
+      "loc": "p4",
+      "key": "the world was very sparsely populated",
+      "why": "人口稀少意味着资源相对充裕，人们不必为资源激烈竞争，对应“资源相对充足”。"
+    },
+    "30": {
+      "loc": "p7",
+      "key": "Individuals who behaved selfishly and ruthlessly would be less likely to survive",
+      "why": "Knauft 对当代狩猎采集社会的研究支持了“自私是后来才出现的特征”这一观点。"
+    },
+    "31": {
+      "loc": "p5",
+      "key": "hunter-gatherers are characterised by 'extreme political and sexual egalitarianism'",
+      "why": "原文直接给出 egalitarianism（平等主义）一词，对应空格31。"
+    },
+    "32": {
+      "loc": "p5",
+      "key": "methods of preserving egalitarianism by ensuring that disparities of status don't arise",
+      "why": "这些社会通过防止地位（status）差异出现来维持平等。"
+    },
+    "33": {
+      "loc": "p6",
+      "key": "swap arrows before going hunting and when an animal is killed, the acclaim does not go to the person who fired the arrow, but to the person the arrow belongs to",
+      "why": "狩猎（hunting）成功的荣誉归于箭的主人而非猎手本人，体现避免地位差异的习俗。"
+    },
+    "34": {
+      "loc": "p6",
+      "key": "if a person becomes too domineering, the other members of the group ostracise them",
+      "why": "表现得过于专横（domineering）的人会被群体排斥，对应空格34。"
+    },
+    "35": {
+      "loc": "p6",
+      "key": "Women in hunter-gatherer groups worldwide often benefit from a high level of autonomy",
+      "why": "女性在工作和婚姻选择上享有高度自主权（autonomy），对应空格35。"
+    },
+    "36": {
+      "loc": "p7",
+      "key": "Many anthropologists believe that societies such as the !Kung were normal until a few thousand years ago",
+      "why": "原文只说人类学家相信这类社会曾是常态，并未提及有人类学家在“开始衰落的时间点”上出错 → NOT GIVEN。"
+    },
+    "37": {
+      "loc": "p7",
+      "key": "Individuals who behaved selfishly and ruthlessly would be less likely to survive, since they would have been ostracised from their groups",
+      "why": "作者认为好战、自私的人更可能被排斥、生存率更低，并非更具优势 → NO。"
+    },
+    "38": {
+      "loc": "p8",
+      "key": "It makes more sense, then, to see traits such as cooperation, egalitarianism, altruism and peacefulness as innate characteristics of human beings",
+      "why": "作者认为合作与和平是人类天生的特质，与题干一致 → YES。"
+    },
+    "39": {
+      "loc": "p9",
+      "key": "why do modern humans behave so selfishly and ruthlessly? Perhaps these negative traits should be seen as a later development",
+      "why": "作者只泛泛讨论现代人为何变得自私，没有比较不同现代文化间负面特质的差异程度 → NOT GIVEN。"
+    },
+    "40": {
+      "loc": "p9",
+      "key": "Research has shown repeatedly that when the natural habitats of primates such as apes and gorillas are disrupted, they tend to become more violent and hierarchical",
+      "why": "研究反复证明栖息地被破坏与灵长类动物变得更具攻击性之间存在联系，与题干“未能揭示联系”相反 → NO。"
+    }
+  }
+}

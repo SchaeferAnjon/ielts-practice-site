@@ -1,0 +1,1542 @@
+{
+  "id": "c19t4",
+  "book": "剑桥雅思19",
+  "test": 4,
+  "title": "剑19 Test 4 · Listening",
+  "source": "Cambridge IELTS 19 Academic, Test 4（OCR 文字层 + 人工校对，答案已对照答案页图片核验）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c19/t4p1.mp3",
+      "duration": 405,
+      "title": "First day at work",
+      "groups": [
+        {
+          "range": [
+            1,
+            6
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "First day at work",
+          "lines": [
+            "Name of supervisor: {{1}}",
+            "Where to leave coat and bag: use {{2}} in staffroom",
+            "See Tiffany in HR: to give {{3}} number",
+            "to collect {{4}}",
+            "Location of HR office: on {{5}} floor",
+            "Supervisor's mobile number: {{6}}"
+          ]
+        },
+        {
+          "range": [
+            7,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Responsibilities",
+          "table": {
+            "head": [
+              "",
+              "Task 1",
+              "Task 2",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "Bakery section",
+                "Check sell-by dates",
+                "Change price labels",
+                "Use {{7}} labels"
+              ],
+              [
+                "Sushi takeaway counter",
+                "Re-stock with {{8}} boxes if needed",
+                "Wipe preparation area and clean the sink",
+                "Do not clean any knives"
+              ],
+              [
+                "Meat and fish counters",
+                "Clean the serving area, including the weighing scales",
+                "Collect {{9}} for the fish from the cold-room",
+                "Must wear special {{10}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "KAEDEN",
+          "t": "Hello Charlotte. I'm Kaeden, one of the supervisors. Welcome to the team.",
+          "start": 93.78,
+          "end": 98.42
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "Hi Aiden.",
+          "start": 99.06,
+          "end": 99.7
+        },
+        {
+          "s": "KAEDEN",
+          "t": "It's Kaeden.",
+          "q": [
+            1
+          ],
+          "start": 100.74,
+          "end": 100.94
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "I'm so sorry.",
+          "start": 101.62,
+          "end": 102.86
+        },
+        {
+          "s": "KAEDEN",
+          "t": "Don't worry. People often get my name wrong; they never know how to spell it. It's K-A-E-D-E-N, in case you ever need to write it.",
+          "start": 103.34,
+          "end": 114.26
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "I'll try and remember.",
+          "start": 115.08,
+          "end": 116.08
+        },
+        {
+          "s": "KAEDEN",
+          "t": "So, there are a few practical things you need to sort out this morning. Then I'll show you what you're going to do today.",
+          "start": 116.56,
+          "end": 124.24
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "The email I received said to go to the front desk, to show my letter of appointment and pick up my badge.",
+          "start": 125.25,
+          "end": 131.97
+        },
+        {
+          "s": "KAEDEN",
+          "t": "You'll need that for the staffroom and other areas of the supermarket where shoppers aren't allowed. So, after you've finished at the front desk, I'll take you to the staffroom. Put your coat and rucksack in one of the lockers there. Take whichever one is free.",
+          "q": [
+            2
+          ],
+          "start": 132.97,
+          "end": 148.46
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "Will I have a key?",
+          "start": 149.19,
+          "end": 150.19
+        },
+        {
+          "s": "KAEDEN",
+          "t": "Yes. Try not to lose it. At the end of the day, leave it in the door for the next person to use.",
+          "start": 150.99,
+          "end": 157.15
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "Will do.",
+          "start": 157.91,
+          "end": 158.15
+        },
+        {
+          "s": "KAEDEN",
+          "t": "You also need to go to the HR department to see Tiffany. She's really helpful.",
+          "start": 159.03,
+          "end": 163.71
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "I was told to bring my passport with me. HR need to take a note of the number in it.",
+          "q": [
+            3
+          ],
+          "start": 164.51,
+          "end": 170.15
+        },
+        {
+          "s": "KAEDEN",
+          "t": "That's right. Or you can show your ID card.",
+          "start": 170.66,
+          "end": 172.98
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "I don't have one of those.",
+          "start": 173.46,
+          "end": 174.78
+        },
+        {
+          "s": "KAEDEN",
+          "t": "OK. Tiffany will give you a uniform. They have lots in different sizes, so you just tell her what you need.",
+          "q": [
+            4
+          ],
+          "start": 175.02,
+          "end": 181.9
+        },
+        {
+          "s": "KAEDEN",
+          "t": "I won't come with you to HR — I've got to go and sort something else out. Problem with a bread slicer.",
+          "start": 182.66,
+          "end": 188.54
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "Is the HR office near the staffroom?",
+          "start": 189.22,
+          "end": 191.22
+        },
+        {
+          "s": "KAEDEN",
+          "t": "The staffroom's on the first floor, and HR are a couple of floors above that, on the third floor. There's a staircase outside the staffroom.",
+          "q": [
+            5
+          ],
+          "start": 192.54,
+          "end": 199.98
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "OK.",
+          "start": 200.5,
+          "end": 200.62
+        },
+        {
+          "s": "KAEDEN",
+          "t": "When you've finished with HR, come and find me in the bakery section of the shop.",
+          "start": 200.86,
+          "end": 205.62
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "I'm looking forward to getting started.",
+          "start": 206.48,
+          "end": 208.16
+        },
+        {
+          "s": "KAEDEN",
+          "t": "I'll just give you my phone number, in case you can't find me. Have you got your phone there?",
+          "start": 209.04,
+          "end": 214.36
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "Yes... OK, ready.",
+          "start": 214.48,
+          "end": 217.92
+        },
+        {
+          "s": "KAEDEN",
+          "t": "It's oh-four-one-two double-six-five nine-oh-three.",
+          "q": [
+            6
+          ],
+          "start": 218.2,
+          "end": 219.12
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "OK, done.",
+          "start": 226.3,
+          "end": 227.38
+        },
+        {
+          "s": "KAEDEN",
+          "t": "So, Charlotte, your tasks today are in the bakery section, on the sushi counter, and on the meat and fish counters. The first job is to check sell-by dates on the bread and cakes. If any of the dates are today's, put a new price label on the packaging.",
+          "start": 265.19,
+          "end": 282.68
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "What if any of the labels are yesterday's dates, or older? Do I throw those items away?",
+          "start": 283.68,
+          "end": 289.96
+        },
+        {
+          "s": "KAEDEN",
+          "t": "Yes, but that shouldn't happen — we check the stock every day. When something needs a new price label, put a yellow one on the package, next to the original price.",
+          "q": [
+            7
+          ],
+          "start": 290.72,
+          "end": 299.2
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "OK.",
+          "start": 299.36,
+          "end": 299.88
+        },
+        {
+          "s": "KAEDEN",
+          "t": "After that, you'll go to the sushi takeaway counter.",
+          "start": 301.06,
+          "end": 303.9
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "Will I be preparing boxes of food?",
+          "start": 304.06,
+          "end": 306.86
+        },
+        {
+          "s": "KAEDEN",
+          "t": "For today, you'll just be helping the staff.",
+          "start": 307.74,
+          "end": 309.98
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "Yes, of course.",
+          "start": 310.06,
+          "end": 311.1
+        },
+        {
+          "s": "KAEDEN",
+          "t": "You'll see lots of flat cardboard boxes at one end of the counter. Beneath those is where we keep the plastic boxes — we run out of those really quickly, so you should bring more from the storeroom.",
+          "q": [
+            8
+          ],
+          "start": 311.8,
+          "end": 322.52
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "Is that my only task on the sushi counter?",
+          "start": 323.76,
+          "end": 326.36
+        },
+        {
+          "s": "KAEDEN",
+          "t": "No. You also need to clean the area where they prepare the dishes. There are cloths and bottles of spray by the sink. Oh, and please make sure you clean that too.",
+          "start": 326.52,
+          "end": 336.07
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "Sure. That's important, isn't it?",
+          "start": 336.15,
+          "end": 338.71
+        },
+        {
+          "s": "KAEDEN",
+          "t": "Absolutely. But you mustn't wash up knives. You have to do some training before you're allowed to touch sharp objects.",
+          "start": 338.91,
+          "end": 345.31
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "What should I do if there are any?",
+          "start": 346.2,
+          "end": 347.92
+        },
+        {
+          "s": "KAEDEN",
+          "t": "Ask someone to put them in the dishwasher.",
+          "start": 348.32,
+          "end": 350.2
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "OK, thanks. I don't want to get anything wrong.",
+          "start": 350.24,
+          "end": 353.6
+        },
+        {
+          "s": "KAEDEN",
+          "t": "Don't worry. You'll be fine. And I'll be around to help.",
+          "start": 353.72,
+          "end": 356.74
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "Right.",
+          "start": 357.1,
+          "end": 357.18
+        },
+        {
+          "s": "KAEDEN",
+          "t": "Finally, the meat and fish counters. You need to clean the area where staff serve customers, including wiping the weighing scales.",
+          "start": 358.66,
+          "end": 366.1
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "OK. Anything else?",
+          "start": 366.3,
+          "end": 368.78
+        },
+        {
+          "s": "KAEDEN",
+          "t": "The fish is laid on ice, but when that starts to melt, you'll need to get more from the cold-room.",
+          "q": [
+            9
+          ],
+          "start": 370.28,
+          "end": 375.16
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "I know the staff on the food counters wear a hat. Will that be the same for me?",
+          "start": 376.16,
+          "end": 381.36
+        },
+        {
+          "s": "KAEDEN",
+          "t": "You won't be serving customers directly, so no. But make sure you put on thermal gloves when you take anything out of the cold-room. The temperature's low enough in there to get frostbite from touching things.",
+          "q": [
+            10
+          ],
+          "start": 382.06,
+          "end": 392.62
+        },
+        {
+          "s": "CHARLOTTE",
+          "t": "Understood.",
+          "start": 393.06,
+          "end": 393.7
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c19/t4p2.mp3",
+      "duration": 389,
+      "title": "Compton Park Runners Club podcast",
+      "groups": [
+        {
+          "range": [
+            11,
+            12
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO problems with some training programmes for new runners does Liz mention?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "There is a risk of serious injury."
+            },
+            {
+              "k": "B",
+              "text": "They are unsuitable for certain age groups."
+            },
+            {
+              "k": "C",
+              "text": "They are unsuitable for people with health issues."
+            },
+            {
+              "k": "D",
+              "text": "It is difficult to stay motivated."
+            },
+            {
+              "k": "E",
+              "text": "There is a lack of individual support."
+            }
+          ]
+        },
+        {
+          "range": [
+            13,
+            14
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO tips does Liz recommend for new runners?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "doing two runs a week"
+            },
+            {
+              "k": "B",
+              "text": "running in the evening"
+            },
+            {
+              "k": "C",
+              "text": "going on runs with a friend"
+            },
+            {
+              "k": "D",
+              "text": "listening to music during runs"
+            },
+            {
+              "k": "E",
+              "text": "running very slowly"
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            18
+          ],
+          "type": "matching",
+          "instruction": "What reason prevented each of the following members of the Compton Park Runners Club from joining until recently?",
+          "limit": "Write the correct letter, A, B, or C next to Questions 15-18.",
+          "optionsTitle": "Reasons",
+          "options": [
+            {
+              "k": "A",
+              "text": "a lack of confidence"
+            },
+            {
+              "k": "B",
+              "text": "a dislike of running"
+            },
+            {
+              "k": "C",
+              "text": "a lack of time"
+            }
+          ],
+          "itemsTitle": "Club members",
+          "items": [
+            {
+              "n": 15,
+              "text": "Ceri"
+            },
+            {
+              "n": 16,
+              "text": "James"
+            },
+            {
+              "n": 17,
+              "text": "Leo"
+            },
+            {
+              "n": 18,
+              "text": "Mark"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 19,
+              "text": "What does Liz say about running her first marathon?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It had always been her ambition."
+                },
+                {
+                  "k": "B",
+                  "text": "Her husband persuaded her to do it."
+                },
+                {
+                  "k": "C",
+                  "text": "She nearly gave up before the end."
+                }
+              ]
+            },
+            {
+              "n": 20,
+              "text": "Liz says new runners should sign up for a race",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "every six months."
+                },
+                {
+                  "k": "B",
+                  "text": "within a few weeks of taking up running."
+                },
+                {
+                  "k": "C",
+                  "text": "after completing several practice runs."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "My name's Liz Fuller and I'm a running coach with Compton Park Runners Club. Welcome to my podcast. If you're thinking about taking up running — I'm here to help.",
+          "start": 44.9,
+          "end": 54.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are many training programmes available online which aim to help people build up to running 5 kilometres. Some of them are great and thousands of people of all ages are taking part in 5-kilometre races across the country as a result. People like them because they're easy to follow and don't push them too hard.",
+          "start": 55.89,
+          "end": 78.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, they don't work for everyone — especially if you suffer from something like a heart condition or asthma, because they're aimed at people with average fitness and running ability.",
+          "q": [
+            11,
+            12
+          ],
+          "start": 78.28,
+          "end": 90.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another thing is that everyone is different — and if you have any specific questions related to your needs, there's no one to provide any answers.",
+          "q": [
+            11,
+            12
+          ],
+          "start": 91.16,
+          "end": 100.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I have a couple of simple tips I always give to new runners. I expect you've been told to run very slowly until your fitness increases — well, I find that can prevent progress. You should run at a speed that feels comfortable, but time yourself and try to run a bit faster each time.",
+          "start": 101.7,
+          "end": 123.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Listening to music can be very helpful — it takes your mind off things and helps your body get into a rhythm. I'd say that is better than running with a friend — especially as most people are competitive and that's not what you want when you're just starting.",
+          "q": [
+            13,
+            14
+          ],
+          "start": 124.66,
+          "end": 141.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I don't think the time of day is especially important — some people are better in the evening, while others are morning people — but you need to be consistent, so aim to train regularly — twice a week is enough to begin with.",
+          "q": [
+            13,
+            14
+          ],
+          "start": 142.25,
+          "end": 157.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "New members often say to me that they've been put off running either because they lack confidence, or they don't have time, or they think they dislike running.",
+          "start": 205.41,
+          "end": 215.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Ceri, for example, joined the club two years ago at the age of 40. She'd always enjoyed running at school but wasn't sure if she'd be able to do it. She was worried about being left behind and being the slowest runner. But she says she was made to feel so welcome she soon forgot all about that.",
+          "q": [
+            15
+          ],
+          "start": 216.45,
+          "end": 236.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "James had always hated the idea of running but a friend encouraged him to come along for a taster session and he hasn't looked back. He never misses a training session despite having a really demanding job.",
+          "q": [
+            16
+          ],
+          "start": 237.9,
+          "end": 251.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Leo was worried about having to commit himself to training sessions every week and wasn't sure he'd be able to fit training into his busy schedule. But after experiencing a lot of stress at work he came along to us and gave it a go. Now he says he feels much more relaxed and he looks forward to his weekly run.",
+          "q": [
+            17
+          ],
+          "start": 252.03,
+          "end": 275.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Mark is quite typical of our new members. He's never considered himself to be a sporty person and it was only when he retired that he decided to take up the challenge of trying to run 5 kilometres. It took him months to find the courage to contact us but felt reassured immediately as there were other people his age who were only just taking up running for the first time.",
+          "q": [
+            18
+          ],
+          "start": 275.92,
+          "end": 303.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "My own journey hasn't been easy. I did my first marathon when I was 37, after having had two kids. My husband had been running marathons for years, but I never dreamed I'd be doing one with him. I managed to complete it in four hours, but I felt like giving up halfway through — it was only the support of the spectators that kept me going.",
+          "q": [
+            19
+          ],
+          "start": 304.92,
+          "end": 330.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I do think signing up for a race of whatever length is motivating — whether it's 5K or 25K — because it's good to have something to work towards and it gives you a sense of achievement. I did my first 10K after only six months, which was certainly very challenging and not something I'd necessarily recommend. But after you've been training for a few weeks, it's worth putting your name down for a 5K — some people find they only need a few practice runs before taking part in a race, but I'd give yourself a couple of months at least.",
+          "q": [
+            20
+          ],
+          "start": 331.6,
+          "end": 367.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, I hope that's given...",
+          "start": 367.53,
+          "end": 369.61
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c19/t4p3.mp3",
+      "duration": 429,
+      "title": "Books and bookshops",
+      "groups": [
+        {
+          "range": [
+            21,
+            25
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 21,
+              "text": "Kieran thinks the packing advice given by Jane's grandfather is",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "common sense."
+                },
+                {
+                  "k": "B",
+                  "text": "hard to follow."
+                },
+                {
+                  "k": "C",
+                  "text": "over-protective."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "How does Jane feel about the books her grandfather has given her?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "They are not worth keeping."
+                },
+                {
+                  "k": "B",
+                  "text": "They should go to a collector."
+                },
+                {
+                  "k": "C",
+                  "text": "They have sentimental value for her."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "Jane and Kieran agree that hardback books should be",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "put out on display."
+                },
+                {
+                  "k": "B",
+                  "text": "given as gifts to visitors."
+                },
+                {
+                  "k": "C",
+                  "text": "more attractively designed."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "While talking about taking a book from a shelf, Jane",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "describes the mistakes other people make doing it."
+                },
+                {
+                  "k": "B",
+                  "text": "reflects on a significant childhood experience."
+                },
+                {
+                  "k": "C",
+                  "text": "explains why some books are easier to remove than others."
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "What do Jane and Kieran suggest about new books?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Their parents liked buying them as presents."
+                },
+                {
+                  "k": "B",
+                  "text": "They would like to buy more of them."
+                },
+                {
+                  "k": "C",
+                  "text": "Not everyone can afford them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            26,
+            30
+          ],
+          "type": "matching",
+          "instruction": "Where does Jane's grandfather keep each of the following types of books in his shop?",
+          "limit": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30.",
+          "optionsTitle": "Location of books",
+          "options": [
+            {
+              "k": "A",
+              "text": "near the entrance"
+            },
+            {
+              "k": "B",
+              "text": "in the attic"
+            },
+            {
+              "k": "C",
+              "text": "at the back of the shop"
+            },
+            {
+              "k": "D",
+              "text": "on a high shelf"
+            },
+            {
+              "k": "E",
+              "text": "near the stairs"
+            },
+            {
+              "k": "F",
+              "text": "in a specially designed space"
+            },
+            {
+              "k": "G",
+              "text": "within the café"
+            }
+          ],
+          "itemsTitle": "Types of books",
+          "items": [
+            {
+              "n": 26,
+              "text": "rare books"
+            },
+            {
+              "n": 27,
+              "text": "children's books"
+            },
+            {
+              "n": 28,
+              "text": "unwanted books"
+            },
+            {
+              "n": 29,
+              "text": "requested books"
+            },
+            {
+              "n": 30,
+              "text": "coursebooks"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "KIERAN",
+          "t": "So Jane — you'll be off to Denmark soon to do your work placement.",
+          "start": 56.77,
+          "end": 60.05
+        },
+        {
+          "s": "JANE",
+          "t": "Yes, I'm really looking forward to it and I've just started packing up all my books to put in storage.",
+          "start": 60.25,
+          "end": 67.61
+        },
+        {
+          "s": "KIERAN",
+          "t": "Well, I hope they don't get spoilt.",
+          "start": 68.09,
+          "end": 69.21
+        },
+        {
+          "s": "JANE",
+          "t": "It's OK — my grandfather works in a bookshop and he told me how to pack them.",
+          "start": 70.41,
+          "end": 75.65
+        },
+        {
+          "s": "KIERAN",
+          "t": "Oh, that's helpful.",
+          "start": 75.81,
+          "end": 76.89
+        },
+        {
+          "s": "JANE",
+          "t": "He says you have to support the spine otherwise the paper can come away from the cover.",
+          "q": [
+            21
+          ],
+          "start": 77.53,
+          "end": 82.65
+        },
+        {
+          "s": "KIERAN",
+          "t": "Yeah — that's obvious.",
+          "start": 82.89,
+          "end": 84.13
+        },
+        {
+          "s": "JANE",
+          "t": "He also told me to pack them flat in the box not on their side — again because they can bend and if you leave them like that for, say, a year, it's quite hard to get them back to their normal shape.",
+          "start": 84.89,
+          "end": 98.62
+        },
+        {
+          "s": "KIERAN",
+          "t": "Well, it's pretty clear that ruins them, but a lot of people just can't be bothered to protect their books.",
+          "start": 98.94,
+          "end": 104.5
+        },
+        {
+          "s": "JANE",
+          "t": "He always says it's such a shame that publishers don't use better-quality paper.",
+          "start": 104.94,
+          "end": 109.54
+        },
+        {
+          "s": "KIERAN",
+          "t": "It's the acid in the paper that causes the problem, isn't it?",
+          "start": 110.3,
+          "end": 113.34
+        },
+        {
+          "s": "JANE",
+          "t": "Yeah — that's why old books go yellow. You know some of the books my grandfather's given me are like that already.",
+          "start": 113.42,
+          "end": 121.02
+        },
+        {
+          "s": "KIERAN",
+          "t": "Oh...",
+          "start": 121.87,
+          "end": 122.51
+        },
+        {
+          "s": "JANE",
+          "t": "I should dump them really if they're going to deteriorate further, but I'd feel bad. They'll always remind me of him. He's quite a collector, you know.",
+          "q": [
+            22
+          ],
+          "start": 122.59,
+          "end": 132.27
+        },
+        {
+          "s": "KIERAN",
+          "t": "Well, if they're important to you...",
+          "start": 132.83,
+          "end": 134.27
+        },
+        {
+          "s": "JANE",
+          "t": "Yeah — I'd regret just throwing them away.",
+          "start": 134.39,
+          "end": 136.99
+        },
+        {
+          "s": "KIERAN",
+          "t": "You know, maybe it's because I was taught to treasure books . . . but I hate seeing students force open the pages — of paperbacks. They press so hard they end up breaking the spine.",
+          "start": 137.79,
+          "end": 147.93
+        },
+        {
+          "s": "JANE",
+          "t": "I know, but unfortunately, paperbacks aren't designed to last a long time and people know that. Hardbacks aren't quite as weak.",
+          "start": 148.61,
+          "end": 157.88
+        },
+        {
+          "s": "KIERAN",
+          "t": "Yeah, they're different, I suppose. But I still don't think people value hardbacks like they used to.",
+          "start": 158.2,
+          "end": 164.04
+        },
+        {
+          "s": "JANE",
+          "t": "Well, they aren't decorative, are they, like other objects. Plus, nowadays, people don't keep them out on shelves as much as they used to.",
+          "start": 164.2,
+          "end": 174.4
+        },
+        {
+          "s": "KIERAN",
+          "t": "That's such a pity. When I visit someone — if they have, say, a colourful book on a table, it's the first thing I'm drawn to.",
+          "q": [
+            23
+          ],
+          "start": 174.96,
+          "end": 182.77
+        },
+        {
+          "s": "JANE",
+          "t": "I agree — and book covers can be a work of art in themselves. Some are really eye-catching.",
+          "start": 182.89,
+          "end": 190.53
+        },
+        {
+          "s": "KIERAN",
+          "t": "I've always been taught to handle books carefully. If you watch someone take a book off a shelf, well, they usually do it wrong.",
+          "start": 191.16,
+          "end": 198.36
+        },
+        {
+          "s": "JANE",
+          "t": "Ah, my grandfather says, you should put your hand right over the top of the book... or if you can't do that, pull the other books on the shelf aside so that you can hold the whole cover.",
+          "start": 198.44,
+          "end": 211.47
+        },
+        {
+          "s": "KIERAN",
+          "t": "When did you learn all this?",
+          "start": 211.95,
+          "end": 213.51
+        },
+        {
+          "s": "JANE",
+          "t": "He watched me pull a heavy book off the shelf when I was small, and it fell on the floor and broke apart.",
+          "q": [
+            24
+          ],
+          "start": 213.75,
+          "end": 220.61
+        },
+        {
+          "s": "KIERAN",
+          "t": "Oh dear!",
+          "start": 220.77,
+          "end": 221.45
+        },
+        {
+          "s": "JANE",
+          "t": "I can still remember it!",
+          "start": 222.37,
+          "end": 224.05
+        },
+        {
+          "s": "KIERAN",
+          "t": "You know what I really like?",
+          "start": 224.29,
+          "end": 225.89
+        },
+        {
+          "s": "JANE",
+          "t": "What?",
+          "start": 226.13,
+          "end": 226.45
+        },
+        {
+          "s": "KIERAN",
+          "t": "The smell of new books.",
+          "start": 226.69,
+          "end": 228.41
+        },
+        {
+          "s": "JANE",
+          "t": "Me too.",
+          "start": 228.69,
+          "end": 229.37
+        },
+        {
+          "s": "KIERAN",
+          "t": "My parents used to laugh at me when I was a kid because I loved putting books up to my nose. Almost as much as reading them!",
+          "start": 229.65,
+          "end": 236.07
+        },
+        {
+          "s": "JANE",
+          "t": "New books aren't cheap, though, are they?",
+          "q": [
+            25
+          ],
+          "start": 236.15,
+          "end": 238.59
+        },
+        {
+          "s": "KIERAN",
+          "t": "I guess we're lucky we can buy them.",
+          "start": 239.19,
+          "end": 240.71
+        },
+        {
+          "s": "JANE",
+          "t": "My grandfather stocks second-hand books as well as new ones and they don't smell quite as good.",
+          "start": 241.23,
+          "end": 247.15
+        },
+        {
+          "s": "KIERAN",
+          "t": "I'd love to have a bookshop like your grandfather. What's it like?",
+          "start": 290.68,
+          "end": 294.52
+        },
+        {
+          "s": "JANE",
+          "t": "Well, it's quite big — it's got two floors and an attic, and he stocks all kinds of books really.",
+          "start": 294.72,
+          "end": 303.06
+        },
+        {
+          "s": "KIERAN",
+          "t": "I guess he treasures things like first editions and other rare books.",
+          "start": 303.58,
+          "end": 306.98
+        },
+        {
+          "s": "JANE",
+          "t": "Yeah — you might think he'd keep those in the attic or somewhere.",
+          "start": 307.38,
+          "end": 311.14
+        },
+        {
+          "s": "KIERAN",
+          "t": "... so they'd be hidden?",
+          "start": 312.17,
+          "end": 313.25
+        },
+        {
+          "s": "JANE",
+          "t": "Yeah. But he likes people to know that he has them. So, he puts them out in the shop but makes sure you need a ladder to get them.",
+          "q": [
+            26
+          ],
+          "start": 313.57,
+          "end": 322.61
+        },
+        {
+          "s": "KIERAN",
+          "t": "Right. That would prevent any thefts!",
+          "start": 323.14,
+          "end": 324.78
+        },
+        {
+          "s": "JANE",
+          "t": "Uhuh.",
+          "start": 324.78,
+          "end": 324.78,
+          "estimated": true
+        },
+        {
+          "s": "KIERAN",
+          "t": "Does he stock books for children?",
+          "start": 326.06,
+          "end": 327.38
+        },
+        {
+          "s": "JANE",
+          "t": "He does. He particularly likes to encourage kids to read; he always says that he used to sit under the stairs as a child with a pile of books and read them all.",
+          "start": 327.58,
+          "end": 338.78
+        },
+        {
+          "s": "KIERAN",
+          "t": "Is that where he keeps them, then?",
+          "start": 339.61,
+          "end": 340.81
+        },
+        {
+          "s": "JANE",
+          "t": "Not exactly — he's got a dedicated area on the ground floor with cushions so that parents can enter with their toddlers, go there and spend some time reading to them.",
+          "q": [
+            27
+          ],
+          "start": 341.33,
+          "end": 352.37
+        },
+        {
+          "s": "KIERAN",
+          "t": "Oh cool.",
+          "start": 352.45,
+          "end": 353.37
+        },
+        {
+          "s": "JANE",
+          "t": "And then there's a place for pushchairs by the front door. And a café if anyone needs refreshments.",
+          "start": 354.04,
+          "end": 360.12
+        },
+        {
+          "s": "KIERAN",
+          "t": "That's good to know.",
+          "start": 360.36,
+          "end": 361.32
+        },
+        {
+          "s": "JANE",
+          "t": "As I said, it's a big shop and there's a storage area out the back as well.",
+          "start": 361.76,
+          "end": 367.01
+        },
+        {
+          "s": "KIERAN",
+          "t": "Oh, what does he keep there? Books he wants to throw away?",
+          "start": 367.17,
+          "end": 370.57
+        },
+        {
+          "s": "JANE",
+          "t": "He hardly ever throws anything away — he just leaves unwanted books by the front door for customers to take.",
+          "q": [
+            28
+          ],
+          "start": 370.81,
+          "end": 378.09
+        },
+        {
+          "s": "KIERAN",
+          "t": "Well, that's very nice.",
+          "start": 378.47,
+          "end": 380.03
+        },
+        {
+          "s": "JANE",
+          "t": "Yeah — and books people or institutions have requested, they all go at the far end.",
+          "q": [
+            29
+          ],
+          "start": 380.19,
+          "end": 386.79
+        },
+        {
+          "s": "KIERAN",
+          "t": "Oh.",
+          "start": 387.15,
+          "end": 387.63
+        },
+        {
+          "s": "JANE",
+          "t": "He thinks it's best to keep these out of the main shopping area as they're boxed and new.",
+          "start": 388.31,
+          "end": 392.91
+        },
+        {
+          "s": "KIERAN",
+          "t": "Did you get your coursebooks from him?",
+          "start": 393.7,
+          "end": 395.62
+        },
+        {
+          "s": "JANE",
+          "t": "Naturally. He stocks books for a lot of the colleges. He used to keep these books on the first floor, but now there's a new university in my hometown, he's moved them downstairs to attract the students. They're actually part of the coffee shop, on low shelves all around it.",
+          "q": [
+            30
+          ],
+          "start": 395.74,
+          "end": 414.12
+        },
+        {
+          "s": "KIERAN",
+          "t": "Pretty central then. You'll have to take me there some time!",
+          "start": 414.49,
+          "end": 417.09
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c19/t4p4.mp3",
+      "duration": 519,
+      "title": "Tree planting",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Tree planting",
+          "lines": [
+            "## Reforestation projects should:",
+            "include a range of tree species",
+            "not include invasive species because of possible {{31}} with native species",
+            "aim to capture carbon, protect the environment and provide sustainable sources of {{32}} for local people",
+            "use tree seeds with a high genetic diversity to increase resistance to {{33}} and climate change",
+            "plant trees on previously forested land which is in a bad condition, not select land which is being used for {{34}}",
+            "## Large-scale reforestation projects",
+            "base planning decisions on information from accurate {{35}}",
+            "drones are useful for identifying areas in Brazil which are endangered by keeping {{36}} and illegal logging",
+            "## Lampang Province, Northern Thailand",
+            "a forest was restored in an area damaged by mining",
+            "a variety of native fig trees were planted, which are important for supporting many wildlife species, increasing the {{37}} of recovery by attracting animals and birds, e.g. {{38}} were soon attracted to the area",
+            "## Involving local communities",
+            "destruction of mangrove forests in Madagascar made it difficult for people to make a living from {{39}}",
+            "the mangrove reforestation project provided employment for local people, restored a healthy ecosystem, protects against the higher risk of {{40}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Tree planting now dominates political and popular agendas and is often presented as an easy answer to the climate crisis, as well as a way for business corporations to offset their carbon emissions. But unfortunately, tree planting isn't as straightforward as some people think. When the wrong trees are planted in the wrong place, it can do considerably more damage than good, failing to help either people or the environment.",
+          "start": 71.52,
+          "end": 102.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Reforestation projects are currently being undertaken on a huge scale in many countries and it's crucial that the right trees are selected. A mix of species should always be planted, typical of the local natural forest ecosystem and including rare and endangered species in order to create a rich ecosystem. It's important to avoid non-native species that could become invasive. Invasive species are a significant contributor to the current global biodiversity crisis and are often in competition with native species and may threaten their long-term survival.",
+          "q": [
+            31
+          ],
+          "start": 103.48,
+          "end": 148.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Restoring biodiversity that will maximise carbon capture is key when reforesting an area, but ideally any reforestation project should have several goals. These could include selecting trees that can contribute to wildlife conservation, improve the availability of food for the local community and maintain the stability of soil systems.",
+          "q": [
+            32
+          ],
+          "start": 150.15,
+          "end": 177.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Meeting as many of these goals as possible, whilst doing no harm to local communities, native ecosystems and vulnerable species, is the sign of a highly successful tree-planting scheme. To ensure the survival and resilience of a planted forest, it's vital to use tree seeds with appropriate levels of genetic diversity: the amount of genetic variation found within a species essential for their survival. Using seeds with low genetic diversity generally lowers the resilience of restored forests, which can make them vulnerable to disease and unable to adapt to climate change.",
+          "q": [
+            33
+          ],
+          "start": 178.47,
+          "end": 226.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Choosing the right location for reforestation projects is as important as choosing the right trees. Ultimately, the best area for planting trees would be in formerly forested areas that are in poor condition. It's better to avoid non-forested landscapes such as natural grasslands, savannas or wetlands as these ecosystems already contribute greatly to capturing carbon. It would also be advantageous to choose an area where trees could provide other benefits, such as recreational spaces. Reforesting areas which are currently exploited for agriculture should be avoided as this often leads to other areas being deforested.",
+          "q": [
+            34
+          ],
+          "start": 227.95,
+          "end": 279.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Large-scale reforestation projects require careful planning. Making the right decisions about where to plant trees depends on having the right information. Having detailed and up-to-date maps identifying high-priority areas for intervention is essential.",
+          "q": [
+            35
+          ],
+          "start": 285.21,
+          "end": 306.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Drone technology is a useful tool in helping to prioritise and monitor areas of degraded forest for restoration. In Brazil, it's being used to identify and quantify how parts of the Amazon are being devastated by human activities such as rearing cattle and illegal logging.",
+          "q": [
+            36
+          ],
+          "start": 307.11,
+          "end": 332.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A good example of where the right trees were picked to achieve a restored forest is in Lampang Province in Northern Thailand. A previously forested site which had been degraded through mining was reforested by a cement company together with Chiang Mai University. After spreading 60 cm of topsoil, they planted 14 different native tree species which included several species of fig. Figs are a keystone species because of the critical role they play in maintaining wildlife populations. They are central to tropical reforestation projects as they accelerate the speed of the recovery process by attracting animals and birds which act as natural seed dispersers.",
+          "q": [
+            37
+          ],
+          "start": 333.96,
+          "end": 390.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This helps to promote diversity through the healthy regrowth of a wide range of plant species. Unlike the majority of fruit trees, figs bear fruit all year round, providing a reliable food source for many species. At this site, for example, after only three rainy seasons, monkeys started visiting to eat the fig fruits, naturally dispersing seeds through defecation.",
+          "q": [
+            38
+          ],
+          "start": 391.99,
+          "end": 421.61
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Reforestation projects should always aim to make sure that local communities are consulted and involved in the decision-making process.",
+          "start": 423.52,
+          "end": 432.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The restoration of mangrove forests in Madagascar is an example of a project which has succeeded in creating real benefits for the community. Destruction of the mangrove forests had a terrible impact on plant and animal life, and also badly affected the fishing industry, which was a major source of employment for local people living in coastal areas.",
+          "q": [
+            39
+          ],
+          "start": 434.32,
+          "end": 460.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The reforestation project involved hiring local people to plant and care for the new mangrove trees. Millions of mangrove trees have now been planted which has resulted in the return of a healthy aquatic ecosystem. The mangroves also act as a defence against the increased threat of flooding caused by climate change. What's more, the local economy is more stable and thousands more Madagascans are now able to send their children to school.",
+          "q": [
+            40
+          ],
+          "start": 462.05,
+          "end": 498.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One other important point to consider . . .",
+          "start": 499.57,
+          "end": 501.69
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "Kaeden"
+    ],
+    "2": [
+      "locker",
+      "lockers",
+      "a locker"
+    ],
+    "3": [
+      "passport"
+    ],
+    "4": [
+      "uniform"
+    ],
+    "5": [
+      "third",
+      "3rd"
+    ],
+    "6": [
+      "0412 665 903"
+    ],
+    "7": [
+      "yellow"
+    ],
+    "8": [
+      "plastic"
+    ],
+    "9": [
+      "ice"
+    ],
+    "10": [
+      "gloves"
+    ],
+    "11": [
+      "C",
+      "E"
+    ],
+    "12": [
+      "C",
+      "E"
+    ],
+    "13": [
+      "A",
+      "D"
+    ],
+    "14": [
+      "A",
+      "D"
+    ],
+    "15": [
+      "A"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "A"
+    ],
+    "19": [
+      "C"
+    ],
+    "20": [
+      "B"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "D"
+    ],
+    "27": [
+      "F"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "C"
+    ],
+    "30": [
+      "G"
+    ],
+    "31": [
+      "competition"
+    ],
+    "32": [
+      "food"
+    ],
+    "33": [
+      "disease"
+    ],
+    "34": [
+      "agriculture"
+    ],
+    "35": [
+      "maps"
+    ],
+    "36": [
+      "cattle"
+    ],
+    "37": [
+      "speed"
+    ],
+    "38": [
+      "monkeys"
+    ],
+    "39": [
+      "fishing"
+    ],
+    "40": [
+      "flooding"
+    ]
+  }
+}

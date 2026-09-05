@@ -1,0 +1,44 @@
+{
+  "id": "c19t4",
+  "book": "剑桥雅思19",
+  "test": 4,
+  "title": "剑19 Test 4 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "mixed",
+      "kindZh": "混合",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The charts below give information on the location and types of dance classes young people in a town in Australia are currently attending.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c19t4-task1.png",
+      "imageCaption": "Location and types of dance classes attended by young people in a town in Australia",
+      "sample": {
+        "band": 5.0,
+        "text": "The table and chart provide information about the location and different types of dance class undertaken by young people in Australia.\n\nThe chart says In Private Studios 48% young people are taking dance classes.\n\nAnd in community halls and other 18% folks are taking dance classes And other location. After school classes 24% people are taking classes and other last one location college based studios these are 10% percent people Taking classes. The table reveal in Ballet type dance 600 students under age of 11 learning. And 300 age of 11-16 are learning. And 420 students age of 11-16 learning and last type of Dance Modern these are 515 students are learning who are under age of 11 and 300 other students who are age of 11-16.\n\nTo conclusion in Private Studio the numbers of people much higher than other locations. And type of ballet dance classes number of student Much higher in under age of 11 than other type of dance classes.",
+        "comment": "This candidate has worked hard to report all data contained in the graphs. The key areas are covered, but the overall effect is rather mechanical, as each point is presented in a linear sequence.\n\nThe ideas are set out in the correct order, following the order of the graphs in the question, but linking between and within the sentences is not strong. The format is quite repetitive [taking classes / learning] because of the lack of linking devices.\n\nSimilarly, vocabulary is limited and a wider range would be needed for a higher score. Grammatical range is also minimal. There is a noticeable level of error, but the reader is still able to understand the message.\n\nTo improve the score, this candidate should use a wider range of linking devices and take a less mechanical approach. A stronger and wider range of vocabulary and grammar would also be beneficial."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "In many countries nowadays, consumers can go to a supermarket and buy food produced all over the world.",
+        "Do you think this is a positive or negative development?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 6.0,
+        "text": "Today there are a lot of different shops Where we can buy all kind of stuff produced all over the world. Is it right to buy food produced in other countries? Is this idea useful for people nowadays?\n\nI suppose this to be a good idea. When supermarkets and even small shops provide people food from abroad then there are much more possibilities for us to choose something. When shops have only food and things produced in our country, it is really hard to make a good choise. Sometimes people want to try something new and interesting maybe even something extraordinary which they never buy before. In this cases food which is produced in other countries will help them to be satisfied with their demands. When supermarkets have a good suply of different food produced anywhere than people can find delicious things depending on their tastes. For example, people who like French products can buy some kinds of french cheese or wine not only in France.\n\nFood from other countries is also very good when you want to buy some fresh vegetables and fruits in winter. It is really useful thing because some people are vegetarians and they need vegetables and fruits during the whole year.\n\nThe only disadvantage of food which is produced in other countries is the way how it has been delivered. in some cases products can be not so fresh especialy in summer, when it is very hot outside.\n\nTo sum it up, I can surely say that buying products from other countries is a good thing to become more closer to other culturies. You can certainly cook something unusial at home and it will taste like in very good expensive restaurant somewhere abroad.",
+        "comment": "This is a good response to the task. The candidate clearly agrees with the idea that people should be able to buy international food in supermarkets. The main reason given is that people want to try something [new and interesting] and different. Examples are given of French products and seasonal produce for vegetarians. One disadvantage is given, related to the impact of hot weather on transportation. The conclusion includes bringing cultures together through food but does not summarise the points made in the full answer. A more relevant conclusion would help the candidate achieve a higher score, as well as further extending the ideas.\n\nGenerally, the candidate organises the ideas well, and we can follow them clearly. Some good linking devices are used [where / maybe even / which / who], but some errors remain [this cases / these cases / than / then]. The response is set out across five paragraphs, but three of them have only two sentences. These are short paragraphs and could be extended to illustrate the central topic in more detail.\n\nAgain, vocabulary is generally appropriate for the question, with some strong examples [extraordinary / depending on their tastes], but there is a lack of precision [stuff] and frequent minor spelling errors [choise / suply / especialy / culturies / unusial]. However, we can still understand what is meant.\n\nThere are attempts at a wider range of structures and a number of multi-clause sentences. However, the level of error [which they never buy before / which they have never bought before / the way how it has been delivered / the way it has been delivered] detracts from the score.\n\nOverall, a more comprehensive conclusion, longer paragraphs, a wider range of vocabulary and fewer grammatical slips would improve the response and achieve a higher score."
+      }
+    }
+  ]
+}
