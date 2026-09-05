@@ -34,7 +34,7 @@ export default function TopNav({ mode, onChangeMode }: { mode: ExamMode | null; 
             <a>题库分类 ▾</a>
             <div className="panel">
               {books.map((b) => (
-                <a key={b} href={`/#book-${b}`}>{b} 学术类</a>
+                <Link key={b} to={`/#book-${b}`}>{b} 学术类</Link>
               ))}
               <Link to="/speaking">2026 年 5-8 月口语题库</Link>
             </div>

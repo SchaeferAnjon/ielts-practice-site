@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import AiPanel from "../components/AiPanel";
 import { fmtClock, useTimer } from "../components/useTimer";
-import { paperUrl, useJson } from "../services/data";
+import { paperUrl, useJson, withBase } from "../services/data";
 import { countWords } from "../services/scoring";
 import { storage, uid } from "../services/storage";
 import { gradeWriting, type WritingGrade } from "../services/ai";
@@ -77,7 +77,7 @@ export default function Writing() {
                   {task.image && (
                     <>
                       {task.imageCaption && <div className="cap">{task.imageCaption}</div>}
-                      <img src={task.image} alt={task.imageCaption ?? "chart"} />
+                      <img src={withBase(task.image)} alt={task.imageCaption ?? "chart"} />
                       {task.data && (
                         <table className="qtable small" style={{ marginTop: 10 }}>
                           <thead><tr><th>{task.data.unit}</th>{task.data.years.map((y) => <th key={y}>{y}</th>)}</tr></thead>

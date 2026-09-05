@@ -6,7 +6,7 @@ import QuestionGroup from "../components/QuestionGroup";
 import AiPanel from "../components/AiPanel";
 import ErrorBookModal from "../components/ErrorBookModal";
 import { fmtClock, useTimer } from "../components/useTimer";
-import { paperUrl, useJson } from "../services/data";
+import { paperUrl, useJson, withBase } from "../services/data";
 import { grade, toBand } from "../services/scoring";
 import { storage, uid } from "../services/storage";
 import { lineTimes, locateListeningSentence, type ListeningLocate } from "../services/ai";
@@ -101,7 +101,7 @@ export default function Listening() {
       </div>
 
       <div className="exam-body">
-        <AudioPlayer ref={player} src={cur.audio} countdown={null} onEnded={() => { if (part < paper.parts.length - 1 && !results) setToast("本 Part 音频结束，可切换到下一 Part"); }} locked={false} />
+        <AudioPlayer ref={player} src={withBase(cur.audio)} countdown={null} onEnded={() => { if (part < paper.parts.length - 1 && !results) setToast("本 Part 音频结束，可切换到下一 Part"); }} locked={false} />
         {!started && !results && (
           <div className="card" style={{ padding: "12px 18px", marginTop: 12, display: "flex", justifyContent: "space-between", alignItems: "center" }}>
             <span>真实考试听力只播放一遍。点击「开始计时」后倒计时 40 分钟；练习时可以随意暂停与重听。</span>

@@ -51,11 +51,14 @@ export const PAPERS: PaperMeta[] = [
   { id: "c18t4", book: "剑桥雅思18", bookShort: "剑18", test: 4, type: "A", modules: [] },
 ];
 
+/** 把 JSON 里的绝对路径（/audio/..、/img/..、/data/..）加上部署子路径前缀 */
+export const withBase = (p: string) => (p.startsWith("/") ? import.meta.env.BASE_URL.replace(/\/$/, "") + p : p);
+
 export const paperUrl = {
-  listening: (id: string) => `/data/listening/${id}.json`,
-  reading: (id: string) => `/data/reading/${id}.json`,
-  writing: (id: string) => `/data/writing/${id}.json`,
-  speaking: () => `/data/speaking.json`,
+  listening: (id: string) => withBase(`/data/listening/${id}.json`),
+  reading: (id: string) => withBase(`/data/reading/${id}.json`),
+  writing: (id: string) => withBase(`/data/writing/${id}.json`),
+  speaking: () => withBase(`/data/speaking.json`),
 };
 
 export type { ListeningPaper, ReadingPaper, WritingPaper, SpeakingBank };

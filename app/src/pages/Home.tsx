@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { PAPERS, useJson } from "../services/data";
+import { PAPERS, paperUrl, useJson } from "../services/data";
 import type { SpeakingBank } from "../data/types";
 import { storage } from "../services/storage";
 
@@ -11,7 +11,7 @@ const FEATURES = [
 ];
 
 export default function Home() {
-  const { data: bank } = useJson<SpeakingBank>("/data/speaking.json");
+  const { data: bank } = useJson<SpeakingBank>(paperUrl.speaking());
   const attempts = storage.attempts();
   const errors = storage.errors();
   const books = [...new Set(PAPERS.map((p) => p.bookShort))];
