@@ -1,0 +1,44 @@
+{
+  "id": "c18t4",
+  "book": "剑桥雅思18",
+  "test": 4,
+  "title": "剑18 Test 4 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "line-graph",
+      "kindZh": "曲线图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The graph below shows the average monthly change in the prices of three metals during 2014.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c18t4-task1.png",
+      "imageCaption": "Average monthly change in prices of copper, nickel and zinc (2014)",
+      "sample": {
+        "band": 9,
+        "text": "From the line graph, we can see the average monthly rise or fall in how much copper, nickel and zinc cost throughout 2014.\n\nOverall, nickel started with the highest percentage change of the three but ended with the lowest. Zinc started with the smallest change and ended with the highest, and copper prices fluctuated. Prices for all three metals dipped in June.\n\nIn January the price of nickel was up six per cent, but this dropped to negative three per cent in June, ending the year with a one per cent increase in both November and December. Copper began the year with an increase of two per cent and by May, the price was dropping (by slightly less than one per cent). It rose again, increasing by a percentage point in July, August and September. Zinc saw its most dramatic increase in February, with three per cent, and the price fell in June (a one per cent decrease). The change was negative until October/November when it began to rise.",
+        "comment": "This response reports the main data for each of the three metals. There is an introduction in the first paragraph and an overview in the second, followed by the presentation of the main trends of all three categories in the third. Some details are missing (copper after September and no percentage changes for any metal from July to September).\n\nThe candidate identifies the 'dip' for all three in June, but to score more highly, they could also have mentioned that overall, percentage changes fell at the beginning of the year, remained static from July to September and rose after October to the end of the year.\n\nInformation is arranged coherently; each metal is taken in turn for data reporting. There is good use of cohesive devices [Overall / but / with / when], but there could be more.\n\nVocabulary is adequate with some attempts to use less common items [fluctuated / dramatic increase] and attempts to use synonyms [ended with the lowest / dipped / dropped].\n\nThere is a lack of complex structures, as most sentences are simple or compound. However, there is some variety in structures, including comparatives [highest / smallest / most dramatic] and continuous tenses [was dropping].\n\nTo improve the response, the candidate could extend the overview to reflect some common trends and should include some of the missing details."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "advantage-disadvantage",
+      "kindZh": "利弊",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "In many countries, people are now living longer than ever before. Some people say an ageing population creates problems for governments. Other people think there are benefits if society has more elderly people.",
+        "To what extent do the advantages of having an ageing population outweigh the disadvantages?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "The population in most parts of the world is ageing; people are living longer and there are fewer younger people in many places as birth rates fall. This phenomenon has pros and cons, but this essay will contend that, on balance, the advantages of having an older population outweigh the negatives.\n\nThe first issue that occurs to many people when considering the ageing population is the expense. If people live longer, they may have more than 20 years of retirement and may need to be supported financially by the government or their families. If they experience age-related illness, this impacts the health system and takes up resources needed by other people in society. What's more, when older people are financially independent, it might be hard for younger people if they have to compete to get a foot in the door of the housing market or gain employment.\n\nThat being said, older people have a lot to contribute in terms of wisdom, experience and skills. Many people are active and productive for longer than their counterparts were 50 years ago and are an asset to the economy and society well into their old age. They are able to work for longer and after retirement they contribute in many ways too, such as by doing charitable work, spending money as consumers and supporting their families. Grandparents often care for their young grandchildren, making it easier for both parents to work.\n\nWhile it is true that an ageing population poses challenges for governments, it is clear that these are outweighed by the significant benefits that elderly people bring to society.",
+        "comment": "This is a good response to the task. Both sides of the argument are presented, with the ideas extended for both. The candidate makes their position clear from the beginning, that there are more advantages than disadvantages.\n\nThe second paragraph addresses the expense of looking after the elderly, the health system and the cost for governments. It also captures the challenge that older people take up houses and jobs so younger people cannot progress.\n\nThe third paragraph presents the advantages of the [wisdom, experience and skills] older people can bring: that they are more active and remain productive for longer, not only working, but also [doing charitable work, spending money as consumers, supporting their families] and even caring for grandchildren for the working parents. This means that the conclusion is relevant and justified.\n\nIdeas are organised and cohesion has good progression.\n\nVocabulary is skilfully used, with some high-level terms [phenomenon / age-related illness / impacts the health system] and some sophisticated examples [get a foot in the door / counterparts].\n\nThere are a range of complex grammatical structures, including several conditional structures [if]. The conditionals are used to emphasise the challenges presented and are without errors.\n\nThis is a high-level, fully developed response with ideas that are well supported, extended and engaging."
+      }
+    }
+  ]
+}

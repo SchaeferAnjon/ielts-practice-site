@@ -1,0 +1,939 @@
+{
+  "id": "c18t4",
+  "book": "剑桥雅思18",
+  "test": 4,
+  "title": "剑18 Test 4 · Reading",
+  "minutes": 60,
+  "passages": [
+    {
+      "n": 1,
+      "title": "Green roofs",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Rooftops covered with grass, vegetable gardens and lush foliage are now a common sight in many cities around the world. More and more private companies and city authorities are investing in green roofs, drawn to their wide-ranging benefits. Among the benefits are saving on energy costs, mitigating the risk of floods, making habitats for urban wildlife, tackling air pollution and even growing food. These increasingly radical urban designs can help cities adapt to the monumental problems they face, such as access to resources and a lack of green space due to development. But the involvement of city authorities, businesses and other institutions is crucial to ensuring their success — as is research investigating different options to suit the variety of rooftop spaces found in cities. The UK is relatively new to developing green roofs, and local governments and institutions are playing a major role in spreading the practice. London is home to much of the UK's green roof market, mainly due to forward-thinking policies such as the London Plan, which has paved the way to more than doubling the area of green roofs in the capital."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Ongoing research is showcasing how green roofs in cities can integrate with 'living walls': environmentally friendly walls which are partially or completely covered with greenery, including a growing medium, such as soil or water. Research also indicates that green roofs can be integrated with drainage systems on the ground, such as street trees, so that the water is managed better and the built environment is made more sustainable. There is also evidence to demonstrate the social value of green roofs. Doctors are increasingly prescribing time spent gardening outdoors for patients dealing with anxiety and depression. And research has found that access to even the most basic green spaces can provide a better quality of life for dementia sufferers and help people avoid obesity."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "In North America, green roofs have become mainstream, with a wide array of expansive, accessible and food-producing roofs installed in buildings. Again, city leaders and authorities have helped push the movement forward — only recently, San Francisco, USA, created a policy requiring new buildings to have green roofs. Toronto, Canada, has policies dating from the 1990s, encouraging the development of urban farms on rooftops. These countries also benefit from having newer buildings than in many parts of the world, which makes it easier to install green roofs. Being able to keep enough water at roof height and distribute it right across the rooftop is crucial to maintaining the plants on any green roof — especially on 'edible roofs' where fruit and vegetables are farmed. And it's much easier to do this in newer buildings, which can typically hold greater weight, than to retro-fit old ones. Having a stronger roof also makes it easier to grow a greater variety of plants, since the soil can be deeper."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "For green roofs to become the norm for new developments, there needs to be support from public authorities and private investors. Those responsible for maintaining buildings may have to acquire new skills, such as landscaping, and in some cases, volunteers may be needed to help out. Other considerations include installing drainage paths, meeting health and safety requirements and perhaps allowing access for the public, as well as planning restrictions and disruption from regular activities in and around the buildings during installation. To convince investors and developers that installing green roofs is worthwhile, economic arguments are still the most important. The term 'natural capital' has been developed to explain the economic value of nature; for example, measuring the money saved by installing natural solutions to protect against flood damage, adapt to climate change or help people lead healthier and happier lives."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "As the expertise about green roofs grows, official standards have been developed to ensure that they are designed, constructed and maintained properly, and function well. Improvements in the science and technology underpinning green roof development have also led to new variations in the concept. For example, 'blue roofs' enable buildings to hold water over longer periods of time, rather than draining it away quickly — crucial in times of heavier rainfall. There are also combinations of green roofs with solar panels, and 'brown roofs' which are wilder in nature and maximise biodiversity. If the trend continues, it could create new jobs and a more vibrant and sustainable local food economy — alongside many other benefits. There are still barriers to overcome, but the evidence so far indicates that green roofs have the potential to transform cities and help them function sustainably long into the future. The success stories need to be studied and replicated elsewhere, to make green, blue, brown and food-producing roofs the norm in cities around the world."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            5
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 1 has five paragraphs, A-E. Which paragraph contains the following information?",
+          "limit": "Write the correct letter, A-E, in boxes 1-5 on your answer sheet. NB You may use any letter more than once.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "mention of several challenges to be overcome before a green roof can be installed"
+            },
+            {
+              "n": 2,
+              "text": "reference to a city where green roofs have been promoted for many years"
+            },
+            {
+              "n": 3,
+              "text": "a belief that existing green roofs should be used as a model for new ones"
+            },
+            {
+              "n": 4,
+              "text": "examples of how green roofs can work in combination with other green urban initiatives"
+            },
+            {
+              "n": 5,
+              "text": "the need to make a persuasive argument for the financial benefits of green roofs"
+            }
+          ]
+        },
+        {
+          "range": [
+            6,
+            9
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Advantages of green roofs",
+          "text": "City rooftops covered with greenery have many advantages. These include lessening the likelihood that floods will occur, reducing how much money is spent on {{6}} and creating environments that are suitable for wildlife. In many cases, they can also be used for producing {{7}}.\n\nThere are also social benefits of green roofs. For example, the medical profession recommends {{8}} as an activity to help people cope with mental health issues. Studies have also shown that the availability of green spaces can prevent physical problems such as {{9}}."
+        },
+        {
+          "range": [
+            10,
+            11
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO advantages of using newer buildings for green roofs are mentioned in Paragraph C of the passage?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "a longer growing season for edible produce"
+            },
+            {
+              "k": "B",
+              "text": "more economical use of water"
+            },
+            {
+              "k": "C",
+              "text": "greater water-storage capacity"
+            },
+            {
+              "k": "D",
+              "text": "ability to cultivate more plant types"
+            },
+            {
+              "k": "E",
+              "text": "a large surface area for growing plants"
+            }
+          ]
+        },
+        {
+          "range": [
+            12,
+            13
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO aims of new variations on the concept of green roofs are mentioned in Paragraph E of the passage?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "to provide habitats for a wide range of species"
+            },
+            {
+              "k": "B",
+              "text": "to grow plants successfully even in the wettest climates"
+            },
+            {
+              "k": "C",
+              "text": "to regulate the temperature of the immediate environment"
+            },
+            {
+              "k": "D",
+              "text": "to generate power from a sustainable source"
+            },
+            {
+              "k": "E",
+              "text": "to collect water to supply other buildings"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The growth mindset",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Over the past century, a powerful idea has taken root in the educational landscape. The concept of intelligence as something innate has been supplanted by the idea that intelligence is not fixed, and that, with the right training, we can be the authors of our own cognitive capabilities. Psychologist Alfred Binet, the developer of the first intelligence tests, was one of many 19th-century scientists who held that earlier view and sought to quantify cognitive ability. Then, in the early 20th century, progressive thinkers revolted against the notion that inherent ability is destiny. Instead, educators such as John Dewey argued that every child's intelligence could be developed, given the right environment."
+        },
+        {
+          "id": "p2",
+          "text": "'Growth mindset theory' is a relatively new — and extremely popular — version of this idea. In many schools today you will see hallways covered in motivational posters and hear speeches on the mindset of great sporting heroes who simply believed their way to the top. A major focus of the growth mindset in schools is coaxing students away from seeing failure as an indication of their ability, and towards seeing it as a chance to improve that ability. As educationalist Jeff Howard noted several decades ago: 'Smart is not something that you just are, smart is something that you can get.'"
+        },
+        {
+          "id": "p3",
+          "text": "The idea of the growth mindset is based on the work of psychologist Carol Dweck in California in the 1990s. In one key experiment, Dweck divided a group of 10- to 12-year-olds into two groups. All were told that they had achieved a high score on a test but the first group were praised for their intelligence in achieving this, while the others were praised for their effort. The second group — those who had been instilled with a 'growth mindset' — were subsequently far more likely to put effort into future tasks. Meanwhile, the former took on only those tasks that would not risk their sense of worth. This group had inferred that success or failure is due to innate ability, and this 'fixed mindset' had led them to fear of failure and lack of effort. Praising ability actually made the students perform worse, while praising effort emphasised that change was possible."
+        },
+        {
+          "id": "p4",
+          "text": "One of the greatest impediments to successfully implementing a growth mindset, however, is the education system itself: in many parts of the world, the school climate is obsessed with performance in the form of constant testing, analysing and ranking of students — a key characteristic of the fixed mindset. Nor is it unusual for schools to create a certain cognitive dissonance, when they applaud the benefits of a growth mindset but then hand out fixed target grades in lessons based on performance."
+        },
+        {
+          "id": "p5",
+          "text": "Aside from the implementation problem, the original growth mindset research has also received harsh criticism. The statistician Andrew Gelman claims that 'their research designs have enough degrees of freedom that they could take their data to support just about any theory at all'. Professor of Psychology Timothy Bates, who has been trying to replicate Dweck's work, is finding that the results are repeatedly null. He notes that: 'People with a growth mindset don't cope any better with failure ... Kids with the growth mindset aren't getting better grades, either before or after our intervention study.'"
+        },
+        {
+          "id": "p6",
+          "text": "Much of this criticism is not lost on Dweck, and she deserves great credit for responding to it and adapting her work accordingly. In fact, she argues that her work has been misunderstood and misapplied in a range of ways. She has also expressed concerns that her theories are being misappropriated in schools by being conflated with the self-esteem movement: 'For me the growth mindset is a tool for learning and improvement. It's not just a vehicle for making children feel good.'"
+        },
+        {
+          "id": "p7",
+          "text": "But there is another factor at work here. The failure to translate the growth mindset into the classroom might reflect a misunderstanding of the nature of teaching and learning itself. Growth mindset supporters David Yeager and Gregory Walton claim that interventions should be delivered in a subtle way to maximise their effectiveness. They say that if adolescents perceive a teacher's intervention as conveying that they are in need of help, this could undo its intended effects."
+        },
+        {
+          "id": "p8",
+          "text": "A lot of what drives students is their innate beliefs and how they perceive themselves. There is a strong correlation between self-perception and achievement, but there is evidence to suggest that the actual effect of achievement on self-perception is stronger than the other way round. To stand up in a classroom and successfully deliver a good speech is a genuine achievement, and that is likely to be more powerfully motivating than vague notions of 'motivation' itself."
+        },
+        {
+          "id": "p9",
+          "text": "Recent evidence would suggest that growth mindset interventions are not the elixir of student learning that its proponents claim it to be. The growth mindset appears to be a viable construct in the lab, which, when administered in the classroom via targeted interventions, doesn't seem to work. It is hard to dispute that having faith in the capacity to change is a good attribute for students. Paradoxically, however, that aspiration is not well served by direct interventions that try to instil it."
+        },
+        {
+          "id": "p10",
+          "text": "Motivational posters and talks are often a waste of time, and might well give students a deluded notion of what success actually means. Teaching concrete skills such as how to write an effective introduction to an essay then praising students' effort in getting there is probably a far better way of improving confidence than telling them how unique they are, or indeed how capable they are of changing their own brains. Perhaps growth mindset works best as a philosophy and not an intervention."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            16
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 14,
+              "text": "What can we learn from the first paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "where the notion of innate intelligence first began"
+                },
+                {
+                  "k": "B",
+                  "text": "when ideas about the nature of intelligence began to shift"
+                },
+                {
+                  "k": "C",
+                  "text": "how scientists have responded to changing views of intelligence"
+                },
+                {
+                  "k": "D",
+                  "text": "why thinkers turned away from the idea of intelligence being fixed"
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "The second paragraph describes how schools encourage students to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "identify their personal ambitions."
+                },
+                {
+                  "k": "B",
+                  "text": "help each other to realise their goals."
+                },
+                {
+                  "k": "C",
+                  "text": "have confidence in their potential to succeed."
+                },
+                {
+                  "k": "D",
+                  "text": "concentrate on where their particular strengths lie."
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "In the third paragraph, the writer suggests that students with a fixed mindset",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "tend to be less competitive."
+                },
+                {
+                  "k": "B",
+                  "text": "generally have a low sense of self-esteem."
+                },
+                {
+                  "k": "C",
+                  "text": "will only work hard if they are given constant encouragement."
+                },
+                {
+                  "k": "D",
+                  "text": "are afraid to push themselves beyond what they see as their limitations."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            22
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following statements (Questions 17-22) and the list of people below. Match each statement with the correct person or people, A-E.",
+          "limit": "Write the correct letter, A-E, in boxes 17-22 on your answer sheet. NB You may use any letter more than once.",
+          "optionsTitle": "List of People",
+          "options": [
+            {
+              "k": "A",
+              "text": "Alfred Binet"
+            },
+            {
+              "k": "B",
+              "text": "Carol Dweck"
+            },
+            {
+              "k": "C",
+              "text": "Andrew Gelman"
+            },
+            {
+              "k": "D",
+              "text": "Timothy Bates"
+            },
+            {
+              "k": "E",
+              "text": "David Yeager and Gregory Walton"
+            }
+          ],
+          "questions": [
+            {
+              "n": 17,
+              "text": "The methodology behind the growth mindset studies was not strict enough."
+            },
+            {
+              "n": 18,
+              "text": "The idea of the growth mindset has been incorrectly interpreted."
+            },
+            {
+              "n": 19,
+              "text": "Intellectual ability is an unchangeable feature of each individual."
+            },
+            {
+              "n": 20,
+              "text": "The growth mindset should be promoted without students being aware of it."
+            },
+            {
+              "n": 21,
+              "text": "The growth mindset is not simply about boosting students' morale."
+            },
+            {
+              "n": 22,
+              "text": "Research shows that the growth mindset has no effect on academic achievement."
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            26
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 2?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the views of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the views of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 23,
+              "text": "Dweck has handled criticisms of her work in an admirable way."
+            },
+            {
+              "n": 24,
+              "text": "Students' self-perception is a more effective driver of self-confidence than actual achievement is."
+            },
+            {
+              "n": 25,
+              "text": "Recent evidence about growth mindset interventions has attracted unfair coverage in the media."
+            },
+            {
+              "n": 26,
+              "text": "Deliberate attempts to encourage students to strive for high achievement may have a negative effect."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Alfred Wegener: science, exploration and the theory of continental drift",
+      "subtitle": "by Mott T Greene",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "This is a book about the life and scientific work of Alfred Wegener, whose reputation today rests with his theory of continental displacements, better known as 'continental drift'. Wegener proposed this theory in 1912 and developed it extensively for nearly 20 years. His book on the subject, The Origin of Continents and Oceans, went through four editions and was the focus of an international controversy in his lifetime and for some years after his death."
+        },
+        {
+          "id": "p2",
+          "text": "Wegener's basic idea was that many mysteries about the Earth's history could be solved if one supposed that the continents moved laterally, rather than supposing that they remained fixed in place. Wegener showed in great detail how such continental movements were plausible and how they worked, using evidence from a large number of sciences including geology, geophysics, paleontology, and climatology. Wegener's idea — that the continents move — is at the heart of the theory that guides Earth sciences today: namely plate tectonics. Plate tectonics is in many respects quite different from Wegener's proposal, in the same way that modern evolutionary theory is very different from the ideas Charles Darwin proposed in the 1850s about biological evolution. Yet plate tectonics is a descendant of Alfred Wegener's theory of continental drift, in quite the same way that modern evolutionary theory is a descendant of Darwin's theory of natural selection."
+        },
+        {
+          "id": "p3",
+          "text": "When I started writing about Wegener's life and work, one of the most intriguing things about him for me was that, although he came up with a theory on continental drift, he was not a geologist. He trained as an astronomer and pursued a career in atmospheric physics. When he proposed the theory of continental displacements in 1912, he was a lecturer in physics and astronomy at the University of Marburg, in southern Germany. However, he was not an 'unknown'. In 1906 he had set a world record (with his brother Kurt) for time aloft in a hot-air balloon: 52 hours. Between 1906 and 1908 he had taken part in a highly publicized and extremely dangerous expedition to the coast of northeast Greenland. He had also made a name for himself amongst a small circle of meteorologists and atmospheric physicists in Germany as the author of a textbook, Thermodynamics of the Atmosphere (1911), and of a number of interesting scientific papers."
+        },
+        {
+          "id": "p4",
+          "text": "As important as Wegener's work on continental drift has turned out to be, it was largely a sideline to his interest in atmospheric physics, geophysics, and paleoclimatology*, and thus I have been at great pains to put Wegener's work on continental drift in the larger context of his other scientific work, and in the even larger context of atmospheric sciences in his lifetime. This is a 'continental drift book' only to the extent that Wegener was interested in that topic and later became famous for it. My treatment of his other scientific work is no less detailed, though I certainly have devoted more attention to the reception of his ideas on continental displacement, as they were much more controversial than his other work."
+        },
+        {
+          "id": "p5",
+          "text": "Readers interested in the specific detail of Wegener's career will see that he often stopped pursuing a given line of investigation (sometimes for years on end), only to pick it up later. I have tried to provide guideposts to his rapidly shifting interests by characterizing different phases of his life as careers in different sciences, which is reflected in the titles of the chapters. Thus, the index should be a sufficient guide for those interested in a particular aspect of Wegener's life but perhaps not all of it. My own feeling, however, is that the parts do not make as much sense on their own as do all of his activities taken together. In this respect I urge readers to try to experience Wegener's life as he lived it, with all the interruptions, changes of mind, and renewed efforts this entailed."
+        },
+        {
+          "id": "p6",
+          "text": "Wegener left behind a few published works but, as was standard practice, these reported the results of his work — not the journey he took to reach that point. Only a few hundred of the many thousands of letters he wrote and received in his lifetime have survived and he didn't keep notebooks or diaries that recorded his life and activities. He was not active (with a few exceptions) in scientific societies, and did not seek to find influence or advance his ideas through professional contacts and politics, spending most of his time at home in his study reading and writing, or in the field collecting observations."
+        },
+        {
+          "id": "p7",
+          "text": "Some famous scientists, such as Newton, Darwin, and Einstein, left mountains of written material behind, hundreds of notebooks and letters numbering in the tens of thousands. Others, like Michael Faraday, left extensive journals of their thoughts and speculations, parallel to their scientific notebooks. The more such material a scientist leaves behind, the better chance a biographer has of forming an accurate picture of how a scientist's ideas took shape and evolved."
+        },
+        {
+          "id": "p8",
+          "text": "I am firmly of the opinion that most of us, Wegener included, are not in any real sense the authors of our own lives. We plan, think, and act, often with apparent freedom, but most of the time our lives 'happen to us', and we only retrospectively turn this happenstance into a coherent narrative of fulfilled intentions. This book, therefore, is a story both of the life and scientific work that Alfred Wegener planned and intended and of the life and scientific work that actually 'happened to him'. These are, as I think you will soon see, not always the same thing."
+        }
+      ],
+      "footnotes": [
+        "* Paleoclimatology — The study of past climates"
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 27,
+              "text": "Wegener's ideas about continental drift were widely disputed while he was alive."
+            },
+            {
+              "n": 28,
+              "text": "The idea that the continents remained fixed in place was defended in a number of respected scientific publications."
+            },
+            {
+              "n": 29,
+              "text": "Wegener relied on a limited range of scientific fields to support his theory of continental drift."
+            },
+            {
+              "n": 30,
+              "text": "The similarities between Wegener's theory of continental drift and modern-day plate tectonics are enormous."
+            }
+          ]
+        },
+        {
+          "range": [
+            31,
+            36
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of phrases, A-J, below.",
+          "limit": "Write the correct letter, A-J, in boxes 31-36 on your answer sheet.",
+          "title": "Wegener's life and work",
+          "text": "One of the remarkable things about Wegener from a {{31}} is that although he proposed a theory of continental drift, he was not a geologist. His {{32}} were limited to atmospheric physics. However, at the time he proposed his theory of continental drift in 1912, he was already a person of {{33}}. Six years previously, there had been his {{34}} of 52 hours in a hot-air balloon, followed by his well-publicised but {{35}} of Greenland's coast. With the publication of his textbook on thermodynamics, he had also come to the attention of a {{36}} of German scientists.",
+          "options": [
+            {
+              "k": "A",
+              "text": "modest fame"
+            },
+            {
+              "k": "B",
+              "text": "vast range"
+            },
+            {
+              "k": "C",
+              "text": "record-breaking achievement"
+            },
+            {
+              "k": "D",
+              "text": "research methods"
+            },
+            {
+              "k": "E",
+              "text": "select group"
+            },
+            {
+              "k": "F",
+              "text": "professional interests"
+            },
+            {
+              "k": "G",
+              "text": "scientific debate"
+            },
+            {
+              "k": "H",
+              "text": "hazardous exploration"
+            },
+            {
+              "k": "I",
+              "text": "biographer's perspective"
+            },
+            {
+              "k": "J",
+              "text": "narrow investigation"
+            }
+          ]
+        },
+        {
+          "range": [
+            37,
+            40
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 37,
+              "text": "What is Mott T Greene doing in the fifth paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "describing what motivated him to write the book"
+                },
+                {
+                  "k": "B",
+                  "text": "explaining why it is desirable to read the whole book"
+                },
+                {
+                  "k": "C",
+                  "text": "suggesting why Wegener pursued so many different careers"
+                },
+                {
+                  "k": "D",
+                  "text": "indicating what aspects of Wegener's life interested him most"
+                }
+              ]
+            },
+            {
+              "n": 38,
+              "text": "What is said about Wegener in the sixth paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "He was not a particularly ambitious person."
+                },
+                {
+                  "k": "B",
+                  "text": "He kept a record of all his scientific observations."
+                },
+                {
+                  "k": "C",
+                  "text": "He did not adopt many of the scientific practices of the time."
+                },
+                {
+                  "k": "D",
+                  "text": "He enjoyed discussing new discoveries with other scientists."
+                }
+              ]
+            },
+            {
+              "n": 39,
+              "text": "What does Greene say about some other famous scientists?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Their published works had a greater impact than Wegener's did."
+                },
+                {
+                  "k": "B",
+                  "text": "They had fewer doubts about their scientific ideas than Wegener did."
+                },
+                {
+                  "k": "C",
+                  "text": "Their scientific ideas were more controversial than Wegener's."
+                },
+                {
+                  "k": "D",
+                  "text": "They are easier subjects to write about than Wegener."
+                }
+              ]
+            },
+            {
+              "n": 40,
+              "text": "What is Greene's main point in the final paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It is not enough in life to have good intentions."
+                },
+                {
+                  "k": "B",
+                  "text": "People need to plan carefully if they want to succeed."
+                },
+                {
+                  "k": "C",
+                  "text": "People have little control over many aspects of their lives."
+                },
+                {
+                  "k": "D",
+                  "text": "It is important that people ensure they have the freedom to act."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "D"
+    ],
+    "2": [
+      "C"
+    ],
+    "3": [
+      "E"
+    ],
+    "4": [
+      "B"
+    ],
+    "5": [
+      "D"
+    ],
+    "6": [
+      "energy"
+    ],
+    "7": [
+      "food"
+    ],
+    "8": [
+      "gardening"
+    ],
+    "9": [
+      "obesity"
+    ],
+    "10": [
+      "C"
+    ],
+    "11": [
+      "D"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "D"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "D"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "B"
+    ],
+    "19": [
+      "A"
+    ],
+    "20": [
+      "E"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "D"
+    ],
+    "23": [
+      "YES"
+    ],
+    "24": [
+      "NO"
+    ],
+    "25": [
+      "NOT GIVEN"
+    ],
+    "26": [
+      "YES"
+    ],
+    "27": [
+      "YES"
+    ],
+    "28": [
+      "NOT GIVEN"
+    ],
+    "29": [
+      "NO"
+    ],
+    "30": [
+      "NO"
+    ],
+    "31": [
+      "I"
+    ],
+    "32": [
+      "F"
+    ],
+    "33": [
+      "A"
+    ],
+    "34": [
+      "C"
+    ],
+    "35": [
+      "H"
+    ],
+    "36": [
+      "E"
+    ],
+    "37": [
+      "B"
+    ],
+    "38": [
+      "A"
+    ],
+    "39": [
+      "D"
+    ],
+    "40": [
+      "C"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "D",
+      "key": "Other considerations include installing drainage paths, meeting health and safety requirements and perhaps allowing access for the public, as well as planning restrictions and disruption from regular activities",
+      "why": "题干 several challenges to be overcome before installation = D 段列举的排水、安全、公众开放、规划限制、施工干扰等多项挑战。"
+    },
+    "2": {
+      "loc": "A",
+      "key": "London is home to much of the UK's green roof market, mainly due to forward-thinking policies such as the London Plan",
+      "why": "题干 a city where green roofs have been promoted for many years，对应 A 段提到伦敦长期依靠 London Plan 等政策推动绿色屋顶。"
+    },
+    "3": {
+      "loc": "E",
+      "key": "The success stories need to be studied and replicated elsewhere, to make green, blue, brown and food-producing roofs the norm",
+      "why": "题干 existing green roofs should be used as a model for new ones，对应 E 段结尾呼吁把成功案例复制推广。"
+    },
+    "4": {
+      "loc": "B",
+      "key": "green roofs can be integrated with drainage systems on the ground, such as street trees",
+      "why": "题干 work in combination with other green urban initiatives，对应 B 段绿色屋顶与地面排水系统（street trees 等）结合的例子。"
+    },
+    "5": {
+      "loc": "D",
+      "key": "To convince investors and developers that installing green roofs is worthwhile, economic arguments are still the most important",
+      "why": "题干 persuasive argument for the financial benefits，对应 D 段强调说服投资者需要经济论证。"
+    },
+    "6": {
+      "loc": "A",
+      "key": "saving on energy costs",
+      "why": "原文 A 段说绿色屋顶的好处之一是节省能源开支，摘要空 6 处对应 energy。"
+    },
+    "7": {
+      "loc": "A",
+      "key": "even growing food",
+      "why": "原文 A 段提到绿色屋顶还可以用来种植食物，对应空 7 的 food。"
+    },
+    "8": {
+      "loc": "B",
+      "key": "Doctors are increasingly prescribing time spent gardening outdoors for patients dealing with anxiety and depression",
+      "why": "题干 the medical profession recommends … as an activity to help people cope with mental health issues，对应医生建议园艺活动，答案 gardening。"
+    },
+    "9": {
+      "loc": "B",
+      "key": "help people avoid obesity",
+      "why": "题干 prevent physical problems such as …，对应原文绿地帮助人们避免肥胖，答案 obesity。"
+    },
+    "10": {
+      "loc": "C",
+      "key": "Being able to keep enough water at roof height and distribute it right across the rooftop is crucial to maintaining the plants",
+      "why": "储水并均匀分配 = greater water-storage capacity，对应选项 C。"
+    },
+    "11": {
+      "loc": "C",
+      "key": "Having a stronger roof also makes it easier to grow a greater variety of plants, since the soil can be deeper",
+      "why": "更结实的屋顶能种更多种类植物 = ability to cultivate more plant types，对应选项 D。"
+    },
+    "12": {
+      "loc": "E",
+      "key": "'brown roofs' which are wilder in nature and maximise biodiversity",
+      "why": "brown roofs 最大化生物多样性 = 为各种物种提供栖息地，对应选项 A。"
+    },
+    "13": {
+      "loc": "E",
+      "key": "There are also combinations of green roofs with solar panels",
+      "why": "与太阳能板结合 = 从可持续能源发电，对应选项 D。"
+    },
+    "14": {
+      "loc": "p1",
+      "key": "The concept of intelligence as something innate has been supplanted by the idea that intelligence is not fixed",
+      "why": "第一段讲的是人们对智力本质看法的转变（何时开始转变），对应选项 B。"
+    },
+    "15": {
+      "loc": "p2",
+      "key": "coaxing students away from seeing failure as an indication of their ability, and towards seeing it as a chance to improve that ability",
+      "why": "第二段说学校鼓励学生相信自己能够进步、成功，对应选项 C have confidence in their potential to succeed。"
+    },
+    "16": {
+      "loc": "p3",
+      "key": "the former took on only those tasks that would not risk their sense of worth … led them to fear of failure and lack of effort",
+      "why": "固定型思维的学生只挑不冒险的任务、害怕失败，也就是不敢挑战超出自己能力范围的事，对应选项 D。"
+    },
+    "17": {
+      "loc": "p5",
+      "key": "their research designs have enough degrees of freedom that they could take their data to support just about any theory at all",
+      "why": "Gelman 批评研究方法不够严谨（研究设计自由度过大），对应 C Andrew Gelman。"
+    },
+    "18": {
+      "loc": "p6",
+      "key": "she argues that her work has been misunderstood and misapplied in a range of ways",
+      "why": "Dweck 本人说自己的理论被误解和误用，对应 B Carol Dweck。"
+    },
+    "19": {
+      "loc": "p1",
+      "key": "one of many 19th-century scientists who held that earlier view and sought to quantify cognitive ability",
+      "why": "Binet 持有智力是天生不变、可被量化的旧观点，对应 A Alfred Binet。"
+    },
+    "20": {
+      "loc": "p7",
+      "key": "interventions should be delivered in a subtle way to maximise their effectiveness",
+      "why": "Yeager 和 Walton 认为干预应该以不易察觉的方式进行，对应 E David Yeager and Gregory Walton。"
+    },
+    "21": {
+      "loc": "p6",
+      "key": "For me the growth mindset is a tool for learning and improvement. It's not just a vehicle for making children feel good.",
+      "why": "Dweck 强调成长型思维不只是让学生感觉良好（自尊），对应 B Carol Dweck。"
+    },
+    "22": {
+      "loc": "p5",
+      "key": "Kids with the growth mindset aren't getting better grades, either before or after our intervention study",
+      "why": "Bates 的研究显示成长型思维对学业成绩没有影响，对应 D Timothy Bates。"
+    },
+    "23": {
+      "loc": "p6",
+      "key": "Much of this criticism is not lost on Dweck, and she deserves great credit for responding to it and adapting her work accordingly",
+      "why": "作者称赞 Dweck 应对批评的方式值得肯定（admirable）→ YES。"
+    },
+    "24": {
+      "loc": "p8",
+      "key": "there is evidence to suggest that the actual effect of achievement on self-perception is stronger than the other way round",
+      "why": "原文说成就对自我认知的影响比反过来更强，与题干说法相反 → NO。"
+    },
+    "25": {
+      "loc": "p9",
+      "key": "Recent evidence would suggest that growth mindset interventions are not the elixir of student learning that its proponents claim it to be",
+      "why": "原文只评价证据本身，没有提到媒体报道是否不公 → NOT GIVEN。"
+    },
+    "26": {
+      "loc": "p9",
+      "key": "Paradoxically, however, that aspiration is not well served by direct interventions that try to instil it",
+      "why": "刻意直接干预反而效果不好，即可能产生负面效果 → YES。"
+    },
+    "27": {
+      "loc": "p1",
+      "key": "was the focus of an international controversy in his lifetime and for some years after his death",
+      "why": "原文明确说韦格纳的理论在他在世时就引发国际争议 → YES。"
+    },
+    "28": {
+      "loc": "p2",
+      "key": "Wegener's basic idea was that many mysteries about the Earth's history could be solved if one supposed that the continents moved laterally, rather than supposing that they remained fixed in place",
+      "why": "原文只说了大陆固定说是当时的旧观点，没有提到有具体权威科学出版物为此辩护 → NOT GIVEN。"
+    },
+    "29": {
+      "loc": "p2",
+      "key": "using evidence from a large number of sciences including geology, geophysics, paleontology, and climatology",
+      "why": "原文说韦格纳用了大量不同学科的证据，与题干 limited range 相反 → NO。"
+    },
+    "30": {
+      "loc": "p2",
+      "key": "Plate tectonics is in many respects quite different from Wegener's proposal",
+      "why": "原文明确说板块构造论在许多方面与韦格纳的假说不同，与题干 enormous similarities 相反 → NO。"
+    },
+    "31": {
+      "loc": "p3",
+      "key": "When I started writing about Wegener's life and work, one of the most intriguing things about him for me was that … he was not a geologist",
+      "why": "这是作者（biographer）自己的视角发出的评论，对应 I biographer's perspective。"
+    },
+    "32": {
+      "loc": "p3",
+      "key": "He trained as an astronomer and pursued a career in atmospheric physics",
+      "why": "他的专业兴趣局限于大气物理学，对应 F professional interests。"
+    },
+    "33": {
+      "loc": "p3",
+      "key": "he was not an 'unknown'",
+      "why": "提出理论时他已经小有名气，对应 A modest fame。"
+    },
+    "34": {
+      "loc": "p3",
+      "key": "he had set a world record (with his brother Kurt) for time aloft in a hot-air balloon: 52 hours",
+      "why": "打破世界纪录 = record-breaking achievement，对应 C。"
+    },
+    "35": {
+      "loc": "p3",
+      "key": "a highly publicized and extremely dangerous expedition to the coast of northeast Greenland",
+      "why": "危险的探险 = hazardous exploration，对应 H。"
+    },
+    "36": {
+      "loc": "p3",
+      "key": "He had also made a name for himself amongst a small circle of meteorologists and atmospheric physicists in Germany",
+      "why": "small circle = 一小群德国科学家，对应 E select group。"
+    },
+    "37": {
+      "loc": "p5",
+      "key": "I have tried to provide guideposts to his rapidly shifting interests … the index should be a sufficient guide for those interested in a particular aspect of Wegener's life but perhaps not all of it",
+      "why": "作者在第五段说明了自己写作时如何安排章节以及为何建议读者读完整本书，对应选项 D indicating what aspects of Wegener's life interested him most 更贴切：段落解释了他关注韦格纳一生中哪些方面。"
+    },
+    "38": {
+      "loc": "p6",
+      "key": "He was not active (with a few exceptions) in scientific societies, and did not seek to find influence or advance his ideas through professional contacts and politics",
+      "why": "他不热衷于通过人脉和政治谋求影响力，说明他不是追求名利的人 → A He was not a particularly ambitious person。"
+    },
+    "39": {
+      "loc": "p7",
+      "key": "Some famous scientists, such as Newton, Darwin, and Einstein, left mountains of written material behind … Others, like Michael Faraday, left extensive journals of their thoughts and speculations",
+      "why": "相比韦格纳留下的资料很少，牛顿、达尔文等人留下大量笔记书信，说明关于韦格纳的写作更难（材料少）→ D They are easier subjects to write about than Wegener（反过来说明韦格纳更难写）。"
+    },
+    "40": {
+      "loc": "p8",
+      "key": "most of the time our lives 'happen to us', and we only retrospectively turn this happenstance into a coherent narrative of fulfilled intentions",
+      "why": "作者说人生大多是被动发生在我们身上的，而非完全由我们计划掌控，对应 C People have little control over many aspects of their lives。"
+    }
+  }
+}

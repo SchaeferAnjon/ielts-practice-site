@@ -1,0 +1,1319 @@
+{
+  "id": "c18t4",
+  "book": "剑桥雅思18",
+  "test": 4,
+  "title": "剑18 Test 4 · Listening",
+  "source": "Cambridge IELTS 18 Academic, Test 4（OCR 扫描 + 人工校对，答案已对照原书图片核实）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c18/t4p1.mp3",
+      "duration": 443,
+      "title": "Job details from employment agency",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Job details from employment agency",
+          "lines": [
+            "Role: {{1}}",
+            "## Location",
+            "Fordham {{2}} Centre",
+            "{{3}} Road, Fordham",
+            "## Work involves",
+            "dealing with enquiries",
+            "making {{4}} and reorganising them",
+            "maintaining the internal {{5}}",
+            "general administration",
+            "## Requirements",
+            "{{6}} (essential)",
+            "a calm and {{7}} manner",
+            "good IT skills",
+            "## Other information",
+            "a {{8}} job – further opportunities may be available",
+            "hours: 7.45 a.m. to {{9}} p.m. Monday to Friday",
+            "{{10}} is available onsite"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "JULIE",
+          "t": "Hello?",
+          "start": 82.3,
+          "end": 83.26
+        },
+        {
+          "s": "GREG",
+          "t": "Oh, hello. Is that Julie Davison?",
+          "start": 83.26,
+          "end": 84.46
+        },
+        {
+          "s": "JULIE",
+          "t": "Yes.",
+          "start": 85.26,
+          "end": 85.78
+        },
+        {
+          "s": "GREG",
+          "t": "This is Greg Preston from the Employment Agency. We met last week when you came in to enquire about office work.",
+          "start": 86.26,
+          "end": 94.1
+        },
+        {
+          "s": "JULIE",
+          "t": "Oh, that's right.",
+          "start": 94.3,
+          "end": 95.22
+        },
+        {
+          "s": "GREG",
+          "t": "Now we've just had some details come in of a job which might interest you.",
+          "start": 96.04,
+          "end": 100.72
+        },
+        {
+          "s": "JULIE",
+          "t": "OK.",
+          "start": 100.8,
+          "end": 100.92
+        },
+        {
+          "s": "GREG",
+          "t": "So this is a position for a receptionist — I believe you've done that sort of work before?",
+          "q": [
+            1
+          ],
+          "start": 100.96,
+          "end": 109.32
+        },
+        {
+          "s": "JULIE",
+          "t": "Yes, I have, I worked in a sports centre for a couple of years before I got married and had the children.",
+          "start": 109.56,
+          "end": 115.64
+        },
+        {
+          "s": "GREG",
+          "t": "Right. Well, this job's in Fordham, so not too far away for you, and it's at the medical centre there.",
+          "q": [
+            2
+          ],
+          "start": 116.04,
+          "end": 124.1
+        },
+        {
+          "s": "JULIE",
+          "t": "OK. So where exactly is that?",
+          "start": 124.22,
+          "end": 126.98
+        },
+        {
+          "s": "GREG",
+          "t": "It's quite near the station, on Chastons Road.",
+          "q": [
+            3
+          ],
+          "start": 127.48,
+          "end": 130.84
+        },
+        {
+          "s": "JULIE",
+          "t": "Sorry?",
+          "start": 131.12,
+          "end": 131.72
+        },
+        {
+          "s": "GREG",
+          "t": "Chastons Road — that's C-H-A-S-T-O-N-S.",
+          "start": 133.28,
+          "end": 142.74
+        },
+        {
+          "s": "JULIE",
+          "t": "OK, thanks. So what would the work involve? Dealing with enquiries from patients?",
+          "start": 143.14,
+          "end": 148.86
+        },
+        {
+          "s": "GREG",
+          "t": "Yes, and you'd also be involved in making appointments, whether face to face or on the phone. And rescheduling them if necessary.",
+          "q": [
+            4
+          ],
+          "start": 149.18,
+          "end": 159.42
+        },
+        {
+          "s": "JULIE",
+          "t": "Fine, that shouldn't be a problem.",
+          "start": 159.86,
+          "end": 161.66
+        },
+        {
+          "s": "GREG",
+          "t": "And another of your duties would be keeping the centre's database up-to-date. Then you might have other general administrative duties as well, but those would be the main ones.",
+          "q": [
+            5
+          ],
+          "start": 162.45,
+          "end": 175.07
+        },
+        {
+          "s": "JULIE",
+          "t": "OK.",
+          "start": 175.07,
+          "end": 175.91
+        },
+        {
+          "s": "GREG",
+          "t": "Now when the details came in, I immediately thought of you because one thing they do require is someone with experience, and you did mention your work at the sports centre when you came in to see us.",
+          "q": [
+            6
+          ],
+          "start": 232.99,
+          "end": 247.03
+        },
+        {
+          "s": "JULIE",
+          "t": "Yes, in fact I enjoyed that job. Is there anything else they're looking for?",
+          "start": 247.15,
+          "end": 252.11
+        },
+        {
+          "s": "GREG",
+          "t": "Well, they say it's quite a high-pressure environment, they're always very busy, and patients are often under stress, so they want someone who can cope with that and stay calm, and at the same time be confident when interacting with the public.",
+          "q": [
+            7
+          ],
+          "start": 252.97,
+          "end": 272.15
+        },
+        {
+          "s": "JULIE",
+          "t": "Well, after dealing with three children all under five, I reckon I can cope with that.",
+          "start": 272.39,
+          "end": 277.73
+        },
+        {
+          "s": "GREG",
+          "t": "I'm sure you can.",
+          "start": 277.89,
+          "end": 278.93
+        },
+        {
+          "s": "GREG",
+          "t": "And then another thing they mention is that they're looking for someone with good IT skills ...",
+          "start": 278.93,
+          "end": 286.81
+        },
+        {
+          "s": "JULIE",
+          "t": "Not a problem.",
+          "start": 287.45,
+          "end": 288.05
+        },
+        {
+          "s": "GREG",
+          "t": "So you'd be interested in following this up?",
+          "start": 288.64,
+          "end": 291.24
+        },
+        {
+          "s": "JULIE",
+          "t": "Sure. When would it start?",
+          "start": 291.44,
+          "end": 293.56
+        },
+        {
+          "s": "GREG",
+          "t": "Well, they're looking for someone from the beginning of next month, but I should tell you that this isn't a permanent job, it's temporary, so the contract would be just to the end of September. But they do say that there could be further opportunities after that.",
+          "q": [
+            8
+          ],
+          "start": 293.92,
+          "end": 311.65
+        },
+        {
+          "s": "JULIE",
+          "t": "OK. And what would the hours be?",
+          "start": 312.25,
+          "end": 314.53
+        },
+        {
+          "s": "GREG",
+          "t": "Well, they want someone who can start at a quarter to eight in the morning — could you manage that?",
+          "start": 314.65,
+          "end": 320.73
+        },
+        {
+          "s": "JULIE",
+          "t": "Yes, my husband would have to get the kids up and off to my mother's — she's going to be looking after them while I'm at work. What time would I finish?",
+          "start": 321.53,
+          "end": 330.35
+        },
+        {
+          "s": "GREG",
+          "t": "One fifteen.",
+          "q": [
+            9
+          ],
+          "start": 330.75,
+          "end": 331.47
+        },
+        {
+          "s": "JULIE",
+          "t": "That should work out all right. I can pick the kids up on my way home, and then I'll have the afternoon with them. Oh, one thing ... is there parking available for staff at the centre?",
+          "q": [
+            10
+          ],
+          "start": 332.39,
+          "end": 343.02
+        },
+        {
+          "s": "GREG",
+          "t": "Yes, there is, and it's also on a bus route.",
+          "start": 343.58,
+          "end": 346.9
+        },
+        {
+          "s": "JULIE",
+          "t": "Right. Well, I expect I'll have the car but it's good to know that. OK, so where do I go from here?",
+          "start": 347.5,
+          "end": 354.38
+        },
+        {
+          "s": "GREG",
+          "t": "Well, if you're happy for me to do so, I'll forward your CV and references, and then the best thing would probably be for you to phone them so they can arrange for an interview.",
+          "start": 354.74,
+          "end": 367.89
+        },
+        {
+          "s": "JULIE",
+          "t": "Great. Well thank you very much.",
+          "start": 368.17,
+          "end": 370.29
+        },
+        {
+          "s": "GREG",
+          "t": "You're welcome. Bye now.",
+          "start": 370.49,
+          "end": 372.3
+        },
+        {
+          "s": "JULIE",
+          "t": "Bye.",
+          "start": 372.38,
+          "end": 372.78
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c18/t4p2.mp3",
+      "duration": 436,
+      "title": "Museum of Farming Life",
+      "groups": [
+        {
+          "range": [
+            11,
+            14
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Museum of Farming Life",
+          "questions": [
+            {
+              "n": 11,
+              "text": "The museum building was originally",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a factory."
+                },
+                {
+                  "k": "B",
+                  "text": "a private home."
+                },
+                {
+                  "k": "C",
+                  "text": "a hall of residence."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "The university uses part of the museum building as",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "teaching rooms."
+                },
+                {
+                  "k": "B",
+                  "text": "a research library."
+                },
+                {
+                  "k": "C",
+                  "text": "administration offices."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "What does the guide say about the entrance fee?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Visitors decide whether or not they wish to pay."
+                },
+                {
+                  "k": "B",
+                  "text": "Only children and students receive a discount."
+                },
+                {
+                  "k": "C",
+                  "text": "The museum charges extra for special exhibitions."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "What are visitors advised to leave in the cloakroom?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "cameras"
+                },
+                {
+                  "k": "B",
+                  "text": "coats"
+                },
+                {
+                  "k": "C",
+                  "text": "bags"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            20
+          ],
+          "type": "matching",
+          "instruction": "What information does the speaker give about each of the following areas of the museum?",
+          "limit": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 15-20.",
+          "optionsTitle": "Information",
+          "options": [
+            {
+              "k": "A",
+              "text": "Parents must supervise their children."
+            },
+            {
+              "k": "B",
+              "text": "There are new things to see."
+            },
+            {
+              "k": "C",
+              "text": "It is closed today."
+            },
+            {
+              "k": "D",
+              "text": "This is only for school groups."
+            },
+            {
+              "k": "E",
+              "text": "There is a quiz for visitors."
+            },
+            {
+              "k": "F",
+              "text": "It features something created by students."
+            },
+            {
+              "k": "G",
+              "text": "An expert is here today."
+            },
+            {
+              "k": "H",
+              "text": "There is a one-way system."
+            }
+          ],
+          "itemsTitle": "Areas of museum",
+          "items": [
+            {
+              "n": 15,
+              "text": "Four Seasons"
+            },
+            {
+              "n": 16,
+              "text": "Farmhouse Kitchen"
+            },
+            {
+              "n": 17,
+              "text": "A Year on the Farm"
+            },
+            {
+              "n": 18,
+              "text": "Wagon Walk"
+            },
+            {
+              "n": 19,
+              "text": "Bees are Magic"
+            },
+            {
+              "n": 20,
+              "text": "The Pond"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning everyone, and welcome to the Museum of Farming Life. I understand it's your first visit here, so I'd like to give you some background information about the museum and then explain a little about what you can see during your visit.",
+          "start": 49.96,
+          "end": 66.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, where we're standing at the moment is the entrance to a large building that was constructed in 1880 as the home of a local businessman, Alfred Palmer, of the Palmer biscuit factory.",
+          "q": [
+            11
+          ],
+          "start": 67.37,
+          "end": 81.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It was later sold and became a hall of residence for students in 1911, and a museum in 1951. In 2005, a modern extension was built to accommodate the museum's collections.",
+          "start": 83.03,
+          "end": 99.05
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The museum's owned by the university, and apart from two rooms that are our offices, the university uses the main part of the building. You may see students going into the building for lessons, but it's not open to museum visitors, I'm afraid.",
+          "q": [
+            12
+          ],
+          "start": 100.94,
+          "end": 118.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's a shame because the interior architectural features are outstanding, especially the room that used to be the library.",
+          "start": 119.28,
+          "end": 127.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Luckily, we've managed to keep entry to the museum free. This includes access to all the galleries, outdoor areas and the rooms for special exhibitions. We run activities for children and students, such as the museum club, for which there's no charge. We do have a donation box just over there so feel free to give whatever amount you consider appropriate.",
+          "q": [
+            13
+          ],
+          "start": 128.91,
+          "end": 158.42
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We do have a cloakroom, if you'd like to leave your coats and bags somewhere. Unlike other museums, photography is allowed here, so you might like to keep your cameras with you. You might be more comfortable not carrying around heavy rucksacks, though keep your coats and jackets on as it's quite cold in the museum garden today.",
+          "q": [
+            14
+          ],
+          "start": 159.86,
+          "end": 183.88
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'd like to tell you about the different areas of the museum.",
+          "start": 231.36,
+          "end": 234.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Just inside, and outside the main gallery, we have an area called Four Seasons. Here you can watch a four-minute animation of a woodland scene. It was designed especially for the museum by a group of young people on a film studies course, and it's beautiful. Children absolutely love it, but then, so do adults.",
+          "q": [
+            15
+          ],
+          "start": 235.96,
+          "end": 258.99
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The main gallery's called Town and Country. It includes a photographic collection of prize-winning sheep and shepherds. Leaving Town and Country, you enter Farmhouse Kitchen, which is ... well, self-explanatory. Here we have the oldest collection of equipment for making butter and cheese in the country. And this morning, a specialist cheesemaker will be giving demonstrations of how it's produced. You may even get to try some.",
+          "q": [
+            16
+          ],
+          "start": 260.11,
+          "end": 291.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "After that, you can go in two directions. To the right is a staircase that takes you up to a landing from where you can look down on the galleries. To the left is a room called A Year on the Farm. There's lots of seating here as sometimes we use the room for school visits, so it's a good place to stop for a rest. If you're feeling competitive, you can take our memory test in which you answer questions about things you've seen in the museum.",
+          "q": [
+            17
+          ],
+          "start": 293.4,
+          "end": 325.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The next area's called Wagon Walk. This contains farm carts from nearly every part of the country. It's surprising how much regional variation there was. Beside the carts are display boards with information about each one. The carts are old and fragile, so we ask you to keep your children close to you and ensure they don't climb on the carts.",
+          "q": [
+            18
+          ],
+          "start": 327.27,
+          "end": 353.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "From Wagon Walk, you can either make your way back to reception or go out into the garden — or even go back to take another look in the galleries. In the far corner of the garden is Bees are Magic, but we're redeveloping this area so you can't visit that at the moment. You can still buy our honey in the shop, though.",
+          "q": [
+            19
+          ],
+          "start": 355.14,
+          "end": 377.42
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Finally, there's The Pond, which contains all kinds of interesting wildlife. There are baby ducks that are only a few days old, as well as tiny frogs. The Pond isn't deep and there's a fence around it, so it's perfectly safe for children.",
+          "q": [
+            20
+          ],
+          "start": 378.55,
+          "end": 396.25
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c18/t4p3.mp3",
+      "duration": 418,
+      "title": "Using origami in teaching",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO educational skills were shown in the video of children doing origami?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "solving problems"
+            },
+            {
+              "k": "B",
+              "text": "following instructions"
+            },
+            {
+              "k": "C",
+              "text": "working cooperatively"
+            },
+            {
+              "k": "D",
+              "text": "learning through play"
+            },
+            {
+              "k": "E",
+              "text": "developing hand-eye coordination"
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            27
+          ],
+          "type": "matching",
+          "instruction": "Which comment do the students make about each of the following children in the video?",
+          "limit": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 23-27.",
+          "optionsTitle": "Comments",
+          "options": [
+            {
+              "k": "A",
+              "text": "demonstrated independence"
+            },
+            {
+              "k": "B",
+              "text": "asked for teacher support"
+            },
+            {
+              "k": "C",
+              "text": "developed a competitive attitude"
+            },
+            {
+              "k": "D",
+              "text": "seemed to find the activity calming"
+            },
+            {
+              "k": "E",
+              "text": "seemed pleased with the results"
+            },
+            {
+              "k": "F",
+              "text": "seemed confused"
+            },
+            {
+              "k": "G",
+              "text": "seemed to find the activity easy"
+            }
+          ],
+          "itemsTitle": "Children",
+          "items": [
+            {
+              "n": 23,
+              "text": "Sid"
+            },
+            {
+              "n": 24,
+              "text": "Jack"
+            },
+            {
+              "n": 25,
+              "text": "Naomi"
+            },
+            {
+              "n": 26,
+              "text": "Anya"
+            },
+            {
+              "n": 27,
+              "text": "Zara"
+            }
+          ]
+        },
+        {
+          "range": [
+            28,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 28,
+              "text": "Before starting an origami activity in class, the students think it is important for the teacher to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "make models that demonstrate the different stages."
+                },
+                {
+                  "k": "B",
+                  "text": "check children understand the terminology involved."
+                },
+                {
+                  "k": "C",
+                  "text": "tell children not to worry if they find the activity difficult."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "The students agree that some teachers might be unwilling to use origami in class because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "they may not think that crafts are important."
+                },
+                {
+                  "k": "B",
+                  "text": "they may not have the necessary skills."
+                },
+                {
+                  "k": "C",
+                  "text": "they may worry that it will take up too much time."
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "Why do the students decide to use origami in their maths teaching practice?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "to correct a particular misunderstanding"
+                },
+                {
+                  "k": "B",
+                  "text": "to set a challenge"
+                },
+                {
+                  "k": "C",
+                  "text": "to introduce a new concept"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TUTOR",
+          "t": "So now I want you to discuss the lesson we've just been watching on the video and think about the ways in which origami can be a useful educational tool. Can you all work with the person sitting next to you ...",
+          "start": 61.46,
+          "end": 74.72
+        },
+        {
+          "s": "SEB",
+          "t": "I had no idea that such a simple thing like folding squares of paper to make the shape of something like a bird could be such an amazing tool. It's made me see origami in a whole new light.",
+          "start": 76.23,
+          "end": 87.23
+        },
+        {
+          "s": "LIA",
+          "t": "I know. It was interesting to see the educational skills the children were developing by doing origami. On the video you could see them really listening hard to make sure they did all the steps in the right order to make the bird.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 87.71,
+          "end": 101.55
+        },
+        {
+          "s": "SEB",
+          "t": "That's right. In this lesson they were working individually but it would also be interesting to see if the children could work out how to make something simple without being given any direction. That would help with building teamwork as well.",
+          "start": 101.75,
+          "end": 116.8
+        },
+        {
+          "s": "LIA",
+          "t": "Yes, but much more of a challenge. One thing that really stood out for me was that the children were all having fun while being taught something new.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 116.88,
+          "end": 126.48
+        },
+        {
+          "s": "SEB",
+          "t": "Which is a key aim of any lesson with this age group. And although these kids had no problems with folding the paper, with younger children you could do origami to help practise fine motor skills.",
+          "start": 126.68,
+          "end": 138.71
+        },
+        {
+          "s": "LIA",
+          "t": "Absolutely. Shall we talk about the individual children we saw on the video? I wrote all their names down and took some notes.",
+          "start": 138.87,
+          "end": 148.37
+        },
+        {
+          "s": "SEB",
+          "t": "Yes, I did too.",
+          "start": 148.37,
+          "end": 149.77
+        },
+        {
+          "s": "LIA",
+          "t": "OK, good. Let's start with Sid.",
+          "start": 150.09,
+          "end": 153.26
+        },
+        {
+          "s": "SEB",
+          "t": "He was interesting because before they started doing the origami, he was being quite disruptive.",
+          "start": 153.58,
+          "end": 160.02
+        },
+        {
+          "s": "LIA",
+          "t": "Yes. He really benefited from having to use his hands — it helped him to settle down and start concentrating.",
+          "q": [
+            23
+          ],
+          "start": 160.26,
+          "end": 168.32
+        },
+        {
+          "s": "SEB",
+          "t": "Yes, I noticed that too. What about Jack? I noticed he seemed to want to work things out for himself.",
+          "start": 168.52,
+          "end": 176.52
+        },
+        {
+          "s": "LIA",
+          "t": "Mmm. You could see him trying out different things rather than asking the teacher for help. What did you make of Naomi?",
+          "q": [
+            24
+          ],
+          "start": 177.92,
+          "end": 185.04
+        },
+        {
+          "s": "SEB",
+          "t": "She seemed to be losing interest at one point but then she decided she wanted her mouse to be the best and that motivated her to try harder.",
+          "q": [
+            25
+          ],
+          "start": 185.4,
+          "end": 194.79
+        },
+        {
+          "s": "LIA",
+          "t": "She didn't seem satisfied with hers in the end, though.",
+          "start": 194.95,
+          "end": 198.27
+        },
+        {
+          "s": "SEB",
+          "t": "No.",
+          "start": 198.43,
+          "end": 198.99
+        },
+        {
+          "s": "LIA",
+          "t": "Anya was such a star. She listened so carefully and then produced the perfect bird with very little effort.",
+          "q": [
+            26
+          ],
+          "start": 200.92,
+          "end": 209.16
+        },
+        {
+          "s": "SEB",
+          "t": "Mmm — I think the teacher could have increased the level of difficulty for her.",
+          "start": 210.12,
+          "end": 213.92
+        },
+        {
+          "s": "LIA",
+          "t": "Maybe. I think it was the first time Zara had come across origami.",
+          "start": 214.72,
+          "end": 220.0
+        },
+        {
+          "s": "SEB",
+          "t": "She looked as if she didn't really get what was going on.",
+          "start": 220.08,
+          "end": 223.0
+        },
+        {
+          "s": "LIA",
+          "t": "She seemed unsure about what she was supposed to do, but in the end hers didn't turn out too badly.",
+          "q": [
+            27
+          ],
+          "start": 223.2,
+          "end": 229.62
+        },
+        {
+          "s": "SEB",
+          "t": "Yeah. I'm sure it was a positive learning experience for her.",
+          "start": 229.98,
+          "end": 233.5
+        },
+        {
+          "s": "LIA",
+          "t": "Mmm.",
+          "start": 233.5,
+          "end": 233.5,
+          "estimated": true
+        },
+        {
+          "s": "LIA",
+          "t": "I think one reason why the origami activity worked so well in this class was that the teacher was well prepared.",
+          "start": 276.32,
+          "end": 283.52
+        },
+        {
+          "s": "SEB",
+          "t": "Right. I think it would have taken me ages to prepare examples, showing each of the steps involved in making the bird. But that was a really good idea. The children could see what they were aiming for — and much better for them to be able to hold something, rather than just looking at pictures.",
+          "q": [
+            28
+          ],
+          "start": 283.84,
+          "end": 301.96
+        },
+        {
+          "s": "LIA",
+          "t": "Mmm — those physical examples supported her verbal explanations really well.",
+          "start": 302.96,
+          "end": 307.12
+        },
+        {
+          "s": "SEB",
+          "t": "It's strange that origami isn't used more widely. Why do you think that is?",
+          "start": 307.76,
+          "end": 312.6
+        },
+        {
+          "s": "LIA",
+          "t": "Well, teachers may just feel it's not that appealing to children who are used to doing everything on computers, especially boys. Even if they're aware of the benefits.",
+          "start": 312.84,
+          "end": 322.69
+        },
+        {
+          "s": "SEB",
+          "t": "Oh, I don't know. It's no different to any other craft activity. I bet it's because so many teachers are clumsy like me.",
+          "q": [
+            29
+          ],
+          "start": 322.97,
+          "end": 331.29
+        },
+        {
+          "s": "LIA",
+          "t": "That's true — too much effort required if you're not good with your hands.",
+          "start": 332.06,
+          "end": 335.74
+        },
+        {
+          "s": "SEB",
+          "t": "Well, anyway, I think we should try it out in our maths teaching practice with Year 3. I can see using origami is a really engaging way of reinforcing children's knowledge of geometric shapes, like they were doing in the video, but I think it would also work really well for presenting fractions, which is coming up soon.",
+          "q": [
+            30
+          ],
+          "start": 336.02,
+          "end": 358.45
+        },
+        {
+          "s": "LIA",
+          "t": "Good idea — that's something most of the kids in that class might struggle with. Origami would also be good practice for using symmetry — but I think they did that last term.",
+          "start": 359.0,
+          "end": 369.68
+        },
+        {
+          "s": "SEB",
+          "t": "OK — well let's try and get some ideas together and plan the lesson next week.",
+          "start": 369.84,
+          "end": 375.33
+        },
+        {
+          "s": "TUTOR",
+          "t": "OK, if you could all stop ...",
+          "start": 375.45,
+          "end": 377.97
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c18/t4p4.mp3",
+      "duration": 497,
+      "title": "Victor Hugo's house on Guernsey",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Victor Hugo",
+          "lines": [
+            "## His novel, Les Misérables",
+            "It has been adapted for theatre and cinema.",
+            "We know more about its overall {{31}} than about its author.",
+            "## His early career",
+            "In Paris, his career was successful and he led the Romantic movement.",
+            "He spoke publicly about social issues, such as {{32}} and education.",
+            "Napoleon III disliked his views and exiled him.",
+            "## His exile from France",
+            "Victor Hugo had to live elsewhere in {{33}}",
+            "He used his income from the sale of some {{34}} he had written to buy a house on Guernsey.",
+            "## His house on Guernsey",
+            "Victor Hugo lived in this house until the end of the Empire in France.",
+            "The ground floor contains portraits, {{35}} and tapestries that he valued.",
+            "He bought cheap {{36}} made of wood and turned this into beautiful wall carvings.",
+            "The first floor consists of furnished areas with wallpaper and {{37}} that have a Chinese design.",
+            "The library still contains many of his favourite books.",
+            "He wrote in a room at the top of the house that had a view of the {{38}}.",
+            "He entertained other writers as well as poor {{39}} in his house.",
+            "Victor Hugo's {{40}} gave ownership of the house to the city of Paris in 1927."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "The person I've chosen to talk about is the French writer Victor Hugo — many people have heard of him because his novel, Les Misérables, which he wrote in 1862, is famous around the world. It became a stage musical in the 1980s, and a film version was also released in 2012.",
+          "start": 72.58,
+          "end": 95.12
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, some of us, I'm sure, have a pretty general idea of the plot, but we know much less about the author. Today, I'm going to provide a little more insight into this talented man and I'm going to talk particularly about the home he had on the island of Guernsey in the British Channel Islands.",
+          "q": [
+            31
+          ],
+          "start": 96.08,
+          "end": 116.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But first, his early career ... as I've said, he was a writer, he was at the height of his career in Paris and he was very highly regarded by his colleagues. As far as literature was concerned, he was the leading figure of the Romantic movement.",
+          "start": 116.33,
+          "end": 134.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, as well as being a literary genius, he also gave many speeches about issues like the level of poverty in his society.",
+          "q": [
+            32
+          ],
+          "start": 135.17,
+          "end": 144.81
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He felt very strongly about this and about other areas where change was needed, like education. This kind of outspoken criticism was not well liked by the rulers of France and, eventually, the emperor — Napoleon III — told Victor Hugo to leave Paris and not return; in other words, he sent him into exile.",
+          "start": 146.36,
+          "end": 171.61
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So Victor Hugo was forced to reside in other parts of Europe.",
+          "q": [
+            33
+          ],
+          "start": 171.77,
+          "end": 177.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Guernsey was actually his third place of exile and he landed there in 1855. He produced a lot while on Guernsey — including Les Misérables — and to do this, he had to spend a great deal of time in the home that he had there.",
+          "start": 178.69,
+          "end": 195.98
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This was a property that he bought using the money he'd made in France from the publication of a collection of his poetry.",
+          "q": [
+            34
+          ],
+          "start": 197.32,
+          "end": 203.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It was the only property he ever owned, and he was very proud of it.",
+          "start": 204.88,
+          "end": 209.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The property Victor Hugo bought on Guernsey was a large, five-storey house in the capital town of St Peter Port and he lived there for 15 years, returning to France in 1870 when Napoleon's Empire collapsed. He decorated and furnished each level, or floor, of the house in unique and wonderful ways, and many people consider the inside of the house to be a 'work of art'. Today it's a museum that attracts 200,000 visitors a year.",
+          "start": 214.65,
+          "end": 249.9
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He lived in the house with his family ... and portraits of its members still hang in rooms on the ground floor, along with drawings that he did during his travels that he felt were important to him.",
+          "q": [
+            35
+          ],
+          "start": 251.66,
+          "end": 264.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In other ground-floor rooms, there are huge tapestries that he would have designed and loved. The walls are covered in dark wood panelling that Victor Hugo created himself using wooden furniture that he bought in the market.",
+          "q": [
+            36
+          ],
+          "start": 266.42,
+          "end": 281.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The items were relatively inexpensive, and he used them to create intricate carvings. They gave an atmosphere on the lower level that was shadowy and rather solemn.",
+          "start": 282.9,
+          "end": 295.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On the next level of the house there are two impressive lounges, where he entertained his guests. One lounge has entirely red furnishings, such as sofas and wall coverings, and the other blue. There's a strong Chinese influence in these areas in things like the wallpaper pattern and the lamps — which he would have made himself by copying original versions.",
+          "q": [
+            37
+          ],
+          "start": 296.7,
+          "end": 325.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "His library, where he left many of his favourite books, forms the hallway to the third floor and was a comfortable area where he could relax and enjoy his afternoons. And then, at the very top of the house, there's a room called the Lookout — called that because it looks out over the harbour.",
+          "q": [
+            38
+          ],
+          "start": 327.46,
+          "end": 348.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In contrast to the rather dark lower levels, it's full of light and was like a glass office where he would write until lunchtime — often at his desk.",
+          "start": 350.19,
+          "end": 361.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, Victor Hugo was a man of many talents, but he was also true to his values. While living in his house on Guernsey, he entertained many other famous writers, but he also invited a large group of local children from the deprived areas of the island to dinner once a week.",
+          "q": [
+            39
+          ],
+          "start": 362.61,
+          "end": 383.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What's more, he served them their food, which was an extraordinary gesture for the time period.",
+          "start": 384.71,
+          "end": 390.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In 1927, the house was owned by his relatives, and they decided to donate it to the city of Paris.",
+          "q": [
+            40
+          ],
+          "start": 392.84,
+          "end": 400.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It has since been restored using photographs from the period and, as I mentioned earlier, is now a museum that is open to the public.",
+          "start": 402.55,
+          "end": 412.35
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "receptionist"
+    ],
+    "2": [
+      "Medical"
+    ],
+    "3": [
+      "Chastons"
+    ],
+    "4": [
+      "appointments"
+    ],
+    "5": [
+      "database"
+    ],
+    "6": [
+      "experience"
+    ],
+    "7": [
+      "confident"
+    ],
+    "8": [
+      "temporary"
+    ],
+    "9": [
+      "1.15",
+      "one fifteen"
+    ],
+    "10": [
+      "parking"
+    ],
+    "11": [
+      "B"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "F"
+    ],
+    "16": [
+      "G"
+    ],
+    "17": [
+      "E"
+    ],
+    "18": [
+      "A"
+    ],
+    "19": [
+      "C"
+    ],
+    "20": [
+      "B"
+    ],
+    "21": [
+      "B",
+      "D"
+    ],
+    "22": [
+      "B",
+      "D"
+    ],
+    "23": [
+      "D"
+    ],
+    "24": [
+      "A"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "G"
+    ],
+    "27": [
+      "F"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "plot"
+    ],
+    "32": [
+      "poverty"
+    ],
+    "33": [
+      "Europe"
+    ],
+    "34": [
+      "poetry"
+    ],
+    "35": [
+      "drawings"
+    ],
+    "36": [
+      "furniture"
+    ],
+    "37": [
+      "lamps"
+    ],
+    "38": [
+      "harbour",
+      "harbor"
+    ],
+    "39": [
+      "children"
+    ],
+    "40": [
+      "relatives"
+    ]
+  }
+}
