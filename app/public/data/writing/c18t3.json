@@ -1,0 +1,44 @@
+{
+  "id": "c18t3",
+  "book": "剑桥雅思18",
+  "test": 3,
+  "title": "剑18 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "map",
+      "kindZh": "地图/平面图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The diagram below shows the floor plan of a public library 20 years ago and how it looks now.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c18t3-task1.png",
+      "imageCaption": "Central Library floor plan, 20 years ago and today",
+      "sample": {
+        "band": 9,
+        "text": "The diagrams show Central Library before and after changes were made to its layout.\n\nClearly, the library has been updated to include dedicated spaces for events and now has an open space in the centre.\n\nTwenty years ago, to the left of the entrance there was a reading room with newspapers and magazines and to the right there was an enquiry desk. Now there's a computer room on the left and a café where the information desk once was. Adult fiction has moved to the right-hand side of the room and all reference books are now on the left. There is a smaller information desk with self-service machines in what once was the adult non-fiction section.\n\nThere was a room at the back left-hand corner that had computer games, CDs and videos that has since been enlarged and houses children's fiction. It has a space with two sofas where storytelling events are held. There is a lecture room in the back right-hand corner where children's books used to be.",
+        "comment": "This response covers the main changes that have occurred over the 20-year period. An overview is presented in the second paragraph which is quite general: it refers to the [dedicated spaces for events] but this could be improved by giving a summary of the key changes (dedicated spaces for events, self-service facilities and a café). Ideas are arranged logically: the changes to the front of the library are presented in the third paragraph and the changes to the back section in the final paragraph. This shows a logical approach to reporting the changes and there is some good cohesion [once was / now on the left / has since been]. There is a good range of vocabulary. In this kind of task, vocabulary from the floor plan needs to be used to report the changes, but the use of different words shows some flexibility and precision [been updated / dedicated spaces / houses]. In terms of grammar, there are error-free sentences and some variation in structures used when describing changes [has been updated / what once was / has since been enlarged]. The response could be improved by extending the overview to include more of a summary of the main changes but overall, this response captures the main changes in a logical way."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "In many countries around the world, rural people are moving to cities, so the population in the countryside is decreasing.",
+        "Do you think this is a positive or a negative development?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "Statistics show that the world's population is increasing rapidly. It is expected that most of us will be living in cities within the next few decades. The question of whether urbanisation is a positive or negative development remains controversial.\n\nA rapid influx of people moving from rural to urban areas is bound to cause problems. Firstly, pressure on resources such as housing and transportation intensifies. It is becoming difficult for many people to afford adequate housing in cities. A by-product of this is the creation of slums causing low-income families to group together in neglected parts of the city. These people often become trapped in a cycle of poverty that is difficult to escape.\n\nAs mentioned above, the growth of urban areas can also lead to severe traffic congestion because more and more vehicles travel into the city from the suburbs. This has many knock-on effects, such as problems with air quality. It also leads many city dwellers to experience mental health issues because travelling across large cities is tiring and stressful.\n\nAll of this being said, I don't believe that urbanisation is a wholly negative development. There are advantages to living in large cities that are well managed. For example, there are more schools which means more education opportunities. Access to higher-quality health care is often better in cities. Some cities have also introduced ride-sharing, e-bikes and park and ride services that reduce environmental problems.\n\nMy opinion is that many of the problems associated with urbanisation are avoidable but dealing with increasing populations in cities is a formidable challenge. How governments, businesses and society respond to this challenge will dramatically affect the future of our world.",
+        "comment": "This response addresses both sides of the question and presents a position, that the movement to cities is not a [wholly negative development]. The second and third paragraphs lay out the problems that can be caused by a [rapid influx] of people to urban areas [housing / transportation / traffic congestion] and the fourth paragraph presents some of the advantages [education opportunities / higher-quality health care / environmental transport initiatives]. However, the part of the question about 'the population in the countryside ... decreasing' is not covered. The candidate would need to include it to provide a full answer to this question. Information and ideas are logically organised and there is a clear progression, starting with the challenges and ending with a range of advantages. Vocabulary is used with a natural and sophisticated control [bound to / trapped in a cycle of poverty / severe traffic congestion / knock-on effects], although rare errors remain [education opportunities / educational opportunities]. Grammar is flexible and accurate, with a wide range of structures included. There are some shorter sentences which could be extended and more multi-clause examples could be included to add complexity. To improve this response, consideration should be given to the impact of the shrinking population in the countryside."
+      }
+    }
+  ]
+}

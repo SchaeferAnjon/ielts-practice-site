@@ -1,0 +1,1321 @@
+{
+  "id": "c18t3",
+  "book": "剑桥雅思18",
+  "test": 3,
+  "title": "剑18 Test 3 · Listening",
+  "source": "Cambridge IELTS 18 Academic, Test 3（OCR 抽取 + 人工核对）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c18/t3p1.mp3",
+      "duration": 471,
+      "title": "Wayside Camera Club membership form",
+      "groups": [
+        {
+          "range": [
+            1,
+            4
+          ],
+          "type": "notes",
+          "instruction": "Complete the form below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Wayside Camera Club membership form",
+          "lines": [
+            "Name: Dan Green",
+            "Email address: dan1068@market.com",
+            "Home address: 52 {{1}} Street, Peacetown",
+            "Heard about us: from a {{2}}",
+            "Reasons for joining: to enter competitions\nto {{3}}",
+            "Type of membership: {{4}} membership (£30)"
+          ]
+        },
+        {
+          "range": [
+            5,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Photography competitions",
+          "table": {
+            "head": [
+              "Title of competition",
+              "Instructions",
+              "Feedback to Dan"
+            ],
+            "rows": [
+              [
+                "'{{5}}'",
+                "A scene in the home",
+                "The picture's composition was not good."
+              ],
+              [
+                "'Beautiful Sunsets'",
+                "Scene must show some {{6}}",
+                "The {{7}} was wrong."
+              ],
+              [
+                "'{{8}}'",
+                "Scene must show {{9}}",
+                "The photograph was too {{10}}."
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "BREDA",
+          "t": "Hello, Wayside Camera Club, Breda speaking.",
+          "start": 75.61,
+          "end": 78.57
+        },
+        {
+          "s": "DAN",
+          "t": "Oh, hello, um, my name's Dan and I'd like to join your club.",
+          "start": 78.89,
+          "end": 83.37
+        },
+        {
+          "s": "BREDA",
+          "t": "That's great, Dan. We have an application form — would you like to complete it over the phone, then you can ask any questions you might have?",
+          "start": 83.57,
+          "end": 92.36
+        },
+        {
+          "s": "DAN",
+          "t": "Oh, yes, thanks.",
+          "start": 92.44,
+          "end": 93.48
+        },
+        {
+          "s": "BREDA",
+          "t": "OK, so what's your family name?",
+          "start": 94.08,
+          "end": 96.96
+        },
+        {
+          "s": "DAN",
+          "t": "It's Green — Dan Green.",
+          "start": 97.48,
+          "end": 99.16
+        },
+        {
+          "s": "BREDA",
+          "t": "So can I take your email address?",
+          "start": 99.98,
+          "end": 102.3
+        },
+        {
+          "s": "DAN",
+          "t": "Yes, it's dan1068@market.com.",
+          "start": 102.58,
+          "end": 109.66
+        },
+        {
+          "s": "BREDA",
+          "t": "Thanks. And what about your home address?",
+          "start": 110.33,
+          "end": 113.33
+        },
+        {
+          "s": "DAN",
+          "t": "Well, I'm about ten miles away from your club in Peacetown. I live in a house there.",
+          "start": 113.77,
+          "end": 120.49
+        },
+        {
+          "s": "BREDA",
+          "t": "OK, so what's the house number and street?",
+          "start": 121.08,
+          "end": 124.0
+        },
+        {
+          "s": "DAN",
+          "t": "It's 52 Marrowfield Street.",
+          "q": [
+            1
+          ],
+          "start": 124.72,
+          "end": 127.96
+        },
+        {
+          "s": "BREDA",
+          "t": "Is that M-A double R-O-W-F-I-E-L-D?",
+          "start": 128.84,
+          "end": 135.42
+        },
+        {
+          "s": "DAN",
+          "t": "That's right.",
+          "start": 135.46,
+          "end": 140.3
+        },
+        {
+          "s": "BREDA",
+          "t": "... and that's Peacetown, you said?",
+          "start": 141.18,
+          "end": 143.38
+        },
+        {
+          "s": "DAN",
+          "t": "Uhuh.",
+          "start": 143.38,
+          "end": 143.38,
+          "estimated": true
+        },
+        {
+          "s": "BREDA",
+          "t": "So how did you hear about our club? Did you look on the internet?",
+          "start": 144.58,
+          "end": 148.7
+        },
+        {
+          "s": "DAN",
+          "t": "I usually do that, but this time, well, I was talking to a relative the other day and he suggested it.",
+          "q": [
+            2
+          ],
+          "start": 149.38,
+          "end": 157.38
+        },
+        {
+          "s": "BREDA",
+          "t": "Oh, is he a member too?",
+          "start": 157.54,
+          "end": 159.54
+        },
+        {
+          "s": "DAN",
+          "t": "He belongs to another club — but he'd heard good things about yours.",
+          "start": 159.74,
+          "end": 164.34
+        },
+        {
+          "s": "BREDA",
+          "t": "OK. So what do you hope to get from joining?",
+          "start": 165.08,
+          "end": 168.6
+        },
+        {
+          "s": "DAN",
+          "t": "Well, one thing that really interests me is the competitions that you have. I enjoy entering those.",
+          "start": 169.0,
+          "end": 176.65
+        },
+        {
+          "s": "BREDA",
+          "t": "Right. Anything else?",
+          "start": 176.85,
+          "end": 178.77
+        },
+        {
+          "s": "DAN",
+          "t": "Well, I also like to socialise with other photographers.",
+          "q": [
+            3
+          ],
+          "start": 179.09,
+          "end": 182.85
+        },
+        {
+          "s": "BREDA",
+          "t": "That's great. So what type of membership would you like?",
+          "start": 183.41,
+          "end": 187.35
+        },
+        {
+          "s": "DAN",
+          "t": "What are the options?",
+          "start": 188.11,
+          "end": 188.87
+        },
+        {
+          "s": "BREDA",
+          "t": "It's £30 a year for full membership or £20 a year if you're an associate.",
+          "q": [
+            4
+          ],
+          "start": 189.71,
+          "end": 195.71
+        },
+        {
+          "s": "DAN",
+          "t": "I think I'll go for the full membership, then.",
+          "start": 196.51,
+          "end": 199.51
+        },
+        {
+          "s": "BREDA",
+          "t": "That's a good idea because you can't vote in meetings with an associate membership.",
+          "start": 199.83,
+          "end": 205.39
+        },
+        {
+          "s": "BREDA",
+          "t": "If I could just find out a bit more about you ...",
+          "start": 252.28,
+          "end": 254.92
+        },
+        {
+          "s": "DAN",
+          "t": "OK.",
+          "start": 254.92,
+          "end": 255.04
+        },
+        {
+          "s": "BREDA",
+          "t": "So you said you wanted to compete — have you ever won any photography competitions?",
+          "start": 255.08,
+          "end": 261.88
+        },
+        {
+          "s": "DAN",
+          "t": "Not yet, but I have entered three in the past.",
+          "start": 262.81,
+          "end": 266.49
+        },
+        {
+          "s": "BREDA",
+          "t": "Oh, that's interesting. So why don't you tell me something about those? Let's start with the first one.",
+          "start": 267.13,
+          "end": 273.93
+        },
+        {
+          "s": "DAN",
+          "t": "Well, the theme was entitled 'Domestic Life'.",
+          "q": [
+            5
+          ],
+          "start": 274.55,
+          "end": 276.71
+        },
+        {
+          "s": "BREDA",
+          "t": "I see — so it had to be something related to the home?",
+          "start": 278.59,
+          "end": 282.99
+        },
+        {
+          "s": "DAN",
+          "t": "Yeah. I chose to take a photo of a family sitting round the dinner table having a meal, and, um, I didn't win, but I did get some feedback.",
+          "start": 283.11,
+          "end": 295.32
+        },
+        {
+          "s": "BREDA",
+          "t": "Oh, what did the judges say?",
+          "start": 295.8,
+          "end": 297.64
+        },
+        {
+          "s": "DAN",
+          "t": "That it was too 'busy' as a picture.",
+          "start": 298.08,
+          "end": 300.48
+        },
+        {
+          "s": "BREDA",
+          "t": "Aha — so it was the composition of the picture that they criticised?",
+          "start": 302.41,
+          "end": 305.57
+        },
+        {
+          "s": "DAN",
+          "t": "That's right — and once they'd told me that, I could see my mistake.",
+          "start": 306.37,
+          "end": 311.25
+        },
+        {
+          "s": "BREDA",
+          "t": "So what was the theme of the second competition?",
+          "start": 312.53,
+          "end": 315.01
+        },
+        {
+          "s": "DAN",
+          "t": "Well, my university was on the coast and that area gets a lot of beautiful sunsets, so that was the theme.",
+          "start": 315.93,
+          "end": 324.61
+        },
+        {
+          "s": "BREDA",
+          "t": "Oh, sunsets, that's a great theme.",
+          "start": 324.77,
+          "end": 327.89
+        },
+        {
+          "s": "DAN",
+          "t": "Yes. The instructions were to capture the clouds as well — it couldn't just be blue sky and a setting sun.",
+          "q": [
+            6
+          ],
+          "start": 328.05,
+          "end": 336.44
+        },
+        {
+          "s": "BREDA",
+          "t": "Sure, cause they give you all those amazing pinks and purples.",
+          "start": 336.64,
+          "end": 340.68
+        },
+        {
+          "s": "DAN",
+          "t": "Yeah — and I thought I'd done that well, but the feedback was that I should have waited a bit longer to get the shot.",
+          "start": 341.0,
+          "end": 349.12
+        },
+        {
+          "s": "BREDA",
+          "t": "I see. So the timing wasn't right.",
+          "q": [
+            7
+          ],
+          "start": 349.72,
+          "end": 352.88
+        },
+        {
+          "s": "DAN",
+          "t": "Yes — I took it too soon, basically. And then the third competition I entered was called 'Animal Magic'.",
+          "q": [
+            8
+          ],
+          "start": 353.08,
+          "end": 359.96
+        },
+        {
+          "s": "BREDA",
+          "t": "Well, that's a difficult subject!",
+          "start": 361.79,
+          "end": 363.95
+        },
+        {
+          "s": "DAN",
+          "t": "I know! I had to take hundreds of shots.",
+          "start": 365.03,
+          "end": 368.11
+        },
+        {
+          "s": "BREDA",
+          "t": "I'm sure — because animals move all the time.",
+          "start": 368.31,
+          "end": 371.47
+        },
+        {
+          "s": "DAN",
+          "t": "That's what we had to show — there had to be some movement in the scene. I got a great shot of a fox in the end, but I took it at night and, well, I suspected that it was a bit dark, which is what I was told.",
+          "q": [
+            9,
+            10
+          ],
+          "start": 372.12,
+          "end": 388.42
+        },
+        {
+          "s": "BREDA",
+          "t": "Well Dan — you seem to be really keen and we'd be delighted to have you in our club. I'm sure we can help with all those areas that you've outlined.",
+          "start": 388.98,
+          "end": 398.86
+        },
+        {
+          "s": "DAN",
+          "t": "Thanks, that's great.",
+          "start": 399.14,
+          "end": 400.46
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c18/t3p2.mp3",
+      "duration": 467,
+      "title": "Picking wild mushrooms",
+      "groups": [
+        {
+          "range": [
+            11,
+            12
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO warnings does Dan give about picking mushrooms?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Don't pick more than one variety of mushroom at a time."
+            },
+            {
+              "k": "B",
+              "text": "Don't pick mushrooms near busy roads."
+            },
+            {
+              "k": "C",
+              "text": "Don't eat mushrooms given to you."
+            },
+            {
+              "k": "D",
+              "text": "Don't eat mushrooms while picking them."
+            },
+            {
+              "k": "E",
+              "text": "Don't pick old mushrooms."
+            }
+          ]
+        },
+        {
+          "range": [
+            13,
+            14
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO ideas about wild mushrooms does Dan say are correct?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Mushrooms should always be peeled before eating."
+            },
+            {
+              "k": "B",
+              "text": "Mushrooms eaten by animals may be unsafe."
+            },
+            {
+              "k": "C",
+              "text": "Cooking destroys toxins in mushrooms."
+            },
+            {
+              "k": "D",
+              "text": "Brightly coloured mushrooms can be edible."
+            },
+            {
+              "k": "E",
+              "text": "All poisonous mushrooms have a bad smell."
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            20
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 15,
+              "text": "What advice does Dan give about picking mushrooms in parks?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Choose wooded areas."
+                },
+                {
+                  "k": "B",
+                  "text": "Don't disturb wildlife."
+                },
+                {
+                  "k": "C",
+                  "text": "Get there early."
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "Dan says it is a good idea for beginners to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "use a mushroom app."
+                },
+                {
+                  "k": "B",
+                  "text": "join a group."
+                },
+                {
+                  "k": "C",
+                  "text": "take a reference book."
+                }
+              ]
+            },
+            {
+              "n": 17,
+              "text": "What does Dan say is important for conservation?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "selecting only fully grown mushrooms"
+                },
+                {
+                  "k": "B",
+                  "text": "picking a limited amount of mushrooms"
+                },
+                {
+                  "k": "C",
+                  "text": "avoiding areas where rare mushroom species grow"
+                }
+              ]
+            },
+            {
+              "n": 18,
+              "text": "According to Dan, some varieties of wild mushrooms are in decline because there is",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a huge demand for them from restaurants."
+                },
+                {
+                  "k": "B",
+                  "text": "a lack of rain in this part of the country."
+                },
+                {
+                  "k": "C",
+                  "text": "a rise in building developments locally."
+                }
+              ]
+            },
+            {
+              "n": 19,
+              "text": "Dan says that when storing mushrooms, people should",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "keep them in the fridge for no more than two days."
+                },
+                {
+                  "k": "B",
+                  "text": "keep them in a brown bag in a dark room."
+                },
+                {
+                  "k": "C",
+                  "text": "leave them for a period after washing them."
+                }
+              ]
+            },
+            {
+              "n": 20,
+              "text": "What does Dan say about trying new varieties of mushrooms?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Experiment with different recipes."
+                },
+                {
+                  "k": "B",
+                  "text": "Expect some to have a strong taste."
+                },
+                {
+                  "k": "C",
+                  "text": "Cook them for a long time."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "PRESENTER",
+          "t": "This evening we're delighted to welcome Dan Beagle, who's just written a book on looking for and finding food in the wild. He's going to tell us everything we need to know about picking wild mushrooms.",
+          "start": 40.42,
+          "end": 55.91
+        },
+        {
+          "s": "DAN",
+          "t": "Thank you very much. Well, I need to start by talking about safety. You really need to know what you're doing because some mushrooms are extremely poisonous. Having said that, once you know what to look for, it's really worth doing for the amazing variety of mushrooms available — which you can't get in the shops. But of course, you have to be very careful and that's why I always say you should never consume mushrooms picked by friends or neighbours — always remember that some poisonous mushrooms look very similar to edible ones and it's easy for people to get confused.",
+          "q": [
+            11,
+            12
+          ],
+          "start": 56.27,
+          "end": 101.65
+        },
+        {
+          "s": "DAN",
+          "t": "The other thing to avoid is mushrooms growing beside busy roads for obvious reasons. But nothing beats the taste of freshly picked mushrooms — don't forget that the ones in the shops are often several days old and past their best.",
+          "q": [
+            11,
+            12
+          ],
+          "start": 103.48,
+          "end": 121.43
+        },
+        {
+          "s": "DAN",
+          "t": "There are certain ideas about wild mushrooms that it's important to be aware of. Don't listen to people who tell you that it's only OK to eat mushrooms that are pale or dull — this is completely untrue. Some edible mushrooms are bright red, for example. Personally, I prefer mushrooms cooked but it won't do you any harm to eat them uncooked in salads — it's not necessary to peel them.",
+          "q": [
+            13,
+            14
+          ],
+          "start": 122.97,
+          "end": 156.35
+        },
+        {
+          "s": "DAN",
+          "t": "Another thing you should remember is that you can't tell if a mushroom is safe to eat by its smell — some of the most deadly mushrooms have no smell and taste quite nice, apparently. Finally, just because deer or squirrels eat a particular mushroom doesn't mean that you can.",
+          "q": [
+            13,
+            14
+          ],
+          "start": 157.45,
+          "end": 179.45
+        },
+        {
+          "s": "DAN",
+          "t": "Of course, mushroom picking is associated with the countryside but if you haven't got a car, your local park can be a great place to start. There are usually a range of habitats where mushrooms grow, such as playing fields and wooded areas. But you need to be there first thing in the morning, as there's likely be a lot of competition — not just from people but wildlife too. The deer often get the best mushrooms in my local park.",
+          "q": [
+            15
+          ],
+          "start": 241.75,
+          "end": 276.32
+        },
+        {
+          "s": "DAN",
+          "t": "If you're a complete beginner, I wouldn't recommend going alone or relying on photos in a book, even the one I've written! There are some really good phone apps for identifying mushrooms, but you can't always rely on getting a good signal in the middle of a wood. If possible, you should go with a group led by an expert — you'll stay safe and learn a lot that way.",
+          "q": [
+            16
+          ],
+          "start": 278.23,
+          "end": 306.87
+        },
+        {
+          "s": "DAN",
+          "t": "Conservation is a really important consideration and you must follow a few basic rules. You should never pick all the mushrooms in one area — collect only enough for your own needs. Be very careful that you don't trample on young mushrooms or other plants. And make sure you don't pick any mushrooms that are endangered and protected by law.",
+          "q": [
+            17
+          ],
+          "start": 308.25,
+          "end": 336.56
+        },
+        {
+          "s": "DAN",
+          "t": "There's been a decline in some varieties of wild mushrooms in this part of the country. Restaurants are becoming more interested in locally sourced food like wild mushrooms, but the biggest problem is that so many new houses have been built in this area in the last ten years. And more water is being taken from rivers and reservoirs because of this, and mushroom habitats have been destroyed.",
+          "q": [
+            18
+          ],
+          "start": 338.36,
+          "end": 367.51
+        },
+        {
+          "s": "DAN",
+          "t": "Anyway, a word of advice on storing mushrooms. Collect them in a brown paper bag and as soon as you get home, put them in the fridge. They'll be fine for a couple of days, but it's best to cook them as soon as possible — after washing them really carefully first, of course.",
+          "q": [
+            19
+          ],
+          "start": 367.91,
+          "end": 389.02
+        },
+        {
+          "s": "DAN",
+          "t": "So everybody knows what a mushroom tastes like, right? Well, you'll be surprised by the huge variety of wild mushrooms there are. Be adventurous! They're great in so many dishes — stir fries, risottos, pasta. But just be aware that some people can react badly to certain varieties so it's a good idea not to eat huge quantities to begin with.",
+          "q": [
+            20
+          ],
+          "start": 390.45,
+          "end": 420.0
+        },
+        {
+          "s": "DAN",
+          "t": "OK, so now I'm going to show you ...",
+          "start": 421.38,
+          "end": 424.58
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c18/t3p3.mp3",
+      "duration": 355,
+      "title": "Automation and the future of work",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO opinions about the Luddites do the students express?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Their actions were ineffective."
+            },
+            {
+              "k": "B",
+              "text": "They are still influential today."
+            },
+            {
+              "k": "C",
+              "text": "They have received unfair criticism."
+            },
+            {
+              "k": "D",
+              "text": "They were proved right."
+            },
+            {
+              "k": "E",
+              "text": "Their attitude is understandable."
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            24
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO predictions about the future of work are the students doubtful about?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Work will be more rewarding."
+            },
+            {
+              "k": "B",
+              "text": "Unemployment will fall."
+            },
+            {
+              "k": "C",
+              "text": "People will want to delay retiring."
+            },
+            {
+              "k": "D",
+              "text": "Working hours will be shorter."
+            },
+            {
+              "k": "E",
+              "text": "People will change jobs more frequently."
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            30
+          ],
+          "type": "matching",
+          "instruction": "What comment do the students make about each of the following jobs?",
+          "limit": "Choose SIX answers from the box and write the correct letter, A-G, next to Questions 25-30.",
+          "optionsTitle": "Comments",
+          "options": [
+            {
+              "k": "A",
+              "text": "These jobs are likely to be at risk."
+            },
+            {
+              "k": "B",
+              "text": "Their role has become more interesting in recent years."
+            },
+            {
+              "k": "C",
+              "text": "The number of people working in this sector has fallen dramatically."
+            },
+            {
+              "k": "D",
+              "text": "This job will require more qualifications."
+            },
+            {
+              "k": "E",
+              "text": "Higher disposable income has led to a huge increase in jobs."
+            },
+            {
+              "k": "F",
+              "text": "There is likely to be a significant rise in demand for this service."
+            },
+            {
+              "k": "G",
+              "text": "Both employment and productivity have risen."
+            }
+          ],
+          "itemsTitle": "Jobs",
+          "items": [
+            {
+              "n": 25,
+              "text": "Accountants"
+            },
+            {
+              "n": 26,
+              "text": "Hairdressers"
+            },
+            {
+              "n": 27,
+              "text": "Administrative staff"
+            },
+            {
+              "n": 28,
+              "text": "Agricultural workers"
+            },
+            {
+              "n": 29,
+              "text": "Care workers"
+            },
+            {
+              "n": 30,
+              "text": "Bank clerks"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "YOUNG MAN",
+          "t": "That seminar yesterday on automation and the future of work was really good, wasn't it? Looking at the first industrial revolution in Britain in the 19th century and seeing how people reacted to massive change was a real eye-opener.",
+          "start": 40.92,
+          "end": 56.41
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "Yes. It was interesting to hear how people felt about automation then and what challenges they faced. I didn't know that it first started with workers in the textile industry.",
+          "start": 56.53,
+          "end": 67.48
+        },
+        {
+          "s": "YOUNG MAN",
+          "t": "With those protesting workers called the Luddites destroying their knitting machines because they were so worried about losing their jobs.",
+          "start": 67.72,
+          "end": 75.76
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "Yes, and ultimately, they didn't achieve anything. And anyway, industrialisation created more jobs than it destroyed.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 76.04,
+          "end": 83.51
+        },
+        {
+          "s": "YOUNG MAN",
+          "t": "Yes, that's true — but it probably didn't seem a positive thing at the time. I can see why the Luddites felt so threatened.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 83.79,
+          "end": 91.4
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "I know. I'm sure I would have felt the same. The discussion about the future of work was really optimistic for a change. I like the idea that work won't involve doing boring, repetitive tasks, as robots will do all that. Normally, you only hear negative stuff about the future.",
+          "start": 91.88,
+          "end": 110.01
+        },
+        {
+          "s": "YOUNG MAN",
+          "t": "Bit too optimistic, don't you think? For example, I can't see how people are about to have more leisure time, when all the evidence shows people are spending longer than ever at work.",
+          "q": [
+            23,
+            24
+          ],
+          "start": 110.21,
+          "end": 121.15
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "No — that's true. And what about lower unemployment? I'm not so sure about that.",
+          "q": [
+            23,
+            24
+          ],
+          "start": 121.39,
+          "end": 127.19
+        },
+        {
+          "s": "YOUNG MAN",
+          "t": "Perhaps in the long term — but not in the foreseeable future.",
+          "start": 127.43,
+          "end": 131.35
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "Mmm. And I expect most people will be expected to work until they're much older — as everyone's living much longer.",
+          "start": 132.47,
+          "end": 138.06
+        },
+        {
+          "s": "YOUNG MAN",
+          "t": "That's already happening.",
+          "start": 138.34,
+          "end": 139.7
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "I enjoyed all that stuff on how technology has changed some jobs and how they're likely to change in the near future.",
+          "start": 187.02,
+          "end": 192.98
+        },
+        {
+          "s": "YOUNG MAN",
+          "t": "Yeah, incredible. Like accountants. You might think all the technological innovations would have put them out of a job, but in fact there are more of them than ever. They're still really in demand and have become far more efficient.",
+          "q": [
+            25
+          ],
+          "start": 193.18,
+          "end": 207.4
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "Right. That was amazing. Twenty times more accountants in this country compared to the 19th century.",
+          "start": 207.76,
+          "end": 214.34
+        },
+        {
+          "s": "YOUNG MAN",
+          "t": "I know. I'd never have thought that demand for hairdressing would have gone up so much in the last hundred years. One hairdresser for every 287 people now, compared to one for over 1,500.",
+          "start": 214.7,
+          "end": 226.62
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "Yeah because people's earning power has gone up so they can afford to spend more on personal services like that.",
+          "q": [
+            26
+          ],
+          "start": 227.98,
+          "end": 234.26
+        },
+        {
+          "s": "YOUNG MAN",
+          "t": "But technology hasn't changed the actual job that much.",
+          "start": 234.66,
+          "end": 237.9
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "No, they've got hairdryers, etc. but it's one job where you don't depend on a computer ... The kind of work that administrative staff do has changed enormously, thanks to technology. Even 20 years ago there were secretaries doing dictation and typing.",
+          "start": 238.42,
+          "end": 253.72
+        },
+        {
+          "s": "YOUNG MAN",
+          "t": "Yes. Really boring compared to these days, when they're given much more responsibility and higher status.",
+          "q": [
+            27
+          ],
+          "start": 253.88,
+          "end": 260.6
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "Mmm. A lot of graduates go in for this kind of work now ... I'd expected there to be a much bigger change in the number of agricultural workers in the 19th century. But the 1871 census showed that roughly 25% of the population worked on the land.",
+          "start": 262.0,
+          "end": 276.98
+        },
+        {
+          "s": "YOUNG MAN",
+          "t": "Yeah, I'd have assumed it would be more than 50%. Now it's less than 0.2%.",
+          "q": [
+            28
+          ],
+          "start": 277.22,
+          "end": 282.26
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "What about care workers?",
+          "start": 283.66,
+          "end": 284.74
+        },
+        {
+          "s": "YOUNG MAN",
+          "t": "They barely existed in the 19th century as people's lifespan was so much shorter. But now of course this sector will see huge growth.",
+          "q": [
+            29
+          ],
+          "start": 285.4,
+          "end": 293.88
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "Yeah — and it's hard enough to meet current demand. The future looks quite bleak for bank clerks. They've been in decline since ATMs were introduced in the eighties.",
+          "start": 294.12,
+          "end": 304.51
+        },
+        {
+          "s": "YOUNG MAN",
+          "t": "And technology will certainly make most of the jobs they do now redundant, I think.",
+          "q": [
+            30
+          ],
+          "start": 304.83,
+          "end": 309.47
+        },
+        {
+          "s": "YOUNG WOMAN",
+          "t": "I agree, although the situation may change. It's very hard to predict what will happen.",
+          "start": 309.83,
+          "end": 314.85
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c18/t3p4.mp3",
+      "duration": 460,
+      "title": "Space Traffic Management",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Space Traffic Management",
+          "lines": [
+            "## A Space Traffic Management system",
+            "is a concept similar to Air Traffic Control, but for satellites rather than planes.",
+            "would aim to set up legal and {{31}} ways of improving safety.",
+            "does not actually exist at present.",
+            "## Problems in developing effective Space Traffic Management",
+            "Satellites are now quite {{32}} and therefore more widespread (e.g. there are constellations made up of {{33}} of satellites).",
+            "At present, satellites are not required to transmit information to help with their {{34}}.",
+            "There are few systems for {{35}} satellites.",
+            "Small pieces of debris may be difficult to identify.",
+            "Operators may be unwilling to share details of satellites used for {{36}} or commercial reasons.",
+            "It may be hard to collect details of the object's {{37}} at a given time.",
+            "Scientists can only make a {{38}} about where the satellite will go.",
+            "## Solutions",
+            "Common standards should be agreed on for the presentation of information.",
+            "The information should be combined in one {{39}}.",
+            "A coordinated system must be designed to create {{40}} in its users."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LECTURER",
+          "t": "In today's astronomy lecture, I'm going to talk about the need for a system to manage the movement of satellites and other objects in orbit around the Earth. In other words, a Space Traffic Management system. We already have effective Air Traffic Control systems that are used internationally to ensure that planes navigate our skies safely. Well, Space Traffic Management is a similar concept, but focusing on the control of satellites.",
+          "start": 74.31,
+          "end": 106.38
+        },
+        {
+          "s": "LECTURER",
+          "t": "The aim of such a system would be to prevent the danger of collisions in space between the objects in orbit around the Earth. In order to do this, we'd need to have a set of legal measures and we'd also have to develop the technical systems to enable us to prevent such accidents. But unfortunately, at present we don't actually have a Space Traffic Management system that works. So why not? What are the problems in developing such a system?",
+          "q": [
+            31
+          ],
+          "start": 107.6,
+          "end": 141.99
+        },
+        {
+          "s": "LECTURER",
+          "t": "Well, for one thing, satellites are relatively cheap these days, compared with how they were in the past, meaning that more people can afford to put them into space. So there's a lot more of them out there, and people aren't just launching single satellites but whole constellations, consisting of thousands of them designed to work together. So space is getting more crowded every day.",
+          "q": [
+            32,
+            33
+          ],
+          "start": 142.27,
+          "end": 170.56
+        },
+        {
+          "s": "LECTURER",
+          "t": "But in spite of this, one thing you may be surprised to learn is that you can launch a satellite into space and, once it's out there, it doesn't have to send back any information to Earth to allow its identification. So while we have international systems for ensuring we know where the planes in our skies are, and to prevent them from colliding with one another, when it comes to the safety of satellites, at present we don't have anything like enough proper ways of tracking them.",
+          "q": [
+            34,
+            35
+          ],
+          "start": 172.01,
+          "end": 205.81
+        },
+        {
+          "s": "LECTURER",
+          "t": "And it isn't just entire satellites that we need to consider. A greater threat is the huge amount of space debris in orbit around the Earth — broken bits of satellite and junk from space stations and so on. And some of these are so small that they can be very hard to identify, but they can still be very dangerous.",
+          "start": 206.69,
+          "end": 229.63
+        },
+        {
+          "s": "LECTURER",
+          "t": "In addition, some operators may be unwilling to share information about the satellites they've launched. For example, a satellite may be designed for military purposes, or it may have been launched for commercial reasons, and the operators don't want competitors to have information about it.",
+          "q": [
+            36
+          ],
+          "start": 230.95,
+          "end": 250.41
+        },
+        {
+          "s": "LECTURER",
+          "t": "And even if the operators are willing to provide it, the information isn't easy to collect. Details are needed about the object itself, as well as about its location at a particular time — and remember that a satellite isn't very big, and it's likely to be moving at thousands of kilometres an hour.",
+          "q": [
+            37
+          ],
+          "start": 251.49,
+          "end": 273.51
+        },
+        {
+          "s": "LECTURER",
+          "t": "We don't have any sensors that can constantly follow something moving so fast, so all that the scientists can do is to put forward a prediction concerning where the satellite is heading next.",
+          "q": [
+            38
+          ],
+          "start": 274.55,
+          "end": 288.13
+        },
+        {
+          "s": "LECTURER",
+          "t": "So those are some of the problems that we're facing. Let's consider now some of the solutions that have been suggested. One key issue is the way in which information is dealt with. We need more information, but it also needs to be accessible at a global level, so we need to establish shared standards that we can all agree on for the way in which this information is presented. We already do this in other areas of science, so although this is a challenge, it's not an impossible task. Then, as all this information's collected, it needs to be put together so it can be used, and that will involve creating a single database on which it can be entered.",
+          "q": [
+            39
+          ],
+          "start": 293.83,
+          "end": 343.34
+        },
+        {
+          "s": "LECTURER",
+          "t": "As we continue to push forward new developments, congestion of the space environment is only going to increase. To cope with this, we need to develop a system like the one I've described to coordinate the work of the numerous spacecraft operators, but it's also essential that this system is one that establishes trust in the people that use it, both nationally and at a global level.",
+          "q": [
+            40
+          ],
+          "start": 344.78,
+          "end": 371.32
+        },
+        {
+          "s": "LECTURER",
+          "t": "One interesting development ...",
+          "start": 372.4,
+          "end": 373.72
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "Marrowfield"
+    ],
+    "2": [
+      "relative"
+    ],
+    "3": [
+      "socialise",
+      "socialize"
+    ],
+    "4": [
+      "full"
+    ],
+    "5": [
+      "Domestic Life"
+    ],
+    "6": [
+      "clouds"
+    ],
+    "7": [
+      "timing"
+    ],
+    "8": [
+      "Animal Magic"
+    ],
+    "9": [
+      "movement",
+      "animal movement"
+    ],
+    "10": [
+      "dark"
+    ],
+    "11": [
+      "B",
+      "C"
+    ],
+    "12": [
+      "B",
+      "C"
+    ],
+    "13": [
+      "B",
+      "D"
+    ],
+    "14": [
+      "B",
+      "D"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "C"
+    ],
+    "19": [
+      "A"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "A",
+      "E"
+    ],
+    "22": [
+      "A",
+      "E"
+    ],
+    "23": [
+      "B",
+      "D"
+    ],
+    "24": [
+      "B",
+      "D"
+    ],
+    "25": [
+      "G"
+    ],
+    "26": [
+      "E"
+    ],
+    "27": [
+      "B"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "F"
+    ],
+    "30": [
+      "A"
+    ],
+    "31": [
+      "technical"
+    ],
+    "32": [
+      "cheap"
+    ],
+    "33": [
+      "thousands"
+    ],
+    "34": [
+      "identification"
+    ],
+    "35": [
+      "tracking"
+    ],
+    "36": [
+      "military"
+    ],
+    "37": [
+      "location"
+    ],
+    "38": [
+      "prediction"
+    ],
+    "39": [
+      "database"
+    ],
+    "40": [
+      "trust"
+    ]
+  }
+}
