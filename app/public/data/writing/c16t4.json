@@ -1,0 +1,45 @@
+{
+  "id": "c16t4",
+  "book": "剑桥雅思16",
+  "test": 4,
+  "title": "剑16 Test 4 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "process",
+      "kindZh": "流程图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The diagram below shows the process for recycling plastic bottles.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c16t4-task1.png",
+      "imageCaption": "How plastic bottles are recycled",
+      "sample": {
+        "band": 5.5,
+        "text": "Plastic bottles are one of the most materials used in the world, and recycling is a really important subject to try to minimize the waste.\n\nAround the streets, in front off houses and restaurants is possible to see some bins, to collect organic and recycle waste. The yellow in is the correct one to trash recycle things, such as plastic bottles. After trashed, a truck collects at least once a week and leave in a specific place to separate what is recycleble and what is not. For that reason, is really important to separate before trash, this means someone will not spend to many time separating.\n\nRecycling is a big process, after separated the waste should be compressing in blocks to facilitat the crushing and washing process, that should be done because to many durty come with the bottles and crushing it makes easier to produce a new material.\n\nCrushed, washed and then going to the production of plastic pellets, it is can be finally heated to form a raw material.\n\nBut what can be produced using recycled bottles? New bottles, containers, bags, T-shirts, pen, toys and to many other things.\n\nSearching, it is possible to see how big is the waste problem around the world and how not to many governments invests in this situation. Starting into the houses, avoiding to use plastics in excess and separating the correct things in the correct bins, is a good way to keep the environment safe.",
+        "comment": "In this process task, the response includes an introduction and covers the main stages of the recycling process. However, there is significant irrelevant detail included, e.g. in the last paragraph, which reduces the score.\n\nThe stages are set out in order and there is good overall progression with some effective linking devices [such as / For that reason] and cohesion [what is ... what is not / that] but the errors reduce the band score here. The candidate tends to use lists rather than a full range of cohesive devices.\n\nVocabulary is adequate with some original vocabulary [minimize the waste / separated / containers / environment]; however, much is taken directly from the task [compressing / to form a raw material]. There are errors in spelling [in / bin / durty / dirty] but they do not reduce communication.\n\nGrammatical structures are limited and level of error is high [after separated / after separating / should be compressing / should be compressed / it is can be / it can be]. For a higher score, improved accuracy is needed.\n\nThe score for this response could be improved by including a summary of the main stages of the process, e.g. plastic bottles are collected, sorted, broken down and made into new products.",
+        "exampleOverview": "The diagram shows the nine-stage process by which used plastic bottles are collected from households, sorted and cleaned at a recycling centre, broken down into pellets, and finally turned into raw material that is used to manufacture a range of new products such as bottles, containers, clothing and pens."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "advantage-disadvantage",
+      "kindZh": "利弊",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "In the future all cars, buses and trucks will be driverless. The only people travelling inside these vehicles will be passengers.",
+        "Do you think the advantages of driverless vehicles outweigh the disadvantages?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 4,
+        "text": "First of all number of vehicles is incarese day after day which means ever day the world gets more drivers then before. If we admite that alots of people prefer to use public transport we do not have any doubts that many people use the vehicles because of advantags of driving.\n\nThe history shows us that the human like to move from place to another for many reasns and the always fell pleased when the rid. This days people have all kind of vehicles bicks, cars, motor...etc because they all have a different advantage.\n\npeople needs also can not meet at be found in one pleace for that reason people need to move from a plece to another place to meet thier needs which means the advantage of moving from point to anther point will be exist for ever.\n\nWorld has bee changed a lot and many people have got great jobs with big salaries. The can easly fund thier vehicl and because people get feeling boring if the used to some thing they always perefer to chang thier vehicle from time to time.\n\nFinally I think it is very hard to believe that the driverless vehicles with outweigh the disadvantages because people always find drive more and more give thier life meaning and add more advantage to it all kind of vehicles give happeness to a lot of people that they can not think about lossing it",
+        "comment": "Most of the ideas in this response are not relevant to the question. It mainly talks about the need people have to go from place to place and how people like different types of transport. However, there is a position expressed in the final paragraph. A title is not required in Task 2.\n\nThere is some attempt to organise the ideas and there are some basic cohesive devices [First of all / Finally], but there is inaccuracy and a general lack of coherence. There is no clear progression.\n\nThere is a high density of error in the use of vocabulary in terms of spelling and word choice [easly fund thier vehicl / perefer to chang thier]. Sentence structures are very limited, although there are some attempts at subordinate clauses [because they all have a different advantage]."
+      }
+    }
+  ]
+}
