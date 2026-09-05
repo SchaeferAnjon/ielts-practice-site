@@ -1,0 +1,1178 @@
+{
+  "id": "c16t3",
+  "book": "剑桥雅思16",
+  "test": 3,
+  "title": "剑16 Test 3 · Listening",
+  "source": "Cambridge IELTS 16 Academic, Test 3（OCR 文字层抽取 + 人工核对页面图片）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c16/t3p1.mp3",
+      "duration": 507,
+      "title": "Junior Cycle Camp",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "JUNIOR CYCLE CAMP",
+          "lines": [
+            "The course focuses on skills and safety.",
+            "Charlie would be placed in Level 5.",
+            "First of all, children at this level are taken to practise in a {{1}}.",
+            "## Instructors",
+            "Instructors wear {{2}} shirts.",
+            "A {{3}} is required and training is given.",
+            "## Classes",
+            "The size of the classes is limited.",
+            "There are quiet times during the morning for a {{4}} or a game.",
+            "Classes are held even if there is {{5}}.",
+            "## What to bring",
+            "a change of clothing",
+            "a {{6}}",
+            "shoes (not sandals)",
+            "Charlie's {{7}}",
+            "## Day 1",
+            "Charlie should arrive at 9.20 am on the first day.",
+            "Before the class, his {{8}} will be checked.",
+            "He should then go to the {{9}} to meet his class instructor.",
+            "## Cost",
+            "The course costs ${{10}} per week."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "JAKE",
+          "t": "Hello, Junior Cycle camp, Jake speaking.",
+          "start": 90.43,
+          "end": 93.59
+        },
+        {
+          "s": "WOMAN",
+          "t": "Hi. I'm calling for some information about the cycle camp – I'm thinking of sending my son.",
+          "start": 94.83,
+          "end": 101.59
+        },
+        {
+          "s": "JAKE",
+          "t": "Great. Well, it's held every weekday morning over the summer vacation and we focus on basic cycling skills and safety. We have eight levels for children from three years upwards. How old's your son?",
+          "start": 102.46,
+          "end": 121.13
+        },
+        {
+          "s": "WOMAN",
+          "t": "Charlie? He's seven. He can ride a bike, but he needs a little more training before he's safe to go on the road.",
+          "start": 121.69,
+          "end": 131.0
+        },
+        {
+          "s": "JAKE",
+          "t": "He'd probably be best in Level 5. They start off practising on the site here, and we aim to get them riding on the road, but first they're taken to ride in the park, away from the traffic.",
+          "q": [
+            1
+          ],
+          "start": 131.48,
+          "end": 148.46
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right. And can you tell me a bit about the instructors?",
+          "start": 148.86,
+          "end": 154.1
+        },
+        {
+          "s": "JAKE",
+          "t": "Well, all our staff wear different coloured shirts. So, we have three supervisors, and they have red shirts. They support the instructors, and they also stand in for me if I'm not around. Then the instructors themselves are in blue shirts, and one of these is responsible for each class.",
+          "q": [
+            2
+          ],
+          "start": 154.5,
+          "end": 181.89
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK.",
+          "start": 182.21,
+          "end": 182.85
+        },
+        {
+          "s": "JAKE",
+          "t": "In order to be accepted, all our instructors have to submit a reference from someone who's seen them work with children – like if they've worked as a babysitter, for example. Then they have to complete our training course, including how to do lesson plans, and generally care for the well-being of the kids in their class. They do a great job, I have to say.",
+          "q": [
+            3
+          ],
+          "start": 184.46,
+          "end": 215.71
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right. And tell me a bit about the classes. What size will Charlie's class be?",
+          "start": 216.71,
+          "end": 224.19
+        },
+        {
+          "s": "JAKE",
+          "t": "We have a limit of eight children in each class, so their instructor really gets to know them well. They're out riding most of the time but they have quiet times too, where their instructor might tell them a story that's got something to do with cycling, or get them to play a game together. It's a lot of fun.",
+          "q": [
+            4
+          ],
+          "start": 225.23,
+          "end": 251.67
+        },
+        {
+          "s": "WOMAN",
+          "t": "It must be. Now, what happens if there's rain? Do the classes still run?",
+          "q": [
+            5
+          ],
+          "start": 252.07,
+          "end": 260.27
+        },
+        {
+          "s": "JAKE",
+          "t": "Oh yes. We don't let that put us off – we just put on our waterproofs and keep cycling.",
+          "start": 260.67,
+          "end": 268.75
+        },
+        {
+          "s": "WOMAN",
+          "t": "And is there anything special Charlie should bring along with him?",
+          "start": 310.12,
+          "end": 315.0
+        },
+        {
+          "s": "JAKE",
+          "t": "Well, maybe some spare clothes, especially if the weather's not so good. And a snack for break time.",
+          "q": [
+            6
+          ],
+          "start": 315.88,
+          "end": 325.79
+        },
+        {
+          "s": "WOMAN",
+          "t": "How about a drink?",
+          "start": 326.11,
+          "end": 327.59
+        },
+        {
+          "s": "JAKE",
+          "t": "No, we'll provide that. And make sure he has shoes, not sandals.",
+          "start": 328.07,
+          "end": 334.71
+        },
+        {
+          "s": "WOMAN",
+          "t": "Sure. And just at present Charlie has to take medication every few hours, so I'll make sure he has that.",
+          "q": [
+            7
+          ],
+          "start": 335.48,
+          "end": 345.8
+        },
+        {
+          "s": "JAKE",
+          "t": "Absolutely. Just give us details of when he has to take it and we'll make sure he does.",
+          "start": 346.82,
+          "end": 354.06
+        },
+        {
+          "s": "WOMAN",
+          "t": "Thanks.",
+          "start": 354.06,
+          "end": 355.14
+        },
+        {
+          "s": "JAKE",
+          "t": "Now, there are a few things you should know about Day 1 of the camp. The classes normally start at 9.30 every morning, but on Day 1 you should aim to get Charlie here by 9.20. The finishing time will be 12.30 as usual. We need the additional time because there are a few extra things to do. The most important is that we have a very careful check to make sure that every child's helmet fits properly.",
+          "q": [
+            8
+          ],
+          "start": 355.66,
+          "end": 395.32
+        },
+        {
+          "s": "JAKE",
+          "t": "If it doesn't fit, we'll try to adjust it, or we'll find him another one – but he must wear it all the time he's on the bike.",
+          "start": 396.13,
+          "end": 406.45
+        },
+        {
+          "s": "WOMAN",
+          "t": "Of course.",
+          "start": 407.13,
+          "end": 407.89
+        },
+        {
+          "s": "JAKE",
+          "t": "Then after that, all the instructors will be waiting to meet their classes, and they'll meet up in the tent – you can't miss it. And each instructor will take their class away and get started.",
+          "q": [
+            9
+          ],
+          "start": 408.73,
+          "end": 424.45
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK. Well that all sounds good. Now can you tell me how much the camp costs a week?",
+          "start": 425.13,
+          "end": 434.4
+        },
+        {
+          "s": "JAKE",
+          "t": "One hundred ninety-nine dollars. We've managed to keep the price more or less the same as last year – it was one hundred ninety then. But the places are filling up quite quickly.",
+          "q": [
+            10
+          ],
+          "start": 437.6,
+          "end": 450.98
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right. OK, well I'd like to book for ...",
+          "start": 452.5,
+          "end": 456.18
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c16/t3p2.mp3",
+      "duration": 422,
+      "title": "Careers in agriculture and horticulture",
+      "groups": [
+        {
+          "range": [
+            11,
+            12
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "According to Megan, what are the TWO main advantages of working in the agriculture and horticulture sectors?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "the active lifestyle"
+            },
+            {
+              "k": "B",
+              "text": "the above-average salaries"
+            },
+            {
+              "k": "C",
+              "text": "the flexible working opportunities"
+            },
+            {
+              "k": "D",
+              "text": "the opportunities for overseas travel"
+            },
+            {
+              "k": "E",
+              "text": "the chance to be in a natural environment"
+            }
+          ]
+        },
+        {
+          "range": [
+            13,
+            14
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO of the following are likely to be disadvantages for people working outdoors?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "the increasing risk of accidents"
+            },
+            {
+              "k": "B",
+              "text": "being in a very quiet location"
+            },
+            {
+              "k": "C",
+              "text": "difficult weather conditions at times"
+            },
+            {
+              "k": "D",
+              "text": "the cost of housing"
+            },
+            {
+              "k": "E",
+              "text": "the level of physical fitness required"
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            20
+          ],
+          "type": "matching",
+          "instruction": "What information does Megan give about each of the following job opportunities?",
+          "limit": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 15-20.",
+          "optionsTitle": "Information",
+          "options": [
+            {
+              "k": "A",
+              "text": "not a permanent job"
+            },
+            {
+              "k": "B",
+              "text": "involves leading a team"
+            },
+            {
+              "k": "C",
+              "text": "experience not essential"
+            },
+            {
+              "k": "D",
+              "text": "intensive work but also fun"
+            },
+            {
+              "k": "E",
+              "text": "chance to earn more through overtime"
+            },
+            {
+              "k": "F",
+              "text": "chance for rapid promotion"
+            },
+            {
+              "k": "G",
+              "text": "accommodation available"
+            },
+            {
+              "k": "H",
+              "text": "local travel involved"
+            }
+          ],
+          "itemsTitle": "Job opportunities",
+          "items": [
+            {
+              "n": 15,
+              "text": "Fresh food commercial manager"
+            },
+            {
+              "n": 16,
+              "text": "Agronomist"
+            },
+            {
+              "n": 17,
+              "text": "Fresh produce buyer"
+            },
+            {
+              "n": 18,
+              "text": "Garden centre sales manager"
+            },
+            {
+              "n": 19,
+              "text": "Tree technician"
+            },
+            {
+              "n": 20,
+              "text": "Farm worker"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MEGAN",
+          "t": "Hello everyone. My name's Megan Baker and I'm a recruitment consultant at AVT Recruitment specialists.",
+          "start": 47.28,
+          "end": 54.56
+        },
+        {
+          "s": "MEGAN",
+          "t": "Now, our company specialises in positions that involve working in the agriculture and horticulture sectors, so that's fresh food production, garden and park maintenance and so on. And these sectors do provide some very special career opportunities. For a start, they often offer opportunities for those who don't want to be stuck with a 40-hour week, but need to juggle work with other responsibilities such as child care – and this is very important for many of our recruits.",
+          "q": [
+            11,
+            12
+          ],
+          "start": 56.2,
+          "end": 88.43
+        },
+        {
+          "s": "MEGAN",
+          "t": "Some people like working in a rural setting, surrounded by plants and trees instead of buildings, although we can't guarantee that. But there are certainly health benefits, especially in jobs where you're not sitting all day looking at a screen – a big plus for many people.",
+          "q": [
+            11,
+            12
+          ],
+          "start": 90.14,
+          "end": 108.39
+        },
+        {
+          "s": "MEGAN",
+          "t": "Salaries can sometimes be good too, although there's a lot of variety here. And you may have the opportunity in some types of jobs for travel overseas, although that obviously depends on the job, and not everyone is keen to do it.",
+          "start": 108.71,
+          "end": 125.24
+        },
+        {
+          "s": "MEGAN",
+          "t": "Of course, working outdoors does have its challenges. It's fine in summer, but can be extremely unpleasant when it's cold and windy. You may need to be pretty fit for some jobs, though with modern technology that's not as important as it once was. And standards of health and safety are much higher now than they used to be, so there are fewer work-related accidents.",
+          "q": [
+            13,
+            14
+          ],
+          "start": 127.01,
+          "end": 152.32
+        },
+        {
+          "s": "MEGAN",
+          "t": "But if you like a lively city environment surrounded by lots of people, these jobs are probably not for you – they're often in pretty remote areas. And some people worry about finding a suitable place to live, but in our experience, this usually turns out fine.",
+          "q": [
+            13,
+            14
+          ],
+          "start": 153.32,
+          "end": 172.1
+        },
+        {
+          "s": "MEGAN",
+          "t": "Now let me tell you about some of the exciting jobs that we have on our books right now. One is for a fresh food commercial manager. Our client here is a very large fresh food producer supplying a range of top supermarkets. They operate in a very fast-paced environment with low profit margins – the staff there work hard, but they play hard as well, so if you've a sociable personality this may be for you.",
+          "q": [
+            15
+          ],
+          "start": 219.4,
+          "end": 249.66
+        },
+        {
+          "s": "MEGAN",
+          "t": "We have an exciting post as an agronomist advising farmers on issues such as crop nutrition, protection against pests, and the latest legislation on farming and agricultural practices. There are good opportunities for the right person to quickly make their way up the career ladder, but a deep knowledge of the agricultural sector is expected of applicants.",
+          "q": [
+            16
+          ],
+          "start": 250.95,
+          "end": 275.45
+        },
+        {
+          "s": "MEGAN",
+          "t": "A leading supermarket is looking for a fresh produce buyer who is available for a 12-month maternity cover contract. You need to have experience in administration, planning and buying in the fresh produce industry, and in return will receive a very competitive salary.",
+          "q": [
+            17
+          ],
+          "start": 277.56,
+          "end": 296.92
+        },
+        {
+          "s": "MEGAN",
+          "t": "We have also received a request for a sales manager for a chain of garden centres. You will be visiting centres in the region to ensure their high levels of customer service are maintained. This post is only suitable for someone who is prepared to live in the region.",
+          "q": [
+            18
+          ],
+          "start": 298.45,
+          "end": 315.92
+        },
+        {
+          "s": "MEGAN",
+          "t": "There is also a vacancy for a tree technician to carry out tree cutting, forestry and conservation work. Candidates must have a clean driving licence and have training in safety procedures. A year's experience would be preferred but the company might be prepared to consider someone who has just completed an appropriate training course.",
+          "q": [
+            19
+          ],
+          "start": 317.85,
+          "end": 341.24
+        },
+        {
+          "s": "MEGAN",
+          "t": "Finally, we have a position for a farm worker. This will involve a wide range of farm duties including crop sowing and harvesting, machine maintenance and animal care. Perks of the job include the possibility of renting a small cottage on the estate, and the chance to earn a competitive salary. A driving licence and tractor driving experience are essential.",
+          "q": [
+            20
+          ],
+          "start": 342.66,
+          "end": 369.97
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c16/t3p3.mp3",
+      "duration": 416,
+      "title": "Presentation on diet and obesity",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO points does Adam make about his experiment on artificial sweeteners?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "The results were what he had predicted."
+            },
+            {
+              "k": "B",
+              "text": "The experiment was simple to set up."
+            },
+            {
+              "k": "C",
+              "text": "A large sample of people was tested."
+            },
+            {
+              "k": "D",
+              "text": "The subjects were unaware of what they were drinking."
+            },
+            {
+              "k": "E",
+              "text": "The test was repeated several times for each person."
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            24
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO problems did Rosie have when measuring the fat content of nuts?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "She used the wrong sort of nuts."
+            },
+            {
+              "k": "B",
+              "text": "She used an unsuitable chemical."
+            },
+            {
+              "k": "C",
+              "text": "She did not grind the nuts finely enough."
+            },
+            {
+              "k": "D",
+              "text": "The information on the nut package was incorrect."
+            },
+            {
+              "k": "E",
+              "text": "The weighing scales may have been unsuitable."
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 25,
+              "text": "Adam suggests that restaurants could reduce obesity if their menus",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "offered fewer options."
+                },
+                {
+                  "k": "B",
+                  "text": "had more low-calorie foods."
+                },
+                {
+                  "k": "C",
+                  "text": "were organised in a particular way."
+                }
+              ]
+            },
+            {
+              "n": 26,
+              "text": "The students agree that food manufacturers deliberately",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "make calorie counts hard to understand."
+                },
+                {
+                  "k": "B",
+                  "text": "fail to provide accurate calorie counts."
+                },
+                {
+                  "k": "C",
+                  "text": "use ineffective methods to reduce calories."
+                }
+              ]
+            },
+            {
+              "n": 27,
+              "text": "What does Rosie say about levels of exercise in England?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "The amount recommended is much too low."
+                },
+                {
+                  "k": "B",
+                  "text": "Most people overestimate how much they do."
+                },
+                {
+                  "k": "C",
+                  "text": "Women now exercise more than they used to."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "Adam refers to the location and width of stairs in a train station to illustrate",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "practical changes that can influence people's behaviour."
+                },
+                {
+                  "k": "B",
+                  "text": "methods of helping people who have mobility problems."
+                },
+                {
+                  "k": "C",
+                  "text": "ways of preventing accidents by controlling crowd movement."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "What do the students agree about including reference to exercise in their presentation?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "They should probably leave it out."
+                },
+                {
+                  "k": "B",
+                  "text": "They need to do more research on it."
+                },
+                {
+                  "k": "C",
+                  "text": "They should discuss this with their tutor."
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "What are the students going to do next for their presentation?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "prepare some slides for it"
+                },
+                {
+                  "k": "B",
+                  "text": "find out how long they have for it"
+                },
+                {
+                  "k": "C",
+                  "text": "decide on its content and organisation"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "ADAM",
+          "t": "OK Rosie, shall we try to get some ideas together for our presentation on diet and obesity?",
+          "start": 46.63,
+          "end": 52.39
+        },
+        {
+          "s": "ROSIE",
+          "t": "Sure.",
+          "start": 53.07,
+          "end": 53.27
+        },
+        {
+          "s": "ADAM",
+          "t": "I can talk about the experiment I did to see if people can tell the difference between real sugar and artificial sweeteners.",
+          "start": 54.15,
+          "end": 60.38
+        },
+        {
+          "s": "ROSIE",
+          "t": "Where you gave people drinks with either sugar or artificial sweeteners and they had to say which they thought it was?",
+          "start": 61.1,
+          "end": 67.66
+        },
+        {
+          "s": "ADAM",
+          "t": "Yeah. It took me ages to decide exactly how I'd organise it, especially how I could make sure that people didn't know which drink I was giving them. It was hard to keep track of it all, especially as I had so many people doing it – I had to make sure I kept a proper record of what each person had had.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 67.86,
+          "end": 87.2
+        },
+        {
+          "s": "ROSIE",
+          "t": "So could most people tell the difference?",
+          "start": 87.48,
+          "end": 89.96
+        },
+        {
+          "s": "ADAM",
+          "t": "Yeah – I hadn't thought they would be able to, but most people could.",
+          "start": 90.4,
+          "end": 94.81
+        },
+        {
+          "s": "ROSIE",
+          "t": "Then there's that experiment I did measuring the fat content of nuts, to see if the nutritional information given on the packet was accurate.",
+          "start": 95.01,
+          "end": 104.85
+        },
+        {
+          "s": "ADAM",
+          "t": "The one where you ground up the nuts and mixed them with a chemical to absorb the fat?",
+          "start": 105.35,
+          "end": 109.99
+        },
+        {
+          "s": "ROSIE",
+          "t": "Yes. My results were a bit problematic – the fat content for that type of nut seemed much lower than it said on the package. But I reckon the package information was right. I think I should probably have ground up the nuts more than I did. It's possible that the scales for weighing the fat weren't accurate enough, too. I'd really like to try the experiment again some time.",
+          "q": [
+            23,
+            24
+          ],
+          "start": 110.15,
+          "end": 141.35
+        },
+        {
+          "s": "ADAM",
+          "t": "So what can we say about helping people to lose weight?",
+          "start": 196.94,
+          "end": 200.18
+        },
+        {
+          "s": "ADAM",
+          "t": "There's a lot we could say about what restaurants could do to reduce obesity. I read that the items at the start of a menu and the items at the end of a menu are much more likely to be chosen than the items in the middle. So, if you put the low-calorie items at the beginning and end of the menu, people will probably go for the food with fewer calories, without even realising what they're doing.",
+          "q": [
+            25
+          ],
+          "start": 200.9,
+          "end": 225.1
+        },
+        {
+          "s": "ROSIE",
+          "t": "I think food manufacturers could do more to encourage healthy eating.",
+          "start": 226.14,
+          "end": 230.22
+        },
+        {
+          "s": "ADAM",
+          "t": "How?",
+          "start": 230.46,
+          "end": 230.94
+        },
+        {
+          "s": "ROSIE",
+          "t": "Well, when manufacturers put calorie counts of a food on the label, they're sometimes really confusing and I suspect they do it on purpose. Because food that's high in calories tastes better, and so they'll sell more.",
+          "q": [
+            26
+          ],
+          "start": 231.14,
+          "end": 245.69
+        },
+        {
+          "s": "ADAM",
+          "t": "Yeah, so if you look at the amount of calories in a pizza, they'll give you the calories per quarter pizza and you think, oh that's not too bad. But who's going to eat a quarter pizza?",
+          "start": 245.85,
+          "end": 258.09
+        },
+        {
+          "s": "ROSIE",
+          "t": "Exactly.",
+          "start": 258.09,
+          "end": 258.09,
+          "estimated": true
+        },
+        {
+          "s": "ADAM",
+          "t": "I suppose another approach to this problem is to get people to exercise more.",
+          "start": 259.93,
+          "end": 264.57
+        },
+        {
+          "s": "ROSIE",
+          "t": "Right. In England, the current guidelines are for at least 30 minutes of brisk walking, five days a week. Now when you ask them, about 40% of men and 30% of women say they do this, but when you objectively measure the amount of walking they do with motion sensors, you find that only 6% of men and 4% of women do the recommended amount of exercise.",
+          "q": [
+            27
+          ],
+          "start": 264.61,
+          "end": 292.01
+        },
+        {
+          "s": "ADAM",
+          "t": "Mm, so you can see why obesity is growing.",
+          "start": 292.81,
+          "end": 295.09
+        },
+        {
+          "s": "ROSIE",
+          "t": "So how can people be encouraged to take more exercise?",
+          "start": 295.9,
+          "end": 299.86
+        },
+        {
+          "s": "ADAM",
+          "t": "Well, for example, think of the location of stairs in a train station. If people reach the stairs before they reach the escalator when they're leaving the station, they're more likely to take the stairs. And if you increase the width of the stairs, you'll get more people using them at the same time. It's an unconscious process and influenced by minor modifications in their environment.",
+          "q": [
+            28
+          ],
+          "start": 300.74,
+          "end": 326.33
+        },
+        {
+          "s": "ROSIE",
+          "t": "Right. And it might not be a big change, but if it happens every day, it all adds up.",
+          "start": 326.57,
+          "end": 332.89
+        },
+        {
+          "s": "ADAM",
+          "t": "Yes. But actually, I'm not sure if we should be talking about exercise in our presentation.",
+          "q": [
+            29
+          ],
+          "start": 333.05,
+          "end": 338.41
+        },
+        {
+          "s": "ROSIE",
+          "t": "Well, we've done quite a bit of reading about it.",
+          "start": 338.73,
+          "end": 341.65
+        },
+        {
+          "s": "ADAM",
+          "t": "I know, but it's going to mean we have a very wide focus, and our tutor did say that we need to focus on causes and solutions in terms of nutrition.",
+          "start": 342.2,
+          "end": 351.92
+        },
+        {
+          "s": "ROSIE",
+          "t": "I suppose so. And we've got plenty of information about that. OK, well that will be simpler.",
+          "start": 352.81,
+          "end": 360.09
+        },
+        {
+          "s": "ADAM",
+          "t": "So what shall we do now? We've still got half an hour before our next lecture.",
+          "start": 360.33,
+          "end": 365.49
+        },
+        {
+          "s": "ROSIE",
+          "t": "Let's think about what we're going to include and what will go where. Then we can decide what slides we need.",
+          "q": [
+            30
+          ],
+          "start": 366.29,
+          "end": 372.45
+        },
+        {
+          "s": "ADAM",
+          "t": "OK, fine.",
+          "start": 372.65,
+          "end": 373.73
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c16/t3p4.mp3",
+      "duration": 532,
+      "title": "Hand knitting",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Hand knitting",
+          "lines": [
+            "## Interest in knitting",
+            "Knitting has a long history around the world.",
+            "We imagine someone like a {{31}} knitting.",
+            "A {{32}} ago, knitting was expected to disappear.",
+            "The number of knitting classes is now increasing.",
+            "People are buying more {{33}} for knitting nowadays.",
+            "## Benefits of knitting",
+            "gives support in times of {{34}} difficulty",
+            "requires only {{35}} skills and little money to start",
+            "reduces stress in a busy life",
+            "## Early knitting",
+            "The origins are not known.",
+            "Findings show early knitted items to be {{36}} in shape.",
+            "The first needles were made of natural materials such as wood and {{37}}.",
+            "Early yarns felt {{38}} to touch.",
+            "Wool became the most popular yarn for spinning.",
+            "Geographical areas had their own {{39}} of knitting.",
+            "Everyday tasks like looking after {{40}} were done while knitting."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LECTURER",
+          "t": "Good morning everyone. So today we're going to look at an important creative activity and that's hand knitting. Ancient knitted garments have been found in many different countries, showing that knitting is a global activity with a long history.",
+          "start": 76.76,
+          "end": 95.26
+        },
+        {
+          "s": "LECTURER",
+          "t": "When someone says the word 'knitting' we might well picture an elderly person – a grandmother perhaps – sitting by the fire knitting garments for themselves or other members of the family. It's a homely image, but one that may lead you to feel that knitting is an activity of the past.",
+          "q": [
+            31
+          ],
+          "start": 96.62,
+          "end": 118.98
+        },
+        {
+          "s": "LECTURER",
+          "t": "And, indeed, during the previous decade, it was one of the skills that was predicted to vanish from everyday life. For although humans have sewn and knitted their own clothing for a very long time, many of these craft-based skills went into decline when industrial machines took over – mainly because they were no longer passed down from one generation to another.",
+          "q": [
+            32
+          ],
+          "start": 119.9,
+          "end": 149.73
+        },
+        {
+          "s": "LECTURER",
+          "t": "However, that's all changing and interest in knitting classes in many countries is actually rising, as more and more people are seeking formal instruction in the skill. With that trend, we're also seeing an increase in the sales figures for knitting equipment.",
+          "q": [
+            33
+          ],
+          "start": 151.09,
+          "end": 173.69
+        },
+        {
+          "s": "LECTURER",
+          "t": "So why do people want to be taught to knit at a time when a machine can readily do the job for them? The answer is that knitting, as a handicraft, has numerous benefits for those doing it. Let's consider what some of these might be. While many people knitted garments in the past because they couldn't afford to buy clothes, it's still true today that knitting can be helpful if you're experiencing economic hardship.",
+          "q": [
+            34
+          ],
+          "start": 175.23,
+          "end": 210.07
+        },
+        {
+          "s": "LECTURER",
+          "t": "If you have several children who all need warm winter clothes, knitting may save you a lot of money. And the results of knitting your own clothes can be very rewarding, even though the skills you need to get going are really quite basic and the financial outlay is minimal.",
+          "q": [
+            35
+          ],
+          "start": 211.55,
+          "end": 234.66
+        },
+        {
+          "s": "LECTURER",
+          "t": "But the more significant benefits in today's world are to do with well-being. In a world where it's estimated that we spend up to nine hours a day online, doing something with our hands that is craft-based makes us feel good. It releases us from the stress of a technological, fast-paced life.",
+          "start": 236.15,
+          "end": 260.81
+        },
+        {
+          "s": "LECTURER",
+          "t": "Now, let's look back a bit to early knitting activities. In fact, no one really knows when knitting first began, but archaeological remains have disclosed plenty of information for us to think about.",
+          "start": 266.41,
+          "end": 283.41
+        },
+        {
+          "s": "LECTURER",
+          "t": "One of the interesting things about knitting is that the earliest pieces of clothing that have been found suggest that most of the items produced were round rather than flat. Discoveries from the 3rd and 4th centuries in Egypt show that things like socks and gloves, that were needed to keep hands and feet warm, were knitted in one piece using four or five needles.",
+          "q": [
+            36
+          ],
+          "start": 285.42,
+          "end": 316.46
+        },
+        {
+          "s": "LECTURER",
+          "t": "That's very different from most knitting patterns today, which only require two. What's more, the very first needles people used were hand carved out of wood and other natural materials, like bone, whereas today's needles are largely made of steel or plastic and make that characteristic clicking sound when someone's using them.",
+          "q": [
+            37
+          ],
+          "start": 317.54,
+          "end": 345.61
+        },
+        {
+          "s": "LECTURER",
+          "t": "Ancient people knitted using yarns made from linen, hemp, cotton and wool, and these were often very rough on the skin. The spinning wheel, which allowed people to make finer yarns and produce much greater quantities of them, led to the dominance of wool in the knitting industry – often favoured for its warmth.",
+          "q": [
+            38
+          ],
+          "start": 346.75,
+          "end": 372.58
+        },
+        {
+          "s": "LECTURER",
+          "t": "Another interesting fact about knitting is that because it was practised in so many parts of the world for so many purposes, regional differences in style developed. This visual identity has allowed researchers to match bits of knitted clothing that have been unearthed over time to the region from which the wearer came or the job that he or she did.",
+          "q": [
+            39
+          ],
+          "start": 374.62,
+          "end": 403.51
+        },
+        {
+          "s": "LECTURER",
+          "t": "As I've mentioned, knitting offered people from poor communities a way of making extra money while doing other tasks. For many centuries, it seems, men, women and children took every opportunity to knit, for example, while watching over sheep, walking to market or riding in boats.",
+          "q": [
+            40
+          ],
+          "start": 404.93,
+          "end": 428.71
+        },
+        {
+          "s": "LECTURER",
+          "t": "So, let's move on to take a break.",
+          "start": 430.59,
+          "end": 440.75
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "park"
+    ],
+    "2": [
+      "blue"
+    ],
+    "3": [
+      "reference"
+    ],
+    "4": [
+      "story"
+    ],
+    "5": [
+      "rain"
+    ],
+    "6": [
+      "snack"
+    ],
+    "7": [
+      "medication"
+    ],
+    "8": [
+      "helmet"
+    ],
+    "9": [
+      "tent"
+    ],
+    "10": [
+      "199"
+    ],
+    "11": [
+      "A",
+      "C"
+    ],
+    "12": [
+      "A",
+      "C"
+    ],
+    "13": [
+      "B",
+      "C"
+    ],
+    "14": [
+      "B",
+      "C"
+    ],
+    "15": [
+      "D"
+    ],
+    "16": [
+      "F"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "H"
+    ],
+    "19": [
+      "C"
+    ],
+    "20": [
+      "G"
+    ],
+    "21": [
+      "C",
+      "D"
+    ],
+    "22": [
+      "C",
+      "D"
+    ],
+    "23": [
+      "C",
+      "E"
+    ],
+    "24": [
+      "C",
+      "E"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "B"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "grandmother"
+    ],
+    "32": [
+      "decade"
+    ],
+    "33": [
+      "equipment"
+    ],
+    "34": [
+      "economic"
+    ],
+    "35": [
+      "basic"
+    ],
+    "36": [
+      "round"
+    ],
+    "37": [
+      "bone"
+    ],
+    "38": [
+      "rough"
+    ],
+    "39": [
+      "style"
+    ],
+    "40": [
+      "sheep"
+    ]
+  }
+}
