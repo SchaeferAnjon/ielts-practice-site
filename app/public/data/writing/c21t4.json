@@ -1,0 +1,46 @@
+{
+  "id": "c21t4",
+  "book": "剑桥雅思21",
+  "test": 4,
+  "title": "剑21 Test 4 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "mixed",
+      "kindZh": "混合",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The chart and table below show the results of a survey of library users at a university.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c21t4-task1.png",
+      "imageCaption": "Categories of library users, and library user satisfaction (%)",
+      "sample": {
+        "band": 6,
+        "text": "In this chart, we can see a representation of categories and satisfaction of library users, the first feature that we pay attention is the users majority take part of full-time undergraduate and full-time post-graduate, such as they probably are the biggest data of library satisfaction, since very satisfied until not satisfied, also post-graduate students would need more special materials to hardest researchs and learning method, Even thought undergraduates students, fresh or veteran, are o their initial academic career, both categaries look satisfied with the library between another may, as the fact they use it more than once during a day.\n\nOn the other hand, academic staff is the lowest data categorie that use the library, with a percentage of 17%, the reason beyond this effect is because the staffs must to focus on their work, so they probally use the library on their free-time, however, distance learning students have a 8% percentage, both categaries have a 1% difference percentage, which explain they took a little part of satisfaction research, distance learning have a low percentage because the fact they also access online materials.\n\nFinally, part-time postgraduate students are the medium date, with a 16% percentage. where they would use the libraray to classroom researchs or homeworks.",
+        "comment": "This is generally a good response, there is an introduction at the start, and an attempt at an overview [...the users majority take part of full-time undergraduate and full-time post-graduate, such as they probably are the biggest data of library satisfaction]. To improve the overview, there should be a summary across both charts. Key data from the pie chart is presented quite well but the 'Library user satisfaction' data is not sufficiently covered. There are also examples of irrelevant information [would need more special materials | use it more than once during a day | use the library on their free-time] which can detract from task achievement.\n\nIdeas are mostly arranged logically. There are some nice linking expressions [since | also | so | Finally | On the other hand] with some slips [Even thought / Even though], and some good examples of reference [their | they].\n\nVocabulary is mainly appropriate and spelling is generally well managed [representation | pay attention]; some errors remain but don't affect understanding. Grammatical structures are mixed, but there are multi clause sentences and examples of a range of structures, including modal verbs used correctly [would need], and with some errors [must to focus].\n\nThis response could be improved by including an overview that covers both charts (so, including the 'Library user satisfaction' table,) and eliminating the irrelevant content. A wider range of vocabulary and grammatical structure would also help improve the score.",
+        "exampleOverview": "Overall, the survey of library users at this university shows that full time students were by far the largest user group, with Academic staff in a minority. We also see that library users were 'very satisfied' the majority of the time, and were especially pleased with the helpfulness of staff but least satisfied with the wi-fi and access to journals."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "two-part",
+      "kindZh": "双问题",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people argue that primary schools focus too much on formal learning.",
+        "To what extent do you agree with this opinion?",
+        "How important do you think it is for children to play as well as learn in the primary school classroom?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 7.5,
+        "text": "Nowadays individuals are arguing that primary schools pay a lot of attention to the formal methods of learning. I partially agree with this point of view, however I think play is extremely crucial in the classroom full of primary students.\n\nTo begin with, formal learning plays an important role, since it teaches the student about being disciplined and respectful to everyone. Discipline and respect are two most important skills we need in our life that schools teaches us in a way of formal learning. Getting into details, these skills make people succeed in their lives. If we look at the example of successfull people today they all have these two qualities in common. Moreover formal learning helps us to test the ability of a student by conducting an exam in a formal way, which shows us how much has a student learnt and how much is the student capable of doing.\n\nOn the other hand, I believe that too formal education is not the best way of learning. Considering the stage of the life in which primary students belong, we need to realize that fun is a crucial part of it. Being extremely formal blocks that fun from a student's life. So instead of schools being strict about formal ways of learning they should promote fun methods of teaching. For example, mind games other other video games, colours, paints and other activities will also teach student but in a enjoyable way. These activities will also promote the important skills such as social skills, creative skills and other beneficial skills we need in our daily lives. Furthermore, if we consider it deeply it will also prevent boredom and will motivate the student to have a passion for lifelong learning. last but not the least, play in the primary classroom has a huge importance on it's own. which gives the student this freedom to enjoy learning.\n\nIn conclusion, formal learning has it's importance till some extent but sometimes it is a necessity to be informal. And schools should be focused at both of the methods of learning",
+        "comment": "This is an excellent response that presents a range of relevant ideas. The writer sets out their position in the opening paragraph, and addresses both parts of the question. Paragraph 2 presents the importance of formal learning: it teaches discipline and respect, it allows people to take exams to show how much they have learned and are capable of. Paragraph 3 goes on to present the importance of play: being too formal blocks fun, schools should promote 'fun' methods of teaching, they make suggestions of types of games and activities that could be used to teach in an enjoyable way, prevent boredom, and instil a love for lifelong learning. The conclusion brings the response to an end, but is quite general. It is appropriate, but could be more focused.\n\nIdeas are presented logically. A range of good linking expressions are used [To begin with | Moreover | On the other hand | Furthermore]. However, almost every sentence begins with a linking device which makes it quite mechanical. Generally, reference and cohesion within sentences is well managed [which | it]. A reduction in the number of linking devices that come at the start of sentences would make it less formulaic.\n\nVocabulary is well managed, with a good range of higher-level items, including collocation [pay ... attention | capable of doing | a crucial part of]. There are occasional errors [till /to | focused at /focused on] that detract from the highest scores. Grammatical structures are well presented, with a range of complex structures, including multi clause sentences. A few errors do remain.\n\nOverall, this is a very strong and articulate response. To achieve a higher score, the candidate could provide a conclusion that refers directly to the question, and avoid starting each sentence with a linking expression."
+      }
+    }
+  ]
+}

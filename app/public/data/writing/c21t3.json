@@ -1,0 +1,45 @@
+{
+  "id": "c21t3",
+  "book": "剑桥雅思21",
+  "test": 3,
+  "title": "剑21 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "process",
+      "kindZh": "流程图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The diagram below shows how one type of desert, known as a rain-shadow desert, is formed.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c21t3-task1.png",
+      "imageCaption": "The formation of rain-shadow deserts",
+      "sample": {
+        "band": 5.5,
+        "text": "How is the process for rain-shadow appears in deserts the image below is the explanation about the formation of rain-shadow in this desert in specific.\n\nThe first that i can see is the thousand of kilometeres between the sea and the inland behind the mountains. This is important because the process have a lot of steps and the distance gives time to all of them.\n\nFirst of all, the clouds are formed because the winds from the sea arrove to the coast and grow up until the top of mountain while the moist air are rise and cool. Moreover on the top of mountain starts to rains.\n\nThen, the dry air continues over the mountain until the below part. This part saids inland areas finally, in this part when the dry winds founds the inland areas, the rain-shadow desert appears.",
+        "comment": "This response addressed the requirements of the task but, overall, there is a lack of detail.\nThe first paragraph is an introduction to the diagram. Task 1 Academic tasks require an overview, a summary of the key stages of the process, but this is missing. Paragraph 2 contains some irrelevant information [This is important because the process have a lot of steps and the distance gives time to all of them]. The main response comes in paragraphs 3 and 4 and it does include the main features, but there are details missing, such as 'clouds form' 'Windward side' and 'Leeward side'. The irrelevant content and missing details detract from the score for this task.\nInformation is generally arranged coherently and there are linking expressions [First of all / Moreover / Then] and some referencing within the process [this desert / all of them / this part]. There is some repetition [The first / First of all] but overall, cohesive devices are used to some good effect.\nVocabulary is generally good and appropriate for the task [appears / explanation], the meaning is clear but there are errors [arrove / arrive / grow up / move up / saids / sees] and a lack of precision [in specific / specifically / gives time / below part]. Similarly, the grammatical range is narrow, often inaccurate and repetitive but the writer does attempt multi clause sentences [while / when] and a modal verb [can] so there is some ability. Overall though, grammatical errors are frequent and they do cause some difficulty in understanding.\nTo achieve a higher score, an overview, which summarises the main stages of the process should be presented.",
+        "exampleOverview": "This process of forming a rain-shadow desert includes three main stages. Firstly, the wind pushes moist air up from the sea, then rain clouds form and rain falls over the mountains, finally, dry air reaches the inland areas, to make the desert."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "advantage-disadvantage",
+      "kindZh": "利弊",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "All university undergraduate courses should include a period of time spent studying abroad or doing a work placement.",
+        "Do you think the advantages of this would outweigh the disadvantages?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 7.5,
+        "text": "As the number of educated people is continually growing, universities attempt to make the process of studying (and its result) as efficient as possible. Among the ideas to improve the conditions of students are the thoughts that all undergraduate courses should include a period of time spent studying abroad or doing a work placement.\n\nA number of higher education establishments have already implemented these ideas into life. However, this is the advantage of developed countries, whose economy allows them spent money on this aspect.\n\nUnfortunately, Ukraine is not among their number. Yet.\n\nWeighing up the pluses and minuses of such strategies one can't but mention that advantages prevail. Firstly, going abroad, a student gets the opportunity to compare the approaches and levels of education. Moreover, undergraduates, who are still polishing their skills, have the chance to practice them in the completely new environment and probably see new horizons of their future career. In addition to the above mentioned reasons, let us consider the fact of cultural enrichment.\n\nWhat concerns doing a work placement most of us will agree with the opinion, that theory and practice are two polar sides of any job. The possibility to try yourself in several work positions or even fields gives mostly advantages, allowing students to fit themselves into the real profession, opposing to those which are so wonderfully depicted in films and books. Moreover, a lot of people spend their whole life doing a job they do not really enjoy. So, why spend time on something you are not that good at?\n\nThere are definitely the drawbacks of such ideas, one of them being economical inability of education system to provide such courses for undergraduates in ALL universities. However, the fact that developed countries are already moving forward in that direction gives us hope that in short or long time this strategy will become wide spread and even will be taken by us as granted. After all, what to invest money in if not in young people, the future of humanity.",
+        "comment": "This is a strong, detailed and well-developed response. Ideas are appropriate and the position is presented at the beginning of the 4th paragraph [advantages prevail]. The first three paragraphs act as the introduction. Paragraph 4 addresses the advantages of time spent studying abroad (which include comparing approaches and levels of education, practising skills in a new environment, seeing new horizons for future careers and cultural enrichment). Paragraph 5 addresses the advantages of doing a work placement (which include trying work positions and fitting into real professions). The final paragraph presents the drawbacks, although the main disadvantage mentioned is the inability of all universities to afford these initiatives, which is not a drawback of the initiatives themselves, but in the ability to run them.\nSome of paragraph 5 is less relevant to the question [why spend time on something you are not that good at?]. To improve this response, there could be more relevant detail on the advantages of work placements and, possibly, mention of 'disadvantages' of studying abroad and work placements themselves.\nThe ideas presented are organised logically and the six paragraphs support overall coherence. Although paragraph 3 is only one sentence, so not a standard paragraph but this can be seen as a stylistic variant, to make the point more clearly. Cohesion is used well throughout, and the message can be followed with ease.\nVocabulary is used well, with flexibility and precision [polishing their skills / new horizons / moving forward in that direction / future of humanity], with mostly accurate spelling and only a few errors in word choice [implemented these ideas into life / polar sides / taken as granted / taken for granted]. Similarly, the range of grammatical structures is wide. There are frequent multi-clause sentences and error-free sentences are frequent.\nThis is a good, articulate response. There are a few small lapses in vocabulary and grammatical structures, and more could be added on the advantages of work placements, to score even more highly."
+      }
+    }
+  ]
+}

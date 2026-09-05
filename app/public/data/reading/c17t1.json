@@ -1,0 +1,864 @@
+{
+  "id": "c17t1",
+  "book": "剑桥雅思17",
+  "test": 1,
+  "title": "剑17 Test 1 · Reading",
+  "minutes": 60,
+  "passages": [
+    {
+      "n": 1,
+      "title": "The development of the London underground railway",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "In the first half of the 1800s, London's population grew at an astonishing rate, and the central area became increasingly congested. In addition, the expansion of the overground railway network resulted in more and more passengers arriving in the capital. However, in 1846, a Royal Commission decided that the railways should not be allowed to enter the City, the capital's historic and business centre. The result was that the overground railway stations formed a ring around the City. The area within consisted of poorly built, overcrowded slums and the streets were full of horse-drawn traffic. Crossing the City became a nightmare. It could take an hour and a half to travel 8 km by horse-drawn carriage or bus. Numerous schemes were proposed to resolve these problems, but few succeeded."
+        },
+        {
+          "id": "p2",
+          "text": "Amongst the most vocal advocates for a solution to London's traffic problems was Charles Pearson, who worked as a solicitor for the City of London. He saw both social and economic advantages in building an underground railway that would link the overground railway stations together and clear London slums at the same time. His idea was to relocate the poor workers who lived in the inner-city slums to newly constructed suburbs, and to provide cheap rail travel for them to get to work. Pearson's ideas gained support amongst some businessmen and in 1851 he submitted a plan to Parliament. It was rejected, but coincided with a proposal from another group for an underground connecting line, which Parliament passed."
+        },
+        {
+          "id": "p3",
+          "text": "The two groups merged and established the Metropolitan Railway Company in August 1854. The company's plan was to construct an underground railway line from the Great Western Railway's (GWR) station at Paddington to the edge of the City at Farringdon Street – a distance of almost 5 km. The organisation had difficulty in raising the funding for such a radical and expensive scheme, not least because of the critical articles printed by the press. Objectors argued that the tunnels would collapse under the weight of traffic overhead, buildings would be shaken and passengers would be poisoned by the emissions from the train engines. However, Pearson and his partners persisted."
+        },
+        {
+          "id": "p4",
+          "text": "The GWR, aware that the new line would finally enable them to run trains into the heart of the City, invested almost £250,000 in the scheme. Eventually, over a five-year period, £1m was raised. The chosen route ran beneath existing main roads to minimise the expense of demolishing buildings. Originally scheduled to be completed in 21 months, the construction of the underground line took three years. It was built just below street level using a technique known as 'cut and cover'. A trench about ten metres wide and six metres deep was dug, and the sides temporarily held up with timber beams. Brick walls were then constructed, and finally a brick arch was added to create a tunnel. A two-metre-deep layer of soil was laid on top of the tunnel and the road above rebuilt."
+        },
+        {
+          "id": "p5",
+          "text": "The Metropolitan line, which opened on 10 January 1863, was the world's first underground railway. On its first day, almost 40,000 passengers were carried between Paddington and Farringdon, the journey taking about 18 minutes. By the end of the Metropolitan's first year of operation, 9.5 million journeys had been made."
+        },
+        {
+          "id": "p6",
+          "text": "Even as the Metropolitan began operation, the first extensions to the line were being authorised; these were built over the next five years, reaching Moorgate in the east of London and Hammersmith in the west. The original plan was to pull the trains with steam locomotives, using firebricks in the boilers to provide steam, but these engines were never introduced. Instead, the line used specially designed locomotives that were fitted with water tanks in which steam could be condensed. However, smoke and fumes remained a problem, even though ventilation shafts were added to the tunnels."
+        },
+        {
+          "id": "p7",
+          "text": "Despite the extension of the underground railway, by the 1880s, congestion on London's streets had become worse. The problem was partly that the existing underground lines formed a circuit around the centre of London and extended to the suburbs, but did not cross the capital's centre. The 'cut and cover' method of construction was not an option in this part of the capital. The only alternative was to tunnel deep underground."
+        },
+        {
+          "id": "p8",
+          "text": "Although the technology to create these tunnels existed, steam locomotives could not be used in such a confined space. It wasn't until the development of a reliable electric motor, and a means of transferring power from the generator to a moving train, that the world's first deep-level electric railway, the City & South London, became possible. The line opened in 1890, and ran from the City to Stockwell, south of the River Thames. The trains were made up of three carriages and driven by electric engines. The carriages were narrow and had tiny windows just below the roof because it was thought that passengers would not want to look out at the tunnel walls. The line was not without its problems, mainly caused by an unreliable power supply. Although the City & South London Railway was a great technical achievement, it did not make a profit. Then, in 1900, the Central London Railway, known as the 'Tuppenny Tube', began operation using new electric locomotives. It was very popular and soon afterwards new railways and extensions were added to the growing tube network. By 1907, the heart of today's Underground system was in place."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            6
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "The London underground railway",
+          "lines": [
+            "## The problem",
+            "The {{1}} of London increased rapidly between 1800 and 1850",
+            "The streets were full of horse-drawn vehicles",
+            "## The proposed solution",
+            "Charles Pearson, a solicitor, suggested building an underground railway",
+            "Building the railway would make it possible to move people to better housing in the {{2}}",
+            "A number of {{3}} agreed with Pearson's idea",
+            "The company initially had problems getting the {{4}} needed for the project",
+            "Negative articles about the project appeared in the {{5}}",
+            "## The construction",
+            "The chosen route did not require many buildings to be pulled down",
+            "The 'cut and cover' method was used to construct the tunnels",
+            "With the completion of the brick arch, the tunnel was covered with {{6}}"
+          ]
+        },
+        {
+          "range": [
+            7,
+            13
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 7,
+              "text": "Other countries had built underground railways before the Metropolitan line opened."
+            },
+            {
+              "n": 8,
+              "text": "More people than predicted travelled on the Metropolitan line on the first day."
+            },
+            {
+              "n": 9,
+              "text": "The use of ventilation shafts failed to prevent pollution in the tunnels."
+            },
+            {
+              "n": 10,
+              "text": "A different approach from the 'cut and cover' technique was required in London's central area."
+            },
+            {
+              "n": 11,
+              "text": "The windows on City & South London trains were at eye level."
+            },
+            {
+              "n": 12,
+              "text": "The City & South London Railway was a financial success."
+            },
+            {
+              "n": 13,
+              "text": "Trains on the 'Tuppenny Tube' nearly always ran on time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Stadiums: past, present and future",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Stadiums are among the oldest forms of urban architecture: vast stadiums where the public could watch sporting events were at the centre of western city life as far back as the ancient Greek and Roman Empires, well before the construction of the great medieval cathedrals and the grand 19th- and 20th-century railway stations which dominated urban skylines in later eras. Today, however, stadiums are regarded with growing scepticism. Construction costs can soar above £1 billion, and stadiums finished for major events such as the Olympic Games or the FIFA World Cup have notably fallen into disuse and disrepair.\n\nBut this need not be the case. History shows that stadiums can drive urban development and adapt to the culture of every age. Even today, architects and planners are finding new ways to adapt the mono-functional sports arenas which became emblematic of modernisation during the 20th century."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "The amphitheatre* of Arles in southwest France, with a capacity of 25,000 spectators, is perhaps the best example of just how versatile stadiums can be. Built by the Romans in 90 AD, it became a fortress with four towers after the fifth century, and was then transformed into a village containing more than 200 houses. With the growing interest in conservation during the 19th century, it was converted back into an arena for the staging of bullfights, thereby returning the structure to its original use as a venue for public spectacles.\n\nAnother example is the imposing arena of Verona in northern Italy, with space for 30,000 spectators, which was built 60 years before the Arles amphitheatre and 40 years before Rome's famous Colosseum. It has endured the centuries and is currently considered one of the world's prime sites for opera, thanks to its outstanding acoustics."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "The area in the centre of the Italian town of Lucca, known as the Piazza dell'Anfiteatro, is yet another impressive example of an amphitheatre becoming absorbed into the fabric of the city. The site evolved in a similar way to Arles and was progressively filled with buildings from the Middle Ages until the 19th century, variously used as houses, a salt depot and a prison. But rather than reverting to an arena, it became a market square, designed by Romanticist architect Lorenzo Nottolini. Today, the ruins of the amphitheatre remain embedded in the various shops and residences surrounding the public square."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "There are many similarities between modern stadiums and the ancient amphitheatres intended for games. But some of the flexibility was lost at the beginning of the 20th century, as stadiums were developed using new products such as steel and reinforced concrete, and made use of bright lights for night-time matches.\n\nMany such stadiums are situated in suburban areas, designed for sporting use only and surrounded by parking lots. These factors mean that they may not be as accessible to the general public, require more energy to run and contribute to urban heat."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "But many of today's most innovative architects see scope for the stadium to help improve the city. Among the current strategies, two seem to be having particular success: the stadium as an urban hub, and as a power plant.\n\nThere's a growing trend for stadiums to be equipped with public spaces and services that serve a function beyond sport, such as hotels, retail outlets, conference centres, restaurants and bars, children's playgrounds and green space. Creating mixed-use developments such as this reinforces compactness and multi-functionality, making more efficient use of land and helping to regenerate urban spaces.\n\nThis opens the space up to families and a wider cross-section of society, instead of catering only to sportspeople and supporters. There have been many examples of this in the UK: the mixed-use facilities at Wembley and Old Trafford have become a blueprint for many other stadiums in the world."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "The phenomenon of stadiums as power stations has arisen from the idea that energy problems can be overcome by integrating interconnected buildings by means of a smart grid, which is an electricity supply network that uses digital communications technology to detect and react to local changes in usage, without significant energy losses. Stadiums are ideal for these purposes, because their canopies have a large surface area for fitting photovoltaic panels and rise high enough (more than 40 metres) to make use of micro wind turbines.\n\nFreiburg Mage Solar Stadium in Germany is the first of a new wave of stadiums as power plants, which also includes the Amsterdam Arena and the Kaohsiung Stadium. The latter, inaugurated in 2009, has 8,844 photovoltaic panels producing up to 1.14 GWh of electricity annually. This reduces the annual output of carbon dioxide by 660 tons and supplies up to 80 percent of the surrounding area when the stadium is not in use. This is proof that a stadium can serve its city, and have a decidedly positive impact in terms of reduction of CO2 emissions."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "Sporting arenas have always been central to the life and culture of cities. In every era, the stadium has acquired new value and uses: from military fortress to residential village, public space to theatre and most recently a field for experimentation in advanced engineering. The stadium of today now brings together multiple functions, thus helping cities to create a sustainable future."
+        }
+      ],
+      "footnotes": [
+        "* amphitheatre: (especially in Greek and Roman architecture) an open circular or oval building with a central space surrounded by tiers of seats for spectators, for the presentation of dramatic or sporting events"
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            17
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has seven sections, A-G. Which section contains the following information?",
+          "limit": "Write the correct letter, A-G, in boxes 14-17 on your answer sheet. NB You may use any letter more than once.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "a mention of negative attitudes towards stadium building projects"
+            },
+            {
+              "n": 15,
+              "text": "figures demonstrating the environmental benefits of a certain stadium"
+            },
+            {
+              "n": 16,
+              "text": "examples of the wide range of facilities available at some new stadiums"
+            },
+            {
+              "n": 17,
+              "text": "reference to the disadvantages of the stadiums built during a certain era"
+            }
+          ]
+        },
+        {
+          "range": [
+            18,
+            22
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Roman amphitheatres",
+          "text": "The Roman stadiums of Europe have proved very versatile. The amphitheatre of Arles, for example, was converted first into a {{18}}, then into a residential area and finally into an arena where spectators could watch {{19}}. Meanwhile, the arena in Verona, one of the oldest Roman amphitheatres, is famous today as a venue where {{20}} is performed. The site of Lucca's amphitheatre has also been used for many purposes over the centuries, including the storage of {{21}}. It is now a market square with {{22}} and homes incorporated into the remains of the Roman amphitheatre."
+        },
+        {
+          "range": [
+            23,
+            24
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "When comparing twentieth-century stadiums to ancient amphitheatres in Section D, which TWO negative features does the writer mention?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "They are less imaginatively designed."
+            },
+            {
+              "k": "B",
+              "text": "They are less spacious."
+            },
+            {
+              "k": "C",
+              "text": "They are in less convenient locations."
+            },
+            {
+              "k": "D",
+              "text": "They are less versatile."
+            },
+            {
+              "k": "E",
+              "text": "They are made of less durable materials."
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            26
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO advantages of modern stadium design does the writer mention?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "offering improved amenities for the enjoyment of sports events"
+            },
+            {
+              "k": "B",
+              "text": "bringing community life back into the city environment"
+            },
+            {
+              "k": "C",
+              "text": "facilitating research into solar and wind energy solutions"
+            },
+            {
+              "k": "D",
+              "text": "enabling local residents to reduce their consumption of electricity"
+            },
+            {
+              "k": "E",
+              "text": "providing a suitable site for the installation of renewable power generators"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "To catch a king",
+      "subtitle": "Anna Keay reviews Charles Spencer's book about the hunt for King Charles II during the English Civil War of the seventeenth century",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Charles Spencer's latest book, To Catch a King, tells us the story of the hunt for King Charles II in the six weeks after his resounding defeat at the Battle of Worcester in September 1651. And what a story it is. After his father was executed by the Parliamentarians in 1649, the young Charles II sacrificed one of the very principles his father had died for and did a deal with the Scots, thereby accepting Presbyterianism* as the national religion in return for being crowned King of Scots. His arrival in Edinburgh prompted the English Parliamentary army to invade Scotland in a pre-emptive strike. This was followed by a Scottish invasion of England. The two sides finally faced one another at Worcester in the west of England in 1651. After being comprehensively defeated on the meadows outside the city by the Parliamentarian army, the 21-year-old king found himself the subject of a national manhunt, with a huge sum offered for his capture. Over the following six weeks he managed, through a series of heart-poundingly close escapes, to evade the Parliamentarians before seeking refuge in France. For the next nine years, the penniless and defeated Charles wandered around Europe with only a small group of loyal supporters."
+        },
+        {
+          "id": "p2",
+          "text": "Years later, after his restoration as king, the 50-year-old Charles II requested a meeting with the writer and diarist Samuel Pepys. His intention when asking Pepys to commit his story to paper was to ensure that this most extraordinary episode was never forgotten. Over two three-hour sittings, the king related to him in great detail his personal recollections of the six weeks he had spent as a fugitive. As the king and secretary settled down (a scene that is surely a gift for a future scriptwriter), Charles commenced his story: 'After the battle was so absolutely lost as to be beyond hope of recovery, I began to think of the best way of saving myself.'"
+        },
+        {
+          "id": "p3",
+          "text": "One of the joys of Spencer's book, a result not least of its use of Charles II's own narrative as well as those of his supporters, is just how close the reader gets to the action. The day-by-day retelling of the fugitives' doings provides delicious details: the cutting of the king's long hair with agricultural shears, the use of walnut leaves to dye his pale skin, and the day Charles spent lying on a branch of the great oak tree in Boscobel Wood as the Parliamentary soldiers scoured the forest floor below. Spencer draws out both the humour – such as the preposterous refusal of Charles's friend Henry Wilmot to adopt disguise on the grounds that it was beneath his dignity – and the emotional tension when the secret of the king's presence was cautiously revealed to his supporters."
+        },
+        {
+          "id": "p4",
+          "text": "Charles's adventures after losing the Battle of Worcester hide the uncomfortable truth that whilst almost everyone in England had been appalled by the execution of his father, they had not welcomed the arrival of his son with the Scots army, but had instead firmly bolted their doors. This was partly because he rode at the head of what looked like a foreign invasion force and partly because, after almost a decade of civil war, people were desperate to avoid it beginning again. This makes it all the more interesting that Charles II himself loved the story so much ever after. As well as retelling it to anyone who would listen, causing eye-rolling among courtiers, he set in train a series of initiatives to memorialise it. There was to be a new order of chivalry, the Knights of the Royal Oak. A series of enormous oil paintings depicting the episode were produced, including a two-metre-wide canvas of Boscobel Wood and a set of six similarly enormous paintings of the king on the run. In 1660, Charles II commissioned the artist John Michael Wright to paint a flying squadron of cherubs* carrying an oak tree to the heavens on the ceiling of his bedchamber. It is hard to imagine many other kings marking the lowest point in their life so enthusiastically, or indeed pulling off such an escape in the first place."
+        },
+        {
+          "id": "p5",
+          "text": "Charles Spencer is the perfect person to pass the story on to a new generation. His pacey, readable prose steers deftly clear of modern idioms and elegantly brings to life the details of the great tale. He has even-handed sympathy for both the fugitive king and the fierce republican regime that hunted him, and he succeeds in his desire to explore far more of the background of the story than previous books on the subject have done. Indeed, the opening third of the book is about how Charles II found himself at Worcester in the first place, which for some will be reason alone to read To Catch a King."
+        },
+        {
+          "id": "p6",
+          "text": "The tantalising question left, in the end, is that of what it all meant. Would Charles II have been a different king had these six weeks never happened? The days and nights spent in hiding must have affected him in some way. Did the need to assume disguises, to survive on wit and charm alone, to use trickery and subterfuge to escape from tight corners help form him? This is the one area where the book doesn't quite hit the mark. Instead its depiction of Charles II in his final years as an ineffective, pleasure-loving monarch doesn't do justice to the man (neither is it accurate), or to the complexity of his character. But this one niggle aside, To Catch a King is an excellent read, and those who come to it knowing little of the famous tale will find they have a treat in store."
+        }
+      ],
+      "footnotes": [
+        "* Presbyterianism: part of the reformed Protestant religion",
+        "* cherub: an image of angelic children used in paintings"
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            31
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of phrases, A-J, below.",
+          "limit": "Write the correct letter, A-J, in boxes 27-31 on your answer sheet.",
+          "title": "The story behind the hunt for Charles II",
+          "text": "Charles II's father was executed by the Parliamentarian forces in 1649. Charles II then formed a {{27}} with the Scots, and in order to become King of Scots, he abandoned an important {{28}} that was held by his father and had contributed to his father's death. The opposing sides then met outside Worcester in 1651. The battle led to a {{29}} for the Parliamentarians and Charles had to flee for his life. A {{30}} was offered for Charles's capture, but after six weeks spent in hiding, he eventually managed to reach the {{31}} of continental Europe.",
+          "options": [
+            {
+              "k": "A",
+              "text": "military innovation"
+            },
+            {
+              "k": "B",
+              "text": "large reward"
+            },
+            {
+              "k": "C",
+              "text": "widespread conspiracy"
+            },
+            {
+              "k": "D",
+              "text": "relative safety"
+            },
+            {
+              "k": "E",
+              "text": "new government"
+            },
+            {
+              "k": "F",
+              "text": "decisive victory"
+            },
+            {
+              "k": "G",
+              "text": "political debate"
+            },
+            {
+              "k": "H",
+              "text": "strategic alliance"
+            },
+            {
+              "k": "I",
+              "text": "popular solution"
+            },
+            {
+              "k": "J",
+              "text": "religious conviction"
+            }
+          ]
+        },
+        {
+          "range": [
+            32,
+            35
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 32,
+              "text": "Charles chose Pepys for the task because he considered him to be trustworthy."
+            },
+            {
+              "n": 33,
+              "text": "Charles's personal recollection of the escape lacked sufficient detail."
+            },
+            {
+              "n": 34,
+              "text": "Charles indicated to Pepys that he had planned his escape before the battle."
+            },
+            {
+              "n": 35,
+              "text": "The inclusion of Charles's account is a positive aspect of the book."
+            }
+          ]
+        },
+        {
+          "range": [
+            36,
+            40
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 36,
+              "text": "What is the reviewer's main purpose in the first paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "to describe what happened during the Battle of Worcester"
+                },
+                {
+                  "k": "B",
+                  "text": "to give an account of the circumstances leading to Charles II's escape"
+                },
+                {
+                  "k": "C",
+                  "text": "to provide details of the Parliamentarians' political views"
+                },
+                {
+                  "k": "D",
+                  "text": "to compare Charles II's beliefs with those of his father"
+                }
+              ]
+            },
+            {
+              "n": 37,
+              "text": "Why does the reviewer include examples of the fugitives' behaviour in the third paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "to explain how close Charles II came to losing his life"
+                },
+                {
+                  "k": "B",
+                  "text": "to suggest that Charles II's supporters were badly prepared"
+                },
+                {
+                  "k": "C",
+                  "text": "to illustrate how the events of the six weeks are brought to life"
+                },
+                {
+                  "k": "D",
+                  "text": "to argue that certain aspects are not as well known as they should be"
+                }
+              ]
+            },
+            {
+              "n": 38,
+              "text": "What point does the reviewer make about Charles II in the fourth paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "He chose to celebrate what was essentially a defeat."
+                },
+                {
+                  "k": "B",
+                  "text": "He misunderstood the motives of his opponents."
+                },
+                {
+                  "k": "C",
+                  "text": "He aimed to restore people's faith in the monarchy."
+                },
+                {
+                  "k": "D",
+                  "text": "He was driven by a desire to be popular."
+                }
+              ]
+            },
+            {
+              "n": 39,
+              "text": "What does the reviewer say about Charles Spencer in the fifth paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "His decision to write the book comes as a surprise."
+                },
+                {
+                  "k": "B",
+                  "text": "He takes an unbiased approach to the subject matter."
+                },
+                {
+                  "k": "C",
+                  "text": "His descriptions of events would be better if they included more detail."
+                },
+                {
+                  "k": "D",
+                  "text": "He chooses language that is suitable for a twenty-first-century audience."
+                }
+              ]
+            },
+            {
+              "n": 40,
+              "text": "When the reviewer says the book 'doesn't quite hit the mark', she is making the point that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "it overlooks the impact of events on ordinary people."
+                },
+                {
+                  "k": "B",
+                  "text": "it lacks an analysis of prevalent views on monarchy."
+                },
+                {
+                  "k": "C",
+                  "text": "it omits any references to the deceit practised by Charles II during his time in hiding."
+                },
+                {
+                  "k": "D",
+                  "text": "it fails to address whether Charles II's experiences had a lasting influence on him."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "population"
+    ],
+    "2": [
+      "suburbs"
+    ],
+    "3": [
+      "businessmen"
+    ],
+    "4": [
+      "funding"
+    ],
+    "5": [
+      "press"
+    ],
+    "6": [
+      "soil"
+    ],
+    "7": [
+      "FALSE"
+    ],
+    "8": [
+      "NOT GIVEN"
+    ],
+    "9": [
+      "TRUE"
+    ],
+    "10": [
+      "TRUE"
+    ],
+    "11": [
+      "FALSE"
+    ],
+    "12": [
+      "FALSE"
+    ],
+    "13": [
+      "NOT GIVEN"
+    ],
+    "14": [
+      "A"
+    ],
+    "15": [
+      "F"
+    ],
+    "16": [
+      "E"
+    ],
+    "17": [
+      "D"
+    ],
+    "18": [
+      "fortress"
+    ],
+    "19": [
+      "bullfights"
+    ],
+    "20": [
+      "opera"
+    ],
+    "21": [
+      "salt"
+    ],
+    "22": [
+      "shops"
+    ],
+    "23": [
+      "C",
+      "D"
+    ],
+    "24": [
+      "C",
+      "D"
+    ],
+    "25": [
+      "B",
+      "E"
+    ],
+    "26": [
+      "B",
+      "E"
+    ],
+    "27": [
+      "H"
+    ],
+    "28": [
+      "J"
+    ],
+    "29": [
+      "F"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "D"
+    ],
+    "32": [
+      "NOT GIVEN"
+    ],
+    "33": [
+      "NO"
+    ],
+    "34": [
+      "NO"
+    ],
+    "35": [
+      "YES"
+    ],
+    "36": [
+      "B"
+    ],
+    "37": [
+      "C"
+    ],
+    "38": [
+      "A"
+    ],
+    "39": [
+      "B"
+    ],
+    "40": [
+      "D"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "key": "London's population grew at an astonishing rate, and the central area became increasingly congested",
+      "why": "题干 increased rapidly = 原文 grew at an astonishing rate，主语是 population。"
+    },
+    "2": {
+      "loc": "p2",
+      "key": "relocate the poor workers who lived in the inner-city slums to newly constructed suburbs",
+      "why": "题干 better housing in the ___ = 原文 relocate … to newly constructed suburbs，填 suburbs。"
+    },
+    "3": {
+      "loc": "p2",
+      "key": "Pearson's ideas gained support amongst some businessmen",
+      "why": "题干 A number of ___ agreed with Pearson's idea = 原文 gained support amongst some businessmen。"
+    },
+    "4": {
+      "loc": "p3",
+      "key": "The organisation had difficulty in raising the funding for such a radical and expensive scheme",
+      "why": "题干 problems getting the ___ needed = 原文 difficulty in raising the funding。"
+    },
+    "5": {
+      "loc": "p3",
+      "key": "not least because of the critical articles printed by the press",
+      "why": "题干 Negative articles … appeared in the ___ = 原文 critical articles printed by the press。"
+    },
+    "6": {
+      "loc": "p4",
+      "key": "A two-metre-deep layer of soil was laid on top of the tunnel",
+      "why": "题干 the tunnel was covered with ___ = 原文 a layer of soil was laid on top，填 soil。"
+    },
+    "7": {
+      "loc": "p5",
+      "key": "The Metropolitan line … was the world's first underground railway",
+      "why": "地铁线是世界第一条，说明此前没有其他国家建过地铁 → FALSE。"
+    },
+    "8": {
+      "loc": "p5",
+      "key": "almost 40,000 passengers were carried between Paddington and Farringdon",
+      "why": "原文只给出首日实际载客数，没有提到之前的预测数字，无法比较 → NOT GIVEN。"
+    },
+    "9": {
+      "loc": "p6",
+      "key": "smoke and fumes remained a problem, even though ventilation shafts were added to the tunnels",
+      "why": "题干 failed to prevent pollution = 原文 remained a problem（尽管加了通风井，烟雾问题依旧存在）→ TRUE。"
+    },
+    "10": {
+      "loc": "p7",
+      "key": "The 'cut and cover' method of construction was not an option in this part of the capital. The only alternative was to tunnel deep underground.",
+      "why": "题干 A different approach … was required = 原文 not an option … only alternative was to tunnel deep underground → TRUE。"
+    },
+    "11": {
+      "loc": "p8",
+      "key": "The carriages were narrow and had tiny windows just below the roof",
+      "why": "题干 at eye level，原文说车窗很小且在屋顶下方，并非与视线齐平 → FALSE。"
+    },
+    "12": {
+      "loc": "p8",
+      "key": "Although the City & South London Railway was a great technical achievement, it did not make a profit",
+      "why": "原文明确说没有盈利，与题干 financial success 矛盾 → FALSE。"
+    },
+    "13": {
+      "loc": "p8",
+      "key": "the Central London Railway, known as the 'Tuppenny Tube', began operation using new electric locomotives. It was very popular",
+      "why": "原文只提到该线路很受欢迎，没有提及准点率 → NOT GIVEN。"
+    },
+    "14": {
+      "loc": "A",
+      "key": "Today, however, stadiums are regarded with growing scepticism. Construction costs can soar above £1 billion … notably fallen into disuse and disrepair.",
+      "why": "A 段提到公众对建体育场持怀疑态度、成本高昂、赛后荒废，属于 negative attitudes towards stadium building projects。"
+    },
+    "15": {
+      "loc": "F",
+      "key": "has 8,844 photovoltaic panels producing up to 1.14 GWh of electricity annually. This reduces the annual output of carbon dioxide by 660 tons",
+      "why": "F 段给出高雄体育场具体的发电量和减碳数据，即 figures demonstrating environmental benefits。"
+    },
+    "16": {
+      "loc": "E",
+      "key": "hotels, retail outlets, conference centres, restaurants and bars, children's playgrounds and green space",
+      "why": "E 段列举了体育场附带的各种设施，即 wide range of facilities。"
+    },
+    "17": {
+      "loc": "D",
+      "key": "some of the flexibility was lost … Many such stadiums are situated in suburban areas … may not be as accessible … require more energy … contribute to urban heat",
+      "why": "D 段讲述 20 世纪体育场的缺点（位置偏、耗能高、增加城市热岛效应），对应 disadvantages of stadiums built during a certain era。"
+    },
+    "18": {
+      "loc": "B",
+      "key": "it became a fortress with four towers after the fifth century",
+      "why": "题干 converted first into a ___ = 原文 became a fortress，填 fortress。"
+    },
+    "19": {
+      "loc": "B",
+      "key": "converted back into an arena for the staging of bullfights",
+      "why": "题干 an arena where spectators could watch ___ = 原文 staging of bullfights，填 bullfights。"
+    },
+    "20": {
+      "loc": "B",
+      "key": "currently considered one of the world's prime sites for opera",
+      "why": "题干 a venue where ___ is performed = 原文 prime sites for opera，填 opera。"
+    },
+    "21": {
+      "loc": "C",
+      "key": "variously used as houses, a salt depot and a prison",
+      "why": "题干 the storage of ___ = 原文 a salt depot，填 salt。"
+    },
+    "22": {
+      "loc": "C",
+      "key": "the ruins of the amphitheatre remain embedded in the various shops and residences surrounding the public square",
+      "why": "题干 a market square with ___ and homes = 原文 shops and residences，填 shops。"
+    },
+    "23": {
+      "loc": "D",
+      "key": "some of the flexibility was lost … Many such stadiums are situated in suburban areas … may not be as accessible to the general public",
+      "why": "位置在郊区、不方便公众到达 = less convenient locations → C。"
+    },
+    "24": {
+      "loc": "D",
+      "key": "some of the flexibility was lost at the beginning of the 20th century",
+      "why": "灵活性降低 = less versatile → D。"
+    },
+    "25": {
+      "loc": "E",
+      "key": "This opens the space up to families and a wider cross-section of society, instead of catering only to sportspeople and supporters",
+      "why": "让更多市民和家庭重新使用体育场周边空间 = bringing community life back into the city environment → B。"
+    },
+    "26": {
+      "loc": "F",
+      "key": "their canopies have a large surface area for fitting photovoltaic panels and rise high enough … to make use of micro wind turbines",
+      "why": "体育场顶棚适合安装太阳能板和风力发电装置 = providing a suitable site for renewable power generators → E。"
+    },
+    "27": {
+      "loc": "p1",
+      "key": "did a deal with the Scots, thereby accepting Presbyterianism* as the national religion in return for being crowned King of Scots",
+      "why": "与苏格兰人达成协议、结盟 = a strategic alliance → H。"
+    },
+    "28": {
+      "loc": "p1",
+      "key": "the young Charles II sacrificed one of the very principles his father had died for and did a deal with the Scots",
+      "why": "他父亲坚持的原则（英国国教信仰）被查理二世放弃，属于 religious conviction → J。"
+    },
+    "29": {
+      "loc": "p1",
+      "key": "After being comprehensively defeated on the meadows outside the city by the Parliamentarian army",
+      "why": "议会军彻底击败对手 = a decisive victory → F。"
+    },
+    "30": {
+      "loc": "p1",
+      "key": "the 21-year-old king found himself the subject of a national manhunt, with a huge sum offered for his capture",
+      "why": "巨额悬赏捉拿查理 = a large reward → B。"
+    },
+    "31": {
+      "loc": "p1",
+      "key": "before seeking refuge in France",
+      "why": "逃到法国寻求庇护 = relative safety → D。"
+    },
+    "32": {
+      "loc": "p2",
+      "key": "His intention when asking Pepys to commit his story to paper was to ensure that this most extraordinary episode was never forgotten",
+      "why": "原文只说查理是为了让这段经历不被遗忘，没有提到选择佩皮斯的原因是否因为信任他 → NOT GIVEN。"
+    },
+    "33": {
+      "loc": "p3",
+      "key": "The day-by-day retelling of the fugitives' doings provides delicious details",
+      "why": "原文强调细节丰富（delicious details），与题干 lacked sufficient detail 相反 → NO。"
+    },
+    "34": {
+      "loc": "p2",
+      "key": "'After the battle was so absolutely lost as to be beyond hope of recovery, I began to think of the best way of saving myself.'",
+      "why": "查理明确说是在战败之后才开始想办法逃生，并非战前就计划好 → NO。"
+    },
+    "35": {
+      "loc": "p3",
+      "key": "One of the joys of Spencer's book … is just how close the reader gets to the action",
+      "why": "作者用 'joys'（乐趣之一）正面评价书中对查理本人叙述的运用 → YES。"
+    },
+    "36": {
+      "loc": "p1",
+      "key": "tells us the story of the hunt for King Charles II in the six weeks after his resounding defeat at the Battle of Worcester",
+      "why": "第一段交代了查理二世逃亡前的历史背景（与苏格兰结盟、伍斯特战役战败），即 circumstances leading to his escape → B。"
+    },
+    "37": {
+      "loc": "p3",
+      "key": "the cutting of the king's long hair with agricultural shears, the use of walnut leaves to dye his pale skin, and the day Charles spent lying on a branch of the great oak tree",
+      "why": "这些具体细节让六周逃亡的经历变得生动、真实 = illustrate how the events are brought to life → C。"
+    },
+    "38": {
+      "loc": "p4",
+      "key": "It is hard to imagine many other kings marking the lowest point in their life so enthusiastically",
+      "why": "查理二世后来热衷于纪念自己的这次战败逃亡（人生最低谷），即 celebrate what was essentially a defeat → A。"
+    },
+    "39": {
+      "loc": "p5",
+      "key": "He has even-handed sympathy for both the fugitive king and the fierce republican regime that hunted him",
+      "why": "对国王和议会军双方都保持公正同情 = unbiased approach → B。"
+    },
+    "40": {
+      "loc": "p6",
+      "key": "The days and nights spent in hiding must have affected him in some way … This is the one area where the book doesn't quite hit the mark.",
+      "why": "评论者认为本书没有充分探讨这六周逃亡经历是否对查理二世造成长远影响 → D。"
+    }
+  }
+}

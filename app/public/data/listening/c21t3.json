@@ -1,0 +1,1035 @@
+{
+  "id": "c21t3",
+  "book": "剑桥雅思21",
+  "test": 3,
+  "title": "剑21 Test 3 · Listening",
+  "source": "Cambridge IELTS 21 Academic, Test 3（文字层抽取 + 人工校对）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c21/t3p1.mp3",
+      "duration": 0,
+      "title": "Ferry to Shetland Islands",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Ferry to Shetland Islands",
+          "lines": [
+            "## Ferry to Shetland Islands",
+            "Name of ferry company: {{1}} Ferries",
+            "Ferries depart seven times per {{2}} in summer",
+            "Cost for four people with car: a little less than £{{3}}",
+            "Cancellation policy: receive a {{4}} (if cancelled a month in advance)",
+            "## Advice",
+            "Cabins: book one with a {{5}}",
+            "Luxury cabins have a TV",
+            "Bring snacks and {{6}} for the children",
+            "A {{7}} is required for the dog kennels",
+            "Try to see {{8}} in the morning",
+            "If time, visit {{9}} Castle",
+            "The {{10}} restaurant in a nearby village is recommended"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TAMMY",
+          "t": "You know when you went to the Shetland Islands last year, Paul? Did you go by ferry or did you fly?"
+        },
+        {
+          "s": "PAUL",
+          "t": "We went by ferry, Tammy. I prefer driving to flying – the journey feels like part of the holiday."
+        },
+        {
+          "s": "TAMMY",
+          "t": "Mmm. Which ferry company did you use?"
+        },
+        {
+          "s": "PAUL",
+          "t": "There's only one – it's called Northern Ferries. The ferries all leave from Aberdeen.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "TAMMY",
+          "t": "How frequent are they?"
+        },
+        {
+          "s": "PAUL",
+          "t": "The service is pretty limited – there's only one ferry leaving every evening in summer anyway, seven days a week – I'm not sure about the winter months. They may only run on four or five days then.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "TAMMY",
+          "t": "OK. So it's an overnight trip. I quite like that idea. Leaving at night and waking up as you arrive on the island. Can you remember how much you paid for your tickets?"
+        },
+        {
+          "s": "PAUL",
+          "t": "They were really cheap and four people and a car worked out at just under £250.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "TAMMY",
+          "t": "Really? I was expecting it to be more like £400 during the peak season."
+        },
+        {
+          "s": "PAUL",
+          "t": "So was I. It's great value. It's a good idea to book in advance because I think they get booked up quite quickly – especially during the school holidays."
+        },
+        {
+          "s": "TAMMY",
+          "t": "Yes, I suppose so. I'm just not 100% sure of our plans yet. What if I had to cancel?"
+        },
+        {
+          "s": "PAUL",
+          "t": "That could be a problem. I don't think it's their policy to give refunds – just a voucher – which you can use at a later date. But you have to cancel a month in advance to get that.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "TAMMY",
+          "t": "Right. Well we need to make up our minds quickly then."
+        },
+        {
+          "s": "PAUL",
+          "t": "You'd want to book a cabin too. We booked too late to get a cabin with a window. They're more expensive but much nicer than the inner cabins. You don't have to book a cabin at all but I think it's worth paying for. They also have luxury cabins, which are only for two people and have a TV – but I wouldn't bother with those.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "TAMMY",
+          "t": "No, I agree."
+        },
+        {
+          "s": "PAUL",
+          "t": "The only other thing I can think of is to make sure you bring snacks for the kids. The selection on board is quite limited and not that healthy either."
+        },
+        {
+          "s": "TAMMY",
+          "t": "Mmm. What about wifi on board? Is that any good?"
+        },
+        {
+          "s": "PAUL",
+          "t": "Not really. So it's best to bring some books for them.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "TAMMY",
+          "t": "OK. We may need to bring the dog if I can't get anyone to look after him."
+        },
+        {
+          "s": "PAUL",
+          "t": "We brought ours and it was fine. The kennels on board are OK – they're quite big – you just need to provide a blanket.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "TAMMY",
+          "t": "Uhuh. Sounds good."
+        },
+        {
+          "s": "PAUL",
+          "t": "It was all very easy really – and it was quite an adventure for the kids. They loved being on the sea at night and in the morning keeping a lookout for dolphins – we saw loads.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "TAMMY",
+          "t": "Oh, the kids would love that!"
+        },
+        {
+          "s": "PAUL",
+          "t": "One other thing. We arrived in Aberdeen hours before the ferry was due to leave so we decided to go somewhere else rather than hang around at the port for so long."
+        },
+        {
+          "s": "TAMMY",
+          "t": "Where did you go?"
+        },
+        {
+          "s": "PAUL",
+          "t": "Drum Castle.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "TAMMY",
+          "t": "I've never heard of it. Is that spelt like the instrument?"
+        },
+        {
+          "s": "PAUL",
+          "t": "Yeah. It's really worth visiting. It's got an impressive tower and beautiful gardens and ancient woodland."
+        },
+        {
+          "s": "TAMMY",
+          "t": "Sounds lovely. Does it have a restaurant?"
+        },
+        {
+          "s": "PAUL",
+          "t": "It's only got a coffee shop – no restaurant. We looked up restaurants in the area and found an Italian one in a village nearby. I can check the name of it for you if you're interested.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "TAMMY",
+          "t": "Oh thanks Paul that would be…"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c21/t3p2.mp3",
+      "duration": 0,
+      "title": "Starting a Street Food Business",
+      "groups": [
+        {
+          "range": [
+            11,
+            12
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO explanations for the popularity of street food are given?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "low price"
+            },
+            {
+              "k": "B",
+              "text": "locally sourced"
+            },
+            {
+              "k": "C",
+              "text": "freshly made"
+            },
+            {
+              "k": "D",
+              "text": "convenience"
+            },
+            {
+              "k": "E",
+              "text": "unusual food"
+            }
+          ]
+        },
+        {
+          "range": [
+            13,
+            14
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO places are recommended for new street food businesses?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "music festivals"
+            },
+            {
+              "k": "B",
+              "text": "food markets"
+            },
+            {
+              "k": "C",
+              "text": "weddings"
+            },
+            {
+              "k": "D",
+              "text": "parties"
+            },
+            {
+              "k": "E",
+              "text": "parks"
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            16
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 15,
+              "text": "What does the speaker say about getting equipment for a street food business?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "High quality equipment is a good investment."
+                },
+                {
+                  "k": "B",
+                  "text": "It's best to buy second-hand equipment."
+                },
+                {
+                  "k": "C",
+                  "text": "Renting equipment can be cheap."
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "What advice is given about creating a product for a street food business?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Provide information about the ingredients."
+                },
+                {
+                  "k": "B",
+                  "text": "It is important to have an original product."
+                },
+                {
+                  "k": "C",
+                  "text": "The presentation is an important factor."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            20
+          ],
+          "type": "matching",
+          "instruction": "What problem did the owners of each of the following street food businesses experience? Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 17-20.",
+          "optionsTitle": "Problems",
+          "options": [
+            {
+              "k": "A",
+              "text": "Some ingredients were too expensive."
+            },
+            {
+              "k": "B",
+              "text": "The meals took a long time to prepare."
+            },
+            {
+              "k": "C",
+              "text": "They had no money for marketing."
+            },
+            {
+              "k": "D",
+              "text": "It was difficult to get a permit to sell food."
+            },
+            {
+              "k": "E",
+              "text": "A competitor was selling similar food in their area."
+            },
+            {
+              "k": "F",
+              "text": "They worked very long hours."
+            }
+          ],
+          "itemsTitle": "Street food businesses",
+          "items": [
+            {
+              "n": 17,
+              "text": "Thai Basil"
+            },
+            {
+              "n": 18,
+              "text": "Basque"
+            },
+            {
+              "n": 19,
+              "text": "Lou's kitchen"
+            },
+            {
+              "n": 20,
+              "text": "Chip Chop"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good evening everyone. My name's Jon and I run Veg Out, a street food business selling vegan food. Since 2012 I've been travelling all around the country cooking vegan food in my converted van and selling it at all kinds of outdoor events. I'm here to give you some advice based on my experience."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The good news is that there's never been a better time to start your own street food business. Street food continues to grow in popularity. I think there are a couple of reasons for this. The first is that street food is a reaction against fast food. Street food ranges from high quality burgers to vegan curries and everything in between. But while fast food is cheap and easy to find, it's not particularly good for you. It's also the same everywhere."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What you get with street food on the other hand is something different. People like the idea of trying something they can't get anywhere else. They also like seeing food prepared in front of them and which hasn't come straight out of a freezer.",
+          "q": [
+            11,
+            12
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You need to think about the best place to sell your street food. People always think music festivals are an obvious place to start but the cost of renting a space can be huge. And there's always a lot of competition."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Food markets, on the other hand, are great because customers are always really interested in food and give great feedback. And if you can get a spot in your local park – fantastic. Usually very relaxed but with lots of customers passing by.",
+          "q": [
+            13,
+            14
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Once you get established you'll start getting asked to do parties – which can be really challenging but lots of fun. Having street food at weddings has become quite fashionable too – but you need to really know what you're doing as everything needs to be perfect."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Setting up a street food business costs a lot less than opening a restaurant or cafe but you'll have to buy some basic equipment. I'd try to get things like hobs and fridges second hand if you can.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You can replace them with better quality stuff if your business takes off. Renting is another option but you'll end up spending more money rather than saving it."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You've probably got a good idea about the food you're planning to sell. I expect you've done some research to find out if anyone else is selling a similar product. And you'll have thought about any possible allergies to nuts or eggs etc. But there's one thing people don't always think about and that's how you're going to serve it. On a plate? In a bag? Will you provide a fork? Will it all be easily recyclable or reusable? It's got to be easy to eat and look attractive or customers won't come back.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Once you get started, you should be prepared for things to go wrong. Every business faces problems and here are a few examples from street food businesses that I know."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "My friends who run Thai Basil started by juggling their street food business with their day jobs in a restaurant. Their work-life balance was non-existent as they were working til midnight in the restaurant all week and then took their food truck to markets on their days off.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The owners of Basque found it was hard to make a profit because the price of fish – essential for some of their dishes – was so high. And it was hard to charge customers a lot more for those dishes. So they had to stop focussing on fish dishes and include more vegetarian food.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The owners of Lou's kitchen were making salads to order from their van and some of their dishes were quite complicated. At one of their first events they ended up with people standing in a long queue for more than 15 minutes – and many of them lost patience. So make sure whatever you offer can be served quickly and efficiently.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The owners of Chip Chop had found a perfect venue near a beach where there weren't any other street food trucks. But what they hadn't realised was that they'd need a special licence – which individual businesses don't need at markets or festivals. It was a complicated process and in the end they gave up.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So I hope that's given you a flavour of …"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c21/t3p3.mp3",
+      "duration": 0,
+      "title": "Sustainable Fashion Project",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO points do the speakers make about the terms 'ethical' and 'sustainable' fashion?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Their definitions keep changing."
+            },
+            {
+              "k": "B",
+              "text": "People think they mean the same thing."
+            },
+            {
+              "k": "C",
+              "text": "The term 'eco-friendly' is preferable."
+            },
+            {
+              "k": "D",
+              "text": "They are often used imprecisely."
+            },
+            {
+              "k": "E",
+              "text": "Companies should avoid using them on clothing labels."
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            24
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO claims about wool production do the speakers disagree with?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Sheep are generally well-treated."
+            },
+            {
+              "k": "B",
+              "text": "Wool is easy to recycle."
+            },
+            {
+              "k": "C",
+              "text": "Wool is a long-lasting fabric."
+            },
+            {
+              "k": "D",
+              "text": "Wool production involves few chemicals."
+            },
+            {
+              "k": "E",
+              "text": "Sheep do less environmental damage than other livestock."
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            30
+          ],
+          "type": "matching",
+          "instruction": "What comment do the speakers make about each of the following semi-synthetic fabrics? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
+          "optionsTitle": "Comments",
+          "options": [
+            {
+              "k": "A",
+              "text": "The production process is fuel efficient."
+            },
+            {
+              "k": "B",
+              "text": "It is the least sustainable of alternative fabrics."
+            },
+            {
+              "k": "C",
+              "text": "Production costs are high."
+            },
+            {
+              "k": "D",
+              "text": "It provides additional health benefits."
+            },
+            {
+              "k": "E",
+              "text": "It is not durable in the long-term."
+            },
+            {
+              "k": "F",
+              "text": "It needs to be produced in a certain way to be sustainable."
+            },
+            {
+              "k": "G",
+              "text": "Chemicals required for production can be reused."
+            },
+            {
+              "k": "H",
+              "text": "This is from a wholly sustainable source."
+            }
+          ],
+          "itemsTitle": "Semi-synthetic fabrics",
+          "items": [
+            {
+              "n": 25,
+              "text": "Lyocell"
+            },
+            {
+              "n": 26,
+              "text": "Cupro"
+            },
+            {
+              "n": 27,
+              "text": "Bamboo"
+            },
+            {
+              "n": 28,
+              "text": "EcoVero"
+            },
+            {
+              "n": 29,
+              "text": "Cork"
+            },
+            {
+              "n": 30,
+              "text": "Hemp"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MADDY",
+          "t": "Shall we go through our research for our sustainable fashion project?"
+        },
+        {
+          "s": "RYAN",
+          "t": "Good idea. I think I've done enough reading now."
+        },
+        {
+          "s": "MADDY",
+          "t": "Me too. I've learnt such a lot about what sustainability actually means."
+        },
+        {
+          "s": "RYAN",
+          "t": "Mmm, same for me with ethical fashion. I didn't really appreciate the difference between that and sustainable fashion before doing this research."
+        },
+        {
+          "s": "MADDY",
+          "t": "I know – most people use these terms interchangeably – but in fact the difference is quite distinct when you think about it. Sustainable relates to the environment and ethical relates more to the way workers or animals are treated.",
+          "q": [
+            21,
+            22
+          ]
+        },
+        {
+          "s": "RYAN",
+          "t": "I totally understand why people get confused, though. There are so many other terms used – like 'eco-friendly', which is actually quite meaningless."
+        },
+        {
+          "s": "MADDY",
+          "t": "And the way companies use these terms when describing their products doesn't help. They're often deliberately vague, I think, and don't provide enough information about how their products are made.",
+          "q": [
+            21,
+            22
+          ]
+        },
+        {
+          "s": "RYAN",
+          "t": "Yes."
+        },
+        {
+          "s": "MADDY",
+          "t": "It was interesting to read about the debates surrounding wool production and how ethical and sustainable that is. It's generally considered to be sustainable because it's a natural product."
+        },
+        {
+          "s": "RYAN",
+          "t": "And it also lasts a long time and can be recycled. All very positive. But I wasn't convinced by the argument that wool production is sustainable because it doesn't use many chemicals – what about all the fungicides and insecticides used in sheep farming?",
+          "q": [
+            23,
+            24
+          ]
+        },
+        {
+          "s": "MADDY",
+          "t": "Good point. And I couldn't find any evidence for the claim about sheep farming being better for the environment than cattle farming.",
+          "q": [
+            23,
+            24
+          ]
+        },
+        {
+          "s": "RYAN",
+          "t": "No – they're both really bad. I read different reports about how unethical it is to even shear sheep. Some people say it's cruel but as long as the sheep are kept in good condition I can't see anything wrong with it."
+        },
+        {
+          "s": "MADDY",
+          "t": "Me neither."
+        },
+        {
+          "s": "RYAN",
+          "t": "Shall we talk about some of the semi-synthetic new fabrics now?"
+        },
+        {
+          "s": "MADDY",
+          "t": "OK, let's do that."
+        },
+        {
+          "s": "RYAN",
+          "t": "Let's start with Lyocell, I've been reading about that."
+        },
+        {
+          "s": "MADDY",
+          "t": "Yeah, that's the one produced from the pulp of eucalyptus trees, isn't it?"
+        },
+        {
+          "s": "RYAN",
+          "t": "Yes, and what happens with that is really impressive. Over 99% of dissolving agents used in the manufacturing process are used again.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "MADDY",
+          "t": "Yeah. Now, there are a few semi-synthetic fabrics that I'd never heard of. Like Cupro, for example."
+        },
+        {
+          "s": "RYAN",
+          "t": "Made from byproducts of the cotton industry to create a kind of vegan silk. But I'm not sure how sustainable this really is as there are so many reports of pollution caused by the manufacturing process."
+        },
+        {
+          "s": "MADDY",
+          "t": "Mmm. It doesn't compare favourably with all the other sustainable fabrics we've looked at, no.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "RYAN",
+          "t": "Bamboo is one fabric we're all familiar with. But I didn't know that it was only organic bamboo that's truly sustainable."
+        },
+        {
+          "s": "MADDY",
+          "t": "Me neither. Apparently, the manufacturing process for a significant proportion of bamboo is chemically quite intensive – which obviously can be quite damaging.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "RYAN",
+          "t": "EcoVero is an example of a semi-synthetic fabric which is becoming really popular."
+        },
+        {
+          "s": "MADDY",
+          "t": "Probably because manufacturing causes 50 percent fewer emissions and takes up half as much energy as conventional fabrics. That saves production costs as well as being better for the environment.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "RYAN",
+          "t": "That's true. I think demand for cork will continue to grow. It works really well in vegan shoes and bags."
+        },
+        {
+          "s": "MADDY",
+          "t": "Mmm and it's the only fabric that's fundamentally sustainable – the cork trees it comes from are renewable and the product itself is both recyclable and biodegradable – which is unique.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "RYAN",
+          "t": "And the harvesting process is actually good for the trees. There are no downsides to using this source at all."
+        },
+        {
+          "s": "MADDY",
+          "t": "Hemp is another really good sustainable fabric from a natural source."
+        },
+        {
+          "s": "RYAN",
+          "t": "Yes. Did you know that clothes made from hemp protect the wearer from the sun and it's also antibacterial?",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "MADDY",
+          "t": "No, I didn't. But I did read that it's quite hard to grow, so perhaps that's why it's not as common as you'd think."
+        },
+        {
+          "s": "RYAN",
+          "t": "I'm sure that'll change."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c21/t3p4.mp3",
+      "duration": 0,
+      "title": "Invasive Species",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Invasive species",
+          "lines": [
+            "## Invasive species",
+            "Definition: an animal or plant that causes harm to an environment after being introduced by humans",
+            "An invasive species can be a problem when it:",
+            "eats native species.",
+            "introduces a new {{31}}",
+            "takes food from native species.",
+            "threatens an entire {{32}}",
+            "## How invasive species spread",
+            "accidentally e.g. via people returning from their {{33}} or on cargo ships",
+            "intentionally e.g. for pest control, or as {{34}}",
+            "## Examples of invasive species",
+            "Rhinella marina (toads)",
+            "- were introduced to Australia from Hawaii in 1935 to eat a type of insect that was damaging the {{35}} plantations.",
+            "- failed to solve the problem and became widespread in the north of Australia.",
+            "- are poisonous for any species that eats them and reduce the food available for native frogs.",
+            "Japanese knotweed plants were popular among 19th-century gardeners in the UK.",
+            "Rhododendron plants prevent {{36}} from reaching native plants.",
+            "Grey squirrels from N. America reduce sources of food for the UK's native red squirrels and spread a {{37}} that kills red squirrels.",
+            "## Tackling invasive species",
+            "Monitoring helps us to understand the {{38}} of invasive species and the impact they have.",
+            "Setting up a national {{39}} makes it easier to track them.",
+            "Asking the public to {{40}} and report them helps with monitoring."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Today I'm going to talk about invasive species. Let me start by saying what an invasive species is and what it's not. Invasive species are any animal or plant that is introduced into an environment by humans, and which is then harmful to that environment. It's important to be clear that not all introduced species are invasive. Many introduced – or non-native – species thrive in new areas without posing any threat."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In some cases, invasive species have changed the natural world beyond recognition, so let's look at the different ways they can be problematic. First of all, invasive species may eat native species, or sometimes they may bring a disease with them, which native species have never faced before and therefore have no defences against.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Often the invasive species breed very quickly – which further adds to the problem of native species losing their sources of food. Species invasions are one of the biggest causes of damage in an ecosystem, actually putting its survival at risk.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, how do invasive species spread? Without a doubt, the biggest cause is human activity. This could be intentional, or it could be accidental, such as when people who've been on holiday in another country come back with, say, the seeds of plants on their clothes or shoes.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Plants and animals, especially insects, arrive in or on the cargo of ships, and then escape into their new 'home'. But sometimes humans deliberately move animals and plants around the world, for example to use them to control pests on farms, or to be pets.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This can go very wrong if those animals and plants move into wild settings and start breeding or begin growing in ways that weren't predicted."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's now look at an example of an invasive species here in Australia: Rhinella marina is a species of toad that was deliberately introduced from Hawaii in 1935 as a form of biological control. It was hoped that the toads would eat the grey-backed beetles responsible for destroying crops of sugar on many of the plantations.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At first, just a handful of toads were released by scientists into Queensland, but this number soon grew as other states followed suit. Within two years, 62,000 young toads had been released into the wild. The toads did nothing to protect the plantations, but they did reproduce rapidly and could soon be found all over the northern half of the country. The toads are poisonous at every stage of their life cycle, and anything that eats them will die."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "My second example regarding invasive species is the United Kingdom. Actually, there are more than three-thousand invasive species there, including some that are extremely common. Some invasive plants, such as Japanese knotweed, have had a devastating impact on parts of the UK. Gardeners in the nineteenth century considered it a beautiful ornamental plant – which it is, when it's kept under control – but it soon spread into the countryside and remains a problem even to this day as it's so hard to eradicate. Another invasive plant is rhododendrons, which can be found in UK parks and woodlands. Their introduction dates back to 1763, but they're now seen as harmful because they block out so much light that native wild flowers can't grow beneath them.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And then there are grey squirrels, which are one invasive species almost everyone in the UK will have come across. They were brought to the UK from North America and introduced to private estates around the 1870s but are now found everywhere, from forests to city squares. Grey squirrels have outcompeted the smaller, native red squirrels. They both eat the same food, and the grey squirrels carry a type of virus that is deadly to the red squirrels.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Red squirrel populations have collapsed, and there are only a handful of sites left in the UK where they're found."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "An important question for ecologists worldwide is, what can we do to tackle the problem of invasive species? The first step in controlling invasive species is learning about the behaviour of new species coming into the country. Monitoring is an important part of this, so that we can know if the new species begins to have a negative impact in its new environment.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One effective way to keep track of invasive species is to create a database for the whole country. That way, all relevant authorities and agencies can share important information and take whatever action's needed.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But the public also have a vital role to play in this process. They should be encouraged to photograph harmful species – because this helps with identification – and then to report when and where these were observed.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But it's important to tell people not to destroy or even touch what they've found."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, I'm going to move on to …"
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "Northern"
+    ],
+    "2": [
+      "week"
+    ],
+    "3": [
+      "250",
+      "two hundred and fifty"
+    ],
+    "4": [
+      "voucher"
+    ],
+    "5": [
+      "window"
+    ],
+    "6": [
+      "books"
+    ],
+    "7": [
+      "blanket"
+    ],
+    "8": [
+      "dolphins"
+    ],
+    "9": [
+      "Drum"
+    ],
+    "10": [
+      "Italian"
+    ],
+    "11": [
+      "C",
+      "E"
+    ],
+    "12": [
+      "C",
+      "E"
+    ],
+    "13": [
+      "B",
+      "E"
+    ],
+    "14": [
+      "B",
+      "E"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "F"
+    ],
+    "18": [
+      "A"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "D"
+    ],
+    "21": [
+      "B",
+      "D"
+    ],
+    "22": [
+      "B",
+      "D"
+    ],
+    "23": [
+      "D",
+      "E"
+    ],
+    "24": [
+      "D",
+      "E"
+    ],
+    "25": [
+      "G"
+    ],
+    "26": [
+      "B"
+    ],
+    "27": [
+      "F"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "H"
+    ],
+    "30": [
+      "D"
+    ],
+    "31": [
+      "disease"
+    ],
+    "32": [
+      "ecosystem"
+    ],
+    "33": [
+      "holiday",
+      "holidays"
+    ],
+    "34": [
+      "pets"
+    ],
+    "35": [
+      "sugar"
+    ],
+    "36": [
+      "light"
+    ],
+    "37": [
+      "virus"
+    ],
+    "38": [
+      "behaviour",
+      "behavior"
+    ],
+    "39": [
+      "database"
+    ],
+    "40": [
+      "photograph"
+    ]
+  }
+}

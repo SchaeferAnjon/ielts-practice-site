@@ -54,3 +54,13 @@ python3 scripts/validate_paper.py writing   public/data/writing/c{N}t{T}.json
 ## 最后汇报（简短）
 
 一段话：三个文件是否通过校验；每科用了哪些页；有没有无法文字化的题（地图题等）和你的处理；答案里有没有拿不准的地方。不要贴 JSON 内容。
+
+## 扫描件（OCR）书的额外要求
+
+剑9、16、18、19、20 的 `drafts/c{N}/book.txt` 是 tesseract OCR 的结果，正文可靠，但：
+
+- **答案页是双栏排版，OCR 会把左右两栏交错、把 C 认成 Cc、D 认成 OD、31 认成 3)、I 认成 i"**。所以答案不能只信文本：`drafts/c{N}/pages/p-<页码>.png` 是每页的渲染图，用 Read 工具打开 Test {T} 的听力、阅读答案页图片，逐题对照后再写 `answers`。80 个答案每一个都要和图片核对。
+- Audioscript 里标题号的 `Q1`、`Q2` 小字可能丢失或错位；用答案词在脚本里的位置判断 `q` 标到哪一句。
+- 题干里的 `…………` 空格线可能被识别成乱码，按题号补 `{{n}}`。
+- 阅读文章里偶发的 OCR 错字（如 `tbe` → `the`、`1ong` → `long`）可以修正；但不要改写句子。
+- 写作 Task 1 的图表同样用 `page_image.py` 渲染（`source.txt` 里是原 PDF 路径）。

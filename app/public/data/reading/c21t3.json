@@ -1,0 +1,810 @@
+{
+  "id": "c21t3",
+  "book": "剑桥雅思21",
+  "test": 3,
+  "title": "剑21 Test 3 · Reading",
+  "minutes": 60,
+  "passages": [
+    {
+      "n": 1,
+      "title": "Saving the saiga",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "The saiga, a species of antelope native to Central Asia, once roamed the vast grasslands of this region in enormous herds, many millions strong. Regrettably, such spectacular sights are a thing of the past. Today, the saiga is largely confined to a single country: Kazakhstan. This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest."
+        },
+        {
+          "id": "p2",
+          "text": "The saiga is perfectly adapted to the tough conditions of the remote wilderness of the steppes of Central Asia. One such adaptation is its bizarre bulbous nose, which enables the animal to survive the extreme seasonal temperature swings of the region. The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter. Other seasonal adaptations include a heavy winter coat that the saiga sheds when the weather warms up."
+        },
+        {
+          "id": "p3",
+          "text": "Despite these superb adaptations to harsh conditions, the saiga has no defence against the threats posed by humans. It was almost driven to extinction by hunters in the 19th century. Legal protection ensured its survival for a while, and numbers steadily recovered throughout most of the 20th century. But the respite was only temporary. In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost – one of the fastest examples of species loss ever recorded for a mammal."
+        },
+        {
+          "id": "p4",
+          "text": "The dramatic decline during this decade was due to illegal poaching on an industrial scale. Male saiga are a particular target, because their horns are highly prized by traditional medicine practitioners. Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos. Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since."
+        },
+        {
+          "id": "p5",
+          "text": "Another threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement. Physical barriers such as railways, pipelines and fences can block the seasonal migration routes of this transboundary species. In the worst cases, herds may starve to death after being trapped."
+        },
+        {
+          "id": "p6",
+          "text": "Then there is the risk of disease. In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteurella multocida, killed over 75% of the global adult saiga population in just three weeks. In 2017, 60% of the Mongolian saiga population – a subspecies found nowhere else in the world – was killed by a virus that spilled over from livestock. These so-called mass mortality events represent an unpredictable and serious threat to the species."
+        },
+        {
+          "id": "p7",
+          "text": "Climate change poses a further threat. Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate. Experts believe that unusually warm weather may have triggered the 2015 mass mortality event. The steppe region has also become increasingly arid in recent years, and many of the smaller streams that the species normally depended on have dried up and vanished."
+        },
+        {
+          "id": "p8",
+          "text": "Recent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe."
+        },
+        {
+          "id": "p9",
+          "text": "So, how many saiga are there now? By 2000, the global saiga population had hit an all-time low of just 21,000 individuals. There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species. But thanks to the intervention of the Altyn Dala Conservation Initiative, the most recent episodes in the ongoing story of the saiga have been relatively uplifting. Three years ago, the Ustyurt Plateau population in Kazakhstan experienced its largest mass birth of saiga calves in many years. An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million. The world's strangest-looking antelope remains critically endangered, but the direction of travel is positive."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            7
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "The saiga",
+          "lines": [
+            "## Adaptations",
+            "has a large bulbous nose with swollen nostrils that",
+            "keep {{1}} out",
+            "lower the temperature of its {{2}} in summer",
+            "warm the air entering its lungs in winter",
+            "grows a thick {{3}} in winter, which it loses in spring",
+            "## Reasons for population decline",
+            "poaching, especially for the {{4}} of male saiga",
+            "expansion of farms and settlements, causing",
+            "reduction in the size of the saiga's {{5}}",
+            "loss of access to the {{6}} which they use for migration",
+            "various forms of disease, leading to mass mortality events",
+            "climate change, causing the disappearance of {{7}} which the saiga relied on"
+          ]
+        },
+        {
+          "range": [
+            8,
+            13
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 8,
+              "text": "Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan."
+            },
+            {
+              "n": 9,
+              "text": "For most of the 20th century, the population of saiga were falling."
+            },
+            {
+              "n": 10,
+              "text": "Efforts to protect rhinos in Africa had a significant effect on saiga populations."
+            },
+            {
+              "n": 11,
+              "text": "Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world."
+            },
+            {
+              "n": 12,
+              "text": "The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals."
+            },
+            {
+              "n": 13,
+              "text": "The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The problems of getting around the city of Dar es Salaam",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Dar es Salaam in Tanzania is one of the fastest growing cities in Africa. Its population has increased eightfold since 1980 and swells by half a million people every year. United Nations projections anticipate it will become a megacity within seven years as its population passes 10 million, reaching 13.4 million by 2035. Daniel Hoornweg for the Global Cities Institute forecasts the city could be home to an incredible 73.7 million people by 2100."
+        },
+        {
+          "id": "p2",
+          "text": "Today, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours. It can be longer if rain turns the dirt roads to mud."
+        },
+        {
+          "id": "p3",
+          "text": "Even in the middle of the day, traffic frequently slows to a stop without warning. It is not unusual for cars and minibuses to queue for 20 minutes at a key intersection. A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city. Outside the centre many rely on boda boda (motorbike taxis) to navigate the narrow side streets and potholed mud roads that make up much of the metropolis. Their safety record is scandalous."
+        },
+        {
+          "id": "p4",
+          "text": "Dar es Salaam's reliance on four arterial roads into the city is a legacy of the colonial government that planned the city at the start of the 20th century to cater for a population of 35,000. Most of the current growth is made up of young people arriving from the countryside to find work, and as the population has exploded, Dar es Salaam has grown around those four highways. Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy."
+        },
+        {
+          "id": "p5",
+          "text": "But Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, giving them an alternative to a future controlled by the private car. Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro. It has chosen a less exciting but cheaper and more achievable method: the bus."
+        },
+        {
+          "id": "p6",
+          "text": "The DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages. Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies."
+        },
+        {
+          "id": "p7",
+          "text": "'The new buses are much, much better,' says Paulas George, a young IT worker. He takes the bus every day and it has cut his journey time by two-thirds. He says it is not perfect, though, complaining that drivers often refuse to turn on the air conditioning to save fuel."
+        },
+        {
+          "id": "p8",
+          "text": "That is not the only problem. A shortage of buses after a serious flood at the main depot during the rainy season means the system is carrying 200,000 people a day – half the expected capacity. Smartcards can't be used as the mechanical readers aren't working either, forcing passengers to buy individual paper tickets for every journey. Each is printed with a scannable QR code, but there are no scanners. Staff stand by the gates and tear tickets as people enter. As a result, queues are considerable at peak times."
+        },
+        {
+          "id": "p9",
+          "text": "Morogoro Road to the north-west of the city was phase I of the BRT project. Phases II and III will install bus lanes along Nyerere Road to the south-west and Kilwa Road to the south. Construction on both routes is due to start imminently. Phase IV, towards Bagamoyo in the north, is in the preliminary design stage. 'Much of the city will have access to a world-class transport system within the space of a few years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy). All phases are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network."
+        },
+        {
+          "id": "p10",
+          "text": "The ITDP regrets Africa's obsession with metros. 'With a metro, an international firm will often just parachute in its own system,' says Kost. 'Bus rapid transit allows existing stakeholders to get involved. That's what we did in Dar es Salaam and what we're planning in Nairobi, where the bus bodies will be built in the city and local operators will look after tickets, fare collection and IT ... Bus rapid transit has been transformational for Dar es Salaam. For millions of people in African cities, this is their best hope of ever being connected.'"
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            18
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "The population of Dar es Salaam is rising more rapidly than was previously predicted."
+            },
+            {
+              "n": 15,
+              "text": "Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city."
+            },
+            {
+              "n": 16,
+              "text": "Residents have been consulted about their views on the suburban rail line in Dar es Salaam."
+            },
+            {
+              "n": 17,
+              "text": "The majority of the present residential development in Dar es Salaam is unplanned."
+            },
+            {
+              "n": 18,
+              "text": "Dar es Salaam's authorities have decided to follow the public transport plan adopted by a large number of African cities."
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            26
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Dar es Salaam's DART Bus Rapid Transit system",
+          "lines": [
+            "## Features",
+            "the buses use designated {{19}} to cut down on delays",
+            "passengers pay fares before {{20}}",
+            "passengers in {{21}} can use every part of the system",
+            "## Problems",
+            "the temperature control is sometimes not activated in order to reduce {{22}} use",
+            "insufficient number of vehicles are available due to the effects of a severe {{23}}",
+            "passengers are unable to use {{24}} because some equipment is out of action",
+            "tickets have to be checked manually at station {{25}}",
+            "{{26}} frequently build up during rush hours"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Rethinking the Past",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "It is by now a truism that the story of human evolution is being rethought. Discoveries have come thick and fast over the last decade or so, and these have forced us to rethink many crucial points, such as how old our species is – about 300,000 years old as opposed to 200,000 – and what extinct hominins, such as our cousins the Neanderthals, were really like. But because there are so many species and eras involved, it's hard to discern the common threads linking them."
+        },
+        {
+          "id": "p2",
+          "text": "However, I do think it's possible to draw out some overall messages from the blizzard of archaeological finds in recent years. Two things stand out to me. One is the growing evidence that many supposedly 'advanced' behaviours, such as architecture and art, can be traced much further back in time than we thought, often to hominin species that existed before modern humans. And the other is that we have badly misunderstood gender roles in prehistoric societies, imposing patriarchal values onto cultures that had very different ideas about how women should behave."
+        },
+        {
+          "id": "p3",
+          "text": "Let's start with architecture. At Kalambo Falls in Zambia, researchers found buried logs that had been shaped with stone tools so that they interlocked. They seem to have once been part of a larger structure, perhaps a building. This would be unsurprising if they weren't 476,000 years old. That's almost 200,000 years before our species, Homo sapiens, evolved. Extinct hominins also managed to settle in extreme places. For instance, we now know that extinct hominins such as the Denisovans lived on the frozen heights of high-altitude regions 200,000 years ago – upending the old notion that such environments were only settled by modern humans around 3,600 years ago."
+        },
+        {
+          "id": "p4",
+          "text": "Art also seems to have been invented by older hominins. We have had evidence for a long time now that Neanderthals painted on cave walls. Even earlier species, such as Homo erectus, may also have made art, for example by engraving patterns on shells. By far the most contentious claim in this area is that Homo naledi made art. H. naledi lived around 250,000 years ago, making it a contemporary of our species. However, it had quite a small brain, typical of older hominins – and was therefore, according to palaeoanthropological dogma, incapable of complex behaviours. Nevertheless, in the Rising Star cave system in South Africa where the H. naledi remains were found, researchers have found what seem to be etchings – resembling rudimentary artwork – on the cave walls, though these have yet to be firmly dated."
+        },
+        {
+          "id": "p5",
+          "text": "To say these claims about H. naledi are controversial is to understate the situation. Many experts say the evidence presented so far is completely inadequate to support them. The dispute has only been heightened by the way the results were released, in a non-traditional journal that publishes peer reviews publicly alongside the paper. My views on the H. naledi controversy are complicated. I do think more evidence is needed: in particular with regard to the dating of the etchings. At the same time, I think the species' small brains are a distraction. Palaeoanthropologists got fixated on brain size because it was what they could see: if what you have is skeletons, then all you know about brains are their shapes and sizes. But other properties, such as the brain's internal wiring, are surely equally important and may explain how a species like H. naledi might have been capable of complex behaviours, despite their small brains."
+        },
+        {
+          "id": "p6",
+          "text": "In a sense, we shouldn't be surprised that so many of these behaviours had their origins in older, extinct hominins. Evolution usually works by incremental steps and so does technology. The first birds weren't great at flying, and the first mobile phones weren't great at, well, anything really. The idea that there was a sudden explosion of intelligence and creativity at some point in our evolution isn't inherently ridiculous: sometimes a system hits a tipping point and undergoes runaway change. But there was never that much evidence that human evolution worked this way. Instead, it seems the Neanderthals and many others all walked so we could run."
+        },
+        {
+          "id": "p7",
+          "text": "One way or another, the H. naledi story is going to be an example of letting our preconceptions get in the way of the evidence. The same is true for our ideas about gender in prehistory. Archaeology was invented by individuals with now unfashionably patriarchal views about gender, and those notions fed into their research. Today's researchers are trying to unpick this stuff, and there have been some significant steps in recent years."
+        },
+        {
+          "id": "p8",
+          "text": "Perhaps the most dramatic was the demolition of 'Man the Hunter'. This was the idea, promoted for decades, that in most prehistoric societies the men went out to hunt and the women looked after the home. However, a meta-analysis published in June 2023 compiled data on several dozen foraging societies and found women hunted in 80 per cent of them. In line with this, it emerged that an ancient spear-throwing tool called an atlatl enables women to launch projectiles at the same speed as men. We have also seen growing evidence of women occupying positions of authority in ancient societies. The Viking queen Thyra may have helped unify Denmark in the 900s. Going further back, an Iberian leader from around 4000 years ago turned out to be female, not male as many had assumed, when proteins in her teeth were analysed."
+        },
+        {
+          "id": "p9",
+          "text": "It seems that the more we find out about past societies, the more our preconceptions about the ways society 'has to be' turn out to be wrong. Inequality, authoritarianism and patriarchy aren't inevitable. They're choices, and prehistory shows us that we can choose differently."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 27,
+              "text": "What is the writer doing in the second paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "pinpointing some key changes in our understanding of prehistory"
+                },
+                {
+                  "k": "B",
+                  "text": "outlining some aspects of prehistory which are still poorly understood"
+                },
+                {
+                  "k": "C",
+                  "text": "summarising some attitudes towards recent archaeological revelations"
+                },
+                {
+                  "k": "D",
+                  "text": "giving an overview of some current disagreements among archaeologists"
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "In the sixth paragraph, the writer mentions mobile phones to make the point that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "most developments happen in a gradual way."
+                },
+                {
+                  "k": "B",
+                  "text": "innovation can come from a variety of sources."
+                },
+                {
+                  "k": "C",
+                  "text": "not all technological advancements are positive."
+                },
+                {
+                  "k": "D",
+                  "text": "the path of evolution can often be unpredictable."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "In the seventh paragraph, the phrase 'unpick this stuff' refers to the task of",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "assessing the impact of certain recent research findings."
+                },
+                {
+                  "k": "B",
+                  "text": "questioning the authenticity of evidence used in earlier research."
+                },
+                {
+                  "k": "C",
+                  "text": "conducting research into how prehistoric societies were organised."
+                },
+                {
+                  "k": "D",
+                  "text": "reevaluating research influenced by outdated beliefs about society."
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "What does the writer suggest in the final paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Studying past societies could help us create a fairer society today."
+                },
+                {
+                  "k": "B",
+                  "text": "We should not judge past societies by the standards of modern society."
+                },
+                {
+                  "k": "C",
+                  "text": "We still have much to learn about how societies have evolved over history."
+                },
+                {
+                  "k": "D",
+                  "text": "There is more than one way to interpret evidence about societies in prehistoric times."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            31,
+            34
+          ],
+          "type": "matching",
+          "instruction": "Complete each sentence with the correct ending, A-F, below.",
+          "optionsTitle": "Endings",
+          "options": [
+            {
+              "k": "A",
+              "text": "Homo sapiens emerged at an earlier point in time than experts previously believed."
+            },
+            {
+              "k": "B",
+              "text": "previous assumptions about who had power in the prehistoric world were inaccurate."
+            },
+            {
+              "k": "C",
+              "text": "gender roles in extinct hominin species were different from those in Homo sapiens societies."
+            },
+            {
+              "k": "D",
+              "text": "experts may have been mistaken about who looked for food in early human communities."
+            },
+            {
+              "k": "E",
+              "text": "Homo sapiens was probably not the only species capable of sophisticated workmanship."
+            },
+            {
+              "k": "F",
+              "text": "other species managed to survive in harsh environments before the arrival of Homo sapiens."
+            }
+          ],
+          "items": [
+            {
+              "n": 31,
+              "text": "The findings at Kalambo Falls revealed that"
+            },
+            {
+              "n": 32,
+              "text": "Evidence from high-altitude regions suggests that"
+            },
+            {
+              "n": 33,
+              "text": "An academic publication from June 2023 shows that"
+            },
+            {
+              "n": 34,
+              "text": "Analysis of a 4000-year-old Iberian leader indicates that"
+            }
+          ]
+        },
+        {
+          "range": [
+            35,
+            40
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the views of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the views of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 35,
+              "text": "It seems likely that the Neanderthals' cave paintings were the first examples of artwork ever created."
+            },
+            {
+              "n": 36,
+              "text": "It is very rare to find prehistoric artwork carved onto shells."
+            },
+            {
+              "n": 37,
+              "text": "The methods which the researchers used to examine the Rising Star cave system were rather unconventional."
+            },
+            {
+              "n": 38,
+              "text": "It is unclear how old the etchings in the Rising Star cave system are."
+            },
+            {
+              "n": 39,
+              "text": "The means used to publicise the findings from the Rising Star cave system added to the controversy that surrounds them."
+            },
+            {
+              "n": 40,
+              "text": "The size of H. naledi brains is a key factor in the question of whether these hominins were able to produce art."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "dust"
+    ],
+    "2": [
+      "blood"
+    ],
+    "3": [
+      "coat"
+    ],
+    "4": [
+      "horns"
+    ],
+    "5": [
+      "habitat"
+    ],
+    "6": [
+      "routes"
+    ],
+    "7": [
+      "streams"
+    ],
+    "8": [
+      "FALSE"
+    ],
+    "9": [
+      "FALSE"
+    ],
+    "10": [
+      "TRUE"
+    ],
+    "11": [
+      "NOT GIVEN"
+    ],
+    "12": [
+      "TRUE"
+    ],
+    "13": [
+      "NOT GIVEN"
+    ],
+    "14": [
+      "NOT GIVEN"
+    ],
+    "15": [
+      "FALSE"
+    ],
+    "16": [
+      "NOT GIVEN"
+    ],
+    "17": [
+      "TRUE"
+    ],
+    "18": [
+      "FALSE"
+    ],
+    "19": [
+      "lanes"
+    ],
+    "20": [
+      "boarding"
+    ],
+    "21": [
+      "wheelchairs"
+    ],
+    "22": [
+      "fuel"
+    ],
+    "23": [
+      "flood"
+    ],
+    "24": [
+      "smartcards"
+    ],
+    "25": [
+      "gates"
+    ],
+    "26": [
+      "queues"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "D"
+    ],
+    "30": [
+      "A"
+    ],
+    "31": [
+      "E"
+    ],
+    "32": [
+      "F"
+    ],
+    "33": [
+      "D"
+    ],
+    "34": [
+      "B"
+    ],
+    "35": [
+      "NO"
+    ],
+    "36": [
+      "NOT GIVEN"
+    ],
+    "37": [
+      "NOT GIVEN"
+    ],
+    "38": [
+      "YES"
+    ],
+    "39": [
+      "YES"
+    ],
+    "40": [
+      "NO"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p2",
+      "key": "they filter out dust and cool the blood during hot, dry summers",
+      "why": "原文说鼻孔能过滤掉灰尘（filter out dust），对应「keep ... out」，答案是 dust。"
+    },
+    "2": {
+      "loc": "p2",
+      "key": "they filter out dust and cool the blood during hot, dry summers",
+      "why": "原文 cool the blood 对应题干 lower the temperature of its blood，答案是 blood。"
+    },
+    "3": {
+      "loc": "p2",
+      "key": "a heavy winter coat that the saiga sheds when the weather warms up",
+      "why": "winter coat 对应题干「grows a thick ... in winter」，saiga 在天气变暖后蜕去（loses），答案是 coat。"
+    },
+    "4": {
+      "loc": "p4",
+      "key": "their horns are highly prized by traditional medicine practitioners",
+      "why": "题干「poaching, especially for the ... of male saiga」对应原文因角（horns）被传统医药商珍视而遭猎杀，答案是 horns。"
+    },
+    "5": {
+      "loc": "p5",
+      "key": "Another threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion",
+      "why": "题干「reduction in the size of the saiga's ...」对应 loss of habitat，答案是 habitat。"
+    },
+    "6": {
+      "loc": "p5",
+      "key": "Physical barriers such as railways, pipelines and fences can block the seasonal migration routes",
+      "why": "题干「loss of access to the ... which they use for migration」对应 migration routes 被阻断，答案是 routes。"
+    },
+    "7": {
+      "loc": "p7",
+      "key": "many of the smaller streams that the species normally depended on have dried up and vanished",
+      "why": "题干「disappearance of ... which the saiga relied on」对应 streams dried up and vanished，答案是 streams。"
+    },
+    "8": {
+      "loc": "p1",
+      "key": "This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest",
+      "why": "90%以上分布在哈萨克斯坦，其余三国只占少部分，并非「平均分布（distributed evenly）」，与原文矛盾，故为 FALSE。"
+    },
+    "9": {
+      "loc": "p3",
+      "key": "numbers steadily recovered throughout most of the 20th century",
+      "why": "原文说20世纪大部分时间种群数量在稳步恢复（recovered），与题干「population were falling」相反，故为 FALSE。"
+    },
+    "10": {
+      "loc": "p4",
+      "key": "Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns",
+      "why": "保护非洲犀牛的举措导致人们转而使用赛加羚羊角，使偷猎加剧，说明确实产生了显著影响，故为 TRUE。"
+    },
+    "11": {
+      "loc": "p7",
+      "key": "Climate change poses a further threat. ... saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate",
+      "why": "原文只说气候变化威胁赛加羚羊，未将中亚野生动物受气候影响程度与其他地区比较，故 NOT GIVEN。"
+    },
+    "12": {
+      "loc": "p8",
+      "key": "Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support",
+      "why": "该计划旨在保护生态系统及其支持的多种物种（many species），并非只针对赛加羚羊一种动物，故为 TRUE。"
+    },
+    "13": {
+      "loc": "p8",
+      "key": "In 2022 the United Nations recognised the initiative as a World Restoration Flagship project",
+      "why": "原文只提到获得联合国「旗舰项目」称号，没有提及该称号是否带来额外国际资金，故 NOT GIVEN。"
+    },
+    "14": {
+      "loc": "p1",
+      "key": "United Nations projections anticipate it will become a megacity within seven years as its population passes 10 million, reaching 13.4 million by 2035",
+      "why": "原文只给出人口增长的预测数据，并未比较当前增速与「此前预测」的差异，故 NOT GIVEN。"
+    },
+    "15": {
+      "loc": "p2",
+      "key": "four out of five of its people live in single-storey informal settlements on the spreading edges of the city",
+      "why": "原文说大多数人住在单层（single-storey）非正式定居点，而非题干所说的高层建筑（high-rise blocks），故为 FALSE。"
+    },
+    "16": {
+      "loc": "p3",
+      "key": "A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city",
+      "why": "原文只描述郊区铁路线覆盖范围小，并未提及居民是否被咨询过意见，故 NOT GIVEN。"
+    },
+    "17": {
+      "loc": "p4",
+      "key": "Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy",
+      "why": "原文明确说几乎所有扩张都是非正式、无规划的（informally without any agreed strategy），对应题干「unplanned」，故为 TRUE。"
+    },
+    "18": {
+      "loc": "p5",
+      "key": "Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro",
+      "why": "原文说达累斯萨拉姆与大陆上许多城市不同，并未选择地铁模式，与题干「追随大多数非洲城市的交通方案」相反，故为 FALSE。"
+    },
+    "19": {
+      "loc": "p6",
+      "key": "The DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic",
+      "why": "题干「designated ... to cut down on delays」对应 bus lanes（专用车道），答案是 lanes。"
+    },
+    "20": {
+      "loc": "p6",
+      "key": "Ticket purchase and control takes place at stations prior to boarding",
+      "why": "题干「pay fares before ...」对应 prior to boarding，答案是 boarding。"
+    },
+    "21": {
+      "loc": "p6",
+      "key": "the buses are step-free, which means the entire route is accessible to people using wheelchairs",
+      "why": "题干「passengers in ... can use every part of the system」对应 people using wheelchairs，答案是 wheelchairs。"
+    },
+    "22": {
+      "loc": "p7",
+      "key": "drivers often refuse to turn on the air conditioning to save fuel",
+      "why": "题干「reduce ... use」对应 save fuel，答案是 fuel。"
+    },
+    "23": {
+      "loc": "p8",
+      "key": "A shortage of buses after a serious flood at the main depot during the rainy season",
+      "why": "题干「due to the effects of a severe ...」对应 a serious flood，答案是 flood。"
+    },
+    "24": {
+      "loc": "p8",
+      "key": "Smartcards can't be used as the mechanical readers aren't working either",
+      "why": "题干「passengers are unable to use ... because some equipment is out of action」对应 Smartcards 因读卡机故障无法使用，答案是 smartcards。"
+    },
+    "25": {
+      "loc": "p8",
+      "key": "Staff stand by the gates and tear tickets as people enter",
+      "why": "题干「checked manually at station ...」对应 Staff stand by the gates，答案是 gates。"
+    },
+    "26": {
+      "loc": "p8",
+      "key": "As a result, queues are considerable at peak times",
+      "why": "题干「... frequently build up during rush hours」对应 queues are considerable at peak times，答案是 queues。"
+    },
+    "27": {
+      "loc": "p2",
+      "key": "One is the growing evidence that many supposedly 'advanced' behaviours ... can be traced much further back in time ... And the other is that we have badly misunderstood gender roles",
+      "why": "第二段作者概括了两点重要的理解变化（建筑/艺术起源更早、性别角色被误解），属于指出关键变化，对应选项A。"
+    },
+    "28": {
+      "loc": "p6",
+      "key": "Evolution usually works by incremental steps and so does technology. The first birds weren't great at flying, and the first mobile phones weren't great at, well, anything really",
+      "why": "作者用手机的例子说明技术和进化一样是渐进式发展的（incremental steps），对应选项A「most developments happen in a gradual way」。"
+    },
+    "29": {
+      "loc": "p7",
+      "key": "Archaeology was invented by individuals with now unfashionably patriarchal views about gender ... Today's researchers are trying to unpick this stuff",
+      "why": "「unpick this stuff」指的是重新审视受过时父权观念影响的早期研究，对应选项D「reevaluating research influenced by outdated beliefs about society」。"
+    },
+    "30": {
+      "loc": "p9",
+      "key": "Inequality, authoritarianism and patriarchy aren't inevitable. They're choices, and prehistory shows us that we can choose differently",
+      "why": "作者说不平等等并非必然，史前社会证明我们可以选择不同的社会形态，暗示研究过去有助于建立更公平的现在，对应选项A。"
+    },
+    "31": {
+      "loc": "p3",
+      "key": "researchers found buried logs that had been shaped with stone tools so that they interlocked ... 476,000 years old",
+      "why": "卡兰博瀑布发现的476,000年前经过加工互锁的木料早于智人出现，说明智人可能不是唯一具备精细工艺（sophisticated workmanship）的物种，对应选项E。"
+    },
+    "32": {
+      "loc": "p3",
+      "key": "extinct hominins such as the Denisovans lived on the frozen heights of high-altitude regions 200,000 years ago",
+      "why": "丹尼索瓦人早在20万年前就已在高海拔极端环境中生存，说明智人出现前其他物种已能在恶劣环境中生存，对应选项F。"
+    },
+    "33": {
+      "loc": "p8",
+      "key": "a meta-analysis published in June 2023 compiled data on several dozen foraging societies and found women hunted in 80 per cent of them",
+      "why": "2023年6月发表的荟萃分析显示大多数采集社会中女性也参与狩猎，推翻了「男性负责觅食」的旧观念，对应选项D。"
+    },
+    "34": {
+      "loc": "p8",
+      "key": "an Iberian leader from around 4000 years ago turned out to be female, not male as many had assumed",
+      "why": "原被认为是男性的伊比利亚首领经蛋白质分析证实为女性，说明以往对史前权力归属的假设是错误的，对应选项B。"
+    },
+    "35": {
+      "loc": "p4",
+      "key": "Even earlier species, such as Homo erectus, may also have made art, for example by engraving patterns on shells",
+      "why": "原文提到比尼安德特人更早的直立人可能已经制作艺术品，说明尼安德特人的洞穴壁画未必是最早的艺术品，与题干相反，故为 NO。"
+    },
+    "36": {
+      "loc": "p4",
+      "key": "Even earlier species, such as Homo erectus, may also have made art, for example by engraving patterns on shells",
+      "why": "原文只提到在贝壳上刻画的例子，并未说明这种做法有多罕见，故 NOT GIVEN。"
+    },
+    "37": {
+      "loc": "p5",
+      "key": "The dispute has only been heightened by the way the results were released, in a non-traditional journal that publishes peer reviews publicly alongside the paper",
+      "why": "原文提到的是发布方式非传统（在公开同行评审的期刊上发表），而非研究方法本身不寻常，故 NOT GIVEN。"
+    },
+    "38": {
+      "loc": "p5",
+      "key": "I do think more evidence is needed: in particular with regard to the dating of the etchings",
+      "why": "作者明确表示蚀刻年代仍需更多证据，说明确实「不清楚年代」，对应题干，故为 YES。"
+    },
+    "39": {
+      "loc": "p5",
+      "key": "The dispute has only been heightened by the way the results were released, in a non-traditional journal that publishes peer reviews publicly alongside the paper",
+      "why": "作者说发布方式加剧了争议（heightened the dispute），与题干「added to the controversy」一致，故为 YES。"
+    },
+    "40": {
+      "loc": "p5",
+      "key": "At the same time, I think the species' small brains are a distraction",
+      "why": "作者认为小脑容量的问题只是「分散注意力（distraction）」，并非判断是否能制作艺术的关键因素，与题干相反，故为 NO。"
+    }
+  }
+}

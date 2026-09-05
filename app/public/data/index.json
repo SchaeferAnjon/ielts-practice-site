@@ -46,7 +46,11 @@
    "bookNo": 21,
    "test": 3,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
    "audioParts": [
     1,
     2,
@@ -61,7 +65,11 @@
    "bookNo": 21,
    "test": 4,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
    "audioParts": [
     1,
     2,
@@ -240,7 +248,11 @@
    "bookNo": 17,
    "test": 1,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
    "audioParts": []
   },
   {
@@ -250,7 +262,9 @@
    "bookNo": 17,
    "test": 2,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening"
+   ],
    "audioParts": []
   },
   {
@@ -260,7 +274,9 @@
    "bookNo": 17,
    "test": 3,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening"
+   ],
    "audioParts": []
   },
   {
