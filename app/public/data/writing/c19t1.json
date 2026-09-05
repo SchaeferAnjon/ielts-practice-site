@@ -1,0 +1,91 @@
+{
+  "id": "c19t1",
+  "book": "剑桥雅思19",
+  "test": 1,
+  "title": "剑19 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "line-graph",
+      "kindZh": "曲线图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The graph below gives information on the numbers of participants for different activities at one social centre in Melbourne, Australia for the period 2000 to 2020.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c19t1-task1.png",
+      "imageCaption": "Number of participants, by activity 2000-2020",
+      "data": {
+        "unit": "Number of participants",
+        "years": [
+          2000,
+          2005,
+          2010,
+          2015,
+          2020
+        ],
+        "series": {
+          "Film club": [
+            64,
+            62,
+            60,
+            64,
+            66
+          ],
+          "Martial arts": [
+            36,
+            32,
+            38,
+            34,
+            36
+          ],
+          "Amateur dramatics": [
+            26,
+            28,
+            20,
+            14,
+            6
+          ],
+          "Table tennis": [
+            16,
+            20,
+            20,
+            36,
+            54
+          ],
+          "Musical performances": [
+            0,
+            0,
+            12,
+            16,
+            18
+          ]
+        }
+      },
+      "sample": {
+        "band": 6.5,
+        "text": "The line graph highlights data about how many people participated in 5 various activities at one social club in Melbourne, Australia for the first two decades of XXI century.\n\nOverall, over the years more participants got involved in activities on Table tennis and Musical plays, while Amateur dramatics lost its interest for public. Being flactuated, two types of activities, which are Film club and Martial arts levelled off. Another striking point is that over a twenty-year period between 2000 and 2020, the Film club kept its position as the most popular activity.\n\nLooking at the details of Table tennis, in 2000, there were about 15 participants in club for it. In the next 10 years, it attracted 5 more members, before dramatic surge from 20 to below 60 participants. In 2005, the activity on Musical performances introduced and over the following 15 years, it saw a steady increase on the number of participants by about 20 in the last year.\n\nRegarding next two activities, Film club and Martial arts, the saw fluactions, but without any changes in the overall position. Film club started the process with about 60 members and finished it just below 70, while the participants of Martial arts kept their numbers at around 35.\n\nThe number of participants of amateurs on draturgy was about 25 and it saw a steady decrease then by 10.",
+        "comment": "This good response begins with an introduction, then in the second paragraph summarises the main trends. The next few paragraphs contain the data and cover each of the participant groups. The information is organised logically and a range of linking devices are used [Overall / Another striking point / In the next 10 years]. There is also some flexible reference and substitution [while / which / it / their] with a few inaccuracies.\n\nVocabulary is generally good [got involved in / levelled off / dramatic surge], but there are some errors [flactuated / fluctuated / amateurs on draturgy / amateur dramatics]. This response has a variety of grammatical structures and the past simple tense is well controlled. There are sentences with multiple clauses, including superlatives [most popular], but also some errors in verb forms [introduced / was introduced], some missing articles [public / the public / dramatic surge / a dramatic surge / next two / the next two], some errors with prepositions [in club for it / in the club / by about 20 / to about 20] and inconsistent capitalisation. The candidate should demonstrate a greater level of accuracy with grammatical structures."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 6.0,
+        "text": "In my opinion competition at work, at school and in daily life can both be a good thing and a bad thing. Why? because I think too much of anything can be destructive. Yes, it's a very good thing to be competitive but don't overdo it! Having no competition in your life at all can be very depressing, because you have no motivation, no goals you want to achieve, everytime you wake up in the morning. I don't believe that there is such thing as \"co-operating\" too much, when you work with someone you should work together as a team and co-operate, but also do things for yourself, like something career-wise. You should think of your future in your work. That goes the same if you are still in school, take my school life for example. If I am very good at one subject in particular, lots of other student may come up to me and ask for pointers. I would be very glad to help them. If there is any homework, school mates may come over to do it together. this is also fine and very good for building relationship. But sometimes there are people who think you are so nice and ask you to do their work for them. This is where you should draw the line, yes you are friends and you should help each other, but that doesn't mean that you have to do their homework or give them answer when there is a test. Remember life is a competition, be a winner.",
+        "comment": "This response covers the task and is engaging to read. The candidate starts by saying competition can be good and bad, too much can be [destructive] and too little can be [depressing] as you would have [no motivation, no goals]. No specific examples are given, and they would improve the response. The rest of the response addresses 'cooperation' but is mostly about how people can cooperate rather than comparing 'cooperation' with 'competition' in line with the question. The conclusion [… be a winner] slightly contradicts the earlier point [I don't believe that there is such a thing as \"co-operating\" too much].\n\nUnfortunately, there is no paragraphing to group ideas together or indicate main topics. This affects the rating for coherence and cohesion.\n\nThere is some higher-level vocabulary [destructive / motivation / career-wise] with some idiomatic use [draw the line] which makes vocabulary the strongest area in this response. A wider range would be needed for a higher score. There is a range of grammatical structures, including comparative forms and conditional [if] structures.\n\nAlthough they do address the task and present relevant ideas, to achieve a higher score, the candidate should organise the response into paragraphs and discuss both views. They could also demonstrate a greater level of accuracy with vocabulary and grammatical structures."
+      }
+    }
+  ]
+}

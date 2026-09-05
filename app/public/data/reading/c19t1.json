@@ -1,0 +1,861 @@
+{
+  "id": "c19t1",
+  "book": "剑桥雅思19",
+  "test": 1,
+  "title": "剑19 Test 1 · Reading",
+  "minutes": 60,
+  "passages": [
+    {
+      "n": 1,
+      "title": "How tennis rackets have changed",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "In 2016, the British professional tennis player Andy Murray was ranked as the world's number one. It was an incredible achievement by any standard – made even more remarkable by the fact that he did this during a period considered to be one of the strongest in the sport's history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few. Yet five years previously, he had been regarded as a talented outsider who entered but never won the major tournaments."
+        },
+        {
+          "id": "p2",
+          "text": "Of the changes that account for this transformation, one was visible and widely publicised: in 2011, Murray invited former number one player Ivan Lendl onto his coaching team – a valuable addition that had a visible impact on the player's playing style. Another change was so subtle as to pass more or less unnoticed. Like many players, Murray has long preferred a racket that consists of two types of string: one for the mains (verticals) and another for the crosses (horizontals). While he continued to use natural string in the crosses, in 2012 he switched to a synthetic string for the mains. A small change, perhaps, but its importance should not be underestimated."
+        },
+        {
+          "id": "p3",
+          "text": "The modification that Murray made is just one of a number of options available to players looking to tweak their rackets in order to improve their games. 'Touring professionals have their rackets customised to their specific needs,' says Colin Triplow, a UK-based professional racket stringer. 'It's a highly important part of performance maximisation.' Consequently, the specific rackets used by the world's elite are not actually readily available to the public; rather, each racket is individually made to suit the player who uses it. Take the US professional tennis players Mike and Bob Bryan, for example: 'We're very particular with our racket specifications,' they say. 'All our rackets are sent from our manufacturer to Tampa, Florida, where our frames go through a… thorough customisation process.' They explain how they have adjusted not only racket length, but even experimented with different kinds of paint. The rackets they use now weigh more than the average model and also have a denser string pattern (i.e. more crosses and mains)."
+        },
+        {
+          "id": "p4",
+          "text": "The primary reason for these modifications is simple: as the line between winning and losing becomes thinner and thinner, even these slight changes become more and more important. As a result, players and their teams are becoming increasingly creative with the modifications to their rackets as they look to maximise their competitive advantage."
+        },
+        {
+          "id": "p5",
+          "text": "Racket modifications mainly date back to the 1970s, when the amateur German tennis player Werner Fischer started playing with the so-called spaghetti-strung racket. It created a string bed that generated so much topspin that it was quickly banned by the International Tennis Federation. However, within a decade or two, racket modification became a regularity. Today it is, in many ways, an aspect of the game that is equal in significance to nutrition or training."
+        },
+        {
+          "id": "p6",
+          "text": "Modifications can be divided into two categories: those to the string bed and those to the racket frame. The former is far more common than the latter: the choice of the strings and the tension with which they are installed is something that nearly all professional players experiment with. They will continually change it depending on various factors including the court surface, climatic conditions, and game styles. Some will even change it depending on how they feel at the time."
+        },
+        {
+          "id": "p7",
+          "text": "At one time, all tennis rackets were strung with natural gut made from the outer layer of sheep or cow intestines. This all changed in the early 1990s with the development of synthetic strings that were cheaper and more durable. They are made from three materials: nylon (relatively durable and affordable), Kevlar (too stiff to be used alone) or co-polyester (polyester combined with additives that enhance its performance). Even so, many professional players continue to use a 'hybrid set-up', where a combination of both synthetic and natural strings are used."
+        },
+        {
+          "id": "p8",
+          "text": "Of the synthetics, co-polyester is by far the most widely used. It's a perfect fit for the style of tennis now played, where players tend to battle it out from the back of the court rather than coming to the net. Studies indicate that the average spin from a co-polyester string is 25% greater than that from natural string or other synthetics. In a sense, the development of co-polyester strings has revolutionised the game."
+        },
+        {
+          "id": "p9",
+          "text": "However, many players go beyond these basic adjustments to the strings and make changes to the racket frame itself. For example, much of the serving power of US professional player Pete Sampras was attributed to the addition of four to five lead weights onto his rackets, and today many professionals have the weight adjusted during the manufacturing process."
+        },
+        {
+          "id": "p10",
+          "text": "Other changes to the frame involve the handle. Players have individual preferences for the shape of the handle and some will have the handle of one racket moulded onto the frame of a different racket. Other players make different changes. The professional Portuguese player Gonçalo Oliveira replaced the original grips of his rackets with something thinner because they had previously felt uncomfortable to hold."
+        },
+        {
+          "id": "p11",
+          "text": "Racket customisation and modification have pushed the standards of the game to greater levels that few could have anticipated in the days of natural strings and heavy, wooden frames, and it's exciting to see what further developments there will be in the future."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            7
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "People had expected Andy Murray to become the world's top tennis player for at least five years before 2016."
+            },
+            {
+              "n": 2,
+              "text": "The change that Andy Murray made to his rackets attracted a lot of attention."
+            },
+            {
+              "n": 3,
+              "text": "Most of the world's top players take a professional racket stringer on tour with them."
+            },
+            {
+              "n": 4,
+              "text": "Mike and Bob Bryan use rackets that are light in comparison to the majority of rackets."
+            },
+            {
+              "n": 5,
+              "text": "Werner Fischer played with a spaghetti-strung racket that he designed himself."
+            },
+            {
+              "n": 6,
+              "text": "The weather can affect how professional players adjust the strings on their rackets."
+            },
+            {
+              "n": 7,
+              "text": "It was believed that the change Pete Sampras made to his rackets contributed to his strong serve."
+            }
+          ]
+        },
+        {
+          "range": [
+            8,
+            13
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "The tennis racket and how it has changed",
+          "lines": [
+            "Mike and Bob Bryan made changes to the types of {{8}} used on their racket frames.",
+            "Players were not allowed to use the spaghetti-strung racket because of the amount of {{9}} it created.",
+            "Changes to rackets can be regarded as being as important as players' diets or the {{10}} they do.",
+            "All rackets used to have natural strings made from the {{11}} of animals.",
+            "Pete Sampras had metal {{12}} put into the frames of his rackets.",
+            "Gonçalo Oliveira changed the {{13}} on his racket handles."
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The pirates of the ancient Mediterranean",
+      "subtitle": "In the first and second millennia BCE, pirates sailed around the Mediterranean, attacking ships and avoiding pursuers",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "When one mentions pirates, an image springs to most people's minds of a crew of misfits, daredevils and adventurers in command of a tall sailing ship in the Caribbean Sea. Yet from the first to the third millennium BCE, thousands of years before these swashbucklers began spreading fear across the Caribbean, pirates prowled the Mediterranean, raiding merchant ships and threatening vital trade routes. However, despite all efforts and the might of various ancient states, piracy could not be stopped. The situation remained unchanged for thousands of years. Only when the pirates directly threatened the interests of ancient Rome did the Roman Republic organise a massive fleet to eliminate piracy. Under the command of the Roman general Pompey, Rome eradicated piracy, transforming the Mediterranean into 'Mare Nostrum' (Our Sea)."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Although piracy in the Mediterranean is first recorded in ancient Egypt during the reign of Pharaoh Amenhotep III (c 1390-1353 BCE), it is reasonable to assume it predated this powerful civilisation. This is partly due to the great importance the Mediterranean held at this time, and partly due to its geography. While the Mediterranean region is predominantly fertile, some parts are rugged and hilly, even mountainous. In the ancient times, the inhabitants of these areas relied heavily on marine resources, including fish and salt. Most had their own boats, possessed good seafaring skills, and unsurpassed knowledge of the local coastline and sailing routes. Thus, it is not surprising that during hardships, these men turned to piracy. Geography itself further benefited the pirates, with the numerous coves along the coast providing places for them to hide their boats and strike undetected. Before the invention of ocean-going caravels* in the 15th century, ships could not easily cross long distances over open water. Thus, in the ancient world most were restricted to a few well-known navigable routes that followed the coastline. Caught in a trap, a slow merchant ship laden with goods had no other option but to surrender. In addition, knowledge of the local area helped the pirates to avoid retaliation once a state fleet arrived."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "One should also add that it was not unknown in the first and second millennia BCE for governments to resort to pirates' services, especially during wartime, employing their skills and numbers against their opponents. A pirate fleet would serve in the first wave of attack, preparing the way for the navy. Some of the regions were known for providing safe harbours to pirates, who, in return, boosted the local economy."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "The first known record of a named group of Mediterranean pirates, made during the rule of ancient Egyptian Pharaoh Akhenaten (c 1353-1336 BCE), was in the Amarna Letters. These were extracts of diplomatic correspondence between the pharaoh and his allies, and covered many pressing issues, including piracy. It seems the pharaoh was troubled by two distinct pirate groups, the Lukka and the Sherden. Despite the Egyptian fleet's best efforts, the pirates continued to cause substantial disruption to regional commerce. In the letters, the king of Alashiya (modern Cyprus) rejected Akhenaten's claims of a connection with the Lukka (based in modern-day Turkey). The king assured Akhenaten he was prepared to punish any of his subjects involved in piracy."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "The ancient Greek world's experience of piracy was different from that of Egyptian rulers. While Egypt's power was land-based, the ancient Greeks relied on the Mediterranean in almost all aspects of life, from trade to warfare. Interestingly, in his works the Iliad and the Odyssey, the ancient Greek writer Homer not only condones, but praises the lifestyle and actions of pirates. The opinion remained unchanged in the following centuries. The ancient Greek historian Thucydides, for instance, glorified pirates' daring attacks on ships or even cities. For Greeks, piracy was a part of everyday life. Even high-ranking members of the state were not beyond engaging in such activities. According to the Greek orator Demosthenes, in 355 BCE, Athenian ambassadors made a detour from their official travel to capture a ship sailing from Egypt, taking the wealth found onboard for themselves! The Greeks' liberal approach towards piracy does not mean they always tolerated it, but attempts to curtail piracy were hampered by the large number of pirates operating in the Mediterranean."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "The rising power of ancient Rome required the Roman Republic to deal with piracy in the Mediterranean. While piracy was a serious issue for the Republic, Rome profited greatly from its existence. Pirate raids provided a steady source of slaves, essential for Rome's agriculture and mining industries. But this arrangement could work only while the pirates left Roman interests alone. Pirate attacks on grain ships, which were essential to Roman citizens, led to angry voices in the Senate, demanding punishment of the culprits. Rome, however, did nothing, further encouraging piracy. By the 1st century BCE, emboldened pirates kidnapped prominent Roman dignitaries, asking for a large ransom to be paid. Their most famous hostage was none other than Julius Caesar, captured in 75 BCE."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "By now, Rome was well aware that pirates had outlived their usefulness. The time had come for concerted action. In 67 BCE, a new law granted Pompey vast funds to combat the Mediterranean menace. Taking personal command, Pompey divided the entire Mediterranean into 13 districts, assigning a fleet and commander to each. After cleansing one district of pirates, the fleet would join another in the next district. The process continued until the entire Mediterranean was free of pirates. Although thousands of pirates died at the hands of Pompey's troops, as a long-term solution to the problem, many more were offered land in fertile areas located far from the sea. Instead of a maritime menace, Rome got productive farmers that further boosted its economy."
+        }
+      ],
+      "footnotes": [
+        "* caravel: a small, highly manoeuvrable sailing ship developed by the Portuguese"
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            19
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information?",
+          "limit": "Write the correct letter, A-G, in boxes 14-19 on your answer sheet. NB You may use any letter more than once.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "a reference to a denial of involvement in piracy"
+            },
+            {
+              "n": 15,
+              "text": "details of how a campaign to eradicate piracy was carried out"
+            },
+            {
+              "n": 16,
+              "text": "a mention of the circumstances in which states in the ancient world would make use of pirates"
+            },
+            {
+              "n": 17,
+              "text": "a reference to how people today commonly view pirates"
+            },
+            {
+              "n": 18,
+              "text": "an explanation of how some people were encouraged not to return to piracy"
+            },
+            {
+              "n": 19,
+              "text": "a mention of the need for many sailing vessels to stay relatively close to land"
+            }
+          ]
+        },
+        {
+          "range": [
+            20,
+            21
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO of the following statements does the writer make about inhabitants of the Mediterranean region in the ancient world?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "They often used stolen vessels to carry out pirate attacks."
+            },
+            {
+              "k": "B",
+              "text": "They managed to escape capture by the authorities because they knew the area so well."
+            },
+            {
+              "k": "C",
+              "text": "They paid for information about the routes merchant ships would take."
+            },
+            {
+              "k": "D",
+              "text": "They depended more on the sea for their livelihood than on farming."
+            },
+            {
+              "k": "E",
+              "text": "They stored many of the goods taken in pirate attacks in coves along the coastline."
+            }
+          ]
+        },
+        {
+          "range": [
+            22,
+            23
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO of the following statements does the writer make about piracy and ancient Greece?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "The state estimated that very few people were involved in piracy."
+            },
+            {
+              "k": "B",
+              "text": "Attitudes towards piracy changed shortly after the Iliad and the Odyssey were written."
+            },
+            {
+              "k": "C",
+              "text": "Important officials were known to occasionally take part in piracy."
+            },
+            {
+              "k": "D",
+              "text": "Every citizen regarded pirate attacks on cities as unacceptable."
+            },
+            {
+              "k": "E",
+              "text": "A favourable view of piracy is evident in certain ancient Greek texts."
+            }
+          ]
+        },
+        {
+          "range": [
+            24,
+            26
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Ancient Rome and piracy",
+          "text": "Piracy was an issue ancient Rome had to deal with, but it also brought some benefits for Rome. For example, pirates supplied slaves that were important for Rome's industries. However, attacks on vessels transporting {{24}} to Rome resulted in calls for {{25}} for the pirates responsible. Nevertheless, piracy continued, with some pirates demanding a {{26}} for the return of the Roman officials they captured."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "The persistence and peril of misinformation",
+      "subtitle": "Brian Southwell looks at how human brains verify information and discusses some of the challenges of battling widespread falsehoods",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Misinformation – both deliberately promoted and accidentally shared – is perhaps an inevitable part of the world in which we live, but it is not a new problem. People likely have lied to one another for roughly as long as verbal communication has existed. Deceiving others can offer an apparent opportunity to gain strategic advantage, to motivate others to action, or even to protect interpersonal bonds. Moreover, people inadvertently have been sharing inaccurate information with one another for thousands of years."
+        },
+        {
+          "id": "p2",
+          "text": "However, we currently live in an era in which technology enables information to reach large audiences distributed across the globe, and thus the potential for immediate and widespread effects from misinformation now looms larger than in the past. Yet the means to correct misinformation might, over time, be found in those same patterns of mass communication and of the facilitated spread of information."
+        },
+        {
+          "id": "p3",
+          "text": "The main worry regarding misinformation is its potential to unduly influence attitudes and behavior, leading people to think and act differently than they would if they were correctly informed, as suggested by the research teams of Stephan Lewandowsky of the University of Bristol and Elizabeth Marsh of Duke University, among others. In other words, we worry that misinformation might lead people to hold misperceptions (or false beliefs) and that these misperceptions, especially when they occur among large groups of people, may have detrimental, downstream consequences for health, social harmony, and the political climate."
+        },
+        {
+          "id": "p4",
+          "text": "At least three observations related to misinformation in the contemporary mass-media environment warrant the attention of researchers, policy makers, and really everyone who watches television, listens to the radio, or reads information online. First of all, people who encounter misinformation tend to believe it, at least initially. Secondly, electronic and print media often do not block many types of misinformation before it appears in content available to large audiences. Thirdly, countering misinformation once it has enjoyed wide exposure can be a resource-intensive effort."
+        },
+        {
+          "id": "p5",
+          "text": "Knowing what happens when people initially encounter misinformation holds tremendous importance for estimating the potential for subsequent problems. Although it is fairly routine for individuals to come across information that is false, the question of exactly how – and when – we mentally label information as true or false has garnered philosophical debate. The dilemma is neatly summarized by a contrast between how the 17th-century philosophers René Descartes and Baruch Spinoza described human information engagement, with conflicting predictions that only recently have been empirically tested in robust ways. Descartes argued that a person only accepts or rejects information after considering its truth or falsehood; Spinoza argued that people accept all encountered information (or misinformation) by default and then subsequently verify or reject it through a separate cognitive process. In recent decades, empirical evidence from the research teams of Erik Asp of the University of Chicago and Daniel Gilbert at Harvard University, among others, has supported Spinoza's account: people appear to encode all new information as if it were true, even if only momentarily, and later tag the information as being either true or false, a pattern that seems consistent with the observation that mental resources for skepticism physically reside in a different part of the brain than the resources used in perceiving and encoding."
+        },
+        {
+          "id": "p6",
+          "text": "What about our second observation that misinformation often can appear in electronic or print media without being preemptively blocked? In support of this, one might consider the nature of regulatory structures in the United States: regulatory agencies here tend to focus on post hoc detection of broadcast information. Organizations such as the Food and Drug Administration (FDA) offer considerable monitoring and notification functions, but these roles typically do not involve preemptive censoring. The FDA oversees direct-to-consumer prescription drug advertising, for example, and has developed mechanisms such as the 'Bad Ad' program, through which people can report advertising in apparent violation of FDA guidelines on drug risks. Such programs, although laudable and useful, do not keep false advertising off the airwaves. In addition, even misinformation that is successfully corrected can continue to affect attitudes."
+        },
+        {
+          "id": "p7",
+          "text": "This leads us to our third observation: a campaign to correct misinformation, even if rhetorically compelling, requires resources and planning to accomplish necessary reach and frequency. For corrective campaigns to be persuasive, audiences need to be able to comprehend them, which requires either effort to frame messages in ways that are accessible or effort to educate and sensitize audiences to the possibility of misinformation. That some audiences might be unaware of the potential for misinformation also suggests the utility of media literacy efforts as early as elementary school. Even with journalists and scholars pointing to the phenomenon of 'fake news', people do not distinguish between demonstrably false stories and those based in fact when scanning and processing written information."
+        },
+        {
+          "id": "p8",
+          "text": "We live at a time when widespread misinformation is common. Yet at this time many people also are passionately developing potential solutions and remedies. The journey forward undoubtedly will be a long and arduous one. Future remedies will require not only continued theoretical consideration but also the development and maintenance of consistent monitoring tools – and a recognition among fellow members of society that claims which find prominence in the media that are insufficiently based in scientific consensus and social reality should be countered. Misinformation arises as a result of human fallibility and human information needs. To overcome the worst effects of the phenomenon, we will need coordinated efforts over time, rather than any singular one-time panacea we could hope to offer."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 27,
+              "text": "What point does the writer make about misinformation in the first paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Misinformation is a relatively recent phenomenon."
+                },
+                {
+                  "k": "B",
+                  "text": "Some people find it easy to identify misinformation."
+                },
+                {
+                  "k": "C",
+                  "text": "Misinformation changes as it is passed from one person to another."
+                },
+                {
+                  "k": "D",
+                  "text": "There may be a number of reasons for the spread of misinformation."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "What does the writer say about the role of technology?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It may at some point provide us with a solution to misinformation."
+                },
+                {
+                  "k": "B",
+                  "text": "It could fundamentally alter the way in which people regard information."
+                },
+                {
+                  "k": "C",
+                  "text": "It has changed the way in which organisations use misinformation."
+                },
+                {
+                  "k": "D",
+                  "text": "It has made it easier for people to check whether information is accurate."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "What is the writer doing in the fourth paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "comparing the different opinions people have of misinformation"
+                },
+                {
+                  "k": "B",
+                  "text": "explaining how the effects of misinformation have changed over time"
+                },
+                {
+                  "k": "C",
+                  "text": "outlining which issues connected with misinformation are significant today"
+                },
+                {
+                  "k": "D",
+                  "text": "describing the attitude of policy makers towards misinformation in the media"
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "What point does the writer make about regulation in the USA?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "The guidelines issued by the FDA need to be simplified."
+                },
+                {
+                  "k": "B",
+                  "text": "Regulation does not affect people's opinions of new prescription drugs."
+                },
+                {
+                  "k": "C",
+                  "text": "The USA has more regulatory bodies than most other countries."
+                },
+                {
+                  "k": "D",
+                  "text": "Regulation fails to prevent misinformation from appearing in the media."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            31,
+            36
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of phrases, A-J, below.",
+          "limit": "Write the correct letter, A-J, in boxes 31-36 on your answer sheet.",
+          "title": "What happens when people encounter misinformation?",
+          "text": "Although people have {{31}} to misinformation, there is debate about precisely how and when we label something as true or untrue. The philosophers Descartes and Spinoza had {{32}} about how people engage with information. While Descartes believed that people accept or reject information after considering whether it is true or not, Spinoza argued that people accepted all information they encountered (and by default misinformation) and did not verify or reject it until afterwards. Moreover, Spinoza believed that a distinct {{33}} is involved in these stages. Recent research has provided {{34}} for Spinoza's theory and it would appear that people accept all encountered information as if it were true, even if this is for an extremely {{35}}, and do not label the information as true or false until later. This is consistent with the fact that the resources for scepticism and the resources for perceiving and encoding are in {{36}} in the brain.",
+          "options": [
+            {
+              "k": "A",
+              "text": "constant conflict"
+            },
+            {
+              "k": "B",
+              "text": "additional evidence"
+            },
+            {
+              "k": "C",
+              "text": "different locations"
+            },
+            {
+              "k": "D",
+              "text": "experimental subjects"
+            },
+            {
+              "k": "E",
+              "text": "short period"
+            },
+            {
+              "k": "F",
+              "text": "extreme distrust"
+            },
+            {
+              "k": "G",
+              "text": "frequent exposure"
+            },
+            {
+              "k": "H",
+              "text": "mental operation"
+            },
+            {
+              "k": "I",
+              "text": "dubious reason"
+            },
+            {
+              "k": "J",
+              "text": "different ideas"
+            }
+          ]
+        },
+        {
+          "range": [
+            37,
+            40
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 37,
+              "text": "Campaigns designed to correct misinformation will fail to achieve their purpose if people are unable to understand them."
+            },
+            {
+              "n": 38,
+              "text": "Attempts to teach elementary school students about misinformation have been opposed."
+            },
+            {
+              "n": 39,
+              "text": "It may be possible to overcome the problem of misinformation in a relatively short period."
+            },
+            {
+              "n": 40,
+              "text": "The need to keep up with new information is hugely exaggerated in today's world."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "FALSE"
+    ],
+    "2": [
+      "FALSE"
+    ],
+    "3": [
+      "NOT GIVEN"
+    ],
+    "4": [
+      "FALSE"
+    ],
+    "5": [
+      "NOT GIVEN"
+    ],
+    "6": [
+      "TRUE"
+    ],
+    "7": [
+      "TRUE"
+    ],
+    "8": [
+      "paint"
+    ],
+    "9": [
+      "topspin"
+    ],
+    "10": [
+      "training"
+    ],
+    "11": [
+      "intestines",
+      "gut"
+    ],
+    "12": [
+      "weights"
+    ],
+    "13": [
+      "grips"
+    ],
+    "14": [
+      "D"
+    ],
+    "15": [
+      "G"
+    ],
+    "16": [
+      "C"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "G"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "B",
+      "D"
+    ],
+    "21": [
+      "B",
+      "D"
+    ],
+    "22": [
+      "C",
+      "E"
+    ],
+    "23": [
+      "C",
+      "E"
+    ],
+    "24": [
+      "grain"
+    ],
+    "25": [
+      "punishment"
+    ],
+    "26": [
+      "ransom"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "C"
+    ],
+    "30": [
+      "D"
+    ],
+    "31": [
+      "G"
+    ],
+    "32": [
+      "J"
+    ],
+    "33": [
+      "H"
+    ],
+    "34": [
+      "B"
+    ],
+    "35": [
+      "E"
+    ],
+    "36": [
+      "C"
+    ],
+    "37": [
+      "YES"
+    ],
+    "38": [
+      "NOT GIVEN"
+    ],
+    "39": [
+      "NO"
+    ],
+    "40": [
+      "NOT GIVEN"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "key": "he had been regarded as a talented outsider who entered but never won the major tournaments",
+      "why": "题干说人们五年前就预期穆雷会成为世界第一，但原文说他当时被视为「有才华的门外汉」，从未赢过大赛冠军 → 矛盾，FALSE。"
+    },
+    "2": {
+      "loc": "p2",
+      "key": "Another change was so subtle as to pass more or less unnoticed",
+      "why": "题干说这项改动吸引了很多关注，但原文说这个改变太细微，几乎没人注意到 → FALSE。"
+    },
+    "3": {
+      "loc": "p3",
+      "key": "Touring professionals have their rackets customised to their specific needs, says Colin Triplow, a UK-based professional racket stringer",
+      "why": "原文只提到球拍会被定制，专业穿线师会发表评论，并没有说大多数顶级选手会带着专属穿线师一起巡回比赛 → NOT GIVEN。"
+    },
+    "4": {
+      "loc": "p3",
+      "key": "The rackets they use now weigh more than the average model",
+      "why": "原文说他们现在用的球拍比一般型号更重，与题干「更轻」矛盾 → FALSE。"
+    },
+    "5": {
+      "loc": "p5",
+      "key": "the amateur German tennis player Werner Fischer started playing with the so-called spaghetti-strung racket",
+      "why": "原文只说他开始使用这种意大利面串线球拍，并未提及球拍是否由他自己设计 → NOT GIVEN。"
+    },
+    "6": {
+      "loc": "p6",
+      "key": "They will continually change it depending on various factors including the court surface, climatic conditions, and game styles",
+      "why": "题干 weather = 原文 climatic conditions，选手确实会据此调整穿线 → TRUE。"
+    },
+    "7": {
+      "loc": "p9",
+      "key": "much of the serving power of US professional player Pete Sampras was attributed to the addition of four to five lead weights onto his rackets",
+      "why": "题干 strong serve = 原文 serving power，attributed to 表明人们认为发球力量的提升归功于加装的铅块 → TRUE。"
+    },
+    "8": {
+      "loc": "p3",
+      "key": "even experimented with different kinds of paint",
+      "why": "题干 types of ... used on their racket frames = 原文 different kinds of paint，答案 paint。"
+    },
+    "9": {
+      "loc": "p5",
+      "key": "It created a string bed that generated so much topspin that it was quickly banned",
+      "why": "因为产生的上旋（topspin）太多而被禁用，答案 topspin。"
+    },
+    "10": {
+      "loc": "p5",
+      "key": "it is, in many ways, an aspect of the game that is equal in significance to nutrition or training",
+      "why": "题干 diets = 原文 nutrition，另一项并列的是 training，答案 training。"
+    },
+    "11": {
+      "loc": "p7",
+      "key": "all tennis rackets were strung with natural gut made from the outer layer of sheep or cow intestines",
+      "why": "天然弦线取自动物的 intestines（肠子），答案 intestines/gut。"
+    },
+    "12": {
+      "loc": "p9",
+      "key": "the addition of four to five lead weights onto his rackets",
+      "why": "题干 metal ... put into the frames = 原文 lead weights，答案 weights。"
+    },
+    "13": {
+      "loc": "p10",
+      "key": "Gonçalo Oliveira replaced the original grips of his rackets with something thinner",
+      "why": "他更换的是球拍手柄上的 grips（握把），答案 grips。"
+    },
+    "14": {
+      "loc": "D",
+      "key": "the king of Alashiya (modern Cyprus) rejected Akhenaten's claims of a connection with the Lukka",
+      "why": "塞浦路斯国王否认（rejected）与海盗集团 Lukka 有关联，即对参与海盗活动的否认。"
+    },
+    "15": {
+      "loc": "G",
+      "key": "Pompey divided the entire Mediterranean into 13 districts, assigning a fleet and commander to each. After cleansing one district of pirates, the fleet would join another",
+      "why": "G 段详细描述了庞培清剿海盗这一行动是如何具体展开的。"
+    },
+    "16": {
+      "loc": "C",
+      "key": "it was not unknown in the first and second millennia BCE for governments to resort to pirates' services, especially during wartime",
+      "why": "C 段提到政府会在战争时期（during wartime）利用海盗的服务。"
+    },
+    "17": {
+      "loc": "A",
+      "key": "an image springs to most people's minds of a crew of misfits, daredevils and adventurers in command of a tall sailing ship in the Caribbean Sea",
+      "why": "A 段描述了现代人对海盗的普遍印象（加勒比海盗的形象）。"
+    },
+    "18": {
+      "loc": "G",
+      "key": "many more were offered land in fertile areas located far from the sea. Instead of a maritime menace, Rome got productive farmers",
+      "why": "庞培给海盗提供远离海洋的肥沃土地，把他们变成农民，从而让他们不再重操旧业。"
+    },
+    "19": {
+      "loc": "B",
+      "key": "ships could not easily cross long distances over open water. Thus, in the ancient world most were restricted to a few well-known navigable routes that followed the coastline",
+      "why": "题干 sailing vessels to stay relatively close to land = 原文船只被限制在沿海航线上航行。"
+    },
+    "20": {
+      "loc": "B",
+      "key": "knowledge of the local area helped the pirates to avoid retaliation once a state fleet arrived",
+      "why": "沿海居民凭借对当地地形的了解躲避官方追捕，对应 B 选项「因为熟悉当地而躲过追捕」。"
+    },
+    "21": {
+      "loc": "B",
+      "key": "the inhabitants of these areas relied heavily on marine resources, including fish and salt",
+      "why": "沿海居民严重依赖海洋资源谋生，对应 D 选项「靠海谋生多于务农」。"
+    },
+    "22": {
+      "loc": "E",
+      "key": "Even high-ranking members of the state were not beyond engaging in such activities … Athenian ambassadors made a detour … to capture a ship",
+      "why": "连身居高位的官员也会参与海盗行为，对应 C 选项「重要官员偶尔参与海盗活动」。"
+    },
+    "23": {
+      "loc": "E",
+      "key": "the ancient Greek writer Homer not only condones, but praises the lifestyle and actions of pirates",
+      "why": "荷马在作品中赞美海盗的生活方式，说明古希腊文献中对海盗有正面评价，对应 E 选项。"
+    },
+    "24": {
+      "loc": "F",
+      "key": "Pirate attacks on grain ships, which were essential to Roman citizens",
+      "why": "题干 vessels transporting ... to Rome = 原文 grain ships，答案 grain。"
+    },
+    "25": {
+      "loc": "F",
+      "key": "led to angry voices in the Senate, demanding punishment of the culprits",
+      "why": "元老院要求对海盗施以惩罚（punishment），答案 punishment。"
+    },
+    "26": {
+      "loc": "F",
+      "key": "kidnapped prominent Roman dignitaries, asking for a large ransom to be paid",
+      "why": "海盗绑架罗马官员并索要赎金（ransom），答案 ransom。"
+    },
+    "27": {
+      "loc": "p1",
+      "key": "Deceiving others can offer an apparent opportunity to gain strategic advantage, to motivate others to action, or even to protect interpersonal bonds",
+      "why": "第一段列举了造成虚假信息传播的多种原因（获取优势、激励行动、维系关系等）→ D「传播虚假信息可能有多种原因」。"
+    },
+    "28": {
+      "loc": "p2",
+      "key": "Yet the means to correct misinformation might, over time, be found in those same patterns of mass communication",
+      "why": "作者说科技带来的大众传播模式未来也可能成为纠正虚假信息的手段 → A「科技也许有朝一日能为我们提供解决方案」。"
+    },
+    "29": {
+      "loc": "p4",
+      "key": "At least three observations related to misinformation in the contemporary mass-media environment warrant the attention",
+      "why": "第四段用 Firstly/Secondly/Thirdly 列出了当下与虚假信息相关的三个重要问题 → C「概述当今与虚假信息相关的重要议题」。"
+    },
+    "30": {
+      "loc": "p6",
+      "key": "these roles typically do not involve preemptive censoring … do not keep false advertising off the airwaves",
+      "why": "美国的监管机构无法阻止虚假广告/信息出现在媒体上 → D「监管未能阻止虚假信息出现在媒体中」。"
+    },
+    "31": {
+      "loc": "p4",
+      "key": "people who encounter misinformation tend to believe it, at least initially",
+      "why": "题干 have ... to misinformation = 人们频繁接触（exposure）虚假信息，答案 frequent exposure（G）。"
+    },
+    "32": {
+      "loc": "p5",
+      "key": "Descartes argued that a person only accepts or rejects information after considering its truth or falsehood; Spinoza argued that people accept all encountered information … by default",
+      "why": "笛卡尔和斯宾诺莎对人们如何处理信息持有不同的观点，答案 different ideas（J）。"
+    },
+    "33": {
+      "loc": "p5",
+      "key": "then subsequently verify or reject it through a separate cognitive process",
+      "why": "题干 a distinct ... is involved = 原文 a separate cognitive process，答案 mental operation（H）。"
+    },
+    "34": {
+      "loc": "p5",
+      "key": "In recent decades, empirical evidence … has supported Spinoza's account",
+      "why": "近期的实证研究为斯宾诺莎的理论提供了额外的证据，答案 additional evidence（B）。"
+    },
+    "35": {
+      "loc": "p5",
+      "key": "people appear to encode all new information as if it were true, even if only momentarily",
+      "why": "题干 extremely ... = 原文 momentarily（短暂），答案 short period（E）。"
+    },
+    "36": {
+      "loc": "p5",
+      "key": "mental resources for skepticism physically reside in a different part of the brain than the resources used in perceiving and encoding",
+      "why": "怀疑和感知/编码所用的脑区不同，答案 different locations（C）。"
+    },
+    "37": {
+      "loc": "p7",
+      "key": "For corrective campaigns to be persuasive, audiences need to be able to comprehend them",
+      "why": "原文说纠正性宣传要有说服力，受众必须能够理解，若无法理解则会失败，与题干一致 → YES。"
+    },
+    "38": {
+      "loc": "p7",
+      "key": "also suggests the utility of media literacy efforts as early as elementary school",
+      "why": "原文只说媒介素养教育应尽早在小学阶段展开，并未提及这类尝试遭到过反对 → NOT GIVEN。"
+    },
+    "39": {
+      "loc": "p8",
+      "key": "The journey forward undoubtedly will be a long and arduous one",
+      "why": "作者明确说解决虚假信息问题的道路会是漫长而艰难的，与题干「较短时间内可能解决」矛盾 → NO。"
+    },
+    "40": {
+      "loc": "p8",
+      "key": "We live at a time when widespread misinformation is common",
+      "why": "原文只讨论虚假信息普遍存在的问题，并未评价「人们对了解最新信息的需求是否被夸大」→ NOT GIVEN。"
+    }
+  }
+}
