@@ -1,0 +1,59 @@
+{
+  "id": "c17t3",
+  "book": "剑桥雅思17",
+  "test": 3,
+  "title": "剑17 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "bar-chart",
+      "kindZh": "柱状图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The chart below gives information about how families in one country spent their weekly income in 1968 and in 2018.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c17t3-task1.png",
+      "imageCaption": "1968 and 2018: average weekly spending by families",
+      "data": {
+        "unit": "% of weekly income",
+        "years": [1968, 2018],
+        "series": {
+          "Food": [35, 17],
+          "Housing": [10, 19],
+          "Fuel and power": [6, 4],
+          "Clothing and footware": [10, 5],
+          "Household goods": [8, 8],
+          "Personal goods": [8, 4],
+          "Transport": [8, 14],
+          "Leisure": [9, 22]
+        }
+      },
+      "sample": {
+        "band": 5.5,
+        "text": "The chart describes the data about families weekly expenditure prospects in 1968 and in 2018.\n\nThe most significant spent rate is on food with a 35% ratio in the year 1968. Housing and clothing come next with the same prospect of 10% of the weekly income. Expenditure on leisure, transport, personal goods and household goods are almost same percentage, the former one is slightly more. Lastly, spent rates on fuel and the others are recorded the least with a 6% in the year of 1968.\n\nTurning to 2018, food expenditure of families had dropped dramatically to a percentage between 15 to 20. On the other hand, housing spent had rised significantly with an almost 20% slightly more than food expenditures. The most crucial rise was recorded on leisure spent rates. It had soared abut 10% in 50 years. Transportation expeditures comes after and followed by Household goods and the othe categories respetively. Last three had remained the least just as in 1968 which is fuel and power, clothing and footware and personal goods.\n\nOverall, weekly expenditure averages of families had dramatically changed over 50 years. Some spent rates had remained the same whereas some of the alterations are quite noticable.",
+        "comment": "This response clearly presents the data from the bar graph. The candidate presents all the data for 1968 first and then the data for 2018. There is an overview in the final sentence, but it should summarise the main changes from the bar chart rather than just saying that expenditure 'had … changed'. Information is arranged coherently into four paragraphs, and there is clear overall progression. A range of cohesive devices is used [Turning to 2018 | followed by | whereas] with an awareness of referencing [former one | the othe categories | Last three].\n\nThere are some less common examples of vocabulary [dropped dramatically to | rised significantly | soared]. Errors remain [spent rates / expenditure | housing spent / housing costs] but do not impede communication. Similarly, grammatical structures include some complex forms [had dropped … to] and sentences with multiple clauses; however, there are errors, including inconsistent use of articles and with past tenses.\n\nTo improve the response, a summary of the main trends from the bar chart is needed in the overview; for example, the candidate could say that there has been a significant decrease in spending on food over the 50-year period, but the cost of leisure, housing and transport has significantly increased.",
+        "exampleOverview": "Overall, spending on food fell dramatically as a share of weekly income between 1968 and 2018, while spending on leisure, housing and transport increased significantly over the same period. Spending on household goods remained unchanged."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe they should be free to work in another country if they wish.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 6.5,
+        "text": "As the number of professionals workking abroad increases, it is often discussed whether they should stay where hey did their trainings or they should be free to move to another country if they desired to. While I believe theat a person should be free to migrate, I agree that it has negative effects on the country of training.\n\nOn the one hand, professionals who decide to work abroad are seeking for a different lifestyle and career opportunities. Therefore, they should be allowed to improve their lives outside the limitations of their country of origin. For example, whilst in Spain residents in a hospital do not have hands-on experience due to safety measures, in other countries such as Argentina, residents actually practice their skills with patients. Besides, cultural exchanges have proven to increase efficiency, since different nationalities mean different believes and the introduction of new methods.\n\nOn the other hand, when professionals leave the country where they trained, countries are damaged socially and economically. In countries where the government provides free education and healthcare, many people think that the population should compensate the country with their skills and abilities. Furthermore, as a study fo South African emigration has pointed out when a professional lease the country it results in the loss of 10 unskilled jobs. Therefore it affect the economy and the community.\n\nTaking everything into account, it can be said that miving out from the country of training should not be taken lightly, given the adverse effects on the population. However, I firmly believe that someone's professional development should not depend on their country of origin and professionals should be allowed to look for better opportunities overseas.",
+        "comment": "This response addresses both parts of the question. Both views are considered and an opinion is given. For a higher rating, fuller coverage on the first point, the requirement to 'work in the country where they did their training' could be included. Organisation is logical and there is clear progression thorough the four paragraphs.\n\nThe range of vocabulary is good with examples of higher-level items [hands-on experience | compensate | better opportunities overseas], but there are a number of errors [theat / that | believes / beliefs | lease / leaves | miving / moving]. Similarly, the range of grammatical structures is reasonable, but the level of error means the Band Score cannot be higher than 6.5."
+      }
+    }
+  ]
+}

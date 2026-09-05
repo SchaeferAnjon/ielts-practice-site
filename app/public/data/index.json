@@ -262,7 +262,11 @@
    "bookNo": 17,
    "test": 2,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
    "audioParts": []
   },
   {
@@ -272,7 +276,11 @@
    "bookNo": 17,
    "test": 3,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
    "audioParts": []
   },
   {
