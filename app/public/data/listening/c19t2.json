@@ -1,0 +1,1704 @@
+{
+  "id": "c19t2",
+  "book": "剑桥雅思19",
+  "test": 2,
+  "title": "剑19 Test 2 · Listening",
+  "source": "Cambridge IELTS 19 Academic, Test 2（文字层抽取 + 人工校对）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c19/t2p1.mp3",
+      "duration": 482,
+      "title": "Guitar Group",
+      "groups": [
+        {
+          "range": [
+            1,
+            6
+          ],
+          "type": "notes",
+          "instruction": "Complete the form below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Guitar Group",
+          "lines": [
+            "Coordinator: Gary {{1}}",
+            "Level: {{2}}",
+            "Place: the {{3}}",
+            "{{4}} Street",
+            "First floor, Room T347",
+            "Time: Thursday morning at {{5}}",
+            "Recommended website: 'The perfect {{6}}'"
+          ]
+        },
+        {
+          "range": [
+            7,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "A typical 45-minute guitar lesson",
+          "table": {
+            "head": [
+              "Time",
+              "Activity",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "5 minutes",
+                "tuning guitars",
+                "using an app or by {{7}}"
+              ],
+              [
+                "10 minutes",
+                "strumming chords using our thumbs",
+                "keeping time while the teacher is {{8}}"
+              ],
+              [
+                "15 minutes",
+                "playing songs",
+                "often listening to a {{9}} of a song"
+              ],
+              [
+                "10 minutes",
+                "playing single notes and simple tunes",
+                "playing together, then {{10}}"
+              ],
+              [
+                "5 minutes",
+                "noting things to practise at home",
+                ""
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "WOMAN",
+          "t": "Hi Coleman, how are you?",
+          "start": 92.07,
+          "end": 93.87
+        },
+        {
+          "s": "COLEMAN",
+          "t": "Good, thanks.",
+          "start": 94.19,
+          "end": 95.03
+        },
+        {
+          "s": "WOMAN",
+          "t": "I wanted to have a chat with you because our friend Josh told me that you've joined a guitar group and it sounds interesting. I'd really like to learn myself.",
+          "start": 95.83,
+          "end": 106.6
+        },
+        {
+          "s": "COLEMAN",
+          "t": "Why don't you come along? I'm sure there's room for another person.",
+          "start": 107.12,
+          "end": 111.44
+        },
+        {
+          "s": "WOMAN",
+          "t": "Really? So — who runs the classes?",
+          "start": 111.88,
+          "end": 115.61
+        },
+        {
+          "s": "COLEMAN",
+          "t": "He's called a 'coordinator' — his name's Gary Mathieson.",
+          "q": [
+            1
+          ],
+          "start": 116.65,
+          "end": 120.57
+        },
+        {
+          "s": "WOMAN",
+          "t": "Let me note that down. Gary. ... How do you spell his surname?",
+          "start": 122.57,
+          "end": 127.93
+        },
+        {
+          "s": "COLEMAN",
+          "t": "It's M-A-T-H-I-E-S-O-N.",
+          "start": 128.85,
+          "end": 139.15
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right, thanks.",
+          "start": 139.19,
+          "end": 140.79
+        },
+        {
+          "s": "COLEMAN",
+          "t": "He's retired, actually, but he's a really nice guy and he used to play in a lot of bands.",
+          "start": 141.75,
+          "end": 148.55
+        },
+        {
+          "s": "WOMAN",
+          "t": "Thanks. So how long have you been going?",
+          "start": 148.95,
+          "end": 153.95
+        },
+        {
+          "s": "COLEMAN",
+          "t": "About a month now.",
+          "start": 154.27,
+          "end": 156.11
+        },
+        {
+          "s": "WOMAN",
+          "t": "And could you play anything before you started?",
+          "start": 156.86,
+          "end": 159.78
+        },
+        {
+          "s": "COLEMAN",
+          "t": "I knew a few chords, but that's all.",
+          "start": 160.94,
+          "end": 163.62
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm sure everyone will be better than me.",
+          "start": 163.94,
+          "end": 166.38
+        },
+        {
+          "s": "COLEMAN",
+          "t": "That's what I thought, too. When I first spoke to Gary on the phone, he said it was a class for beginners, but I was still worried that everyone would be better than me, but we were all equally hopeless!",
+          "q": [
+            2
+          ],
+          "start": 167.1,
+          "end": 181.24
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, that's reassuring. So where do you meet?",
+          "start": 181.64,
+          "end": 186.6
+        },
+        {
+          "s": "COLEMAN",
+          "t": "Well, when I joined the group, they were meeting in Gary's home, but as the group got bigger, he decided to book a room at the college in town. I prefer going there.",
+          "q": [
+            3
+          ],
+          "start": 187.4,
+          "end": 199.58
+        },
+        {
+          "s": "WOMAN",
+          "t": "I know that place. I used to go to tap dancing classes there when I was at secondary school. I haven't been since, though and I can't remember what road it's in ... is it Lock Street?",
+          "start": 200.42,
+          "end": 215.78
+        },
+        {
+          "s": "COLEMAN",
+          "t": "It's just beyond there at the bottom of New Street near the city roundabout.",
+          "q": [
+            4
+          ],
+          "start": 216.86,
+          "end": 222.94
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, of course.",
+          "start": 223.18,
+          "end": 224.78
+        },
+        {
+          "s": "COLEMAN",
+          "t": "The guitar club is on the first floor in Room T347.",
+          "start": 225.55,
+          "end": 231.63
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right. And when do you meet? Is it at the weekend?",
+          "start": 231.87,
+          "end": 237.75
+        },
+        {
+          "s": "COLEMAN",
+          "t": "We meet on Thursdays. It used to be 10.30 and that suited me well, but now we meet at 11. The class that's in there before us asked if they could have the room for another 30 minutes.",
+          "q": [
+            5
+          ],
+          "start": 238.71,
+          "end": 254.82
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, I see. Well, I'd love to come, but I don't have a guitar.",
+          "start": 255.18,
+          "end": 262.31
+        },
+        {
+          "s": "COLEMAN",
+          "t": "Well, you can always buy a second-hand one. There's a website called 'The perfect instrument' that sells all kinds of guitars, violins and so on. I'm sure you'll find something there.",
+          "q": [
+            6
+          ],
+          "start": 263.23,
+          "end": 277.31
+        },
+        {
+          "s": "WOMAN",
+          "t": "So what's a typical lesson like with Gary?",
+          "start": 314.44,
+          "end": 317.8
+        },
+        {
+          "s": "COLEMAN",
+          "t": "Well, he always starts by getting us to tune our guitars. That takes about five minutes.",
+          "start": 318.96,
+          "end": 325.84
+        },
+        {
+          "s": "WOMAN",
+          "t": "Uh huh.",
+          "start": 326.24,
+          "end": 327.08
+        },
+        {
+          "s": "COLEMAN",
+          "t": "Some people have an app they use, but others do it by ear. Gary goes round and helps them. And while he's doing that, he tells us what he's going to do during the lesson.",
+          "q": [
+            7
+          ],
+          "start": 327.96,
+          "end": 341.68
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right.",
+          "start": 341.88,
+          "end": 342.68
+        },
+        {
+          "s": "COLEMAN",
+          "t": "First, we usually spend about ten minutes doing some strumming.",
+          "start": 342.68,
+          "end": 349.12
+        },
+        {
+          "s": "WOMAN",
+          "t": "So is that using ... what are they called ... plectrums?",
+          "start": 350.36,
+          "end": 356.64
+        },
+        {
+          "s": "COLEMAN",
+          "t": "No — we just use our thumbs.",
+          "start": 357.64,
+          "end": 360.2
+        },
+        {
+          "s": "WOMAN",
+          "t": "Much easier.",
+          "start": 361.04,
+          "end": 362.32
+        },
+        {
+          "s": "COLEMAN",
+          "t": "Gary reminds us where to put our fingers for each chord and then we play them together. Sometimes we all just start laughing because we're so bad at keeping time, so Gary starts clapping to help us.",
+          "q": [
+            8
+          ],
+          "start": 363.24,
+          "end": 379.2
+        },
+        {
+          "s": "WOMAN",
+          "t": "Do you learn to play any songs?",
+          "start": 380.2,
+          "end": 382.2
+        },
+        {
+          "s": "COLEMAN",
+          "t": "Yes — we do at least one song with words and chords. I mean that's harder than you think.",
+          "start": 383.0,
+          "end": 390.72
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, I'm sure it is!",
+          "start": 390.88,
+          "end": 393.04
+        },
+        {
+          "s": "COLEMAN",
+          "t": "That part of the lesson takes about 15 minutes. He often brings a recording of the song and plays it to us first. Then he hands out the song and if there's a new chord in it, we practise that before we play it together — but really slowly.",
+          "q": [
+            9
+          ],
+          "start": 394.04,
+          "end": 414.18
+        },
+        {
+          "s": "WOMAN",
+          "t": "Do you do any finger picking?",
+          "start": 415.59,
+          "end": 417.47
+        },
+        {
+          "s": "COLEMAN",
+          "t": "That's the last ten minutes of the lesson, when we pick out the individual notes from a tune he's made up. It's always quite simple.",
+          "start": 418.63,
+          "end": 428.16
+        },
+        {
+          "s": "WOMAN",
+          "t": "That must be hard, though.",
+          "start": 429.04,
+          "end": 430.44
+        },
+        {
+          "s": "COLEMAN",
+          "t": "It is, but people like it because they can really concentrate and if we're all playing well, it sounds quite impressive. The only trouble is that he sometimes gets us to play one at a time — you know, alone.",
+          "q": [
+            10
+          ],
+          "start": 431.36,
+          "end": 449.29
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's scary.",
+          "start": 450.81,
+          "end": 451.61
+        },
+        {
+          "s": "COLEMAN",
+          "t": "It is, but I've got used to it now. At the end he spends about five minutes telling us what to practise for the following week.",
+          "start": 452.65,
+          "end": 462.71
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, thanks Coleman. I'll go and have a look at that website, I think.",
+          "start": 463.75,
+          "end": 468.99
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c19/t2p2.mp3",
+      "duration": 384,
+      "title": "Working as a lifeboat volunteer",
+      "groups": [
+        {
+          "range": [
+            11,
+            16
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Working as a lifeboat volunteer",
+          "questions": [
+            {
+              "n": 11,
+              "text": "What made David leave London and move to Northsea?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "He was eager to develop a hobby."
+                },
+                {
+                  "k": "B",
+                  "text": "He wanted to work shorter hours."
+                },
+                {
+                  "k": "C",
+                  "text": "He found his job in website design unsatisfying."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "The Lifeboat Institution in Northsea was built with money provided by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a local organisation."
+                },
+                {
+                  "k": "B",
+                  "text": "a local resident."
+                },
+                {
+                  "k": "C",
+                  "text": "the local council."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "In his health assessment, the doctor was concerned about the fact that David",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "might be colour blind."
+                },
+                {
+                  "k": "B",
+                  "text": "was rather short-sighted."
+                },
+                {
+                  "k": "C",
+                  "text": "had undergone eye surgery."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "After arriving at the lifeboat station, they aim to launch the boat within",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "five minutes."
+                },
+                {
+                  "k": "B",
+                  "text": "six to eight minutes."
+                },
+                {
+                  "k": "C",
+                  "text": "eight and a half minutes."
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "As a 'helmsman', David has the responsibility of deciding",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "who will be the members of his crew."
+                },
+                {
+                  "k": "B",
+                  "text": "what equipment it will be necessary to take."
+                },
+                {
+                  "k": "C",
+                  "text": "if the lifeboat should be launched."
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "As well as going out on the lifeboat, David",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "gives talks on safety at sea."
+                },
+                {
+                  "k": "B",
+                  "text": "helps with fundraising."
+                },
+                {
+                  "k": "C",
+                  "text": "recruits new volunteers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            18
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO things does David say about the lifeboat volunteer training?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "The residential course developed his leadership skills."
+            },
+            {
+              "k": "B",
+              "text": "The training in use of ropes and knots was quite brief."
+            },
+            {
+              "k": "C",
+              "text": "The training exercises have built up his mental strength."
+            },
+            {
+              "k": "D",
+              "text": "The casualty care activities were particularly challenging for him."
+            },
+            {
+              "k": "E",
+              "text": "The wave tank activities provided practice in survival techniques."
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO things does David find most motivating about the work he does?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "working as part of a team"
+            },
+            {
+              "k": "B",
+              "text": "experiences when working in winter"
+            },
+            {
+              "k": "C",
+              "text": "being thanked by those he has helped"
+            },
+            {
+              "k": "D",
+              "text": "the fact that it keeps him fit"
+            },
+            {
+              "k": "E",
+              "text": "the chance to develop new equipment"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "I never really planned to be a lifeboat volunteer when I came to live in Northsea.",
+          "start": 69.82,
+          "end": 73.42
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'd been working in London as a website designer, but although that was interesting, I didn't like city life.",
+          "start": 74.9,
+          "end": 81.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'd been really keen on boats as a teenager, and I thought if I went to live by the sea, I might be able to pursue that interest a bit more in my free time.",
+          "q": [
+            11
+          ],
+          "start": 82.27,
+          "end": 91.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then I found that the Lifeboat Institution was looking for volunteers, so I decided to apply.",
+          "start": 92.51,
+          "end": 98.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Lifeboat Institution building here in Northsea's hard to miss, it's one of the largest in the country.",
+          "start": 99.44,
+          "end": 106.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It was built 15 years ago with funds provided by a generous member of the public who'd lived here all her life.",
+          "q": [
+            12
+          ],
+          "start": 106.96,
+          "end": 113.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As the Lifeboat Institution is a charity that relies on that kind of donation, rather than funding provided by the government, that was a huge help to us.",
+          "start": 114.15,
+          "end": 122.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When I applied, I had to have a health assessment.",
+          "start": 123.99,
+          "end": 126.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The doctors were particularly interested in my vision.",
+          "start": 127.59,
+          "end": 130.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I used to be short-sighted, so I'd had to wear glasses, but I'd had laser eye surgery two years earlier so that was OK.",
+          "start": 131.39,
+          "end": 139.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They gave me tests for colour blindness and they thought I might have a problem there, but it turned out I was OK.",
+          "q": [
+            13
+          ],
+          "start": 140.18,
+          "end": 147.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When the coastguard gets an alert, all the volunteers are contacted and rush to the lifeboat station.",
+          "start": 148.3,
+          "end": 154.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our target's to get there in five minutes, then we try to get the boat off the dock and out to sea in another six to eight minutes.",
+          "q": [
+            14
+          ],
+          "start": 155.02,
+          "end": 163.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our team's proud that we usually achieve that — the average time across the country's eight and a half minutes.",
+          "start": 164.7,
+          "end": 170.82
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I've recently qualified as what's called a 'helmsman', which means I have the ultimate responsibility for the lifeboat.",
+          "start": 172.85,
+          "end": 179.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I have to check that the equipment we use is in working order — the crew have special life jackets that can support up to four people in the water.",
+          "start": 180.81,
+          "end": 189.27
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And it's ultimately my decision whether it's safe to launch the boat.",
+          "q": [
+            15
+          ],
+          "start": 189.95,
+          "end": 193.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But it's very rare not to launch it, even in the worst weather.",
+          "start": 194.74,
+          "end": 198.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As well as going out on the lifeboat, my work involves other things too.",
+          "start": 199.72,
+          "end": 203.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A lot of people underestimate how quickly conditions can change at sea, so I speak to youth groups and sailing clubs in the area about the sorts of problems that sailors and swimmers can have if the weather suddenly gets bad.",
+          "q": [
+            16
+          ],
+          "start": 204.0,
+          "end": 218.51
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We also have a lot of volunteers who organise activities to raise money for us, and we couldn't manage without them.",
+          "start": 219.63,
+          "end": 227.31
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The training we get is a continuous process, focusing on technical competence and safe handling techniques, and it's given me the confidence to deal with extreme situations without panicking.",
+          "q": [
+            17,
+            18
+          ],
+          "start": 264.78,
+          "end": 277.86
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I was glad I'd done a first aid course before I started, as that's a big help with the casualty care activities we do.",
+          "start": 279.12,
+          "end": 286.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We've done a lot on how to deal with ropes and tie knots — that's an essential skill.",
+          "start": 287.66,
+          "end": 292.9
+        },
+        {
+          "s": "SPEAKER",
+          "t": "After a year, I did a one-week residential course, led by specialists.",
+          "start": 293.1,
+          "end": 298.99
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They had a wave-tank where they could create extreme weather conditions — so we could get experience at what to do if the boat turned over in a storm at night, for example.",
+          "q": [
+            17,
+            18
+          ],
+          "start": 299.59,
+          "end": 309.67
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Since I started, I've had to deal with a range of emergency situations.",
+          "start": 311.39,
+          "end": 315.63
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But the work's hugely motivating.",
+          "start": 316.51,
+          "end": 318.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's not just about saving lives — I've learned a lot about the technology involved.",
+          "start": 319.51,
+          "end": 325.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "My background in IT's been useful here, and I can use my expertise to help other volunteers.",
+          "start": 326.05,
+          "end": 331.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They're a great group — we're like a family really, which helps when you're dragging yourself out of bed on a cold stormy night.",
+          "q": [
+            19,
+            20
+          ],
+          "start": 332.81,
+          "end": 340.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But actually, it's the colder months that can be the most rewarding time.",
+          "start": 341.21,
+          "end": 345.61
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's when the incidents tend to be more serious, and you realise that you can make a huge difference to the outcome.",
+          "q": [
+            19,
+            20
+          ],
+          "start": 346.57,
+          "end": 353.09
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So if any of you listeners are interested ...",
+          "start": 353.93,
+          "end": 356.69
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c19/t2p3.mp3",
+      "duration": 411,
+      "title": "Recycling footwear",
+      "groups": [
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 21,
+              "text": "At first, Don thought the topic of recycling footwear might be too",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "limited in scope."
+                },
+                {
+                  "k": "B",
+                  "text": "hard to research."
+                },
+                {
+                  "k": "C",
+                  "text": "boring for listeners."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "When discussing trainers, Bella and Don disagree about",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "how popular they are among young people."
+                },
+                {
+                  "k": "B",
+                  "text": "how suitable they are for school."
+                },
+                {
+                  "k": "C",
+                  "text": "how quickly they wear out."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "Bella says that she sometimes recycles shoes because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "they no longer fit."
+                },
+                {
+                  "k": "B",
+                  "text": "she no longer likes them."
+                },
+                {
+                  "k": "C",
+                  "text": "they are no longer in fashion."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "What did the article say that confused Don?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Public consumption of footwear has risen."
+                },
+                {
+                  "k": "B",
+                  "text": "Less footwear is recycled now than in the past."
+                },
+                {
+                  "k": "C",
+                  "text": "People dispose of more footwear than they used to."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            28
+          ],
+          "type": "matching",
+          "instruction": "What reasons did the recycling manager give for rejecting footwear, according to the students?",
+          "limit": "Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 25-28.",
+          "optionsTitle": "Reasons",
+          "options": [
+            {
+              "k": "A",
+              "text": "one shoe was missing"
+            },
+            {
+              "k": "B",
+              "text": "the colour of one shoe had faded"
+            },
+            {
+              "k": "C",
+              "text": "one shoe had a hole in it"
+            },
+            {
+              "k": "D",
+              "text": "the shoes were brand new"
+            },
+            {
+              "k": "E",
+              "text": "the shoes were too dirty"
+            },
+            {
+              "k": "F",
+              "text": "the stitching on the shoes was broken"
+            }
+          ],
+          "itemsTitle": "Footwear",
+          "items": [
+            {
+              "n": 25,
+              "text": "the high-heeled shoes"
+            },
+            {
+              "n": 26,
+              "text": "the ankle boots"
+            },
+            {
+              "n": 27,
+              "text": "the baby shoes"
+            },
+            {
+              "n": 28,
+              "text": "the trainers"
+            }
+          ]
+        },
+        {
+          "range": [
+            29,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 29,
+              "text": "Why did the project to make 'new' shoes out of old shoes fail?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "People believed the 'new' pairs of shoes were unhygienic."
+                },
+                {
+                  "k": "B",
+                  "text": "There were not enough good parts to use in the old shoes."
+                },
+                {
+                  "k": "C",
+                  "text": "The shoes in the 'new' pairs were not completely alike."
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "Bella and Don agree that they can present their topic",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "from a new angle."
+                },
+                {
+                  "k": "B",
+                  "text": "with relevant images."
+                },
+                {
+                  "k": "C",
+                  "text": "in a straightforward way."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "BELLA",
+          "t": "Hi Don — did you get the copy of the article on recycling footwear that I emailed you?",
+          "start": 7.89,
+          "end": 53.76
+        },
+        {
+          "s": "DON",
+          "t": "Yeah — it's here ... I've had a look at it.",
+          "start": 53.96,
+          "end": 56.76
+        },
+        {
+          "s": "BELLA",
+          "t": "So do you think it's a good topic for our presentation?",
+          "start": 56.88,
+          "end": 60.36
+        },
+        {
+          "s": "DON",
+          "t": "Well, before I started reading it, I thought recycling footwear, well, although it's quite interesting, perhaps there isn't enough to say about it, cos we put shoes in recycling bins, they go to charity shops and that's about it.",
+          "q": [
+            21
+          ],
+          "start": 61.34,
+          "end": 77.47
+        },
+        {
+          "s": "BELLA",
+          "t": "... but there's much more to it than that.",
+          "start": 77.63,
+          "end": 80.11
+        },
+        {
+          "s": "DON",
+          "t": "I realise that now and I'm keen to research the topic more.",
+          "start": 80.55,
+          "end": 84.19
+        },
+        {
+          "s": "BELLA",
+          "t": "That's great.",
+          "start": 84.39,
+          "end": 85.15
+        },
+        {
+          "s": "DON",
+          "t": "One of the things I didn't realise until I read the article was just how many pairs of trainers get recycled!",
+          "start": 85.91,
+          "end": 92.23
+        },
+        {
+          "s": "BELLA",
+          "t": "Well, a lot of young people wear them all the time now. They've become more popular than ordinary shoes.",
+          "start": 92.79,
+          "end": 99.55
+        },
+        {
+          "s": "DON",
+          "t": "I know. I guess they are very hard-wearing, but don't they look a bit casual for school uniform? I don't think they're right for that.",
+          "q": [
+            22
+          ],
+          "start": 99.79,
+          "end": 108.62
+        },
+        {
+          "s": "BELLA",
+          "t": "Actually, I think some of them look quite smart on pupils ... better than a scruffy old pair of shoes. So do you keep shoes a long time?",
+          "start": 108.98,
+          "end": 119.08
+        },
+        {
+          "s": "DON",
+          "t": "Yes. Though I do tend to wear my old pairs for doing dirty jobs like cleaning my bike.",
+          "start": 119.56,
+          "end": 125.96
+        },
+        {
+          "s": "BELLA",
+          "t": "I must admit, I've recycled some perfectly good shoes, that haven't gone out of fashion and still fit, just because they don't look great on me any more. That's awful isn't it?",
+          "q": [
+            23
+          ],
+          "start": 126.69,
+          "end": 138.14
+        },
+        {
+          "s": "DON",
+          "t": "I think it's common because there's so much choice. The article did say that recent sales of footwear have increased enormously.",
+          "start": 138.86,
+          "end": 147.14
+        },
+        {
+          "s": "BELLA",
+          "t": "That didn't surprise me.",
+          "start": 147.66,
+          "end": 148.94
+        },
+        {
+          "s": "DON",
+          "t": "No. But then it said that the amount of recycled footwear has fallen: it's 6 percent now compared to a previous level of 11 percent. That doesn't seem to make sense.",
+          "q": [
+            24
+          ],
+          "start": 149.1,
+          "end": 161.53
+        },
+        {
+          "s": "BELLA",
+          "t": "That's because not everything goes through the recycling process. Some footwear just isn't good enough to re-sell, for one reason or another, and gets rejected. So let's find some examples in the article of footwear that was rejected for recycling.",
+          "start": 162.34,
+          "end": 227.18
+        },
+        {
+          "s": "DON",
+          "t": "OK. I think there are some in the interview with the recycling manager. Yeah — here it is.",
+          "start": 227.94,
+          "end": 235.2
+        },
+        {
+          "s": "BELLA",
+          "t": "Mmm. Let's start with the ladies' high-heeled shoes. What did he say about those?",
+          "start": 237.64,
+          "end": 242.52
+        },
+        {
+          "s": "DON",
+          "t": "He said they were probably expensive — the material was suede and they were beige in colour — it looked like someone had only worn them once, but in a very wet field so the heels were too stained with mud and grass to re-sell them.",
+          "q": [
+            25
+          ],
+          "start": 243.6,
+          "end": 261.14
+        },
+        {
+          "s": "BELLA",
+          "t": "OK ... and the leather ankle boots. What was wrong with them?",
+          "start": 261.26,
+          "end": 266.74
+        },
+        {
+          "s": "DON",
+          "t": "Apparently, the heels were worn — but that wasn't the problem. One of the shoes was a much lighter shade than the other one — it had obviously been left in the sun. I suppose even second-hand shoes should look the same!",
+          "q": [
+            26
+          ],
+          "start": 267.62,
+          "end": 281.51
+        },
+        {
+          "s": "BELLA",
+          "t": "Sure. Then there were the red baby shoes.",
+          "start": 282.03,
+          "end": 285.87
+        },
+        {
+          "s": "DON",
+          "t": "Oh yes — we're told to tie shoes together when we put them in a recycling bin, but people often don't bother.",
+          "start": 286.71,
+          "end": 294.46
+        },
+        {
+          "s": "BELLA",
+          "t": "You'd think it would have been easy to find the other, but it wasn't. That was a shame because they were obviously new.",
+          "q": [
+            27
+          ],
+          "start": 295.18,
+          "end": 302.54
+        },
+        {
+          "s": "DON",
+          "t": "The trainers were interesting. He said they looked like they'd been worn by a marathon runner.",
+          "start": 304.33,
+          "end": 310.29
+        },
+        {
+          "s": "BELLA",
+          "t": "Yeah — weren't they split?",
+          "start": 310.53,
+          "end": 312.85
+        },
+        {
+          "s": "DON",
+          "t": "Not exactly. One of the soles was so worn under the foot that you could put your finger through it.",
+          "q": [
+            28
+          ],
+          "start": 313.62,
+          "end": 319.94
+        },
+        {
+          "s": "DON",
+          "t": "Well, we could certainly use some of those examples in our presentation to explain why 90 percent of shoes that people take to recycling centres or bins get thrown into landfill.",
+          "start": 321.28,
+          "end": 332.52
+        },
+        {
+          "s": "BELLA",
+          "t": "Mmm. What did you think about the project his team set up to avoid this by making new shoes out of the good parts of old shoes?",
+          "start": 334.52,
+          "end": 342.16
+        },
+        {
+          "s": "DON",
+          "t": "It sounded like a good idea. They get so many shoes, they should be able to match parts. I wasn't surprised that it failed, though. I mean who wants to buy second-hand shoes really? Think of all the germs you could catch!",
+          "start": 343.03,
+          "end": 359.07
+        },
+        {
+          "s": "BELLA",
+          "t": "Well, people didn't refuse them for that reason, did they? It was because the pairs of shoes weren't identical.",
+          "q": [
+            29
+          ],
+          "start": 359.35,
+          "end": 366.67
+        },
+        {
+          "s": "DON",
+          "t": "They still managed to ship them overseas, though.",
+          "start": 367.39,
+          "end": 369.51
+        },
+        {
+          "s": "BELLA",
+          "t": "That's another area we need to discuss.",
+          "start": 369.63,
+          "end": 372.47
+        },
+        {
+          "s": "DON",
+          "t": "You know I used to consider this topic just from my own perspective, by thinking about my own recycling behaviour without looking at the bigger picture. So much happens once shoes leave the recycling area.",
+          "start": 372.95,
+          "end": 386.74
+        },
+        {
+          "s": "BELLA",
+          "t": "It's not as simple as you first think, and we can show that by taking a very different approach to it.",
+          "q": [
+            30
+          ],
+          "start": 387.57,
+          "end": 393.89
+        },
+        {
+          "s": "DON",
+          "t": "Absolutely. So let's discuss ...",
+          "start": 394.01,
+          "end": 397.01
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c19/t2p4.mp3",
+      "duration": 427,
+      "title": "Tardigrades",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Tardigrades",
+          "lines": [
+            "more than 1,000 species, 0.05-1.2 millimetres long",
+            "also known as water 'bears' (due to how they {{31}}) and 'moss piglets'",
+            "## Physical appearance",
+            "a {{32}} round body and four pairs of legs",
+            "claws or {{33}} for gripping",
+            "absence of respiratory organs",
+            "body filled with a liquid that carries both {{34}} and blood",
+            "mouth shaped like a {{35}} with teeth called stylets",
+            "## Habitat",
+            "often found at the bottom of a lake or on plants",
+            "very resilient and can exist in very low or high {{36}}",
+            "## Cryptobiosis",
+            "In dry conditions, they roll into a ball called a 'tun'.",
+            "They stay alive with a much lower metabolism than usual.",
+            "A type of {{37}} ensures their DNA is not damaged.",
+            "Research is underway to find out how many days they can stay alive in {{38}}.",
+            "## Feeding",
+            "consume liquids, e.g., those found in moss or {{39}}",
+            "may eat other tardigrades",
+            "## Conservation status",
+            "They are not considered to be {{40}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "For my project on invertebrates, I chose to study tardigrades.",
+          "start": 72.13,
+          "end": 76.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These are microscopic — or to be more precise — near-microscopic animals.",
+          "start": 76.25,
+          "end": 81.13
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are well over a thousand known species of these tiny animals, which belong to the phylum Tardigrada.",
+          "start": 82.17,
+          "end": 88.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Most tardigrades range in length from 0.05 to 1 millimetre, though the largest species can grow to be 1.2 millimetres in length.",
+          "start": 88.97,
+          "end": 100.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They are also sometimes called 'water bears': 'water' because that's where they thrive best, and 'bear' because of the way they move.",
+          "q": [
+            31
+          ],
+          "start": 102.23,
+          "end": 109.99
+        },
+        {
+          "s": "SPEAKER",
+          "t": "'Moss piglet' is another name for tardigrades because of the way they look when viewed from the front.",
+          "start": 112.03,
+          "end": 117.31
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They were first discovered in Germany in 1773 by Johann Goeze, who coined the name Tardigrada.",
+          "start": 118.17,
+          "end": 126.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As I say, there are many different species of tardigrade — too many to describe here — but, generally speaking, the different species share similar physical traits.",
+          "start": 127.82,
+          "end": 138.86
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They have a body which is short, and also rounded — a bit like a barrel — and the body comprises four segments.",
+          "q": [
+            32
+          ],
+          "start": 139.65,
+          "end": 148.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Each segment has a pair of legs, at the end of which are between four and eight sharp claws.",
+          "start": 148.89,
+          "end": 155.3
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I should also say that some species don't have any claws; what they have are discs, and these work by means of suction.",
+          "q": [
+            33
+          ],
+          "start": 156.3,
+          "end": 165.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They enable the tardigrade to cling on to surfaces or to grip its prey.",
+          "start": 166.36,
+          "end": 171.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Within the body, there are no lungs, or any organs for breathing at all.",
+          "start": 172.16,
+          "end": 176.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Instead, oxygen and also blood are transported in a fluid that fills the cavity of the body.",
+          "q": [
+            34
+          ],
+          "start": 177.29,
+          "end": 184.33
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As far as the tardigrade's head is concerned, the best way I can describe this is that it looks rather strange — a bit squashed even — though many of the websites I looked at described its appearance as cute, which isn't exactly very scientific.",
+          "start": 185.85,
+          "end": 201.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The tardigrade's mouth is a kind of tube that can open outwards to reveal teeth-like structures known as 'stylets'.",
+          "q": [
+            35
+          ],
+          "start": 202.69,
+          "end": 210.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These are sharp enough to pierce plant or animal cells.",
+          "start": 211.8,
+          "end": 215.12
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, where are tardigrades found?",
+          "start": 216.64,
+          "end": 218.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, they live in every part of the world, in a variety of habitats: most commonly, on the bed of a lake, or on many kinds of plants or in very wet environments.",
+          "start": 219.44,
+          "end": 231.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's been some interesting research which has found that tardigrades are capable of surviving radiation and very high pressure, and they're also able to withstand temperatures as cold as -200 degrees centigrade, or highs of more than 148 degrees centigrade, which is incredibly hot.",
+          "q": [
+            36
+          ],
+          "start": 232.92,
+          "end": 254.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It has been said that tardigrades could survive long after human beings have been wiped out, even in the event of an asteroid hitting the earth.",
+          "start": 260.27,
+          "end": 269.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If conditions become too extreme and tardigrades are at risk of drying out, they enter a state called cryptobiosis.",
+          "start": 270.23,
+          "end": 278.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They curl into a ball, called a tun — that's T-U-N — by retracting their head and legs, and their metabolism drops to less than one percent of normal levels.",
+          "start": 278.91,
+          "end": 290.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They can remain like this until they are re-introduced to water, when they will come back to life in a matter of a few hours.",
+          "start": 291.73,
+          "end": 298.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "While in a state of cryptobiosis, tardigrades produce a protein that protects their DNA.",
+          "q": [
+            37
+          ],
+          "start": 298.53,
+          "end": 307.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In 2016, scientists revived two tardigrades that had been tuns for more than 30 years.",
+          "start": 307.27,
+          "end": 314.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There was a report that, in 1948, a 120-year-old tun was revived, but this experiment has never been repeated.",
+          "start": 315.14,
+          "end": 324.46
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are currently several tests taking place in space, to determine how long tardigrades might be able to survive there.",
+          "q": [
+            38
+          ],
+          "start": 325.56,
+          "end": 333.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I believe the record so far is 10 days.",
+          "start": 334.68,
+          "end": 337.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, erm, moving on.",
+          "start": 338.62,
+          "end": 339.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In terms of their diet, tardigrades consume liquids in order to survive.",
+          "start": 340.66,
+          "end": 346.66
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Although they have teeth, they don't use these for chewing.",
+          "start": 346.82,
+          "end": 350.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They suck the juices from moss, or extract fluid from seaweed, but some species prey on other tardigrades, from other species or within their own.",
+          "q": [
+            39
+          ],
+          "start": 351.49,
+          "end": 362.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I suppose this isn't surprising, given that tardigrades are mainly comprised of liquid and are coated with a type of gel.",
+          "start": 363.66,
+          "end": 371.02
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Finally, I'd like to mention the conservation status of tardigrades.",
+          "start": 371.3,
+          "end": 376.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It is estimated that they have been in existence for approximately half a billion years and, in that time, they have survived five mass extinctions.",
+          "start": 377.49,
+          "end": 387.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, it will probably come as no surprise to you, that tardigrades have not been evaluated by the International Union for Conservation of Nature and are not on any endangered list.",
+          "q": [
+            40
+          ],
+          "start": 388.31,
+          "end": 400.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some researchers have described them as thriving.",
+          "start": 401.69,
+          "end": 405.05
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Does anyone have any questions they'd like to ask?",
+          "start": 406.21,
+          "end": 409.25
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "Mathieson"
+    ],
+    "2": [
+      "beginners"
+    ],
+    "3": [
+      "college"
+    ],
+    "4": [
+      "New"
+    ],
+    "5": [
+      "11",
+      "eleven"
+    ],
+    "6": [
+      "instrument"
+    ],
+    "7": [
+      "ear"
+    ],
+    "8": [
+      "clapping"
+    ],
+    "9": [
+      "recording"
+    ],
+    "10": [
+      "alone"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "B"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "A"
+    ],
+    "17": [
+      "C",
+      "E"
+    ],
+    "18": [
+      "C",
+      "E"
+    ],
+    "19": [
+      "A",
+      "B"
+    ],
+    "20": [
+      "A",
+      "B"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "B"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "E"
+    ],
+    "26": [
+      "B"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "C"
+    ],
+    "30": [
+      "A"
+    ],
+    "31": [
+      "move"
+    ],
+    "32": [
+      "short"
+    ],
+    "33": [
+      "discs"
+    ],
+    "34": [
+      "oxygen"
+    ],
+    "35": [
+      "tube"
+    ],
+    "36": [
+      "temperatures"
+    ],
+    "37": [
+      "protein"
+    ],
+    "38": [
+      "space"
+    ],
+    "39": [
+      "seaweed"
+    ],
+    "40": [
+      "endangered"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "c19t2",
+  "book": "剑桥雅思19",
+  "test": 2,
+  "title": "剑19 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "map",
+      "kindZh": "地图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The plans below show a harbour in 2000 and how it looks today.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c19t2-task1.png",
+      "imageCaption": "Porth Harbour in 2000 and today",
+      "sample": {
+        "band": 6.5,
+        "text": "The maps give the information about the improvement of the Porth Harbour from 2000 to today.\n\nThe first impression is that the Harbour today made use of more areas than in the past.\n\nIt can be seen that there are several areas that still stay the same today as in 2000. These include the Car park and the Showers and Toilets which are located in the north west of the map. However, one more Showers and Toilets are built between the two Car park today. Besides, the Porth Harbour today also has one more Passenger ferries which right next to the left of the existing one from 2000. Moreover, an area for Cafés and shops is added next to the Lifeboat one. Another significant difference is the relocation of the Marina (private yachts) and the fishing boats areas. Today, the Marina is moved down to the place of the old Fishing boats area to have more space and vice-versa, the Fishing boats area is relocated at the old Marina area. The last noticeable change in this Harbour is the Construction in the South East. The disused old Castle was destroyed and a new Hotel was built there today and another Hotel is also added in the Private beach area.\n\nOverall, even that the harbour still keeps some areas unchanged, there are many reconstructions and improvements for the Porth Harbour today.",
+        "comment": "Overall, this is a strong response. The candidate has covered the main features of the changes and has included an overview to summarise the changes, in the first and the last paragraph. The main details are accurate, apart from the addition of [another Hotel] in the private beach area.\n\nThe reader can follow the ideas as they are logically organised. This is due to the linking words [However / Besides / also / Another / Overall] and cohesive features [existing one / vice-versa], but there are some errors.\n\nVocabulary demonstrates some flexibility [first impression / relocated / noticeable change], but there is also some inaccuracy and repetition. The weakest area, though, is the use of grammatical structures. There is a mix of sentence forms, with some good complex use [made use of / can be seen that / These include... which are] but some errors, such as inaccurate use of the plural [one more Showers / boats areas] (because the candidate has copied the plural form from the question) and incorrect verb form [is moved down / has been moved down].\n\nTo achieve a higher score, the candidate should present an overview to summarise the main stages.",
+        "exampleOverview": "The changes to the harbour between 2000 and now focus on improvements that are targeted towards attracting visitors or tourists to the harbour, and include a new hotel, with private beach, more capacity for the passenger ferries and expanded facilities."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "The working week should be shorter and workers should have a longer weekend.",
+        "Do you agree or disagree?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 6,
+        "text": "I personally disagree with the issue whether the working days should be one day less. By no means should we make the weekend three days long. There are two aspects that support my point of view.\n\nFirst of all, now all over the world are facing an unprecedented economic recession caused by COVID-19. Many factories are forced to close and the shops shut down. The economic loss is substantial. Nevertheless, with the advent of vaccine, I perceive that now people can go back to their work. This would certainly be conducive to our economy. If we reduce one day from work, even just from a week, it would cause repercussions on our society in terms of the development of economy.\n\nSecondly, I am used to do my leisure activities in Saturday and Sunday. If there is one day more, I would wonder what to do on that day, and that means I have to rearrange my weekend plans. I think it would be tiring. Most importantly, I come to admit that, too some degree, I am a workaholic. I cannot even image if I am separated from my favourite place - my office. It is the place where I retreat to when I feel anxious and want to get rid of everything. Working, indeed, gives me a sense of achievement and contentment. I, therefore, would oppose to the idea of cutting one working day.\n\nThough some people may argue that they need one day more in the week to reduce their stress from work, it could be harmful to our economic growth in this harsh time. Also, I believe that many people are used to the current working system, which provides two days for break. The sudden change will make people confused. Unless the government enacts a comprehensive policy for this new system, I think the idea does not work, and it would surely brings chaos in our society.",
+        "comment": "In this good response, the candidate presents their opinion at the start, then gives two main points about why the current working week should not change: economic development and the disruption to our existing pattern of a two-day weekend. In the final paragraph, they consider the other side of the argument and people who might like an additional day off. (However, a counter argument is not necessary for this type of question.)\n\nOverall, ideas are presented in a clear order, and there is some good use of linking words and expressions [First of all / Nevertheless / Most importantly / Unless].\n\nThe response contains some good vocabulary with effective collocation [unprecedented economic recession / conducive to / sense of achievement], and there is a range of structures including conditionals [If], modals [would / may / could] and multi-clause sentences. There are some errors in prepositions and other structures [I am used to do / I am used to doing], but the impact is not disruptive.\n\nTo achieve a higher score, ideas could be more fully extended, for example, by giving more detail on how removing a working day could be negative for the economy or for workers."
+      }
+    }
+  ]
+}
