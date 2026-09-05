@@ -1,0 +1,28 @@
+/* 设计令牌 —— 来自对 ielts.itongzhuo.com（同桌英语）机考界面的调研 */
+:root {
+  --brand: #ff4b40;
+  --brand-grad: linear-gradient(90deg, #ff8d80, #ff574d);
+  --brand-marketing: #f55248;
+  --exam-blue: #3794ff;
+  --exam-blue-bg: #e3efff;
+  --nav-dark: #383838;
+  --page-bg: #f5f7fa;
+  --footer-bg: #090705;
+  --ok: #67c23b;
+  --err: #ff4b40;
+  --note-yellow: #fff046;
+  --note-handle: #ddbb00;
+  --book-purple: #766ea5;
+  --book-blue: #759ecd;
+  --text: #333;
+  --text-2: #666;
+  --text-3: #999;
+  --line: #e9e9e7;
+  --card: #fff;
+  --r-card: 6px;
+  --r-btn: 8px;
+  --r-cta: 27px;
+  --shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  --font: arial, "微软雅黑", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --report-grad: linear-gradient(to right, #fff3f1, #f1f7ff);
+}

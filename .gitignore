@@ -1,0 +1,12 @@
+# 原始备考资料（几十 GB 的 PDF / 音频），不进仓库
+06.2026年5-8月口语题库/
+剑雅真题4-21全（书籍+音频）/
+.playwright-mcp/
+.DS_Store
+*.png.bak
+# app
+app/node_modules/
+app/dist/
+app/.env
+app/.vercel/
+app/drafts/

@@ -1,0 +1,55 @@
+{
+  "id": "c21t1",
+  "book": "剑桥雅思21",
+  "test": 1,
+  "title": "剑21 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "line-graph",
+      "kindZh": "曲线图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c21t1-task1.png",
+      "imageCaption": "Number of jobs in four sectors of the economy in the US, 1960-2020",
+      "data": {
+        "unit": "Jobs in millions",
+        "years": [1960, 1980, 2000, 2020],
+        "series": {
+          "Manufacturing": [15, 20, 17, 13],
+          "Retail": [6, 10, 15, 16],
+          "Agriculture": [6, 3, 3, 2],
+          "Healthcare": [2, 5, 11, 16]
+        }
+      },
+      "sample": {
+        "band": 5.5,
+        "text": "The graph shows how changes are occupations in four different kind of jobs in the US from 1960 to 2020.\n\nIn 1960, the number of Manufacturing is the highest in these four sectors, 15 millions, and the second highest is Retail and Agriculture as a same number (5 million). I can see the hugh gap between highest number of occupations and second's in 1960. Moreover, Healthcare is lowest number at approximately 2.5 million.\n\nFirstly, the number of healthcare increace dramatically rather than the other three sectors. People who work as a healthcare had grown more than six times in 60 years, which is the highest number in 2020 with Retail sector. Furthermore, the number of Retail is also great rise.\n\nManufacturing was most common jobs in 1960, however these declined from 15 million to 13 million in 2020.\n\nIn addition, Agriculture was third highest in 1960 and had decreased 6 million to 2 million, which is the lowest in 2020.\n\nTo sum up, it can be seen that the economy in the US changed significantly in 60 years from 1960 to 2020, and at the same time occupations had been altered.",
+        "comment": "This response is a good attempt at the task. It does include the main information in the line chart but there are some details missing, for example, manufacturing [declined from 15 million to 13 million] with no mention of the peak in 1980 at 20 million. There is an attempt at an overview in the final paragraph, however, this is too generic. An overview needs to summarise the main changes that have occurred. Ideas are presented coherently. There are some nice examples of cohesive devices [Moreover / Firstly / In addition / To sum up] but some overuse [Furthermore / however]. Some effective vocabulary is used [second highest / approximately / dramatically / common / significantly / altered] but, generally, the lapses in word choice have a negative impact on the score. Spelling is generally good, with a sprinkle of errors [hugh / huge] that do not impede understanding. Grammatical structures are not well controlled, with frequent errors, for example, in verb tenses, countable forms and articles. To achieve a higher score, the candidate should include an overview that summarises the main changes, and demonstrate a greater level of accuracy in vocabulary and grammar.",
+        "exampleOverview": "To sum up, it can be seen that the economy in the US changed significantly in 60 years, with jobs in manufacturing starting out as the highest, but being overtaken by the rising numbers in the retail and healthcare sectors by the end, and a downward trend in the numbers of jobs in the agricultural sector."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "The best way to provide enough homes in large cities is to build tall apartment blocks.",
+        "To what extent do you agree or disagree with this statement?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 7,
+        "text": "Firstly, tall apartment blocks economize land area since it makes use of its vertical space compared to multiple residential areas which waste a major portion of area, multiple apartments can squeeze in more homes at each floor. Besides, heavily populated cities are rife with locals and expatriates seeking a place to live in a while they go about their business there. By utilising the apartment's geometrical structure, more homes can be provided for them at a cheaper cost.\n\nMoreover, apartment blocks usually offer homes at a price lower than the ones set for onland homes. Bungalows, semi-detached, double story houses and others would usually be a pain in the wallet for someone without a stable or sufficient income, much like those who are new to the city. By building more apartments, more affordable housing can be accessed by many layers of the society. To paint a picture, we can visualize an example of a rookie worker at a major firm in a big city like Kuala Lumpur. He or she might not be planning to permanently reside there and raise a family but they definitely have the option of a stable house to return to at the end of a day's work. For families, they definitely can benefit the most as they do not have to pay a throat-choking price while still juggling the cost of raising children and dealing with bills and taxes.\n\nIn conclusion, governments should implement an urban-planning scheme which involve building more tall apartment blocks in large cities. In doing so, the percentage of homelessness may decrease largely. Not only that, the productivity of the city will improve and boost the country's overall economy. Homes are crucial for a harmonious and safe community as well as healing one's mental health. Although there may be other mechanisms in place to achieve this common goal, I still stand firm with my reasons.",
+        "comment": "This is a strong response overall. The first part addresses the benefits of tall apartment blocks, and includes the efficient use of 'vertical space' to fit in more homes, the benefits of 'geometrical structure' providing cheaper costs. The writer states that homes in apartments are usually more affordable and gives examples of [rookie workers] and [families] in Kuala Lumpur. There is no mention of the advantages of other types of homes, but in this kind of question, it does not need to be presented. Progression is logical. Linking expressions are appropriate [Firstly / Besides / By… / Moreover / To paint a picture] with some good examples of reference and paragraphing is helpful. Vocabulary use is strong with some precise meanings and effective collocation [squeeze in / rife with / stable or sufficient income / implement / boost / harmonious / mechanisms in place / common goal]. There are some small slips in lexis [onland homes / throat-choking price] although the meaning is clear. Sentences are varied and contain complex structures, but a few errors remain. To achieve a higher score, the candidate should include a few more ideas around the 'best way' to provide enough homes. Comparing the 'tall apartment blocks' to other solutions for providing enough homes would be beneficial."
+      }
+    }
+  ]
+}

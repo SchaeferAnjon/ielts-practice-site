@@ -1,0 +1,4770 @@
+{
+ "meta": {
+  "source": "2026年5-8月最新雅思口语题库-0514.pdf",
+  "answerSources": [
+   "2026年5-8月口语保留题（含答案）.pdf",
+   "2026 年 5-8 月雅思口语新题+答案.pdf",
+   "2026年5-8月雅思口语保留题库答案.pdf"
+  ],
+  "season": "2026年5-8月",
+  "topics": 101,
+  "questions": 554,
+  "answered": 108
+ },
+ "topics": [
+  {
+   "id": "p1-001",
+   "part": 1,
+   "title": "Music",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you prefer sad or happy music?",
+     "answer": "It really depends on my mood. When I'm feeling sad or tired, I prefer sad music because it somehow connects with my feelings. But when I'm with friends or at a party, happy music definitely makes everything better.",
+     "answerZh": "这真的取决于我的心情。当我感到悲伤或累的时候，我更喜欢悲伤的音乐，因为它以某种方式与我的感受产生共鸣。但当我和朋友在一起或在派对上，快乐的音乐绝对让一切更好。"
+    },
+    {
+     "text": "Does happy music make you feel more excited?",
+     "answer": "Yes, definitely! Happy music instantly boosts my mood and gives me energy. It's like a natural medicine — when I hear an upbeat song, I just feel more positive and ready to take on the world.",
+     "answerZh": "是的，当然！快乐音乐瞬间提升我的情绪，给我能量。它就像天然的药物——当我听到一首欢快的歌，我就感觉更积极，准备好面对世界。"
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-002",
+   "part": 1,
+   "title": "Teachers",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you have a favorite teacher?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you want to be a teacher in the future?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you have a teacher from your past that you still remember?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are you still in touch with your primary school teachers?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "In what way has your favourite teacher helped you?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-003",
+   "part": 1,
+   "title": "Social media",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Have you ever posted anything on social media?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "When did you start using social media?",
+     "answer": "I started using social media when I was around 14 or 15, mainly Wechat and QQ. At first, it was mainly for fun and keeping in touch with classmates. Looking back, I probably started a bit too early. These days, there's more awareness about age restrictions.",
+     "answerZh": "我大约在 14 或 15 岁开始使用社交媒体，主要是微信和 QQ。起初主要是为了好玩和与同学保持联系。现在回想起来，我可能开始得有点早了。現在人们对年龄限制有更強的意识。Headphone(耳机）"
+    },
+    {
+     "text": "Do you think you spend too much time on social media?",
+     "answer": "I don't think I spend too much time on social media, but I could probably cut down a bit. I use it mainly for keeping up with friends and news. Sometimes I catch myself scrolling mindlessly for too long, though. Moderation is key.",
+     "answerZh": "我不觉得我花在社交媒体上的时间太多，但也许可以减少一点。我主要用它来了解朋友和新闻。有时候我发现自己会无意识地刷太久。适度是关键。"
+    },
+    {
+     "text": "Do your friends use social media?",
+     "answer": "Yes, almost all my friends and family use social media. Wechat is the most popular here, and everyone uses it to stay connected. My parents even use it more than I do sometimes — they're always sending me random articles and videos.",
+     "answerZh": "是的，我几乎所有的朋友和家人都在使用社交媒体。微信是最流行的，我们都用它来保持联系。我父母有时候用它比我還多——他们总是给我发各种文章和视频。"
+    },
+    {
+     "text": "What do people often do on social media?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-004",
+   "part": 1,
+   "title": "Tidiness",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you like to keep things tidy?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Did you use to keep your room tidy as a child?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How do you keep your work or study space tidy?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think that it is necessary to be tidy?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-005",
+   "part": 1,
+   "title": "Websites",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What kinds of websites do you often visit?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What is your favourite website?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are there any changes to the websites you often visit?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kinds of websites are popular in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer getting information from websites or books?",
+     "answer": "I definitely prefer searching on websites rather than in books. Websites give you instant results, and you can access way more information in a short time. Books take longer to get, and sometimes the info is outdated. But I still read books for deep, detailed research.",
+     "answerZh": "我更喜欢在网上搜索而不是在书里搜索。网站能立即给你结果，短时间内可以获取更多信息。书需要更长时间获取，而且有时候信息过时了。但我仍然会为了深入详细的研究而读书。"
+    },
+    {
+     "text": "Would you like to have your own website?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-006",
+   "part": 1,
+   "title": "Watch",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you wear a watch?",
+     "answer": "Actually, I don't wear a watch regularly these days. I usually just check the time on my phone — it's much more convenient. But I do have a watch at home that my grandfather gave me as a gift. I only wear it on special occasions.",
+     "answerZh": "其实，我这些天不常常戴手表。我通常直接在手机上看时间——这样更方便。但我家里确实有一块手表，是我爷爷送给我的礼物。我只在特殊场合才戴。"
+    },
+    {
+     "text": "Have you ever got a watch as a gift?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do some people wear expensive watches?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think it is important to wear a watch? Why?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-007",
+   "part": 1,
+   "title": "Shopping",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you like shopping?",
+     "answer": "Actually, I do enjoy singing, but only when I'm alone in my room or singing along to songs in the car. I'm too shy to sing in front of others. I think music really helps me relax after a long day.",
+     "answerZh": "实际上我喜欢唱歌，但只有在独自在房间里或跟着车里播放的歌一起唱时才喜欢。在别人面前唱我太害羞了。我觉得音乐能帮助我在漫长的一天后放松下来。"
+    },
+    {
+     "text": "How often do you go shopping?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer online shopping or in-store shopping?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Have you ever returned anything you bought online?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-008",
+   "part": 1,
+   "title": "Cars",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Did you enjoy traveling by car when you were a kid?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What types of cars do you like?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer to be a driver or a passenger?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you usually do when there is a traffic jam?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think car colours are important?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Will you buy an expensive car in the future?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-009",
+   "part": 1,
+   "title": "Public gardens and parks",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Did you like going to parks as a child?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you still like going to parks now?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Would you like to see more parks in your city?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are there any parks you want to go to in the future?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Would you prefer to play in a personal garden or public garden？",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How are the parks today different from those you visited as a kid?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you like to do when visiting a park？",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Would you like to play in a public garden or park？",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-010",
+   "part": 1,
+   "title": "Science",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you like science?",
+     "answer": "Yes, I absolutely love music. It's a huge part of my life — I listen to music almost every day, whether I'm studying, working out, or just relaxing. I can't imagine life without music.",
+     "answerZh": "是的，我非常喜欢音乐。音乐是我生活的一大组成部分——我几乎每天都会听音乐，不管是在学习、锻炼还是放松时。我无法想象没有音乐的生活。"
+    },
+    {
+     "text": "When did you start to learn about science?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Which science subject is interesting to you?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kinds of interesting things have you done with science?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like watching science TV programs?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do Chinese people often visit science museums?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-011",
+   "part": 1,
+   "title": "Mirrors",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you like looking at yourself in the mirror? How often?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Have you ever bought mirrors?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you usually take a mirror with you？",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Would you use mirrors to decorate your room?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-012",
+   "part": 1,
+   "title": "Outer space and stars",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Have you ever learnt about outer space and stars?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like science fiction movies? Why?",
+     "answer": "Yes, I absolutely love sci-fi movies set in space. Movies like Interstellar or The Martian are my favorites. The visual effects are amazing, and the ideas are so creative. They make me think about what's possible in the future.",
+     "answerZh": "是的，我非常喜欢太空背景的科幻电影。像《星际穿越》或《火星救援》是我的最爱。视觉效果令人惊叹，创意无限。它们让我思考未来的可能性。"
+    },
+    {
+     "text": "Do you want to know more about outer space?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you want to go into outer space in the future?",
+     "answer": "Would I want to go into outer space? That sounds incredible, but also terrifying at the same time. The idea of floating in zero gravity and seeing Earth from above would be amazing. But I'm not sure I'd have the courage — it seems quite dangerous and uncomfortable.",
+     "answerZh": "我想去外太空吗？听起来很惊人，但同时也令人恐惧。飘浮在零重力和从上方看地球的想法会很惊人。但我不确定我有勇气——似乎相当危险和不舒服。 Music (音乐)"
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-013",
+   "part": 1,
+   "title": "Singing",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you like singing? Why?",
+     "answer": "Actually, I do enjoy singing, but only when I'm alone in my room or singing along to songs in the car. I'm too shy to sing in front of others. I think music really helps me relax after a long day.",
+     "answerZh": "实际上我喜欢唱歌，但只有在独自在房间里或跟着车里播放的歌一起唱时才喜欢。在别人面前唱我太害羞了。我觉得音乐能帮助我在漫长的一天后放松下来。"
+    },
+    {
+     "text": "Have you ever learnt how to sing?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Who do you want to sing for?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think singing can bring happiness to people?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like listening to others singing?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Have you ever taken a singing class?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-014",
+   "part": 1,
+   "title": "Clothing",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What kind of clothes do you like to wear?",
+     "answer": "I prefer comfortable, casual clothes — things like jeans, t-shirts, and hoodies. I'm not really into formal wear unless it's for special occasions. I care more about feeling comfortable than following the latest fashion trends.",
+     "answerZh": "我更喜欢舒适休闲的衣服——比如牛仔裤、T 恤和连帽衫。除非特殊场合，不然我不会穿正装。我更在意穿得舒服，而不是追赶最新时尚。"
+    },
+    {
+     "text": "Do you prefer to wear comfortable and casual clothes or smart clothes?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like wearing T-shirts?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you spend a lot of time choosing clothes?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you wear different styles of clothes on weekdays and weekends?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What colour clothes do you like?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-015",
+   "part": 1,
+   "title": "Jokes & Comedies",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Are you good at telling jokes?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do your friends like to tell jokes?",
+     "answer": "Actually, I do enjoy a good joke, but I'm not the funniest person in the room. I prefer listening to others make me laugh rather than trying to be the comedian myself. Sometimes I slip in a pun or two when I'm with close friends.",
+     "answerZh": "是的，我喜欢好笑话，但我不是房间里最搞笑的人。我更喜欢听别人逗我笑，而不是自己当喜剧演员。有时和好朋友在一起我会说个双关语。"
+    },
+    {
+     "text": "Do you like to watch comedies?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Have you ever watched a live show?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are comedy shows popular in your country?",
+     "answer": "Definitely, they're very popular in China. I see people wearing them everywhere — on the subway, in cafes, even walking on the street. Young people especially love wireless earbuds these days. They've become kind of a fashion accessory too.",
+     "answerZh": "当然，非常流行！在中国到处都有人戴耳机——地铁里、咖啡馆、甚至街上走路时。现在的年轻人尤其喜欢无线耳机。耳机甚至成为一种时尚配饰。"
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-016",
+   "part": 1,
+   "title": "Headphones",
+   "titleZh": null,
+   "category": "new",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you use headphones?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What type of headphones do you use?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "When would you use headphones?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "In what conditions would you not use headphones?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is wearing headphones comfortable?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-017",
+   "part": 2,
+   "title": "Describe a tall building you like or dislike",
+   "titleZh": "喜欢或不喜欢的高建筑",
+   "category": "new",
+   "region": "mainland",
+   "theme": "place",
+   "questions": [],
+   "cue": {
+    "title": "Describe a tall building you like or dislike",
+    "points": [
+     "What it is used for",
+     "Where it is",
+     "What it looks like",
+     "And explain why you like/dislike it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Are there many tall buildings in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the differences between those tall buildings in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why are different places laid out and designed differently?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the advantages of living in tall buildings?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do some people like to remodel and decorate their homes themselves?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kind of interior design style do most people like?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-018",
+   "part": 2,
+   "title": "Describe an interesting video",
+   "titleZh": "有趣视频",
+   "category": "new",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe an interesting video",
+    "points": [
+     "When and where you watched it",
+     "What it is about",
+     "Why you watched it",
+     "And explain how you feel about it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What kind of videos do people in your country like to watch?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Which is more helpful, watching videos or reading books?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What skills can people learn from watching videos?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are there any differences between the videos that young people and old people like to watch?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-019",
+   "part": 2,
+   "title": "Describe a boring place",
+   "titleZh": "去过的无聊地方",
+   "category": "new",
+   "region": "mainland",
+   "theme": "place",
+   "questions": [],
+   "cue": {
+    "title": "Describe a boring place",
+    "points": [
+     "Where it is",
+     "Who you went there with",
+     "What you did there",
+     "And explain why you think it is a boring place"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Why do most children think education is boring?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why aren’t young people willing to listen to the experiences of older people?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What can people do when they feel bored?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why are some teachers’ classes boring? Are there any solutions?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do some young people feel bored when talking with old people?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do most people think news about celebrities is boring?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-020",
+   "part": 2,
+   "title": "Describe your favorite city that you have visited",
+   "titleZh": "去过的最喜欢的城市",
+   "category": "new",
+   "region": "mainland",
+   "theme": "place",
+   "questions": [],
+   "cue": {
+    "title": "Describe your favorite city that you have visited",
+    "points": [
+     "Where it is",
+     "How you knew it",
+     "When you visited it",
+     "And explain why it is your favourite city"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Which is more suitable for young people, urban life or rural life, and which is more suitable for old people?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How do people choose a city to travel to?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think a tourist city is also a good place to live? Why?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do most people prefer to travel in a modern city or a historical city?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-021",
+   "part": 2,
+   "title": "Describe a time when you got up early",
+   "titleZh": "早起经历",
+   "category": "new",
+   "region": "mainland",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe a time when you got up early",
+    "points": [
+     "When it was",
+     "What you did",
+     "Why you got up early",
+     "And how you felt about it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do you know anyone who likes to get up early?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do people get up early?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kinds of occasions need people to arrive early?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do some people like to stay up late?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is it good to arrive early in any situation?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-022",
+   "part": 2,
+   "title": "Describe a person who loves to grow vegetables at home or in the garden",
+   "titleZh": "喜欢在家/花园种菜的人",
+   "category": "new",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a person who loves to grow vegetables at home or in the garden",
+    "points": [
+     "Who this person is",
+     "What vegetables he/she grows",
+     "How he/she grows the vegetables",
+     "And explain why he/she loves growing vegetables"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What are the advantages of growing vegetables or flowers at home?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do many people grow vegetables or flowers at home in your country?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-023",
+   "part": 2,
+   "title": "Describe a new law you would like to introduce in your country",
+   "titleZh": "想颁布的新法律",
+   "category": "new",
+   "region": "mainland",
+   "theme": "place",
+   "questions": [],
+   "cue": {
+    "title": "Describe a new law you would like to introduce in your country",
+    "points": [
+     "What law it is",
+     "What changes this law brings",
+     "Whether this new law will be popular",
+     "How you came up with the new law",
+     "And explain how you feel about this new law"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What rules should students follow at school?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do people in your country usually obey the law?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kinds of behavior are considered as good behavior?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think children can learn about the law outside of school?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the benefits for people to obey rules?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How can parents teach children to obey rules?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-024",
+   "part": 2,
+   "title": "Describe a friend from your childhood",
+   "titleZh": "发小",
+   "category": "new",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a friend from your childhood",
+    "points": [
+     "Who he/she is",
+     "Where and how you met each other",
+     "What you often did together",
+     "And explain what made you like him/her"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do you still keep in touch with your friends from childhood? Why or why not?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How important is childhood friendship to children?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you think of communicating via social media?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think online communication through social media will replace face-to- face communication?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What's the difference between having younger friends and older friends?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Has technology changed people's friendships? How?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-025",
+   "part": 2,
+   "title": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)",
+   "titleZh": "想从事医疗行业的人",
+   "category": "new",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)",
+    "points": [
+     "When you knew him/her",
+     "When he/she started to think about that",
+     "What he/she would like to do",
+     "And explain why he/she would like to choose this career"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do you think being a doctor is easy or difficult?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think learning biology is interesting for children?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-026",
+   "part": 2,
+   "title": "Describe a person you know who has a successful business",
+   "titleZh": "拥有成功商业的人",
+   "category": "new",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a person you know who has a successful business",
+    "points": [
+     "Who this person is",
+     "How you got to know him/her",
+     "Why and how he/she started the business",
+     "What business he/she does",
+     "And explain why you think the business is successful"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Why do some people start their own business?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Should governments provide financial support to start-ups?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-027",
+   "part": 2,
+   "title": "Describe a plan that you had to change recently",
+   "titleZh": "近期改变的计划",
+   "category": "new",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe a plan that you had to change recently",
+    "points": [
+     "When this happened",
+     "What made you change the plan",
+     "What the new plan was",
+     "And how you felt about the change"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do people often change their plans?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Would you tell others if you change your plan?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do you think parents still make plans for their children nowadays?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How does technology help people make plans?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-028",
+   "part": 2,
+   "title": "Describe a time when you worked in a group",
+   "titleZh": "在团队中工作",
+   "category": "new",
+   "region": "mainland",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe a time when you worked in a group",
+    "points": [
+     "What you did",
+     "Who you worked with",
+     "What problems you faced",
+     "And explain why you worked in the group"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Why do some people prefer to work by themselves?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What should a leader do to make team members want to follow him or her?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Should students learn to do group work?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What group tasks are there in schools?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-029",
+   "part": 2,
+   "title": "Describe an important decision that you made",
+   "titleZh": "重要决定",
+   "category": "new",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe an important decision that you made",
+    "points": [
+     "What the decision was",
+     "How you made your decision",
+     "What the results of the decision were",
+     "And explain why it was important"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do you think children sometimes have to make important decisions?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What important decisions do teenagers need to make after graduation?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Who can children turn to for help when making a decision?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think advertisements can influence our decisions when shopping?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think the influence of advertising is good?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How do people usually make important decisions?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-030",
+   "part": 2,
+   "title": "Describe a live sports event you watched and liked",
+   "titleZh": "喜欢现场体育赛事",
+   "category": "new",
+   "region": "mainland",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe a live sports event you watched and liked",
+    "points": [
+     "What it was",
+     "When and where you watched it",
+     "Who you watched it with",
+     "And explain why you liked it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Why do some people like to watch sports events?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Where do people normally watch sports events?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the advantages of watching sports events online?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What sports matches are suitable for children to attend?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-031",
+   "part": 2,
+   "title": "Describe a food that people eat on special occasions/events",
+   "titleZh": "特别场合的食物",
+   "category": "new",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a food that people eat on special occasions/events",
+    "points": [
+     "What it is",
+     "What the special event/occasion is",
+     "How it is cooked/made",
+     "And explain why people eat it on that special occasion/event"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Why are there special foods on special occasions or events?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the differences between everyday food and festival food?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are there any differences between the food people eat today and the food people ate in the past?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-032",
+   "part": 2,
+   "title": "Describe a person who is good at learning and speaking new languages",
+   "titleZh": "擅长学习和说语言的人",
+   "category": "new",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a person who is good at learning and speaking new languages",
+    "points": [
+     "How you got to know him/her",
+     "How he/she learns a new language",
+     "What languages he/she can speak",
+     "And explain how you feel about him/her"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Are there many people who can speak foreign languages in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Does speaking other languages help at work?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do people learn any languages other than English?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why is it easier for children to learn new things than for adults?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How do people learn new things?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-033",
+   "part": 2,
+   "title": "Describe a challenging technological problem you faced",
+   "titleZh": "遇到的科技问题",
+   "category": "new",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe a challenging technological problem you faced",
+    "points": [
+     "What the problem was",
+     "When and where you faced it",
+     "How challenging it was",
+     "And explain how you solved it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What are the advantages and disadvantages of AI?",
+     "answer": "In general, being a famous child has both advantages and disadvantages. On the positive side, famous children often have access to better resources, such as professional training and financial support, which can help them develop their skills more quickly. However, there are also clear downsides. They may face heavy pressure from public expectations and lose their privacy at a very young age. This can affect their emotional development and mental health in the long run.",
+     "answerZh": "总体来看，成为一名有名的孩子既有优势，也有劣势。积极的一面是，他们通常能获得更好的资源，比如专业训练和经济支持，这有助于他们更快地提升能力。但与此同时，问题也很明显。他们从小就要承受来自公众的巨大期待，而且隐私感较弱，这可能会对他们的情绪发展和心理健康产生长期影响。"
+    },
+    {
+     "text": "Do you think people today should learn about AI technology?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Should children learn to use AI?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How can AI help in our lives?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think students are overly reliant on AI?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What can teachers do to stop students relying too much on AI?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-034",
+   "part": 2,
+   "title": "Describe an advertisement with a famous person in it",
+   "titleZh": "名人出演的广告",
+   "category": "new",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe an advertisement with a famous person in it",
+    "points": [
+     "Who the person is",
+     "Where you can see it",
+     "What the advertisement is about",
+     "And explain how you feel about the advertisement"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What are the advantages and disadvantages of advertisements?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why are many advertisements endorsed by celebrities? How useful are they?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What is the most important factor in an advertisement?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why are some advertisements boring?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is advertising important for a company? Why?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Which is more effective, online advertising or offline advertising?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-035",
+   "part": 2,
+   "title": "Describe a place you have travelled to that you would like to recommend to others",
+   "titleZh": "推荐旅行过的地方",
+   "category": "new",
+   "region": "mainland",
+   "theme": "place",
+   "questions": [],
+   "cue": {
+    "title": "Describe a place you have travelled to that you would like to recommend to others",
+    "points": [
+     "What it is",
+     "Where it is",
+     "What you saw and did there",
+     "And explain why you would like to recommend it to others"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Where do people in your country often go for holidays?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Where do young people in your country often go for holidays?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What is the ideal length for a holiday?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How do people usually plan holidays?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is it important to plan a holiday ahead?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-036",
+   "part": 2,
+   "title": "Describe a TV show/online program you have watched recently",
+   "titleZh": "最近看过的电视/网络节目",
+   "category": "new",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe a TV show/online program you have watched recently",
+    "points": [
+     "What it is",
+     "What it is about",
+     "How often you watch it",
+     "And explain how you feel about it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What are the differences between the TV programs young people like to watch and those old people like to watch?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What makes a popular TV or online program?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kinds of TV or online programs are popular in your country?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-037",
+   "part": 2,
+   "title": "Describe a time when you had a problem with using an electronic device",
+   "titleZh": "坏掉的电子设备",
+   "category": "new",
+   "region": "mainland",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe a time when you had a problem with using an electronic device",
+    "points": [
+     "When it happened",
+     "Where it happened",
+     "What the problem was",
+     "And explain how you solved the problem at last"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Why are people keen on buying new electronic devices?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What impact do electronic devices have on people?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-038",
+   "part": 2,
+   "title": "Describe a home that you like to visit but do not want to live in",
+   "titleZh": "喜欢拜访但不想住的家",
+   "category": "new",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe a home that you like to visit but do not want to live in",
+    "points": [
+     "Where it is",
+     "What it is like",
+     "Why you like to visit it",
+     "And explain why you would not like to live there"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do Chinese people like to visit others’ homes?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do Chinese people do when they visit others?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kind of place do people in your country like to live in?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What's the difference between homes in cities and those in the countryside?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-039",
+   "part": 2,
+   "title": "Describe a story/book with animals in it",
+   "titleZh": "包含动物的故事或书",
+   "category": "new",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe a story/book with animals in it",
+    "points": [
+     "What animals are in it",
+     "What the story/book is about",
+     "Why you read the story/book",
+     "And explain what you think of this story/book"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Should schools teach children about animals?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Some people think pets should not be kept in cities. What do you think?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Many people regard pets as members of their family. What do you think?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do many people keep pets in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the advantages of keeping a pet?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do people always tell children stories with animals?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-040",
+   "part": 2,
+   "title": "Describe a time when a person did something to help you solve a problem",
+   "titleZh": "别人帮助解决问题",
+   "category": "new",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a time when a person did something to help you solve a problem",
+    "points": [
+     "Who the person is",
+     "What the problem was",
+     "How he/she helped you",
+     "And explain how you felt about the experience"
+    ]
+   },
+   "part3": [
+    {
+     "text": "How important is it for schools to help children become smarter?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-041",
+   "part": 2,
+   "title": "Describe a law on environmental protection",
+   "titleZh": "保护环境的法律",
+   "category": "new",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe a law on environmental protection",
+    "points": [
+     "What it is",
+     "How you first learned about it",
+     "Who benefits from it",
+     "And explain how you feel about this law"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What kinds of rules do schools in China have?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think school rules are important?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are children unhappy with the school rules?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the rules people should obey at work?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What is the purpose of punishment?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-042",
+   "part": 2,
+   "title": "Describe a time when you received a message or email and it took you a long time to reply",
+   "titleZh": "花很久时间回复信息",
+   "category": "new",
+   "region": "mainland",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe a time when you received a message or email and it took you a long time to reply",
+    "points": [
+     "Who this person was",
+     "What the message/email was about",
+     "Why you spent a lot of time replying",
+     "And explain how you felt about the experience"
+    ]
+   },
+   "part3": [
+    {
+     "text": "When do people spend a long time responding to others’ messages?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "In what situations do people not respond to messages right away?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What would you do if you haven’t received a reply after sending out a message?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-043",
+   "part": 1,
+   "title": "Food",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What is your favourite food?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kind of food did you like when you were young?",
+     "answer": "When I was a child, I liked simple and familiar food. I especially enjoyed homemade meals, such as noodles and dumplings. Sweet snacks were also my favorite, and I often preferred food that tasted comforting rather than something very spicy or complicated.",
+     "answerZh": "我小时候喜欢的食物比较简单、熟悉。我特别爱吃家里做的饭，比如面条和饺子。另外我也很喜欢甜食，比起口味复杂或很辣的食物，更偏向让人觉得安心的味道。"
+    },
+    {
+     "text": "Do you eat different foods at different times of the year?",
+     "answer": "Yes, I do. My eating habits change with the seasons. In summer, I prefer lighter food and cold dishes because they are more refreshing. In winter, I usually eat hotter and heavier food, such as soups or stews, which help keep me warm.",
+     "answerZh": "是的，我会根据季节吃不同的食物。夏天我更喜欢清淡或偏凉的食物，因为比较解暑。而到了冬天，我通常会吃一些热的、偏重口的食物，比如汤类或炖菜，这样能让身体更暖和。 Pets and Animals"
+    },
+    {
+     "text": "Has your favourite food changed since you were a child?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-044",
+   "part": 1,
+   "title": "Pets and Animals",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What's your favourite animal? Why?",
+     "answer": "My favourite animal is probably dogs. What I like most about dogs is that they’ re very loyal and easy to connect with. They seem to understand human emotions quite well, and being with a dog usually puts me in a better mood.",
+     "answerZh": "我最喜欢的动物应该是狗。我最欣赏狗的一点是它们很忠诚，也很容易和人建立情感连接。它们似乎挺懂人的情绪，和狗待在一起通常会让我心情变好。"
+    },
+    {
+     "text": "Where do you prefer to keep your pet, indoors or outdoors?",
+     "answer": "I personally prefer to keep pets indoors. For one thing, it’s easier to take care of them and keep an eye on their health. Also, pets are more like family members nowadays, so I feel they should share the living space with us instead of being left outside.",
+     "answerZh": "我个人更倾向于把宠物养在室内。一方面，室内更方便照顾，也更容易关注它们的健康状况。而且现在很多人都把宠物当作家庭成员，我觉得它们更适合和人一起生活，而不是被单独放在外面。"
+    },
+    {
+     "text": "Have you ever had a pet before?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What is the most popular animal in China?",
+     "answer": "I’d say dogs are probably the most popular animals in China nowadays. More and more people are keeping dogs as pets, especially in cities. They’re seen not only as companions but also as part of the family, which explains why pet-related services have become so common.",
+     "answerZh": "我觉得现在中国最受欢迎的动物应该是狗。越来越多的人开始养狗，尤其是在城市里。狗不仅被当作陪伴者，也被视为家庭的一部分，这也解释了为什么和宠物相关的服务变得越来越普遍。 Sports team"
+    },
+    {
+     "text": "Have you ever visited a zoo?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How often do you visit a zoo?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are there many people keeping pets in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Should schools teach students knowledge about pets or animals?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-045",
+   "part": 1,
+   "title": "Sports team",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Have you ever been part of a sports team?",
+     "answer": "Yes, I have, but only at school. When I was a student, I was part of a basketball team for a short time. I wouldn’t say I was very good at it, but I really enjoyed the team atmosphere. Training and playing together helped me learn how to cooperate with others.",
+     "answerZh": "有过，但只是在学校的时候。我上学时短暂加入过篮球队，虽然水平一般，但我很享受那种团队氛围。一起训练、一起比赛的过程，也让我学会了如何和别人配合。"
+    },
+    {
+     "text": "Is team sports popular in your culture?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like watching team games? Why?",
+     "answer": "Yes, I do. I enjoy watching team games because they are more exciting and interactive than individual sports. I like seeing how players cooperate with each other, and the atmosphere of team games usually makes the experience more enjoyable.",
+     "answerZh": "是的，我喜欢。我喜欢看团队比赛，因为它们比个人项目更刺激，也更有互动感。我很享受看到球员之间的配合，而且团队比赛的氛围通常会让观赛体验更加愉快。"
+    },
+    {
+     "text": "What are the differences between team sports and individual sports?",
+     "answer": "I think the main difference is teamwork and responsibility. In team sports, players need to cooperate and rely on each other, while in individual sports, athletes depend more on their own abilities. As a result, team sports focus more on communication, whereas individual sports require stronger self-discipline.",
+     "answerZh": "我认为主要的区别在于团队合作和责任。在团队运动中，运动员需要彼此配合、互相依赖；而在个人运动中，运动员更多依靠自己的能力。因此，团队运动更强调沟通，而个人运动则更考验自律性。我很享受看到球员之间的配合，而且团队比赛的氛围通常会让观赛体验更加愉快。 Morning time"
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-046",
+   "part": 1,
+   "title": "Hobby",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you have any hobbies?",
+     "answer": "Before traveling, it's important to research the destination to decide on the best time to visit and the attractions to see. Planning the itinerary is also essential to make sure you can visit all the places you want. Booking accommodations in advance is a must to avoid last-minute issues. Lastly, preparing essential items like travel documents, money, and clothing is crucial.",
+     "answerZh": "旅行前，首先要了解目的地，决定最佳的旅行时间和要参观的景点。行程安排也非常重要，确保能够参观所有想去的地方。提前预订住宿是必须的，避免临时找不到住的地方。最后，准备必要的物品，如旅行证件、现金和衣物也至关重要。 Building"
+    },
+    {
+     "text": "Did you have any hobbies when you were a child?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you have a hobby that you’ve had since childhood?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you have the same hobbies as your family members?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-047",
+   "part": 1,
+   "title": "Morning time",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you like getting up early in the morning?",
+     "answer": "It depends. On weekdays, I don’t really enjoy getting up early because I feel quite tired. But if I don’t have much pressure, I actually like early mornings because they’re quiet and peaceful.",
+     "answerZh": "这要分情况。工作日我不太喜欢早起，因为会觉得很累。但如果没什么压力，我其实挺喜欢清晨的，那种安静的感觉很好。"
+    },
+    {
+     "text": "What do you usually do in the morning?",
+     "answer": "In the morning, I usually get ready for the day, have a simple breakfast, and check my phone for messages or news. After that, I head out to work or start my daily tasks.",
+     "answerZh": "早上我一般会洗漱、简单吃点早饭，然后看看手机里的消息或新闻。接着就出门上班，或者开始一天的事情。"
+    },
+    {
+     "text": "What did you do in the morning when you were little? Why?",
+     "answer": "When I was little, my mornings were quite simple. I usually got up, had breakfast, and then went to school. Everything was arranged by my parents, so I didn’t have to think too much.",
+     "answerZh": "我小时候的早晨其实很简单。一般就是起床、吃早饭，然后去上学。因为都是父母安排好的，所以我不用操太多心。"
+    },
+    {
+     "text": "Are there any differences between what you do in the morning now and what you did in the past?",
+     "answer": "Yes, definitely. Now my mornings are more rushed and stressful, while in the past they were much more relaxed. I also have more responsibilities now, so I need to plan my time better.",
+     "answerZh": "有的，而且区别挺明显。现在的早晨更赶、更有压力，而以前要轻松得多。而且现在责任更多了，所以我需要更好地安排时间。"
+    },
+    {
+     "text": "Do you spend your mornings doing the same things on both weekends and weekdays? Why?",
+     "answer": "No, not really. On weekdays, my mornings are quite fixed because of work. On weekends, I prefer to slow down, sleep a bit longer, and do things more casually, since I don’t have a tight schedule.",
+     "answerZh": "不会。工作日的早晨比较固定，因为要上班。但周末我更喜欢慢下来，睡久一点，做事也更随意，因为时间不那么紧。 Gifts"
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-048",
+   "part": 1,
+   "title": "Gifts",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Have you ever sent handmade gifts to others?",
+     "answer": "Yes, I have, but not very often. I’ve made some simple handmade gifts, like cards or small crafts, mainly for close friends. I think handmade gifts feel more personal, even if they’re not very professional.",
+     "answerZh": "有过，但不算多。我做过一些比较简单的手工礼物，比如卡片或者小手工，一般都是送给关系比较亲近的朋友。我觉得手工礼物更有心意，即使看起来不那么专业。"
+    },
+    {
+     "text": "Have you ever received a great gift?",
+     "answer": "Yes, I have. One of the best gifts I’ve received was something I really needed at the time. It wasn’t very expensive, but it showed that the person understood me well, which made it special.",
+     "answerZh": "有的。我收到过的一个很棒的礼物，正好是我当时特别需要的东西。虽然不贵，但能看出来送礼的人很了解我，这一点让它变得很特别。"
+    },
+    {
+     "text": "What do you consider when choosing a gift?",
+     "answer": "When choosing a gift, I mainly think about the person’s interests and needs. I also consider the occasion and my budget. For me, a suitable gift is more important than an expensive one.",
+     "answerZh": "选礼物时，我主要会考虑对方的兴趣和需求。我也会看场合以及自己的预算。对我来说，合适比贵更重要。"
+    },
+    {
+     "text": "Do you think you are good at choosing gifts?",
+     "answer": "I’d say I’m okay at it, but not especially good. I usually spend some time thinking and comparing options, but I still feel a bit unsure sometimes. I guess I’ m getting better with experience.",
+     "answerZh": "我觉得自己还可以，但算不上特别擅长。我通常会花点时间思考、对比不同选择，但有时候还是会有点不确定。不过我觉得随着经验增加，自己也在慢慢进步。"
+    },
+    {
+     "text": "What gift have you received recently?",
+     "answer": "Recently, I received a small but thoughtful gift from a friend. It was something practical that I can use in my daily life. Even though it was simple, it made me feel appreciated.",
+     "answerZh": "最近我收到了一位朋友送的小而用心的礼物。它是一个在日常生活中能用得上的东西。虽然很简单，但让我觉得被惦记、被重视。 Walking"
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-049",
+   "part": 1,
+   "title": "Reading",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you like reading?",
+     "answer": "Yes, I do. I enjoy reading because it helps me relax and also allows me to learn new ideas at the same time. Depending on my mood, I may choose either fiction to unwind or non-fiction to gain useful knowledge.",
+     "answerZh": "是的，我喜欢阅读。阅读既能让我放松，也能让我同时学到新的想法和知识。根据心情不同，我有时会读小说来放松，有时会读非虚构类书籍来获取信息。2026 年 5-8 月雅思口语预测题库(PART2+3) 令你骄傲的家人"
+    },
+    {
+     "text": "Do you prefer to read on paper or on a screen?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "When do you need to read carefully, and when not?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer scanning or detailed reading?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-050",
+   "part": 1,
+   "title": "Walking",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you walk a lot?",
+     "answer": "Yes, I do walk quite a lot in my daily life. I usually walk when I go to nearby places, and sometimes I take a walk just to relax and clear my mind.",
+     "answerZh": "是的，我平时走路还挺多的。去附近的地方我一般都会走着去，有时候也会专门散散步，让自己放松、清醒一下。"
+    },
+    {
+     "text": "Did you often go outside to have a walk when you were a child?",
+     "answer": "Yes, I did. When I was a child, I often went outside to walk or play with friends, especially after dinner. It was a simple way to relax, and there weren’t many electronic devices back then.",
+     "answerZh": "是的，经常。我小时候常常在吃完晚饭后出去走走，或者和朋友一起玩。那时候电子产品不多，出去活动是很自然的事。"
+    },
+    {
+     "text": "Why do people like to walk in parks?",
+     "answer": "I think people like walking in parks because the environment is more pleasant. There’s more fresh air and greenery, which helps people relax and escape from the noise of the city for a while.",
+     "answerZh": "我觉得人们喜欢在公园散步，是因为环境更舒服。空气更清新，还有很多绿色植物，可以让人暂时远离城市的喧闹，放松下来。"
+    },
+    {
+     "text": "Where would you like to take a long walk if you had the chance?",
+     "answer": "If I had the chance, I’d like to take a long walk along the seaside or by a river. I enjoy places where I can walk at my own pace and enjoy the view without feeling rushed.",
+     "answerZh": "如果有机会的话，我想在海边或者河边走一段很长的路。我喜欢那种可以慢慢走、不赶时间，还能欣赏风景的地方。"
+    },
+    {
+     "text": "Where did you go for a walk lately?",
+     "answer": "Lately, I’ve been taking walks around my neighbourhood. There’s a small park nearby, and I sometimes go there in the evening to stretch my legs and unwind after a busy day.",
+     "answerZh": "最近我一般就在家附近散步。附近有一个小公园，我有时候晚上会去那儿走走，活动一下身体，也当作一天结束后的放松。 Hobbies"
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-051",
+   "part": 1,
+   "title": "Typing",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you prefer typing or handwriting?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you type on a desktop or laptop keyboard every day?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "When did you learn how to type on a keyboard?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How do you improve your typing?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-052",
+   "part": 1,
+   "title": "Scenery",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you look out the window at the scenery when travelling by bus or car?",
+     "answer": "Yes, I usually do. Looking out of the window helps me relax during the journey, especially on long trips. Sometimes the scenery along the road is even more interesting than the destination itself.",
+     "answerZh": "是的，我坐公交车或开车旅行时通常会看窗外的风景。这样可以让我在路上放松一下，尤其是在长途出行的时候。有时候，沿途的风景甚至比目的地本身还要有意思。"
+    },
+    {
+     "text": "Do you prefer the mountains or the sea?",
+     "answer": "I prefer the sea. I like the open view and the sound of the waves, which make me feel calm and refreshed. Mountains are beautiful as well, but the sea feels more relaxing to me.",
+     "answerZh": "我更喜欢大海。开阔的视野和海浪的声音会让我感到平静、放松。山也很漂亮，但相比之下，大海更能让我放松下来。"
+    },
+    {
+     "text": "Do you like to take scenery pictures?",
+     "answer": "Yes, I do. I enjoy taking scenery photos as a way to record my travels. Even though I’m not very professional, I like capturing moments that leave a strong impression on me.",
+     "answerZh": "是的，我喜欢拍风景照。我把它当作记录旅行的一种方式。虽然我不算专业，但我喜欢把那些让我印象深刻的瞬间拍下来。"
+    },
+    {
+     "text": "What are the most beautiful sights you have seen while traveling?",
+     "answer": "One of the most beautiful sights I’ve seen was a sunrise by the sea during a trip. The sky slowly changed colors, and everything felt peaceful and quiet. It’s a view I still remember clearly.",
+     "answerZh": "我旅行中见过最美的景色之一，是一次在海边看到的日出。天空慢慢变换颜色，周围非常安静平和。直到现在，我都对那个画面记忆犹新。    Reading"
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-053",
+   "part": 1,
+   "title": "Building",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Are there tall buildings near your home?",
+     "answer": "Yes, there are a few tall buildings near my home. Most of them are residential apartment buildings, and they make the area look more modern. Although they sometimes block the view, they also make daily life more convenient.",
+     "answerZh": "是的，我家附近有一些高楼。它们大多是住宅公寓，让整个区域看起来比较现代。虽然有时候会挡住视野，但也让生活变得更加方便。 Scenery"
+    },
+    {
+     "text": "Do you take photos of buildings?",
+     "answer": "Yes, I do, but not very often. I usually take photos of buildings when I travel, especially if they have unique designs or a strong sense of history. I think buildings can reflect the culture of a place, so they are worth capturing.",
+     "answerZh": "是的，我会拍一些建筑的照片，但频率不算高。一般是在旅行的时候，如果建筑设计很特别，或者很有历史感，我就会拍下来。我觉得建筑能体现一个地方的文化，所以很值得记录。"
+    },
+    {
+     "text": "Is there a building that you would like to visit?",
+     "answer": "Yes, there is. I would really like to visit the Sydney Opera House. I’ve seen it many times in pictures and videos, and its design looks very impressive. I think seeing it in real life would be a completely different experience.",
+     "answerZh": "有的，我很想去参观悉尼歌剧院。我在照片和视频里看过很多次，它的设计看起来非常震撼。我觉得亲眼看到它，一定会是完全不一样的体验。"
+    },
+    {
+     "text": "Do you want to live in a tall building?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-054",
+   "part": 1,
+   "title": "Childhood activities",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What are your favourite activities?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What were your favourite activities when you were a child?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Did you prefer to do activities alone or with a group of people when you were a child?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are there any differences between the activities you liked when you were a child and those you like now?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-055",
+   "part": 1,
+   "title": "Views",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you like taking pictures of different views?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer views in urban areas or rural areas?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer views in your own country or in other countries?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Have you seen an unforgettable and beautiful view or scenery?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-056",
+   "part": 1,
+   "title": "Life stages",
+   "titleZh": null,
+   "category": "retained",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What did you often do with your friends in your childhood?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you think is the most important at the moment?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you have any plans for the next five years?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How do people remember each stage of their lives?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you enjoy being the age you are now?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "At what age do you think people are the happiest?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-057",
+   "part": 1,
+   "title": "Work or studies",
+   "titleZh": null,
+   "category": "evergreen",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What subjects are you studying?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like your subject?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why did you choose to study that subject?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think that your subject is popular in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you have any plans for your studies in the next five years?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the benefits of being your age?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you want to change your major?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer to study in the mornings or in the afternoons?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How much time do you spend on your studies each week?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are you looking forward to working?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What technology do you use when you study?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What changes would you like to see in your school?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What work do you do?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why did you choose to do that type of work (or that job)?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like your job?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What requirements did you need to meet to get your current job?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you have any plans for your work in the next five years?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you think is the most important at the moment?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you want to change to another job?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you miss being a student?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What technology do you use at work?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Who helps you the most? And how?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-058",
+   "part": 1,
+   "title": "Home/accommodation",
+   "titleZh": null,
+   "category": "evergreen",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What kind of house or apartment do you want to live in in the future?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are the transport facilities to your home very good?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer living in a house or an apartment?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Please describe the room you live in.",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What part of your home do you like the most?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How long have you lived there?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you plan to live there for a long time?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What’s the difference between where you are living now and where you have lived in the past?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Can you describe the place where you live?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What room does your family spend most of the time in?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What's your favorite room in your apartment or house？",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What makes you feel pleasant in your home？",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think it is important to live in a comfortable environment？",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you live in an apartment or a house?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Who do you live with?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you usually do in your apartment?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kinds of accommodation do you live in?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-059",
+   "part": 1,
+   "title": "Hometown",
+   "titleZh": null,
+   "category": "evergreen",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Where is your hometown?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is that a big city or a small place?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Please describe your hometown a little.",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How long have you been living there?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think you will continue living there for a long time?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like your hometown?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like living there?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you like (most) about your hometown?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is there anything you dislike about it?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What's your hometown famous for？",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Did you learn about the history of your hometown at school？",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are there many young people in your hometown?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is your hometown a good place for young people to pursue their careers?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Have you learned anything about the history of your hometown?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Did you learn about the culture of your hometown in your childhood?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-060",
+   "part": 1,
+   "title": "The area you live in",
+   "titleZh": null,
+   "category": "evergreen",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you like the area that you live in?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Where do you like to go in that area?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you know any famous people in your area?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are some changes in the area recently?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you know any of your neighbors?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are the people in your neighborhood nice and friendly?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you live in a noisy or a quiet area?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-061",
+   "part": 1,
+   "title": "The city you live in",
+   "titleZh": null,
+   "category": "evergreen",
+   "region": "mainland",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What city do you live in?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like this city? Why?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How long have you lived in this city?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are there big changes in this city?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is this city your permanent residence?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are there people of different ages living in this city?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are the people friendly in the city?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is the city friendly to children and old people?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you often see your neighbors?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What's the weather like where you live?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Would you recommend your city to others?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-062",
+   "part": 2,
+   "title": "Describe a perfect job you would like to have in the future",
+   "titleZh": "完美工作",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe a perfect job you would like to have in the future",
+    "points": [
+     "What it is",
+     "How you knew it",
+     "What you need to learn to get this job",
+     "And explain why you think it is a perfect job for you"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What kind of job can be called a ‘dream job’?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What jobs do children want to do when they grow up?",
+     "answer": "Children often want to do jobs that they find exciting or admirable. Common examples include doctors, teachers, police officers, athletes, and entertainers. These jobs are usually highly visible in daily life or media, and children tend to associate them with success, respect, or helping others.",
+     "answerZh": "孩子在成长过程中往往向往一些看起来有趣或令人敬佩的职业，比如医生、老师、警察、运动员以及娱乐行业相关的工作。这些职业在日常生活或媒体中曝光度较高，孩子容易将它们与成功、尊重或帮助他人联系在一起。"
+    },
+    {
+     "text": "Do people’s ideal jobs change as they grow up?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What should people consider when choosing jobs?",
+     "answer": "When choosing a job, people should consider several factors, including personal interests, skills, work-life balance, and long-term career prospects. Job satisfaction often depends on whether the work aligns with a person ’ s values and strengths. Practical factors such as job stability and working environment should also be taken into account.",
+     "answerZh": "在选择工作时，人们需要考虑多个因素，包括个人兴趣、能力、工作与生活的平衡以及长期发展前景。工作的满意度往往取决于这份工作是否符合个人价值观和优势。此外，工作稳定性和工作环境等现实因素也不容忽视。"
+    },
+    {
+     "text": "Is salary the main reason why people choose a certain job?",
+     "answer": "Salary is an important factor, but it is not always the main reason. While financial security is necessary, many people also value job satisfaction, personal growth, and a sense of achievement. In the long run, a job that offers meaning and balance may be more sustainable than one that is only well-paid.",
+     "answerZh": "薪资确实是一个重要因素，但并不总是最主要的原因。虽然经济保障很重要，但许多人同样重视工作的满足感、个人成长以及成就感。从长远来看，一份有意义、能保持平衡的工作，往往比单纯高薪的工作更可持续。 想拥有的科技产品"
+    },
+    {
+     "text": "What kind of jobs are the most popular in your country?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-063",
+   "part": 2,
+   "title": "Describe a famous person you would like to meet",
+   "titleZh": "想见的名人",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a famous person you would like to meet",
+    "points": [
+     "Who he/she is",
+     "How you knew him/her",
+     "How/where you would like to meet him/her",
+     "And explain why you would like to meet him/her"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What are the advantages and disadvantages of being a famous child?",
+     "answer": "In general, being a famous child has both advantages and disadvantages. On the positive side, famous children often have access to better resources, such as professional training and financial support, which can help them develop their skills more quickly. However, there are also clear downsides. They may face heavy pressure from public expectations and lose their privacy at a very young age. This can affect their emotional development and mental health in the long run.",
+     "answerZh": "总体来看，成为一名有名的孩子既有优势，也有劣势。积极的一面是，他们通常能获得更好的资源，比如专业训练和经济支持，这有助于他们更快地提升能力。但与此同时，问题也很明显。他们从小就要承受来自公众的巨大期待，而且隐私感较弱，这可能会对他们的情绪发展和心理健康产生长期影响。"
+    },
+    {
+     "text": "What can today’s children do to become famous?",
+     "answer": "Nowadays, children have more ways to become famous than in the past. Many of them use social media platforms to share their talents, such as singing, dancing, or creating videos. In addition, some children gain attention through competitions or talent shows. However, becoming famous often requires not only ability, but also guidance from adults and responsible management, especially at a young age.",
+     "answerZh": "如今，孩子成名的途径比过去更多。很多孩子通过社交媒体展示自己的才艺，比如唱歌、跳舞或制作视频。此外，一些孩子也通过比赛或才艺节目获得关注。不过，成名不仅需要能力，还需要成年人的引导和合理管理，尤其是在年纪较小的时候。"
+    },
+    {
+     "text": "What can children do with their fame?",
+     "answer": "If managed properly, children can use their fame in positive ways. For example, they can inspire others by setting a good example or raise awareness about meaningful social issues. At the same time, it is important that their fame does not interfere with their education or normal childhood. Fame should be treated as a tool, not the main goal of their development.",
+     "answerZh": "如果管理得当，孩子可以将名气用于积极的方向。比如，他们可以通过树立榜样来激励他人，或者帮助提高人们对一些社会问题的关注。但与此同时，也必须确保名气不会影响他们的教育和正常成长。名气应该是一种工具，而不应该成为孩子成长的核心目标。"
+    },
+    {
+     "text": "Do people become famous because of their talent?",
+     "answer": "Talent is certainly an important factor, but it is not the only reason people become famous. In many cases, timing, opportunity, and media exposure also play a significant role. Some people become famous because they meet public demand at the right moment, even if their talent is not exceptional. Therefore, fame is often the result of a combination of talent and external factors.",
+     "answerZh": "天赋确实是人们成名的一个重要因素，但并不是唯一原因。在很多情况下，时机、机会以及媒体曝光同样起着关键作用。有些人之所以成名，是因为他们在合适的时间满足了公众的需求，即使天赋并不突出。因此，名气往往是个人能力与外部因素共同作用的结果。 常做计划的人"
+    },
+    {
+     "text": "Is it easy to become famous in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you want to be a famous person?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": "I’d like to talk about a famous person I would like to meet, who is Jack Ma, the founder of Alibaba. He is well known in China and around the world as a successful entrepreneur. I first learned about him through news reports and interviews many years ago, especially when Alibaba was growing rapidly. What impressed me most was not only his business success, but also the way he talked about failure and perseverance. If I had the chance, I would like to meet him at a public talk or a small seminar rather than a formal business setting. I think that kind of environment would allow for more relaxed and meaningful communication. I would like to meet him because his life experience is very inspiring. He failed many times before becoming successful, but he never gave up. I believe talking to someone like him would help me gain a different perspective on success and personal growth.",
+   "answerZh": "我想说一位我很想见的名人，他就是阿里巴巴的创始人马云。他在中国乃至世界范围内都非常有名，是一位成功的企业家。我最早是通过新闻报道和采访了解到他的，尤其是在阿里巴巴快速发展的时期。让我印象最深的，不只是他的商业成就，还有他谈论失败和坚持时的态度。如果有机会的话，我希望能在一次公开演讲或小型分享会上见到他，而不是在正式的商务场合。我觉得那样的环境更轻松，也更容易进行有意义的交流。我想见他的原因是，他的人生经历非常有启发性。在成功之前他经历过很多失败，但从未放弃。我认为和这样的人交流，会让我对成功和个人成长有新的理解。"
+  },
+  {
+   "id": "p2-064",
+   "part": 2,
+   "title": "Describe an occasion when you were not allowed to use your mobile phone",
+   "titleZh": "禁用手机的场合",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe an occasion when you were not allowed to use your mobile phone",
+    "points": [
+     "When it was",
+     "Where it was",
+     "Why you were not allowed to use your mobile phone",
+     "And how you felt about it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "How do young and old people use mobile phones differently?",
+     "answer": "Young people tend to use mobile phones mainly for social interaction and entertainment. They frequently use social media apps, messaging platforms, and short videos to stay connected with friends and follow trends. In contrast, older people usually use mobile phones in a more practical way. They focus on basic functions such as making calls, sending messages, or using navigation and payment services. Although this difference exists, the gap is gradually narrowing as more older people become familiar with smartphones.",
+     "answerZh": "年轻人使用手机更多是为了社交和娱乐。他们经常使用社交媒体、即时通讯软件和短视频平台，与朋友保持联系并关注潮流。相比之下，年长者使用手机的方式更加实用，主要集中在打电话、发短信以及使用导航或支付功能上。不过，随着智能手机的普及，这种差异正在逐渐缩小。"
+    },
+    {
+     "text": "What positive and negative impact do mobile phones have on friendship?",
+     "answer": "Mobile phones have a positive impact on friendship by making communication more convenient and frequent. Friends can stay in touch easily regardless of distance, which helps maintain relationships over time. However, there are also negative effects. Over-reliance on mobile phones may reduce face-to-face communication, leading to shallow interactions. In some cases, misunderstandings can also arise from messages that lack tone or emotional context.",
+     "answerZh": "手机对友谊的积极影响在于，它让沟通变得更加方便和频繁。无论距离多远，朋友都可以轻松保持联系，从而维系长期关系。但与此同时，也存在负面影响。过度依赖手机可能减少面对面的交流，使互动变得表面化。此外，由于文字信息缺乏语气和情感背景，也容易产生误解。"
+    },
+    {
+     "text": "Is it a waste of time to take pictures with mobile phones?",
+     "answer": "I do not think taking pictures with mobile phones is a waste of time in most cases. Photos help people record important moments and preserve memories, which can be meaningful in the long run. However, if people focus too much on taking pictures instead of enjoying the moment itself, it may become unnecessary or even distracting. Therefore, the value depends on how and why people use their phones to take photos.",
+     "answerZh": "我认为用手机拍照在大多数情况下并不是浪费时间。照片可以帮助人们记录重要时刻、保存回忆，从长远来看具有一定的意义。不过，如果人们过于关注拍照，而忽视了当下的体验，这种行为就可能变得多余甚至让人分心。因此，是否浪费时间，取决于拍照的方式和目的。"
+    },
+    {
+     "text": "Do you think it is necessary to have laws on the use of mobile phones?",
+     "answer": "Yes, I believe it is necessary to have laws regulating the use of mobile phones in certain situations. For example, using mobile phones while driving can cause serious accidents and should be strictly controlled by law. Additionally, regulations in public places such as schools or hospitals help maintain order and safety. Reasonable laws do not limit freedom but instead protect both individuals and society as a whole.",
+     "answerZh": "是的，我认为在某些情况下对手机使用进行法律规范是有必要的。例如，开车时使用手机容易引发严重事故，理应受到严格的法律限制。此外，在学校或医院等公共场所制定相关规定，有助于维护秩序和安全。合理的法律并不是限制个人自由，而是保护个人和整个社会的利益。 自行车/摩托车/汽车旅行"
+    },
+    {
+     "text": "What are examples of good and poor phone manners?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How does the internet benefit people?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-065",
+   "part": 2,
+   "title": "Describe a time when you gave advice to others",
+   "titleZh": "给别人建议",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe a time when you gave advice to others",
+    "points": [
+     "When it was",
+     "To whom you gave the advice",
+     "What the advice was",
+     "And explain why you gave the advice"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Should people prepare before giving advice?",
+     "answer": "Yes, people should prepare before giving advice, especially in serious matters. Preparation helps ensure that the advice is thoughtful and responsible rather than emotional or impulsive. By understanding the situation clearly and considering possible consequences, advisers can provide more useful and practical suggestions. This also shows respect for the person seeking advice.",
+     "answerZh": "是的，在给出建议之前，尤其是在涉及重要问题时，人们应该做好准备。充分的准备可以确保建议更加理性和负责任，而不是情绪化或冲动的反应。通过清楚了解情况并考虑可能产生的后果，建议者才能提供更有价值、更实用的意见，这本身也是对寻求建议者的一种尊重。 鼓励别人做不愿做的事"
+    },
+    {
+     "text": "Is it good to ask advice from strangers online?",
+     "answer": "Asking advice from strangers online can be helpful in certain situations, especially when people need different perspectives. Online platforms allow individuals to receive opinions from people with diverse backgrounds and experiences. However, there are also risks. Strangers may not fully understand the situation, and some advice may be unreliable or even misleading. Therefore, online advice should be treated as a reference rather than a final decision-making guide.",
+     "answerZh": "在某些情况下，向网络上的陌生人寻求建议是有帮助的，尤其是当人们需要不同视角的时候。网络平台可以让人们接触到来自不同背景和经历的意见。但同时也存在风险。陌生人往往无法全面了解具体情况，有些建议可能并不可靠，甚至具有误导性。因此，网络上的建议更适合作为参考，而不是最终决策的依据。"
+    },
+    {
+     "text": "What are the personalities of people whose job is to give advice to others?",
+     "answer": "People whose job involves giving advice usually need to be patient and empathetic. They must be able to listen carefully and understand others’ problems without judgment. In addition, they are often calm and responsible, because their advice can have a significant impact on other people ’ s lives. Good communication skills and emotional stability are also important traits for professionals in advisory roles.",
+     "answerZh": "从事建议类工作的人员通常需要具备耐心和同理心。他们必须认真倾听他人的问题，并且不带偏见地去理解对方。此外，这类人往往性格冷静、有责任感，因为他们给出的建议可能会对他人的生活产生重要影响。良好的沟通能力和情绪稳定性也是这类职业的重要特质。"
+    },
+    {
+     "text": "What are the problems if you ask too many people for advice?",
+     "answer": "Asking too many people for advice can lead to confusion and hesitation. Different people often give conflicting opinions, which makes it difficult to make a clear decision. Moreover, relying too much on others ’         advice may reduce a person ’ s confidence and independence. Instead of trusting their own judgment, they may constantly seek approval, which can slow down the decision-making process.",
+     "answerZh": "向太多人寻求建议，容易导致困惑和犹豫。不同的人往往会给出相互矛盾的意见，使得决策变得更加困难。此外，过度依赖他人的建议，可能会削弱一个人的自信心和独立性。与其相信自己的判断，他们可能不断寻求他人认可，从而拖慢决策过程。"
+    },
+    {
+     "text": "Why do some people think it is better to ask for advice from friends than from parents?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "When would old people ask young people for advice?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": "I would like to talk about a time when I gave advice to a close friend about his career choice. This happened about two years ago when he was feeling confused about whether to change his job. The advice was given during a long conversation we had at a café after work. He was unhappy with his current position but was afraid of taking risks. I suggested that he carefully evaluate his long-term goals instead of focusing only on short-term stability. I also advised him to improve his skills before making any major decision. I gave this advice because I believed he needed a clearer direction rather than emotional comfort.",
+   "answerZh": "我想讲一次我给别人建议的经历。当时我给一位关系很好的朋友提供了关于职业选择方面的建议。这件事发生在大约两年前，那时他正纠结是否要换工作。我们是在下班后的一家咖啡馆里进行了一次长时间的聊天，他对目前的工作感到不满，但又害怕承担风险。我建议他不要只关注眼前的稳定，而是要认真思考自己的长期目标。同时，我也建议他在做出重大决定之前先提升自己的能力。我给出这些建议，是因为我认为他需要的是更清晰的方向，而不仅仅是情绪上的安慰。"
+  },
+  {
+   "id": "p2-066",
+   "part": 2,
+   "title": "Describe a piece of technology (not a phone) that you would like to own",
+   "titleZh": "想拥有的科技产品",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe a piece of technology (not a phone) that you would like to own",
+    "points": [
+     "What it is",
+     "How much it costs",
+     "How you knew it",
+     "And explain why you would like to own it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What are the differences between the technology of the past and that of today?",
+     "answer": "There are significant differences between the technology of the past and that of today.In the past, technology was often simpler and focused mainly on basic functions.Today’s technology is more advanced, faster, and more integrated into daily life.Modern technology also emphasises convenience, efficiency, and user experience, while older technology was usually less flexible and more limited in function.",
+     "answerZh": "过去的科技和当今的科技之间存在着显著差异。过去的科技通常比较简单，主要集中在满足基本功能上。而今天的科技更加先进、运行更快，并且深度融入了人们的日常生活。现代科技更加注重便利性、效率以及用户体验，而过去的科技在功能和灵活性方面往往较为有限。 App/程序"
+    },
+    {
+     "text": "What technology do young people like to use?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the differences between online and face-to-face communication?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think technology has changed the way people communicate?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What negative effects does technology have on people’s relationships?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the differences between making friends in real life and online?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": "A piece of technology that I would really like to own is an e-reader, such as a Kindle. I learned about this product mainly from friends and online reviews. Many people recommend it as a convenient tool for reading, especially for those who read frequently. The cost of an e-reader is usually around a few hundred dollars, depending on the model. Although it is not cheap, I think it is reasonably priced considering its functions and long-term use. I would mainly use it for reading books, especially novels and non-fiction. Compared with paper books, an e-reader allows me to carry thousands of books at the same time, which is very useful when travelling or commuting. I would like to own this technology because it makes reading more convenient and efficient. It also reduces eye strain compared with reading on a phone or computer screen. Overall, it would help me develop better reading habits and enjoy reading more often.",
+   "answerZh": "我非常想拥有的一件科技产品是电子阅读器，比如 Kindle。我主要是通过朋友的推荐以及网络上的评测了解到这类产品的。很多人认为它是一个非常方便的阅读工具，尤其适合经常读书的人。电子阅读器的价格通常在几百美元左右，具体取决于型号。虽然它并不算便宜，但考虑到它的功能和长期使用价值，我认为这个价格是合理的。我主要会用它来阅读书籍，尤其是小说和非虚构类作品。和纸质书相比，电子阅读器可以同时存储成千上万本书，这在旅行或通勤时非常方便。我之所以想拥有这件科技产品，是因为它让阅读变得更加方便和高效。与在手机或电脑上阅读相比，它对眼睛的刺激也更小。总体来说，它能帮助我养成更好的阅读习惯，并更频繁地享受阅读。"
+  },
+  {
+   "id": "p2-067",
+   "part": 2,
+   "title": "Describe a person who makes plans a lot and is good at planning",
+   "titleZh": "擅长做计划的人",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a person who makes plans a lot and is good at planning",
+    "points": [
+     "Who he/she is",
+     "How you knew him/her",
+     "What plans he/she makes",
+     "And explain how you feel about this person"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do you think it’s important to plan ahead?",
+     "answer": "Yes, I believe planning ahead is important in many aspects of life. It helps people set clear goals, manage their time more efficiently, and reduce uncertainty. When people plan in advance, they are more likely to make rational decisions and avoid unnecessary stress. However, flexibility is also essential, as unexpected situations can always arise.",
+     "answerZh": "是的，我认为提前规划在生活的很多方面都非常重要。它可以帮助人们明确目标、更高效地管理时间，并减少不确定性。提前做计划的人通常更容易做出理性的决定，也能降低压力。当然，灵活性同样重要，因为意外情况随时可能发生。"
+    },
+    {
+     "text": "What activities do we need to plan ahead?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think children should plan their future careers?",
+     "answer": "I think children can start thinking about their future careers, but detailed planning may be too early. At a young age, children are still exploring their interests and abilities. Instead of fixed career plans, they should focus on developing skills, gaining experience, and understanding different possibilities. Career planning can become more specific as they grow older.",
+     "answerZh": "我认为孩子可以开始思考未来的职业方向，但过于具体的规划可能为时尚早。因为在成长阶段，孩子仍在探索自己的兴趣和能力。相比固定的职业规划，他们更应该注重技能培养、经验积累以及对不同选择的了解。随着年龄增长，职业规划再逐渐清晰会更合理。"
+    },
+    {
+     "text": "Should children ask their teachers or parents for advice when making plans?",
+     "answer": "Yes, I think seeking advice from teachers and parents is very helpful. Teachers can provide guidance based on education and academic performance, while parents often offer practical advice based on life experience. However, children should also be encouraged to think independently and make final decisions that suit their own goals and personalities.",
+     "answerZh": "是的，我认为孩子在制定计划时向老师和家长寻求建议是非常有帮助的。老师可以从学习和学业表现的角度给予指导，而家长则能基于生活经验提供更现实的建议。不过，同时也应该鼓励孩子独立思考，最终做出符合自身目标和性格的决定。 喜欢画画的孩子"
+    },
+    {
+     "text": "Is making study plans popular among young people?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think choosing a college major is closely related to a person’s future career?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-068",
+   "part": 2,
+   "title": "Describe a child who loves drawing/painting",
+   "titleZh": "喜欢画画的孩子",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a child who loves drawing/painting",
+    "points": [
+     "Who he/she is",
+     "How/when you knew him/her",
+     "How often he/she draws/paints",
+     "And explain why you think he/she loves drawing/painting"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What is the right age for a child to learn drawing?",
+     "answer": "I believe there is no fixed right age, but early childhood is a suitable time to start. Young children naturally enjoy drawing as a form of play and self-expression. At this stage, learning should focus on creativity rather than technique. Formal training can be introduced gradually as children grow older and develop better control and concentration.",
+     "answerZh": "我认为并不存在一个绝对合适的年龄，但幼儿阶段是一个比较理想的开始时间。孩子天生喜欢通过画画来玩耍和表达自己。在这个阶段，学习应以培养创造力为主，而不是强调技巧。随着孩子年龄增长、专注力和控制力提升，再逐步进行系统训练会更合适。"
+    },
+    {
+     "text": "Why do most children draw more often than adults do?",
+     "answer": "One reason is that children have fewer responsibilities and more free time. More importantly, children are less afraid of making mistakes and being judged. For them, drawing is a natural way to express emotions and imagination. In contrast, adults often focus on practicality and results, which may reduce their willingness to draw freely.",
+     "answerZh": "一个原因是孩子的责任较少，空闲时间更多。更重要的是，孩子不太担心犯错或被评价。对他们来说，画画是一种自然的情绪和想象力表达方式。而成年人往往更注重实用性和结果，这可能会降低他们随意画画的意愿。"
+    },
+    {
+     "text": "Why do some people visit galleries or museums instead of viewing artworks online?",
+     "answer": "Visiting galleries or museums offers a more immersive experience. People can see the real size, texture, and details of artworks, which are often lost online. In addition, the atmosphere of these places allows visitors to focus and reflect more deeply, creating a stronger emotional connection with the artworks.",
+     "answerZh": "参观美术馆或博物馆能带来更沉浸式的体验。人们可以真实地感受到作品的尺寸、质感和细节，这些在线上往往难以体现。此外，这类场所的氛围有助于观众集中注意力、深入思考，从而与艺术作品建立更强的情感联系。"
+    },
+    {
+     "text": "Do you think galleries and museums should be free of charge?",
+     "answer": "I think it depends on the situation. Free entry can make art more accessible to the public and encourage cultural education. However, museums also need funding to maintain collections and improve services. A balanced approach, such as free days or discounted tickets for students, may be a practical solution.",
+     "answerZh": "参观美术馆或博物馆能带来更沉浸式的体验。人们可以真实地感受到作品的尺寸、质感和细节，这些在线上往往难以体现。此外，这类场所的氛围有助于观众集中注意力、深入思考，从而与艺术作品建立更强的情感联系。"
+    },
+    {
+     "text": "How do artworks inspire people?",
+     "answer": "Artworks can inspire people by offering new perspectives and emotional experiences. They may encourage viewers to reflect on life, society, or personal values. In some cases, art also stimulates creativity and motivates people to express themselves in different ways, whether through art or other forms.",
+     "answerZh": "艺术作品可以通过提供新的视角和情感体验来启发人们。它们可能促使观众反思生活、社会或个人价值观。在某些情况下，艺术还能激发创造力，鼓励人们以不同方式表达自己，无论是通过艺术本身还是其他形式。 聪明解决问题的人"
+    },
+    {
+     "text": "What are the differences between reading a book and visiting a museum?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-069",
+   "part": 2,
+   "title": "Describe a program or app on your computer or phone",
+   "titleZh": "App/程序",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe a program or app on your computer or phone",
+    "points": [
+     "What it is",
+     "How often you use it",
+     "When/how you use it",
+     "When/how you found it",
+     "And explain how you feel about it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What are the differences between old and young people when using apps?",
+     "answer": "Young people tend to use apps more frequently and are more willing to try new ones. They usually learn how to use an app very quickly and focus more on entertainment or social functions.Older people, on the other hand, prefer practical apps, such as payment or health-related apps, and they may need more time to get used to new technology.",
+     "answerZh": "年轻人使用应用程序的频率更高，也更愿意尝试新软件。他们通常上手很快，更关注娱乐或社交功能。相比之下，年纪大一些的人更偏好实用型应用，比如支付类或健康类软件，而且他们通常需要更长时间去适应新技术。"
+    },
+    {
+     "text": "Why do some people not like using apps?",
+     "answer": "One main reason is that some people find apps too complicated. They may feel confused by frequent updates or too many functions.Another reason is privacy concerns. Some people worry that apps collect too much personal information, so they prefer traditional ways of doing things.",
+     "answerZh": "一个主要原因是，有些人觉得应用程序太复杂了，更新频繁、功能太多，容易让人感到困惑。另一个原因是对隐私的担忧。有些人担心应用程序会收集过多的个人信息，因此更愿意使用传统方式来处理事情。 最近读过的故事"
+    },
+    {
+     "text": "What apps are popular in your country? Why?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Should parents limit their children’s use of computer programs and computer games? Why and how?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think young people are more and more reliant on these programs?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you think about some countries banning children from using social media?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": "One program that I use almost every day is Notion. I mainly use it to organize my work and personal life. I usually use it when I’m planning my lessons, writing notes, or keeping track of my daily tasks. For example, I create different pages for teaching plans, student feedback, and even my personal goals. I first found this app through a recommendation from a colleague, who said it was very helpful for people who like things to be well-organized. I feel very positive about this app because it helps me think more clearly and work more efficiently. When everything is written down in one place, I feel less stressed and more in control of my time.",
+   "answerZh": "我几乎每天都会使用的一个程序是 Notion。我主要用它来整理工作和生活。我通常在备课、做笔记或者记录日常任务的时候使用它。比如，我会创建不同的页面，用来整理教学计划、学生反馈，甚至是个人目标。我是通过一位同事的推荐了解到这个软件的，他说这个程序非常适合喜欢把事情安排得井井有条的人。我对这个软件的感觉非常好，因为它能让我思路更清晰，工作效率更高。当所有事情都集中记录在一个地方时，我会感觉压力更小，也更能掌控自己的时间。"
+  },
+  {
+   "id": "p2-070",
+   "part": 2,
+   "title": "Describe an occasion when many people were smiling",
+   "titleZh": "微笑的场合",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe an occasion when many people were smiling",
+    "points": [
+     "When it happened",
+     "Who you were with",
+     "What happened",
+     "And explain why most people were smiling"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do you think people who like to smile are more friendly?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do most people smile in photographs?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do women smile more than men? Why?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do people smile more when they are younger or older?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is smiling important in your culture?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are there any occasions when people need to pretend to smile?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-071",
+   "part": 2,
+   "title": "Describe a time when you felt proud of a family member",
+   "titleZh": "为家人骄傲",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a time when you felt proud of a family member",
+    "points": [
+     "When it happened",
+     "Who the person is",
+     "What the person did",
+     "And explain why you felt proud of him/her"
+    ]
+   },
+   "part3": [
+    {
+     "text": "When would parents feel proud of their children?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Should parents reward children? Why and how?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is it good to reward children too often? Why?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "On what occasions would adults be proud of themselves?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do rewards help a child become better?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you think about children working hard just for grades?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-072",
+   "part": 2,
+   "title": "Describe something important that has been kept in your family for a long time",
+   "titleZh": "对家庭重要的东西",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe something important that has been kept in your family for a long time",
+    "points": [
+     "What it is",
+     "When your family had it",
+     "How your family got it",
+     "And explain why it is important to your family"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What things do families keep for a long time?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What’s the difference between things valued by people in the past and today?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kinds of things are kept in museums?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What’s the influence of technology on museums?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the benefits of technology for learning history?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do people visit museums?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-073",
+   "part": 2,
+   "title": "Describe a bicycle/motorcycle/car trip you would like to go",
+   "titleZh": "自行车/摩托车/汽车旅行",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe a bicycle/motorcycle/car trip you would like to go",
+    "points": [
+     "Who you would like to go with",
+     "Where you would like to go",
+     "When you would like to go",
+     "And explain why you would like to go by bicycle/motorcycle/car"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Which form of vehicle is more popular in your country, bikes, cars or motorcycles?",
+     "answer": "In my country, cars are currently the most popular form of transportation, especially in urban areas. Many families consider owning a car a symbol of convenience and improved living standards. Bikes are still commonly used for short-distance travel, particularly among students and elderly people. Motorcycles are less popular in large cities due to safety concerns and traffic regulations. Overall, the choice of vehicle is closely related to income level, lifestyle, and local transportation policies.",
+     "answerZh": "在我的国家，汽车目前是最受欢迎的交通工具，尤其是在城市地区。许多家庭将拥有一辆车视为生活便利和生活水平提高的象征。自行车仍然常用于短途出行，尤其是在学生和老年人群体中。由于安全问题和交通管理规定，摩托车在大城市中并不常见。总体来看，交通工具的选择与收入水平、生活方式以及当地交通政策密切相关。"
+    },
+    {
+     "text": "Do you think air pollution comes mostly from mobile vehicles?",
+     "answer": "Mobile vehicles are indeed a major source of air pollution, particularly in large cities where traffic volume is high. Exhaust emissions from cars and buses contribute significantly to poor air quality. However, I do not think they are the only cause. Industrial production, power plants, and construction activities also play an important role. Therefore, while controlling vehicle emissions is necessary, a comprehensive approach is required to effectively reduce air pollution.",
+     "answerZh": "移动交通工具确实是空气污染的重要来源之一，尤其是在交通密集的大城市，汽车和公交车的尾气排放对空气质量影响很大。不过，我认为它们并不是唯一的污染源。工业生产、发电厂以及建筑活动同样对空气污染起着重要作用。因此，在控制车辆排放的同时，还需要采取更加全面的措施，才能有效改善空气质量。"
+    },
+    {
+     "text": "Do you think people need to change the way of transportation drastically to protect the environment?",
+     "answer": "I do not think people need to change their transportation habits drastically in a short period of time. Sudden changes may cause inconvenience and even social problems. Instead, a gradual transition would be more realistic. Encouraging public transport, promoting electric vehicles, and improving cycling infrastructure can all help reduce environmental damage. Small but consistent changes in daily transportation choices can make a significant difference in the long run.",
+     "answerZh": "我认为人们没有必要在短时间内彻底改变出行方式。过于突然的改变可能会带来不便，甚至引发社会问题。相比之下，循序渐进的转变更加现实。鼓励公共交通、推广电动车以及完善自行车道建设，都有助于减少对环境的破坏。从长远来看，日常出行方式中的小改变，也能产生显著影响。"
+    },
+    {
+     "text": "How are the transportation systems in urban areas and rural areas different?",
+     "answer": "Transportation systems in urban areas are usually more developed and diverse. Cities often have subways, buses, taxis, and ride-sharing services, which provide residents with multiple travel options. In contrast, rural areas tend to rely more on private vehicles or limited bus services. Due to lower population density, public transportation is less frequent and less convenient. This difference reflects the unequal distribution of resources and infrastructure between urban and rural areas.",
+     "answerZh": "城市地区的交通系统通常更加完善且多样化。城市中常见地铁、公交、出租车以及网约车服务，为居民提供了多种出行选择。相比之下，农村地区更多依赖私家车或有限的公交线路。由于人口密度较低，公共交通的班次较少，便利性也相对不足。这种差异反映了城乡在资源和基础设施方面的不平衡。 给他人建议"
+    },
+    {
+     "text": "Why do more people own and drive private vehicles now?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you think of the future of electric cars?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": "I would like to describe a car trip that I would really like to take in the future. I hope to go with two close friends, because traveling together would make the journey more relaxing and enjoyable. The place I would like to visit is a coastal city, where we can enjoy the sea, fresh air, and local food. I would prefer to go there during a long holiday, such as a national holiday, so we would not feel rushed. I would like to travel by car mainly because it offers flexibility. We could decide our own schedule, stop whenever we want, and explore small towns along the way. In addition, a car journey allows us to enjoy the scenery and have meaningful conversations, which makes the trip more memorable.",
+   "answerZh": "我想描述一次我非常想去的自驾旅行。我希望和两位亲密的朋友一起出行，因为结伴旅行能让整个过程更加轻松愉快。我想去的地方是一座海滨城市，在那里我们可以欣赏大海、呼吸新鲜空气，并品尝当地美食。我更倾向于在较长的假期出行，比如国家法定假日，这样就不会感到时间紧张。我选择开车出行，主要是因为它非常灵活。我们可以自己安排时间，随时停车，还能沿途探索一些小城镇。此外，自驾旅行可以一边欣赏风景，一边聊天交流，这让旅程更加难忘。"
+  },
+  {
+   "id": "p2-074",
+   "part": 2,
+   "title": "Describe a person who solved a problem in a smart way",
+   "titleZh": "机智解决问题的人",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a person who solved a problem in a smart way",
+    "points": [
+     "Who this person is",
+     "What the problem was",
+     "How he/she solved it",
+     "And explain why you think he/she did it in a smart way"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do you think children are born smart or they learn to become smart?",
+     "answer": "I think it’s a mix of both. Some kids are naturally quick learners, maybe because of their personality or the way their brains work. But in my opinion, what really makes the biggest difference is how they are trained. If a child gets good guidance, practices regularly, and feels safe to make mistakes, they can become much smarter over time. So talent helps, but effort and environment matter more in the long run.",
+     "answerZh": "我觉得两者都有。有些孩子天生学得快，可能和性格或大脑方式有关。但我认为真正决定差距的是后天培养。如果孩子有好的引导、规律练习，并且不怕犯错，他们会越来越聪明。所以天赋有帮助，但长期来看努力和环境更重要。"
+    },
+    {
+     "text": "How do children become smart at school?",
+     "answer": "First, they learn by buildingsolid basics, like reading, math, and problem-solving skills. Second, good teachers help a lot, because they can explain things clearly and correct mistakes early. Also, children become smarter when they ask questions and stay curious, instead of just memorizing answers. Finally, working with classmates can train their communication and teamwork, which is also part of being smart.",
+     "answerZh": "首先，孩子会通过打好基础变聪明，比如阅读、数学和解决问题的能力。其次，好老师很关键，因为他们能讲得清楚，也能早点纠正错误。另外，孩子愿意提问、保持好奇心，而不是死记硬背，也会变得更聪明。最后，和同学一起合作也能训练沟通和团队能力，这也是“聪明”的一部分。"
+    },
+    {
+     "text": "Why are some people well-rounded and others only good at one thing?",
+     "answer": "I think it depends on their interests and choices. Some people like exploring different areas, so they build many skills step by step. But others may focus on one thing because they want to be excellent at it, or because they don’t have enough time to try everything. Personality matters too—some people enjoy variety, while others feel more comfortable going deep in one field. Both types can be successful, just in different ways.",
+     "answerZh": "我觉得这取决于兴趣和选择。有些人喜欢探索不同领域，所以他们一点点积累了很多能力。但也有人只专注一件事，因为他们想把它做到很强，或者时间不够，没法都尝试。性格也有影响——有人喜欢多样性，有人更喜欢在一个领域深挖。两种人都能成功，只是方式不同。"
+    },
+    {
+     "text": "Why does modern society need talents of all kinds?",
+     "answer": "Because modern society is complex, and one type of skill is never enough. For example, we need engineers to build technology, doctors to protect public health, and teachers to educate the next generation. We also need creative people, like designers and writers, to bring new ideas and improve daily life. When different talents work together, a country or a company can develop faster and solve problems more efficiently.",
+     "answerZh": "因为现代社会很复杂，只靠一种能力肯定不够。比如我们需要工程师发展科技，需要医生保障健康，还需要老师培养下一代。我们也需要有创意的人，比如设计师和写作者，带来新想法、改善生活。当不同类型的人才一起合作时，一个国家或公司才能发展更快、解决问题更高效。 外国的短期停留"
+    },
+    {
+     "text": "Do you think smart children are happier than other children?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is it important for schools to identify and develop each student’s talents?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": "I’d like to talk about my roommate, who solved a noise problem in a really smart way. Our next-door neighbors often played music late at night, and it was hard for me to sleep and focus on studying. Instead of getting angry or arguing, my roommate waited until the next day and spoke to them politely. He explained our situation clearly and suggested a simple “quiet hours” rule, like keeping the volume down after 11 p.m. He even offered a practical option, such as using headphones if they still wanted to relax. Surprisingly, they agreed, and the noise dropped a lot after that. I think he handled it in a smart way because he solved the problem without creating conflict, and his solution was simple, fair, and easy to follow.",
+   "answerZh": "我想说的是我的室友，他用一个很聪明的方法解决了噪音问题。我们隔壁的邻居经常晚上很晚还放音乐，这让我很难睡好，也很难专心学习。我的室友没有生气也没有争吵，而是等到第二天，礼貌地去跟他们沟通。他把我们的情况讲得很清楚，并提出了一个简单的“安静时间”规则，比如晚上 11 点后把音量调低。他甚至还给了一个很实际的替代方案，比如如果他们还想放松，可以戴耳机。没想到对方同意了，之后噪音明显少了。我觉得他处理得很聪明，因为他在不制造冲突的情况下解决了问题，而且他的办法简单、公平，也很容易执行。"
+  },
+  {
+   "id": "p2-075",
+   "part": 2,
+   "title": "Describe one of your friends who learned something without a teacher",
+   "titleZh": "朋友自学",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe one of your friends who learned something without a teacher",
+    "points": [
+     "Who he/she is",
+     "What he/she learned",
+     "Why he/she learned this",
+     "And explain whether it would be easier to learn from a teacher"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Is it necessary to keep learning after graduating from school?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Should teachers make learning in their classes fun?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think there are too many subjects for students to learn?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is it better to focus on a few subjects or to learn many subjects?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think enterprises should provide training for their employees?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think it is good for older adults to continue learning?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-076",
+   "part": 2,
+   "title": "Describe an event you attended in which you didn’t enjoy the music played",
+   "titleZh": "不享受的音乐活动",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe an event you attended in which you didn’t enjoy the music played",
+    "points": [
+     "What it was",
+     "Who you went with",
+     "Why you decided to go there",
+     "And explain why you didn’t enjoy it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What kind of music events do people like today?",
+     "answer": "Today, people generally prefer lively and interactive music events, such as pop concerts, music festivals, or live performances by popular bands. These events are energetic, visually appealing, and allow the audience to sing along or dance. People enjoy the atmosphere and the chance to socialize while enjoying their favorite music.",
+     "answerZh": "现在人们通常更喜欢活跃且互动性强的音乐活动，比如流行音乐会、音乐节或流行乐队的现场演出。这些活动充满活力、视觉效果吸引人，并且观众可以跟着唱或跳舞。人们喜欢这种氛围，也享受在听自己喜欢的音乐时与他人社交的机会。"
+    },
+    {
+     "text": "Do you think children should receive some musical education?",
+     "answer": "Yes, I think music education is very beneficial for children. It helps them develop creativity, improve concentration, and enhance emotional expression. Even if they don’t become professional musicians, learning music can provide lifelong enjoyment and improve cognitive skills, such as memory and pattern recognition.",
+     "answerZh": "是的，我认为儿童接受音乐教育非常有益。它能帮助孩子培养创造力、提高注意力，并增强情感表达能力。即使他们不成为专业音乐家，学习音乐也能带来终身的乐趣，并提高认知能力，比如记忆力和模式识别能力。"
+    },
+    {
+     "text": "What are the differences between old and young people’s music preferences?",
+     "answer": "Generally, young people prefer contemporary music styles like pop, hip-hop, or electronic music, which are more energetic and trendy. Older people often enjoy classical, folk, or traditional music because it ’ s familiar and soothing. These differences are influenced by upbringing, culture, and personal experiences, as well as exposure to new technologies and trends.",
+     "answerZh": "通常来说，年轻人更喜欢现代音乐风格，比如流行、嘻哈或电子音乐，这类音乐更有活力、紧跟潮流。而年长的人则通常喜欢古典、民谣或传统音乐，因为这些音乐熟悉且舒缓。这些差异受到成长背景、文化、个人经历以及对新技术和趋势的接触影响。"
+    },
+    {
+     "text": "What kind of music events are there in your country?",
+     "answer": "In my country, there are many types of music events. These include pop concerts, rock festivals, classical concerts, traditional folk performances, and school or community music shows. Big cities tend to host more international pop and rock events, while smaller towns focus more on local music or cultural performances. Each type attracts a different audience depending on age and interest.",
+     "answerZh": "在我国，有很多种类型的音乐活动。包括流行音乐会、摇滚音乐节、古典音乐会、传统民间表演，以及学校或社区的音乐演出。大城市通常会举办更多国际流行和摇滚演出，而小城市则更注重本地音乐或文化表演。不同类型的活动吸引不同的观众，取决于年龄和兴趣。"
+    },
+    {
+     "text": "Why do many people like listening to music while doing sports?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the differences between listening to music at home and at a live concert?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": "I want to talk about a concert I attended last year, which I didn’t enjoy much. It was a classical music concert held at a local theatre. I went with my cousin because she really likes classical music and wanted me to experience it. I decided to go mainly to spend time with her and try something new. However, I didn ’ t enjoy it because I ’ m not very familiar with classical music and found it difficult to follow the rhythm and melodies. The music felt slow and heavy for me, so I couldn’t really relax or feel excited.",
+   "answerZh": "我想说的是去年我参加的一场音乐会，我并没有太享受。那是一场在本地剧院举办的古典音乐会。我是和表妹一起去的，因为她非常喜欢古典音乐，希望我也能体验一下。我去的主要原因是陪她，同时尝试一些新事物。然而，我并不喜欢，因为我对古典音乐不太熟悉，很难跟上节奏和旋律。音乐对我来说感觉很慢而沉重，所以我无法真正放松或感到兴奋。"
+  },
+  {
+   "id": "p2-077",
+   "part": 2,
+   "title": "Describe a movie you watched and enjoyed recently",
+   "titleZh": "近期看过且享受的电影",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe a movie you watched and enjoyed recently",
+    "points": [
+     "When and where you watched it",
+     "Who you watched it with",
+     "What it was about",
+     "And explain why you watched this movie"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What kinds of movies do you think are successful in your country?",
+     "answer": "In my country, successful movies are usually ones that combine entertainment with emotional appeal. Action and fantasy films often attract young audiences, while family-oriented or inspirational stories appeal to a wider age group. Success often depends not just on the plot, but also on how the movie resonates with people’s emotions and experiences.",
+     "answerZh": "在我国，成功的电影通常是既有娱乐性，又能打动人心的影片。动作片和奇幻片通常吸引年轻观众，而适合家庭观看或励志类的电影则能吸引更广泛的观众群体。成功不仅取决于剧情，还取决于电影是否能引起观众的情感共鸣和生活体验。"
+    },
+    {
+     "text": "What are the factors that make a successful movie?",
+     "answer": "A successful movie usually requires a good script, skilled actors, and professional production. Special effects, music, and cinematography also play important roles. Moreover, marketing and word-of-mouth can determine whether the movie attracts a large audience. Overall, a balance of story, performance, and promotion is key to success.",
+     "answerZh": "一部成功的电影通常需要有好的剧本、出色的演员以及专业的制作。特效、音乐和摄影也非常重要。此外，宣传和口碑决定了电影能否吸引大量观众。总体来说，剧情、表演和宣传的平衡是电影成功的关键。"
+    },
+    {
+     "text": "Do Chinese people prefer to watch domestic movies or foreign movies?",
+     "answer": "It depends on age and personal interests. Many young people enjoy foreign movies, especially Hollywood blockbusters, because of their advanced special effects and international fame. However, domestic movies are popular as well, particularly ones that focus on Chinese culture, history, or social issues. Overall, both types have their own audience.",
+     "answerZh": "这取决于年龄和个人兴趣。许多年轻人喜欢看外国电影，尤其是好莱坞大片，因为特效先进且知名度高。但是国产电影也很受欢迎，尤其是那些关注中国文化、历史或社会问题的影片。总的来说，这两类电影各有观众群体。"
+    },
+    {
+     "text": "Do you think only well-known directors can create the best movies?",
+     "answer": "Not necessarily. While experienced directors may have more skills and resources, many talented newcomers can also create impressive films. Sometimes a fresh perspective or unique storytelling style makes a movie stand out, even if the director is not famous. Creativity and dedication matter more than reputation alone.",
+     "answerZh": "不完全是。虽然有经验的导演可能更有技巧和资源，但许多有才华的新导演也能拍出令人印象深刻的电影。有时候，新的视角或独特的叙事方式让电影脱颖而出，即使导演不出名。创意和投入比名气更重要。 很多人一起笑的场合"
+    },
+    {
+     "text": "Do you think successful movies should have well-known actors or actresses in leading roles?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do people prefer to watch movies in the cinema?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-078",
+   "part": 2,
+   "title": "Describe an interesting building",
+   "titleZh": "有趣的建筑",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "place",
+   "questions": [],
+   "cue": {
+    "title": "Describe an interesting building",
+    "points": [
+     "Where it is",
+     "What it looks like",
+     "What function it has",
+     "And explain why you think it is interesting"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What types of buildings are popular in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is it worth spending a lot of money on the exterior appearance of a building?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is it more important for a building to look good on the outside or on the inside?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do people like to visit historical sites?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think it’s reasonable to charge an entry fee for visiting interesting buildings?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is it better to live in a new building or an old one?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-079",
+   "part": 2,
+   "title": "Describe a time you needed to use your imagination",
+   "titleZh": "发挥想象力",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe a time you needed to use your imagination",
+    "points": [
+     "When it was",
+     "Why you needed to use imagination",
+     "How difficult or easy it was",
+     "And explain how you felt about it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do you think adults can have lots of imagination?",
+     "answer": "Yes, adults can have a lot of imagination, although it may be different from children. Adults often use imagination in practical ways, such as problem-solving, planning projects, or inventing new ideas. Sometimes responsibilities and routines limit creativity, but with effort, adults can still be very imaginative.",
+     "answerZh": "是的，成年人也能有丰富的想象力，尽管和孩子的方式可能不同。成年人通常以更实际的方式运用想象力，比如解决问题、规划项目或者创造新点子。有时候责任和日常事务会限制创造力，但只要努力，成年人依然可以很有想象力。"
+    },
+    {
+     "text": "Do you think imagination is essential for scientists?",
+     "answer": "Absolutely. Imagination is very important for scientists because it allows them to think beyond existing knowledge and explore new possibilities. Many discoveries and inventions start with imagining something that doesn’t yet exist. Without imagination, science would be limited to repeating what we already know.",
+     "answerZh": "绝对是。想象力对科学家非常重要，因为它能让他们超越已有知识，探索新的可能性。许多发现和发明都是从想象尚不存在的事物开始的。如果没有想象力，科学就只能停留在重复已知的层面。"
+    },
+    {
+     "text": "What kinds of jobs need imagination?",
+     "answer": "Jobs that involve creativity and problem-solving usually need imagination. For example, designers, writers, architects, artists, and engineers all need to imagine solutions, new ideas, or innovative products. Even in business, managers sometimes need imagination to plan strategies or marketing campaigns.",
+     "answerZh": "通常需要创造力和解决问题能力的工作都需要想象力。比如设计师、作家、建筑师、艺术家和工程师，都需要想象解决方案、新点子或创新产品。即使在商业领域，管理者有时也需要想象力来制定策略或营销计划。"
+    },
+    {
+     "text": "What subjects are helpful for children's imagination?",
+     "answer": "Subjects like art, literature, and science are particularly helpful for developing imagination. Art allows children to create and visualize freely, literature exposes them to stories and new ideas, and science encourages them to explore possibilities and think about “what if” scenarios. These subjects together help children develop creative thinking.",
+     "answerZh": "像艺术、文学和科学这样的学科对培养孩子的想象力特别有帮助。艺术让孩子自由创作和想象，文学让他们接触故事和新思想，科学鼓励他们探索可能性并思考“如果……会怎样”。这些学科综合起来有助于孩子发展创造性思维。"
+    },
+    {
+     "text": "What games help develop children's imagination?",
+     "answer": "Games that involve role-playing, building, or problem-solving are great for imagination. For example, board games, Lego, or storytelling games let children create scenarios, characters, and solutions. Outdoor games that encourage exploration, like treasure hunts, can also stimulate imaginative thinking.",
+     "answerZh": "涉及角色扮演、建造或解决问题的游戏很适合培养孩子的想象力。比如桌面游戏、乐高或者讲故事游戏，都让孩子创造场景、角色和解决方案。户外游戏，例如寻宝，也能激发孩子的想象性思维。"
+    },
+    {
+     "text": "How important is imagination to children?",
+     "answer": "Imagination is very important for children because it helps them understand the world, solve problems, and express themselves creatively. It also encourages curiosity and learning, allowing children to explore ideas beyond what they see every day. Children with strong imagination often develop better social and cognitive skills as well.",
+     "answerZh": "想象力对孩子非常重要，因为它帮助孩子理解世界、解决问题并创造性地表达自己。它还能激发好奇心和学习兴趣，让孩子探索日常生活之外的想法。拥有丰富想象力的孩子通常也会发展更好的社交能力和认知能力 不享受的音乐活动"
+    }
+   ],
+   "answer": "I want to talk about a time last year when I needed to use my imagination for a school project. We were asked to design a small eco-friendly park and present our idea to the class. I needed to imagine the layout, the types of plants, and how people would use the space. At first, it was a bit challenging because I had to think creatively while keeping the design practical. After some sketches and brainstorming, I came up with a design that included a small pond, flower beds, and a reading area. I felt really proud of my work because it was unique and everyone in the class appreciated my idea. Using my imagination made the project more interesting and enjoyable.",
+   "answerZh": "我想说的是去年我做学校项目时需要发挥想象力的一次经历。我们被要求设计一个小型环保公园，并向班级展示我们的想法。我需要想象公园的布局、植物种类以及人们如何使用空间。一开始有点困难，因为我必须在保持设计可行的同时发挥创意。经过一些草图和头脑风暴，我设计了一个包括小池塘、花坛和阅读区的方案。我对自己的作品感到非常自豪，因为它很独特，而且班上的同学都很欣赏我的想法。发挥想象力让这个项目变得更有趣，也更令人享受。"
+  },
+  {
+   "id": "p2-080",
+   "part": 2,
+   "title": "Describe a person who often helps others",
+   "titleZh": "乐于助人的人",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a person who often helps others",
+    "points": [
+     "Who this person is",
+     "How often he/she helps others",
+     "How/why he/she helps others",
+     "And how you feel about this person"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What can children do to help their parents?",
+     "answer": "If managed properly, children can use their fame in positive ways. For example, they can inspire others by setting a good example or raise awareness about meaningful social issues. At the same time, it is important that their fame does not interfere with their education or normal childhood. Fame should be treated as a tool, not the main goal of their development.",
+     "answerZh": "如果管理得当，孩子可以将名气用于积极的方向。比如，他们可以通过树立榜样来激励他人，或者帮助提高人们对一些社会问题的关注。但与此同时，也必须确保名气不会影响他们的教育和正常成长。名气应该是一种工具，而不应该成为孩子成长的核心目标。"
+    },
+    {
+     "text": "Should children help their parents with household chores?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kind of help do people need when looking for a new job?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Who should people ask for help, colleagues or family members?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think schools should teach children to do household chores?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why are employees reluctant to ask their managers for help?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-081",
+   "part": 2,
+   "title": "Describe an item on which you spent more than expected",
+   "titleZh": "花费超过预期的物品",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe an item on which you spent more than expected",
+    "points": [
+     "What it is",
+     "How much you spent on it",
+     "Why you bought it",
+     "And explain why you think you spent more than expected"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do you often buy more than you expected?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you think young people spend most of their money on?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think it is important to save money? Why?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do people buy things they don’t need?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think it is the rich people’s responsibility to donate money to people in need?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kind of things are people happy to pay a high price for?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-082",
+   "part": 2,
+   "title": "Describe a time when you encouraged someone to do something that he/she didn't want to do",
+   "titleZh": "鼓励别人做不愿做的事",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a time when you encouraged someone to do something that he/she didn't want to do",
+    "points": [
+     "Who he or she is",
+     "What you encouraged him/her to do",
+     "How he/she reacted",
+     "And explain why you encouraged him/her to do it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "How can leaders encourage their employees?",
+     "answer": "Leaders can encourage employees by giving clear guidance, setting achievable goals, and recognizing their achievements. Positive feedback and constructive advice help employees feel valued and motivated. Moreover, providing opportunities for professional growth and creating a supportive work environment can increase confidence and encourage them to take on challenges.",
+     "answerZh": "领导可以通过提供明确的指导、设定可实现的目标以及认可员工的成绩来鼓励他们。积极的反馈和建设性的建议能让员工感到被重视，从而更有动力。此外，提供职业发展的机会并营造支持性的工作环境，也能增强员工信心，鼓励他们迎接挑战。"
+    },
+    {
+     "text": "When should parents encourage their children?",
+     "answer": "Parents should encourage their children whenever they face difficulties or try something new. Encouragement is especially important when children feel afraid, insecure, or lack confidence. By supporting their children at these moments, parents can help them build resilience and develop a positive attitude toward challenges.",
+     "answerZh": "父母应该在孩子遇到困难或尝试新事物时给予鼓励。当孩子感到害怕、不自信或缺乏信心时，鼓励尤其重要。在这些时刻支持孩子，可以帮助他们培养抗压能力，并形成积极应对挑战的态度。"
+    },
+    {
+     "text": "What kind of encouragement should parents give?",
+     "answer": "Parents should give encouragement that is positive, specific, and realistic. Instead of just saying “Good job,” they can praise the child’s effort or improvement, such as “You worked really hard on this, and it shows. ” Encouragement should also focus on progress rather than just the outcome, helping children develop long-term motivation and confidence.",
+     "answerZh": "父母的鼓励应该是积极的、具体的并且现实可行的。比如，不只是简单地说“干得好”，而是表扬孩子的努力或进步，例如“你在这件事上很努力，效果也很明显”。鼓励还应关注过程而不仅仅是结果，这样能帮助孩子培养长期的动力和自信心。"
+    },
+    {
+     "text": "Do you think some people are better than others at persuading?",
+     "answer": "Yes, I think some people are naturally better at persuading because of their communication skills, empathy, and confidence. They can express their ideas clearly and understand others’ perspectives, which makes it easier to influence people. However, persuasion is also a skill that can be improved through practice, learning, and observing others.",
+     "answerZh": "是的，我认为有些人天生在说服别人方面更擅长，因为他们具有良好的沟通能力、同理心和自信心。他们能清楚表达自己的想法，同时理解别人的观点，这让说服别人更容易。不过，说服力也是一种可以通过练习、学习和观察他人而不断提升的技能。 发挥想象力"
+    },
+    {
+     "text": "Should children do everything their parents ask them to do?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How can employers encourage their staff?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": "I want to talk about a time when I encouraged my younger cousin to join a school debate competition. He was very nervous and didn’t want to participate because he thought he would make mistakes and embarrass himself. I encouraged him by reminding him of his previous achievements in speaking and by practicing with him several times. I also told him that even if he made mistakes, it was a good chance to learn and gain experience. At first, he was still reluctant, but after a few practice sessions, he felt more confident and agreed to take part. I encouraged him because I believed he had the potential to do well, and I wanted him to overcome his fear of public speaking.",
+   "answerZh": "我想说的是我曾经鼓励我的表弟参加学校的辩论比赛。他当时非常紧张，不想参加，因为他觉得自己可能会犯错误，让自己出丑。我鼓励他的方法是提醒他以前在演讲方面的成绩，并且和他练习了好几次。我还告诉他，即使出错，也是一个学习和积累经验的好机会。刚开始，他仍然有些抗拒，但经过几次练习，他变得更自信，最后同意参加。我之所以鼓励他，是因为我相信他有潜力做得很好，而且我希望他能克服对公开演讲的恐惧。"
+  },
+  {
+   "id": "p2-083",
+   "part": 2,
+   "title": "Describe a short-term job you want to have in a foreign country",
+   "titleZh": "想从事的短期海外工作",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "place",
+   "questions": [],
+   "cue": {
+    "title": "Describe a short-term job you want to have in a foreign country",
+    "points": [
+     "Where it is",
+     "How you know of it",
+     "What the job is",
+     "And explain why you want to do it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What short-term jobs do young people do in other countries?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What challenges do young people face when working abroad?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the benefits of working for an international company?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What personal skills are required to work in an international company?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kind of work can young people do in foreign countries?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why are some people unwilling to work in other countries?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-084",
+   "part": 2,
+   "title": "Describe a person who likes to look after the natural world",
+   "titleZh": "爱护自然之人",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a person who likes to look after the natural world",
+    "points": [
+     "Who this person is",
+     "What he or she does",
+     "How he or she does it",
+     "How often he or she does it",
+     "And explain how you feel about this person"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do you think parents should teach their children how to protect the environment?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What laws about the environment are effective in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Which do you think people prefer, rewards or punishment, when it comes to government intervention in environmental protection?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is it easy for children in cities to get close to the natural world?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What can people do to protect the natural world?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is it important to teach students environmental protection at school?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-085",
+   "part": 2,
+   "title": "Describe a city that you think is very interesting/famous",
+   "titleZh": "有趣/著名的城市",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "place",
+   "questions": [],
+   "cue": {
+    "title": "Describe a city that you think is very interesting/famous",
+    "points": [
+     "Where it is",
+     "What it is famous for",
+     "How you knew this city",
+     "And explain why you think it is very interesting/famous"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What advantages can tourism bring to a city?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do some young people like to live in cities?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do most elderly people live in the city or in the countryside?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think well-developed tourism will have negative effects on local people?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the benefits of urbanization?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think the big cities in China today will become even larger in the future?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-086",
+   "part": 2,
+   "title": "Describe a city you enjoyed visiting",
+   "titleZh": "去过且喜欢的城市",
+   "category": "retained",
+   "region": "mainland",
+   "theme": "place",
+   "questions": [],
+   "cue": {
+    "title": "Describe a city you enjoyed visiting",
+    "points": [
+     "Where it is",
+     "When you visited it",
+     "How long you stayed there",
+     "What you did there",
+     "And explain why you enjoyed visiting it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What kinds of facilities do big cities have?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think modern cities are suitable for young people or old people?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Before you travel to a city, what factors would you consider?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the disadvantages of living in a very famous city?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer to visit well-developed cities or cities with a long history?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "For those who live in cities, is it because they want to or have to?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-087",
+   "part": 1,
+   "title": "Dream and ambition",
+   "titleZh": null,
+   "category": "new",
+   "region": "overseas",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What was your childhood dream?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are you the kind of person who sticks to dreams?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What is your dream job?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think you are an ambitious person?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-088",
+   "part": 1,
+   "title": "History",
+   "titleZh": null,
+   "category": "new",
+   "region": "overseas",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Have you ever been to historical museums?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like history?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "When was the last time you read about history?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Did you like history when you were young?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-089",
+   "part": 1,
+   "title": "Films/cinemas",
+   "titleZh": null,
+   "category": "new",
+   "region": "overseas",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What films do you like?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Did you often watch films when you were a child?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Did you ever go to the cinema alone as a child?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you often go to the cinema with your friends?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think going to the cinema is a good way to spend time with friends?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How often do you watch films?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer to watch films at home or in the cinema?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-090",
+   "part": 1,
+   "title": "Films/cinemas",
+   "titleZh": null,
+   "category": "new",
+   "region": "overseas",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What films do you like?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Did you often watch films when you were a child?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Did you ever go to the cinema alone as a child?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you often go to the cinema with your friends?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think going to the cinema is a good way to spend time with friends?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How often do you watch films?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer to watch films at home or in the cinema?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-091",
+   "part": 1,
+   "title": "Old buildings",
+   "titleZh": null,
+   "category": "new",
+   "region": "overseas",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Have you ever seen old buildings in the city？",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think we should preserve old buildings in cities？",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer living in an old building or a modern house？",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are there any old buildings you want to see in the future? Why?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-092",
+   "part": 1,
+   "title": "Evening time",
+   "titleZh": null,
+   "category": "new",
+   "region": "overseas",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you like the morning or evening?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you usually do in the evening？",
+     "answer": "In the morning, I usually get ready for the day, have a simple breakfast, and check my phone for messages or news. After that, I head out to work or start my daily tasks.",
+     "answerZh": "早上我一般会洗漱、简单吃点早饭，然后看看手机里的消息或新闻。接着就出门上班，或者开始一天的事情。"
+    },
+    {
+     "text": "What did you do in the evening when you were little? Why?",
+     "answer": "When I was little, my mornings were quite simple. I usually got up, had breakfast, and then went to school. Everything was arranged by my parents, so I didn’t have to think too much.",
+     "answerZh": "我小时候的早晨其实很简单。一般就是起床、吃早饭，然后去上学。因为都是父母安排好的，所以我不用操太多心。"
+    },
+    {
+     "text": "Are there any differences between what you do in the evening now and what you did in the past?",
+     "answer": "Yes, definitely. Now my mornings are more rushed and stressful, while in the past they were much more relaxed. I also have more responsibilities now, so I need to plan my time better.",
+     "answerZh": "有的，而且区别挺明显。现在的早晨更赶、更有压力，而以前要轻松得多。而且现在责任更多了，所以我需要更好地安排时间。"
+    },
+    {
+     "text": "Do you spend your evenings doing the same things on both weekends and weekdays? Why?",
+     "answer": "No, not really. On weekdays, my mornings are quite fixed because of work. On weekends, I prefer to slow down, sleep a bit longer, and do things more casually, since I don’t have a tight schedule.",
+     "answerZh": "不会。工作日的早晨比较固定，因为要上班。但周末我更喜欢慢下来，睡久一点，做事也更随意，因为时间不那么紧。 Gifts"
+    },
+    {
+     "text": "What do you hate doing in the evening?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-093",
+   "part": 1,
+   "title": "Morning routines",
+   "titleZh": null,
+   "category": "new",
+   "region": "overseas",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "What do you do right after getting up in the morning?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is breakfast important?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What is your morning routine?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like to get up early in the morning?",
+     "answer": "It depends. On weekdays, I don’t really enjoy getting up early because I feel quite tired. But if I don’t have much pressure, I actually like early mornings because they’re quiet and peaceful.",
+     "answerZh": "这要分情况。工作日我不太喜欢早起，因为会觉得很累。但如果没什么压力，我其实挺喜欢清晨的，那种安静的感觉很好。"
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p1-094",
+   "part": 1,
+   "title": "Sports programs",
+   "titleZh": null,
+   "category": "new",
+   "region": "overseas",
+   "theme": "other",
+   "questions": [
+    {
+     "text": "Do you like watching sports programs on TV?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you like to watch live sports games?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Who do you like to watch sports games with?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What kinds of games do you expect to watch in the future?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer to watch sports games alone or with a group of friends?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Have you ever watched a sports game in a stadium?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "cue": null,
+   "part3": [],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-095",
+   "part": 2,
+   "title": "Describe a place you would like to visit in your free time",
+   "titleZh": "想有空时去旅游的地方",
+   "category": "new",
+   "region": "overseas",
+   "theme": "place",
+   "questions": [],
+   "cue": {
+    "title": "Describe a place you would like to visit in your free time",
+    "points": [
+     "Where it is",
+     "What you will do there",
+     "How long you will stay there",
+     "And explain why you would like to visit it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Why do you think some people choose not to travel abroad?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think a gap period in life is important?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-096",
+   "part": 2,
+   "title": "Describe a special cake you received from others",
+   "titleZh": "收到特殊蛋糕",
+   "category": "new",
+   "region": "overseas",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe a special cake you received from others",
+    "points": [
+     "When it happened",
+     "Where it happened",
+     "Who you got the cake from",
+     "And explain why it’s a special cake"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What are the differences between special food in China and other countries?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Is there any food in your country that is eaten at special times or on special occasions?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why are some people willing to spend a lot of money on meals on special days?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think it’s good to communicate when eating with your family?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "In your country, do people nowadays cook at home as frequently as people did in the past?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What do you think of people using their mobile phones during a meal?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-097",
+   "part": 2,
+   "title": "Describe a person who works in a successful company",
+   "titleZh": "在成功公司工作的人",
+   "category": "new",
+   "region": "overseas",
+   "theme": "people",
+   "questions": [],
+   "cue": {
+    "title": "Describe a person who works in a successful company",
+    "points": [
+     "Who he/she is",
+     "What he/she does in the company",
+     "What business the company does",
+     "And explain why you think it is a successful company"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do you think governments should provide financial support to companies?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think companies should donate money to help society?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think customer satisfaction is important for a company?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-098",
+   "part": 2,
+   "title": "Describe a thing you did to learn another language",
+   "titleZh": "语言学习",
+   "category": "new",
+   "region": "overseas",
+   "theme": "thing",
+   "questions": [],
+   "cue": {
+    "title": "Describe a thing you did to learn another language",
+    "points": [
+     "What language you learned",
+     "What you did",
+     "How it helped you learn the language",
+     "And how you felt about it"
+    ]
+   },
+   "part3": [
+    {
+     "text": "What difficulties do people face when learning a language?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think language learning is important? Why?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Which is better, to study a language alone or to study it in a group? Why?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What's the best way to learn a language?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the advantages and disadvantages of learning a language?",
+     "answer": "In general, being a famous child has both advantages and disadvantages. On the positive side, famous children often have access to better resources, such as professional training and financial support, which can help them develop their skills more quickly. However, there are also clear downsides. They may face heavy pressure from public expectations and lose their privacy at a very young age. This can affect their emotional development and mental health in the long run.",
+     "answerZh": "总体来看，成为一名有名的孩子既有优势，也有劣势。积极的一面是，他们通常能获得更好的资源，比如专业训练和经济支持，这有助于他们更快地提升能力。但与此同时，问题也很明显。他们从小就要承受来自公众的巨大期待，而且隐私感较弱，这可能会对他们的情绪发展和心理健康产生长期影响。"
+    },
+    {
+     "text": "Some people think that technology has made it unnecessary to learn languages. What do you think?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-099",
+   "part": 2,
+   "title": "Describe an important river/lake in your country",
+   "titleZh": "重要河流/湖泊",
+   "category": "new",
+   "region": "overseas",
+   "theme": "place",
+   "questions": [],
+   "cue": {
+    "title": "Describe an important river/lake in your country",
+    "points": [
+     "Where it is located",
+     "How big/long it is",
+     "What it looks like",
+     "And explain why it is important"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Are rivers and lakes important to a country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "What are the popular water sports in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Are rivers and lakes good for transport? Why?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How do rivers and lakes affect local tourism?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think rivers and lakes attract tourists?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How can rivers and lakes benefit local people?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-100",
+   "part": 2,
+   "title": "Describe a special day out that cost you little money/didn’t cost you much",
+   "titleZh": "花费甚少的外出日",
+   "category": "new",
+   "region": "overseas",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe a special day out that cost you little money/didn’t cost you much",
+    "points": [
+     "When the day was",
+     "Where you went",
+     "How much you spent",
+     "And explain how you feel about the day"
+    ]
+   },
+   "part3": [
+    {
+     "text": "Do people like to spend their leisure time out in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How do people spend their leisure time in your country?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How does technology affect the way people spend their leisure time?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you think only old people have time for leisure?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Why do people like to have days off?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Going out to have holidays is tiring. Why do people still want to do it?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  },
+  {
+   "id": "p2-101",
+   "part": 2,
+   "title": "Describe a time when you organized a happy event successfully",
+   "titleZh": "组织快乐活动",
+   "category": "new",
+   "region": "overseas",
+   "theme": "event",
+   "questions": [],
+   "cue": {
+    "title": "Describe a time when you organized a happy event successfully",
+    "points": [
+     "What the event was",
+     "How you prepared for it",
+     "Who helped you to organize it",
+     "And explain why you think it was a successful event"
+    ]
+   },
+   "part3": [
+    {
+     "text": "How can parents help children to be organized?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "On what occasions do people need to be organized?",
+     "answer": "People usually feel bored when they have nothing interesting to do or when they're in a repetitive situation. For example, waiting in a long queue, sitting through a boring meeting, or being alone with nothing to do can all trigger boredom. Boredom often comes when our brain is looking for stimulation but can't find any engaging activity. Sometimes even when we have free time, if we can't decide what to do, we end up feeling bored. The key is that boredom is a signal — our mind is telling us we need something more interesting or challenging.",
+     "answerZh": "人们通常在没什么有趣的事情可做或处于重复性的情境中时会感到无聊。例如，在长队中等待、参加无聊的会议或独自一人无所事事都可能引发无聊。无聊通常来自我们的大脑在寻找刺激但找不到任何吸引人的活动的时候。有时候即使我们有自由时间，如果我们无法决定做什么，最终也会感到无聊。关键是无聊是一种信号——我们的思维告诉我们需要一些更有趣或更有挑战性的东西。"
+    },
+    {
+     "text": "Does everything need to be well prepared?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do people need others’ help when organizing things?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "How would you feel when you were not well prepared for something?",
+     "answer": null,
+     "answerZh": null
+    },
+    {
+     "text": "Do you prefer to prepare and organize an activity or just take part in an activity?",
+     "answer": null,
+     "answerZh": null
+    }
+   ],
+   "answer": null,
+   "answerZh": null
+  }
+ ]
+}
