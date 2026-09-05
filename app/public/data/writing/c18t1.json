@@ -1,0 +1,54 @@
+{
+  "id": "c18t1",
+  "book": "剑桥雅思18",
+  "test": 1,
+  "title": "剑18 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "line-graph",
+      "kindZh": "曲线图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The graph below gives information about the percentage of the population in four Asian countries living in cities from 1970 to 2020, with predictions for 2030 and 2040.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c18t1-task1.png",
+      "imageCaption": "Percentage of the population living in cities",
+      "data": {
+        "unit": "% of total population",
+        "years": [1970, 1980, 1990, 2000, 2010, 2020, 2030, 2040],
+        "series": {
+          "Philippines": [32, 34, 48, 46, 43, 46, 51, 56],
+          "Malaysia": [30, 41, 45, 60, 71, 76, 81, 83],
+          "Thailand": [18, 23, 30, 30, 32, 33, 41, 50],
+          "Indonesia": [14, 17, 25, 30, 43, 52, 61, 64]
+        }
+      },
+      "sample": {
+        "band": 6,
+        "text": "The line graph illustrates the proportion of urban citizens in Philippines, Malaysia, Thailand and Indonesia between 1970 and 2020, with the expected population in 2030 and 2040.\n\nOverall, it can be easily seen that all four countries has a dramatic rise in population, starting at the lowest point in 1970 and being projected to reach the peak in 2040.\n\nMalaysia and Indonesia saw a slightly rise in population, respectively from 30 to about 45 and around 12 to over 20 percent from 1970 to 1990. After that, both countries has climbed rapidly until now before being predicted to continue increasing for the next 20 years.\n\nAfter almost remaining in the 70s, Philippines percentage increased dramatically to reach about 47 percent on 1990 and dropped to 40% in 2010. Then, this country faced slightly rise in 2020. Meanwhile, Thailand reached approximate 30% in 1990 and saw not much changes until 2020. Both two countries are projected to increase in population in 2030 and 2040.",
+        "comment": "This response covers the requirements of the task. There is an overview in the second paragraph and key features are presented for each country, with main trends identified.\n\nIdeas are grouped together with a clear overall progression: countries with a similar trend are presented in the same paragraph, first Malaysia and Indonesia, then Thailand and the Philippines. There is some effective use of linkers [Overall / After that / Meanwhile] and other cohesive devices [respectively / this country], but a few errors remain [Both two].\n\nVocabulary includes a range, with some less common examples [proportion / expected population / dramatic rise / projected to reach the peak]. There are some errors [slightly / slight / almost remaining / approximate / approximately], which do not impede communication.\n\nThe mix of grammatical structures is good, with some complex sentence forms [being predicted to continue increasing for the next 20 years]. Some errors remain, but they rarely reduce communication.\n\nTo improve the Band Score for this response, there could be more detail on the similarity of the trends on the graph, more detail on data from 1990 onwards and fewer errors in spelling and grammar. However, this is a good response that does address the requirements of the task."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "The most important aim of science should be to improve people's lives.",
+        "To what extent do you agree or disagree with this statement?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "Scientific developments are occurring at a great rate but some of them do not seem to be of help to people. In fact, sometimes scientific innovations are regretted by those who invented them. This essay will argue that science should never harm people but scientists should aim to further their understanding as much as to improve people's lives.\n\nOn one hand, there is a strong argument that the public good should be the top priority for scientists. They are the ones who have the potential to make discoveries and invent things that can change the world. Electricity, modern medicine, telecommunications and the internet are just some of the scientific innovations that have changed lives for the better.\n\nOn the other hand, sometimes scientists do research just in the hope of adding to their knowledge. While they should make absolutely sure that their experiments do no harm, they may not know until they have finished how their findings will be used and whether they will improve people's lives. The scientist Nobel invented dynamite to help with mining, not knowing that it would one day be used in weapons, and the scientist who discovered the life-saving drug penicillin did so quite by chance.\n\nOverall, it seems that science should improve the lives of people and that ought to be one of its aims. However, knowledge and discovery are aims in themselves and are just as important for scientists. Sometimes scientists do not know how their scientific breakthroughs will be used until their work is done.",
+        "comment": "This response presents a well-developed response to the question and concludes that the aim of scientific discoveries should be to improve people's lives, but that the process often results in unexpected outcomes.\n\nThe candidate agrees with but adds to the statement. This is acceptable in a 'to what extent' question, as the candidate is explaining that the extent cannot always be predicted.\n\nThe candidate presents the argument that the true aim of science is gaining new knowledge and discoveries. They agree that this should be to improve people's lives but that the results can't be predicted.\n\nThe second paragraph gives examples of discoveries that have changed people's lives for the better [Electricity, modern medicine, telecommunications and the internet].\n\nTo improve the response, this paragraph could be expanded so that the list of discoveries is fully aligned with the question.\n\nThe third paragraph presents the other side, that scientists do not often know what they will find. Examples of two innovations are given [dynamite / penicillin] to support this point.\n\nIdeas are logically organised and paragraphs have clear central topics. Cohesive devices are used appropriately with some appropriate referencing [them / their / it], although linkers often appear at the start of the sentence, which can seem a little mechanical [On one hand / On the other hand / While / Overall / However / Sometimes].\n\nIn order to improve the overall rating, the second paragraph could be further extended and the use of cohesive devices could be less mechanical and not always at the start of each sentence.\n\nHowever, this is a strong, higher-level response to the task."
+      }
+    }
+  ]
+}

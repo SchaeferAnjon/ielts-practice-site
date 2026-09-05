@@ -1,0 +1,241 @@
+{
+  "id": "c18t1",
+  "book": "剑桥雅思18",
+  "test": 1,
+  "title": "剑18 Test 1 · Reading",
+  "minutes": 60,
+  "passages": [
+    {
+      "n": 1,
+      "title": "Urban farming",
+      "subtitle": "In Paris, urban farmers are trying a soil-free approach to agriculture that uses less space and fewer resources. Could it help cities face the threats to our food supplies?",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {"id": "p1", "text": "On top of a striking new exhibition hall in southern Paris, the world's largest urban rooftop farm has started to bear fruit. Strawberries that are small, intensely flavoured and resplendently red sprout abundantly from large plastic tubes. Peer inside and you see the tubes are completely hollow, the roots of dozens of strawberry plants dangling down inside them. From identical vertical tubes nearby burst row upon row of lettuces; near those are aromatic herbs, such as basil, sage and peppermint. Opposite, in narrow, horizontal trays packed not with soil but with coconut fibre, grow cherry tomatoes, shiny aubergines and brightly coloured chards."},
+        {"id": "p2", "text": "Pascal Hardy, an engineer and sustainable development consultant, began experimenting with vertical farming and aeroponic growing towers — as the soil-free plastic tubes are known — on his Paris apartment block roof five years ago. The urban rooftop space above the exhibition hall is somewhat bigger: 14,000 square metres and almost exactly the size of a couple of football pitches. Already, the team of young urban farmers who tend it have picked, in one day, 3,000 lettuces and 150 punnets of strawberries. When the remaining two thirds of the vast open area are in production, 20 staff will harvest up to 1,000 kg of perhaps 35 different varieties of fruit and vegetables, every day. 'We're not ever, obviously, going to feed the whole city this way,' cautions Hardy. 'In the urban environment you're working with very significant practical constraints, clearly, on what you can do and where. But if enough unused space can be developed like this, there's no reason why you shouldn't eventually target maybe between 5% and 10% of consumption.'"},
+        {"id": "p3", "text": "Perhaps most significantly, however, this is a real-life showcase for the work of Hardy's flourishing urban agriculture consultancy, Agripolis, which is currently fielding enquiries from around the world to design, build and equip a new breed of soil-free inner-city farm. 'The method's advantages are many,' he says. 'First, I don't much like the fact that most of the fruit and vegetables we eat have been treated with something like 17 different pesticides, or that the intensive farming techniques that produced them are such huge generators of greenhouse gases. I don't much like the fact, either, that they've travelled an average of 2,000 refrigerated kilometres to my plate, that their quality is so poor, because the varieties are selected for their capacity to withstand such substantial journeys, or that 80% of the price I pay goes to wholesalers and transport companies, not the producers.'"},
+        {"id": "p4", "text": "Produce grown using this soil-free method, on the other hand — which relies solely on a small quantity of water, enriched with organic nutrients, pumped around a closed circuit of pipes, towers and trays — is 'produced up here, and sold locally, just down there. It barely travels at all,' Hardy says. 'You can select crop varieties for their flavour, not their resistance to the transport and storage chain, and you can pick them when they're really at their best, and not before.' No soil is exhausted, and the water that gently showers the plants' roots every 12 minutes is recycled, so the method uses 90% less water than a classic intensive farm for the same yield."},
+        {"id": "p5", "text": "Urban farming is not, of course, a new phenomenon. Inner-city agriculture is booming from Shanghai to Detroit and Tokyo to Bangkok. Strawberries are being grown in disused shipping containers, mushrooms in underground carparks. Aeroponic farming, he says, is 'virtuous'. The equipment weighs little, can be installed on almost any flat surface and is cheap to buy: roughly €100 to €150 per square metre. It is cheap to run, too, consuming a tiny fraction of the electricity used by some techniques."},
+        {"id": "p6", "text": "Produce grown this way typically sells at prices that, while generally higher than those of classic intensive agriculture, are lower than soil-based organic growers. There are limits to what farmers can grow this way, of course, and much of the produce is suited to the summer months. 'Root vegetables we cannot do, at least not yet,' he says. 'Radishes are OK, but carrots, potatoes, that kind of thing — the roots are simply too long. Fruit trees are obviously not an option. And beans tend to take up a lot of space for not much return.' Nevertheless, urban farming of the kind being practised in Paris is one part of a bigger and fast-changing picture that is bringing food production closer to our lives."}
+      ],
+      "groups": [
+        {
+          "range": [1, 3],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+          "title": "Urban farming in Paris",
+          "lines": [
+            "1 Vertical tubes are used to grow strawberries, {{1}} and herbs.",
+            "2 There will eventually be a daily harvest of as much as {{2}} in weight of fruit and vegetables.",
+            "3 It may be possible that the farm's produce will account for as much as 10% of the city's {{3}} overall."
+          ]
+        },
+        {
+          "range": [4, 7],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Intensive farming versus aeroponic urban farming",
+          "table": {
+            "head": ["", "Growth", "Selection", "Sale"],
+            "rows": [
+              ["Intensive farming", "wide range of {{4}} used\ntechniques pollute air", "quality not good\nvarieties of fruit and vegetables chosen that can survive long {{5}}", "{{6}} receive very little of overall income"],
+              ["Aeroponic urban farming", "no soil used\nnutrients added to water, which is recycled", "produce chosen because of its {{7}}", ""]
+            ]
+          }
+        },
+        {
+          "range": [8, 13],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [["TRUE", "if the statement agrees with the information"], ["FALSE", "if the statement contradicts the information"], ["NOT GIVEN", "if there is no information on this"]],
+          "questions": [
+            {"n": 8, "text": "Urban farming can take place above or below ground."},
+            {"n": 9, "text": "Some of the equipment used in aeroponic farming can be made by hand."},
+            {"n": 10, "text": "Urban farming relies more on electricity than some other types of farming."},
+            {"n": 11, "text": "Fruit and vegetables grown on an aeroponic urban farm are cheaper than traditionally grown organic produce."},
+            {"n": 12, "text": "Most produce can be grown on an aeroponic urban farm at any time of the year."},
+            {"n": 13, "text": "Beans take longer to grow on an urban farm than other vegetables."}
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Forest management in Pennsylvania, USA",
+      "subtitle": "How managing low-quality wood (also known as low-use wood) for bioenergy can encourage sustainable forest management",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {"id": "A", "label": "A", "text": "A tree's 'value' depends on several factors including its species, size, form, condition, quality, function, and accessibility, and depends on the management goals for a given forest. The same tree can be valued very differently by each person who looks at it. A large, straight black cherry tree has high value as timber to be cut into logs or made into furniture, but for a landowner more interested in wildlife habitat, the real value of that stem (or trunk) may be the food it provides to animals. Likewise, if the tree suffers from black knot disease, its value for timber decreases, but to a woodworker interested in making bowls, it brings an opportunity for a unique and beautiful piece of art."},
+        {"id": "B", "label": "B", "text": "In the past, Pennsylvania landowners were solely interested in the value of their trees as high-quality timber. The norm was to remove the stems of highest quality and leave behind poorly formed trees that were not as well suited to the site where they grew. This practice, called 'high-grading', has left a legacy of 'low-use wood' in the forests. Some people even call these 'junk trees', and they are abundant in Pennsylvania. These trees have lower economic value for traditional timber markets, compete for growth with higher-value trees, shade out desirable regeneration and decrease the health of a stand*, leaving it more vulnerable to poor weather and disease. Management that specifically targets low-use wood can help landowners manage these forest health issues, and wood energy markets help promote this."},
+        {"id": "C", "label": "C", "text": "Wood energy markets can accept less expensive wood material of lower quality than would be suitable for traditional timber markets. Most wood used for energy in Pennsylvania is used to produce heat or electricity through combustion. Many schools and hospitals use wood boiler systems to heat and power their facilities, many homes are primarily heated with wood, and some coal plants incorporate wood into their coal streams to produce electricity. Wood can also be gasified for electrical generation and can even be made into liquid fuels like ethanol and gasoline for lorries and cars. All these products are made primarily from low-use wood. Several tree- and plant-cutting approaches, which could greatly improve the long-term quality of a forest, focus strongly or solely on the use of wood for those markets."},
+        {"id": "D", "label": "D", "text": "One such approach is called a Timber Stand Improvement (TSI) Cut. In a TSI Cut, really poor-quality tree and plant material is cut down to allow more space, light, and other resources to the highest-valued stems that remain. Removing invasive plants might be another primary goal of a TSI Cut. The stems that are left behind might then grow in size and develop more foliage and larger crowns or tops that produce more coverage for wildlife; they have a better chance to regenerate in a less crowded environment. TSI Cuts can be tailored to one farmer's specific management goals for his or her land."},
+        {"id": "E", "label": "E", "text": "Another approach that might yield a high amount of low-use wood is a Salvage Cut. With the many pests and pathogens visiting forests including hemlock wooly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth, to name just a few, it is important to remember that those working in the forests can help ease these issues through cutting procedures. These types of cut reduce the number of sick trees and seek to manage the future spread of a pest problem. They leave vigorous trees that have stayed healthy enough to survive the outbreak."},
+        {"id": "F", "label": "F", "text": "A Shelterwood Cut, which only takes place in a mature forest that has already been thinned several times, involves removing all the mature trees when other seedlings have become established. This then allows the forester to decide which tree species are regenerated. It leaves a young forest where all trees are at a similar point in their growth. It can also be used to develop a two-tier forest so that there are two harvests and the money that comes in is spread out over a decade or more."},
+        {"id": "G", "label": "G", "text": "Thinnings and dense and dead wood removal for fire prevention also center on the production of low-use wood. However, it is important to remember that some retention of what many would classify as low-use wood is very important. The tops of trees that have been cut down should be left on the site so that their nutrients cycle back into the soil. In addition, trees with many cavities are extremely important habitats for insect predators like woodpeckers, bats and small mammals. They help control problem insects and increase the health and resilience of the forest. It is also important to remember that not all small trees are low-use. For example, many species like hawthorn provide food for wildlife. Finally, rare species of trees in a forest should also stay behind as they add to its structural diversity."}
+      ],
+      "footnotes": [
+        "* Stand — An area covered with trees that have common features (e.g. size)"
+      ],
+      "groups": [
+        {
+          "range": [14, 18],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information?",
+          "limit": "Write the correct letter, A-G, in boxes 14-18 on your answer sheet. NB You may use any letter more than once.",
+          "options": ["A", "B", "C", "D", "E", "F", "G"],
+          "questions": [
+            {"n": 14, "text": "bad outcomes for a forest when people focus only on its financial reward"},
+            {"n": 15, "text": "reference to the aspects of any tree that contribute to its worth"},
+            {"n": 16, "text": "mention of the potential use of wood to help run vehicles"},
+            {"n": 17, "text": "examples of insects that attack trees"},
+            {"n": 18, "text": "an alternative name for trees that produce low-use wood"}
+          ]
+        },
+        {
+          "range": [19, 21],
+          "type": "matching",
+          "instruction": "Look at the following purposes (Questions 19-21) and the list of timber cuts below. Match each purpose with the correct timber cut, A, B or C.",
+          "limit": "Write the correct letter, A, B or C, in boxes 19-21 on your answer sheet. NB You may use any letter more than once.",
+          "optionsTitle": "List of Timber Cuts",
+          "options": [
+            {"k": "A", "text": "a TSI Cut"},
+            {"k": "B", "text": "a Salvage Cut"},
+            {"k": "C", "text": "a Shelterwood Cut"}
+          ],
+          "itemsTitle": "Purposes",
+          "items": [
+            {"n": 19, "text": "to remove trees that are diseased"},
+            {"n": 20, "text": "to generate income across a number of years"},
+            {"n": 21, "text": "to create a forest whose trees are close in age"}
+          ]
+        },
+        {
+          "range": [22, 26],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "lines": [
+            "22 Some dead wood is removed to avoid the possibility of {{22}}.",
+            "23 The {{23}} from the tops of cut trees can help improve soil quality.",
+            "24 Some damaged trees should be left, as their {{24}} provide habitats for a range of creatures.",
+            "25 Some trees that are small, such as {{25}}, are a source of food for animals and insects.",
+            "26 Any trees that are {{26}} should be left to grow, as they add to the variety of species in the forest."
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Conquering Earth's space junk problem",
+      "subtitle": "Satellites, rocket shards and collision debris are creating major traffic risks in orbit around the planet. Researchers are working to reduce these threats",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {"id": "A", "label": "A", "text": "Last year, commercial companies, military and civil departments and amateurs sent more than 400 satellites into orbit, over four times the yearly average in the previous decade. Numbers could rise even more sharply if leading space companies follow through on plans to deploy hundreds to thousands of large constellations of satellites to space in the next few years.\n\nAll that traffic can lead to disaster. Ten years ago, a US commercial Iridium satellite smashed into an inactive Russian communications satellite called Cosmos-2251, creating thousands of new pieces of space shrapnel that now threaten other satellites in low Earth orbit — the zone stretching up to 2,000 kilometres in altitude. Altogether, there are roughly 20,000 human-made objects in orbit, from working satellites to small rocket pieces. And satellite operators can't steer away from every potential crash, because each move consumes time and fuel that could otherwise be used for the spacecraft's main job."},
+        {"id": "B", "label": "B", "text": "Concern about space junk goes back to the beginning of the satellite era, but the number of objects in orbit is rising so rapidly that researchers are investigating new ways of attacking the problem. Several teams are trying to improve methods for assessing what is in orbit, so that satellite operators can work more efficiently in ever-more-crowded space. Some researchers are now starting to compile a massive data set that includes the best possible information on where everything is in orbit. Others are developing taxonomies of space debris — working on measuring properties such as the shape and size of an object, so that satellite operators know how much to worry about what's coming their way.\n\nThe alternative, many say, is unthinkable. Just a few uncontrolled space crashes could generate enough debris to set off a runaway cascade of fragments, rendering near-Earth space unusable. 'If we go on like this, we will reach a point of no return,' says Carolin Frueh, an astrodynamical researcher at Purdue University in West Lafayette, Indiana."},
+        {"id": "C", "label": "C", "text": "Even as our ability to monitor space objects increases, so too does the total number of items in orbit. That means companies, governments and other players in space are collaborating in new ways to avoid a shared threat. International groups such as the Inter-Agency Space Debris Coordination Committee have developed guidelines on space sustainability. Those include inactivating satellites at the end of their useful life by venting pressurised materials or leftover fuel that might lead to explosions. The intergovernmental groups also advise lowering satellites deep enough into the atmosphere that they will burn up or disintegrate within 25 years. But so far, only about half of all missions have abided by this 25-year goal, says Holger Krag, head of the European Space Agency's space-debris office in Darmstadt, Germany. Operators of the planned large constellations of satellites say they will be responsible stewards in their enterprises in space, but Krag worries that problems could increase, despite their best intentions. 'What happens to those that fail or go bankrupt?' he asks. 'They are probably not going to spend money to remove their satellites from space.'"},
+        {"id": "D", "label": "D", "text": "In theory, given the vastness of space, satellite operators should have plenty of room for all these missions to fly safely without ever nearing another object. So some scientists are tackling the problem of space junk by trying to find out where all the debris is to a high degree of precision. That would alleviate the need for many of the unnecessary manoeuvres that are carried out to avoid potential collisions. 'If you knew precisely where everything was, you would almost never have a problem,' says Marlon Sorge, a space-debris specialist at the Aerospace Corporation in El Segundo, California."},
+        {"id": "E", "label": "E", "text": "The field is called space traffic management, because it's similar to managing traffic on the roads or in the air. Think about a busy day at an airport, says Moriba Jah, an astrodynamicist at the University of Texas at Austin: planes line up in the sky, landing and taking off close to one another in a carefully choreographed routine. Air-traffic controllers know the location of the planes down to one metre in accuracy. The same can't be said for space debris. Not all objects in orbit are known, and even those included in databases are not tracked consistently."},
+        {"id": "F", "label": "F", "text": "An additional problem is that there is no authoritative catalogue that accurately lists the orbits of all known space debris. Jah illustrates this with a web-based database that he has developed. It draws on several sources, such as catalogues maintained by the US and Russian governments, to visualise where objects are in space. When he types in an identifier for a particular space object, the database draws a purple line to designate its orbit. Only this doesn't quite work for a number of objects, such as a Russian rocket body designated in the database as object number 32280. When Jah enters that number, the database draws two purple lines: the US and Russian sources contain two completely different orbits for the same object. Jah says that it is almost impossible to tell which is correct, unless a third source of information made it possible to cross-correlate.\n\nJah describes himself as a space environmentalist: 'I want to make space a place that is safe to operate, that is free and useful for generations to come.' Until that happens, he argues, the space community will continue devolving into a tragedy in which all spaceflight operators are polluting a common resource."}
+      ],
+      "groups": [
+        {
+          "range": [27, 31],
+          "type": "section-match",
+          "instruction": "Reading Passage 3 has six sections, A-F. Which section contains the following information?",
+          "limit": "Write the correct letter, A-F, in boxes 27-31 on your answer sheet.",
+          "options": ["A", "B", "C", "D", "E", "F"],
+          "questions": [
+            {"n": 27, "text": "a reference to the cooperation that takes place to try and minimise risk"},
+            {"n": 28, "text": "an explanation of a person's aims"},
+            {"n": 29, "text": "a description of a major collision that occurred in space"},
+            {"n": 30, "text": "a comparison between tracking objects in space and the efficiency of a transportation system"},
+            {"n": 31, "text": "a reference to efforts to classify space junk"}
+          ]
+        },
+        {
+          "range": [32, 35],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "The Inter-Agency Space Debris Coordination Committee",
+          "text": "The committee gives advice on how the {{32}} of space can be achieved. The committee advises that when satellites are no longer active, any unused {{33}} or pressurised material that could cause {{34}} should be removed.\n\nAlthough operators of large satellite constellations accept that they have obligations as stewards of space, Holger Krag points out that the operators that become {{35}} are unlikely to prioritise removing their satellites from space."
+        },
+        {
+          "range": [36, 40],
+          "type": "people-match",
+          "instruction": "Look at the following statements (Questions 36-40) and the list of people below. Match each statement with the correct person, A, B, C or D.",
+          "limit": "Write the correct letter, A, B, C or D, in boxes 36-40 on your answer sheet. NB You may use any letter more than once.",
+          "optionsTitle": "List of People",
+          "options": [
+            {"k": "A", "text": "Carolin Frueh"},
+            {"k": "B", "text": "Holger Krag"},
+            {"k": "C", "text": "Marlon Sorge"},
+            {"k": "D", "text": "Moriba Jah"}
+          ],
+          "questions": [
+            {"n": 36, "text": "Knowing the exact location of space junk would help prevent any possible danger."},
+            {"n": 37, "text": "Space should be available to everyone and should be preserved for the future."},
+            {"n": 38, "text": "A recommendation regarding satellites is widely ignored."},
+            {"n": 39, "text": "There is conflicting information about where some satellites are in space."},
+            {"n": 40, "text": "There is a risk we will not be able to undo the damage that occurs in space."}
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": ["lettuces"], "2": ["1,000 kg", "1000 kg"], "3": ["consumption", "food consumption"],
+    "4": ["pesticides"], "5": ["journeys"], "6": ["producers"], "7": ["flavour", "flavor"],
+    "8": ["TRUE"], "9": ["NOT GIVEN"], "10": ["FALSE"], "11": ["TRUE"], "12": ["FALSE"], "13": ["NOT GIVEN"],
+    "14": ["B"], "15": ["A"], "16": ["C"], "17": ["E"], "18": ["B"],
+    "19": ["B"], "20": ["C"], "21": ["C"],
+    "22": ["fire"], "23": ["nutrients"], "24": ["cavities"], "25": ["hawthorn"], "26": ["rare"],
+    "27": ["C"], "28": ["F"], "29": ["A"], "30": ["E"], "31": ["B"],
+    "32": ["sustainability"], "33": ["fuel"], "34": ["explosions"], "35": ["bankrupt"],
+    "36": ["C"], "37": ["D"], "38": ["B"], "39": ["D"], "40": ["A"]
+  },
+  "explain": {
+    "1": {"loc": "p1", "key": "From identical vertical tubes nearby burst row upon row of lettuces; near those are aromatic herbs", "why": "题干 vertical tubes are used to grow strawberries, ___ and herbs，原文紧跟着说竖直管里种的是 lettuces（生菜），故填 lettuces。"},
+    "2": {"loc": "p2", "key": "20 staff will harvest up to 1,000 kg of perhaps 35 different varieties of fruit and vegetables, every day", "why": "题干 daily harvest of as much as ___ in weight = 原文 harvest up to 1,000 kg … every day。"},
+    "3": {"loc": "p2", "key": "you shouldn't eventually target maybe between 5% and 10% of consumption", "why": "题干 as much as 10% of the city's ___ overall，原文明确说是占消费量（consumption）的 5%-10%。"},
+    "4": {"loc": "p3", "key": "most of the fruit and vegetables we eat have been treated with something like 17 different pesticides", "why": "表格 Growth 一栏 Intensive farming 使用了大量的农药，wide range of ___ used 对应 pesticides。"},
+    "5": {"loc": "p3", "key": "the varieties are selected for their capacity to withstand such substantial journeys", "why": "Selection 一栏说传统农业选择能经受长途运输的品种，long ___ 对应 journeys。"},
+    "6": {"loc": "p3", "key": "80% of the price I pay goes to wholesalers and transport companies, not the producers", "why": "Sale 一栏说传统农业里生产者只得到很少的收入（80%给了批发商和运输公司，不是给 producers），故填 producers。"},
+    "7": {"loc": "p4", "key": "You can select crop varieties for their flavour, not their resistance to the transport and storage chain", "why": "Selection 一栏说气雾栽培根据风味（flavour）挑选作物品种，故填 flavour。"},
+    "8": {"loc": "p5", "key": "Strawberries are being grown in disused shipping containers, mushrooms in underground carparks", "why": "原文举例说草莓在废弃集装箱里种植，蘑菇在地下停车场种植 → 既可以在地上也可以在地下，与题干一致，TRUE。"},
+    "9": {"loc": "p5", "key": "The equipment weighs little, can be installed on almost any flat surface and is cheap to buy", "why": "原文只说设备重量轻、便宜、可安装在平面上，完全没提是否可以手工制作 → NOT GIVEN。"},
+    "10": {"loc": "p5", "key": "It is cheap to run, too, consuming a tiny fraction of the electricity used by some techniques", "why": "原文说气雾农业耗电量只是其他技术的一小部分，即用电更少，与题干（urban farming 用电更多）矛盾 → FALSE。"},
+    "11": {"loc": "p6", "key": "Produce grown this way typically sells at prices that … are lower than soil-based organic growers", "why": "原文明确说这种方式生产的产品价格低于有机种植者（土壤种植的有机农产品），与题干一致 → TRUE。"},
+    "12": {"loc": "p6", "key": "much of the produce is suited to the summer months", "why": "原文说大部分产品适合夏季生产，暗示并非全年任何时候都能大量种植，与题干矛盾 → FALSE。"},
+    "13": {"loc": "p6", "key": "beans tend to take up a lot of space for not much return", "why": "原文说豆类占地方、产量回报不高，但没有说它们比其他蔬菜生长时间更长 → NOT GIVEN。"},
+    "14": {"loc": "B", "key": "This practice, called 'high-grading' … decrease the health of a stand, leaving it more vulnerable to poor weather and disease", "why": "B 段讲述只顾经济价值（high-grading）导致森林质量下降、更易受天气和病害影响，即 bad outcomes for a forest。"},
+    "15": {"loc": "A", "key": "A tree's 'value' depends on several factors including its species, size, form, condition, quality, function, and accessibility", "why": "A 段列举了决定一棵树价值的各种因素（aspects that contribute to its worth）。"},
+    "16": {"loc": "C", "key": "can even be made into liquid fuels like ethanol and gasoline for lorries and cars", "why": "C 段提到木材可以制成乙醇、汽油等液体燃料用于卡车和汽车，即 help run vehicles。"},
+    "17": {"loc": "E", "key": "the many pests and pathogens visiting forests including hemlock wooly adelgid, Asian longhorned beetle, emerald ash borer, and gypsy moth", "why": "E 段列举了多种攻击树木的害虫，即 examples of insects that attack trees。"},
+    "18": {"loc": "B", "key": "Some people even call these 'junk trees'", "why": "B 段说这些低使用价值的树木也被称为 'junk trees'，即 an alternative name。"},
+    "19": {"loc": "E", "key": "Another approach that might yield a high amount of low-use wood is a Salvage Cut … reduce the number of sick trees", "why": "Salvage Cut 用于清除生病的树木，对应 to remove trees that are diseased → B。"},
+    "20": {"loc": "F", "key": "It can also be used to develop a two-tier forest so that there are two harvests and the money that comes in is spread out over a decade or more", "why": "Shelterwood Cut 可以让收入分摊在十年以上，对应 to generate income across a number of years → C。"},
+    "21": {"loc": "F", "key": "It leaves a young forest where all trees are at a similar point in their growth", "why": "Shelterwood Cut 留下的森林里所有树木生长阶段相近，对应 trees are close in age → C。"},
+    "22": {"loc": "G", "key": "Thinnings and dense and dead wood removal for fire prevention also center on the production of low-use wood", "why": "题干 avoid the possibility of ___，原文说清理枯木是为了防火（fire prevention），故填 fire。"},
+    "23": {"loc": "G", "key": "The tops of trees that have been cut down should be left on the site so that their nutrients cycle back into the soil", "why": "题干 the ___ from the tops of cut trees can help improve soil quality，对应原文 nutrients cycle back into the soil，故填 nutrients。"},
+    "24": {"loc": "G", "key": "trees with many cavities are extremely important habitats for insect predators like woodpeckers, bats and small mammals", "why": "题干 their ___ provide habitats，对应原文 trees with many cavities … habitats，故填 cavities。"},
+    "25": {"loc": "G", "key": "not all small trees are low-use. For example, many species like hawthorn provide food for wildlife", "why": "题干 trees that are small, such as ___，原文举例 hawthorn，故填 hawthorn。"},
+    "26": {"loc": "G", "key": "rare species of trees in a forest should also stay behind as they add to its structural diversity", "why": "题干 trees that are ___ should be left to grow … add to the variety of species，对应原文 rare species，故填 rare。"},
+    "27": {"loc": "C", "key": "companies, governments and other players in space are collaborating in new ways to avoid a shared threat", "why": "C 段说各方合作以降低共同威胁，即 cooperation that takes place to try and minimise risk。"},
+    "28": {"loc": "F", "key": "Jah describes himself as a space environmentalist: 'I want to make space a place that is safe to operate, that is free and useful for generations to come.'", "why": "F 段末尾解释了 Jah 的个人目标（explanation of a person's aims）。"},
+    "29": {"loc": "A", "key": "a US commercial Iridium satellite smashed into an inactive Russian communications satellite called Cosmos-2251", "why": "A 段描述了一次重大的太空碰撞事件（a major collision）。"},
+    "30": {"loc": "E", "key": "Think about a busy day at an airport … Air-traffic controllers know the location of the planes down to one metre in accuracy. The same can't be said for space debris", "why": "E 段把追踪太空垃圾与机场空中交通管理的效率作比较（a comparison … transportation system）。"},
+    "31": {"loc": "B", "key": "Others are developing taxonomies of space debris — working on measuring properties such as the shape and size of an object", "why": "B 段提到有团队致力于对太空垃圾进行分类（efforts to classify space junk）。"},
+    "32": {"loc": "C", "key": "International groups such as the Inter-Agency Space Debris Coordination Committee have developed guidelines on space sustainability", "why": "题干 how the ___ of space can be achieved，对应原文 guidelines on space sustainability，故填 sustainability。"},
+    "33": {"loc": "C", "key": "inactivating satellites at the end of their useful life by venting pressurised materials or leftover fuel that might lead to explosions", "why": "题干 any unused ___ or pressurised material，对应原文 leftover fuel，故填 fuel。"},
+    "34": {"loc": "C", "key": "leftover fuel that might lead to explosions", "why": "题干 that could cause ___，对应原文 lead to explosions，故填 explosions。"},
+    "35": {"loc": "C", "key": "'What happens to those that fail or go bankrupt?' he asks. 'They are probably not going to spend money to remove their satellites from space.'", "why": "题干 operators that become ___ are unlikely to prioritise removing their satellites，对应原文 fail or go bankrupt，故填 bankrupt。"},
+    "36": {"loc": "D", "key": "'If you knew precisely where everything was, you would almost never have a problem,' says Marlon Sorge", "why": "题干 knowing the exact location … prevent any possible danger，对应 Sorge 的话，故选 C（Marlon Sorge）。"},
+    "37": {"loc": "F", "key": "'I want to make space a place that is safe to operate, that is free and useful for generations to come.'", "why": "题干 available to everyone and should be preserved for the future，对应 Jah 的话（free and useful for generations to come），故选 D（Moriba Jah）。"},
+    "38": {"loc": "C", "key": "only about half of all missions have abided by this 25-year goal, says Holger Krag", "why": "题干 a recommendation regarding satellites is widely ignored，对应 Krag 提到 25 年规则只有一半任务遵守，故选 B（Holger Krag）。"},
+    "39": {"loc": "F", "key": "the US and Russian sources contain two completely different orbits for the same object", "why": "题干 conflicting information about where some satellites are，对应 Jah 举的例子（两条不同轨道线），故选 D（Moriba Jah）。"},
+    "40": {"loc": "B", "key": "Just a few uncontrolled space crashes could generate enough debris to set off a runaway cascade of fragments, rendering near-Earth space unusable. 'If we go on like this, we will reach a point of no return,' says Carolin Frueh", "why": "题干 a risk we will not be able to undo the damage，对应 Frueh 所说的 'point of no return'，故选 A（Carolin Frueh）。"}
+  }
+}
