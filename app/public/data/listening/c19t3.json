@@ -1,0 +1,1492 @@
+{
+  "id": "c19t3",
+  "book": "剑桥雅思19",
+  "test": 3,
+  "title": "剑19 Test 3 · Listening",
+  "source": "Cambridge IELTS 19 Academic, Test 3（OCR 文字层抽取 + 人工核对）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c19/t3p1.mp3",
+      "duration": 396,
+      "title": "Local food shops",
+      "groups": [
+        {
+          "range": [
+            1,
+            6
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Local food shops",
+          "lines": [
+            "## Where to go",
+            "Kite Place – near the {{1}}",
+            "## Fish market",
+            "Cross the {{2}} and turn right",
+            "Best to go before {{3}} pm, earlier than closing time",
+            "## Organic shop",
+            "Called '{{4}}'",
+            "Below a restaurant in the large, grey building",
+            "Look for the large {{5}} outside",
+            "## Supermarket",
+            "Take a {{6}} minibus, Number 289"
+          ]
+        },
+        {
+          "range": [
+            7,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Shopping",
+          "table": {
+            "head": [
+              "",
+              "To buy",
+              "Other ideas"
+            ],
+            "rows": [
+              [
+                "Fish market",
+                "a dozen prawns",
+                "a handful of {{7}}\n(type of seaweed)"
+              ],
+              [
+                "Organic shop",
+                "beans and a {{8}}\nfor dessert",
+                "spices and {{9}}"
+              ],
+              [
+                "Bakery",
+                "a brown loaf",
+                "a {{10}} tart"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LEON",
+          "t": "Hi Shannon — how are you settling into your new flat?",
+          "start": 93.29,
+          "end": 96.57
+        },
+        {
+          "s": "SHANNON",
+          "t": "Really well, thanks.",
+          "start": 96.77,
+          "end": 98.09
+        },
+        {
+          "s": "LEON",
+          "t": "You look like you're going shopping.",
+          "start": 98.37,
+          "end": 100.09
+        },
+        {
+          "s": "SHANNON",
+          "t": "Yes, I am. My cousins are coming to stay for a couple of days, and I have to cook for them.",
+          "start": 100.33,
+          "end": 106.77
+        },
+        {
+          "s": "LEON",
+          "t": "Well, there are plenty of places to buy food in Kite Place — it's the area by the harbour.",
+          "q": [
+            1
+          ],
+          "start": 107.35,
+          "end": 113.43
+        },
+        {
+          "s": "SHANNON",
+          "t": "Oh, OK, I'll find that on the map. Thanks.",
+          "start": 113.91,
+          "end": 118.43
+        },
+        {
+          "s": "LEON",
+          "t": "What sort of food do you need to get?",
+          "start": 119.23,
+          "end": 121.23
+        },
+        {
+          "s": "SHANNON",
+          "t": "Well, neither of them eats meat but they both like fish.",
+          "start": 121.55,
+          "end": 125.23
+        },
+        {
+          "s": "LEON",
+          "t": "Well, there's a really good fish market there.",
+          "start": 125.59,
+          "end": 128.55
+        },
+        {
+          "s": "SHANNON",
+          "t": "Oh great — where is it exactly?",
+          "start": 128.71,
+          "end": 131.24
+        },
+        {
+          "s": "LEON",
+          "t": "It's at the far end of Kite Place, so you have to go over the bridge and then it's on the right.",
+          "q": [
+            2
+          ],
+          "start": 131.84,
+          "end": 138.92
+        },
+        {
+          "s": "SHANNON",
+          "t": "OK — is it open all day?",
+          "start": 140.04,
+          "end": 142.16
+        },
+        {
+          "s": "LEON",
+          "t": "It doesn't close until four, but I'd recommend going earlier than that — it does run out of some things.",
+          "start": 143.0,
+          "end": 150.04
+        },
+        {
+          "s": "SHANNON",
+          "t": "Oh, I don't want that to happen.",
+          "start": 150.28,
+          "end": 151.96
+        },
+        {
+          "s": "LEON",
+          "t": "As long as you get there by 3.30, you should be fine. It's only 11 now, so plenty of time.",
+          "q": [
+            3
+          ],
+          "start": 152.81,
+          "end": 159.73
+        },
+        {
+          "s": "SHANNON",
+          "t": "Right.",
+          "start": 159.85,
+          "end": 160.17
+        },
+        {
+          "s": "LEON",
+          "t": "Do you need to buy vegetables too?",
+          "start": 161.37,
+          "end": 163.25
+        },
+        {
+          "s": "SHANNON",
+          "t": "I do, and I want to avoid all the plastic packaging in the supermarket!",
+          "start": 163.8,
+          "end": 168.08
+        },
+        {
+          "s": "LEON",
+          "t": "Well, there's a really nice organic shop there. Now what's it called . . . it's the name of a flower. I know, it's 'Rose'.",
+          "q": [
+            4
+          ],
+          "start": 168.36,
+          "end": 177.84
+        },
+        {
+          "s": "SHANNON",
+          "t": "That's a nice name.",
+          "start": 178.96,
+          "end": 179.88
+        },
+        {
+          "s": "LEON",
+          "t": "Yeah — it sells vegetables and quite a lot of other stuff.",
+          "start": 180.04,
+          "end": 183.92
+        },
+        {
+          "s": "SHANNON",
+          "t": "And where's that?",
+          "start": 184.04,
+          "end": 185.04
+        },
+        {
+          "s": "LEON",
+          "t": "Well, as you reach the market, you'll see a big grey building on your left — I think it used to be a warehouse. Anyway, now it's a restaurant upstairs, but the ground floor has two shops either side of the entrance and it's the one on the left.",
+          "start": 185.71,
+          "end": 202.82
+        },
+        {
+          "s": "SHANNON",
+          "t": "That's easy enough.",
+          "start": 203.54,
+          "end": 204.46
+        },
+        {
+          "s": "LEON",
+          "t": "You can't miss it — there's also a big sign on the pavement so you can look for that.",
+          "q": [
+            5
+          ],
+          "start": 204.62,
+          "end": 210.98
+        },
+        {
+          "s": "SHANNON",
+          "t": "Fine! I guess if I need anything else, I'll have to go to the supermarket.",
+          "start": 211.66,
+          "end": 216.78
+        },
+        {
+          "s": "LEON",
+          "t": "Yeah — you should be able to get everything you need, but there's a minibus that goes to the supermarket if you need it. It's purple and the number is 289.",
+          "q": [
+            6
+          ],
+          "start": 217.18,
+          "end": 229.14
+        },
+        {
+          "s": "SHANNON",
+          "t": "Thanks, that's great.",
+          "start": 229.58,
+          "end": 231.38
+        },
+        {
+          "s": "LEON",
+          "t": "So what do you need to get at the fish market? The salmon is always very good and the shellfish.",
+          "start": 268.52,
+          "end": 275.04
+        },
+        {
+          "s": "SHANNON",
+          "t": "I'm going to make a curry, I think, and I need about 12 prawns for that.",
+          "start": 275.4,
+          "end": 280.72
+        },
+        {
+          "s": "LEON",
+          "t": "They'll have plenty of those.",
+          "start": 280.92,
+          "end": 282.44
+        },
+        {
+          "s": "SHANNON",
+          "t": "OK.",
+          "start": 282.44,
+          "end": 282.64
+        },
+        {
+          "s": "LEON",
+          "t": "Have you ever tried samphire?",
+          "q": [
+            7
+          ],
+          "start": 282.76,
+          "end": 284.64
+        },
+        {
+          "s": "SHANNON",
+          "t": "No — what's that?",
+          "start": 286.48,
+          "end": 287.56
+        },
+        {
+          "s": "LEON",
+          "t": "It's a type of seaweed. I just ask for a handful and you fry it in butter. It's delicious!",
+          "start": 288.26,
+          "end": 295.5
+        },
+        {
+          "s": "SHANNON",
+          "t": "Oh, I might try that — how do you spell it?",
+          "start": 295.82,
+          "end": 299.56
+        },
+        {
+          "s": "LEON",
+          "t": "It's S-A-M-P-H-I-R-E.",
+          "start": 300.12,
+          "end": 309.56
+        },
+        {
+          "s": "SHANNON",
+          "t": "Great — it's always good to try something different.",
+          "start": 309.6,
+          "end": 312.68
+        },
+        {
+          "s": "LEON",
+          "t": "Yeah.",
+          "start": 312.88,
+          "end": 313.32
+        },
+        {
+          "s": "SHANNON",
+          "t": "I'll see what beans they have in the organic shop and I think I'll get something for dessert there.",
+          "start": 314.51,
+          "end": 320.75
+        },
+        {
+          "s": "LEON",
+          "t": "How about a mango?",
+          "start": 320.91,
+          "end": 322.75
+        },
+        {
+          "s": "SHANNON",
+          "t": "I'm not sure — they're not always ripe. I'd prefer a melon — it's bigger too.",
+          "q": [
+            8
+          ],
+          "start": 323.03,
+          "end": 329.82
+        },
+        {
+          "s": "LEON",
+          "t": "Good idea. The owner also sells a lot of spices there that you can put in a curry, and things like coconut.",
+          "q": [
+            9
+          ],
+          "start": 330.02,
+          "end": 339.4
+        },
+        {
+          "s": "SHANNON",
+          "t": "Oh, that's very helpful. I'll have a look.",
+          "start": 339.44,
+          "end": 342.68
+        },
+        {
+          "s": "LEON",
+          "t": "No problem.",
+          "start": 343.12,
+          "end": 343.8
+        },
+        {
+          "s": "SHANNON",
+          "t": "I know bread doesn't really go with curry but I always like to have some in case.",
+          "start": 344.4,
+          "end": 349.98
+        },
+        {
+          "s": "LEON",
+          "t": "As I said — all the bread is home-made and there's lots of variety. I like the brown bread myself.",
+          "start": 350.1,
+          "end": 357.3
+        },
+        {
+          "s": "SHANNON",
+          "t": "Mm, sounds good.",
+          "start": 358.54,
+          "end": 359.22
+        },
+        {
+          "s": "LEON",
+          "t": "They sell other things there too.",
+          "start": 359.93,
+          "end": 361.73
+        },
+        {
+          "s": "SHANNON",
+          "t": "Like cakes? I love chocolate cake.",
+          "start": 361.81,
+          "end": 365.45
+        },
+        {
+          "s": "LEON",
+          "t": "Well — not that, but they have a whole range of tarts and the best are the strawberry ones.",
+          "q": [
+            10
+          ],
+          "start": 365.57,
+          "end": 373.87
+        },
+        {
+          "s": "SHANNON",
+          "t": "Perfect — hopefully I won't even have to go to the supermarket!",
+          "start": 373.99,
+          "end": 378.71
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c19/t3p2.mp3",
+      "duration": 372,
+      "title": "Children's book festival",
+      "groups": [
+        {
+          "range": [
+            11,
+            16
+          ],
+          "type": "matching",
+          "instruction": "What information is given about each of the following festival workshops?",
+          "limit": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 11-16.",
+          "optionsTitle": "Information",
+          "options": [
+            {
+              "k": "A",
+              "text": "involves painting and drawing"
+            },
+            {
+              "k": "B",
+              "text": "will be led by a prize-winning author"
+            },
+            {
+              "k": "C",
+              "text": "is aimed at children with a disability"
+            },
+            {
+              "k": "D",
+              "text": "involves a drama activity"
+            },
+            {
+              "k": "E",
+              "text": "focuses on new relationships"
+            },
+            {
+              "k": "F",
+              "text": "is aimed at a specific age group"
+            },
+            {
+              "k": "G",
+              "text": "explores an unhappy feeling"
+            },
+            {
+              "k": "H",
+              "text": "raises awareness of a particular culture"
+            }
+          ],
+          "itemsTitle": "Festival workshops",
+          "items": [
+            {
+              "n": 11,
+              "text": "Superheroes"
+            },
+            {
+              "n": 12,
+              "text": "Just do it"
+            },
+            {
+              "n": 13,
+              "text": "Count on me"
+            },
+            {
+              "n": 14,
+              "text": "Speak up"
+            },
+            {
+              "n": 15,
+              "text": "Jump for joy"
+            },
+            {
+              "n": 16,
+              "text": "Sticks and stones"
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            18
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO reasons does the speaker give for recommending Alive and Kicking?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "It will appeal to both boys and girls."
+            },
+            {
+              "k": "B",
+              "text": "The author is well known."
+            },
+            {
+              "k": "C",
+              "text": "It has colourful illustrations."
+            },
+            {
+              "k": "D",
+              "text": "It is funny."
+            },
+            {
+              "k": "E",
+              "text": "It deals with an important topic."
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO pieces of advice does the speaker give to parents about reading?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Encourage children to write down new vocabulary."
+            },
+            {
+              "k": "B",
+              "text": "Allow children to listen to audio books."
+            },
+            {
+              "k": "C",
+              "text": "Get recommendations from librarians."
+            },
+            {
+              "k": "D",
+              "text": "Give children a choice about what they read."
+            },
+            {
+              "k": "E",
+              "text": "Only read aloud to children until they can read independently."
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "PRESENTER",
+          "t": "The children's book festival is coming up again soon and here to tell us all about it is the festival's organiser, Jenny Morgan. So tell us what we can expect this year, Jenny.",
+          "start": 54.62,
+          "end": 65.7
+        },
+        {
+          "s": "JENNY",
+          "t": "Well, as usual we've got five days of action-packed exciting events for children, with writers coming from all over the country getting involved.",
+          "start": 66.34,
+          "end": 76.38
+        },
+        {
+          "s": "JENNY",
+          "t": "Just to give you an idea of what's on offer in the workshops, first of all, there's a very special event called Superheroes. This is a chance for deaf children to share their reading experiences with author Madeleine Gordon, who is herself hearing impaired.",
+          "q": [
+            11
+          ],
+          "start": 77.75,
+          "end": 94.86
+        },
+        {
+          "s": "JENNY",
+          "t": "'Just do it' is a practical workshop led by the well-known illustrator Mark Keane. He'll take participants on a magical journey to faraway lands with an opportunity for aspiring actors to do some role play.",
+          "q": [
+            12
+          ],
+          "start": 96.42,
+          "end": 110.84
+        },
+        {
+          "s": "JENNY",
+          "t": "'Count on me' is an inspiring and entertaining look at the issues of friendship for 13–14-year-olds. It looks at some of the friendships described in popular books and asks participants to compare these with their own experiences.",
+          "q": [
+            13
+          ],
+          "start": 112.91,
+          "end": 127.6
+        },
+        {
+          "s": "JENNY",
+          "t": "'Speak up' is part of a series of workshops on the subject of mental health. This is a creative writing workshop encouraging children to describe situations where young people experience loneliness. A recent survey revealed that children can be lonely even when they're at home with their families.",
+          "q": [
+            14
+          ],
+          "start": 130.4,
+          "end": 149.88
+        },
+        {
+          "s": "JENNY",
+          "t": "'Jump for joy', as many of you will know, is the heart-warming, best-selling story by Nina Karan about a young girl's trip to visit her relatives in India. It recently received the gold medal at the Waterford Awards. Nina will get children to celebrate the word 'joy' by writing a poem.",
+          "q": [
+            15
+          ],
+          "start": 151.85,
+          "end": 171.51
+        },
+        {
+          "s": "JENNY",
+          "t": "'Sticks and stones' is the beautifully illustrated picture book for young readers about a community who organise an African-Caribbean festival to help local children learn about their Jamaican roots. This will be a musical event where children will have the chance to play steel drums. This is bound to be very popular, so please book as soon as possible.",
+          "q": [
+            16
+          ],
+          "start": 173.35,
+          "end": 196.37
+        },
+        {
+          "s": "PRESENTER",
+          "t": "Thanks Jenny. That all sounds really interesting. I'm just wondering if you have a favourite book you could recommend for our readers?",
+          "start": 234.68,
+          "end": 242.64
+        },
+        {
+          "s": "JENNY",
+          "t": "It's hard to choose, but Alive and Kicking is definitely worth mentioning. You won't have heard of the writer as it's her first book – which is really impressive. It's basically the teenage diary of a boy from Somalia who comes to live in the UK.",
+          "start": 242.68,
+          "end": 260.19
+        },
+        {
+          "s": "JENNY",
+          "t": "It deals with the serious issue of immigration and all the challenges the boy has to face at school and with the language barrier, etc.",
+          "q": [
+            17,
+            18
+          ],
+          "start": 260.9,
+          "end": 268.9
+        },
+        {
+          "s": "JENNY",
+          "t": "Usually, books like this are quite sad, but this one actually made me cry with laughter.",
+          "q": [
+            17,
+            18
+          ],
+          "start": 269.02,
+          "end": 275.64
+        },
+        {
+          "s": "JENNY",
+          "t": "On each page, there are simple but hilarious black and white stick drawings of the boy with his friends and teachers. At the end of each diary entry, there are new English words the boy learns each day, which may help develop some children's vocabulary.",
+          "start": 277.04,
+          "end": 292.25
+        },
+        {
+          "s": "PRESENTER",
+          "t": "I think my kids would enjoy that. What about any advice for parents on how to encourage their children to read more?",
+          "start": 293.01,
+          "end": 300.32
+        },
+        {
+          "s": "JENNY",
+          "t": "Well, this is something I get asked about a lot. There are so many distractions for kids these days that it can be hard to find time for reading. One thing I'd say is to make time to sit down with your child and share books with them. A lot of parents give up reading aloud to their children as soon as they learn to read independently, but this is a mistake. It's good to read more advanced books to them as it helps to develop their vocabulary.",
+          "start": 300.4,
+          "end": 328.42
+        },
+        {
+          "s": "JENNY",
+          "t": "If you don't have time for this, then let them listen to audio books.",
+          "q": [
+            19,
+            20
+          ],
+          "start": 329.18,
+          "end": 332.1
+        },
+        {
+          "s": "JENNY",
+          "t": "Often, they'll want to read books they've listened to for themselves. I think it's a good idea to make a mental note of the type of books your child is reading — often they just read the same genre all the time, which can get a bit boring. You can introduce new authors and genres to them.",
+          "start": 333.79,
+          "end": 351.25
+        },
+        {
+          "s": "JENNY",
+          "t": "Librarians should be able to help you with this.",
+          "q": [
+            19,
+            20
+          ],
+          "start": 351.29,
+          "end": 353.73
+        },
+        {
+          "s": "PRESENTER",
+          "t": "Well Jenny, I think that's really useful . . .",
+          "start": 354.13,
+          "end": 356.29
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c19/t3p3.mp3",
+      "duration": 422,
+      "title": "Science experiment for Year 12 students",
+      "groups": [
+        {
+          "range": [
+            21,
+            25
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Science experiment for Year 12 students",
+          "questions": [
+            {
+              "n": 21,
+              "text": "How does Clare feel about the students in her Year 12 science class?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "worried that they are not making progress"
+                },
+                {
+                  "k": "B",
+                  "text": "challenged by their poor behaviour in class"
+                },
+                {
+                  "k": "C",
+                  "text": "frustrated at their lack of interest in the subject"
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "How does Jake react to Clare's suggestion about an experiment based on children's diet?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "He is concerned that the results might not be meaningful."
+                },
+                {
+                  "k": "B",
+                  "text": "He feels some of the data might be difficult to obtain."
+                },
+                {
+                  "k": "C",
+                  "text": "He suspects that the conclusions might be upsetting."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "What problem do they agree may be involved in an experiment involving animals?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Any results may not apply to humans."
+                },
+                {
+                  "k": "B",
+                  "text": "It may be complicated to get permission."
+                },
+                {
+                  "k": "C",
+                  "text": "Students may not be happy about animal experiments."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "What question do they decide the experiment should address?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Are mice capable of controlling their food intake?"
+                },
+                {
+                  "k": "B",
+                  "text": "Does an increase in sugar lead to health problems?"
+                },
+                {
+                  "k": "C",
+                  "text": "How much do supplements of different kinds affect health?"
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "Clare might also consider doing another experiment involving",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "other types of food supplement."
+                },
+                {
+                  "k": "B",
+                  "text": "different genetic strains of mice."
+                },
+                {
+                  "k": "C",
+                  "text": "varying amounts of exercise."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            26,
+            30
+          ],
+          "type": "matching",
+          "instruction": "Complete the flowchart below. Choose FIVE answers from the box and write the correct letter, A-H, next to Questions 26-30.",
+          "optionsTitle": "Options",
+          "options": [
+            {
+              "k": "A",
+              "text": "size"
+            },
+            {
+              "k": "B",
+              "text": "escape"
+            },
+            {
+              "k": "C",
+              "text": "age"
+            },
+            {
+              "k": "D",
+              "text": "water"
+            },
+            {
+              "k": "E",
+              "text": "cereal"
+            },
+            {
+              "k": "F",
+              "text": "calculations"
+            },
+            {
+              "k": "G",
+              "text": "changes"
+            },
+            {
+              "k": "H",
+              "text": "colour"
+            }
+          ],
+          "itemsTitle": "Procedure",
+          "items": [
+            {
+              "n": 26,
+              "text": "Choose mice which are all the same ___ (then divide into two groups, cage them, and feed group A commercial mouse food)"
+            },
+            {
+              "n": 27,
+              "text": "Divide the mice into two groups, each with a different ___"
+            },
+            {
+              "n": 28,
+              "text": "Feed group B the same as group A, but also sugar contained in ___"
+            },
+            {
+              "n": 29,
+              "text": "Take measurements using an electronic scale; place the mice in a weighing chamber to prevent ___"
+            },
+            {
+              "n": 30,
+              "text": "Do all necessary ___"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "CLARE",
+          "t": "Hi Jake. How are you getting on with the practical teaching?",
+          "start": 61.28,
+          "end": 64.56
+        },
+        {
+          "s": "JAKE",
+          "t": "It's harder than I expected, but I've got some great classes. How about you?",
+          "start": 65.4,
+          "end": 69.68
+        },
+        {
+          "s": "CLARE",
+          "t": "Not brilliant. I'm really struggling with my Year 12 science class.",
+          "start": 69.8,
+          "end": 74.78
+        },
+        {
+          "s": "JAKE",
+          "t": "Are they hard to control?",
+          "start": 75.38,
+          "end": 76.46
+        },
+        {
+          "s": "CLARE",
+          "t": "Well, I don't have discipline problems as such. It's just that they don't seem to think that science has anything to do with their lives. It's depressing.",
+          "q": [
+            21
+          ],
+          "start": 76.7,
+          "end": 85.36
+        },
+        {
+          "s": "CLARE",
+          "t": "They listen to what I say, and I gave them a test last week and the results weren't too bad, but there's no real engagement.",
+          "start": 86.32,
+          "end": 93.68
+        },
+        {
+          "s": "JAKE",
+          "t": "Right.",
+          "start": 94.04,
+          "end": 94.36
+        },
+        {
+          "s": "CLARE",
+          "t": "And as part of my teaching practice, I have to design an experiment for them to do. I was wondering about something on the children's diets . . . you know, asking them to record what they eat and maybe linking it to their state of health.",
+          "start": 95.29,
+          "end": 108.33
+        },
+        {
+          "s": "JAKE",
+          "t": "Mmm. Let's think. So your methodology would involve the children recording what they eat. OK, but you'd also need to have access to the children's medical records and I don't think people would be happy about that; confidentiality would be an issue.",
+          "q": [
+            22
+          ],
+          "start": 110.9,
+          "end": 126.22
+        },
+        {
+          "s": "JAKE",
+          "t": "If you could get the right data, the conclusions might be significant, but I suspect it's not going to be easy.",
+          "start": 127.54,
+          "end": 134.3
+        },
+        {
+          "s": "CLARE",
+          "t": "Right.",
+          "start": 134.54,
+          "end": 134.98
+        },
+        {
+          "s": "JAKE",
+          "t": "Have you thought about doing an experiment using animals?",
+          "start": 135.34,
+          "end": 138.34
+        },
+        {
+          "s": "CLARE",
+          "t": "Wouldn't that be upsetting for the children?",
+          "start": 138.66,
+          "end": 140.78
+        },
+        {
+          "s": "JAKE",
+          "t": "Well, the animals don't have to be harmed in any way. It could just be an experiment where they're given a certain diet and the effects are observed.",
+          "start": 141.52,
+          "end": 150.56
+        },
+        {
+          "s": "CLARE",
+          "t": "Would I have to get permission to use animals?",
+          "start": 151.32,
+          "end": 153.66
+        },
+        {
+          "s": "JAKE",
+          "t": "Yes, you'd have to submit an outline of the experiment and fill in a form, but it's quite straightforward.",
+          "start": 154.06,
+          "end": 161.3
+        },
+        {
+          "s": "CLARE",
+          "t": "But if we found out that, say, a particular diet affects the health of animals, the same thing wouldn't necessarily be true for people, would it?",
+          "q": [
+            23
+          ],
+          "start": 161.62,
+          "end": 170.3
+        },
+        {
+          "s": "JAKE",
+          "t": "No that's true, but the findings for any experiment are going to be limited. It's inevitable.",
+          "start": 170.38,
+          "end": 176.46
+        },
+        {
+          "s": "CLARE",
+          "t": "I suppose so. So what animals could I use to investigate the effects of diet? Mice?",
+          "start": 177.0,
+          "end": 183.84
+        },
+        {
+          "s": "JAKE",
+          "t": "Yes. You'd need experimental mice — ones that have been specially bred for experiments.",
+          "start": 184.2,
+          "end": 190.42
+        },
+        {
+          "s": "CLARE",
+          "t": "OK, so what will your experiment be investigating exactly?",
+          "start": 191.1,
+          "end": 196.1
+        },
+        {
+          "s": "CLARE",
+          "t": "Well, something to do with nutrition. So maybe we could look at food supplements . . . things like extra iron and extra protein, and their impact on health.",
+          "start": 196.34,
+          "end": 206.44
+        },
+        {
+          "s": "JAKE",
+          "t": "Mmm. That might be rather broad. Maybe just look at the effects of one supplement, like sugar, on the health of the mice?",
+          "start": 207.76,
+          "end": 215.6
+        },
+        {
+          "s": "CLARE",
+          "t": "In fact, maybe the focus could be on whether mice can control their own diet.",
+          "q": [
+            24
+          ],
+          "start": 216.38,
+          "end": 221.34
+        },
+        {
+          "s": "JAKE",
+          "t": "So, what happens when they have access to more sugar, that they don't really need?",
+          "start": 221.66,
+          "end": 225.98
+        },
+        {
+          "s": "CLARE",
+          "t": "Exactly. Do they eat it or do they decide to leave it?",
+          "start": 226.14,
+          "end": 230.15
+        },
+        {
+          "s": "JAKE",
+          "t": "Great. Then later on, you could do a follow-up experiment adding another variable. Like, you could give some of the mice the chance to be more active, running on a wheel or something, and the others just sit around and don't do much.",
+          "q": [
+            25
+          ],
+          "start": 230.27,
+          "end": 246.14
+        },
+        {
+          "s": "CLARE",
+          "t": "Or I could repeat the experiment but change the type of food I provided . . . or use mice with a different genetic structure. But I think your idea would be more interesting, I might think about that some more.",
+          "start": 246.26,
+          "end": 260.23
+        },
+        {
+          "s": "CLARE",
+          "t": "So can I talk through a possible procedure for the experiment where mice are given a sugar supplement?",
+          "start": 303.39,
+          "end": 308.47
+        },
+        {
+          "s": "JAKE",
+          "t": "Sure. I did a similar experiment in college actually.",
+          "start": 309.15,
+          "end": 312.11
+        },
+        {
+          "s": "CLARE",
+          "t": "Great. So how many mice would I need?",
+          "start": 312.31,
+          "end": 315.42
+        },
+        {
+          "s": "JAKE",
+          "t": "I'd say about 12. And all young ones, not a mixture of old and young.",
+          "q": [
+            26
+          ],
+          "start": 315.94,
+          "end": 321.7
+        },
+        {
+          "s": "CLARE",
+          "t": "OK. And I'd need two groups of equal sizes, so six in each group. And how would I tell them apart? I suppose I could put some sort of tag on one group . . . or just mark them in some way?",
+          "q": [
+            27
+          ],
+          "start": 321.9,
+          "end": 337.31
+        },
+        {
+          "s": "JAKE",
+          "t": "You could use food colouring, that wouldn't hurt them.",
+          "start": 337.83,
+          "end": 340.31
+        },
+        {
+          "s": "CLARE",
+          "t": "Perfect. Then each group would go into a separate cage, and one group, let's call them group A, would be the control group. So they'd just have ordinary mouse food. I suppose you can buy that?",
+          "start": 340.43,
+          "end": 354.01
+        },
+        {
+          "s": "JAKE",
+          "t": "Yes, it comes in dry pellets.",
+          "start": 354.17,
+          "end": 355.65
+        },
+        {
+          "s": "CLARE",
+          "t": "And the other group would have the same as the first group, but they'd also have the extra sugar.",
+          "start": 356.21,
+          "end": 361.33
+        },
+        {
+          "s": "JAKE",
+          "t": "Would you just give them straight sugar?",
+          "start": 361.65,
+          "end": 363.65
+        },
+        {
+          "s": "CLARE",
+          "t": "It might be better to give them something like cereal with it.",
+          "q": [
+            28
+          ],
+          "start": 364.38,
+          "end": 367.42
+        },
+        {
+          "s": "JAKE",
+          "t": "Mmm. Then you'd need to weigh the mice, I should think once a week. And you'd need an electronic balance.",
+          "start": 368.62,
+          "end": 374.9
+        },
+        {
+          "s": "CLARE",
+          "t": "But we can't hold them on the balance, or it'd affect the reading.",
+          "start": 375.44,
+          "end": 378.92
+        },
+        {
+          "s": "JAKE",
+          "t": "Exactly. So you need something called a weighing chamber to stop the mice from running away. It sounds complicated, but actually you can just use a plastic box with holes in the top.",
+          "q": [
+            29
+          ],
+          "start": 379.32,
+          "end": 391.71
+        },
+        {
+          "s": "CLARE",
+          "t": "OK. So once we've measured the weight gain of each mouse we can work out the average for each group, as well as the standard deviation.",
+          "q": [
+            30
+          ],
+          "start": 391.83,
+          "end": 400.91
+        },
+        {
+          "s": "CLARE",
+          "t": "And then see where we go from there. That sounds cool, I think the students will enjoy it.",
+          "start": 401.59,
+          "end": 407.67
+        },
+        {
+          "s": "JAKE",
+          "t": "Yes. One thing . . .",
+          "start": 407.79,
+          "end": 409.45
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c19/t3p4.mp3",
+      "duration": 410,
+      "title": "Microplastics",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Microplastics",
+          "lines": [
+            "## Where microplastics come from",
+            "fibres from some {{31}} during washing",
+            "the breakdown of large pieces of plastic",
+            "waste from industry",
+            "the action of vehicle tyres on roads",
+            "## Effects of microplastics",
+            "They cause injuries to the {{32}} of wildlife and affect their digestive systems.",
+            "They enter the food chain, e.g., in bottled and tap water, {{33}} and seafood.",
+            "They may not affect human health, but they are already banned in skin cleaning products and {{34}} in some countries.",
+            "Microplastics enter the soil through the air, rain and {{35}}.",
+            "## Microplastics in the soil – a study by Anglia Ruskin University",
+            "Earthworms are important because they add {{36}} to the soil.",
+            "The study aimed to find whether microplastics in earthworms affect the {{37}} of plants.",
+            "The study found that microplastics caused:",
+            "– {{38}} loss in earthworms",
+            "– fewer seeds to germinate",
+            "– a rise in the level of {{39}} in the soil.",
+            "The study concluded:",
+            "– soil should be seen as an important natural process.",
+            "– changes to soil damage both ecosystems and {{40}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LECTURER",
+          "t": "In today's lecture, I'm going to be talking about microplastics.",
+          "start": 72.34,
+          "end": 76.58
+        },
+        {
+          "s": "LECTURER",
+          "t": "Microplastics are tiny pieces of plastic smaller than five millimetres in size.",
+          "start": 78.17,
+          "end": 83.81
+        },
+        {
+          "s": "LECTURER",
+          "t": "Recently there's been a greater awareness that there are large quantities of plastic waste — big and small — in the environment.",
+          "start": 84.17,
+          "end": 92.34
+        },
+        {
+          "s": "LECTURER",
+          "t": "The amount of plastic waste in the oceans has received widespread attention, but far less is known about the effects of microplastics in freshwater and particularly in soil.",
+          "start": 93.8,
+          "end": 105.98
+        },
+        {
+          "s": "LECTURER",
+          "t": "Microplastics can enter the environment via a number of different sources. Threads and microfibres detach from synthetic clothing every time they're put in a washing machine, and these find their way into the water system.",
+          "q": [
+            31
+          ],
+          "start": 107.97,
+          "end": 123.69
+        },
+        {
+          "s": "LECTURER",
+          "t": "Other sources include big pieces of plastic waste that are already in the environment, and these break down into microscopic particles over a period of time. On a larger scale, factory waste is another route, as are tyres which wear down as cars, lorries and so on travel along road surfaces.",
+          "start": 125.15,
+          "end": 147.49
+        },
+        {
+          "s": "LECTURER",
+          "t": "We already understand some of the impacts of microplastics from studies involving fish and other animals. There is evidence that microplastics harm small creatures in a variety of ways, such as by damaging their mouths, or by impairing their ability to feed, for example when microplastics get lodged in their digestive system.",
+          "q": [
+            32
+          ],
+          "start": 149.88,
+          "end": 174.18
+        },
+        {
+          "s": "LECTURER",
+          "t": "Surprisingly perhaps, it is likely that humans consume microplastics, as these have been detected in a wide range of food and drink products, including bottled water, as well as in water that comes direct from the tap. What's more, salt and many kinds of seafood have also been found to contain microplastics.",
+          "q": [
+            33
+          ],
+          "start": 176.35,
+          "end": 197.07
+        },
+        {
+          "s": "LECTURER",
+          "t": "However, it's important to underline that there is not yet conclusive proof that microplastics cause significant harm to people. In many countries, including here in the UK, there is legislation which prevents manufacturers from adding plastic microbeads to shower gels, facial cleansers and toothpaste.",
+          "q": [
+            34
+          ],
+          "start": 198.82,
+          "end": 220.48
+        },
+        {
+          "s": "LECTURER",
+          "t": "It is very difficult to accurately estimate the total amount of microplastic particles in the soil as they can be hard to detect, but we do know they are carried in the air and deposited in the soil by rain. What's more, many of the fertilisers used by both farmers and gardeners contain microplastics.",
+          "q": [
+            35
+          ],
+          "start": 222.14,
+          "end": 244.39
+        },
+        {
+          "s": "LECTURER",
+          "t": "A team from the Anglia Ruskin University in Cambridge has carried out a study of the effects of microplastics on the digestive tracts of earthworms. These worms, which live in topsoil, are an essential component of our agricultural system. By feeding on soil, they mix nutrients into it, thereby making it more fertile.",
+          "q": [
+            36
+          ],
+          "start": 249.88,
+          "end": 274.11
+        },
+        {
+          "s": "LECTURER",
+          "t": "The researchers set out to discover whether the introduction of microplastics into the soil — and the subsequent ingestion of these by earthworms — would impact soil quality and ultimately inhibit plant growth.",
+          "q": [
+            37
+          ],
+          "start": 275.46,
+          "end": 288.38
+        },
+        {
+          "s": "LECTURER",
+          "t": "The short answer was, yes, it did. After placing three different types of microplastic particles into the soil, they planted perennial rye grass. The particles of microplastic, which included biodegradable PLA and conventional high-density polyethylene, or HDPE, were then ingested by the earthworms in the soil. The result was that the worms lost weight rapidly.",
+          "q": [
+            38
+          ],
+          "start": 289.14,
+          "end": 314.64
+        },
+        {
+          "s": "LECTURER",
+          "t": "What's more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile. The team also discovered that there was an increase in the amount of acid found in the soil, and this was attributed mainly to the microplastic particles from conventional HDPE plastic.",
+          "q": [
+            39
+          ],
+          "start": 314.72,
+          "end": 342.4
+        },
+        {
+          "s": "LECTURER",
+          "t": "The conclusions of the study make for very interesting reading — I've included the reference in the notes to give you at the end of this session. To summarise, the authors proposed the idea that we need to regard soil as we would regard any other process in nature. This means we should accept the implications of soil being dependent on decaying and dead matter constantly being passed through the bodies of earthworms.",
+          "start": 344.46,
+          "end": 371.24
+        },
+        {
+          "s": "LECTURER",
+          "t": "That is, when soil becomes impoverished by the presence of microplastics, not only ecosystems but also the whole of society are negatively impacted.",
+          "q": [
+            40
+          ],
+          "start": 372.08,
+          "end": 382.25
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "harbour",
+      "harbor"
+    ],
+    "2": [
+      "bridge"
+    ],
+    "3": [
+      "3.30",
+      "three thirty",
+      "½",
+      "half 3",
+      "half three",
+      "three",
+      "3:30"
+    ],
+    "4": [
+      "Rose",
+      "rose"
+    ],
+    "5": [
+      "sign"
+    ],
+    "6": [
+      "purple"
+    ],
+    "7": [
+      "samphire"
+    ],
+    "8": [
+      "melon"
+    ],
+    "9": [
+      "coconut"
+    ],
+    "10": [
+      "strawberry"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "D"
+    ],
+    "13": [
+      "F"
+    ],
+    "14": [
+      "G"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "H"
+    ],
+    "17": [
+      "D",
+      "E"
+    ],
+    "18": [
+      "D",
+      "E"
+    ],
+    "19": [
+      "B",
+      "C"
+    ],
+    "20": [
+      "B",
+      "C"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "B"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "A"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "C"
+    ],
+    "27": [
+      "H"
+    ],
+    "28": [
+      "E"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "F"
+    ],
+    "31": [
+      "clothing"
+    ],
+    "32": [
+      "mouths",
+      "mouth"
+    ],
+    "33": [
+      "salt"
+    ],
+    "34": [
+      "toothpaste"
+    ],
+    "35": [
+      "fertilisers",
+      "fertilizers"
+    ],
+    "36": [
+      "nutrients"
+    ],
+    "37": [
+      "growth"
+    ],
+    "38": [
+      "weight"
+    ],
+    "39": [
+      "acid"
+    ],
+    "40": [
+      "society"
+    ]
+  }
+}

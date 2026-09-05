@@ -1,0 +1,45 @@
+{
+  "id": "c19t3",
+  "book": "剑桥雅思19",
+  "test": 3,
+  "title": "剑19 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "process",
+      "kindZh": "流程图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The diagram below shows how a biofuel called ethanol is produced.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c19t3-task1.png",
+      "imageCaption": "Biofuel production: how ethanol is made",
+      "sample": {
+        "band": 6.5,
+        "text": "The given diagram illustrates the various stages in the process of producing ethanol, a kind of biofuel.\n\nOverall, there are about 9 main phrases in the ethanol production, starting with growing plants and tress, and finishing with supplying ethanol for transportation and gas mission.\n\nAt the first stage in the process of making ethanol, a large number of trees and plants are grown. Thanks to the source of energy from sunlight and carbon dioxide from humman and transportattin, plants and trees grow up and are haverested when they are mature enough. After being collected by machine, they are put into another machine where slice them into small pieces to form cellulose. This step is call pre-processing.\n\nIn the following stage, cellulose are taken to a factory where \"processing\" stage occurs. Subsequently, Sugars are extracted from original cellulose before microbes are added to make ethanol. It is then used as a tupe of fuel for a lot of means of transportation such as cars, trucks, airplanes. Finally, a huge amount of carbon dioxide which is released into the air become energy for process of \"photosynthesis\" of plants and trees.",
+        "comment": "This is a strong response. The first short paragraph is an introduction, then the second paragraph contains an overview of the process [starting with growing plants] and [finishing with supplying ethanol]. This is sufficient as an overview, but the candidate should also summarise the main stages. The rest of the response presents and highlights the process.\n\nIdeas are logically organised and the response follows the order given in the diagram. There is good use of linking words to describe a process [At the first stage | After being | Subsequently] and other linking devices, including reference and substitution [they | then used].\n\nThe candidate uses vocabulary well with some flexibility [extracted | photosynthesis], but there are a handful of errors [phrases / phases | tress / trees | humman / human | transportattin / transportation | tupe / type]. These errors do not get in the way of the meaning.\n\nGrammatical range is quite broad and there is a variety of complex structures and sentences with multiple clauses. There are a few errors [where slice them / which slices them].\n\nTo achieve a higher score, an overview which summarises the main stages should be presented, for example: This cycle for biofuel production involves three main stages: harvesting and preparing plant material for processing, producing ethanol by chemical processing, then using the fuel for transportation, before the cycle begins again.",
+        "exampleOverview": "This cycle for biofuel production involves three main stages: harvesting and preparing plant material for processing, producing ethanol by chemical processing, then using the fuel for transportation, before the cycle begins again."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "It is important for everyone, including young people, to save money for their future.",
+        "To what extent do you agree or disagree with this statement?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 7,
+        "text": "Saving money for the future is always a very good idea. First of all money is something that is needed in almost all areas in life. Whether you are young or old you need money to buy everyday things like food, clothing, living etc.\n\nYoung people are often full of enthusiasm about their future. They are looking forward to their first job, to meeting new people or to getting to know as much of the world as they can. Many tend to live in the present rather than in the future so that they don't always plan ahead.\n\nWhen people get older and settle down they realize that buying a house, starting a family or caring for your health takes up a good considerable amount of money and everybody who began saving money in younger years is glad to have done so. However, saving money is not always possible. Sometimes unforeseen expenses cannot be avoided, life situations are suddenly changing or there is never even enough money available even for the most necessary things. So how could you save money for the future in this case? In general, you have to ask yourself what your priorities in life are. What are the things you cherish most? Is it more important for you to plan ahead or do you prefer to just enjoy the moment that you live in?\n\nEverybody has to make own choices and to consider what is really essential for him or herself.\n\nIn any age taking a moment to reflect on your life and looking back at the things you have already done is always a good thing to do.\n\nIf you know yourself well and about all the things that really make you happy you will be able to make the right decisions in financial issues as well as other areas in life.\n\nIn what way money plays an important role will be easy to be found out then. Perhaps you need less than you first thought years ago.",
+        "comment": "This is a strong response to the task. In the first paragraph, the candidate makes their view clear, agreeing with the statement that saving money for the future is a good idea. In the next two paragraphs, they present ideas on how saving money is actually quite challenging: young people can [tend to live in the present], so [don't always plan ahead], the cost of housing, starting families and health care can be high, and [unforeseen expenses cannot be avoided]. The rest of the response is about how people can decide how much to spend and how much to save. The last line [Perhaps you need less than you first thought years ago] suggests that saving is not the answer for everyone. The ending gives advice to the reader, rather than summarising the main ideas.\n\nIdeas are easy to follow and logically organised. Linking expressions are well integrated [Whether | Sometimes | Perhaps] and generally accurate, and cohesive devices are used well [Many tend to | everybody who] with some errors [own choices / their own choices]. Paragraphing at the start is appropriate, but the last four sentences are set out separately and inappropriately, which affects the score.\n\nThere is some higher-level vocabulary, with effective collocation [full of enthusiasm | tend to live in the present | settle down | unforeseen expenses]. The candidate uses a variety of structures, including comparative forms [rather than | do you prefer], conditionals [If] and a range of multi-clause sentences. Errors remain, with some missing punctuation and incorrect tenses [be found out / find out] and prepositions [In any age / At any age], but this does not affect the reader's understanding.\n\nTo achieve a higher score, the candidate should ensure that the conclusion summarises the main ideas, and use effective paragraphing, especially in the second half of the response."
+      }
+    }
+  ]
+}
