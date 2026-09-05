@@ -10,3 +10,5 @@ app/dist/
 app/.env
 app/.vercel/
 app/drafts/
+app/drafts/
+audio/

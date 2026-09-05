@@ -1,12 +1,14 @@
 import { NavLink, Link } from "react-router-dom";
-import { PAPERS } from "../services/data";
+import { useIndex } from "../services/data";
 import type { ExamMode } from "../data/types";
 
 const MODE_LABEL: Record<ExamMode, string> = { paper: "纸笔考", cbt: "机考", "cbt-old": "旧机考" };
 
 export default function TopNav({ mode, onChangeMode }: { mode: ExamMode | null; onChangeMode: () => void }) {
+  const idx = useIndex();
+  const PAPERS = idx?.papers ?? [];
   const first = PAPERS.find((p) => p.modules.length);
-  const books = [...new Set(PAPERS.map((p) => p.bookShort))];
+  const books = [...new Set(PAPERS.filter((p) => p.modules.length).map((p) => p.bookShort))];
   return (
     <header className="topnav">
       <div className="wrap row1">

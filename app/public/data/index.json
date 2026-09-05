@@ -1,0 +1,937 @@
+{
+ "audioBase": "https://schaeferanjon.github.io/ielts-audio",
+ "papers": [
+  {
+   "id": "c21t1",
+   "book": "剑桥雅思21",
+   "bookShort": "剑21",
+   "bookNo": 21,
+   "test": 1,
+   "type": "A",
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c21t2",
+   "book": "剑桥雅思21",
+   "bookShort": "剑21",
+   "bookNo": 21,
+   "test": 2,
+   "type": "A",
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c21t3",
+   "book": "剑桥雅思21",
+   "bookShort": "剑21",
+   "bookNo": 21,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c21t4",
+   "book": "剑桥雅思21",
+   "bookShort": "剑21",
+   "bookNo": 21,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c20t1",
+   "book": "剑桥雅思20",
+   "bookShort": "剑20",
+   "bookNo": 20,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c20t2",
+   "book": "剑桥雅思20",
+   "bookShort": "剑20",
+   "bookNo": 20,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c20t3",
+   "book": "剑桥雅思20",
+   "bookShort": "剑20",
+   "bookNo": 20,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c20t4",
+   "book": "剑桥雅思20",
+   "bookShort": "剑20",
+   "bookNo": 20,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c19t1",
+   "book": "剑桥雅思19",
+   "bookShort": "剑19",
+   "bookNo": 19,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c19t2",
+   "book": "剑桥雅思19",
+   "bookShort": "剑19",
+   "bookNo": 19,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c19t3",
+   "book": "剑桥雅思19",
+   "bookShort": "剑19",
+   "bookNo": 19,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c19t4",
+   "book": "剑桥雅思19",
+   "bookShort": "剑19",
+   "bookNo": 19,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c18t1",
+   "book": "剑桥雅思18",
+   "bookShort": "剑18",
+   "bookNo": 18,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c18t2",
+   "book": "剑桥雅思18",
+   "bookShort": "剑18",
+   "bookNo": 18,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c18t3",
+   "book": "剑桥雅思18",
+   "bookShort": "剑18",
+   "bookNo": 18,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c18t4",
+   "book": "剑桥雅思18",
+   "bookShort": "剑18",
+   "bookNo": 18,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c17t1",
+   "book": "剑桥雅思17",
+   "bookShort": "剑17",
+   "bookNo": 17,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c17t2",
+   "book": "剑桥雅思17",
+   "bookShort": "剑17",
+   "bookNo": 17,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c17t3",
+   "book": "剑桥雅思17",
+   "bookShort": "剑17",
+   "bookNo": 17,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c17t4",
+   "book": "剑桥雅思17",
+   "bookShort": "剑17",
+   "bookNo": 17,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c16t1",
+   "book": "剑桥雅思16",
+   "bookShort": "剑16",
+   "bookNo": 16,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c16t2",
+   "book": "剑桥雅思16",
+   "bookShort": "剑16",
+   "bookNo": 16,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c16t3",
+   "book": "剑桥雅思16",
+   "bookShort": "剑16",
+   "bookNo": 16,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c16t4",
+   "book": "剑桥雅思16",
+   "bookShort": "剑16",
+   "bookNo": 16,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c15t1",
+   "book": "剑桥雅思15",
+   "bookShort": "剑15",
+   "bookNo": 15,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c15t2",
+   "book": "剑桥雅思15",
+   "bookShort": "剑15",
+   "bookNo": 15,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c15t3",
+   "book": "剑桥雅思15",
+   "bookShort": "剑15",
+   "bookNo": 15,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    3
+   ]
+  },
+  {
+   "id": "c15t4",
+   "book": "剑桥雅思15",
+   "bookShort": "剑15",
+   "bookNo": 15,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c14t1",
+   "book": "剑桥雅思14",
+   "bookShort": "剑14",
+   "bookNo": 14,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c14t2",
+   "book": "剑桥雅思14",
+   "bookShort": "剑14",
+   "bookNo": 14,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    3
+   ]
+  },
+  {
+   "id": "c14t3",
+   "book": "剑桥雅思14",
+   "bookShort": "剑14",
+   "bookNo": 14,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "c14t4",
+   "book": "剑桥雅思14",
+   "bookShort": "剑14",
+   "bookNo": 14,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "c13t1",
+   "book": "剑桥雅思13",
+   "bookShort": "剑13",
+   "bookNo": 13,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c13t2",
+   "book": "剑桥雅思13",
+   "bookShort": "剑13",
+   "bookNo": 13,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c13t3",
+   "book": "剑桥雅思13",
+   "bookShort": "剑13",
+   "bookNo": 13,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c13t4",
+   "book": "剑桥雅思13",
+   "bookShort": "剑13",
+   "bookNo": 13,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c12t1",
+   "book": "剑桥雅思12",
+   "bookShort": "剑12",
+   "bookNo": 12,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c12t2",
+   "book": "剑桥雅思12",
+   "bookShort": "剑12",
+   "bookNo": 12,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c12t3",
+   "book": "剑桥雅思12",
+   "bookShort": "剑12",
+   "bookNo": 12,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "c12t4",
+   "book": "剑桥雅思12",
+   "bookShort": "剑12",
+   "bookNo": 12,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c11t1",
+   "book": "剑桥雅思11",
+   "bookShort": "剑11",
+   "bookNo": 11,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "c11t2",
+   "book": "剑桥雅思11",
+   "bookShort": "剑11",
+   "bookNo": 11,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "c11t3",
+   "book": "剑桥雅思11",
+   "bookShort": "剑11",
+   "bookNo": 11,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "c11t4",
+   "book": "剑桥雅思11",
+   "bookShort": "剑11",
+   "bookNo": 11,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c10t1",
+   "book": "剑桥雅思10",
+   "bookShort": "剑10",
+   "bookNo": 10,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c10t2",
+   "book": "剑桥雅思10",
+   "bookShort": "剑10",
+   "bookNo": 10,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c10t3",
+   "book": "剑桥雅思10",
+   "bookShort": "剑10",
+   "bookNo": 10,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c10t4",
+   "book": "剑桥雅思10",
+   "bookShort": "剑10",
+   "bookNo": 10,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c9t1",
+   "book": "剑桥雅思9",
+   "bookShort": "剑9",
+   "bookNo": 9,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c9t2",
+   "book": "剑桥雅思9",
+   "bookShort": "剑9",
+   "bookNo": 9,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c9t3",
+   "book": "剑桥雅思9",
+   "bookShort": "剑9",
+   "bookNo": 9,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c9t4",
+   "book": "剑桥雅思9",
+   "bookShort": "剑9",
+   "bookNo": 9,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c8t1",
+   "book": "剑桥雅思8",
+   "bookShort": "剑8",
+   "bookNo": 8,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "c8t2",
+   "book": "剑桥雅思8",
+   "bookShort": "剑8",
+   "bookNo": 8,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "c8t3",
+   "book": "剑桥雅思8",
+   "bookShort": "剑8",
+   "bookNo": 8,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c8t4",
+   "book": "剑桥雅思8",
+   "bookShort": "剑8",
+   "bookNo": 8,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c7t1",
+   "book": "剑桥雅思7",
+   "bookShort": "剑7",
+   "bookNo": 7,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c7t2",
+   "book": "剑桥雅思7",
+   "bookShort": "剑7",
+   "bookNo": 7,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c7t3",
+   "book": "剑桥雅思7",
+   "bookShort": "剑7",
+   "bookNo": 7,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c7t4",
+   "book": "剑桥雅思7",
+   "bookShort": "剑7",
+   "bookNo": 7,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c6t1",
+   "book": "剑桥雅思6",
+   "bookShort": "剑6",
+   "bookNo": 6,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c6t2",
+   "book": "剑桥雅思6",
+   "bookShort": "剑6",
+   "bookNo": 6,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c6t3",
+   "book": "剑桥雅思6",
+   "bookShort": "剑6",
+   "bookNo": 6,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c6t4",
+   "book": "剑桥雅思6",
+   "bookShort": "剑6",
+   "bookNo": 6,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c5t1",
+   "book": "剑桥雅思5",
+   "bookShort": "剑5",
+   "bookNo": 5,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c5t2",
+   "book": "剑桥雅思5",
+   "bookShort": "剑5",
+   "bookNo": 5,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c5t3",
+   "book": "剑桥雅思5",
+   "bookShort": "剑5",
+   "bookNo": 5,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c5t4",
+   "book": "剑桥雅思5",
+   "bookShort": "剑5",
+   "bookNo": 5,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "c4t1",
+   "book": "剑桥雅思4",
+   "bookShort": "剑4",
+   "bookNo": 4,
+   "test": 1,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c4t2",
+   "book": "剑桥雅思4",
+   "bookShort": "剑4",
+   "bookNo": 4,
+   "test": 2,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c4t3",
+   "book": "剑桥雅思4",
+   "bookShort": "剑4",
+   "bookNo": 4,
+   "test": 3,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  },
+  {
+   "id": "c4t4",
+   "book": "剑桥雅思4",
+   "bookShort": "剑4",
+   "bookNo": 4,
+   "test": 4,
+   "type": "A",
+   "modules": [],
+   "audioParts": []
+  }
+ ]
+}

@@ -1,0 +1,232 @@
+{
+  "id": "c21t2",
+  "book": "剑桥雅思21",
+  "test": 2,
+  "title": "剑21 Test 2 · Reading",
+  "minutes": 60,
+  "passages": [
+    {
+      "n": 1,
+      "title": "Do animals dream?",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {"id": "p1", "text": "Studies using electrodes attached to the heads of sleepers have shown that when we sleep, we do so in two ways that alternate throughout the night. The first is rapid eye movement (REM) or active sleep. During this stage our eyes move, even though our eyelids are closed. Our muscles also twitch slightly, though they are largely paralysed so we don't hurt ourselves. In contrast, we also engage in non-REM sleep, during which we barely move at all. Most dream states, and certainly those with the most vivid dreams, happen during REM sleep."},
+        {"id": "p2", "text": "There's some evidence that other mammals may also dream. For example, researchers compared the brain patterns of rats running through a maze when awake with their brain patterns during REM sleep. They found the patterns were very similar and concluded that the sleeping rats were dreaming about going through the maze."},
+        {"id": "p3", "text": "But finding evidence of dreaming in non-mammals has proved more difficult. Their brains are very different from those of humans, and it can often be difficult to record their activity while they are sleeping. Recently, however, researchers succeeded in recording brain activity in sleeping pigeons. As in mammals, the recordings revealed both REM and non-REM sleep. Intriguingly, REM sleep activity was high in brain regions involved in processing visual information, especially images related to physical activities such as flying, which suggests that this may possibly be what the pigeons were dreaming about."},
+        {"id": "p4", "text": "That said, dreaming and REM sleep are unlikely to be universal in the animal kingdom. For example, sponges don't have brains, so they lack the machinery for dreaming. There are also some animals with unusual sleep patterns. These include whales and dolphins, which do not shut down their entire brain when they sleep, but only half of it, keeping the rest awake. They also show no sign of REM sleep, suggesting that they may only experience non-REM dreams, which are less vivid. This is surprising because we tend to think of whales and dolphins as having complex inner lives. It's thought that they don't experience REM sleep because during REM sleep animals are more vulnerable to extremes of temperature."},
+        {"id": "p5", "text": "Nevertheless, in many cases REM sleep does seem to have benefits. Growing evidence from birds and mammals suggests that REM sleep and dreaming are important for forming memories and learning. It is believed that when events are replayed in dreams, this helps to integrate memories into longer-term storage. As soon as animals evolved moderately complex lifestyles, they would have needed to dream in order to manage these lifestyles."},
+        {"id": "p6", "text": "However, we still don't understand how this outward behaviour relates to internal experience. It seems impossible to know what it is like to be a rat or a pigeon, let alone imagine their dreamscapes. We are quick to interpret the twitching limbs and quiet barks of sleeping dogs, but the truth is that we don't know if there is an internal experience of chasing rabbits that comes along with that."},
+        {"id": "p7", "text": "Another non-human dreamer offers insight here. In 2019, while making a documentary, David Scheel of Alaska Pacific University in the USA housed an octopus named Heidi in a tank in his living room. At one point, in the middle of the night, Heidi seemed to dream: her limbs and head moved, and her skin rapidly changed colour, as though she was pursuing a crab."},
+        {"id": "p8", "text": "Similarly, a report recently emerged of a sleeping octopus apparently having a nightmare. Costello, as the octopus was called, thrashed around, extended his mantle as if trying to make himself look bigger, and squirted ink as though he were being attacked by a predator. The nightmare study is intriguing, says Scheel, but is only based on one animal. He argues that as well as outward behaviour, brain imaging is needed to show that the octopuses are replaying sequences of activities from their waking lives in dreams."},
+        {"id": "p9", "text": "The trouble is that we will never be able to experience any animal's dreams. That goes for other humans' dreams too. But we can try to imagine what these dreamscapes are like by meeting animals on their own terms. For example, vision is the dominant sense for many humans, and so our dreams are heavily visual too. Dogs primarily navigate the world using smell while spiders rely much more on vibrations."},
+        {"id": "p10", "text": "It is likely that dreaming has served multiple purposes since the first complex animals evolved. And if this is the case, it is possible that better understanding of these purposes might shed light on the true purpose of our own dreams."}
+      ],
+      "groups": [
+        {
+          "range": [1, 5],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Research into sleep and dreaming",
+          "table": {
+            "head": ["", "Research findings", "Comment"],
+            "rows": [
+              ["Humans", "humans experience REM sleep and non-REM sleep\nin REM sleep, the eyes and muscles move", ""],
+              ["{{1}}", "similar brain patterns were observed when active and sleeping", "indicative of dreaming"],
+              ["Pigeons", "when sleeping, pigeons displayed activity in parts of the brain that deal with {{2}} input", "may have been dreaming of flying"],
+              ["Whales and dolphins", "still have {{3}} their brain awake when they sleep\ndon't experience REM sleep, as this could affect their sensitivity to {{4}}", "their dreams are probably not very {{5}}"]
+            ]
+          }
+        },
+        {
+          "range": [6, 13],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [["TRUE", "if the statement agrees with the information"], ["FALSE", "if the statement contradicts the information"], ["NOT GIVEN", "if there is no information on this"]],
+          "questions": [
+            {"n": 6, "text": "Dreaming about past experiences helps us to create lasting memories of them."},
+            {"n": 7, "text": "It is now possible to tell what type of dream a dog is having."},
+            {"n": 8, "text": "David Scheel's documentary was influential on other research into the sleeping patterns of octopuses."},
+            {"n": 9, "text": "While it was asleep, the octopus called Costello reacted as if it was hunting."},
+            {"n": 10, "text": "Scheel believes more research into octopuses' dreams should be carried out."},
+            {"n": 11, "text": "We may soon be able to share the dreams of other human beings."},
+            {"n": 12, "text": "Hearing may be an important part of the dreams of some animals."},
+            {"n": 13, "text": "Interest in the reasons why humans dream has increased greatly in recent times."}
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Mapungubwe",
+      "subtitle": "Located in southern Africa just below the Limpopo River, the kingdom of Mapungubwe flourished between the 11th and 13th century CE",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {"id": "A", "label": "A", "text": "Mapungubwe, which was one of the first states in southern Africa, was formed by Bantu-speaking peoples who were farmers. The area controlled by the rulers of Mapungubwe had at its heart a large sandstone plateau, which was easily defended due to its inaccessibility. As with other kingdoms in the region of southern Africa, cattle herding and other types of farming brought plenty of food and a surplus that could be traded for needed goods. Archaeology has revealed extensive layers of bones and manure, which indicate that from the 9th century CE there were large cattle herds, the traditional source of political power in southern African communities. The archaeological record for the 10th century shows a marked increase in the number of domesticated cattle in the area as well as cotton cultivation and weaving, as indicated by abundant finds of spindle whorls."},
+        {"id": "B", "label": "B", "text": "The total population of Mapungubwe at its peak in the mid-13th century was around 5,000 people. The chief or king of Mapungubwe was likely the wealthiest individual in the society, and would have owned more cattle and precious materials than anyone else. The king and his advisers dwelt in a stone enclosure composed of stone walls and housing built on the highest level of the community's territory, a natural sandstone hill which is some 30 metres high and 100 metres in length. Occupation on the hill dates from the 11th century and the entire complex was surrounded by a wooden palisade*, as indicated by postholes made in the rock. The rest of the community lived in mud and thatch housing spread out below the hill, although there is one stone structure here. This settlement, known as Babandyanalo, covers around 5 hectares (12.3 acres) and predates the hilltop structures."},
+        {"id": "C", "label": "C", "text": "The kings of Mapungubwe were buried at the top of the hill site in a demarcated area away from the dwellings, while other members of the community were buried at the surrounding valley level. A wooden staircase connected the two levels, the sockets for the steps being clearly visible in the sandstone cliff face. There were some grander residences dotted around the outskirts of Babandyanalo, and these probably belonged to male relatives of the king. There are many other smaller but still impressive sites across the Mapungubwe plateau, which are located anywhere from 15 to 100 kilometres from the major hill site. Containing stone residences and walls, they likely belonged to local chiefs who acted as servants to the king."},
+        {"id": "D", "label": "D", "text": "The Mapungubwe plateau has a very high number of carnivore animal remains and ivory splinters, suggesting that the skins of these large animals and ivory elephant tusks were accumulated, probably for trade with coastal areas reached by the Limpopo River. The presence of glass beads, almost certainly from India, indicate there was trade of some sort with other states on the coast who, in turn, traded with merchants travelling from India by sea. Mapungubwe also benefitted from locally-sourced copper and the gold trade as it passed from the kingdom of Great Zimbabwe (12-15th century), situated to the north of Mapungubwe, to the coastal city of Kosala. It is likely that trade links led to a strengthening of political authority in order to control and even monopolise these lucrative interregional connections."},
+        {"id": "E", "label": "E", "text": "Archaeological discoveries reveal that pottery was produced on a scale large enough to suggest the presence of professional potters, and is another indicator of the prosperity of Mapungubwe society. Archaeological finds include spherical vessels with short necks, beakers, and bowls, many of which have decorative stamps. There are also ceramic discs, and whistles. In addition, cattle, sheep, and goat figurines, and small figures of highly stylised humans with elongated bodies and short limbs have been found. The figures may have been used in ceremonies as offerings to ancestors, but their precise function is not known. Other discoveries include small jewellery items made from locally sourced copper."},
+        {"id": "F", "label": "F", "text": "Beautifully decorated artefacts made of gold have also been found at Mapungubwe. A type of decoration, found nowhere else except Great Zimbabwe, involved the crafting of gold into small rectangular sheets and carving geometrical patterns into it. These sheets were then used to cover wooden objects (which have not survived) using small tacks, also made of gold. One such object that has been discovered may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads. These objects were all found at the royal burial site and date to c. 1150. They are the first known indicators that gold had an intrinsic value of its own (as opposed to that of a currency) in southern Africa."},
+        {"id": "G", "label": "G", "text": "The kingdom of Mapungubwe was already in decline by the late 13th century, probably because overpopulation placed too much stress on local resources, a situation that may have been brought to a crisis point by a series of droughts. Trade routes may also have shifted northwards. Certainly, the areas that now prospered were to the north, such as Great Zimbabwe."}
+      ],
+      "footnotes": [
+        "* palisade: typically a row of closely placed, high vertical wooden or iron posts used as a means of defence"
+      ],
+      "groups": [
+        {
+          "range": [14, 19],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information?",
+          "limit": "Write the correct letter, A-G, in boxes 14-19 on your answer sheet.",
+          "options": ["A", "B", "C", "D", "E", "F", "G"],
+          "questions": [
+            {"n": 14, "text": "a mention of the uncertainty regarding the purpose of certain objects"},
+            {"n": 15, "text": "the likelihood that a climatic factor increased the problems Mapungubwe faced"},
+            {"n": 16, "text": "a mention of the location where members of the king's family are thought to have lived"},
+            {"n": 17, "text": "a reference to people who brought goods by ship"},
+            {"n": 18, "text": "an estimate of the size to which the Mapungubwe community grew"},
+            {"n": 19, "text": "a mention of agricultural produce being exchanged for other items"}
+          ]
+        },
+        {
+          "range": [20, 21],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "The archaeological record reveals information about gold and the kingdom of Mapungubwe. Which TWO pieces of information are mentioned by the writer?",
+          "count": 2,
+          "options": [
+            {"k": "A", "text": "Not everyone in Mapungubwe used gold as a form of payment."},
+            {"k": "B", "text": "Items of gold were placed close to where Mapungubwe kings were buried."},
+            {"k": "C", "text": "The most valuable item discovered in Mapungubwe was a sceptre made of gold."},
+            {"k": "D", "text": "The way gold was decorated in Mapungubwe was also practised in another kingdom."},
+            {"k": "E", "text": "Working with gold was a respected occupation in the Mapungubwe community."}
+          ]
+        },
+        {
+          "range": [22, 26],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Archaeological discoveries",
+          "text": "The Mapungubwe community's {{22}} is indicated by the amount of professionally made pottery discovered at the site. Many of these objects, such as beakers and bowls, are highly decorated and have been marked with stamps. Other finds include round ceramic objects, {{23}} and figures of various animals, as well as models of people with stretched {{24}}. It is possible that these had a role in ceremonies to honour {{25}}. In addition, pieces of {{26}} made from a local metal have been found at the site."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Artificial Intelligence",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {"id": "p1", "text": "In many countries in the West, hysteria about the future of artificial intelligence (AI) is everywhere. There seems to be no shortage of sensationalist news about how AI could cure diseases, accelerate human innovation and improve human creativity. Just looking at the media headlines, you might think that we are already living in a future where AI has infiltrated every aspect of society."},
+        {"id": "p2", "text": "While it is undeniable that AI has opened up a wealth of promising opportunities, it has also led to the emergence of a mindset that can be best described as 'AI solutionism'. This is the philosophy that, given enough data, machine learning algorithms can solve all of humanity's problems. But, in fact, instead of supporting AI progress, this mindset actually jeopardises the value of machine intelligence by disregarding important AI safety principles and setting unrealistic expectations about what AI can really do for humanity."},
+        {"id": "p3", "text": "In only a few years, AI solutionism has made its way from the technology evangelists' mouths in Silicon Valley in California to the minds of government officials and policymakers around the world. The pendulum has swung from the dystopian notion that AI will destroy humanity to the utopian belief that our algorithmic saviour is here."},
+        {"id": "p4", "text": "We are now seeing governments pledge support to national AI initiatives and compete in a technological race to dominate the burgeoning machine-learning sector. While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world."},
+        {"id": "p5", "text": "One of the most promising varieties of AI technologies are neural networks. This form of machine learning is loosely modelled on the neuronal structure of the human brain, but on a much smaller scale. But what many politicians do not understand is that simply adding a neural network to a problem will not automatically mean that you'll find a solution. Similarly, adding a neural network to a system of government does not mean it will be instantaneously more inclusive or fair."},
+        {"id": "p6", "text": "AI systems need a lot of data to function, but the public sector typically does not have the appropriate data infrastructure to support advanced machine learning. Most of the data remains stored in offline archives. The few digitised sources of data that exist tend to be buried in bureaucracy. More often than not, data is spread across different government departments that each require special permissions to be accessed. Above all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence."},
+        {"id": "p7", "text": "For these reasons, the sensationalism over AI has attracted many critics. Stuart Russell, a professor of computer science at the University of California, Berkeley, has long advocated a more sensible and realistic approach that focuses on simple everyday applications of AI instead of the hypothetical takeover by super-intelligent robots. Similarly, Rodney Brooks, professor of robotics at Massachusetts Institute of Technology, writes that 'almost all innovations in robotics and AI take far, far, longer to be really widely deployed than people in the field and outside the field imagine'."},
+        {"id": "p8", "text": "One of the many difficulties in deploying machine learning systems is that AI is extremely susceptible to adversarial attacks. This means that a malicious AI can target another AI to make it behave in a certain way, such as forcing it to make wrong predictions. Many researchers have warned against the rolling out of AI without appropriate security standards and defence mechanisms. Still, AI security remains an often overlooked topic when machine learning systems are installed."},
+        {"id": "p9", "text": "If we are to reap the benefits and minimise the potential harms of AI, we must start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society. This means we need to have a discussion about AI ethics and the distrust that many people have towards machine learning."},
+        {"id": "p10", "text": "Most importantly, we need to be aware of the limitations of AI and where people still need to take the lead. Instead of painting an unrealistic picture of the power of AI, it is important to take a step back and separate the actual technological capabilities of AI from fantasy."},
+        {"id": "p11", "text": "The medical profession has also recognised the drawbacks to AI. The IBM Watson for Oncology programme was a piece of AI that was meant to help doctors treat cancer. Even though it was developed to deliver the best recommendations, human experts found it hard to trust the machine. As a result, the AI programme was abandoned in most hospitals where it was trialled."},
+        {"id": "p12", "text": "Similar difficulties arose in the legal domain when algorithms were used in courts in the US to sentence criminals. An algorithm calculated risk assessment scores and advised judges on the sentencing. The system was found to amplify structural racial discrimination and was later abandoned."},
+        {"id": "p13", "text": "There are some crucial lessons here for everyone aiming to boost investments in national AI programmes. These examples demonstrate that there is no AI solution for everything. Using AI simply for the sake of AI may not always be productive or useful, and not every issue is best addressed by applying machine intelligence to it. All solutions come with a cost and not everything that can be automated should be."}
+      ],
+      "groups": [
+        {
+          "range": [27, 29],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {"n": 27, "text": "What is the writer doing in the first paragraph?", "options": [{"k": "A", "text": "predicting the future impact of AI"}, {"k": "B", "text": "describing a public perception of AI"}, {"k": "C", "text": "outlining some possible benefits of AI"}, {"k": "D", "text": "highlighting the breadth of the influence of AI"}]},
+            {"n": 28, "text": "When discussing AI solutionism in the second paragraph, the writer", "options": [{"k": "A", "text": "points out a risk involved."}, {"k": "B", "text": "specifies its probable origins."}, {"k": "C", "text": "mentions its chief supporters."}, {"k": "D", "text": "weighs up some pros and cons."}]},
+            {"n": 29, "text": "In the fourth paragraph, the writer suggests that many politicians may", "options": [{"k": "A", "text": "have failed to appreciate the true potential of AI initiatives."}, {"k": "B", "text": "have misunderstood the function of the machine-learning sector."}, {"k": "C", "text": "be unaware of the challenges of implementing national AI initiatives."}, {"k": "D", "text": "be too keen to enter the race to dominate the machine-learning sector."}]}
+          ]
+        },
+        {
+          "range": [30, 35],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words, A-I, below.",
+          "limit": "Write the correct letter, A-I, in boxes 30-35 on your answer sheet.",
+          "title": "AI in government, medicine and the law",
+          "text": "Neural networks are a promising area of AI technology for governments. However, many politicians overestimate their capabilities, believing that the mere addition of a neural network will produce solutions and promote {{30}}.\n\nMost public sector organisations have not set up the necessary {{31}} to manage the huge amount of data required to enable AI to function. Complex bureaucracy is another issue, as each person involved needs {{32}} to access the relevant data, which is often spread across different departments. But the main problem is that few public sector employees have the {{33}} to take full advantage of machine intelligence.\n\nThe medical profession experimented with an AI programme, but their experts had little faith in its {{34}}, and the programme was abandoned. US courts also abandoned the use of algorithms when it was found that these reflected and magnified the existing {{35}} within the legal profession.",
+          "options": [
+            {"k": "A", "text": "reliability"}, {"k": "B", "text": "funding"}, {"k": "C", "text": "skills"},
+            {"k": "D", "text": "prejudices"}, {"k": "E", "text": "computers"}, {"k": "F", "text": "equality"},
+            {"k": "G", "text": "framework"}, {"k": "H", "text": "confidentiality"}, {"k": "I", "text": "approval"}
+          ]
+        },
+        {
+          "range": [36, 39],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+          "legend": [["YES", "if the statement agrees with the claims of the writer"], ["NO", "if the statement contradicts the claims of the writer"], ["NOT GIVEN", "if it is impossible to say what the writer thinks about this"]],
+          "questions": [
+            {"n": 36, "text": "Stuart Russell's proposals regarding the use of AI are impractical."},
+            {"n": 37, "text": "Rodney Brooks' view has attracted unfair criticism from supporters of AI."},
+            {"n": 38, "text": "Nowadays, the need to protect AI systems is always taken into account when they are set up."},
+            {"n": 39, "text": "In order to benefit from AI and minimise the harms, we have to explore people's concerns about its use."}
+          ]
+        },
+        {
+          "range": [40, 40],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {"n": 40, "text": "What would be a suitable subtitle for Reading Passage 3?", "options": [{"k": "A", "text": "How to make the most of what AI has to offer"}, {"k": "B", "text": "Why AI may not be the answer to our problems"}, {"k": "C", "text": "Why governments should not invest in AI systems"}, {"k": "D", "text": "How AI could improve the efficiency of the public sector"}]}
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": ["rats"], "2": ["visual"], "3": ["half"], "4": ["temperature"], "5": ["vivid"],
+    "6": ["TRUE"], "7": ["FALSE"], "8": ["NOT GIVEN"], "9": ["FALSE"], "10": ["TRUE"], "11": ["FALSE"], "12": ["NOT GIVEN"], "13": ["NOT GIVEN"],
+    "14": ["E"], "15": ["G"], "16": ["C"], "17": ["D"], "18": ["B"], "19": ["A"], "20": ["B", "D"], "21": ["B", "D"],
+    "22": ["prosperity"], "23": ["whistles"], "24": ["bodies"], "25": ["ancestors"], "26": ["jewellery", "jewelry"],
+    "27": ["B"], "28": ["A"], "29": ["C"], "30": ["F"], "31": ["G"], "32": ["I"], "33": ["C"], "34": ["A"], "35": ["D"],
+    "36": ["NO"], "37": ["NOT GIVEN"], "38": ["NO"], "39": ["YES"], "40": ["B"]
+  },
+  "explain": {
+    "1": {"loc": "p2", "key": "researchers compared the brain patterns of rats running through a maze when awake with their brain patterns during REM sleep. They found the patterns were very similar", "why": "表格该行对应研究大鼠（rats）梦境的实验，与人类行并列。"},
+    "2": {"loc": "p3", "key": "REM sleep activity was high in brain regions involved in processing visual information", "why": "题干 deal with ... input = 原文 processing ... information，填 visual。"},
+    "3": {"loc": "p4", "key": "whales and dolphins ... do not shut down their entire brain when they sleep, but only half of it, keeping the rest awake", "why": "题干 still have ___ their brain awake = 原文 keeping the rest awake，即只有一半（half）保持清醒。"},
+    "4": {"loc": "p4", "key": "It's thought that they don't experience REM sleep because during REM sleep animals are more vulnerable to extremes of temperature", "why": "题干 sensitivity to ___ = 原文 vulnerable to extremes of，填 temperature。"},
+    "5": {"loc": "p4", "key": "they may only experience non-REM dreams, which are less vivid", "why": "题干 their dreams are probably not very ___ = 原文 less vivid，填 vivid。"},
+    "6": {"loc": "p5", "key": "when events are replayed in dreams, this helps to integrate memories into longer-term storage", "why": "题干 dreaming about past experiences helps us create lasting memories = 原文 events replayed in dreams helps integrate memories into longer-term storage → TRUE。"},
+    "7": {"loc": "p6", "key": "we don't know if there is an internal experience of chasing rabbits that comes along with that", "why": "原文明确说我们不知道狗做梦的真实内心体验，题干说现在能分辨狗做的梦的类型，矛盾 → FALSE。"},
+    "8": {"loc": "p7", "key": "David Scheel of Alaska Pacific University in the USA housed an octopus named Heidi in a tank in his living room", "why": "原文只提到 Scheel 拍纪录片时观察到 Heidi 做梦，完全没提这部纪录片对其他章鱼研究有何影响 → NOT GIVEN。"},
+    "9": {"loc": "p8", "key": "Costello ... squirted ink as though he were being attacked by a predator", "why": "原文说 Costello 表现得像是被捕食者攻击（防御反应），题干说它像是在捕猎，正好相反 → FALSE。"},
+    "10": {"loc": "p8", "key": "He argues that as well as outward behaviour, brain imaging is needed to show that the octopuses are replaying sequences of activities from their waking lives in dreams", "why": "Scheel 认为需要更多研究（脑成像）来证实章鱼做梦，说明他支持继续深入研究 → TRUE。"},
+    "11": {"loc": "p9", "key": "The trouble is that we will never be able to experience any animal's dreams. That goes for other humans' dreams too.", "why": "原文说我们永远无法体验他人的梦，题干说很快能分享他人的梦，矛盾 → FALSE。"},
+    "12": {"loc": "p9", "key": "Dogs primarily navigate the world using smell while spiders rely much more on vibrations.", "why": "原文提到嗅觉和振动，没有提到听觉对某些动物做梦的重要性 → NOT GIVEN。"},
+    "13": {"loc": "p10", "key": "It is likely that dreaming has served multiple purposes since the first complex animals evolved.", "why": "原文没有提到近年人们对人类做梦原因的兴趣是否显著增加 → NOT GIVEN。"},
+    "14": {"loc": "E", "key": "The figures may have been used in ceremonies as offerings to ancestors, but their precise function is not known.", "why": "uncertainty regarding the purpose = precise function is not known，出现在 E 段。"},
+    "15": {"loc": "G", "key": "overpopulation placed too much stress on local resources, a situation that may have been brought to a crisis point by a series of droughts", "why": "climatic factor = droughts，加剧了 Mapungubwe 的衰落，出现在 G 段。"},
+    "16": {"loc": "C", "key": "There were some grander residences dotted around the outskirts of Babandyanalo, and these probably belonged to male relatives of the king.", "why": "king's family members lived = male relatives of the king 的居住地，出现在 C 段。"},
+    "17": {"loc": "D", "key": "there was trade of some sort with other states on the coast who, in turn, traded with merchants travelling from India by sea", "why": "brought goods by ship = merchants travelling ... by sea，出现在 D 段。"},
+    "18": {"loc": "B", "key": "The total population of Mapungubwe at its peak in the mid-13th century was around 5,000 people.", "why": "estimate of the size of the community = 人口估计约 5000 人，出现在 B 段。"},
+    "19": {"loc": "A", "key": "cattle herding and other types of farming brought plenty of food and a surplus that could be traded for needed goods", "why": "agricultural produce exchanged for other items = surplus traded for needed goods，出现在 A 段。"},
+    "20": {"loc": "F", "key": "These objects were all found at the royal burial site and date to c. 1150.", "why": "B 选项说黄金制品被放置在国王墓葬附近，原文说这些金器都是在王室墓地发现的 → B 正确。"},
+    "21": {"loc": "F", "key": "A type of decoration ... found nowhere else except Great Zimbabwe, involved the crafting of gold into small rectangular sheets and carving geometrical patterns into it", "why": "D 选项说这种黄金装饰法在另一个王国也有使用，原文说这种装饰法只有大津巴布韦才有 → D 正确。"},
+    "22": {"loc": "E", "key": "pottery was produced on a scale large enough to suggest the presence of professional potters, and is another indicator of the prosperity of Mapungubwe society", "why": "原文直接给出 prosperity 一词。"},
+    "23": {"loc": "E", "key": "There are also ceramic discs, and whistles.", "why": "原文直接给出 whistles 一词。"},
+    "24": {"loc": "E", "key": "small figures of highly stylised humans with elongated bodies and short limbs have been found", "why": "题干 stretched = 原文 elongated，填 bodies。"},
+    "25": {"loc": "E", "key": "The figures may have been used in ceremonies as offerings to ancestors", "why": "题干 honour = 原文 offerings to，填 ancestors。"},
+    "26": {"loc": "E", "key": "Other discoveries include small jewellery items made from locally sourced copper.", "why": "原文直接给出 jewellery 一词，local metal = copper。"},
+    "27": {"loc": "p1", "key": "hysteria about the future of artificial intelligence (AI) is everywhere ... Just looking at the media headlines, you might think that we are already living in a future where AI has infiltrated every aspect of society", "why": "整段描述公众/媒体对 AI 的普遍看法（狂热、耸人听闻的新闻）→ B 描述公众看法。"},
+    "28": {"loc": "p2", "key": "this mindset actually jeopardises the value of machine intelligence by disregarding important AI safety principles", "why": "指出 AI solutionism 带来的风险（jeopardises...）→ A 指出风险。"},
+    "29": {"loc": "p4", "key": "While many politicians proclaim the transformative effects of the coming 'AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world.", "why": "题干 be unaware of the challenges of implementing = 原文 fail to realise the complexity around deploying → C。"},
+    "30": {"loc": "p5", "key": "adding a neural network to a system of government does not mean it will be instantaneously more inclusive or fair", "why": "promote {{30}} = 原文 more inclusive or fair，对应选项 F equality。"},
+    "31": {"loc": "p6", "key": "the public sector typically does not have the appropriate data infrastructure to support advanced machine learning", "why": "necessary {{31}} = 原文 infrastructure，对应选项 G framework。"},
+    "32": {"loc": "p6", "key": "data is spread across different government departments that each require special permissions to be accessed", "why": "needs {{32}} = 原文 special permissions，对应选项 I approval。"},
+    "33": {"loc": "p6", "key": "the public sector typically lacks the human talent with the right technological capabilities", "why": "have the {{33}} = 原文 human talent/capabilities，对应选项 C skills。"},
+    "34": {"loc": "p11", "key": "Even though it was developed to deliver the best recommendations, human experts found it hard to trust the machine.", "why": "little faith in its {{34}} = 原文 hard to trust，对应选项 A reliability。"},
+    "35": {"loc": "p12", "key": "The system was found to amplify structural racial discrimination and was later abandoned.", "why": "existing {{35}} = 原文 racial discrimination，对应选项 D prejudices。"},
+    "36": {"loc": "p7", "key": "Stuart Russell ... has long advocated a more sensible and realistic approach that focuses on simple everyday applications of AI", "why": "题干说 Russell 的提议不切实际，原文说他的方法 sensible and realistic（合理、现实），矛盾 → NO。"},
+    "37": {"loc": "p7", "key": "Rodney Brooks ... writes that 'almost all innovations in robotics and AI take far, far, longer to be really widely deployed than people in the field and outside the field imagine'.", "why": "原文没有提到 Brooks 的观点是否受到 AI 支持者的不公批评 → NOT GIVEN。"},
+    "38": {"loc": "p8", "key": "Still, AI security remains an often overlooked topic when machine learning systems are installed.", "why": "题干说现在部署 AI 系统时总会考虑安全防护，原文说安全问题常被忽视，矛盾 → NO。"},
+    "39": {"loc": "p9", "key": "This means we need to have a discussion about AI ethics and the distrust that many people have towards machine learning.", "why": "题干 explore people's concerns = 讨论 AI ethics 和公众的不信任 → YES。"},
+    "40": {"loc": "p13", "key": "These examples demonstrate that there is no AI solution for everything ... not everything that can be automated should be.", "why": "全文结论强调 AI 并非万能解药，符合副标题 B（Why AI may not be the answer to our problems）。"}
+  }
+}

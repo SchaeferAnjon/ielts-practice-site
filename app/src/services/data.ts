@@ -29,27 +29,29 @@ export function useJson<T>(url: string | null) {
   return { data, error };
 }
 
-/** 题库目录：加新真题只需在这里登记 + 放 JSON / 音频 */
-export type PaperMeta = { id: string; book: string; bookShort: string; test: number; type: "A" | "G"; modules: ("listening" | "reading" | "writing")[] };
+/** 题库清单：由 scripts/build_index.py 生成到 public/data/index.json */
+export type PaperMeta = { id: string; book: string; bookShort: string; bookNo: number; test: number; type: "A" | "G"; modules: ("listening" | "reading" | "writing")[]; audioParts: number[] };
+export type PaperIndex = { audioBase: string; papers: PaperMeta[] };
 
-export const PAPERS: PaperMeta[] = [
-  { id: "c21t1", book: "剑桥雅思21", bookShort: "剑21", test: 1, type: "A", modules: ["listening", "reading", "writing"] },
-  { id: "c21t2", book: "剑桥雅思21", bookShort: "剑21", test: 2, type: "A", modules: [] },
-  { id: "c21t3", book: "剑桥雅思21", bookShort: "剑21", test: 3, type: "A", modules: [] },
-  { id: "c21t4", book: "剑桥雅思21", bookShort: "剑21", test: 4, type: "A", modules: [] },
-  { id: "c20t1", book: "剑桥雅思20", bookShort: "剑20", test: 1, type: "A", modules: [] },
-  { id: "c20t2", book: "剑桥雅思20", bookShort: "剑20", test: 2, type: "A", modules: [] },
-  { id: "c20t3", book: "剑桥雅思20", bookShort: "剑20", test: 3, type: "A", modules: [] },
-  { id: "c20t4", book: "剑桥雅思20", bookShort: "剑20", test: 4, type: "A", modules: [] },
-  { id: "c19t1", book: "剑桥雅思19", bookShort: "剑19", test: 1, type: "A", modules: [] },
-  { id: "c19t2", book: "剑桥雅思19", bookShort: "剑19", test: 2, type: "A", modules: [] },
-  { id: "c19t3", book: "剑桥雅思19", bookShort: "剑19", test: 3, type: "A", modules: [] },
-  { id: "c19t4", book: "剑桥雅思19", bookShort: "剑19", test: 4, type: "A", modules: [] },
-  { id: "c18t1", book: "剑桥雅思18", bookShort: "剑18", test: 1, type: "A", modules: [] },
-  { id: "c18t2", book: "剑桥雅思18", bookShort: "剑18", test: 2, type: "A", modules: [] },
-  { id: "c18t3", book: "剑桥雅思18", bookShort: "剑18", test: 3, type: "A", modules: [] },
-  { id: "c18t4", book: "剑桥雅思18", bookShort: "剑18", test: 4, type: "A", modules: [] },
-];
+let indexCache: PaperIndex | null = null;
+export async function loadIndex(): Promise<PaperIndex> {
+  if (indexCache) return indexCache;
+  indexCache = await loadJson<PaperIndex>(withBase("/data/index.json"));
+  return indexCache;
+}
+export function useIndex(): PaperIndex | null {
+  const [idx, setIdx] = useState<PaperIndex | null>(indexCache);
+  useEffect(() => {
+    if (!idx) loadIndex().then(setIdx).catch(() => setIdx({ audioBase: "", papers: [] }));
+  }, [idx]);
+  return idx;
+}
+
+/** 音频地址：优先音频仓库（audioBase），否则本地 public/audio */
+export function audioUrl(path: string, idx: PaperIndex | null): string {
+  if (idx?.audioBase && path.startsWith("/audio/")) return idx.audioBase + path.slice("/audio".length);
+  return withBase(path);
+}
 
 /** 把 JSON 里的绝对路径（/audio/..、/img/..、/data/..）加上部署子路径前缀 */
 export const withBase = (p: string) => (p.startsWith("/") ? import.meta.env.BASE_URL.replace(/\/$/, "") + p : p);

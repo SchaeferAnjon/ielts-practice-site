@@ -5,7 +5,8 @@ export function normalize(s: string): string {
   return s
     .toLowerCase()
     .replace(/[’‘]/g, "'")
-    .replace(/[.,;:!?"()]/g, "")
+    .replace(/[.,;:!?"()£$€]/g, "")
+    .replace(/(\d)(st|nd|rd|th)\b/g, "$1")
     .replace(/[-–—]/g, " ")
     .replace(/\s+/g, " ")
     .trim();

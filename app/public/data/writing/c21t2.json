@@ -1,0 +1,45 @@
+{
+  "id": "c21t2",
+  "book": "剑桥雅思21",
+  "test": 2,
+  "title": "剑21 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "map",
+      "kindZh": "地图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The plans below show a college cafe before it was redesigned and how it looks now.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c21t2-task1.png",
+      "imageCaption": "College cafe before redesign and today",
+      "sample": {
+        "band": 6,
+        "text": "The maps display how the cafe changes after it was redeveloped. It compares how as it is now and as it is before redisign.\n\nFirst of all before the modifications, we can see that there was a kitchen and a serving area at the top left hand corner of the cafe. Then, in the middle, there was the seatting area, and just above, two staff dining rooms. After that, just at the bottom of the entrance, there was bin and there were the toilets. However we can see that now, the bins have been changed into recycling bins. In addition, the staff dining rooms have been replaced with a take away food and a coffee bar. Although the seating area hasn't been modificated, on the left side, a salad bar has been added. At the top left-hand corner, the kitchen remains the same, while the serving area has been transformed into hot meals. Finally, a outdoor seating area and a barbecue have been constructed at the bottom of the cafe.",
+        "comment": "This response addresses all of the changes illustrated in the college cafe plans. The writer describes how the cafe looked before the modifications, then moves on to the present day map. There is no overview, or summary of the information, but all main changes have been captured.\nInformation is generally arranged coherently. The first paragraph is an introduction, and the second contains the rest of the comparison. There is evidence of linking expressions [First of all / Then / After that / Although], however, there is a lack of reference, resulting in repetition [as it is].\nVocabulary is generally good [modifications / replaced with / transformed into] but errors remain [redisign / redesign, midle / middle, seatting / seating, modificated / modified].\nGrammatical range is mixed. There are examples of complex sentence forms, but there is frequent repetition of verb forms e.g passive structures [have been changed / have been replaced / hasn't been modificated / has been added] which means the range is limited and precludes a higher score.\nTo improve the score, an overview that summarises the main changes should be added. It would also be beneficial to show greater accuracy in vocabulary and a wider range of grammatical structures.",
+        "exampleOverview": "We can see that the overall shape of the college cafe has remained the same, with some additions, for example, outdoor areas have been added, the staff areas have been removed and the centralised serving area is now distributed to various locations in the cafe."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 7,
+        "text": "People have differing views about the significance of the theatres and cinemas in the present age of technology. While some argue that there are no need for theatres and cinemas when it is possible to have access to on line version of everything, in my opinion, that facilities are still of paramount importance for both people and economics.\n\nOn the one hand, people today are able to watch any content they want through Internet without spending a lot of time and money.\n\nFirstly, using electronic devise and social platforms makes it possible for users to watch any movies or films at any time they want. Shows and films are put at a certain time in cinemas, theatres which is not suitable for everyone. But if people use internet they can ensure the flexibility. Secondly, prices that have to be paid to enter cinemas and theatres are not affordable for many people. However, through using the Internet, to watch a movie or film can be much cheaper.\n\nOn the other hand, I, however argue that theatres and cinemas still have their significant part in terms of environment and financial benefits. For example, cinemas are provided with very big screens which can make people feel themselves inside the movie and in theatres watchers would enjoy the shows and performances done by real actors, which is impossible to do in computers and mobile phone screens. On top of this, public theatres can bring the money that can be spent on public needs. New roads and other facilities can be erected for public use with the financial funds taken from those cinemas, theatres.\n\nIn conclusion, theatres and cinemas can be refered as non-useful places due to the developments in modern technologies but I believe that the use of them would bring a lot of advantages to bot people and society.",
+        "comment": "This is a strong response, with a series of ideas for each part, presented effectively. It starts with a note that different countries have different patterns and the writer's position is clear in the first paragraph [facilities are still of paramount importance]. The first half captures the benefits of watching performances and movies online; it saves time and money, people can watch at any time of day, with flexibility. Paragraph 4 presents the economic and cultural benefits, the big screen makes people feel more included in the experience, real live actors, who can do some things that computers cannot, public money can be raised from get togethers for specific needs. The candidate concludes that some people think that cinemas and theatres are [non-useful places] but they believe there could bring a lot of advantages.\nIdeas are logically organised, and cohesive devices are varied. Reference is used [when / those] but with some inaccuracy [that facilities]. Some effective linking devices are used [On the one hand / Firstly / Secondly / On the other hand / On top of this]. However, paragraph 2 is one sentence, and should be combined with paragraph 3 for a more logical progression.\nVocabulary is a strength, with frequent high-level items and some skilful collocation [of paramount importance / differing views / watch any content] although, some errors remain [devise / device] and there are some examples of less precise language [make people feel themselves inside the movie / watchers / audiences / non-useful places].\nGrammatical structures are also varied and show some flexibility and some multi-clause sentences, including modal verbs and [if] clauses. However, most sentences are not error-free, as there are slips with articles, prepositions [in computers / on computers], other simple structures [is / are] and some missing punctuation.\nTo achieve a higher score, the candidate could make the paragraphing more consistent, and aim for a greater degree of accuracy in vocabulary and grammatical structures."
+      }
+    }
+  ]
+}

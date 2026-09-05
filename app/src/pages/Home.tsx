@@ -1,20 +1,23 @@
 import { Link } from "react-router-dom";
-import { PAPERS, paperUrl, useJson } from "../services/data";
+import { paperUrl, useIndex, useJson } from "../services/data";
 import type { SpeakingBank } from "../data/types";
 import { storage } from "../services/storage";
 
-const FEATURES = [
-  { to: "/listening/c21t1", icon: "🎧", color: "#3794ff", title: "听力", desc: "剑桥真题原声 MP3 + 机考播放器，填空 / 选择 / 配对拖拽，提交即判分。", ai: "AI 原文定位：错题一键跳到对应台词与时间点" },
-  { to: "/reading/c21t1", icon: "📖", color: "#ff4b40", title: "阅读", desc: "左文右题分屏，Highlight / Notes / Review 全套机考工具，划词查词。", ai: "AI 错因分析：定位句 + 同义替换 + 为什么错" },
-  { to: "/writing/c21t1", icon: "✍️", color: "#766ea5", title: "写作", desc: "Task 1 图表 + Task 2 议论文，实时字数与倒计时，官方范文与考官评语。", ai: "AI 批改：四维分项分 + 逐条问题 + 改写建议" },
+const FEATURES = (first: string) => [
+  { to: `/listening/${first}`, icon: "🎧", color: "#3794ff", title: "听力", desc: "剑桥真题原声 MP3 + 机考播放器，填空 / 选择 / 配对拖拽，提交即判分。", ai: "AI 原文定位：错题一键跳到对应台词与时间点" },
+  { to: `/reading/${first}`, icon: "📖", color: "#ff4b40", title: "阅读", desc: "左文右题分屏，Highlight / Notes / Review 全套机考工具，划词查词。", ai: "AI 错因分析：定位句 + 同义替换 + 为什么错" },
+  { to: `/writing/${first}`, icon: "✍️", color: "#766ea5", title: "写作", desc: "Task 1 图表 + Task 2 议论文，实时字数与倒计时，官方范文与考官评语。", ai: "AI 批改：四维分项分 + 逐条问题 + 改写建议" },
   { to: "/speaking", icon: "🎤", color: "#67c23b", title: "口语", desc: "2026 年 5-8 月最新题库，Part 1/2/3 三级筛选，新题 / 保留题 / 高频分类。", ai: "AI 参考答案 + 高分短语 + 浏览器录音回放" },
 ];
 
 export default function Home() {
   const { data: bank } = useJson<SpeakingBank>(paperUrl.speaking());
+  const idx = useIndex();
+  const PAPERS = idx?.papers ?? [];
   const attempts = storage.attempts();
   const errors = storage.errors();
   const books = [...new Set(PAPERS.map((p) => p.bookShort))];
+  const first = PAPERS.find((p) => p.modules.length)?.id ?? "c21t1";
   return (
     <>
       <section className="hero">
@@ -22,7 +25,7 @@ export default function Home() {
           <h1>雅思<span>机考</span>真题练习平台</h1>
           <p>按官方机考界面 1:1 复刻的本地刷题站。听说读写四科、自动判分与 9 分制换算、错题本，四类 AI 辅助帮你把每道错题吃透。</p>
           <div style={{ display: "flex", gap: 12 }}>
-            <Link className="btn cta grad" to="/listening/c21t1">开始一套完整模考</Link>
+            <Link className="btn cta grad" to={`/listening/${first}`}>开始一套完整模考</Link>
             <Link className="btn cta" to="/speaking">看本季口语题库</Link>
           </div>
           <div className="stats">
@@ -37,7 +40,7 @@ export default function Home() {
       <section className="section wrap">
         <h2>四科练习 <small>每科都带 AI 辅助，未填 Key 时用本地模拟数据演示</small></h2>
         <div className="feature-grid">
-          {FEATURES.map((f) => (
+          {FEATURES(first).map((f) => (
             <Link key={f.title} to={f.to} className="card feature">
               <div className="ic" style={{ background: f.color }}>{f.icon}</div>
               <h3>{f.title}</h3>
@@ -58,7 +61,7 @@ export default function Home() {
               <div className="tests">
                 {PAPERS.filter((p) => p.bookShort === b).map((p) => (
                   <div key={p.id} className="test">
-                    <span>Test {p.test}</span>
+                    <span>Test {p.test}{p.modules.includes("listening") && p.audioParts.length < 4 ? <span className="small muted" title={`音频只有 Part ${p.audioParts.join("/") || "无"}`}> · 音频不全</span> : null}</span>
                     <span className="links">
                       <Link to={`/listening/${p.id}`} className={p.modules.includes("listening") ? "" : "dis"}>听力</Link>
                       <Link to={`/reading/${p.id}`} className={p.modules.includes("reading") ? "" : "dis"}>阅读</Link>
