@@ -23,12 +23,16 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--audio-manifest", default=None)
     ap.add_argument("--audio-base", default="")
+    ap.add_argument("--exclude", default="", help="逗号分隔的试卷 id，正在制作中的不进清单")
     args = ap.parse_args()
     audio = json.load(open(args.audio_manifest))["books"] if args.audio_manifest else {}
 
+    exclude = {x.strip() for x in args.exclude.split(",") if x.strip()}
     papers: dict[str, dict] = {}
     for module in ("listening", "reading", "writing"):
         for f in sorted((DATA / module).glob("c*t*.json")):
+            if f.stem in exclude:
+                continue
             d = json.load(open(f))
             m = re.match(r"c(\d+)t(\d+)", f.stem)
             if not m:

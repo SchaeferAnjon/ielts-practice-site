@@ -262,9 +262,7 @@
    "bookNo": 17,
    "test": 2,
    "type": "A",
-   "modules": [
-    "listening"
-   ],
+   "modules": [],
    "audioParts": []
   },
   {
@@ -274,9 +272,7 @@
    "bookNo": 17,
    "test": 3,
    "type": "A",
-   "modules": [
-    "listening"
-   ],
+   "modules": [],
    "audioParts": []
   },
   {
