@@ -12,21 +12,42 @@
       "title": "Oyster Bay Sailing Club Courses",
       "groups": [
         {
-          "range": [1, 6],
+          "range": [
+            1,
+            6
+          ],
           "type": "table",
           "instruction": "Complete the table below.",
           "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
           "title": "Oyster Bay Sailing Club Courses",
           "table": {
-            "head": ["Name of course", "What you learn", "Cost", "Other information"],
+            "head": [
+              "Name of course",
+              "What you learn",
+              "Cost",
+              "Other information"
+            ],
             "rows": [
-              ["Taster day", "introduction to sailing", "£120 if booking one place", "small groups (max {{1}} people)"],
-              ["Level 1", "basic theory e.g. understanding the {{2}} and tides\nbasic sailing skills including {{3}} information", "£200\n{{4}} available for club members\nall inclusive (plus a useful {{5}})", "a {{6}} at the end of the course for all participants"]
+              [
+                "Taster day",
+                "introduction to sailing",
+                "£120 if booking one place",
+                "small groups (max {{1}} people)"
+              ],
+              [
+                "Level 1",
+                "basic theory e.g. understanding the {{2}} and tides\nbasic sailing skills including {{3}} information",
+                "£200\n{{4}} available for club members\nall inclusive (plus a useful {{5}})",
+                "a {{6}} at the end of the course for all participants"
+              ]
             ]
           }
         },
         {
-          "range": [7, 10],
+          "range": [
+            7,
+            10
+          ],
           "type": "notes",
           "instruction": "Complete the notes below.",
           "limit": "Write ONE WORD ONLY for each answer.",
@@ -41,174 +62,914 @@
         }
       ],
       "transcript": [
-        {"s": "WOMAN", "t": "Hello, Oyster Bay Sailing Club. How can I help you?"},
-        {"s": "MAN", "t": "Oh hi. I'd like to find out about sailing courses for beginners."},
-        {"s": "WOMAN", "t": "No problem. Is it for yourself?"},
-        {"s": "MAN", "t": "Yes. I had a look online but I'm not sure which course would be best."},
-        {"s": "WOMAN", "t": "OK. Well you might be interested in our Taster Days?"},
-        {"s": "MAN", "t": "Possibly."},
-        {"s": "WOMAN", "t": "So these are for people who've never sailed before – it's basically an introduction to sailing to find out whether you enjoy it and want to carry on with it."},
-        {"s": "MAN", "t": "And how much is that?"},
-        {"s": "WOMAN", "t": "It's £120 for the day – but it's reduced to £110 each if there are two of you."},
-        {"s": "MAN", "t": "No, it would just be me."},
-        {"s": "WOMAN", "t": "Oh that's fine. You'd be in a small group, usually about eight people but no more than ten – and everyone's always very friendly.", "q": [1]},
-        {"s": "MAN", "t": "Uh huh. And are there any other suitable courses?"},
-        {"s": "WOMAN", "t": "The other option is the Level 1 course. These are two-day weekend courses and we run those all year round."},
-        {"s": "MAN", "t": "OK. And what do you learn on that course?"},
-        {"s": "WOMAN", "t": "This is a mix of theory and practical skills. So you learn about things like the weather, which is obviously really important and also the tides, as well as learning basic sailing skills.", "q": [2]},
-        {"s": "WOMAN", "t": "You go out into the harbour in special training dinghies for beginners, two people in each dinghy and an instructor. He or she will make sure you understand everything you need to know about safety.", "q": [3]},
-        {"s": "MAN", "t": "It sounds like hard work!"},
-        {"s": "WOMAN", "t": "Yes, but you'll have a lot of fun too."},
-        {"s": "MAN", "t": "And the cost of that one is…?"},
-        {"s": "WOMAN", "t": "£200. But it's a bit cheaper if you decide to join the club. There's a discount for members.", "q": [4]},
-        {"s": "MAN", "t": "Well, I'm not sure about that yet."},
-        {"s": "WOMAN", "t": "You've got plenty of time to decide."},
-        {"s": "MAN", "t": "And does the cost include everything?"},
-        {"s": "WOMAN", "t": "Yes, everything's included and you also get a really good dictionary explaining all the sailing terminology. A lot of people struggle with this at first. It's got lots of pictures, so I'm sure you'd find it really helpful.", "q": [5]},
-        {"s": "WOMAN", "t": "And on completion of the course you get a certificate. Then you're ready to move on to the Level 2 course.", "q": [6]},
-        {"s": "MAN", "t": "Sounds good."},
-        {"s": "WOMAN", "t": "I think that's all the info you need for now. Just a couple of general things. For example, it's really important that you know how to swim."},
-        {"s": "MAN", "t": "Yes, I'm pretty confident in the water."},
-        {"s": "WOMAN", "t": "Great. The other thing I should tell you is that we provide wetsuits and life jackets but you need to bring swimming trunks and some old trainers."},
-        {"s": "MAN", "t": "And a towel?", "q": [7]},
-        {"s": "WOMAN", "t": "Yes definitely. And you might want to bring your own toiletries, things like shampoo."},
-        {"s": "MAN", "t": "OK. What about food and drink? Do I need to bring that or is there a cafe at the club?", "q": [8]},
-        {"s": "WOMAN", "t": "Yes, you can get sandwiches, cakes and snacks there. The food's pretty reasonable."},
-        {"s": "MAN", "t": "OK good. Well I think I'm interested in the Level 1 course. But I know absolutely nothing about sailing so is there anything I can do to prepare myself a bit?"},
-        {"s": "WOMAN", "t": "I recommend you watch some videos we use for training. They're available online. I can send you the link. They'll give you an idea of what to expect.", "q": [9]},
-        {"s": "MAN", "t": "Perfect, thanks. That would be very helpful. Oh and just one other thing – I'll be cycling to the club and will need somewhere to put valuables. I'm just wondering if there are lockers for people to use?", "q": [10]},
-        {"s": "WOMAN", "t": "Yes, there are plenty in the changing rooms."},
-        {"s": "MAN", "t": "Great. OK well could you book me onto…"}
+        {
+          "s": "WOMAN",
+          "t": "Hello, Oyster Bay Sailing Club. How can I help you?",
+          "start": 117.8,
+          "end": 120.88
+        },
+        {
+          "s": "MAN",
+          "t": "Oh hi. I'd like to find out about sailing courses for beginners.",
+          "start": 121.64,
+          "end": 125.92
+        },
+        {
+          "s": "WOMAN",
+          "t": "No problem. Is it for yourself?",
+          "start": 126.56,
+          "end": 128.24
+        },
+        {
+          "s": "MAN",
+          "t": "Yes. I had a look online but I'm not sure which course would be best.",
+          "start": 128.72,
+          "end": 133.67
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK. Well you might be interested in our Taster Days?",
+          "start": 134.07,
+          "end": 138.43
+        },
+        {
+          "s": "MAN",
+          "t": "Possibly.",
+          "start": 138.87,
+          "end": 139.51
+        },
+        {
+          "s": "WOMAN",
+          "t": "So these are for people who've never sailed before – it's basically an introduction to sailing to find out whether you enjoy it and want to carry on with it.",
+          "start": 140.26,
+          "end": 149.86
+        },
+        {
+          "s": "MAN",
+          "t": "And how much is that?",
+          "start": 151.05,
+          "end": 151.73
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's £120 for the day – but it's reduced to £110 each if there are two of you.",
+          "start": 152.33,
+          "end": 159.25
+        },
+        {
+          "s": "MAN",
+          "t": "No, it would just be me.",
+          "start": 159.49,
+          "end": 161.21
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh that's fine. You'd be in a small group, usually about eight people but no more than ten – and everyone's always very friendly.",
+          "q": [
+            1
+          ],
+          "start": 161.7,
+          "end": 170.78
+        },
+        {
+          "s": "MAN",
+          "t": "Uh huh. And are there any other suitable courses?",
+          "start": 173.14,
+          "end": 174.9
+        },
+        {
+          "s": "WOMAN",
+          "t": "The other option is the Level 1 course. These are two-day weekend courses and we run those all year round.",
+          "start": 176.14,
+          "end": 184.02
+        },
+        {
+          "s": "MAN",
+          "t": "OK. And what do you learn on that course?",
+          "start": 185.04,
+          "end": 187.76
+        },
+        {
+          "s": "WOMAN",
+          "t": "This is a mix of theory and practical skills. So you learn about things like the weather, which is obviously really important and also the tides, as well as learning basic sailing skills.",
+          "q": [
+            2
+          ],
+          "start": 188.12,
+          "end": 202.76
+        },
+        {
+          "s": "WOMAN",
+          "t": "You go out into the harbour in special training dinghies for beginners, two people in each dinghy and an instructor. He or she will make sure you understand everything you need to know about safety.",
+          "q": [
+            3
+          ],
+          "start": 203.76,
+          "end": 218.51
+        },
+        {
+          "s": "MAN",
+          "t": "It sounds like hard work!",
+          "start": 219.51,
+          "end": 220.47
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, but you'll have a lot of fun too.",
+          "start": 220.75,
+          "end": 223.59
+        },
+        {
+          "s": "MAN",
+          "t": "And the cost of that one is…?",
+          "start": 224.03,
+          "end": 226.27
+        },
+        {
+          "s": "WOMAN",
+          "t": "£200. But it's a bit cheaper if you decide to join the club. There's a discount for members.",
+          "q": [
+            4
+          ],
+          "start": 226.95,
+          "end": 233.87
+        },
+        {
+          "s": "MAN",
+          "t": "Well, I'm not sure about that yet.",
+          "start": 234.47,
+          "end": 236.51
+        },
+        {
+          "s": "WOMAN",
+          "t": "You've got plenty of time to decide.",
+          "start": 237.15,
+          "end": 239.15
+        },
+        {
+          "s": "MAN",
+          "t": "And does the cost include everything?",
+          "start": 239.39,
+          "end": 242.06
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, everything's included and you also get a really good dictionary explaining all the sailing terminology. A lot of people struggle with this at first. It's got lots of pictures, so I'm sure you'd find it really helpful.",
+          "q": [
+            5
+          ],
+          "start": 242.42,
+          "end": 259.28
+        },
+        {
+          "s": "WOMAN",
+          "t": "And on completion of the course you get a certificate. Then you're ready to move on to the Level 2 course.",
+          "q": [
+            6
+          ],
+          "start": 259.88,
+          "end": 266.94
+        },
+        {
+          "s": "MAN",
+          "t": "Sounds good.",
+          "start": 267.1,
+          "end": 268.1
+        },
+        {
+          "s": "WOMAN",
+          "t": "I think that's all the info you need for now. Just a couple of general things. For example, it's really important that you know how to swim.",
+          "start": 311.35,
+          "end": 321.55
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, I'm pretty confident in the water.",
+          "start": 322.42,
+          "end": 324.14
+        },
+        {
+          "s": "WOMAN",
+          "t": "Great. The other thing I should tell you is that we provide wetsuits and life jackets but you need to bring swimming trunks and some old trainers.",
+          "start": 324.78,
+          "end": 334.58
+        },
+        {
+          "s": "MAN",
+          "t": "And a towel?",
+          "q": [
+            7
+          ],
+          "start": 335.68,
+          "end": 336.16
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes definitely. And you might want to bring your own toiletries, things like shampoo.",
+          "start": 336.52,
+          "end": 342.04
+        },
+        {
+          "s": "MAN",
+          "t": "OK. What about food and drink? Do I need to bring that or is there a cafe at the club?",
+          "q": [
+            8
+          ],
+          "start": 342.68,
+          "end": 348.91
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, you can get sandwiches, cakes and snacks there. The food's pretty reasonable.",
+          "start": 349.55,
+          "end": 354.91
+        },
+        {
+          "s": "MAN",
+          "t": "OK good. Well I think I'm interested in the Level 1 course. But I know absolutely nothing about sailing so is there anything I can do to prepare myself a bit?",
+          "start": 355.71,
+          "end": 367.07
+        },
+        {
+          "s": "WOMAN",
+          "t": "I recommend you watch some videos we use for training. They're available online. I can send you the link. They'll give you an idea of what to expect.",
+          "q": [
+            9
+          ],
+          "start": 367.6,
+          "end": 377.32
+        },
+        {
+          "s": "MAN",
+          "t": "Perfect, thanks. That would be very helpful. Oh and just one other thing – I'll be cycling to the club and will need somewhere to put valuables. I'm just wondering if there are lockers for people to use?",
+          "q": [
+            10
+          ],
+          "start": 378.01,
+          "end": 390.49
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, there are plenty in the changing rooms.",
+          "start": 391.25,
+          "end": 393.53
+        },
+        {
+          "s": "MAN",
+          "t": "Great. OK well could you book me onto…",
+          "start": 393.57,
+          "end": 397.33
+        }
       ]
     },
     {
       "part": 2,
       "audio": "/audio/c21/t1p2.mp3",
-      "duration": 445,
+      "duration": 446,
       "title": "Working as a makeup trainee",
       "groups": [
         {
-          "range": [11, 16],
+          "range": [
+            11,
+            16
+          ],
           "type": "mc",
           "instruction": "Choose the correct letter, A, B or C.",
           "title": "Working as a makeup trainee",
           "questions": [
-            {"n": 11, "text": "What should trainees always expect to get when working on low budget short films?", "options": [{"k": "A", "text": "travel expenses"}, {"k": "B", "text": "a minimum wage"}, {"k": "C", "text": "meals"}]},
-            {"n": 12, "text": "According to the speaker, on big budget films trainees may get experience of", "options": [{"k": "A", "text": "makeup for special effects."}, {"k": "B", "text": "working with different ethnicities."}, {"k": "C", "text": "creating a variety of hair styles."}]},
-            {"n": 13, "text": "The speaker says a problem for makeup artists is", "options": [{"k": "A", "text": "dealing with difficult directors."}, {"k": "B", "text": "being shouted at by their supervisor."}, {"k": "C", "text": "waiting around for hours doing nothing."}]},
-            {"n": 14, "text": "How did the speaker feel when she met famous actors for the first time?", "options": [{"k": "A", "text": "very shy"}, {"k": "B", "text": "very proud"}, {"k": "C", "text": "very disappointed"}]},
-            {"n": 15, "text": "What advice does the speaker give about makeup kits?", "options": [{"k": "A", "text": "Always carry a basic kit with you."}, {"k": "B", "text": "Only buy the best products for a makeup kit."}, {"k": "C", "text": "Ask other makeup artists to check your kit."}]},
-            {"n": 16, "text": "What advice does the speaker give about creating a portfolio?", "options": [{"k": "A", "text": "Keep print and digital photos."}, {"k": "B", "text": "Only include a small selection of photos."}, {"k": "C", "text": "Get permission to use photos."}]}
+            {
+              "n": 11,
+              "text": "What should trainees always expect to get when working on low budget short films?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "travel expenses"
+                },
+                {
+                  "k": "B",
+                  "text": "a minimum wage"
+                },
+                {
+                  "k": "C",
+                  "text": "meals"
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "According to the speaker, on big budget films trainees may get experience of",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "makeup for special effects."
+                },
+                {
+                  "k": "B",
+                  "text": "working with different ethnicities."
+                },
+                {
+                  "k": "C",
+                  "text": "creating a variety of hair styles."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "The speaker says a problem for makeup artists is",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "dealing with difficult directors."
+                },
+                {
+                  "k": "B",
+                  "text": "being shouted at by their supervisor."
+                },
+                {
+                  "k": "C",
+                  "text": "waiting around for hours doing nothing."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "How did the speaker feel when she met famous actors for the first time?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "very shy"
+                },
+                {
+                  "k": "B",
+                  "text": "very proud"
+                },
+                {
+                  "k": "C",
+                  "text": "very disappointed"
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "What advice does the speaker give about makeup kits?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Always carry a basic kit with you."
+                },
+                {
+                  "k": "B",
+                  "text": "Only buy the best products for a makeup kit."
+                },
+                {
+                  "k": "C",
+                  "text": "Ask other makeup artists to check your kit."
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "What advice does the speaker give about creating a portfolio?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Keep print and digital photos."
+                },
+                {
+                  "k": "B",
+                  "text": "Only include a small selection of photos."
+                },
+                {
+                  "k": "C",
+                  "text": "Get permission to use photos."
+                }
+              ]
+            }
           ]
         },
         {
-          "range": [17, 20],
+          "range": [
+            17,
+            20
+          ],
           "type": "matching",
           "instruction": "What ability is required for each of the following duties?",
           "limit": "Write the correct letter, A, B, or C, next to Questions 17-20.",
-          "options": [{"k": "A", "text": "being well-organised"}, {"k": "B", "text": "being flexible"}, {"k": "C", "text": "working quickly"}],
+          "options": [
+            {
+              "k": "A",
+              "text": "being well-organised"
+            },
+            {
+              "k": "B",
+              "text": "being flexible"
+            },
+            {
+              "k": "C",
+              "text": "working quickly"
+            }
+          ],
           "itemsTitle": "Duties",
-          "items": [{"n": 17, "text": "Prepping an actor"}, {"n": 18, "text": "Continuity"}, {"n": 19, "text": "General"}, {"n": 20, "text": "Applying makeup"}]
+          "items": [
+            {
+              "n": 17,
+              "text": "Prepping an actor"
+            },
+            {
+              "n": 18,
+              "text": "Continuity"
+            },
+            {
+              "n": 19,
+              "text": "General"
+            },
+            {
+              "n": 20,
+              "text": "Applying makeup"
+            }
+          ]
         }
       ],
       "transcript": [
-        {"s": "MAN", "t": "Hello and welcome to the film making podcast. In this week's episode, Claire Lemarre talks to us about how to become a makeup artist. Claire's been working as a makeup artist in the film industry for over 20 years and has lots of useful advice about how to get started."},
-        {"s": "WOMAN", "t": "Thanks Ian. Well, before you can become a makeup artist on films you have to spend about 2 years working as a makeup trainee. A good place to get your first job would be on a low budget short film. Of course, this means that you'll be working for free. But it's often worth it for the experience."},
-        {"s": "WOMAN", "t": "Make sure your transport costs are covered – and remember, there's very unlikely to be any catering provided, so bring plenty of food.", "q": [11]},
-        {"s": "WOMAN", "t": "If you're lucky, you might start out on a big budget film where you'll get the most useful experience. On productions like this, makeup and hair styling are separate departments – so you won't need to bring your curling tongs! But you're likely to get the opportunity to work with a range of age groups, as well as different ethnicities. Doing makeup for special effects is highly specialised, so don't expect to be offered any practical experience in that.", "q": [12]},
-        {"s": "WOMAN", "t": "One problem with working in the makeup department is that it's a high-pressure environment. There are very few times when you'll be bored or have nothing to do. It can be stressful but you'll see that the top makeup artists are very professional – even when they're having to work with directors who are impatient, or unhappy with the makeup artist's work. Follow your supervisor's lead and try to remain calm at all times.", "q": [13]},
-        {"s": "WOMAN", "t": "I've worked with many very famous actors over the years. At first, I found it overwhelming and could hardly speak. I was so in awe. That's preferable, by the way, to becoming too excited and asking for selfies. Now meeting the talent is just a normal part of the job and to be honest most actors don't look that special without all the makeup!", "q": [14]},
-        {"s": "WOMAN", "t": "Every makeup trainee will need a makeup kit, which they'll be expected to have with them at all times. Just the essentials will do for the kinds of tasks you'll be given – it won't be anything complicated. It's worth looking at what the other makeup artists have in their kits – but whatever you do, don't borrow anything without asking first.", "q": [15]},
-        {"s": "WOMAN", "t": "It's very important to build your portfolio. You should take photos of all the work you do and ideally show the different stages of makeup application if you can. But remember you'll need to get approval from the makeup designer in charge of the department. As you'll be sending your portfolio digitally, you won't need to get photos printed.", "q": [16]},
-        {"s": "WOMAN", "t": "So what does a makeup trainee actually do? You need to think about whether you're the right kind of person to do the job and whether you'd enjoy it. So, to give you some idea, here are some of the things you might be required to do."},
-        {"s": "WOMAN", "t": "You may be asked to help prep an actor ready for makeup. Some actors will arrive having already cleansed and moisturized their skin. But sometimes you'll need to step in and get this done without wasting any time, otherwise the makeup artist will get behind schedule.", "q": [17]},
-        {"s": "WOMAN", "t": "Trainees play a useful role in continuity. It will be your responsibility to take photos, log them digitally and print out a hard copy to put in each actor's file. This information needs to be kept in good order as a reshoot can mean replicating makeup months later.", "q": [18]},
-        {"s": "WOMAN", "t": "General duties mean doing anything from getting the teas and coffees to putting on a wash. Having a positive attitude and being willing to do whatever is asked of you will help you get your next film job.", "q": [19]},
-        {"s": "WOMAN", "t": "You won't be asked to apply makeup to any of the principal cast, only the extras. If there are dozens of extras involved you'll need to keep up a swift pace and not spend too long on each person. It takes quite a lot of confidence to be able to do this well.", "q": [20]},
-        {"s": "WOMAN", "t": "OK now about terms and conditions…"}
+        {
+          "s": "MAN",
+          "t": "Hello and welcome to the film making podcast. In this week's episode, Claire Lemarre talks to us about how to become a makeup artist. Claire's been working as a makeup artist in the film industry for over 20 years and has lots of useful advice about how to get started.",
+          "start": 76.39,
+          "end": 93.95
+        },
+        {
+          "s": "WOMAN",
+          "t": "Thanks Ian. Well, before you can become a makeup artist on films you have to spend about 2 years working as a makeup trainee. A good place to get your first job would be on a low budget short film. Of course, this means that you'll be working for free. But it's often worth it for the experience.",
+          "start": 94.63,
+          "end": 115.87
+        },
+        {
+          "s": "WOMAN",
+          "t": "Make sure your transport costs are covered – and remember, there's very unlikely to be any catering provided, so bring plenty of food.",
+          "q": [
+            11
+          ],
+          "start": 116.31,
+          "end": 126.24
+        },
+        {
+          "s": "WOMAN",
+          "t": "If you're lucky, you might start out on a big budget film where you'll get the most useful experience. On productions like this, makeup and hair styling are separate departments – so you won't need to bring your curling tongs! But you're likely to get the opportunity to work with a range of age groups, as well as different ethnicities. Doing makeup for special effects is highly specialised, so don't expect to be offered any practical experience in that.",
+          "q": [
+            12
+          ],
+          "start": 128.52,
+          "end": 160.3
+        },
+        {
+          "s": "WOMAN",
+          "t": "One problem with working in the makeup department is that it's a high-pressure environment. There are very few times when you'll be bored or have nothing to do. It can be stressful but you'll see that the top makeup artists are very professional – even when they're having to work with directors who are impatient, or unhappy with the makeup artist's work. Follow your supervisor's lead and try to remain calm at all times.",
+          "q": [
+            13
+          ],
+          "start": 161.79,
+          "end": 189.38
+        },
+        {
+          "s": "WOMAN",
+          "t": "I've worked with many very famous actors over the years. At first, I found it overwhelming and could hardly speak. I was so in awe. That's preferable, by the way, to becoming too excited and asking for selfies. Now meeting the talent is just a normal part of the job and to be honest most actors don't look that special without all the makeup!",
+          "q": [
+            14
+          ],
+          "start": 191.28,
+          "end": 215.02
+        },
+        {
+          "s": "WOMAN",
+          "t": "Every makeup trainee will need a makeup kit, which they'll be expected to have with them at all times. Just the essentials will do for the kinds of tasks you'll be given – it won't be anything complicated. It's worth looking at what the other makeup artists have in their kits – but whatever you do, don't borrow anything without asking first.",
+          "q": [
+            15
+          ],
+          "start": 216.35,
+          "end": 237.72
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's very important to build your portfolio. You should take photos of all the work you do and ideally show the different stages of makeup application if you can. But remember you'll need to get approval from the makeup designer in charge of the department. As you'll be sending your portfolio digitally, you won't need to get photos printed.",
+          "q": [
+            16
+          ],
+          "start": 239.79,
+          "end": 261.65
+        },
+        {
+          "s": "WOMAN",
+          "t": "So what does a makeup trainee actually do? You need to think about whether you're the right kind of person to do the job and whether you'd enjoy it. So, to give you some idea, here are some of the things you might be required to do.",
+          "start": 311.56,
+          "end": 326.36
+        },
+        {
+          "s": "WOMAN",
+          "t": "You may be asked to help prep an actor ready for makeup. Some actors will arrive having already cleansed and moisturized their skin. But sometimes you'll need to step in and get this done without wasting any time, otherwise the makeup artist will get behind schedule.",
+          "q": [
+            17
+          ],
+          "start": 327.6,
+          "end": 345.83
+        },
+        {
+          "s": "WOMAN",
+          "t": "Trainees play a useful role in continuity. It will be your responsibility to take photos, log them digitally and print out a hard copy to put in each actor's file. This information needs to be kept in good order as a reshoot can mean replicating makeup months later.",
+          "q": [
+            18
+          ],
+          "start": 347.48,
+          "end": 367.2
+        },
+        {
+          "s": "WOMAN",
+          "t": "General duties mean doing anything from getting the teas and coffees to putting on a wash. Having a positive attitude and being willing to do whatever is asked of you will help you get your next film job.",
+          "q": [
+            19
+          ],
+          "start": 368.82,
+          "end": 381.9
+        },
+        {
+          "s": "WOMAN",
+          "t": "You won't be asked to apply makeup to any of the principal cast, only the extras. If there are dozens of extras involved you'll need to keep up a swift pace and not spend too long on each person. It takes quite a lot of confidence to be able to do this well.",
+          "q": [
+            20
+          ],
+          "start": 383.24,
+          "end": 399.33
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK now about terms and conditions…",
+          "start": 400.57,
+          "end": 403.29
+        }
       ]
     },
     {
       "part": 3,
       "audio": "/audio/c21/t1p3.mp3",
-      "duration": 416,
+      "duration": 417,
       "title": "Ocean biodiversity lecture",
       "groups": [
         {
-          "range": [21, 22],
+          "range": [
+            21,
+            22
+          ],
           "type": "mc-multi",
           "instruction": "Choose TWO letters, A-E.",
           "text": "Which TWO features of the lecture on ocean biodiversity had the greatest impact on the students?",
           "count": 2,
-          "options": [{"k": "A", "text": "the references to local problems"}, {"k": "B", "text": "the broad focus of the examples"}, {"k": "C", "text": "the practical suggestions for solutions"}, {"k": "D", "text": "the type of issues discussed"}, {"k": "E", "text": "the implications for government policy"}]
+          "options": [
+            {
+              "k": "A",
+              "text": "the references to local problems"
+            },
+            {
+              "k": "B",
+              "text": "the broad focus of the examples"
+            },
+            {
+              "k": "C",
+              "text": "the practical suggestions for solutions"
+            },
+            {
+              "k": "D",
+              "text": "the type of issues discussed"
+            },
+            {
+              "k": "E",
+              "text": "the implications for government policy"
+            }
+          ]
         },
         {
-          "range": [23, 24],
+          "range": [
+            23,
+            24
+          ],
           "type": "mc-multi",
           "instruction": "Choose TWO letters, A-E.",
           "text": "Which TWO details about the research project particularly impressed the students?",
           "count": 2,
-          "options": [{"k": "A", "text": "the team's previous successes"}, {"k": "B", "text": "its wide geographical scale"}, {"k": "C", "text": "the use of new technology"}, {"k": "D", "text": "the extensive statistical evidence"}, {"k": "E", "text": "the large range of specialists involved"}]
+          "options": [
+            {
+              "k": "A",
+              "text": "the team's previous successes"
+            },
+            {
+              "k": "B",
+              "text": "its wide geographical scale"
+            },
+            {
+              "k": "C",
+              "text": "the use of new technology"
+            },
+            {
+              "k": "D",
+              "text": "the extensive statistical evidence"
+            },
+            {
+              "k": "E",
+              "text": "the large range of specialists involved"
+            }
+          ]
         },
         {
-          "range": [25, 30],
+          "range": [
+            25,
+            30
+          ],
           "type": "matching",
           "instruction": "What is the students' opinion of each of the following resources related to ocean biodiversity?",
           "limit": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
           "optionsTitle": "Opinions",
           "options": [
-            {"k": "A", "text": "This is aimed at a very specialist audience."},
-            {"k": "B", "text": "This is now rather outdated."},
-            {"k": "C", "text": "This was an effective description of a new danger."},
-            {"k": "D", "text": "This suggests possible ways to improve the situation."},
-            {"k": "E", "text": "This does not give a balanced account."},
-            {"k": "F", "text": "This is too predictable to be useful."},
-            {"k": "G", "text": "This gives insufficient evidence for its claims."},
-            {"k": "H", "text": "This gives a clear explanation of the problems."}
+            {
+              "k": "A",
+              "text": "This is aimed at a very specialist audience."
+            },
+            {
+              "k": "B",
+              "text": "This is now rather outdated."
+            },
+            {
+              "k": "C",
+              "text": "This was an effective description of a new danger."
+            },
+            {
+              "k": "D",
+              "text": "This suggests possible ways to improve the situation."
+            },
+            {
+              "k": "E",
+              "text": "This does not give a balanced account."
+            },
+            {
+              "k": "F",
+              "text": "This is too predictable to be useful."
+            },
+            {
+              "k": "G",
+              "text": "This gives insufficient evidence for its claims."
+            },
+            {
+              "k": "H",
+              "text": "This gives a clear explanation of the problems."
+            }
           ],
           "itemsTitle": "Resources",
           "items": [
-            {"n": 25, "text": "Article on invasive lionfish"},
-            {"n": 26, "text": "Documentary on microplastics"},
-            {"n": 27, "text": "Podcast on ocean pollution"},
-            {"n": 28, "text": "Book on coastal ecosystems"},
-            {"n": 29, "text": "Article on metal toxicity"},
-            {"n": 30, "text": "Podcast on floating marine cities"}
+            {
+              "n": 25,
+              "text": "Article on invasive lionfish"
+            },
+            {
+              "n": 26,
+              "text": "Documentary on microplastics"
+            },
+            {
+              "n": 27,
+              "text": "Podcast on ocean pollution"
+            },
+            {
+              "n": 28,
+              "text": "Book on coastal ecosystems"
+            },
+            {
+              "n": 29,
+              "text": "Article on metal toxicity"
+            },
+            {
+              "n": 30,
+              "text": "Podcast on floating marine cities"
+            }
           ]
         }
       ],
       "transcript": [
-        {"s": "PHIL", "t": "That lecture from the visiting speaker yesterday was good, wasn't it?"},
-        {"s": "LUCY", "t": "Yeah. I learned a lot from her about ocean biodiversity. I've already done some reading on it, and I did an assignment on some of the problems associated with it last year, but I especially liked the way her lecture focused on more long-term issues.", "q": [21, 22]},
-        {"s": "PHIL", "t": "Yes, things that aren't currently receiving widespread attention but are likely to be important in the future. That impressed me too. It wasn't exactly a feel-good conclusion because it's hard to see any real solution for a lot of the problems."},
-        {"s": "LUCY", "t": "No, though she did point to where policy changes could be made to protect our marine and coastal environments."},
-        {"s": "PHIL", "t": "Mm. But that's just at a national level. The examples she gave were at a more global level, and they really made it clear to me just how wide-ranging the threats to ocean biodiversity are.", "q": [21, 22]},
-        {"s": "LUCY", "t": "Yes, me too."},
-        {"s": "PHIL", "t": "The research project she described was impressive, wasn't it? I'd have thought it was quite unusual to have so many experts working together.", "q": [23, 24]},
-        {"s": "LUCY", "t": "Yeah, and from such different backgrounds. Must have been a really exciting team to work with. I'd heard of a couple of them before – they were involved in research way back in 2009 warning about the dangers of ocean pollution."},
-        {"s": "PHIL", "t": "But now people are much more aware of that, aren't they?"},
-        {"s": "LUCY", "t": "I suppose so."},
-        {"s": "PHIL", "t": "Another thing about the research is that the team members came from all round the world. Though I suppose that's not unusual nowadays, now everyone can work remotely."},
-        {"s": "LUCY", "t": "Right. I liked the way she didn't bombard us with figures – I mean, they were available, but she focused more on the general points they indicated."},
-        {"s": "PHIL", "t": "Mm. And the description of improvements in systems used for tracking marine animals and things like robots were really interesting.", "q": [23, 24]},
-        {"s": "LUCY", "t": "Yes, and her description of how robotics can be used to investigate threats to biodiversity."},
-        {"s": "PHIL", "t": "Absolutely."},
-        {"s": "PHIL", "t": "While you're here, can we talk about the list of resources we have to evaluate for the seminar tomorrow. I've had a look at them all, but it's been a bit of a rush."},
-        {"s": "LUCY", "t": "Yeah. What did you think of that article on invasive lionfish? The one claiming they were expanding their habitat throughout the Mediterranean Sea."},
-        {"s": "PHIL", "t": "Well, the writer went on about how dangerous they were in environmental terms, which is probably true, but he didn't really provide much information to explain why.", "q": [25]},
-        {"s": "LUCY", "t": "I know what you mean."},
-        {"s": "PHIL", "t": "I watched the documentary on microplastics, at least I started to, but then I found it was made ten years ago so I gave up."},
-        {"s": "LUCY", "t": "I watched to the end but you're right, it was showing its age. People had hardly heard of microplastics then, whereas now everyone knows about them and how dangerous they are.", "q": [26]},
-        {"s": "PHIL", "t": "Yeah. Did you listen to the podcast on ocean pollution?"},
-        {"s": "LUCY", "t": "Mm. I didn't get anything out of it though. Most of it was stating the obvious."},
-        {"s": "PHIL", "t": "Yes, it mentioned pesticides and plastic and things, and it clearly made the point that they were a bad thing, but everybody knows that anyway. Did you read that book on coastal ecosystems?", "q": [27]},
-        {"s": "LUCY", "t": "The one by John Harper? Yes, I found it hard going at first, it went into a lot of detail about things like the effects of offshore windfarms and fish farms, but actually I ended up with a much better understanding of the issues."},
-        {"s": "PHIL", "t": "Yes, I agree and I thought it was a well-written summary of those. And the diagrams helped a lot too.", "q": [28]},
-        {"s": "LUCY", "t": "The article on metal toxicity was way above my head. I didn't know anything about how metals from industrial emissions react in the ocean… and I still don't understand it.", "q": [29]},
-        {"s": "PHIL", "t": "I gave up reading after the first chapter – I just couldn't follow it."},
-        {"s": "LUCY", "t": "That podcast on floating marine cities was interesting, though it presented a rather one-sided picture, I thought.", "q": [30]},
-        {"s": "PHIL", "t": "Yes, it focused on how this would benefit people and ignored the effects on the environment."},
-        {"s": "LUCY", "t": "But anyway, shall we…"}
+        {
+          "s": "PHIL",
+          "t": "That lecture from the visiting speaker yesterday was good, wasn't it?",
+          "start": 58.05,
+          "end": 61.73
+        },
+        {
+          "s": "LUCY",
+          "t": "Yeah. I learned a lot from her about ocean biodiversity. I've already done some reading on it, and I did an assignment on some of the problems associated with it last year, but I especially liked the way her lecture focused on more long-term issues.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 61.85,
+          "end": 78.91
+        },
+        {
+          "s": "PHIL",
+          "t": "Yes, things that aren't currently receiving widespread attention but are likely to be important in the future. That impressed me too. It wasn't exactly a feel-good conclusion because it's hard to see any real solution for a lot of the problems.",
+          "start": 79.73,
+          "end": 95.35
+        },
+        {
+          "s": "LUCY",
+          "t": "No, though she did point to where policy changes could be made to protect our marine and coastal environments.",
+          "start": 95.63,
+          "end": 102.71
+        },
+        {
+          "s": "PHIL",
+          "t": "Mm. But that's just at a national level. The examples she gave were at a more global level, and they really made it clear to me just how wide-ranging the threats to ocean biodiversity are.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 103.81,
+          "end": 115.89
+        },
+        {
+          "s": "LUCY",
+          "t": "Yes, me too.",
+          "start": 116.01,
+          "end": 117.17
+        },
+        {
+          "s": "PHIL",
+          "t": "The research project she described was impressive, wasn't it? I'd have thought it was quite unusual to have so many experts working together.",
+          "q": [
+            23,
+            24
+          ],
+          "start": 117.87,
+          "end": 126.27
+        },
+        {
+          "s": "LUCY",
+          "t": "Yeah, and from such different backgrounds. Must have been a really exciting team to work with. I'd heard of a couple of them before – they were involved in research way back in 2009 warning about the dangers of ocean pollution.",
+          "start": 126.51,
+          "end": 141.43
+        },
+        {
+          "s": "PHIL",
+          "t": "But now people are much more aware of that, aren't they?",
+          "start": 141.99,
+          "end": 145.03
+        },
+        {
+          "s": "LUCY",
+          "t": "I suppose so.",
+          "start": 145.31,
+          "end": 146.07
+        },
+        {
+          "s": "PHIL",
+          "t": "Another thing about the research is that the team members came from all round the world. Though I suppose that's not unusual nowadays, now everyone can work remotely.",
+          "start": 146.27,
+          "end": 156.96
+        },
+        {
+          "s": "LUCY",
+          "t": "Right. I liked the way she didn't bombard us with figures – I mean, they were available, but she focused more on the general points they indicated.",
+          "start": 157.2,
+          "end": 167.32
+        },
+        {
+          "s": "PHIL",
+          "t": "Mm. And the description of improvements in systems used for tracking marine animals and things like robots were really interesting.",
+          "q": [
+            23,
+            24
+          ],
+          "start": 168.61,
+          "end": 176.85
+        },
+        {
+          "s": "LUCY",
+          "t": "Yes, and her description of how robotics can be used to investigate threats to biodiversity.",
+          "start": 178.35,
+          "end": 183.87
+        },
+        {
+          "s": "PHIL",
+          "t": "Absolutely.",
+          "start": 184.03,
+          "end": 184.71
+        },
+        {
+          "s": "PHIL",
+          "t": "While you're here, can we talk about the list of resources we have to evaluate for the seminar tomorrow. I've had a look at them all, but it's been a bit of a rush.",
+          "start": 239.32,
+          "end": 249.28
+        },
+        {
+          "s": "LUCY",
+          "t": "Yeah. What did you think of that article on invasive lionfish? The one claiming they were expanding their habitat throughout the Mediterranean Sea.",
+          "start": 250.81,
+          "end": 259.17
+        },
+        {
+          "s": "PHIL",
+          "t": "Well, the writer went on about how dangerous they were in environmental terms, which is probably true, but he didn't really provide much information to explain why.",
+          "q": [
+            25
+          ],
+          "start": 259.37,
+          "end": 271.21
+        },
+        {
+          "s": "LUCY",
+          "t": "I know what you mean.",
+          "start": 271.7,
+          "end": 272.54
+        },
+        {
+          "s": "PHIL",
+          "t": "I watched the documentary on microplastics, at least I started to, but then I found it was made ten years ago so I gave up.",
+          "start": 273.26,
+          "end": 281.94
+        },
+        {
+          "s": "LUCY",
+          "t": "I watched to the end but you're right, it was showing its age. People had hardly heard of microplastics then, whereas now everyone knows about them and how dangerous they are.",
+          "q": [
+            26
+          ],
+          "start": 282.58,
+          "end": 293.58
+        },
+        {
+          "s": "PHIL",
+          "t": "Yeah. Did you listen to the podcast on ocean pollution?",
+          "start": 294.96,
+          "end": 297.64
+        },
+        {
+          "s": "LUCY",
+          "t": "Mm. I didn't get anything out of it though. Most of it was stating the obvious.",
+          "start": 299.04,
+          "end": 302.6
+        },
+        {
+          "s": "PHIL",
+          "t": "Yes, it mentioned pesticides and plastic and things, and it clearly made the point that they were a bad thing, but everybody knows that anyway. Did you read that book on coastal ecosystems?",
+          "q": [
+            27
+          ],
+          "start": 302.84,
+          "end": 316.77
+        },
+        {
+          "s": "LUCY",
+          "t": "The one by John Harper? Yes, I found it hard going at first, it went into a lot of detail about things like the effects of offshore windfarms and fish farms, but actually I ended up with a much better understanding of the issues.",
+          "start": 317.01,
+          "end": 332.87
+        },
+        {
+          "s": "PHIL",
+          "t": "Yes, I agree and I thought it was a well-written summary of those. And the diagrams helped a lot too.",
+          "q": [
+            28
+          ],
+          "start": 332.91,
+          "end": 340.03
+        },
+        {
+          "s": "LUCY",
+          "t": "The article on metal toxicity was way above my head. I didn't know anything about how metals from industrial emissions react in the ocean… and I still don't understand it.",
+          "q": [
+            29
+          ],
+          "start": 340.58,
+          "end": 352.58
+        },
+        {
+          "s": "PHIL",
+          "t": "I gave up reading after the first chapter – I just couldn't follow it.",
+          "start": 352.7,
+          "end": 357.38
+        },
+        {
+          "s": "LUCY",
+          "t": "That podcast on floating marine cities was interesting, though it presented a rather one-sided picture, I thought.",
+          "q": [
+            30
+          ],
+          "start": 358.26,
+          "end": 365.84
+        },
+        {
+          "s": "PHIL",
+          "t": "Yes, it focused on how this would benefit people and ignored the effects on the environment.",
+          "start": 366.0,
+          "end": 371.96
+        },
+        {
+          "s": "LUCY",
+          "t": "But anyway, shall we…",
+          "start": 372.71,
+          "end": 374.27
+        }
       ]
     },
     {
@@ -218,7 +979,10 @@
       "title": "Sources of rubber",
       "groups": [
         {
-          "range": [31, 40],
+          "range": [
+            31,
+            40
+          ],
           "type": "notes",
           "instruction": "Complete the notes below.",
           "limit": "Write ONE WORD ONLY for each answer.",
@@ -251,28 +1015,256 @@
         }
       ],
       "transcript": [
-        {"s": "LECTURER", "t": "Much of the world now lives in an industrial civilisation. But this has only become possible because we have the necessary natural resources. There are three types of natural resource without which industry could not exist. One of these is metal – without that we'd have no machines and no transportation.", "q": [31]},
-        {"s": "LECTURER", "t": "Another is fossil fuels, which we need to power those machines. But there's a third resource that's essential to connect the different parts of a machine together with belts and pipes and shock absorbers, and that is rubber. It's now used in over 40,000 products, from waterproof footwear to surgical gloves."},
-        {"s": "LECTURER", "t": "At present, we have two types of rubber in common use. One is natural rubber, which nearly all comes from the Para rubber tree. This was originally native to Brazil, but is now cultivated on plantations in South-East Asia. Recently, however, concern's been growing that supplies may soon be insufficient for the world's needs. So what exactly is limiting the supply of natural rubber?"},
-        {"s": "LECTURER", "t": "Well, for one thing, rubber trees don't just spring up overnight. It can take eight to ten years for a tree to start producing rubber, so cultivating them's a slow process.", "q": [32]},
-        {"s": "LECTURER", "t": "And this leads to another problem. With most crops, farmers don't have to think very far ahead, so they can easily change what crop they produce, or how much of a crop they produce, if they find the demand for that crop is rising or falling. But if you have to plant eight or ten years ahead, that's much harder.", "q": [33]},
-        {"s": "LECTURER", "t": "And also the rubber tree's very choosy about where it grows. It needs the right temperature, the right amount of rainfall, and the right altitude – not too high and not too low. The result is that it can't be grown in the northern or southern parts of the globe, only around the equator.", "q": [34]},
-        {"s": "LECTURER", "t": "Another problem is that the rubber is basically extracted in the same way as it's been done for hundreds of years, and that's by hand, by making small cuts in the trunk of the tree, and putting a little cup there to catch the latex, as the rubber is called. It's very labour-intensive."},
-        {"s": "LECTURER", "t": "And it's not just the initial production that's limiting supplies. With other resources such as water and glass, when we've finished using them we can recycle them, but although this is also possible with rubber, it's very difficult, so that also reduces the amount we have available.", "q": [35]},
-        {"s": "LECTURER", "t": "And in the last few years, there have been new threats to the supply of natural rubber. One problem is linked to the fact that nearly all the rubber trees in South-East Asia are descended from just a small number of seeds brought from Brazil in the nineteenth century. This means that there's very little genetic diversity among the trees, which in turn makes them very vulnerable to disease. The most dangerous threat is a fungus, which destroyed large numbers of rubber trees in Brazil, and which could cause devastation to plantations worldwide.", "q": [36]},
-        {"s": "LECTURER", "t": "Another problem is that farmers in South-East Asia are increasingly turning to the cultivation of palm oil, which is easier and more profitable for them. And finally, in recent years South-East Asia, like other parts of the world, has been repeatedly hit by extreme types of weather, and this looks likely to continue in the future.", "q": [37]},
-        {"s": "LECTURER", "t": "However, as well as using natural rubber, it's also possible to make rubber synthetically. This works very well for some purposes, for example, making engine parts, or silicone pots and pans used for cooking. But compared with natural rubber, it's not anything like as strong, and this means it can't replace natural rubber in other products.", "q": [38]},
-        {"s": "LECTURER", "t": "For example, while a mixture of natural rubber and synthetic rubber works well in car tyres, only natural rubber can stand up to the extreme speeds of aircraft tyres during take-off and landing."},
-        {"s": "LECTURER", "t": "So for some time, scientists have been looking for alternative sources of natural rubber. One that's been known about for some time seems initially to be a rather unlikely source. It's a wild plant with yellow flowers that we normally regard as a weed when we see it in our gardens. But when it's pulled up and its roots cut open, they're found to contain rubber.", "q": [39]},
-        {"s": "LECTURER", "t": "Now, compared to the rubber tree, dandelions produce relatively small amounts of rubber, but unlike rubber trees, they're very adaptable. They'll grow in all sorts of places, and they don't need rich soil. So at present there are several projects underway investigating the possibility of using dandelions as a source of rubber.", "q": [40]},
-        {"s": "LECTURER", "t": "Another possibility is a desert shrub grown in Mexico and Texas…"}
+        {
+          "s": "LECTURER",
+          "t": "Much of the world now lives in an industrial civilisation. But this has only become possible because we have the necessary natural resources. There are three types of natural resource without which industry could not exist. One of these is metal – without that we'd have no machines and no transportation.",
+          "q": [
+            31
+          ],
+          "start": 72.94,
+          "end": 96.86
+        },
+        {
+          "s": "LECTURER",
+          "t": "Another is fossil fuels, which we need to power those machines. But there's a third resource that's essential to connect the different parts of a machine together with belts and pipes and shock absorbers, and that is rubber. It's now used in over 40,000 products, from waterproof footwear to surgical gloves.",
+          "start": 97.18,
+          "end": 123.49
+        },
+        {
+          "s": "LECTURER",
+          "t": "At present, we have two types of rubber in common use. One is natural rubber, which nearly all comes from the Para rubber tree. This was originally native to Brazil, but is now cultivated on plantations in South-East Asia. Recently, however, concern's been growing that supplies may soon be insufficient for the world's needs. So what exactly is limiting the supply of natural rubber?",
+          "start": 124.94,
+          "end": 158.0
+        },
+        {
+          "s": "LECTURER",
+          "t": "Well, for one thing, rubber trees don't just spring up overnight. It can take eight to ten years for a tree to start producing rubber, so cultivating them's a slow process.",
+          "q": [
+            32
+          ],
+          "start": 159.29,
+          "end": 173.6
+        },
+        {
+          "s": "LECTURER",
+          "t": "And this leads to another problem. With most crops, farmers don't have to think very far ahead, so they can easily change what crop they produce, or how much of a crop they produce, if they find the demand for that crop is rising or falling. But if you have to plant eight or ten years ahead, that's much harder.",
+          "q": [
+            33
+          ],
+          "start": 174.36,
+          "end": 198.86
+        },
+        {
+          "s": "LECTURER",
+          "t": "And also the rubber tree's very choosy about where it grows. It needs the right temperature, the right amount of rainfall, and the right altitude – not too high and not too low. The result is that it can't be grown in the northern or southern parts of the globe, only around the equator.",
+          "q": [
+            34
+          ],
+          "start": 199.98,
+          "end": 222.44
+        },
+        {
+          "s": "LECTURER",
+          "t": "Another problem is that the rubber is basically extracted in the same way as it's been done for hundreds of years, and that's by hand, by making small cuts in the trunk of the tree, and putting a little cup there to catch the latex, as the rubber is called. It's very labour-intensive.",
+          "start": 224.19,
+          "end": 246.05
+        },
+        {
+          "s": "LECTURER",
+          "t": "And it's not just the initial production that's limiting supplies. With other resources such as water and glass, when we've finished using them we can recycle them, but although this is also possible with rubber, it's very difficult, so that also reduces the amount we have available.",
+          "q": [
+            35
+          ],
+          "start": 247.22,
+          "end": 269.31
+        },
+        {
+          "s": "LECTURER",
+          "t": "And in the last few years, there have been new threats to the supply of natural rubber. One problem is linked to the fact that nearly all the rubber trees in South-East Asia are descended from just a small number of seeds brought from Brazil in the nineteenth century. This means that there's very little genetic diversity among the trees, which in turn makes them very vulnerable to disease. The most dangerous threat is a fungus, which destroyed large numbers of rubber trees in Brazil, and which could cause devastation to plantations worldwide.",
+          "q": [
+            36
+          ],
+          "start": 271.05,
+          "end": 314.55
+        },
+        {
+          "s": "LECTURER",
+          "t": "Another problem is that farmers in South-East Asia are increasingly turning to the cultivation of palm oil, which is easier and more profitable for them. And finally, in recent years South-East Asia, like other parts of the world, has been repeatedly hit by extreme types of weather, and this looks likely to continue in the future.",
+          "q": [
+            37
+          ],
+          "start": 315.91,
+          "end": 341.88
+        },
+        {
+          "s": "LECTURER",
+          "t": "However, as well as using natural rubber, it's also possible to make rubber synthetically. This works very well for some purposes, for example, making engine parts, or silicone pots and pans used for cooking. But compared with natural rubber, it's not anything like as strong, and this means it can't replace natural rubber in other products.",
+          "q": [
+            38
+          ],
+          "start": 347.25,
+          "end": 375.51
+        },
+        {
+          "s": "LECTURER",
+          "t": "For example, while a mixture of natural rubber and synthetic rubber works well in car tyres, only natural rubber can stand up to the extreme speeds of aircraft tyres during take-off and landing.",
+          "start": 376.29,
+          "end": 392.73
+        },
+        {
+          "s": "LECTURER",
+          "t": "So for some time, scientists have been looking for alternative sources of natural rubber. One that's been known about for some time seems initially to be a rather unlikely source. It's a wild plant with yellow flowers that we normally regard as a weed when we see it in our gardens. But when it's pulled up and its roots cut open, they're found to contain rubber.",
+          "q": [
+            39
+          ],
+          "start": 394.52,
+          "end": 423.47
+        },
+        {
+          "s": "LECTURER",
+          "t": "Now, compared to the rubber tree, dandelions produce relatively small amounts of rubber, but unlike rubber trees, they're very adaptable. They'll grow in all sorts of places, and they don't need rich soil. So at present there are several projects underway investigating the possibility of using dandelions as a source of rubber.",
+          "q": [
+            40
+          ],
+          "start": 424.67,
+          "end": 451.56
+        },
+        {
+          "s": "LECTURER",
+          "t": "Another possibility is a desert shrub grown in Mexico and Texas…",
+          "start": 452.77,
+          "end": 458.05
+        }
       ]
     }
   ],
   "answers": {
-    "1": ["10", "ten"], "2": ["weather"], "3": ["safety"], "4": ["discount"], "5": ["dictionary"], "6": ["certificate"], "7": ["towel"], "8": ["cafe", "café"], "9": ["videos"], "10": ["lockers"],
-    "11": ["A"], "12": ["B"], "13": ["A"], "14": ["A"], "15": ["A"], "16": ["C"], "17": ["C"], "18": ["A"], "19": ["B"], "20": ["C"],
-    "21": ["B", "D"], "22": ["B", "D"], "23": ["C", "E"], "24": ["C", "E"], "25": ["G"], "26": ["B"], "27": ["F"], "28": ["H"], "29": ["A"], "30": ["E"],
-    "31": ["metal", "metals"], "32": ["slow"], "33": ["demand"], "34": ["equator"], "35": ["recycle"], "36": ["fungus"], "37": ["weather"], "38": ["strong"], "39": ["roots"], "40": ["soil"]
+    "1": [
+      "10",
+      "ten"
+    ],
+    "2": [
+      "weather"
+    ],
+    "3": [
+      "safety"
+    ],
+    "4": [
+      "discount"
+    ],
+    "5": [
+      "dictionary"
+    ],
+    "6": [
+      "certificate"
+    ],
+    "7": [
+      "towel"
+    ],
+    "8": [
+      "cafe",
+      "café"
+    ],
+    "9": [
+      "videos"
+    ],
+    "10": [
+      "lockers"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "B"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "A"
+    ],
+    "15": [
+      "A"
+    ],
+    "16": [
+      "C"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "A"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "C"
+    ],
+    "21": [
+      "B",
+      "D"
+    ],
+    "22": [
+      "B",
+      "D"
+    ],
+    "23": [
+      "C",
+      "E"
+    ],
+    "24": [
+      "C",
+      "E"
+    ],
+    "25": [
+      "G"
+    ],
+    "26": [
+      "B"
+    ],
+    "27": [
+      "F"
+    ],
+    "28": [
+      "H"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "E"
+    ],
+    "31": [
+      "metal",
+      "metals"
+    ],
+    "32": [
+      "slow"
+    ],
+    "33": [
+      "demand"
+    ],
+    "34": [
+      "equator"
+    ],
+    "35": [
+      "recycle"
+    ],
+    "36": [
+      "fungus"
+    ],
+    "37": [
+      "weather"
+    ],
+    "38": [
+      "strong"
+    ],
+    "39": [
+      "roots"
+    ],
+    "40": [
+      "soil"
+    ]
   }
 }

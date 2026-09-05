@@ -12,7 +12,7 @@ export type Group =
   | { range: [number, number]; type: "people-match"; instruction: string; limit?: string; optionsTitle?: string; options: Option[]; questions: { n: number; text: string }[] }
   | { range: [number, number]; type: "tfng" | "ynng"; instruction: string; legend: [string, string][]; questions: { n: number; text: string }[] };
 
-export type TranscriptLine = { s: string; t: string; q?: number[] };
+export type TranscriptLine = { s: string; t: string; q?: number[]; start?: number; end?: number; estimated?: boolean };
 
 export type ListeningPart = {
   part: number;

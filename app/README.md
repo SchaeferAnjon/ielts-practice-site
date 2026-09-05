@@ -94,5 +94,10 @@ app/
 ## 说明
 
 - 判分换算表是雅思官方公布的 A 类近似区间。
-- 听力原文的时间戳按台词长度估算（误差约 ±15 秒），点击可跳转播放；要精确时间戳需要用 whisper 之类对齐一次，可在 transcript 里加 `t` 字段。
+- 听力原文时间戳：剑21 Test 1 已用豆包 ASR（火山引擎 Seed-ASR）逐词对齐（`start` / `end` 字段）。新加的套数没有对齐时前端按台词长度估算；要精确值就跑：
+
+  ```bash
+  VOLC_ASR_KEY=xxx python3 ~/.claude/skills/video-to-notes/scripts/asr_volc.py --audio-dir public/audio/c21 --out-dir /tmp/asr
+  python3 scripts/align_transcript.py public/data/listening/c21t1.json --asr-dir /tmp/asr
+  ```
 - 数据存 localStorage（练习记录、错题本、草稿、高亮与便签），换浏览器不会同步。

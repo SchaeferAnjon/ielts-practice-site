@@ -9,7 +9,7 @@ import { fmtClock, useTimer } from "../components/useTimer";
 import { paperUrl, useJson } from "../services/data";
 import { grade, toBand } from "../services/scoring";
 import { storage, uid } from "../services/storage";
-import { estimateTimes, locateListeningSentence, type ListeningLocate } from "../services/ai";
+import { lineTimes, locateListeningSentence, type ListeningLocate } from "../services/ai";
 import type { Answers, ListeningPaper, QuestionResult } from "../data/types";
 
 export default function Listening() {
@@ -41,7 +41,7 @@ export default function Listening() {
   if (error) return <div className="empty">{error}</div>;
   if (!paper) return <div className="empty">加载中…</div>;
   const cur = paper.parts[part];
-  const times = estimateTimes(cur.transcript, cur.duration);
+  const { times, precise } = lineTimes(cur.transcript, cur.duration);
 
   const setAns = (n: number, v: string) => setAnswers((a) => ({ ...a, [n]: v }));
   const toggleReview = (n: number) => setReview((s) => { const x = new Set(s); if (x.has(n)) x.delete(n); else x.add(n); return x; });
@@ -154,7 +154,7 @@ export default function Listening() {
                     <>
                       {locate.data.lines.map((l) => (
                         <div className="row" key={l.idx}>
-                          <b><span className="tm" style={{ cursor: "pointer", color: "var(--exam-blue)" }} onClick={() => player.current?.seek(l.time - 3)}>▶ {fmtClock(l.time)}</span></b>
+                          <b><span className="tm" style={{ cursor: "pointer", color: "var(--exam-blue)" }} onClick={() => player.current?.seek(l.time - (locate.data?.precise ? 0.5 : 3))}>▶ {fmtClock(l.time)}{l.end ? `–${fmtClock(l.end)}` : ""}</span></b>
                           <span><b style={{ color: "var(--text-3)" }}>{l.s}: </b>{l.text}</span>
                         </div>
                       ))}
@@ -165,13 +165,13 @@ export default function Listening() {
               )}
               {showScript && (
                 <div className="card" style={{ padding: 14, marginTop: 12 }}>
-                  <b>Part {cur.part} 原文</b> <span className="small muted">（点时间戳跳转，时间为估算）</span>
+                  <b>Part {cur.part} 原文</b> <span className="small muted">（点时间戳跳转{precise ? "，ASR 逐词对齐" : "，时间为估算"}）</span>
                   <div className="transcript" style={{ marginTop: 8 }}>
                     {cur.transcript.map((l, i) => {
                       const hit = locate?.n != null && l.q?.includes(locate.n);
                       return (
                         <div key={i} className={`l ${hit ? "hit" : ""}`} id={`tl-${i}`}>
-                          <span className="tm" onClick={() => player.current?.seek(times[i] - 3)}>{fmtClock(times[i])}</span>
+                          <span className="tm" onClick={() => player.current?.seek(times[i] - (precise ? 0.5 : 3))}>{fmtClock(times[i])}</span>
                           <span className="s">{l.s}</span>
                           <span>{l.t}{l.q && results ? <span className="small muted"> [Q{l.q.join(",")}]</span> : null}</span>
                         </div>

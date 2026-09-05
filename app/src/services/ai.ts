@@ -72,7 +72,15 @@ export async function analyzeReadingError(paper: ReadingPaper, n: number, userAn
 }
 
 // ---------------- 听力原文定位 ----------------
-export type ListeningLocate = { n: number; lines: { idx: number; time: number; text: string; s: string }[]; hint: string };
+export type ListeningLocate = { n: number; lines: { idx: number; time: number; end?: number; text: string; s: string }[]; hint: string; precise: boolean };
+
+/** 每句的开始时间：优先用 ASR 对齐出的精确值（start 字段），否则按台词长度估算 */
+export function lineTimes(transcript: TranscriptLine[], duration: number): { times: number[]; precise: boolean } {
+  if (transcript.length && transcript.every((l) => typeof l.start === "number")) {
+    return { times: transcript.map((l) => l.start as number), precise: true };
+  }
+  return { times: estimateTimes(transcript, duration), precise: false };
+}
 
 export function estimateTimes(transcript: TranscriptLine[], duration: number): number[] {
   const total = transcript.reduce((s, l) => s + l.t.length, 0) || 1;
@@ -87,12 +95,13 @@ export function estimateTimes(transcript: TranscriptLine[], duration: number): n
 
 export async function locateListeningSentence(transcript: TranscriptLine[], duration: number, n: number): Promise<ListeningLocate> {
   await delay(400 + Math.random() * 400);
-  const times = estimateTimes(transcript, duration);
+  const { times, precise } = lineTimes(transcript, duration);
   const lines = transcript
     .map((l, idx) => ({ l, idx }))
     .filter(({ l }) => l.q?.includes(n))
-    .map(({ l, idx }) => ({ idx, time: times[idx], text: l.t, s: l.s }));
-  return { n, lines, hint: lines.length ? "答案就在高亮句里，注意说话人是否先给了干扰项再纠正。时间点为按台词长度估算，误差约 ±15 秒。" : "该题未在原文中标注定位。" };
+    .map(({ l, idx }) => ({ idx, time: times[idx], end: l.end, text: l.t, s: l.s }));
+  const hint = !lines.length ? "该题未在原文中标注定位。" : precise ? "答案就在高亮句里，注意说话人是否先给了干扰项再纠正。时间戳由豆包 ASR 逐词对齐，点击可精确回放。" : "答案就在高亮句里。时间点为按台词长度估算，误差约 ±15 秒。";
+  return { n, lines, hint, precise };
 }
 
 // ---------------- 写作批改 ----------------
