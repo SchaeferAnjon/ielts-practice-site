@@ -1,0 +1,43 @@
+{
+  "id": "c12t4",
+  "book": "剑桥雅思12",
+  "test": 4,
+  "title": "剑12 Test 4 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "process",
+      "kindZh": "流程图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The diagram below shows how geothermal energy is used to produce electricity.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c12t4-task1.webp",
+      "imageCaption": "Geothermal power plant",
+      "sample": {
+        "band": 6.0,
+        "text": "The diagram shows how electricity is produced by geothermal energy. There are five general steps in this process. First, in a big box connected underground, cold water is accumulated in order to be pumped down about 4.5 km.\n\nAfter that, water is heated passing trough hot rocks called Geothermal zone and it is pumped up in order to be condensered in a big conteiner. At this point, water is in a gas state and it is put in a turbine which moves it in a circle movements. Then, the final step is to use a generator in order to water be powered and energy can be produced. Finally energy is trasladated to a energy tower.\n\nIn sumary, the geothermal power plant is used to create energy in some steps: heating cold water by a geothermal zone and condensering it in order to put it in a generator turbine which is who produces the energy to be used.",
+        "comment": "The candidate has provided a clear introduction and an overview of the key stages of the process. Each stage is identified and described, although there are some minor errors in the reporting of stage 5. There is room for expansion of the description of each stage, which could help to achieve a higher score. There is a clear overall progression, with each stage being signalled by appropriate markers [First / in order to / After that / At this point / Then, the final step / Finally]. These markers are adequate, but a higher score might be achieved by varying their position in each sentence, rather than always placing them at the beginning.\n\nThe range of vocabulary is adequate for the task and there are attempts to use more variety here [five general steps / connected / accumulated], though there are some examples of error in word choice [box / tank / a circle movements / a circular movement], in spelling [undergrownd / trough / conteiner / sumary] and in word formation [condensered / condensed / gas / gaseous / trasladated / transferred? / condensering / condensing]. There is a mix of simple and complex sentence forms, including accurate use of passive forms. There are some errors [a / an / who / what], but otherwise the level of accuracy is good. The same level of accuracy, over a wider range of sentence forms, would increase the score on Grammatical Range and Accuracy."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 5.0,
+        "text": "it is good to show children living a freedom evironment, becouse it could help children to grow stronger and confident. But it depends on the age of the child, forexample a little children can not choose clothes and they also like to eat sweets all the time.\n\nWhen the children is free to their choices they could make mistakes so parents should not dictate children what want, but guide to the right path. forexample most parents in western world teach their children arguing rather than smagging when they do something wrong. When children are tought to do their own choice could easily manage their affairs, when grow up.\n\nchildren may sometimes give a good opinion, so that it is good to understand rather than upsetting them. Many parents In Africa do not believe of listen children, that is cause many African children become vandals and aggressors toward the community.\n\nif we teach our youngers to determine their own choices, they will show respect to their ad community in is general because they never felt oppressed and they would not bother to any when they get older.\n\nover all, when we listen our children that we make their future personality better. parents should respect children. Same like adults. When the parents try to refuse children something they should justify to them why they refused explain to them the reasons.",
+        "comment": "This is an attempt to address the prompt and some main ideas are put forward, but there is no discussion of is likely to result in a society of individuals who only think about their own wishes. This omission, and the fact that the response is underlength, limit the Band score rating. Organisation is evident, however the answer lacks contextualisation, and cohesion within sentences is sometimes faulty [that is cause many African children to ... / they will show respect to their ad community in is general].\n\nVocabulary is the strongest aspect of the response [confident / make mistakes / dictate / the right path / do something wrong / manage their affairs / vandals and aggressors / determine their own choices / show respect / oppressed / respect children / justify] and although spelling errors occur, they do not generally prevent meaning from coming through [becouse / tought / smagging]. Grammatical control is variable: some complex structures are produced accurately while other, simpler, forms contain errors. Punctuation and capitalisation are also sometimes faulty."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1576 @@
+{
+  "id": "c12t4",
+  "book": "剑桥雅思12",
+  "test": 4,
+  "title": "剑12 Test 4 · Listening",
+  "source": "Cambridge IELTS 12",
+  "answers": {
+    "1": [
+      "temporary"
+    ],
+    "2": [
+      "doctor"
+    ],
+    "3": [
+      "Africa"
+    ],
+    "4": [
+      "youth"
+    ],
+    "5": [
+      "May"
+    ],
+    "6": [
+      "cheese"
+    ],
+    "7": [
+      "Arbuthnot"
+    ],
+    "8": [
+      "DG7 4PH",
+      "DG74PH"
+    ],
+    "9": [
+      "Tuesday"
+    ],
+    "10": [
+      "talk",
+      "presentation"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "B"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "H"
+    ],
+    "16": [
+      "C"
+    ],
+    "17": [
+      "F"
+    ],
+    "18": [
+      "G"
+    ],
+    "19": [
+      "I"
+    ],
+    "20": [
+      "B"
+    ],
+    "21": [
+      "classification"
+    ],
+    "22": [
+      "worst"
+    ],
+    "23": [
+      "slides"
+    ],
+    "24": [
+      "issues"
+    ],
+    "25": [
+      "F"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "E"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "G"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "garden",
+      "gardens"
+    ],
+    "32": [
+      "political"
+    ],
+    "33": [
+      "work",
+      "study"
+    ],
+    "34": [
+      "fountain"
+    ],
+    "35": [
+      "social"
+    ],
+    "36": [
+      "lively"
+    ],
+    "37": [
+      "training"
+    ],
+    "38": [
+      "culture"
+    ],
+    "39": [
+      "nature"
+    ],
+    "40": [
+      "silent"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c12/t4p1.mp3",
+      "duration": 479,
+      "title": "Cycle tour leader: Applicant enquiry",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Cycle tour leader: Applicant enquiry",
+          "lines": [
+            "Name: Margaret Smith",
+            "## About the applicant:",
+            "wants a {{1}} job",
+            "will soon start work as a {{2}}",
+            "has led cycle trips in {{3}}",
+            "interested in being a leader of a cycling trip for families",
+            "is currently doing voluntary work with members of a {{4}} club",
+            "available for five months from the 1st of {{5}}",
+            "can't eat {{6}}",
+            "## Contact details:",
+            "address: 27 {{7}} Place, Dumfries",
+            "postcode: {{8}}",
+            "## Interview:",
+            "interview at 2.30 pm on {{9}}",
+            "will plan a short {{10}} about being a tour guide"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "BOB",
+          "t": "Hello, Pembroke Cycling Holidays, Bob speaking.",
+          "start": 116.8,
+          "end": 163.7
+        },
+        {
+          "s": "MARGARET",
+          "t": "Oh hello. I've seen your advert for people to lead cycle trips. Are you the right person to speak to?",
+          "start": 164.5,
+          "end": 171.74
+        },
+        {
+          "s": "BOB",
+          "t": "Yes, I am. Could I have your name, please?",
+          "start": 172.29,
+          "end": 174.33
+        },
+        {
+          "s": "MARGARET",
+          "t": "It's Margaret Smith.",
+          "start": 174.89,
+          "end": 176.09
+        },
+        {
+          "s": "BOB",
+          "t": "Are you looking for a permanent job, Margaret?",
+          "start": 176.53,
+          "end": 178.89
+        },
+        {
+          "s": "MARGARET",
+          "t": "No, temporary.",
+          "q": [
+            1
+          ],
+          "start": 179.01,
+          "end": 180.45
+        },
+        {
+          "s": "MARGARET",
+          "t": "I've got a permanent job starting in a few months' time, and I want to do something else until then.",
+          "start": 180.65,
+          "end": 186.49
+        },
+        {
+          "s": "BOB",
+          "t": "What work do you do?",
+          "start": 186.73,
+          "end": 187.97
+        },
+        {
+          "s": "MARGARET",
+          "t": "This will probably sound crazy – I used to be a lawyer, and then I made a complete career change and I'm going to be a doctor.",
+          "q": [
+            2
+          ],
+          "start": 188.17,
+          "end": 196.21
+        },
+        {
+          "s": "MARGARET",
+          "t": "I've just finished my training.",
+          "start": 197.0,
+          "end": 198.32
+        },
+        {
+          "s": "BOB",
+          "t": "Right. And have you had any experience of leading cycle trips?",
+          "start": 198.68,
+          "end": 202.92
+        },
+        {
+          "s": "MARGARET",
+          "t": "Yes, I've led several bike tours in Africa.",
+          "q": [
+            3
+          ],
+          "start": 203.68,
+          "end": 206.64
+        },
+        {
+          "s": "MARGARET",
+          "t": "The trip to India that I had arranged to lead next month has now been cancelled, so when I saw you were advertising for tour leaders, I decided to apply.",
+          "start": 207.36,
+          "end": 216.96
+        },
+        {
+          "s": "BOB",
+          "t": "OK. Now we normally have two or three leaders on a trip, depending on the size of the group. Some tours are for very experienced cyclists, but we've got a tour coming up soon in Spain, which is proving so popular we need an additional leader. It's a cycling holiday for families. Would that suit you?",
+          "start": 217.58,
+          "end": 236.72
+        },
+        {
+          "s": "MARGARET",
+          "t": "It certainly would. I enjoy working with children, and I probably need some more experience before I go on a really challenging trip.",
+          "start": 237.24,
+          "end": 245.65
+        },
+        {
+          "s": "BOB",
+          "t": "That tour includes several teenagers: have you worked with that age group before?",
+          "start": 246.21,
+          "end": 250.46
+        },
+        {
+          "s": "MARGARET",
+          "t": "Yes, I'm a volunteer worker in a youth club, where I help people to improve their cycling skills.",
+          "q": [
+            4
+          ],
+          "start": 251.1,
+          "end": 256.94
+        },
+        {
+          "s": "MARGARET",
+          "t": "Before that I helped out in a cycling club where I taught beginners.",
+          "start": 257.02,
+          "end": 261.3
+        },
+        {
+          "s": "BOB",
+          "t": "Well that's great. Now the trip I mentioned is just for a fortnight, but there might be the possibility of leading other tours after that. Would that fit in with your plans?",
+          "start": 261.89,
+          "end": 272.17
+        },
+        {
+          "s": "MARGARET",
+          "t": "That'd be fine.",
+          "start": 272.88,
+          "end": 273.6
+        },
+        {
+          "s": "MARGARET",
+          "t": "I'll be free for five months.",
+          "start": 274.12,
+          "end": 275.64
+        },
+        {
+          "s": "MARGARET",
+          "t": "My job is due to start on October the 2nd, and I'm available from May the 1st until late September.",
+          "q": [
+            5
+          ],
+          "start": 276.44,
+          "end": 283.52
+        },
+        {
+          "s": "BOB",
+          "t": "Good. Now is there anything I need to know about the food you eat? We usually have one or two people in the group who don't eat meat, or have some sort of food allergy, so we're always very careful about that.",
+          "start": 284.33,
+          "end": 296.27
+        },
+        {
+          "s": "MARGARET",
+          "t": "Yes, I'm allergic to cheese.",
+          "q": [
+            6
+          ],
+          "start": 296.99,
+          "end": 298.91
+        },
+        {
+          "s": "MARGARET",
+          "t": "Would that be a problem?",
+          "start": 299.71,
+          "end": 300.63
+        },
+        {
+          "s": "BOB",
+          "t": "No, as long as we have enough notice, we can deal with that.",
+          "start": 300.87,
+          "end": 304.31
+        },
+        {
+          "s": "MARGARET",
+          "t": "That's great.",
+          "start": 304.85,
+          "end": 305.37
+        },
+        {
+          "s": "MARGARET",
+          "t": "It sounds really interesting – would you like me to fill in an application form?",
+          "start": 342.51,
+          "end": 346.83
+        },
+        {
+          "s": "BOB",
+          "t": "Yes, please. Where should I post it to?",
+          "start": 346.99,
+          "end": 349.95
+        },
+        {
+          "s": "MARGARET",
+          "t": "Could you send it to 27 Arbuthnot Place – A-R-B-U-T-H-N-O-T – Place, Dumfries.",
+          "q": [
+            7
+          ],
+          "start": 350.75,
+          "end": 362.31
+        },
+        {
+          "s": "BOB",
+          "t": "And what's the postcode, please?",
+          "start": 363.13,
+          "end": 364.69
+        },
+        {
+          "s": "MARGARET",
+          "t": "DG7 4PH.",
+          "q": [
+            8
+          ],
+          "start": 364.69,
+          "end": 364.69,
+          "estimated": true
+        },
+        {
+          "s": "BOB",
+          "t": "Was that P Papa or B Bravo?",
+          "start": 368.81,
+          "end": 371.57
+        },
+        {
+          "s": "MARGARET",
+          "t": "P Papa.",
+          "start": 372.21,
+          "end": 372.77
+        },
+        {
+          "s": "BOB",
+          "t": "Got that. If you could return the application form by Friday this week, we can interview you on Tuesday next week.",
+          "q": [
+            9
+          ],
+          "start": 373.39,
+          "end": 380.83
+        },
+        {
+          "s": "BOB",
+          "t": "Say half past two. Would that be possible for you?",
+          "start": 380.91,
+          "end": 384.59
+        },
+        {
+          "s": "MARGARET",
+          "t": "Yes, it's fine. You're quite a long way from where I live, so I'll drive over on Monday.",
+          "start": 384.79,
+          "end": 390.11
+        },
+        {
+          "s": "MARGARET",
+          "t": "Should I bring anything to the interview?",
+          "start": 390.63,
+          "end": 392.35
+        },
+        {
+          "s": "BOB",
+          "t": "We'll have your application form, of course, but we'll need to see any certificates you've got that are relevant, in cycling, first aid, or whatever.",
+          "start": 392.63,
+          "end": 400.85
+        },
+        {
+          "s": "MARGARET",
+          "t": "OK.",
+          "start": 401.25,
+          "end": 401.61
+        },
+        {
+          "s": "BOB",
+          "t": "And at the interview we'd like to find out about your experience of being a tour guide, so could you prepare a ten-minute talk about that, please?",
+          "q": [
+            10
+          ],
+          "start": 402.41,
+          "end": 411.42
+        },
+        {
+          "s": "BOB",
+          "t": "You don't need slides or any complicated equipment – just some notes.",
+          "start": 412.06,
+          "end": 416.22
+        },
+        {
+          "s": "MARGARET",
+          "t": "Right. I'll start thinking about that straightaway!",
+          "start": 417.22,
+          "end": 419.19
+        },
+        {
+          "s": "BOB",
+          "t": "Good. Well, we'll look forward to receiving your application form, and we'll contact you to confirm the interview.",
+          "start": 420.11,
+          "end": 426.31
+        },
+        {
+          "s": "MARGARET",
+          "t": "Thanks very much.",
+          "start": 426.43,
+          "end": 427.55
+        },
+        {
+          "s": "BOB",
+          "t": "Thank you, Margaret. Goodbye.",
+          "start": 428.11,
+          "end": 429.35
+        },
+        {
+          "s": "MARGARET",
+          "t": "Bye.",
+          "start": 429.87,
+          "end": 430.03
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c12/t4p2.mp3",
+      "duration": 369,
+      "title": "Visiting the Sheepmarket area",
+      "groups": [
+        {
+          "range": [
+            11,
+            14
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Visiting the Sheepmarket area",
+          "questions": [
+            {
+              "n": 11,
+              "text": "Which is the most rapidly-growing group of residents in the Sheepmarket area?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "young professional people"
+                },
+                {
+                  "k": "B",
+                  "text": "students from the university"
+                },
+                {
+                  "k": "C",
+                  "text": "employees in the local market"
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "The speaker recommends the side streets in the Sheepmarket for their",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "international restaurants."
+                },
+                {
+                  "k": "B",
+                  "text": "historical buildings."
+                },
+                {
+                  "k": "C",
+                  "text": "arts and crafts."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "Clothes designed by entrants for the Young Fashion competition must",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "be modelled by the designers themselves."
+                },
+                {
+                  "k": "B",
+                  "text": "be inspired by aspects of contemporary culture."
+                },
+                {
+                  "k": "C",
+                  "text": "be made from locally produced materials."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "Car parking is free in some car parks if you",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "stay for less than an hour."
+                },
+                {
+                  "k": "B",
+                  "text": "buy something in the shops."
+                },
+                {
+                  "k": "C",
+                  "text": "park in the evenings or at weekends."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            20
+          ],
+          "type": "matching",
+          "instruction": "Label the map below. 原题为地图标注（Art and History in the Sheepmarket 平面图，letters A-I），见原书 p.76；下列位置描述根据地图方位还原，供自测使用。",
+          "limit": "Write the correct letter, A-I, next to Questions 15-20.",
+          "optionsTitle": "Positions on the map (A-I)",
+          "options": [
+            {
+              "k": "A",
+              "text": "on the corner by the Bank, at the start of the road up to Hill Road (north side of that junction)"
+            },
+            {
+              "k": "B",
+              "text": "on Hill Road itself, along the bend where the road curves up towards City Road"
+            },
+            {
+              "k": "C",
+              "text": "directly across the small road from the Bank, just below it"
+            },
+            {
+              "k": "D",
+              "text": "on the diagonal road between the Bank/Hill Road junction and Station Square"
+            },
+            {
+              "k": "E",
+              "text": "on the west side of City Road, near the top, on the same side as the Public Gardens"
+            },
+            {
+              "k": "F",
+              "text": "on the east side of City Road, at the top, immediately facing the junction with Hill Road"
+            },
+            {
+              "k": "G",
+              "text": "at the end of a short dead-end road leading off the Station Square path, near the Public Gardens"
+            },
+            {
+              "k": "H",
+              "text": "on Crawley Road, on the building block immediately next to the Public Gardens (its western side)"
+            },
+            {
+              "k": "I",
+              "text": "on City Road near the junction with Crawley Road, on the same side of the road as the Public Gardens"
+            }
+          ],
+          "itemsTitle": "Features",
+          "items": [
+            {
+              "n": 15,
+              "text": "The Reynolds House"
+            },
+            {
+              "n": 16,
+              "text": "The Thumb"
+            },
+            {
+              "n": 17,
+              "text": "The Museum"
+            },
+            {
+              "n": 18,
+              "text": "The Contemporary Art Gallery"
+            },
+            {
+              "n": 19,
+              "text": "The Warner Gallery"
+            },
+            {
+              "n": 20,
+              "text": "Nucleus"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Welcome to this podcast about the Sheepmarket, which is one of the oldest parts of the city.",
+          "start": 54.22,
+          "end": 58.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As its name suggests, there was originally a market here where farmers brought their sheep, but now it's been redeveloped into a buzzing, vibrant area of the city, which is also home to one of the city's fastest-growing communities.",
+          "start": 59.54,
+          "end": 71.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The nearby university has always meant the area's popular with students, who come in to enjoy the lively nightlife, but now graduates embarking on careers in the worlds of fashion and design are buying up the new apartments recently built here to replace the small houses where the market workers used to live.",
+          "q": [
+            11
+          ],
+          "start": 71.31,
+          "end": 88.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The narrow old side streets are great places for finding original pictures, jewellery and ceramics which won't break the bank, as well as local produce like fruit and vegetables.",
+          "q": [
+            12
+          ],
+          "start": 90.07,
+          "end": 99.51
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's also lots of pavement cafes where you can have a coffee and watch tourists from all over the world go by.",
+          "start": 100.6,
+          "end": 105.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The oldest buildings in the area are on the main streets, including the city's first department store, built in the 1880s, which is still open today.",
+          "start": 106.92,
+          "end": 114.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Sheepmarket is a centre for fashion, and there's a policy of encouraging new young designers.",
+          "start": 116.4,
+          "end": 121.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Young Fashion competition is open to local young people who are passionate about fashion.",
+          "start": 122.44,
+          "end": 126.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This year they've been asked to design an outfit based on ideas from the music and technology that's part of their everyday life, using both natural and man-made fibres.",
+          "q": [
+            13
+          ],
+          "start": 128.15,
+          "end": 136.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The garments will be judged by a panel of experts and fashion designers, and the winning entries will be modelled at a special gala evening.",
+          "start": 137.96,
+          "end": 144.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Parking at the Sheepmarket is easy.",
+          "start": 145.7,
+          "end": 147.3
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are plenty of pay and display car parking spaces on the roadsides which are fine if you just want to stay for an hour or two, but if you want to spend the day there it's better to park in one of the four underground car parks.",
+          "start": 147.9,
+          "end": 158.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's not expensive and if you can present a receipt from one of the local stores, you'll not be charged at all.",
+          "q": [
+            14
+          ],
+          "start": 159.15,
+          "end": 164.31
+        },
+        {
+          "s": "SPEAKER",
+          "t": "After six pm many of the car parks have a flat rate which varies but it is usually very reasonable.",
+          "start": 165.69,
+          "end": 170.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Sheepmarket is one of the main centres for art and history in the whole of the country.",
+          "start": 175.15,
+          "end": 223.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you look at our map, you'll see some of the main attractions there.",
+          "start": 223.76,
+          "end": 226.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Most visitors start from Crawley Road, at the bottom of the map.",
+          "start": 226.64,
+          "end": 230.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Reynolds House is one of the oldest houses in the city, and is open to the public.",
+          "start": 231.19,
+          "end": 235.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's on the north side of Crawley Road, next to the footpath that leads to the public gardens.",
+          "q": [
+            15
+          ],
+          "start": 236.23,
+          "end": 241.51
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The area's particularly interesting for its unusual sculptures.",
+          "start": 242.87,
+          "end": 245.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Thumb is just what its name suggests, but it's about 10 metres high.",
+          "start": 246.39,
+          "end": 250.59
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll see it on Hill Road, across the road from the Bank.",
+          "q": [
+            16
+          ],
+          "start": 251.47,
+          "end": 254.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Museum's got a particularly fine collection of New Zealand landscapes.",
+          "start": 255.91,
+          "end": 259.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's on the east side of the Sheepmarket, on City Road.",
+          "start": 260.15,
+          "end": 263.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's on the other side of the road from the public gardens, immediately facing the junction with Hill Road.",
+          "q": [
+            17
+          ],
+          "start": 264.27,
+          "end": 269.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Contemporary Art Gallery is on a little road that leads off Station Square, not far from the public gardens.",
+          "start": 271.25,
+          "end": 276.61
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The road ends at the gallery – it doesn't go anywhere else.",
+          "q": [
+            18
+          ],
+          "start": 277.99,
+          "end": 280.79
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's open every day except Mondays.",
+          "start": 281.43,
+          "end": 283.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Warner Gallery specialises in 19th-century art.",
+          "start": 285.11,
+          "end": 288.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's on City Road, near the junction with Crawley Road, on the same side of the road as the public gardens.",
+          "q": [
+            19
+          ],
+          "start": 289.11,
+          "end": 295.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's open on weekdays from 9 to 5, and entry is free.",
+          "start": 295.92,
+          "end": 299.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Finally, if you're interested in purchasing high quality artwork, the place to go is Nucleus.",
+          "start": 300.76,
+          "end": 306.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You need to go from Crawley Road up through Station Square and east along Hill Road until you get to a small winding road turning off.",
+          "start": 307.56,
+          "end": 315.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Go up there and it's on your right – if you get to City Road you've gone too far.",
+          "q": [
+            20
+          ],
+          "start": 316.16,
+          "end": 321.4
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c12/t4p3.mp3",
+      "duration": 465,
+      "title": "Presentation on film adaptations of Shakespeare's plays",
+      "groups": [
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Presentation on film adaptations of Shakespeare's plays",
+          "table": {
+            "head": [
+              "Stages of presentation",
+              "Work still to be done"
+            ],
+            "rows": [
+              [
+                "Introduce Giannetti's book containing a {{21}} of adaptations",
+                "Organise notes"
+              ],
+              [
+                "Ask class to suggest the {{22}} adaptations",
+                "No further work needed"
+              ],
+              [
+                "Present Rachel Malchow's ideas",
+                "Prepare some {{23}}"
+              ],
+              [
+                "Discuss relationship between adaptations and {{24}} at the time of making the film",
+                "No further work needed"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            25,
+            30
+          ],
+          "type": "matching",
+          "instruction": "What do the speakers say about each of the following films?",
+          "limit": "Choose SIX answers from the box and write the correct letter, A-G, next to Questions 25-30.",
+          "optionsTitle": "Comments",
+          "options": [
+            {
+              "k": "A",
+              "text": "clearly shows the historical period"
+            },
+            {
+              "k": "B",
+              "text": "contains only parts of the play"
+            },
+            {
+              "k": "C",
+              "text": "is too similar to another kind of film"
+            },
+            {
+              "k": "D",
+              "text": "turned out to be unpopular with audiences"
+            },
+            {
+              "k": "E",
+              "text": "presents the play in a different period from the original"
+            },
+            {
+              "k": "F",
+              "text": "sets the original in a different country"
+            },
+            {
+              "k": "G",
+              "text": "incorporates a variety of art forms"
+            }
+          ],
+          "itemsTitle": "Films",
+          "items": [
+            {
+              "n": 25,
+              "text": "Ran"
+            },
+            {
+              "n": 26,
+              "text": "Much Ado About Nothing"
+            },
+            {
+              "n": 27,
+              "text": "Romeo & Juliet"
+            },
+            {
+              "n": 28,
+              "text": "Hamlet"
+            },
+            {
+              "n": 29,
+              "text": "Prospero's Books"
+            },
+            {
+              "n": 30,
+              "text": "Looking for Richard"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "KATIE",
+          "t": "Joe, you know I'm giving a presentation in our film studies class next week?",
+          "start": 45.9,
+          "end": 51.02
+        },
+        {
+          "s": "JOE",
+          "t": "Yes.",
+          "start": 51.22,
+          "end": 51.5
+        },
+        {
+          "s": "KATIE",
+          "t": "Well, could we discuss it? I could do with getting someone else's opinion.",
+          "start": 52.42,
+          "end": 57.06
+        },
+        {
+          "s": "JOE",
+          "t": "Of course, Katie. What are you going to talk about?",
+          "start": 57.38,
+          "end": 60.32
+        },
+        {
+          "s": "KATIE",
+          "t": "It's about film adaptations of Shakespeare's plays. I've got very interested in all the different approaches that film directors take.",
+          "start": 61.12,
+          "end": 71.0
+        },
+        {
+          "s": "JOE",
+          "t": "Uhuh.",
+          "start": 71.0,
+          "end": 71.0,
+          "estimated": true
+        },
+        {
+          "s": "KATIE",
+          "t": "So I thought I'd start with Giannetti, who's a professor of film and literature, and in one of his books he came up with a straightforward classification of film adaptations based on how faithful they are to the original plays and novels.",
+          "q": [
+            21
+          ],
+          "start": 72.21,
+          "end": 91.2
+        },
+        {
+          "s": "JOE",
+          "t": "Right.",
+          "start": 91.28,
+          "end": 91.68
+        },
+        {
+          "s": "KATIE",
+          "t": "I've already made some notes on that, so I just need to sort those out before the presentation.",
+          "start": 91.68,
+          "end": 99.52
+        },
+        {
+          "s": "KATIE",
+          "t": "I thought that next I'd ask the class to come up with the worst examples of Shakespeare adaptations that they've seen, and to say why.",
+          "q": [
+            22
+          ],
+          "start": 100.8,
+          "end": 111.36
+        },
+        {
+          "s": "KATIE",
+          "t": "That should be more fun than having their favourite versions.",
+          "start": 112.4,
+          "end": 115.72
+        },
+        {
+          "s": "JOE",
+          "t": "Yes, I can certainly think of a couple!",
+          "start": 116.0,
+          "end": 118.8
+        },
+        {
+          "s": "KATIE",
+          "t": "Right. Next I want to talk about Rachel Malchow. I came across something on the internet about her work on film adaptations, and I was thinking of showing some film clips to illustrate her ideas.",
+          "start": 119.0,
+          "end": 136.29
+        },
+        {
+          "s": "JOE",
+          "t": "Will you have enough time, though? Both to prepare and during the presentation? After all, I doubt if you'll be able to find all the clips you want.",
+          "start": 137.25,
+          "end": 146.61
+        },
+        {
+          "s": "KATIE",
+          "t": "Hmm. Perhaps you're right. OK, well, I'd better do some slides instead, saying how various films relate to what she says.",
+          "q": [
+            23
+          ],
+          "start": 146.97,
+          "end": 158.61
+        },
+        {
+          "s": "KATIE",
+          "t": "That should encourage discussion.",
+          "start": 159.37,
+          "end": 160.93
+        },
+        {
+          "s": "JOE",
+          "t": "Mmm.",
+          "start": 160.93,
+          "end": 160.93,
+          "estimated": true
+        },
+        {
+          "s": "KATIE",
+          "t": "Next I want to say something about how plays may be chosen for adaptation because they're concerned with issues of the time when the film is made.",
+          "q": [
+            24
+          ],
+          "start": 162.92,
+          "end": 174.44
+        },
+        {
+          "s": "JOE",
+          "t": "You mean things like patriotism, or the role of governments?",
+          "start": 174.96,
+          "end": 177.96
+        },
+        {
+          "s": "KATIE",
+          "t": "Exactly. It's quite tricky, but I've got a few ideas I'd like to discuss.",
+          "start": 178.64,
+          "end": 185.31
+        },
+        {
+          "s": "KATIE",
+          "t": "And finally I want to talk about a few adaptations that I think illustrate a range of approaches, and make some comments on them. Do you know the Japanese film Ran?",
+          "start": 234.06,
+          "end": 247.54
+        },
+        {
+          "s": "JOE",
+          "t": "I haven't seen it. It was based on Shakespeare's King Lear, wasn't it?",
+          "start": 248.38,
+          "end": 253.34
+        },
+        {
+          "s": "KATIE",
+          "t": "That's right. It was a very loose adaptation, using the same situation and story, but moving it to 16th century Japan instead of 16th century Britain.",
+          "q": [
+            25
+          ],
+          "start": 253.5,
+          "end": 267.75
+        },
+        {
+          "s": "KATIE",
+          "t": "So for example the king's daughters become sons, because in Japanese culture at that time, women couldn't succeed to the throne.",
+          "start": 268.43,
+          "end": 278.73
+        },
+        {
+          "s": "JOE",
+          "t": "OK. I hope you're going to talk about the 1993 film of Much Ado About Nothing. I think that's one of the best Shakespeare films. It really brings the play to life, doesn't it?",
+          "start": 279.37,
+          "end": 292.19
+        },
+        {
+          "s": "KATIE",
+          "t": "Yes, I agree. And I think filming it in Italy, where the play is set, makes you see what life was like at the time of the play.",
+          "q": [
+            26
+          ],
+          "start": 292.31,
+          "end": 301.91
+        },
+        {
+          "s": "JOE",
+          "t": "Absolutely. Right, what's next?",
+          "start": 302.11,
+          "end": 305.05
+        },
+        {
+          "s": "KATIE",
+          "t": "Er, next, I thought Romeo & Juliet, the 1996 film, which moves the action into the present day.",
+          "q": [
+            27
+          ],
+          "start": 306.01,
+          "end": 314.17
+        },
+        {
+          "s": "JOE",
+          "t": "Yes, it worked really well, I thought – changing the two feuding families in the original to two competing business empires, even though they're speaking in the English of the original play.",
+          "start": 314.29,
+          "end": 328.02
+        },
+        {
+          "s": "KATIE",
+          "t": "You'd expect it would sound really bizarre, but I found I soon got used to it.",
+          "start": 328.83,
+          "end": 334.79
+        },
+        {
+          "s": "JOE",
+          "t": "Me too.",
+          "start": 334.87,
+          "end": 335.59
+        },
+        {
+          "s": "KATIE",
+          "t": "Then I thought I'd include a real Hollywood film, one that's intended to appeal to a mass commercial audience.",
+          "start": 336.03,
+          "end": 344.88
+        },
+        {
+          "s": "JOE",
+          "t": "There must be quite a number of those.",
+          "start": 345.72,
+          "end": 347.52
+        },
+        {
+          "s": "KATIE",
+          "t": "Yes, but I've picked the 1996 film of Hamlet. It included every line of the text, but it's more like a typical action hero movie – there are loads of special effects, but no unifying interpretation of the play.",
+          "q": [
+            28
+          ],
+          "start": 347.72,
+          "end": 367.21
+        },
+        {
+          "s": "JOE",
+          "t": "All show and no substance.",
+          "start": 367.82,
+          "end": 369.46
+        },
+        {
+          "s": "KATIE",
+          "t": "Exactly. Then there's Prospero's Books, based on The Tempest. That was really innovative, from a stylistic point of view.",
+          "start": 370.26,
+          "end": 380.02
+        },
+        {
+          "s": "JOE",
+          "t": "Didn't it include dance and singing and animation, as well as live actors?",
+          "q": [
+            29
+          ],
+          "start": 380.43,
+          "end": 385.51
+        },
+        {
+          "s": "KATIE",
+          "t": "Yes, it did. I also want to mention Looking for Richard. Did you ever see it?",
+          "start": 385.67,
+          "end": 392.19
+        },
+        {
+          "s": "JOE",
+          "t": "No, but I've read about it. It was a blend of a documentary with a few scenes from Richard III, wasn't it?",
+          "q": [
+            30
+          ],
+          "start": 392.39,
+          "end": 400.59
+        },
+        {
+          "s": "KATIE",
+          "t": "That's right. It's more a way of looking into how people nowadays connect with the playwright – the play is really just the starting point. And that'll be where I finish.",
+          "start": 400.71,
+          "end": 413.21
+        },
+        {
+          "s": "JOE",
+          "t": "Well, it sounds as though it'll be very interesting.",
+          "start": 413.72,
+          "end": 416.28
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c12/t4p4.mp3",
+      "duration": 474,
+      "title": "Noise in Cities",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Noise in Cities",
+          "lines": [
+            "Past research focused on noise level (measured in decibels) and people's responses.",
+            "## Noise 'maps'",
+            "show that the highest noise levels are usually found on roads",
+            "do not show other sources of noise, e.g. when windows are open or people's neighbours are in their {{31}}",
+            "ignore variations in people's perceptions of noise",
+            "have made people realize that the noise is a {{32}} issue that must be dealt with",
+            "## Problems caused by noise",
+            "sleep disturbance",
+            "increase in amount of stress",
+            "effect on the {{33}} of schoolchildren",
+            "## Different types of noise",
+            "Some noises can be considered pleasant e.g. the sound of a {{34}} in a town",
+            "To investigate this, researchers may use methods from {{35}} sciences e.g. questionnaires",
+            "## What people want",
+            "Plenty of activity in urban environments which are {{36}}, but also allow people to relax",
+            "But architects and town planners",
+            "do not get much {{37}} in acoustics",
+            "regard sound as the responsibility of engineers",
+            "## Understanding sound as an art form",
+            "We need to know",
+            "how sound relates to {{38}}",
+            "what can be learnt from psychology about the effects of sound",
+            "whether physics can help us understand the {{39}} of sound",
+            "## Virtual reality programs",
+            "advantage: predict the effect of buildings",
+            "current disadvantage: they are {{40}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "This lecture will be about the science of acoustics, the study of sound, in relation to urban environments such as cities.",
+          "start": 72.47,
+          "end": 80.63
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As an acoustic engineer myself, I think this is an area where we're likely to see great changes.",
+          "start": 80.79,
+          "end": 88.12
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the past, researching urban soundscapes was simple.",
+          "start": 89.08,
+          "end": 92.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We measured levels of sound in decibels, so I used to take my sound meter and I measured the noise somewhere, and then I might ask a sample of people to say at what level the sound became annoying.",
+          "start": 93.6,
+          "end": 107.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "With data like this, acoustic engineers have been able to build up what we call noise maps, maps of the sound environment.",
+          "start": 109.54,
+          "end": 117.86
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But actually these aren't a lot of use.",
+          "start": 118.62,
+          "end": 121.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What they do show is that the highest noise levels are generally on roads – well, that's not really very surprising.",
+          "start": 122.46,
+          "end": 130.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But there's quite a lot going on that these maps don't show, because they can't capture the complex way that sound varies over time.",
+          "start": 131.82,
+          "end": 140.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So they ignore important issues such as the noise someone might hear from the open windows or gardens of their neighbours, and this sort of noise can be quite significant in summer.",
+          "q": [
+            31
+          ],
+          "start": 141.06,
+          "end": 152.88
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We don't have any databases on this sort of information.",
+          "start": 153.84,
+          "end": 156.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As well as that, these records of sound levels take no account of the fact that people vary in their perceptions of noise – so someone like me with years of working in acoustics might be very different from you in that regard.",
+          "start": 158.44,
+          "end": 173.34
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But anyway, even though these noise maps are fairly crude, they've been useful in providing information and raising awareness that noise matters, we need to deal with it and so it's a political matter.",
+          "q": [
+            32
+          ],
+          "start": 174.5,
+          "end": 188.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And that's important – we need rules and regulations because noise can cause all sorts of problems.",
+          "start": 189.23,
+          "end": 196.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Those of you who are city-dwellers know that things go on 24 hours a day, so city-dwellers often suffer from interrupted sleep.",
+          "start": 197.91,
+          "end": 205.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's also known that noise can lead to a rise in levels of stress, due to physical changes in the body affecting the composition of the blood.",
+          "start": 207.03,
+          "end": 215.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And there are other problems as well, for instance if schoolchildren don't have a quiet place to study, their work will suffer.",
+          "q": [
+            33
+          ],
+          "start": 216.29,
+          "end": 223.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, one problem with decibel measurement is that it doesn't differentiate between different types of noise.",
+          "start": 226.08,
+          "end": 231.88
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some types of sounds that most people would probably think of as nice and relaxing might well score quite highly in decibel levels – think of the sound made by a fountain in a town square, for example.",
+          "q": [
+            34
+          ],
+          "start": 231.88,
+          "end": 245.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's not necessarily something that we'd want to control or reduce.",
+          "start": 246.55,
+          "end": 250.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So maybe researchers should consider these sorts of sounds in urban design.",
+          "start": 251.46,
+          "end": 255.82
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is going to be tricky because just measuring decibel levels isn't going to help us here.",
+          "start": 256.94,
+          "end": 262.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Instead, many researchers are using social science techniques, studying people's emotional response to sound by using questionnaires and so on.",
+          "q": [
+            35
+          ],
+          "start": 263.46,
+          "end": 272.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So what exactly do people want to hear in an urban environment?",
+          "start": 278.05,
+          "end": 281.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some recent interdisciplinary research has come out with results that at first sight seem contradictory – a city needs to have a sense of activity, so it needs to be lively, with sounds like the clack of high heels on a pavement or the hiss of a coffee machine, but these mustn't be too intrusive, because at the same time we need to be able to relax.",
+          "q": [
+            36
+          ],
+          "start": 281.97,
+          "end": 306.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One of the major problems in achieving this will be getting architects and town planners to use the research.",
+          "start": 308.09,
+          "end": 313.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Apart from studying the basics of acoustics, these people receive very little training in this area.",
+          "q": [
+            37
+          ],
+          "start": 314.21,
+          "end": 320.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But in fact they should be regarding sound as an opportunity to add to the experience of urban living, whereas at present they tend to see it as something to be avoided or reduced as far as possible, or something that's just a job for engineers like the street drainage system.",
+          "start": 321.45,
+          "end": 338.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What's needed is for noise in cities to be regarded as an aesthetic quality, as something that has the qualities of an art form.",
+          "start": 339.8,
+          "end": 347.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If we acknowledge this, then we urgently need to know what governs it and how designers can work with it.",
+          "start": 348.24,
+          "end": 354.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We need to develop a complex understanding of many factors.",
+          "start": 355.82,
+          "end": 359.3
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What is the relationship between sound and culture?",
+          "q": [
+            38
+          ],
+          "start": 360.71,
+          "end": 363.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What can we learn from disciplines such as psychology about the way that sound interacts with human development and social relationships, and the way that sound affects our thought and feelings?",
+          "start": 364.91,
+          "end": 376.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Can we learn anything from physics about the nature of sound itself?",
+          "q": [
+            39
+          ],
+          "start": 377.48,
+          "end": 381.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Today's powerful technologies can also help us.",
+          "start": 382.9,
+          "end": 385.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "To show us their ideas and help us to imagine the effect their buildings will have, architects and town planners already use virtual reality – but these programs are silent.",
+          "q": [
+            40
+          ],
+          "start": 386.46,
+          "end": 397.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the future such programs could use realistic sounds, meaning that soundscapes could be explored before being built.",
+          "start": 398.64,
+          "end": 406.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So hopefully, using the best technology we can lay our hands on, the city of the future will be a pleasure to the ears as well as the eyes.",
+          "start": 407.17,
+          "end": 416.29
+        }
+      ]
+    }
+  ]
+}
