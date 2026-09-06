@@ -7,6 +7,8 @@
   python3 scripts/book_text.py transcript drafts/c11 103-104 --out drafts/c11/parts/l-t1-p2.lines.json
   # 阅读文章：按页取 -layout 文本，自动按空白列切开双栏，输出段落数组
   python3 scripts/book_text.py passage drafts/c11 17-18 --out drafts/c11/parts/r-t1-p1.paras.json
+  # 扫描件（剑9/16/18/19/20）加 --book，从 OCR 结果 book.txt 取页
+  python3 scripts/book_text.py transcript drafts/c9 120-121 --book --from "SECTION 1" --to "SECTION 2"
   # 只看清洗后的纯文本
   python3 scripts/book_text.py text drafts/c11 17-18
 
@@ -31,6 +33,47 @@ def pdf_text(pdf: str, a: int, b: int, layout: bool) -> str:
     return subprocess.run(cmd, check=True, capture_output=True, text=True).stdout
 
 
+def ocr_columns(draft: str, a: int, b: int) -> str:
+    """扫描件的双栏文章：整页 OCR 会把左右栏串读，所以把页面图按最白的竖直带切成两半分别 OCR。"""
+    from PIL import Image
+
+    out = []
+    for i in range(a, b + 1):
+        png = Path(draft, "pages", f"p-{i:03d}.png")
+        if not png.exists():
+            png = next(Path(draft, "pages").glob(f"p-*{i}.png"), None)
+        if not png:
+            out.append("")
+            continue
+        im = Image.open(png).convert("L")
+        w, h = im.size
+        # 在中间 35%-65% 找最白的一列（只看正文区域，去掉页眉页脚）
+        body = im.crop((0, int(h * 0.12), w, int(h * 0.9)))
+        cols = [sum(body.getpixel((x, y)) for y in range(0, body.height, 4)) for x in range(int(w * 0.35), int(w * 0.65))]
+        split = int(w * 0.35) + max(range(len(cols)), key=lambda k: cols[k])
+        white = cols[split - int(w * 0.35)] / (body.height / 4) / 255
+        parts = [im] if white < 0.985 else [im.crop((0, 0, split, h)), im.crop((split, 0, w, h))]
+        texts = []
+        import tempfile
+
+        with tempfile.TemporaryDirectory(dir=Path(draft)) as td:
+            for k, part in enumerate(parts):
+                tmp = Path(td) / f"bt_{i}_{k}.png"
+                part.save(tmp)
+                r = subprocess.run(["tesseract", str(tmp), "-", "--psm", "6", "-l", "eng"], capture_output=True)
+                texts.append(r.stdout.decode("utf-8", "ignore"))
+        out.append("\n\n".join(texts))
+    return "\f".join(out)
+
+
+def book_pages(draft: str, a: int, b: int) -> str:
+    """扫描件（OCR）书没有文字层：从 drafts/cN/book.txt 取 tesseract 结果，页之间用 \f 分隔。"""
+    text = Path(draft, "book.txt").read_text(encoding="utf-8")
+    pages = re.split(r"\n######## PAGE (\d+) ########\n", text)
+    d = {int(pages[i]): pages[i + 1] for i in range(1, len(pages), 2)}
+    return "\f".join(d.get(i, "") for i in range(a, b + 1))
+
+
 def clean(s: str, collapse: bool = True) -> str:
     s = s.replace("「", "r").replace("『", "r").replace("φ", "")
     if collapse:
@@ -39,6 +82,7 @@ def clean(s: str, collapse: bool = True) -> str:
     s = re.sub(r"[’‘]\s+(s|re|ll|ve|d|m|t)\b", r"'\1", s)
     s = re.sub(r"[’‘]\s*(II|H)\b", "'ll", s)
     s = re.sub(r"[’‘]", "'", s)
+    s = re.sub(r"(?<=\s)\|(?=\s)", "I", s)  # OCR 把 I 认成竖线
     if collapse:
         s = re.sub(r"[ \t]+", " ", s)
     return s
@@ -160,12 +204,17 @@ def main() -> None:
     ap.add_argument("--from", dest="frm")
     ap.add_argument("--to", dest="to")
     ap.add_argument("--out")
+    ap.add_argument("--book", action="store_true", help="扫描件：从 drafts/cN/book.txt（OCR 结果）取文本，而不是 PDF 文字层")
     args = ap.parse_args()
     pdf = Path(args.draft, "source.txt").read_text().strip()
     a, _, b = args.pages.partition("-")
     a, b = int(a), int(b or a)
     layout = args.mode != "transcript"
-    text = slice_text(clean(pdf_text(pdf, a, b, layout), collapse=args.mode != "passage"), args.frm, args.to)
+    if args.book:
+        raw = ocr_columns(args.draft, a, b) if args.mode == "passage" else book_pages(args.draft, a, b)
+    else:
+        raw = pdf_text(pdf, a, b, layout)
+    text = slice_text(clean(raw, collapse=args.mode != "passage"), args.frm, args.to)
     if args.mode == "transcript":
         result = transcript(text)
     elif args.mode == "passage":
