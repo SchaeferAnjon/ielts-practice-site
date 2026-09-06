@@ -1,0 +1,884 @@
+{
+  "id": "c12t2",
+  "book": "剑桥雅思12",
+  "test": 2,
+  "title": "剑12 Test 2 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "A"
+    ],
+    "2": [
+      "B"
+    ],
+    "3": [
+      "H"
+    ],
+    "4": [
+      "D"
+    ],
+    "5": [
+      "B"
+    ],
+    "6": [
+      "C"
+    ],
+    "7": [
+      "G"
+    ],
+    "8": [
+      "B"
+    ],
+    "9": [
+      "A"
+    ],
+    "10": [
+      "D",
+      "E"
+    ],
+    "11": [
+      "D",
+      "E"
+    ],
+    "12": [
+      "C",
+      "D"
+    ],
+    "13": [
+      "C",
+      "D"
+    ],
+    "14": [
+      "iv"
+    ],
+    "15": [
+      "vi"
+    ],
+    "16": [
+      "viii"
+    ],
+    "17": [
+      "v"
+    ],
+    "18": [
+      "i"
+    ],
+    "19": [
+      "vii"
+    ],
+    "20": [
+      "iii"
+    ],
+    "21": [
+      "TRUE"
+    ],
+    "22": [
+      "FALSE"
+    ],
+    "23": [
+      "FALSE"
+    ],
+    "24": [
+      "NOT GIVEN"
+    ],
+    "25": [
+      "rubber"
+    ],
+    "26": [
+      "farmer"
+    ],
+    "27": [
+      "eye movements"
+    ],
+    "28": [
+      "language co-activation"
+    ],
+    "29": [
+      "Stroop Task"
+    ],
+    "30": [
+      "conflict management"
+    ],
+    "31": [
+      "cognitive control"
+    ],
+    "32": [
+      "YES"
+    ],
+    "33": [
+      "NOT GIVEN"
+    ],
+    "34": [
+      "NO"
+    ],
+    "35": [
+      "NO"
+    ],
+    "36": [
+      "NOT GIVEN"
+    ],
+    "37": [
+      "D"
+    ],
+    "38": [
+      "G"
+    ],
+    "39": [
+      "B"
+    ],
+    "40": [
+      "C"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "A",
+      "key": "every single person needs food each day and has a right to it; and second, it is hugely dependent on nature",
+      "why": "段落A讲食品生产的两大独特性质（人人每天都需要、高度依赖自然），是只适用于食品生产而非其他行业的特点。"
+    },
+    "2": {
+      "loc": "B",
+      "key": "smallholder farmers in developing countries must in addition deal with adverse environments",
+      "why": "段落B指出发展中国家的小农户还需额外应对恶劣的自然和人为环境，这是特定地区农民才面临的挑战。"
+    },
+    "3": {
+      "loc": "H",
+      "key": "collective action does not come as a free good. It takes time, effort and money to organise, build trust",
+      "why": "段落H中Giel Ton警告集体行动需要花费时间、精力和金钱来组织并建立信任，说明促成农民合作存在困难。"
+    },
+    "4": {
+      "loc": "E",
+      "key": "sixty percent of beneficiaries of subsidies are not poor, but rich landowners and non-farmer traders",
+      "why": "Rokeya Kabir指出政府补贴的受益者六成并非穷人而是富裕地主和非农贸易商，说明补贴未必给到最需要的农民。"
+    },
+    "5": {
+      "loc": "H",
+      "key": "collective action offers an important way for farmers to strengthen their political and economic bargaining power",
+      "why": "Murphy认为集体行动能增强农民的议价能力并降低风险，即团体合作对农民有利。"
+    },
+    "6": {
+      "loc": "E",
+      "key": "held up social safety nets and public welfare programmes in Ethiopia, Brazil and Mexico as valuable ways to address poverty",
+      "why": "Fan举例埃塞俄比亚、巴西、墨西哥的社会保障和福利项目有助于缓解农户贫困，说明政府资助能改善农民生活水平。"
+    },
+    "7": {
+      "loc": "I",
+      "key": "community-supported agriculture, where consumers invest in local farmers by subscription and guarantee producers a fair price",
+      "why": "Bisht提出消费者以认购方式向本地农民投资并保证公平价格，即购买农产品的消费者提供资金支持能帮助农民。"
+    },
+    "8": {
+      "loc": "D",
+      "key": "the procurement and holding of stocks by governments can also help mitigate wild swings in food prices",
+      "why": "Murphy指出政府采购和储备粮食有助于缓解价格的剧烈波动，即政府可以帮助减少价格波动。"
+    },
+    "9": {
+      "loc": "D",
+      "key": "governments can significantly reduce risks for farmers by providing basic services like roads",
+      "why": "Nwanze指出政府提供道路等基础设施服务能大幅降低农民面临的风险，说明基础设施改善对农民风险影响巨大。"
+    },
+    "10": {
+      "loc": "G",
+      "key": "climate change increases the magnitude and the frequency of extreme weather events, which increase smallholder vulnerability",
+      "why": "段落G提到气候变化增加极端天气事件的强度和频率，加剧小农户的脆弱性，对应选项D「天气变化的影响」。"
+    },
+    "11": {
+      "loc": "I",
+      "key": "presence of intermediary purchasers who, taking advantage of farmers' vulnerability, dictate prices",
+      "why": "段落I提到中间商利用农民的弱势地位操纵价格，对应选项E「不得不卖给中间商」。"
+    },
+    "12": {
+      "loc": "H",
+      "key": "all stakeholders, including business, government, scientists and civil society, must work together",
+      "why": "段落H提出企业、政府、科学家和民间社会等各利益方应共同合作，对应选项C「组织多方合作」。"
+    },
+    "13": {
+      "loc": "I",
+      "key": "community-supported agriculture, where consumers invest in local farmers by subscription",
+      "why": "段落I描述消费者以认购方式向农民投资，对应选项D「鼓励消费者在农业中投入资金」。"
+    },
+    "14": {
+      "loc": "A",
+      "key": "His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation",
+      "why": "段落A介绍此行的目的——寻找失落的印加古城Vitcos，对应标题iv「此行的目的」。"
+    },
+    "15": {
+      "loc": "B",
+      "key": "they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon",
+      "why": "段落B描述了一条新近开辟、此前旅行者未曾走过的路线，对应标题vi「一条新路线」。"
+    },
+    "16": {
+      "loc": "C",
+      "key": "Bingham also seems to have been less than keen on the prospect of climbing the hill",
+      "why": "段落C描述Bingham对爬山探查兴致不高，对应标题viii「Bingham缺乏热情」。"
+    },
+    "17": {
+      "loc": "D",
+      "key": "'It seemed like an unbelievable dream ... the sight held me spellbound ...' he wrote",
+      "why": "段落D以生动笔法描写发现过程中的所见所感，对应标题v「戏剧性的描写」。"
+    },
+    "18": {
+      "loc": "E",
+      "key": "Lost City of the Incas is a work of hindsight, not written until 1948... His journal entries of the time reveal a much more gradual appreciation",
+      "why": "段落E将多年后书中回忆的版本与当时日记记录的版本相对照，说明同一段经历存在不同说法，对应标题i「对同一段旅程的不同描述」。"
+    },
+    "19": {
+      "loc": "F",
+      "key": "When he came to write the National Geographic magazine article... he knew he had to produce a big idea",
+      "why": "段落F讲述Bingham在杂志文章中提出并发表了他关于Machu Picchu的理论，对应标题vii「Bingham发表了他的理论」。"
+    },
+    "20": {
+      "loc": "G",
+      "key": "An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya",
+      "why": "段落G提到近年来被广泛接受的一种观点（庄园说），对应标题iii「一个普遍的看法」。"
+    },
+    "21": {
+      "loc": "A",
+      "key": "His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation",
+      "why": "段落A说明Bingham此行的目标正是寻找印加古城，与题干一致，故为TRUE。"
+    },
+    "22": {
+      "loc": "B",
+      "key": "Almost all previous travellers had left the river at Ollantaytambo and taken a high pass across the mountains... thereby cutting a substantial corner",
+      "why": "段落B说明大多数旅行者会走近路翻山，而Bingham沿河而下走的并非最常见的路线，与题干相反，故为FALSE。"
+    },
+    "23": {
+      "loc": "E",
+      "key": "At this stage, Bingham didn't realise the extent or the importance of the site, nor did he realise what use he could make of the discovery",
+      "why": "段落E明确说Bingham当时并未意识到遗址的重要性，与题干相反，故为FALSE。"
+    },
+    "24": {
+      "loc": "F",
+      "key": "Bingham made desperate attempts to prove this belief for nearly 40 years",
+      "why": "段落F提到Bingham花了近40年试图证明自己的理论，但原文未提及他是否专门返回Machu Picchu寻找证据，故为NOT GIVEN。"
+    },
+    "25": {
+      "loc": "B",
+      "key": "a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle",
+      "why": "原文明确说这条路是为了用骡子把橡胶从丛林运出而修建的，答案为rubber。"
+    },
+    "26": {
+      "loc": "C",
+      "key": "some ruins that a local farmer, Melchor Arteaga, had told them about the night before",
+      "why": "原文提到当地一位农民（farmer）Melchor Arteaga告诉了他们遗址的事，答案为farmer。"
+    },
+    "27": {
+      "loc": "B",
+      "key": "Some of the most compelling evidence for this phenomenon, called 'language co-activation', comes from studying eye movements",
+      "why": "原文提到通过研究眼动（eye movements）观察双语者的语言共同激活现象，对应表格中的测试方式。"
+    },
+    "28": {
+      "loc": "B",
+      "key": "auditory input activates corresponding words regardless of the language to which they belong... called 'language co-activation'",
+      "why": "原文将双语者同时激活两种语言词汇的现象明确称为「language co-activation」。"
+    },
+    "29": {
+      "loc": "C",
+      "key": "In the classic Stroop Task, people see a word and are asked to name the colour of the word's font",
+      "why": "原文提到经典的Stroop Task要求受试者说出字体颜色，对应表格中「聚焦命名颜色的测试」。"
+    },
+    "30": {
+      "loc": "C",
+      "key": "bilingual people often perform better on tasks that require conflict management",
+      "why": "原文说双语者在需要「conflict management」（冲突管理）能力的任务中表现更好。"
+    },
+    "31": {
+      "loc": "C",
+      "key": "they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy",
+      "why": "原文说双语者在切换任务策略时表现出更好的「cognitive control」（认知控制）。"
+    },
+    "32": {
+      "loc": "A",
+      "key": "In the past, such children were considered to be at a disadvantage compared with their monolingual peers... identifying several clear benefits of being bilingual",
+      "why": "原文说明过去人们认为双语儿童处于劣势，如今研究发现了明显的益处，说明态度已发生改变，符合作者观点，为YES。"
+    },
+    "33": {
+      "loc": "B",
+      "key": "Long before the word is finished, the brain's language system begins to guess what that word might be",
+      "why": "原文描述了大脑猜测词语的过程，但没有比较双语者是否比单语者更擅长猜对词语，因此为NOT GIVEN。"
+    },
+    "34": {
+      "loc": "C",
+      "key": "knowing more than one language can cause speakers to name pictures more slowly",
+      "why": "原文明确说掌握多种语言会使命名图片的速度变慢，与题干「持续更快命名」相反，为NO。"
+    },
+    "35": {
+      "loc": "D",
+      "key": "When monolingual and bilingual adolescents listen to simple speech sounds without any intervening background noise, they show highly similar brain stem responses",
+      "why": "原文说明只有在有背景噪音时双语者的大脑反应才更强，无噪音时两组反应相似，并非「所有情况下」都更高效，为NO。"
+    },
+    "36": {
+      "loc": "F",
+      "key": "bilingual patients reported showing initial symptoms of the disease an average of five years later than monolingual patients",
+      "why": "原文只提到双语患者阿尔茨海默病症状出现得更晚，并未给出患病人数比例的数据，因此「患病人数更少」的说法文中未提及，为NOT GIVEN。"
+    },
+    "37": {
+      "loc": "D",
+      "key": "When researchers play the same sound to both groups in the presence of background noise, however, the bilingual listeners' neural response is considerably larger",
+      "why": "段落D举例说明在背景噪音下双语者和单语者大脑对非语言声音信号的反应不同，对应题干。"
+    },
+    "38": {
+      "loc": "G",
+      "key": "only the bilingual babies were able to successfully learn the new rule",
+      "why": "段落G描述七个月大婴儿的实验，证明双语环境的优势在婴儿学会说话之前就已存在，对应题干。"
+    },
+    "39": {
+      "loc": "B",
+      "key": "the sounds arrive in sequential order. Long before the word is finished, the brain's language system begins to guess what that word might be",
+      "why": "段落B描述了人们依据声音顺序识别单词的过程，对应题干。"
+    },
+    "40": {
+      "loc": "C",
+      "key": "knowing more than one language can cause speakers to name pictures more slowly, and can increase 'tip-of-the-tongue states'",
+      "why": "段落C提到双语带来的负面影响（命名变慢、话到嘴边说不出），对应题干「负面后果」。"
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "The risks agriculture faces in developing countries",
+      "subtitle": "Synthesis of an online debate*",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "footnotes": [
+        "*The personal names in the text refer to the authors of written contributions to the online debate."
+      ],
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Two things distinguish food production from all other productive activities: first, every single person needs food each day and has a right to it; and second, it is hugely dependent on nature. These two unique aspects, one political, the other natural, make food production highly vulnerable and different from any other business. At the same time, cultural values are highly entrenched in food and agricultural systems worldwide."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Farmers everywhere face major risks, including extreme weather, long-term climate change, and price volatility in input and product markets. However, smallholder farmers in developing countries must in addition deal with adverse environments, both natural, in terms of soil quality, rainfall, etc., and human, in terms of infrastructure, financial systems, markets, knowledge and technology. Counter-intuitively, hunger is prevalent among many smallholder farmers in the developing world."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Participants in the online debate argued that our biggest challenge is to address the underlying causes of the agricultural system's inability to ensure sufficient food for all, and they identified as drivers of this problem our dependency on fossil fuels and unsupportive government policies."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "On the question of mitigating the risks farmers face, most essayists called for greater state intervention. In his essay, Kanayo F. Nwanze, President of the International Fund for Agricultural Development, argued that governments can significantly reduce risks for farmers by providing basic services like roads to get produce more efficiently to markets, or water and food storage facilities to reduce losses. Sophia Murphy, senior advisor to the Institute for Agriculture and Trade Policy, suggested that the procurement and holding of stocks by governments can also help mitigate wild swings in food prices by alleviating uncertainties about market supply."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Shenggen Fan, Director General of the International Food Policy Research Institute, held up social safety nets and public welfare programmes in Ethiopia, Brazil and Mexico as valuable ways to address poverty among farming families and reduce their vulnerability to agriculture shocks. However, some commentators responded that cash transfers to poor families do not necessarily translate into increased food security, as these programmes do not always strengthen food production or raise incomes. Regarding state subsidies for agriculture, Rokeya Kabir, Executive Director of Bangladesh Nari Progati Sangha, commented in her essay that these 'have not compensated for the stranglehold exercised by private traders. In fact, studies show that sixty percent of beneficiaries of subsidies are not poor, but rich landowners and non-farmer traders.'"
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Nwanze, Murphy and Fan argued that private risk management tools, like private insurance, commodity futures markets, and rural finance can help small-scale producers mitigate risk and allow for investment in improvements. Kabir warned that financial support schemes often encourage the adoption of high-input agricultural practices, which in the medium term may raise production costs beyond the value of their harvests. Murphy noted that when futures markets become excessively financialised they can contribute to short-term price volatility, which increases farmers' food insecurity. Many participants and commentators emphasised that greater transparency in markets is needed to mitigate the impact of volatility, and make evident whether adequate stocks and supplies are available. Others contended that agribusiness companies should be held responsible for paying for negative side effects."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "Many essayists mentioned climate change and its consequences for small-scale agriculture. Fan explained that 'in addition to reducing crop yields, climate change increases the magnitude and the frequency of extreme weather events, which increase smallholder vulnerability.' The growing unpredictability of weather patterns increases farmers' difficulty in managing weather-related risks. According to this author, one solution would be to develop crop varieties that are more resilient to new climate trends and extreme weather patterns. Accordingly, Pat Mooney, co-founder and executive director of the ETC Group, suggested that 'if we are to survive climate change, we must adopt policies that let peasants diversify the plant and animal species and varieties/breeds that make up our menus.'"
+        },
+        {
+          "id": "H",
+          "label": "H",
+          "text": "Some participating authors and commentators argued in favour of community-based and autonomous risk management strategies through collective action groups, co-operatives or producers' groups. Such groups enhance market opportunities for small-scale producers, reduce marketing costs and synchronise buying and selling with seasonal price conditions. According to Murphy, 'collective action offers an important way for farmers to strengthen their political and economic bargaining power, and to reduce their business risks.' One commentator, Giel Ton, warned that collective action does not come as a free good. It takes time, effort and money to organise, build trust and to experiment. Others, like Marcel Vernooij and Marcel Beukeboom, suggested that in order to 'apply what we already know', all stakeholders, including business, government, scientists and civil society, must work together, starting at the beginning of the value chain."
+        },
+        {
+          "id": "I",
+          "label": "I",
+          "text": "Some participants explained that market price volatility is often worsened by the presence of intermediary purchasers who, taking advantage of farmers' vulnerability, dictate prices. One commentator suggested farmers can gain greater control over prices and minimise price volatility by selling directly to consumers. Similarly, Sonali Bisht, founder and advisor to the Institute of Himalayan Environmental Research and Education (INHERE), India, wrote that community-supported agriculture, where consumers invest in local farmers by subscription and guarantee producers a fair price, is a risk-sharing model worth more attention. Direct food distribution systems not only encourage small-scale agriculture but also give consumers more control over the food they consume, she wrote."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            3
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 1 has nine paragraphs, A-I.\n\nWhich paragraph contains the following information?",
+          "limit": "Write the correct letter, A-I, in boxes 1-3 on your answer sheet.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "a reference to characteristics that only apply to food production"
+            },
+            {
+              "n": 2,
+              "text": "a reference to challenges faced only by farmers in certain parts of the world"
+            },
+            {
+              "n": 3,
+              "text": "a reference to difficulties in bringing about co-operation between farmers"
+            }
+          ]
+        },
+        {
+          "range": [
+            4,
+            9
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following statements (Questions 4-9) and the list of people below.\n\nMatch each statement with the correct person, A-G.",
+          "limit": "Write the correct letter, A-G, in boxes 4-9 on your answer sheet.\n\nNB You may use any letter more than once.",
+          "optionsTitle": "List of People",
+          "options": [
+            {
+              "k": "A",
+              "text": "Kanayo F. Nwanze"
+            },
+            {
+              "k": "B",
+              "text": "Sophia Murphy"
+            },
+            {
+              "k": "C",
+              "text": "Shenggen Fan"
+            },
+            {
+              "k": "D",
+              "text": "Rokeya Kabir"
+            },
+            {
+              "k": "E",
+              "text": "Pat Mooney"
+            },
+            {
+              "k": "F",
+              "text": "Giel Ton"
+            },
+            {
+              "k": "G",
+              "text": "Sonali Bisht"
+            }
+          ],
+          "questions": [
+            {
+              "n": 4,
+              "text": "Financial assistance from the government does not always go to the farmers who most need it."
+            },
+            {
+              "n": 5,
+              "text": "Farmers can benefit from collaborating as a group."
+            },
+            {
+              "n": 6,
+              "text": "Financial assistance from the government can improve the standard of living of farmers."
+            },
+            {
+              "n": 7,
+              "text": "Farmers may be helped if there is financial input by the same individuals who buy from them."
+            },
+            {
+              "n": 8,
+              "text": "Governments can help to reduce variation in prices."
+            },
+            {
+              "n": 9,
+              "text": "Improvements to infrastructure can have a major impact on risk for farmers."
+            }
+          ]
+        },
+        {
+          "range": [
+            10,
+            11
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "limit": "Write the correct letters in boxes 10 and 11 on your answer sheet.",
+          "text": "Which TWO problems are mentioned which affect farmers with small farms in developing countries?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "lack of demand for locally produced food"
+            },
+            {
+              "k": "B",
+              "text": "lack of irrigation programmes"
+            },
+            {
+              "k": "C",
+              "text": "being unable to get insurance"
+            },
+            {
+              "k": "D",
+              "text": "the effects of changing weather patterns"
+            },
+            {
+              "k": "E",
+              "text": "having to sell their goods to intermediary buyers"
+            }
+          ]
+        },
+        {
+          "range": [
+            12,
+            13
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "limit": "Write the correct letters in boxes 12 and 13 on your answer sheet.",
+          "text": "Which TWO actions are recommended for improving conditions for farmers?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "reducing the size of food stocks"
+            },
+            {
+              "k": "B",
+              "text": "attempting to ensure that prices rise at certain times of the year"
+            },
+            {
+              "k": "C",
+              "text": "organising co-operation between a wide range of interested parties"
+            },
+            {
+              "k": "D",
+              "text": "encouraging consumers to take a financial stake in farming"
+            },
+            {
+              "k": "E",
+              "text": "making customers aware of the reasons for changing food prices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The Lost City",
+      "subtitle": "An explorer's encounter with the ruined city of Machu Picchu, the most famous icon of the Inca civilisation",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "When the US explorer and academic Hiram Bingham arrived in South America in 1911, he was ready for what was to be the greatest achievement of his life: the exploration of the remote hinterland to the west of Cusco, the old capital of the Inca empire in the Andes mountains of Peru. His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. Cusco lies on a high plateau at an elevation of more than 3,000 metres, and Bingham's plan was to descend from this plateau along the valley of the Urubamba river, which takes a circuitous route down to the Amazon and passes through an area of dramatic canyons and mountain ranges."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle. Almost all previous travellers had left the river at Ollantaytambo and taken a high pass across the mountains to rejoin the river lower down, thereby cutting a substantial corner, but also therefore never passing through the area around Machu Picchu."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "On 24 July they were a few days into their descent of the valley. The day began slowly, with Bingham trying to arrange sufficient mules for the next stage of the trek. His companions showed no interest in accompanying him up the nearby hill to see some ruins that a local farmer, Melchor Arteaga, had told them about the night before. The morning was dull and damp, and Bingham also seems to have been less than keen on the prospect of climbing the hill. In his book Lost City of the Incas, he relates that he made the ascent without having the least expectation that he would find anything at the top."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Bingham writes about the approach in vivid style in his book. First, as he climbs up the hill, he describes the ever-present possibility of deadly snakes, 'capable of making considerable springs when in pursuit of their prey'; not that he sees any. Then there's a sense of mounting discovery as he comes across great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial buildings of Machu Picchu. 'It seemed like an unbelievable dream ... the sight held me spellbound ...' he wrote."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "We should remember, however, that Lost City of the Incas is a work of hindsight, not written until 1948, many years after his journey. His journal entries of the time reveal a much more gradual appreciation of his achievement. He spent the afternoon at the ruins noting down the dimensions of some of the buildings, then descended and rejoined his companions, to whom he seems to have said little about his discovery. At this stage, Bingham didn't realise the extent or the importance of the site, nor did he realise what use he could make of the discovery."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "However, soon after returning it occurred to him that he could make a name for himself from this discovery. When he came to write the National Geographic magazine article that broke the story to the world in April 1913, he knew he had to produce a big idea. He wondered whether it could have been the birthplace of the very first Inca, Manco the Great, and whether it could also have been what chroniclers described as 'the last city of the Incas'. This term refers to Vilcabamba, the settlement where the Incas had fled from Spanish invaders in the 1530s. Bingham made desperate attempts to prove this belief for nearly 40 years. Sadly, his vision of the site as both the beginning and end of the Inca civilisation, while a magnificent one, is inaccurate. We now know that Vilcabamba actually lies 65 kilometres away in the depths of the jungle."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "One question that has perplexed visitors, historians and archaeologists alike ever since Bingham, is why the site seems to have been abandoned before the Spanish Conquest. There are no references to it by any of the Spanish chroniclers - and if they had known of its existence so close to Cusco they would certainly have come in search of gold. An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya, a country estate built by an Inca emperor to escape the cold winters of Cusco, where the elite could enjoy monumental architecture and spectacular views. Furthermore, the particular architecture of Machu Picchu suggests that it was constructed at the time of the greatest of all the Incas, the emperor Pachacuti (c. 1438-71). By custom, Pachacuti's descendants built other similar estates for their own use, and so Machu Picchu would have been abandoned after his death, some 50 years before the Spanish Conquest."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            20
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 2 has seven paragraphs, A-G.\n\nChoose the correct heading for each paragraph from the list of headings below.",
+          "limit": "Write the correct number, i-viii, in boxes 14-20 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "Different accounts of the same journey"
+            },
+            {
+              "k": "ii",
+              "text": "Bingham gains support"
+            },
+            {
+              "k": "iii",
+              "text": "A common belief"
+            },
+            {
+              "k": "iv",
+              "text": "The aim of the trip"
+            },
+            {
+              "k": "v",
+              "text": "A dramatic description"
+            },
+            {
+              "k": "vi",
+              "text": "A new route"
+            },
+            {
+              "k": "vii",
+              "text": "Bingham publishes his theory"
+            },
+            {
+              "k": "viii",
+              "text": "Bingham's lack of enthusiasm"
+            }
+          ],
+          "itemsTitle": "Paragraphs",
+          "items": [
+            {
+              "n": 14,
+              "text": "Paragraph A"
+            },
+            {
+              "n": 15,
+              "text": "Paragraph B"
+            },
+            {
+              "n": 16,
+              "text": "Paragraph C"
+            },
+            {
+              "n": 17,
+              "text": "Paragraph D"
+            },
+            {
+              "n": 18,
+              "text": "Paragraph E"
+            },
+            {
+              "n": 19,
+              "text": "Paragraph F"
+            },
+            {
+              "n": 20,
+              "text": "Paragraph G"
+            }
+          ]
+        },
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 21,
+              "text": "Bingham went to South America in search of an Inca city."
+            },
+            {
+              "n": 22,
+              "text": "Bingham chose a particular route down the Urubamba valley because it was the most common route used by travellers."
+            },
+            {
+              "n": 23,
+              "text": "Bingham understood the significance of Machu Picchu as soon as he saw it."
+            },
+            {
+              "n": 24,
+              "text": "Bingham returned to Machu Picchu in order to find evidence to support his theory."
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            26
+          ],
+          "type": "summary",
+          "instruction": "Complete the sentences below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "text": "The track that took Bingham down the Urubamba valley had been created for the transportation of {{25}}.\n\nBingham found out about the ruins of Machu Picchu from a {{26}} in the Urubamba valley."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "The Benefits of Being Bilingual",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "According to the latest figures, the majority of the world's population is now bilingual or multilingual, having grown up speaking two or more languages. In the past, such children were considered to be at a disadvantage compared with their monolingual peers. Over the past few decades, however, technological advances have allowed researchers to look more deeply at how bilingualism interacts with and changes the cognitive and neurological systems, thereby identifying several clear benefits of being bilingual."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Research shows that when a bilingual person uses one language, the other is active at the same time. When we hear a word, we don't hear the entire word all at once: the sounds arrive in sequential order. Long before the word is finished, the brain's language system begins to guess what that word might be. If you hear 'can', you will likely activate words like 'candy' and 'candle' as well, at least during the earlier stages of word recognition. For bilingual people, this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong. Some of the most compelling evidence for this phenomenon, called 'language co-activation', comes from studying eye movements. A Russian-English bilingual asked to 'pick up a marker' from a set of objects would look more at a stamp than someone who doesn't know Russian, because the Russian word for 'stamp', marka, sounds like the English word he or she heard, 'marker'. In cases like this, language co-activation occurs because what the listener hears could map onto words in either language."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Having to deal with this persistent linguistic competition can result in difficulties, however. For instance, knowing more than one language can cause speakers to name pictures more slowly, and can increase 'tip-of-the-tongue states', when you can almost, but not quite, bring a word to mind. As a result, the constant juggling of two languages creates a need to control how much a person accesses a language at any given time. For this reason, bilingual people often perform better on tasks that require conflict management. In the classic Stroop Task, people see a word and are asked to name the colour of the word's font. When the colour and the word match (i.e., the word 'red' printed in red), people correctly name the colour more quickly than when the colour and the word don't match (i.e., the word 'red' printed in blue). This occurs because the word itself ('red') and its font colour (blue) conflict. Bilingual people often excel at tasks such as this, which tap into the ability to ignore competing perceptual information and focus on the relevant aspects of the input. Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch from categorizing objects by colour (red or green) to categorizing them by shape (circle or triangle), they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "It also seems that the neurological roots of the bilingual advantage extend to brain areas more traditionally associated with sensory processing. When monolingual and bilingual adolescents listen to simple speech sounds without any intervening background noise, they show highly similar brain stem responses. When researchers play the same sound to both groups in the presence of background noise, however, the bilingual listeners' neural response is considerably larger, reflecting better encoding of the sound's fundamental frequency, a feature of sound closely related to pitch perception."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Such improvements in cognitive and sensory processing may help a bilingual person to process information in the environment, and help explain why bilingual adults acquire a third language better than monolingual adults master a second language. This advantage may be rooted in the skill of focussing on information about the new language while reducing interference from the languages they already know."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Research also indicates that bilingual experience may help to keep the cognitive mechanisms sharp by recruiting alternate brain networks to compensate for those that become damaged during aging. Older bilinguals enjoy improved memory relative to monolingual people, which can lead to real-world health benefits. In a study of over 200 patients with Alzheimer's disease, a degenerative brain disease, bilingual patients reported showing initial symptoms of the disease an average of five years later than monolingual patients. In a follow-up study, researchers compared the brains of bilingual and monolingual patients matched on the severity of Alzheimer's symptoms. Surprisingly, the bilinguals' brains had more physical signs of disease than their monolingual counterparts, even though their outward behaviour and abilities were the same. If the brain is an engine, bilingualism may help it to go farther on the same amount of fuel."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "Furthermore, the benefits associated with bilingual experience seem to start very early. In one study, researchers taught seven-month-old babies growing up in monolingual or bilingual homes that when they heard a tinkling sound, a puppet appeared on one side of a screen. Halfway through the study, the puppet began appearing on the opposite side of the screen. In order to get a reward, the infants had to adjust the rule they'd learned; only the bilingual babies were able to successfully learn the new rule. This suggests that for very young children, as well as for older people, navigating a multilingual environment imparts advantages that transfer far beyond language."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            31
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "table": {
+            "head": [
+              "Test",
+              "Findings"
+            ],
+            "rows": [
+              [
+                "Observing the {{27}} of Russian-English bilingual people when asked to select certain objects",
+                "Bilingual people engage both languages simultaneously: a mechanism known as {{28}}"
+              ],
+              [
+                "A test called the {{29}}, focusing on naming colours",
+                "Bilingual people are more able to handle tasks involving a skill called {{30}}"
+              ],
+              [
+                "A test involving switching between tasks",
+                "When changing strategies, bilingual people have superior {{31}}"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            32,
+            36
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 32,
+              "text": "Attitudes towards bilingualism have changed in recent years."
+            },
+            {
+              "n": 33,
+              "text": "Bilingual people are better than monolingual people at guessing correctly what words are before they are finished."
+            },
+            {
+              "n": 34,
+              "text": "Bilingual people consistently name images faster than monolingual people."
+            },
+            {
+              "n": 35,
+              "text": "Bilingual people's brains process single sounds more efficiently than monolingual people in all situations."
+            },
+            {
+              "n": 36,
+              "text": "Fewer bilingual people than monolingual people suffer from brain disease in old age."
+            }
+          ]
+        },
+        {
+          "range": [
+            37,
+            40
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 3 has seven paragraphs, A-G.\n\nWhich paragraph contains the following information?",
+          "limit": "Write the correct letter, A-G, in boxes 37-40 on your answer sheet.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "questions": [
+            {
+              "n": 37,
+              "text": "an example of how bilingual and monolingual people's brains respond differently to a certain type of non-verbal auditory input"
+            },
+            {
+              "n": 38,
+              "text": "a demonstration of how a bilingual upbringing has benefits even before we learn to speak"
+            },
+            {
+              "n": 39,
+              "text": "a description of the process by which people identify words that they hear"
+            },
+            {
+              "n": 40,
+              "text": "reference to some negative consequences of being bilingual"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

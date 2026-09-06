@@ -1,0 +1,1918 @@
+{
+  "id": "c12t2",
+  "book": "剑桥雅思12",
+  "test": 2,
+  "title": "剑12 Test 2 · Listening",
+  "source": "Cambridge IELTS 12, Test 6（书中印为 Test 6，网站统一编为 Test 2）",
+  "answers": {
+    "1": [
+      "2.45"
+    ],
+    "2": [
+      "band"
+    ],
+    "3": [
+      "play"
+    ],
+    "4": [
+      "scientist"
+    ],
+    "5": [
+      "river"
+    ],
+    "6": [
+      "grandparents"
+    ],
+    "7": [
+      "Handsworth"
+    ],
+    "8": [
+      "traditional"
+    ],
+    "9": [
+      "outdoor"
+    ],
+    "10": [
+      "logo"
+    ],
+    "11": [
+      "B"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "F"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "E"
+    ],
+    "19": [
+      "G"
+    ],
+    "20": [
+      "C"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "B"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "A"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "E"
+    ],
+    "27": [
+      "G"
+    ],
+    "28": [
+      "D"
+    ],
+    "29": [
+      "C"
+    ],
+    "30": [
+      "A"
+    ],
+    "31": [
+      "bullying"
+    ],
+    "32": [
+      "superiority"
+    ],
+    "33": [
+      "personality"
+    ],
+    "34": [
+      "structural"
+    ],
+    "35": [
+      "absence"
+    ],
+    "36": [
+      "confidence"
+    ],
+    "37": [
+      "visions"
+    ],
+    "38": [
+      "democratic"
+    ],
+    "39": [
+      "respect"
+    ],
+    "40": [
+      "mediator"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c12/t2p1.mp3",
+      "duration": 541,
+      "title": "Kenton Festival",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Events during Kenton Festival",
+          "lines": [
+            "Start date: 16th May",
+            "## Opening ceremony (first day)",
+            "In town centre, starting at {{1}}",
+            "The mayor will make a speech",
+            "A {{2}} will perform",
+            "Performance of a {{3}} about Helen Tungate (a {{4}})",
+            "Evening fireworks display situated across the {{5}}",
+            "## Other events",
+            "Videos about relationships that children have with their {{6}}",
+            "Venue: {{7}} House",
+            "Performance of {{8}} dances",
+            "Venue: the {{9}} market in the town centre",
+            "Time: 2 and 5 pm every day except 1st day of festival",
+            "Several professional concerts and one by children",
+            "Venue: library",
+            "Time: 6.30 pm on the 18th",
+            "Tickets available online from festival box office and from shops which have the festival {{10}} in their windows"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MAN",
+          "t": "Good morning, Kenton Festival box office. How can I help you?",
+          "start": 104.87,
+          "end": 108.15
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, good morning.",
+          "start": 108.31,
+          "end": 109.59
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm coming to Kenton for a few days' holiday next month, and a friend told me there's a festival.",
+          "start": 110.03,
+          "end": 177.55
+        },
+        {
+          "s": "WOMAN",
+          "t": "She gave me this number to find out about it.",
+          "start": 177.91,
+          "end": 180.51
+        },
+        {
+          "s": "MAN",
+          "t": "That's right, the festival begins on the 16th of May and goes on till the 19th.",
+          "start": 181.23,
+          "end": 187.23
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, that's great.",
+          "start": 188.06,
+          "end": 188.94
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'll be there from the 15th till the 19th.",
+          "start": 189.58,
+          "end": 192.3
+        },
+        {
+          "s": "WOMAN",
+          "t": "So could you tell me the programme, please?",
+          "start": 193.38,
+          "end": 196.02
+        },
+        {
+          "s": "MAN",
+          "t": "Well, on the first day, there's the opening ceremony, in the town centre.",
+          "start": 196.82,
+          "end": 200.86
+        },
+        {
+          "s": "MAN",
+          "t": "People start gathering around 2 o'clock, to get a good place to see from, and the events will start at 2.45, and finish about 5.30.",
+          "q": [
+            1
+          ],
+          "start": 202.17,
+          "end": 214.33
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK, thanks.",
+          "start": 215.26,
+          "end": 216.06
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'll make sure I get there early to get a good spot.",
+          "start": 216.06,
+          "end": 219.26
+        },
+        {
+          "s": "MAN",
+          "t": "The festival will be officially opened by the mayor.",
+          "start": 220.14,
+          "end": 223.38
+        },
+        {
+          "s": "MAN",
+          "t": "He'll just speak for a few minutes, welcoming everyone to the festival.",
+          "start": 224.34,
+          "end": 229.02
+        },
+        {
+          "s": "MAN",
+          "t": "All the town councillors will be there, and of course lots of other people.",
+          "start": 229.81,
+          "end": 234.61
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right.",
+          "start": 234.85,
+          "end": 235.45
+        },
+        {
+          "s": "MAN",
+          "t": "Then there'll be a performance by a band.",
+          "q": [
+            2
+          ],
+          "start": 235.45,
+          "end": 239.09
+        },
+        {
+          "s": "MAN",
+          "t": "Most years we have a children's choir, but this year the local army cadets offered to perform, and they're very good.",
+          "start": 239.97,
+          "end": 248.25
+        },
+        {
+          "s": "WOMAN",
+          "t": "Uhuh.",
+          "start": 248.25,
+          "end": 248.25,
+          "estimated": true
+        },
+        {
+          "s": "MAN",
+          "t": "After that, a community group from the town will perform a play they've written themselves, just a short one.",
+          "q": [
+            3
+          ],
+          "start": 249.33,
+          "end": 257.13
+        },
+        {
+          "s": "MAN",
+          "t": "It's about Helen Tungate.",
+          "start": 257.7,
+          "end": 259.5
+        },
+        {
+          "s": "MAN",
+          "t": "I don't know if you've heard of her?",
+          "start": 260.3,
+          "end": 262.18
+        },
+        {
+          "s": "WOMAN",
+          "t": "I certainly have.",
+          "start": 262.58,
+          "end": 263.78
+        },
+        {
+          "s": "WOMAN",
+          "t": "She was a scientist years ago.",
+          "q": [
+            4
+          ],
+          "start": 264.22,
+          "end": 266.54
+        },
+        {
+          "s": "MAN",
+          "t": "That's right.",
+          "start": 267.1,
+          "end": 267.74
+        },
+        {
+          "s": "MAN",
+          "t": "She was born in Kenton exactly 100 years ago, so we're celebrating her centenary.",
+          "start": 268.38,
+          "end": 274.82
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm a biologist, so I've always been interested in her.",
+          "start": 275.06,
+          "end": 278.54
+        },
+        {
+          "s": "WOMAN",
+          "t": "I didn't realise she came from Kenton.",
+          "start": 279.31,
+          "end": 280.87
+        },
+        {
+          "s": "MAN",
+          "t": "Yes.",
+          "start": 281.63,
+          "end": 281.99
+        },
+        {
+          "s": "MAN",
+          "t": "Well, all that will take place in the afternoon, and later, as the sun sets, there'll be a firework display.",
+          "start": 283.19,
+          "end": 290.71
+        },
+        {
+          "s": "MAN",
+          "t": "You should go to the park to watch, as you'll get the best view from there, and the display takes place on the opposite side of the river.",
+          "q": [
+            5
+          ],
+          "start": 291.63,
+          "end": 300.51
+        },
+        {
+          "s": "MAN",
+          "t": "It's always one of the most popular events in the festival.",
+          "start": 301.19,
+          "end": 304.35
+        },
+        {
+          "s": "WOMAN",
+          "t": "Sounds great.",
+          "start": 304.55,
+          "end": 305.67
+        },
+        {
+          "s": "WOMAN",
+          "t": "And what's happening on the other days?",
+          "start": 342.01,
+          "end": 350.03
+        },
+        {
+          "s": "MAN",
+          "t": "There are several events that go on the whole time.",
+          "start": 350.71,
+          "end": 353.95
+        },
+        {
+          "s": "MAN",
+          "t": "For example, the students of the art college have produced a number of videos, all connected with relationships between children and their grandparents.",
+          "q": [
+            6
+          ],
+          "start": 354.43,
+          "end": 365.15
+        },
+        {
+          "s": "WOMAN",
+          "t": "That sounds interesting.",
+          "start": 365.63,
+          "end": 366.87
+        },
+        {
+          "s": "WOMAN",
+          "t": "It makes a change from children and parents, doesn't it!",
+          "start": 367.85,
+          "end": 371.13
+        },
+        {
+          "s": "MAN",
+          "t": "Exactly.",
+          "start": 372.09,
+          "end": 372.33
+        },
+        {
+          "s": "MAN",
+          "t": "Because the art college is in use for classes, throughout the festival, the videos are being shown in Handsworth House.",
+          "q": [
+            7
+          ],
+          "start": 373.41,
+          "end": 381.71
+        },
+        {
+          "s": "WOMAN",
+          "t": "How do you spell the name?",
+          "start": 381.91,
+          "end": 383.71
+        },
+        {
+          "s": "MAN",
+          "t": "H-A-N-D-S-W-O-R-T-H.",
+          "start": 383.83,
+          "end": 391.79
+        },
+        {
+          "s": "MAN",
+          "t": "Handsworth House.",
+          "start": 392.08,
+          "end": 393.36
+        },
+        {
+          "s": "MAN",
+          "t": "It's close to the Town Hall.",
+          "start": 393.96,
+          "end": 395.48
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right.",
+          "start": 395.72,
+          "end": 396.44
+        },
+        {
+          "s": "MAN",
+          "t": "Now let me see, what else can I tell you about?",
+          "start": 397.0,
+          "end": 401.0
+        },
+        {
+          "s": "WOMAN",
+          "t": "Are there any displays of ballet dancing?",
+          "start": 401.4,
+          "end": 404.12
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm particularly interested in that as I do it as a hobby.",
+          "start": 405.07,
+          "end": 408.35
+        },
+        {
+          "s": "MAN",
+          "t": "There isn't any ballet, I'm afraid, but there'll be a demonstration of traditional dances from all round the country.",
+          "q": [
+            8
+          ],
+          "start": 408.75,
+          "end": 416.35
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, that'd be nice.",
+          "start": 417.0,
+          "end": 417.92
+        },
+        {
+          "s": "WOMAN",
+          "t": "Where's that being held?",
+          "start": 418.96,
+          "end": 419.64
+        },
+        {
+          "s": "MAN",
+          "t": "It's in the market in the town centre - the outdoor one, not the covered market.",
+          "q": [
+            9
+          ],
+          "start": 420.04,
+          "end": 425.84
+        },
+        {
+          "s": "MAN",
+          "t": "And it's on at 2 and 5 every afternoon of the festival, apart from the first day.",
+          "start": 427.02,
+          "end": 433.78
+        },
+        {
+          "s": "WOMAN",
+          "t": "Lovely.",
+          "start": 433.98,
+          "end": 434.7
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm interested in all kinds of dancing, so I'm sure I'll enjoy that!",
+          "start": 435.46,
+          "end": 439.62
+        },
+        {
+          "s": "MAN",
+          "t": "Mmm.",
+          "start": 439.62,
+          "end": 439.62,
+          "estimated": true
+        },
+        {
+          "s": "MAN",
+          "t": "I'm sure you will.",
+          "start": 440.42,
+          "end": 441.18
+        },
+        {
+          "s": "WOMAN",
+          "t": "And I'd really like to go to some concerts, if there are any.",
+          "start": 441.66,
+          "end": 445.42
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, there are several.",
+          "start": 446.34,
+          "end": 447.46
+        },
+        {
+          "s": "MAN",
+          "t": "Three performed by professionals, and one by local children.",
+          "start": 448.78,
+          "end": 452.38
+        },
+        {
+          "s": "WOMAN",
+          "t": "And where is it being held?",
+          "start": 453.29,
+          "end": 454.69
+        },
+        {
+          "s": "MAN",
+          "t": "It's in the library, which is in Park Street.",
+          "start": 455.41,
+          "end": 458.45
+        },
+        {
+          "s": "MAN",
+          "t": "On the 18th, at 6.30 in the evening.",
+          "start": 459.37,
+          "end": 462.81
+        },
+        {
+          "s": "WOMAN",
+          "t": "I presume I'll need tickets for that.",
+          "start": 463.49,
+          "end": 465.53
+        },
+        {
+          "s": "MAN",
+          "t": "Yes.",
+          "start": 466.31,
+          "end": 466.47
+        },
+        {
+          "s": "MAN",
+          "t": "You can book online, or you can buy them when you arrive in Kenton, either at the festival box office, or from any shops displaying our logo in the windows.",
+          "q": [
+            10
+          ],
+          "start": 466.99,
+          "end": 478.31
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, I think that'll keep me busy for the whole of my stay in Kenton.",
+          "start": 479.93,
+          "end": 483.97
+        },
+        {
+          "s": "WOMAN",
+          "t": "Thank you so much for all your help.",
+          "start": 485.33,
+          "end": 487.29
+        },
+        {
+          "s": "MAN",
+          "t": "You're welcome.",
+          "start": 487.65,
+          "end": 488.41
+        },
+        {
+          "s": "MAN",
+          "t": "I hope you enjoy your stay.",
+          "start": 489.05,
+          "end": 490.61
+        },
+        {
+          "s": "WOMAN",
+          "t": "Thank you.",
+          "start": 491.17,
+          "end": 491.73
+        },
+        {
+          "s": "WOMAN",
+          "t": "Goodbye.",
+          "start": 492.01,
+          "end": 492.49
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c12/t2p2.mp3",
+      "duration": 469,
+      "title": "Theatre trip to Munich",
+      "groups": [
+        {
+          "range": [
+            11,
+            15
+          ],
+          "type": "mc",
+          "instruction": "Questions 11-15\n\nChoose the correct letter, A, B or C.",
+          "title": "Theatre trip to Munich",
+          "questions": [
+            {
+              "n": 11,
+              "text": "When the group meet at the airport they will have",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "breakfast."
+                },
+                {
+                  "k": "B",
+                  "text": "coffee."
+                },
+                {
+                  "k": "C",
+                  "text": "lunch."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "The group will be met at Munich Airport by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "an employee at the National Theatre."
+                },
+                {
+                  "k": "B",
+                  "text": "a theatre manager."
+                },
+                {
+                  "k": "C",
+                  "text": "a tour operator."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "How much will they pay per night for a double room at the hotel?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "110 euros"
+                },
+                {
+                  "k": "B",
+                  "text": "120 euros"
+                },
+                {
+                  "k": "C",
+                  "text": "150 euros"
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "What type of restaurant will they go to on Tuesday evening?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "an Italian restaurant"
+                },
+                {
+                  "k": "B",
+                  "text": "a Lebanese restaurant"
+                },
+                {
+                  "k": "C",
+                  "text": "a typical restaurant of the region"
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "Who will they meet on Wednesday afternoon?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "an actor"
+                },
+                {
+                  "k": "B",
+                  "text": "a playwright"
+                },
+                {
+                  "k": "C",
+                  "text": "a theatre director"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            16,
+            20
+          ],
+          "type": "matching",
+          "instruction": "What does the man say about the play on each of the following days?",
+          "limit": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 16-20.",
+          "optionsTitle": "Comments",
+          "options": [
+            {
+              "k": "A",
+              "text": "The playwright will be present."
+            },
+            {
+              "k": "B",
+              "text": "The play was written to celebrate an anniversary."
+            },
+            {
+              "k": "C",
+              "text": "The play will be performed inside a historic building."
+            },
+            {
+              "k": "D",
+              "text": "The play will be accompanied by live music."
+            },
+            {
+              "k": "E",
+              "text": "The play will be performed outdoors."
+            },
+            {
+              "k": "F",
+              "text": "The play will be performed for the first time."
+            },
+            {
+              "k": "G",
+              "text": "The performance will be attended by officials from the town."
+            }
+          ],
+          "itemsTitle": "Days",
+          "items": [
+            {
+              "n": 16,
+              "text": "Wednesday"
+            },
+            {
+              "n": 17,
+              "text": "Thursday"
+            },
+            {
+              "n": 18,
+              "text": "Friday"
+            },
+            {
+              "n": 19,
+              "text": "Saturday"
+            },
+            {
+              "n": 20,
+              "text": "Monday"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Right.",
+          "start": 63.97,
+          "end": 64.13
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I've now almost succeeded in finalising plans for our tour, so I'll bring you up to date with what I know.",
+          "start": 65.01,
+          "end": 72.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As you know, we're flying first to Munich, on Monday the 4th.",
+          "start": 74.16,
+          "end": 78.64
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The flight is at 11.30, so it's too early to have lunch at the airport.",
+          "start": 80.08,
+          "end": 85.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I suggest we meet there for coffee at 10, which should give us plenty of time for breakfast before we leave home.",
+          "q": [
+            11
+          ],
+          "start": 87.13,
+          "end": 95.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When we arrive in Munich, we'll be met at the airport by Claus Bauer.",
+          "start": 97.63,
+          "end": 101.59
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Claus works for a tour operator, and he'll look after us for the time we'll be in Germany.",
+          "q": [
+            12
+          ],
+          "start": 104.88,
+          "end": 110.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He's already liaised with the managers of the theatres we're going to visit, and he's also arranged for an officer of the National Theatre in Munich to show us round the theatre one afternoon during our stay.",
+          "start": 111.94,
+          "end": 125.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now last time we discussed this trip, I didn't have the precise cost for hotel rooms, but now I have.",
+          "start": 128.02,
+          "end": 135.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The normal rate at the hotel where we're staying is 150 euros a night for a double room.",
+          "start": 136.86,
+          "end": 144.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'd hoped to get that down to 120 euros, but in fact I've been able to negotiate a rate of 110.",
+          "q": [
+            13
+          ],
+          "start": 145.05,
+          "end": 153.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That'll be reflected in the final payment which you'll need to make by the end of this week.",
+          "start": 155.28,
+          "end": 160.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On Tuesday, the day after our arrival, I had hoped we could sit in on a rehearsal at one of the theatres, but unfortunately that's proved very difficult to arrange, so instead we'll have a coach trip to one of the amazing castles in the mountains south of Munich.",
+          "start": 162.31,
+          "end": 183.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On Tuesday evening, we'll all have dinner together in a restaurant near our hotel.",
+          "start": 185.17,
+          "end": 190.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "From talking to you all about your preferences, it was clear that a typical local restaurant would be too meat-oriented for some of you.",
+          "start": 190.61,
+          "end": 202.9
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some of you suggested an Italian restaurant, but I must confess that I decided to book a Lebanese one, as we have plenty of opportunities to go to an Italian restaurant at home.",
+          "q": [
+            14
+          ],
+          "start": 202.98,
+          "end": 215.63
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On Wednesday afternoon, the director of the play we're going to see that evening will talk to us at the theatre.",
+          "q": [
+            15
+          ],
+          "start": 217.29,
+          "end": 224.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "She'll describe the whole process of producing a play, including how she chose the actors, and, as the play we're going to see is a modern one, how she worked with the playwright.",
+          "start": 225.73,
+          "end": 238.05
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Right.",
+          "start": 281.04,
+          "end": 281.12
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now I'd just like to make a few points about the plays we're going to see, partly because it might influence your choice of clothes to take with you!",
+          "start": 282.2,
+          "end": 292.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The play we're seeing on Wednesday evening is a modern one, and we're going to the premiere, so it'll be quite a dressy occasion, though of course you don't have to dress formally.",
+          "q": [
+            16
+          ],
+          "start": 293.85,
+          "end": 306.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I gather it's rather a multimedia production, with amazing lighting effects and a soundtrack of electronic music, though unfortunately the playwright is ill and is unlikely to be able to attend.",
+          "start": 307.5,
+          "end": 321.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On Thursday we're seeing a play that was first performed last year, when it was commissioned to mark a hundred years since the birth in the town of a well-known scientist.",
+          "q": [
+            17
+          ],
+          "start": 323.48,
+          "end": 334.52
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We're going to see a revival of that production, which aroused a lot of interest.",
+          "start": 335.75,
+          "end": 340.63
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Friday's play will really make you think hard about what clothes to pack, as it'll be in the garden of a palace.",
+          "q": [
+            18
+          ],
+          "start": 342.2,
+          "end": 349.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's a beautiful setting, but I'd better warn you, there won't be much protection from the wind.",
+          "start": 350.84,
+          "end": 356.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On Saturday, we're going by coach to a theatre in another town, not far from Munich.",
+          "start": 358.57,
+          "end": 364.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This will be the opening of a drama festival, and the mayor and all the other dignitaries of the town will be attending.",
+          "q": [
+            19
+          ],
+          "start": 364.77,
+          "end": 373.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "After the performance, the mayor is hosting a reception for all the audience, and there'll be a band playing traditional music of the region.",
+          "start": 375.05,
+          "end": 383.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And after having a day off on Sunday, our final play is on Monday, and it's in the stunning setting of the old Town Hall, which dates back to the 14th century.",
+          "q": [
+            20
+          ],
+          "start": 385.69,
+          "end": 397.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The performance marks the fifty years that the lead actor has been on stage, and the play is the one where he made his first professional appearance, all those years ago.",
+          "start": 398.64,
+          "end": 409.92
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the day after that, we'll be flying back home.",
+          "start": 411.9,
+          "end": 415.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now have you got any questions before I ...",
+          "start": 416.78,
+          "end": 420.82
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c12/t2p3.mp3",
+      "duration": 431,
+      "title": "Scandinavian Studies",
+      "groups": [
+        {
+          "range": [
+            21,
+            25
+          ],
+          "type": "mc",
+          "instruction": "Questions 21-25\n\nChoose the correct letter, A, B or C.",
+          "title": "Scandinavian Studies",
+          "questions": [
+            {
+              "n": 21,
+              "text": "James chose to take Scandinavian Studies because when he was a child",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "he was often taken to Denmark."
+                },
+                {
+                  "k": "B",
+                  "text": "his mother spoke to him in Danish."
+                },
+                {
+                  "k": "C",
+                  "text": "a number of Danish people visited his family."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "When he graduates, James would like to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "take a postgraduate course."
+                },
+                {
+                  "k": "B",
+                  "text": "work in the media."
+                },
+                {
+                  "k": "C",
+                  "text": "become a translator."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "Which course will end this term?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Swedish cinema"
+                },
+                {
+                  "k": "B",
+                  "text": "Danish television programmes"
+                },
+                {
+                  "k": "C",
+                  "text": "Scandinavian literature"
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "They agree that James's literature paper this term will be on",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "19th century playwrights."
+                },
+                {
+                  "k": "B",
+                  "text": "the Icelandic sagas."
+                },
+                {
+                  "k": "C",
+                  "text": "modern Scandinavian novels."
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "Beth recommends that James's paper should be",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a historical overview of the genre."
+                },
+                {
+                  "k": "B",
+                  "text": "an in-depth analysis of a single writer."
+                },
+                {
+                  "k": "C",
+                  "text": "a study of the social background to the literature."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            26,
+            30
+          ],
+          "type": "matching",
+          "instruction": "Complete the flow-chart below.",
+          "limit": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30.",
+          "optionsTitle": "Options",
+          "options": [
+            {
+              "k": "A",
+              "text": "bullet points"
+            },
+            {
+              "k": "B",
+              "text": "film"
+            },
+            {
+              "k": "C",
+              "text": "notes"
+            },
+            {
+              "k": "D",
+              "text": "structure"
+            },
+            {
+              "k": "E",
+              "text": "student paper"
+            },
+            {
+              "k": "F",
+              "text": "textbook"
+            },
+            {
+              "k": "G",
+              "text": "documentary"
+            }
+          ],
+          "itemsTitle": "How James will write his paper on the Vikings",
+          "items": [
+            {
+              "n": 26,
+              "text": "He'll read a ______ and choose his topic."
+            },
+            {
+              "n": 27,
+              "text": "He'll borrow a ______ from Beth."
+            },
+            {
+              "n": 28,
+              "text": "He'll plan the ______ of the paper."
+            },
+            {
+              "n": 29,
+              "text": "He'll read some source material and write ______."
+            },
+            {
+              "n": 30,
+              "text": "He'll write the paper using ______."
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "BETH",
+          "t": "Oh good morning.",
+          "start": 62.62,
+          "end": 63.18
+        },
+        {
+          "s": "BETH",
+          "t": "You must be James.",
+          "start": 63.7,
+          "end": 64.46
+        },
+        {
+          "s": "BETH",
+          "t": "I'm Beth Cartwright - please call me Beth.",
+          "start": 65.14,
+          "end": 67.62
+        },
+        {
+          "s": "JAMES",
+          "t": "Thank you.",
+          "start": 67.9,
+          "end": 68.5
+        },
+        {
+          "s": "BETH",
+          "t": "Now as this is your first tutorial since you started on the Scandinavian Studies course, I'd like to find out something about you.",
+          "start": 69.5,
+          "end": 77.55
+        },
+        {
+          "s": "BETH",
+          "t": "Why did you decide to take this course?",
+          "start": 77.63,
+          "end": 79.95
+        },
+        {
+          "s": "JAMES",
+          "t": "Well, my mother is Danish, and although we always lived in England, she used to talk about her home a lot, and that made me want to visit Denmark.",
+          "start": 80.19,
+          "end": 90.07
+        },
+        {
+          "s": "JAMES",
+          "t": "We hardly ever did, though - my mother usually went on her own.",
+          "start": 90.95,
+          "end": 94.63
+        },
+        {
+          "s": "JAMES",
+          "t": "But whenever her relations or friends were in England they always came to see us.",
+          "q": [
+            21
+          ],
+          "start": 95.5,
+          "end": 100.34
+        },
+        {
+          "s": "BETH",
+          "t": "I see.",
+          "start": 100.82,
+          "end": 101.14
+        },
+        {
+          "s": "BETH",
+          "t": "So I assume you already speak Danish, one of the languages you'll be studying.",
+          "start": 101.98,
+          "end": 106.46
+        },
+        {
+          "s": "JAMES",
+          "t": "I can get by when I talk to people, though I'm not terribly accurate.",
+          "start": 107.09,
+          "end": 111.69
+        },
+        {
+          "s": "BETH",
+          "t": "Now you probably know that you'll spend the third year of the course abroad.",
+          "start": 112.09,
+          "end": 116.93
+        },
+        {
+          "s": "BETH",
+          "t": "Have you had any thoughts about that?",
+          "start": 117.69,
+          "end": 119.37
+        },
+        {
+          "s": "JAMES",
+          "t": "I'm really looking forward to it.",
+          "start": 119.61,
+          "end": 121.21
+        },
+        {
+          "s": "JAMES",
+          "t": "And although Denmark seems the obvious place to go, because of my family connections, I'd love to spend the time in Iceland.",
+          "start": 121.85,
+          "end": 128.89
+        },
+        {
+          "s": "BETH",
+          "t": "Oh, I'm sure it can be arranged.",
+          "start": 129.81,
+          "end": 131.61
+        },
+        {
+          "s": "BETH",
+          "t": "Do you have any plans for when you graduate?",
+          "start": 132.41,
+          "end": 134.77
+        },
+        {
+          "s": "BETH",
+          "t": "A lot of students go on to take a master's degree.",
+          "start": 134.97,
+          "end": 137.81
+        },
+        {
+          "s": "JAMES",
+          "t": "I think the four years of the undergraduate course will be enough for me.",
+          "start": 138.65,
+          "end": 142.17
+        },
+        {
+          "s": "JAMES",
+          "t": "I'm interested in journalism, and I quite like the idea of moving to Scandinavia and writing for magazines.",
+          "q": [
+            22
+          ],
+          "start": 142.85,
+          "end": 149.49
+        },
+        {
+          "s": "JAMES",
+          "t": "I'd find that more creative than translating, which I suppose most graduates do.",
+          "start": 149.61,
+          "end": 155.94
+        },
+        {
+          "s": "BETH",
+          "t": "OK.",
+          "start": 155.98,
+          "end": 156.42
+        },
+        {
+          "s": "BETH",
+          "t": "Now how are you finding the courses you're taking this term, James?",
+          "start": 157.34,
+          "end": 160.74
+        },
+        {
+          "s": "JAMES",
+          "t": "Well, I'm really enjoying the one on Swedish cinema.",
+          "start": 161.26,
+          "end": 164.34
+        },
+        {
+          "s": "BETH",
+          "t": "That'll continue next term, but the one on Scandinavian literature that's running at the moment will be replaced by more specialised courses.",
+          "q": [
+            23
+          ],
+          "start": 164.98,
+          "end": 172.82
+        },
+        {
+          "s": "BETH",
+          "t": "Oh, and by the way, if you're interested in watching Danish television programmes - there's going to be a course on that the term after next.",
+          "start": 173.62,
+          "end": 181.47
+        },
+        {
+          "s": "JAMES",
+          "t": "That sounds good.",
+          "start": 181.87,
+          "end": 182.59
+        },
+        {
+          "s": "BETH",
+          "t": "Have you started thinking about the literature paper that you have to write in the next few weeks?",
+          "start": 182.95,
+          "end": 187.63
+        },
+        {
+          "s": "JAMES",
+          "t": "Yes, my first choice would be to do something on the Icelandic sagas.",
+          "start": 187.87,
+          "end": 192.39
+        },
+        {
+          "s": "BETH",
+          "t": "Hmm.",
+          "start": 192.91,
+          "end": 193.27
+        },
+        {
+          "s": "BETH",
+          "t": "The trouble with that is that a lot of people choose that topic, and it can be difficult to get hold of the books you'll need.",
+          "start": 193.91,
+          "end": 201.43
+        },
+        {
+          "s": "BETH",
+          "t": "Why not leave that for another time?",
+          "start": 201.55,
+          "end": 203.63
+        },
+        {
+          "s": "JAMES",
+          "t": "Right.",
+          "start": 204.19,
+          "end": 204.59
+        },
+        {
+          "s": "BETH",
+          "t": "You might find modern novels or 19th century playwrights interesting.",
+          "q": [
+            24
+          ],
+          "start": 205.15,
+          "end": 208.87
+        },
+        {
+          "s": "JAMES",
+          "t": "I've read or seen several plays in translation, so that would be a good idea.",
+          "start": 209.23,
+          "end": 214.67
+        },
+        {
+          "s": "BETH",
+          "t": "Fine.",
+          "start": 215.7,
+          "end": 215.82
+        },
+        {
+          "s": "BETH",
+          "t": "I'll put you down for that topic.",
+          "start": 216.06,
+          "end": 218.14
+        },
+        {
+          "s": "JAMES",
+          "t": "Right.",
+          "start": 218.26,
+          "end": 218.66
+        },
+        {
+          "s": "JAMES",
+          "t": "So what would you advise me to aim at in the paper?",
+          "start": 219.06,
+          "end": 221.58
+        },
+        {
+          "s": "BETH",
+          "t": "First I suggest you avoid taking one writer and going into a great deal of detail.",
+          "start": 221.86,
+          "end": 226.82
+        },
+        {
+          "s": "BETH",
+          "t": "That approach certainly has its place, but I think you first need to get an understanding of the literature in the context of the society in which it was produced - who it was written for, how it was published, and so on.",
+          "q": [
+            25
+          ],
+          "start": 227.56,
+          "end": 240.37
+        },
+        {
+          "s": "BETH",
+          "t": "I also think that's more fruitful than placing it within the history of the genre.",
+          "start": 240.89,
+          "end": 244.97
+        },
+        {
+          "s": "JAMES",
+          "t": "OK, that sounds reasonable.",
+          "start": 245.09,
+          "end": 246.93
+        },
+        {
+          "s": "JAMES",
+          "t": "Could I ask for some advice about writing the paper I'm working on about the Vikings?",
+          "start": 289.9,
+          "end": 294.1
+        },
+        {
+          "s": "JAMES",
+          "t": "I have to do that this week, and I'm a bit stuck.",
+          "start": 294.98,
+          "end": 297.5
+        },
+        {
+          "s": "BETH",
+          "t": "Of course.",
+          "start": 297.78,
+          "end": 298.42
+        },
+        {
+          "s": "BETH",
+          "t": "Have you decided yet what to write about?",
+          "start": 298.98,
+          "end": 300.94
+        },
+        {
+          "s": "JAMES",
+          "t": "No, I haven't.",
+          "start": 301.06,
+          "end": 302.3
+        },
+        {
+          "s": "JAMES",
+          "t": "There's so much that seems interesting - Viking settlement in other countries, trade, mythology...",
+          "start": 303.09,
+          "end": 309.21
+        },
+        {
+          "s": "BETH",
+          "t": "Well, what I suggest is that you read an assignment a student wrote last year, which is kept in the library.",
+          "q": [
+            26
+          ],
+          "start": 309.45,
+          "end": 315.85
+        },
+        {
+          "s": "BETH",
+          "t": "It's short and well focused, and I'm sure you'll find it helpful.",
+          "start": 316.41,
+          "end": 320.01
+        },
+        {
+          "s": "BETH",
+          "t": "I'll give you the details in a moment.",
+          "start": 320.77,
+          "end": 322.45
+        },
+        {
+          "s": "BETH",
+          "t": "Textbooks usually cover so many topics, it can be very difficult to choose just one.",
+          "start": 322.65,
+          "end": 328.29
+        },
+        {
+          "s": "JAMES",
+          "t": "OK.",
+          "start": 328.41,
+          "end": 328.69
+        },
+        {
+          "s": "JAMES",
+          "t": "I've got a DVD of the film about the Vikings that came out earlier this year.",
+          "start": 329.71,
+          "end": 333.83
+        },
+        {
+          "s": "JAMES",
+          "t": "Should I watch that again?",
+          "start": 334.27,
+          "end": 335.59
+        },
+        {
+          "s": "BETH",
+          "t": "If it's the one I am thinking of, hmm, I'd ignore it - it's more fantasy than reality.",
+          "start": 335.79,
+          "end": 342.34
+        },
+        {
+          "s": "BETH",
+          "t": "But I've got a recording of a documentary that you should watch.",
+          "q": [
+            27
+          ],
+          "start": 342.9,
+          "end": 346.1
+        },
+        {
+          "s": "BETH",
+          "t": "It makes some interesting and provocative points, which I think will help you to focus your topic.",
+          "start": 346.1,
+          "end": 351.78
+        },
+        {
+          "s": "JAMES",
+          "t": "Right...",
+          "start": 352.47,
+          "end": 352.55
+        },
+        {
+          "s": "JAMES",
+          "t": "So then should I work out an outline?",
+          "start": 353.59,
+          "end": 355.99
+        },
+        {
+          "s": "BETH",
+          "t": "Yes.",
+          "q": [
+            28
+          ],
+          "start": 356.19,
+          "end": 356.67
+        },
+        {
+          "s": "BETH",
+          "t": "Just headings for different sections, at this stage.",
+          "start": 357.23,
+          "end": 359.67
+        },
+        {
+          "s": "BETH",
+          "t": "And then you should start looking for suitable articles and books to draw on, and take notes which you organise according to those headings.",
+          "q": [
+            29
+          ],
+          "start": 360.35,
+          "end": 367.74
+        },
+        {
+          "s": "JAMES",
+          "t": "I see.",
+          "start": 367.82,
+          "end": 368.42
+        },
+        {
+          "s": "BETH",
+          "t": "Then put short phrases and sentences as bullet points under each heading.",
+          "q": [
+            30
+          ],
+          "start": 369.22,
+          "end": 372.98
+        },
+        {
+          "s": "BETH",
+          "t": "Make sure that this skeleton makes sense and flows properly, before writing up the paper in full.",
+          "start": 373.18,
+          "end": 379.49
+        },
+        {
+          "s": "JAMES",
+          "t": "OK.",
+          "start": 379.61,
+          "end": 379.93
+        },
+        {
+          "s": "JAMES",
+          "t": "Thanks, that's very helpful.",
+          "start": 380.93,
+          "end": 382.65
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c12/t2p4.mp3",
+      "duration": 517,
+      "title": "Conflict at work",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Conflict at work",
+          "lines": [
+            "Conflict mostly consists of behaviour in the general category of {{31}}",
+            "Often a result of people wanting to prove their {{32}}",
+            "Also caused by differences in {{33}} between people",
+            "'{{34}}' conflicts: people more concerned about own team than about company",
+            "Conflict-related stress can cause {{35}} that may last for months",
+            "## Chief Executives (CEOs)",
+            "Many have both {{36}} and anxiety",
+            "May not like to have their decisions questioned",
+            "There may be conflict between people who have different {{37}}",
+            "## Other managers",
+            "A structure that is more {{38}} may create a feeling of uncertainty about who staff should report to.",
+            "## Minimising conflict",
+            "Bosses need to try hard to gain {{39}}",
+            "Someone from outside the company may be given the role of {{40}} in order to resolve conflicts."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Over the years, attitudes towards workers have changed considerably.",
+          "start": 74.66,
+          "end": 79.58
+        },
+        {
+          "s": "SPEAKER",
+          "t": "After all, there was a time when workers had no rights at all, and laboured in appalling conditions.",
+          "start": 80.18,
+          "end": 88.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Conditions have improved a lot, but conflict in the workplace is still common.",
+          "start": 88.63,
+          "end": 95.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And human resources managers nowadays need to be able to deal with it when necessary.",
+          "start": 96.81,
+          "end": 103.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What is conflict in the workplace?",
+          "start": 104.65,
+          "end": 107.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Definitions vary, but I'm taking it to refer to a whole range of behaviours that the victim finds unacceptable, from minor, harmless arguments to - at the opposite extreme - physical violence.",
+          "start": 108.4,
+          "end": 125.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Much of this is covered by the term bullying, by which I mean one or more people behaving abusively or aggressively against another who is in a weaker position.",
+          "q": [
+            31
+          ],
+          "start": 126.16,
+          "end": 141.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Although all behaviour like this is a form of conflict, not all conflict can be described in these terms.",
+          "start": 142.68,
+          "end": 150.64
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As with all human behaviour, there are numerous reasons for it.",
+          "start": 152.53,
+          "end": 157.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But often it's caused by someone who feels the need to show their superiority over someone else, in order to feel that they aren't at the lowest level in a hierarchy or a group of people.",
+          "q": [
+            32
+          ],
+          "start": 157.93,
+          "end": 172.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In some cases one person simply dislikes the other, on the basis that the personality of one is in some way incompatible with that of the other person.",
+          "q": [
+            33
+          ],
+          "start": 174.47,
+          "end": 187.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A general habit of optimism in one person could make them intolerant of a colleague who's constantly pessimistic - not that that justifies treating them badly, of course.",
+          "start": 189.45,
+          "end": 203.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some conflicts arise when people are more interested in promoting themselves and their team than in the company as a whole.",
+          "start": 204.84,
+          "end": 214.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These conflicts are called 'structural', and could come about, for example, when a sales team believe they are the only people in the business who do any useful work, and look down on behind-the-scenes administrators.",
+          "q": [
+            34
+          ],
+          "start": 215.5,
+          "end": 233.67
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Conflict obviously affects the individuals concerned - the situation is likely to be very stressful for victims, resulting in their absence from work, possibly for months.",
+          "q": [
+            35
+          ],
+          "start": 235.14,
+          "end": 250.02
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For the company, if no effort is made to deal with conflict, it can spiral out of control, and even lead to the breakdown of the business.",
+          "start": 250.02,
+          "end": 262.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some interesting work with chief executives - CEOs - has uncovered some of the reasons why they may treat colleagues badly.",
+          "start": 267.73,
+          "end": 277.97
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Many CEOs combine two opposing characteristics: confidence - that is, the belief that they're capable of great achievements - with a high level of anxiety, a fear of missing targets, whether set by themselves or by the directors of the company.",
+          "q": [
+            36
+          ],
+          "start": 279.23,
+          "end": 302.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This combination can make them respond badly to anyone who questions their decisions.",
+          "start": 303.48,
+          "end": 310.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In a high pressure work environment, such characteristics become problematic.",
+          "start": 311.79,
+          "end": 317.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And it's particularly difficult to tackle the situation where colleagues, managers and board members are all trying to achieve their own visions.",
+          "q": [
+            37
+          ],
+          "start": 318.43,
+          "end": 330.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When they can't agree on strategic issues and on where they see the business going, there are real problems.",
+          "start": 332.29,
+          "end": 339.97
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For managers at lower levels within the organisation, it might seem that an autocratic form of management - where the chief executive gives orders and everyone else has to obey - would see more conflict than others.",
+          "start": 341.47,
+          "end": 358.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Interestingly, though, a company with a more democratic business model, can suffer more, when uncertainty about who to report to leads to conflicting demands.",
+          "q": [
+            38
+          ],
+          "start": 358.71,
+          "end": 375.13
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now I'll say a little about dealing with the type of conflict that has harmful effects.",
+          "start": 377.44,
+          "end": 384.12
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Of course the ideal is to prevent it arising in the first place.",
+          "start": 385.12,
+          "end": 390.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A good manager, at any level, will make efforts to earn the respect of the people they work with, particularly those who report to them.",
+          "q": [
+            39
+          ],
+          "start": 390.97,
+          "end": 402.33
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That will involve politeness in all communications, and treating them as equals who happen to have a different role within the organisation.",
+          "start": 403.38,
+          "end": 412.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Sometimes, of course, conflict does occur, and can get out of hand.",
+          "start": 415.17,
+          "end": 420.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In such cases the human resources department often gets involved.",
+          "start": 421.69,
+          "end": 426.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, if one of the parties in a conflict sees human resources as simply a mouthpiece for the chief executive, then an external mediator might be able to help.",
+          "q": [
+            40
+          ],
+          "start": 427.8,
+          "end": 442.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "By talking to both sides, and trying to find the truth of what's been happening, they can build a clear picture of the situation, and give feedback that both sides will accept, precisely because they're independent.",
+          "start": 443.24,
+          "end": 461.76
+        }
+      ]
+    }
+  ]
+}

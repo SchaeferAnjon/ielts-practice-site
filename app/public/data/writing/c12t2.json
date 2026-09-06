@@ -1,0 +1,44 @@
+{
+  "id": "c12t2",
+  "book": "剑桥雅思12",
+  "test": 2,
+  "title": "剑12 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "map",
+      "kindZh": "地图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The maps below show the centre of a small town called Islip as it is now, and plans for its development.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c12t2-task1.webp",
+      "imageCaption": "Islip town centre now, and planned development",
+      "sample": {
+        "band": 7,
+        "text": "The two maps of the centre of the towns of Islip give information about the city currently and in the future. Overall, a lot of modifications can be observed during the forecast development.\n\nFirst of all, according to the current map the centre is close to a countryside. A main road deserves houses, a school, several shops and a park.\n\nLooking more closely at the map predicting the future development of the city, a lot of modifications can be observed. The size of the centre will increase in an oval shape; therefore the countryside will disappear. Moreover, the single road will be replaced by a bigger dual carriageway. A pedestrian way will deserve the central area. New houses will be built with new facilities such as a bus station and a parking. The shops will be grouped in a shopping mall. The next point is the garden area which will be smaller. As the city will have more people the school will be bigger.\n\nTo sum up, between the actual map of Islip town centre and the future planned development, a lot of modifications are predicted. On the one hand the city will be bigger with more facilities. On the other hand the park will be reduced and the countryside will disappear. The city will have changed a great deal.",
+        "comment": "The candidate covers all the key features and presents a clear overview of the developments planned. Information and ideas are logically organised and there is a clear progression throughout the response. A range of cohesive devices is used flexibly [currently / Overall / First of all / therefore / Moreover / The next point / To sum up]. Lexical choice shows flexibility and precision, and includes less common items [modifications / predicting / grouped in a shopping mall], though there is some inappropriate word choice [deserves]. A range of grammatical structures is used flexibly and accurately and error-free sentences are frequent."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "advantage-disadvantage",
+      "kindZh": "利弊",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "At the present time, the population of some countries includes a relatively large number of young adults, compared with the number of older people.",
+        "Do the advantages of this situation outweigh the disadvantages?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 5,
+        "text": "Nowadays, the people of some countries that have the young people more than the old people. Some people thinks when their contries have the yonge people more than the old people will be good because, that could increases the population in the future. Another people thinks it not good due to some countries limit the population, if that have more young children, it will over limit. This essay will discuss the advantages and disadvantages about in some countries have the young people more than the old people.\n\nOne of advantages is increasing the population. In some countries support the family to have more children because that can increases the population in the future. For example, in Singapore, Philiphine and so on. What is more chancing to improve the educations as when they have a lot of young generation, the government could improve a good education. Also, they can develop the systems include the quilified teachers, the good atmosphere.\n\nOne of disadvantages is the place for study. If the young generation still a lot, the school will not enough for the study, the government should construct more school. Also, when they have the new schools, the teacher will not enough to teach them. The university should get more student to study about teaching education.\n\nAnother disadvantages is the quality of education. If the many students learn in the classroom, the teachers can not take care all. For instance, when they have a problem they will need some help from the teachers. Furthermore, when they grow up, the unemployee problem will happen because the company can not receive everybody to get a job.\n\nIn conclusion, in some countries that have the young population more than the old population, the government should manage the education system. Moreover, they should prepare the plans for sloving unemployee problems which can happen in the future.",
+        "comment": "The response looks at some advantages and disadvantages of the topic, but does not reach any conclusion. As a result, there is a lack of overall progression, although organisation is evident and cohesive devices are used (though rather mechanically) [One of advantages / For example / Also / Another disadvantage / For instance]. The range of lexis is adequate for the task, however there are often spelling mistakes [contries / yonge / quilified] and errors in word choice or formation [chancing to improve / unemployee problem]. There are attempts to produce complex sentence forms, but there is a lack of grammatical control which can cause some difficulty for the reader [... due to some countries limit the population, if that have more young children it will over limit]."
+      }
+    }
+  ]
+}
