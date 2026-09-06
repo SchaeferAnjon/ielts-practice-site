@@ -1,0 +1,74 @@
+{
+  "id": "c10t1",
+  "book": "剑桥雅思10",
+  "test": 1,
+  "title": "剑10 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "pie-chart",
+      "kindZh": "饼图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The first chart below shows how energy is used in an average Australian household. The second chart shows the greenhouse gas emissions which result from this energy use.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c10t1-task1.webp",
+      "imageCaption": "Australian household energy use, and the greenhouse gas emissions which result from this energy use",
+      "data": {
+        "unit": "%",
+        "years": [
+          "water heating",
+          "heating",
+          "refrigeration",
+          "other appliances",
+          "cooling",
+          "lighting"
+        ],
+        "series": {
+          "Energy use": [
+            30,
+            42,
+            7,
+            15,
+            2,
+            4
+          ],
+          "Greenhouse gas emissions": [
+            32,
+            15,
+            14,
+            28,
+            3,
+            8
+          ]
+        }
+      },
+      "sample": {
+        "band": 4.5,
+        "text": "This chart shows the energy comsuption of an average Australian household and how propotion of emitting greenhouse gas in each type of active.\n\nFirst, the most bigger different informations are using heating and other appliances, relate to 42% and 15%, but they going up side down in gas emittions, which is 15% and 28%.\n\nSecondly, using energy of lighting and refrigeration are similar change in greenhouse gas emittions. The former using 4% energy and produce double number of emittions to 8%. The latter have the same situation about 7% in using energy but emit 14% greenhouse gas.\n\nThe last two parts of things are water heating which is second large source of using energy and the smallest cumsuming energy one - cooling. Indeed, there are just a marginally change in greenhouse gas emittions which grow from 30% to 32% and rise from 2% to 3%.",
+        "comment": "The response generally addresses the requirements of the task but there is no clear overview. Key features of the two pie charts are presented but not adequately covered, and there is a tendency to focus on details without referring to the bigger picture. Organisation is evident. The relationship of ideas can be followed (and, First, but, Secondly, The former, The latter) but the sentences are not fluently linked to each other. Vocabulary is limited but just adequate for the task. Simple vocabulary is used accurately but the range does not allow much variation in expression. There are noticeable errors in spelling, though these do not cause strain. A limited range of grammatical structures is used; subordinate clauses are rare and most sentences are simple. Even simple sentences often contain errors (The latter have), so grammatical errors are frequent and can cause severe strain for the reader. Control over sentence formation is weak."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "two-part",
+      "kindZh": "双问题",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Present a written argument or case to an educated reader with no specialist knowledge of the following topic.",
+        "It is important for children to learn the difference between right and wrong at an early age. Punishment is necessary to help them learn this distinction.",
+        "To what extent do you agree or disagree with this opinion?",
+        "What sort of punishment should parents and teachers be allowed to use to teach good behaviour to children?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "One important stage in a child's growth is certainly the development of a conscience, which is linked to the ability to tell right from wrong. This skill comes with time and good parenting, and my firm conviction is that punishment does not have much of a role to play in this. Therefore I have to disagree almost entirely with the given statement.\n\nTo some extent the question depends on the age of the child. To punish a very young child is both wrong and foolish, as an infant will not understand what is happening or why he or she is being punished. Once the age of reason is reached however, a child can be rewarded for good behaviour and discouraged from bad. This kind but firm approach will achieve more than harsh punishments, which might entail many negative consequences unintended by the parents.\n\nTo help a child learn the difference between right and wrong, teachers and parents should firstly provide good role modelling in their own behaviour. After that, if sanctions are needed, the punishment should not be of a physical nature, as that merely sends the message that it is acceptable for larger people to hit smaller ones - an outcome which may well result in the child starting to bully others. Nor should the punishment be in any way cruel.\n\nRather, teachers and parents can use a variety of methods to discipline their young charges, such as detention, withdrawal of privileges, and time-out. Making the punishment fit the crime is a useful notion, which would see children being made to pick up rubbish they have dropped, clean up graffiti they have drawn, or apologise to someone they have hurt. In these ways responsibility is developed in the child, which leads to much better future behaviour than does punishment.",
+        "comment": "本书原文说明：此篇 Task 2 范文标注为 MODEL ANSWER，由考官撰写，作为该题众多可能写法中的一种示范（\"This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches.\"），与其余各套 Task 1/Task 2 的 SAMPLE ANSWER（真实考生答卷）不同，书中并未给出针对这篇范文的具体考官评语或分项评分。"
+      }
+    }
+  ]
+}

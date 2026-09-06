@@ -1,0 +1,1433 @@
+{
+  "id": "c10t1",
+  "book": "剑桥雅思10",
+  "test": 1,
+  "title": "剑10 Test 1 · Listening",
+  "source": "Cambridge IELTS 10 Academic, Test 1（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "Ardleigh"
+    ],
+    "2": [
+      "newspaper"
+    ],
+    "3": [
+      "theme"
+    ],
+    "4": [
+      "tent"
+    ],
+    "5": [
+      "castle"
+    ],
+    "6": [
+      "beach",
+      "beaches"
+    ],
+    "7": [
+      "2020"
+    ],
+    "8": [
+      "flight"
+    ],
+    "9": [
+      "429"
+    ],
+    "10": [
+      "dinner"
+    ],
+    "11": [
+      "A",
+      "C"
+    ],
+    "12": [
+      "A",
+      "C"
+    ],
+    "13": [
+      "health problems"
+    ],
+    "14": [
+      "safety rules"
+    ],
+    "15": [
+      "plan"
+    ],
+    "16": [
+      "joining"
+    ],
+    "17": [
+      "free entry"
+    ],
+    "18": [
+      "peak"
+    ],
+    "19": [
+      "guests"
+    ],
+    "20": [
+      "photo card",
+      "photo cards"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "A"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "presentation"
+    ],
+    "27": [
+      "model"
+    ],
+    "28": [
+      "material",
+      "materials"
+    ],
+    "29": [
+      "grant"
+    ],
+    "30": [
+      "technical"
+    ],
+    "31": [
+      "gene"
+    ],
+    "32": [
+      "power",
+      "powers"
+    ],
+    "33": [
+      "strangers"
+    ],
+    "34": [
+      "erosion"
+    ],
+    "35": [
+      "islands"
+    ],
+    "36": [
+      "roads"
+    ],
+    "37": [
+      "fishing"
+    ],
+    "38": [
+      "reproduction"
+    ],
+    "39": [
+      "method",
+      "methods"
+    ],
+    "40": [
+      "expansion"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c10/t1p1.mp3",
+      "duration": 0,
+      "title": "Self-drive Tours in the USA",
+      "groups": [
+        {
+          "range": [
+            1,
+            6
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD for each answer.",
+          "title": "Self-drive tours in the USA",
+          "lines": [
+            "Name: Andrea Brown",
+            "Address: 24, {{1}} Road",
+            "Postcode: BH5 20P",
+            "Phone: (mobile) 07786 643091",
+            "Heard about company from: {{2}}",
+            "## Possible self-drive tours",
+            "Trip One:",
+            "- Los Angeles: customer wants to visit some {{3}} parks with her children",
+            "- Yosemite Park: customer wants to stay in a lodge, not a {{4}}",
+            "Trip Two:",
+            "- Customer wants to see the {{5}} on the way to Cambria",
+            "- At Santa Monica: not interested in shopping",
+            "- At San Diego, wants to spend time on the {{6}}"
+          ]
+        },
+        {
+          "range": [
+            7,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Trip costs",
+          "table": {
+            "head": [
+              "",
+              "Number of days",
+              "Total distance",
+              "Price (per person)",
+              "Includes"
+            ],
+            "rows": [
+              [
+                "Trip One",
+                "12 days",
+                "{{7}} km",
+                "£525",
+                "accommodation\ncar\none {{8}}"
+              ],
+              [
+                "Trip Two",
+                "9 days",
+                "980 km",
+                "£{{9}}",
+                "accommodation\ncar\n{{10}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Good morning."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "World Tours."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "My name is Jamie."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "How can I help you?"
+        },
+        {
+          "s": "ANDREA",
+          "t": "Good morning."
+        },
+        {
+          "s": "ANDREA",
+          "t": "I want some information on self-drive tours in the USA."
+        },
+        {
+          "s": "ANDREA",
+          "t": "Could you send me a brochure?"
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Of course."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Could I have your name please?"
+        },
+        {
+          "s": "ANDREA",
+          "t": "Andrea Brown."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Thank you."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "And your address?"
+        },
+        {
+          "s": "ANDREA",
+          "t": "24, Ardleigh Road.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Can you spell that?"
+        },
+        {
+          "s": "ANDREA",
+          "t": "A-R-D-L-E-l-G-H Road."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Postcode?"
+        },
+        {
+          "s": "ANDREA",
+          "t": "B H 520P"
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Thanks."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "And can I have your phone number?"
+        },
+        {
+          "s": "ANDREA",
+          "t": "Is a mobile alright?"
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Fine."
+        },
+        {
+          "s": "ANDREA",
+          "t": "It's 07786643091."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Thank you."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "And can I ask you where you heard about World Tours?"
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "From a friend?"
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Or did you see an advert somewhere?"
+        },
+        {
+          "s": "ANDREA",
+          "t": "No, I read about you in the newspaper.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "OK, I'll get the brochures in the post to you but can I give you some information over the phone."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "What kinds of things do you want to do on your holiday?"
+        },
+        {
+          "s": "ANDREA",
+          "t": "i'm interested in going to California with my family."
+        },
+        {
+          "s": "ANDREA",
+          "t": "I've got two children and we want to hire a car."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "OK."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "We have a couple of self-drive tours there visiting different places of interest in California."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "The first one begins in Los Angeles and there's plenty of time to visit some of the theme parks there.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "ANDREA",
+          "t": "That's something on my children's list so I'd want to include that."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Good."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Then you drive to San Francisco."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "From San Francisco you can drive to Yosemite Park where you spend a couple of nights."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "You can choose to stay in a lodge or on the campsite."
+        },
+        {
+          "s": "ANDREA",
+          "t": "I don't like the idea of staying in a tent."
+        },
+        {
+          "s": "ANDREA",
+          "t": "It'd be too hot.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Right."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "And the tour ends in Las Vegas."
+        },
+        {
+          "s": "ANDREA",
+          "t": "OK."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "The other trip we can arrange is slightly different."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "It starts in San Francisco."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Then you drive south to Cambria."
+        },
+        {
+          "s": "ANDREA",
+          "t": "Someone told me there's a really nice castle near Cambria."
+        },
+        {
+          "s": "ANDREA",
+          "t": "Will we go near that?",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Hearst Castle is on that road so you could stop there."
+        },
+        {
+          "s": "ANDREA",
+          "t": "Good."
+        },
+        {
+          "s": "ANDREA",
+          "t": "I'd like to do that."
+        },
+        {
+          "s": "ANDREA",
+          "t": "Does this trip also go into the desert?"
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "No, it continues to Santa Monica where most people like to stop and do some shopping."
+        },
+        {
+          "s": "ANDREA",
+          "t": "We have enough of that at home so that doesn't interest us."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "OK."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Well you could go straight on to San Diego."
+        },
+        {
+          "s": "ANDREA",
+          "t": "That's good for beaches isn't it?",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "That's right, that's a good place to relax and your children might like to visit the zoo before flying home."
+        },
+        {
+          "s": "ANDREA",
+          "t": "I don't think so."
+        },
+        {
+          "s": "ANDREA",
+          "t": "We want some time for sunbathing and swimming."
+        },
+        {
+          "s": "ANDREA",
+          "t": "So how many days are the trips and how much do they cost?"
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "The first one I told you about is a self-drive tour through California which lasts twelve days and covers 2,020 kilometres."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "The shortest journey is 206 km and the longest is 632 kilometres.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "The cost is £525 per person."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "That includes accommodation, car rental and a flight but no meals.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "ANDREA",
+          "t": "OK."
+        },
+        {
+          "s": "ANDREA",
+          "t": "And the other trip?"
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "That lasts nine days but you spend only three days on the road."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "You cover about 980 kilometres altogether."
+        },
+        {
+          "s": "ANDREA",
+          "t": "So is that cheaper then?"
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Yes, it's almost a hundred pounds cheaper."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "It's £429 per person, which is a good deal.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "ANDREA",
+          "t": "So that covers accommodation and car hire."
+        },
+        {
+          "s": "ANDREA",
+          "t": "What about flights?"
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "They aren't included."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "But these hotels offer dinner in the price.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "ANDREA",
+          "t": "OK."
+        },
+        {
+          "s": "ANDREA",
+          "t": "Well, thank you very much."
+        },
+        {
+          "s": "ANDREA",
+          "t": "I'll be in touch when I've had a chance to look at the brochure."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "I'm pleased to help."
+        },
+        {
+          "s": "TRAVEL AGENT",
+          "t": "Goodbye."
+        },
+        {
+          "s": "ANDREA",
+          "t": "Goodbye."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c10/t1p2.mp3",
+      "duration": 0,
+      "title": "Joining the Leisure Club",
+      "groups": [
+        {
+          "range": [
+            11,
+            12
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO facilities at the leisure club have recently been improved?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "the gym"
+            },
+            {
+              "k": "B",
+              "text": "the tracks"
+            },
+            {
+              "k": "C",
+              "text": "the indoor pool"
+            },
+            {
+              "k": "D",
+              "text": "the outdoor pool"
+            },
+            {
+              "k": "E",
+              "text": "the sports training for children"
+            }
+          ]
+        },
+        {
+          "range": [
+            13,
+            20
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Joining the leisure club",
+          "lines": [
+            "## Personal Assessment",
+            "- New members should describe any {{13}}.",
+            "- The {{14}} will be explained to you before you use the equipment.",
+            "- You will be given a six-week {{15}}.",
+            "## Types of membership",
+            "- There is a compulsory £90 {{16}} fee for members.",
+            "- Gold members are given {{17}} to all the LP clubs.",
+            "- Premier members are given priority during {{18}} hours.",
+            "- Premier members can bring some {{19}} every month.",
+            "- Members should always take their {{20}} with them."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "On behalf of LP Clubs, I'd like to welcome you all here today."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "My name's Sandy Fisher and I'm one of the fitness managers here."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Before we start our tour of the club I'll just run through some basic information about the facilities we have here, including recent improvements, and explain the types of membership available."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our greatest asset is probably our swimming pool which at 25 metres isn't Olympic-sized. but now we've expanded it to eight lanes, it's much wider.",
+          "q": [
+            11,
+            12
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This means there are rarely more than a couple of people at a time in each lane."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Unfortunately, there isn't space for an outdoor pool here but the glass roof on the swimming pool is partly retractable, which means you can enjoy something of the open-air experience on warmer days."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our recently refurbished fitness suite has all the latest exercise equipment including ten new running machines, and a wide range of weight-training machines.",
+          "q": [
+            11,
+            12
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Each member is given full training in how to operate the equipment and there is always a trainer on duty to offer help and advice."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Although we do have adult-only times after 6 and at certain times at weekends, children are well catered for."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Older children continue to benefit from a wide range of tuition; anything from trampolining to yoga."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One thing all our members appreciate about us is that we take very good care of them."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This starts on day one with your personal assessment."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You are asked to fill in a questionnaire giving details of any health problems."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One of our personal trainers will then go through this with you.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The trainer will then take you through the safety rules for using the equipment in the fitness suite.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "During your next exercise session a personal trainer will work with you to make sure you understand these."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's very important to do this because we really do want to avoid having any sports injuries."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's a lot more to looking after yourself than simply lifting weights!"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At the end of the personal assessment, the trainer will draw up a plan, outlining what you should try to achieve within a six-week period.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This will then be reviewed at the end of the six weeks."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, I'll just quickly run through the types of membership we have available."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "All members must pay a joining fee of £90 in addition to the rates for the monthly membership fees.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Gold membership entitles you to free entry at all LP Clubs."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are now LP clubs in all major cities and towns so if you travel a lot this will be a great advantage.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Individual gold membership costs £50 a month and joint membership for you and your partner will cost £75."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Premier membership is for professional people whose work commitments make it difficult for them to use the club during the day and so LP gives booking preferences to Premier members at peak times.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This means you will find it easier to book the sessions at times that suit you."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Reciprocal arrangements with other LP Clubs are available to Premier members."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Premier membership is for individuals only, but you will be sent passes for guests every month.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The monthly fee is £65."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You don't have to have any special clothes or equipment when you visit the club."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We provide robes and hairdryers in the changing rooms, but it's very important to remember your photo card because you won't be able to get in without it.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For people who aren't working during the day then ..."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c10/t1p3.mp3",
+      "duration": 0,
+      "title": "Global Design Competition",
+      "groups": [
+        {
+          "range": [
+            21,
+            25
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Global Design Competition",
+          "questions": [
+            {
+              "n": 21,
+              "text": "Students entering the design competition have to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "produce an energy-efficient design."
+                },
+                {
+                  "k": "B",
+                  "text": "adapt an existing energy-saving appliance."
+                },
+                {
+                  "k": "C",
+                  "text": "develop a new use for current technology."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "John chose a dishwasher because he wanted to make dishwashers",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "more appealing."
+                },
+                {
+                  "k": "B",
+                  "text": "more common."
+                },
+                {
+                  "k": "C",
+                  "text": "more economical."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "The stone in John's 'Rockpool' design is used",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "for decoration."
+                },
+                {
+                  "k": "B",
+                  "text": "to switch it on."
+                },
+                {
+                  "k": "C",
+                  "text": "to stop water escaping."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "In the holding chamber, the carbon dioxide",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "changes back to a gas."
+                },
+                {
+                  "k": "B",
+                  "text": "dries the dishes."
+                },
+                {
+                  "k": "C",
+                  "text": "is allowed to cool."
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "At the end of the cleaning process, the carbon dioxide",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "is released into the air."
+                },
+                {
+                  "k": "B",
+                  "text": "is disposed of with the waste."
+                },
+                {
+                  "k": "C",
+                  "text": "is collected ready to be re-used."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            26,
+            30
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "lines": [
+            "- John needs help preparing for his {{26}}.",
+            "- The professor advises John to make a {{27}} of his design.",
+            "- John's main problem is getting good quality {{28}}.",
+            "- The professor suggests John apply for a {{29}}.",
+            "- The professor will check the {{30}} information in John's written report."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "JOHN",
+          "t": "Erm ... hello Professor, I'm John Wishart."
+        },
+        {
+          "s": "JOHN",
+          "t": "I'm working on my entry for the Global Design Competition."
+        },
+        {
+          "s": "JOHN",
+          "t": "My tutor said you might be able to help me with it."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Ah, yes, I got a copy of your drawings."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Come in and tell me about it."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "What sort of competition is it?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Well, it's an international design competition and we have to come up with a new design for a typical domestic kitchen appliance.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "I see, and are there any special conditions?"
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Does it have to save energy for example?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Actually that was the focus in last year's competition."
+        },
+        {
+          "s": "JOHN",
+          "t": "This year's different."
+        },
+        {
+          "s": "JOHN",
+          "t": "We have to adopt an innovative approach to existing technology, using it in a way that hasn't been thought of before."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "I see, that sounds tricky."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "And what kitchen appliance have you chosen?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Well, I decided to choose the dishwasher."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Interesting, what made you choose that?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Well, they're an everyday kitchen appliance in most Australian houses but they're all pretty boring and almost identical to each other."
+        },
+        {
+          "s": "JOHN",
+          "t": "I think some people will be prepared to pay a little extra for something that looks different.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "That's a nice idea."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "I see you've called your design 'the Rockpool'；why is that?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Basically because it looks like the rock pools you find on a beach."
+        },
+        {
+          "s": "JOHN",
+          "t": "The top is made of glass so that you can look down into it."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "And there's a stone at the bottom."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Is that just for decoration?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Actually it does have a function."
+        },
+        {
+          "s": "JOHN",
+          "t": "Instead of pushing a button, you turn the stone.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "So it's really just a novel way of starting the dishwasher."
+        },
+        {
+          "s": "JOHN",
+          "t": "That's right."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "It's a really nice design, but what makes it innovative?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Well, I decided to make a dishwasher that uses carbon dioxide."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "In place of water and detergent?"
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "How will you manage that?"
+        },
+        {
+          "s": "JOHN",
+          "t": "The idea is to pressurise the carbon dioxide so that it becomes a liquid."
+        },
+        {
+          "s": "JOHN",
+          "t": "The fluid is then released into the dishwasher where it cleans the dishes all by itself."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Sounds like a brilliant idea!"
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Your system will totally do away with the need for strong detergents."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "So what happens once the dishes are clean?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Well, to allow them to dry, the liquid carbon dioxide and the waste materials all go to an area called the holding chamber."
+        },
+        {
+          "s": "JOHN",
+          "t": "That's where the liquid is depressurised and so it reverts to a gas.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "JOHN",
+          "t": "Then the oil and grease are separated out and sent to the waste system."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "It sounds like you've thought it all out very thoroughly."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "So, what happens to the carbon dioxide once the process is complete?"
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Not wasted I hope."
+        },
+        {
+          "s": "JOHN",
+          "t": "Actually, that's where the real savings are made."
+        },
+        {
+          "s": "JOHN",
+          "t": "The carbon dioxide is sent back to the cylinder and can be used again and again.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "What a terrific idea."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Do you think it will ever be built?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Probably not, but that's OK."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Well, I'm sure a lot of positive things will come out of your design."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Now, you seem to have thought about everything so what exactly did you need me to help you with?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Well, my design has made it to the final stage of the competition and, in a few months' time.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "JOHN",
+          "t": "I have to give a presentation, and that's the part I was hoping you could help me with."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Right, well that should be easy enough."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "What have you managed to do so far?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Well, I've got detailed drawings to show how it will work and I've also written a 500-word paper on it."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "I see."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Well, if you want to stand a good chance of winning you really need a model of the machine.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "JOHN",
+          "t": "Yes, I thought I might but I'm having a few problems."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "What is the main difficulty so far?"
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Let me guess - is it the materials?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Yes."
+        },
+        {
+          "s": "JOHN",
+          "t": "I want it to look professional but everything that's top quality is also very expensive.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Look, projects like this are very important to us."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "They really help lift our profile."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "So why don't you talk to the university about a grant?"
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "I can help you fill out the application forms if you like.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "JOHN",
+          "t": "That would be great."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "You'd better show me this paper you've written as well."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "For a global competition such as this you need to make sure the technical details you've given are accurate and thorough.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "JOHN",
+          "t": "That would be a great help."
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Is there anything else I can do?"
+        },
+        {
+          "s": "JOHN",
+          "t": "Well, I'm really ..."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c10/t1p4.mp3",
+      "duration": 0,
+      "title": "The Spirit Bear",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "The Spirit Bear",
+          "lines": [
+            "## General facts",
+            "- It is a white bear belonging to the black bear family.",
+            "- Its colour comes from an uncommon {{31}}.",
+            "- Local people believe that it has unusual {{32}}.",
+            "- They protect the bear from {{33}}.",
+            "## Habitat",
+            "- The bear's relationship with the forest is complex.",
+            "- Tree roots stop {{34}} along salmon streams.",
+            "- The bears' feeding habits provide nutrients for forest vegetation.",
+            "- It is currently found on a small number of {{35}}.",
+            "## Threats",
+            "- Habitat is being lost due to deforestation and construction of {{36}} by logging companies.",
+            "- Unrestricted {{37}} is affecting the salmon supply.",
+            "- The bears' existence is also threatened by their low rate of {{38}}.",
+            "## Going forward",
+            "- Interested parties are working together.",
+            "- Logging companies must improve their {{39}} of logging.",
+            "- Maintenance and {{40}} of the spirit bears' territory is needed."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Today we continue our series on ecology and conservation with a look at a particularly endangered member of the black bear family."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One in ten black bears is actually born with a white coat, which is the result of a special gene that surfaces in a few.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Local people have named it 'the spirit bear'."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And according to the legends of these communities, its snowy fur brings with it a special power.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Because of this, it has always been highly regarded by them 一 so much that they do not speak of seeing it to anyone else."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It is their way of protecting it when strangers visit the area.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The white bear's habitat is quite interesting."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The bear's strong relationship with the old-growth rainforest is a complex one."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The white bear relies on the huge centuries-old trees in the forest in many ways."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example, the old-growth trees have extremely long roots that help prevent erosion of the soil along the banks of the many fish streams.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Keeping these banks intact is important because these streams are home to salmon, which are the bear's main food source."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In return, the bear's feeding habits nurture the forest."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As the bears eat the salmon, they discard the skin and bones in great amounts on the forest floor, which provide vital nutrients."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These produce lush vegetation that sustains thousands of other types of life forms, from birds to insects and more."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Today, the spirit bear lives off the coast of the province of British Columbia on a few islands.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There is great concern for their survival since it is estimated that less than two hundred of these white bears remain."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The best way to protect them is to make every effort to preserve the delicate balance of their forest environment - in other words, their ecosystem."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The greatest threat to the bear's existence is the loss of its habitat."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Over many years, logging companies have stripped the land by cutting down a large number of trees."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In addition, they have built roads which have fractured the areas where the bear usually feeds, and many hibernation sites have also been lost.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The logging of the trees along the streams has damaged the places where the bears fish."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "To make matters worse, the number of salmon in those streams is declining because there is no legal limit on fishing at the moment.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "All these influences have a negative impact on the spirit bear's very existence, which is made all the more fragile by the fact that reproduction among these bears has always been disappointingly low.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And so, what's the situation going forward?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Community organizations, environmental groups and the British Columbia government are now working together on the problem."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The government is now requiring logging companies to adopt a better logging method, which is a positive step.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, these measures alone may not be sufficient to ensure a healthy population of the spirit bear in the future."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Other steps also need to be taken."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "While it is important to maintain the spirit bear's habitat, there also needs to be more emphasis on its expansion."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The move is justified as it will also create space for other bears that are losing their homes ...",
+          "q": [
+            40
+          ]
+        }
+      ]
+    }
+  ]
+}
