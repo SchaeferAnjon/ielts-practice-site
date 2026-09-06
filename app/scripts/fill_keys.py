@@ -20,19 +20,28 @@ def sentences(text: str) -> list[str]:
 def main() -> None:
     p = Path(sys.argv[1])
     d = json.loads(p.read_text(encoding="utf-8"))
-    paras = {x["id"]: x["text"] for ps in d["passages"] for x in ps["paragraphs"]}
-    passage_of = {x["id"]: ps for ps in d["passages"] for x in ps["paragraphs"]}
+    # 段落 id 可能在不同 passage 里重复（都叫 p1…），按题号先定位到所属 passage 再找段落
+    def passage_for(n: int):
+        for ps in d["passages"]:
+            for g in ps.get("groups", []):
+                if g["range"][0] <= n <= g["range"][1]:
+                    return ps
+        return None
+
     filled = unresolved = 0
     for n, ex in d.get("explain", {}).items():
         hint = ex.pop("keyHint", None)
         if not hint or ex.get("key"):
             continue
         words = [w.lower()[:5] for w in re.findall(r"[A-Za-z0-9']+", hint) if len(w) > 2]
+        ps = passage_for(int(n))
+        paras = {x["id"]: x["text"] for x in (ps["paragraphs"] if ps else [])}
         pools = []
         if ex.get("loc") in paras:
             pools.append(paras[ex["loc"]])
-            pools.append(" ".join(x["text"] for x in passage_of[ex["loc"]]["paragraphs"]))
-        pools.append(" ".join(paras.values()))
+        if ps:
+            pools.append(" ".join(x["text"] for x in ps["paragraphs"]))
+        pools.append(" ".join(x["text"] for p2 in d["passages"] for x in p2["paragraphs"]))
         best, best_score = "", 0
         for pool in pools:
             for s in sentences(pool):

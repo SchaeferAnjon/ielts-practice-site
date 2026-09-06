@@ -1,0 +1,1649 @@
+{
+  "id": "c11t1",
+  "book": "剑桥雅思11",
+  "test": 1,
+  "title": "剑11 Test 1 · Listening",
+  "source": "Cambridge IELTS 11 Academic, Test 1（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "Charlton"
+    ],
+    "2": [
+      "115",
+      "one hundred and fifteen",
+      "one hundred (and) fifteen",
+      "£115"
+    ],
+    "3": [
+      "cash"
+    ],
+    "4": [
+      "parking"
+    ],
+    "5": [
+      "music"
+    ],
+    "6": [
+      "entry"
+    ],
+    "7": [
+      "stage"
+    ],
+    "8": [
+      "code"
+    ],
+    "9": [
+      "floor",
+      "floors"
+    ],
+    "10": [
+      "decoration",
+      "decorations"
+    ],
+    "11": [
+      "animal",
+      "animals"
+    ],
+    "12": [
+      "tool",
+      "tools"
+    ],
+    "13": [
+      "shoes"
+    ],
+    "14": [
+      "dog",
+      "dogs"
+    ],
+    "15": [
+      "F"
+    ],
+    "16": [
+      "G"
+    ],
+    "17": [
+      "D"
+    ],
+    "18": [
+      "H"
+    ],
+    "19": [
+      "C"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "B"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "C"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "B"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "A"
+    ],
+    "31": [
+      "conservation"
+    ],
+    "32": [
+      "food",
+      "foods"
+    ],
+    "33": [
+      "surface"
+    ],
+    "34": [
+      "oxygen",
+      "O2"
+    ],
+    "35": [
+      "mammals"
+    ],
+    "36": [
+      "ice"
+    ],
+    "37": [
+      "decline",
+      "declining",
+      "decrease"
+    ],
+    "38": [
+      "map"
+    ],
+    "39": [
+      "migration"
+    ],
+    "40": [
+      "consumption"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c11/t1p1.mp3",
+      "duration": 578,
+      "title": "Hiring a Public Room",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "HIRING A PUBLIC ROOM",
+          "lines": [
+            "## Example",
+            "the Main Hall – seats 200",
+            "## Room and cost",
+            "the {{1}} Room – seats 100",
+            "Cost of Main Hall for Saturday evening: {{2}} £",
+            "+ £250 deposit ({{3}} payment is required)",
+            "Cost includes use of tables and chairs and also {{4}}",
+            "Additional charge for use of the kitchen: £25",
+            "## Before the event",
+            "Will need a {{5}} licence",
+            "Need to contact caretaker (Mr Evans) in advance to arrange {{6}}",
+            "## During the event",
+            "The building is no smoking",
+            "The band should use the {{7}} door at the back",
+            "Don't touch the system that controls the volume",
+            "For microphones, contact the caretaker",
+            "## After the event",
+            "Need to know the {{8}} for the cleaning cupboard",
+            "The {{9}} must be washed and rubbish placed in black bags",
+            "All {{10}} must be taken down",
+            "Chairs and tables must be piled up"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "OFFICIAL",
+          "t": "Hello?",
+          "start": 130.43,
+          "end": 131.39
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, hello. I wanted to enquire about hiring a room in the Village Hall, for the evening of September the first.",
+          "start": 131.39,
+          "end": 139.07
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "Let me just see... Yes, we have both rooms available that evening. There's our Main Hall - that's got seating for 200 people. Or there's the Charlton Room...",
+          "start": 139.67,
+          "end": 208.21
+        },
+        {
+          "s": "WOMAN",
+          "t": "Sorry?",
+          "start": 208.61,
+          "end": 209.37
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "The Charlton Room - C-H-A-R-L-T-O-N. That's got seating for up to one hundred.",
+          "q": [
+            1
+          ],
+          "start": 209.65,
+          "end": 219.25
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, we're organising a dinner to raise money for a charity, and we're hoping for at least 150 people, so I think we'll go for the Main Hall. How much would that cost?",
+          "start": 220.13,
+          "end": 235.12
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "Let's see. You wanted it for the evening of September 1st?",
+          "start": 235.92,
+          "end": 240.16
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, that's a Saturday.",
+          "start": 241.46,
+          "end": 242.98
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "So from six pm to midnight that'd be £115 - that's the weekend price, it's £75 on weekdays.",
+          "q": [
+            2
+          ],
+          "start": 243.22,
+          "end": 254.99
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's all right.",
+          "start": 255.07,
+          "end": 256.15
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "And I have to tell you there's also a deposit of £250, which is returnable of course as long as there's no damage. But we do insist that this is paid in cash, we don't take cards for that. You can pay the actual rent of the room however you like though - cash, credit card, cheque...",
+          "q": [
+            3
+          ],
+          "start": 257.39,
+          "end": 280.21
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, well I suppose that's OK. So does the charge include use of tables and chairs and so on?",
+          "start": 281.73,
+          "end": 289.53
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "Oh, yes.",
+          "start": 289.69,
+          "end": 290.45
+        },
+        {
+          "s": "WOMAN",
+          "t": "And what about parking?",
+          "start": 291.37,
+          "end": 293.09
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "Yeah, that's all included. The only thing that isn't included is... you said you were organising a dinner?",
+          "q": [
+            4
+          ],
+          "start": 293.77,
+          "end": 301.62
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yeah.",
+          "start": 302.26,
+          "end": 302.38
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "Well, you'll have to pay extra for the kitchen if you want to use that. It's £25. It's got very good facilities - good quality cookers and fridges and so on.",
+          "start": 302.62,
+          "end": 315.1
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK, well I suppose that's all right. We can cover the cost in our entry charges.",
+          "start": 315.38,
+          "end": 321.64
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "Right. So I'll make a note of that. Now there are just one or two things you need to think about before the event. For example, you'll have to see about getting a licence if you're planning to have any music during the meal.",
+          "q": [
+            5
+          ],
+          "start": 322.12,
+          "end": 338.46
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, really?",
+          "start": 338.62,
+          "end": 339.46
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "It's quite straightforward, I'll give you the details later on. And about a week or ten days before your event you'll need to contact the caretaker, that's Mr Evans, to make the arrangements for entry - he'll sort that out with you.",
+          "q": [
+            6
+          ],
+          "start": 339.82,
+          "end": 356.89
+        },
+        {
+          "s": "WOMAN",
+          "t": "And do I give him the payment as well?",
+          "start": 357.46,
+          "end": 359.9
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "No, you do that directly with me.",
+          "start": 360.06,
+          "end": 362.74
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right. Now is there anything I need to know about what happens during the event?",
+          "start": 401.93,
+          "end": 406.97
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "Well, as you'll be aware, of course the building is no smoking throughout.",
+          "start": 407.25,
+          "end": 412.77
+        },
+        {
+          "s": "WOMAN",
+          "t": "Of course.",
+          "start": 413.37,
+          "end": 413.77
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "Now, are you having a band?",
+          "start": 414.13,
+          "end": 415.85
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes.",
+          "start": 416.21,
+          "end": 416.97
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "Well, they'll have a lot of equipment, so rather than using the front door they should park their van round the back and use the stage door there. You can open that from inside but don't forget to lock it at the end.",
+          "q": [
+            7
+          ],
+          "start": 417.37,
+          "end": 432.02
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK.",
+          "start": 432.22,
+          "end": 433.38
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "And talking of bands, I'm sure I don't need to tell you this, but you must make sure that no one fiddles about with the black box by the fire door - that's a system that cuts in when the volume reaches a certain level. It's a legal requirement.",
+          "start": 433.54,
+          "end": 450.69
+        },
+        {
+          "s": "WOMAN",
+          "t": "Sure. Anyway, we want people to be able to talk to one another so we don't want anything too loud. Oh, that reminds me, we'll be having speeches - are there any microphones available?",
+          "start": 451.33,
+          "end": 465.11
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "Yeah. Just let the caretaker know, he'll get those for you. Right, now when the event is over we do ask that the premises are left in good condition. So there's a locked cupboard and you'll be informed of the code you need to open that. It's got all the cleaning equipment, brushes and detergent and so on.",
+          "q": [
+            8
+          ],
+          "start": 466.18,
+          "end": 488.77
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right. So what do we need to do after everyone's gone? Sweep the floors?",
+          "start": 489.49,
+          "end": 495.37
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "Well, actually they have to be washed, not just swept. Then you'll be provided with black plastic bags, so all the rubbish must be collected up and left outside the door.",
+          "q": [
+            9
+          ],
+          "start": 496.81,
+          "end": 508.95
+        },
+        {
+          "s": "WOMAN",
+          "t": "Of course. We'll make sure everything's left tidy. Oh, and I forgot to ask, can we have decorations in the room?",
+          "start": 509.23,
+          "end": 519.12
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "Yes, but you must take them down afterwards.",
+          "q": [
+            10
+          ],
+          "start": 519.28,
+          "end": 522.44
+        },
+        {
+          "s": "WOMAN",
+          "t": "Sure.",
+          "start": 522.72,
+          "end": 523.4
+        },
+        {
+          "s": "OFFICIAL",
+          "t": "And the chairs and tables should be stacked up neatly at the back of the room.",
+          "start": 523.93,
+          "end": 528.97
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'll make sure I've got a few people to help me.",
+          "start": 529.85,
+          "end": 532.45
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c11/t1p2.mp3",
+      "duration": 400,
+      "title": "Fiddy Working Heritage Farm",
+      "groups": [
+        {
+          "range": [
+            11,
+            14
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD for each answer.",
+          "title": "Fiddy Working Heritage Farm — Advice about visiting the farm",
+          "lines": [
+            "Visitors should",
+            "take care not to harm any {{11}}",
+            "not touch any {{12}}",
+            "wear {{13}}",
+            "not bring {{14}} into the farm, with certain exceptions"
+          ]
+        },
+        {
+          "range": [
+            15,
+            20
+          ],
+          "type": "matching",
+          "instruction": "Label the map below.",
+          "limit": "Write the correct letter, A–I, next to Questions 15–20. 原题为地图标注题，见原书第 13 页地图；此处以位置描述代替地图图像。",
+          "optionsTitle": "Locations on the map (A–I)",
+          "options": [
+            {
+              "k": "A",
+              "text": "on the Road at the top of the map, near the far left"
+            },
+            {
+              "k": "B",
+              "text": "in the Farm Yard, next to the farm buildings"
+            },
+            {
+              "k": "C",
+              "text": "by the arrow just before the bridge over the Fish Pool"
+            },
+            {
+              "k": "D",
+              "text": "on the Side Path, at the top of the loop, just after it branches off the Main Path"
+            },
+            {
+              "k": "E",
+              "text": "on the Side Path, below D, along the right-hand side of the field"
+            },
+            {
+              "k": "F",
+              "text": "in the Car Park, in the corner beside the Main Path"
+            },
+            {
+              "k": "G",
+              "text": "inside the field enclosed by the Main Path and Side Path"
+            },
+            {
+              "k": "H",
+              "text": "on the Side Path, near the bottom, close to the New Barn"
+            },
+            {
+              "k": "I",
+              "text": "inside the Car Park, near the middle, close to the Road"
+            }
+          ],
+          "itemsTitle": "Features",
+          "items": [
+            {
+              "n": 15,
+              "text": "Scarecrow"
+            },
+            {
+              "n": 16,
+              "text": "Maze"
+            },
+            {
+              "n": 17,
+              "text": "Cafe"
+            },
+            {
+              "n": 18,
+              "text": "Black Barn"
+            },
+            {
+              "n": 19,
+              "text": "Covered picnic area"
+            },
+            {
+              "n": 20,
+              "text": "Fiddy House"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Welcome to the Fiddy Working Heritage Farm.",
+          "start": 46.36,
+          "end": 48.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This open-air museum gives you the experience of agriculture and rural life in the English countryside at the end of the nineteenth century.",
+          "start": 49.68,
+          "end": 58.46
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So you'll see a typical farm of that period, and like me, all the staff are dressed in clothes of that time.",
+          "start": 59.42,
+          "end": 66.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I must give you some advice and safety tips before we go any further.",
+          "start": 67.82,
+          "end": 72.06
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As it's a working farm, please don't frighten or injure the animals.",
+          "start": 73.1,
+          "end": 77.3
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We have a lot here, and many of them are breeds that are now quite rare.",
+          "q": [
+            11
+          ],
+          "start": 78.13,
+          "end": 82.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And do stay at a safe distance from the tools: some of them have sharp points which can be pretty dangerous so please don't touch them.",
+          "q": [
+            12
+          ],
+          "start": 83.9,
+          "end": 93.3
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We don't want any accidents, do we?",
+          "start": 93.7,
+          "end": 95.54
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The ground is very uneven, and you might slip if you're wearing sandals so I'm glad to see you're all wearing shoes - we always advise people to do that.",
+          "q": [
+            13
+          ],
+          "start": 96.91,
+          "end": 107.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, children of all ages are very welcome here, and usually even very young children love the ducks and lambs, so do bring them along next time you come.",
+          "start": 109.71,
+          "end": 120.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I don't think any of you have brought dogs with you but in case you have, I'm afraid they'll have to stay in the car park unless they're guide dogs.",
+          "q": [
+            14
+          ],
+          "start": 121.94,
+          "end": 131.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm sure you'll understand that they could cause a lot of problems on a farm.",
+          "start": 132.28,
+          "end": 137.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now let me give you some idea of the layout of the farm.",
+          "start": 186.76,
+          "end": 189.92
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The building where you bought your tickets is the New Barn, immediately to your right, and we're now at the beginning of the main path to the farmland - and of course the car park is on your left.",
+          "start": 190.68,
+          "end": 203.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The scarecrow you can see in the car park in the corner, beside the main path, is a traditional figure for keeping the birds away from crops, but our scarecrow is a permanent sculpture.",
+          "q": [
+            15
+          ],
+          "start": 204.4,
+          "end": 217.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's taller than a human being, so you can see it from quite a distance.",
+          "start": 218.45,
+          "end": 222.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you look ahead of you, you'll see a maze.",
+          "start": 224.86,
+          "end": 227.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's opposite the New Barn, beside the side path that branches off to the right just over there.",
+          "q": [
+            16
+          ],
+          "start": 228.22,
+          "end": 234.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The maze is made out of hedges which are too tall for young children to see over them, but it's quite small, so you can't get lost in it!",
+          "start": 236.02,
+          "end": 245.3
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, can you see the bridge crossing the fish pool further up the main path?",
+          "start": 247.16,
+          "end": 251.64
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you want to go to the cafe, go towards the bridge and turn right just before it.",
+          "start": 252.56,
+          "end": 258.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Walk along the side path and the cafe's on the first bend you come to.",
+          "q": [
+            17
+          ],
+          "start": 259.48,
+          "end": 264.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The building was originally the schoolhouse, and it's well over a hundred years old.",
+          "start": 265.68,
+          "end": 271.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As you may know, we run skills workshops here, where you can learn traditional crafts like woodwork and basket-making.",
+          "start": 273.1,
+          "end": 281.34
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You can see examples of the work, and talk to someone about the courses, in the Black Barn.",
+          "start": 282.5,
+          "end": 288.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you take the side path to the right, here just by the New Barn, you'll come to the Black Barn just where the path first bends.",
+          "q": [
+            18
+          ],
+          "start": 290.06,
+          "end": 298.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now I mustn't forget to tell you about picnicking, as I can see some of you have brought your lunch with you.",
+          "start": 300.41,
+          "end": 307.13
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You can picnic in the field, though do clear up behind you, of course.",
+          "start": 308.05,
+          "end": 312.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Oh, if you'd prefer a covered picnic area there's one near the farmyard just after you cross the bridge, there's a covered picnic spot on the right.",
+          "q": [
+            19
+          ],
+          "start": 313.61,
+          "end": 323.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the last thing to mention is Fiddy House itself.",
+          "start": 324.63,
+          "end": 327.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "From here you can cross the bridge then walk along the footpath through the field to the left of the farmyard.",
+          "q": [
+            20
+          ],
+          "start": 329.27,
+          "end": 335.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That goes to the house, and it'll give you a lovely view of it.",
+          "start": 336.99,
+          "end": 340.99
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's certainly worth a few photographs, but as it's a private home, I'm afraid you can't go inside.",
+          "start": 341.79,
+          "end": 348.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Right, well, if you're all ready, we'll set off on our tour of the farm.",
+          "start": 349.76,
+          "end": 354.04
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c11/t1p3.mp3",
+      "duration": 492,
+      "title": "Study on Gender in Physics",
+      "groups": [
+        {
+          "range": [
+            21,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Study on Gender in Physics",
+          "questions": [
+            {
+              "n": 21,
+              "text": "The students in Akira Miyake's study were all majoring in",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "physics."
+                },
+                {
+                  "k": "B",
+                  "text": "psychology or physics."
+                },
+                {
+                  "k": "C",
+                  "text": "science, technology, engineering or mathematics."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "The aim of Miyake's study was to investigate",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "what kind of women choose to study physics."
+                },
+                {
+                  "k": "B",
+                  "text": "a way of improving women's performance in physics."
+                },
+                {
+                  "k": "C",
+                  "text": "whether fewer women than men study physics at college."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "The female physics students were wrong to believe that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the teachers marked them in an unfair way."
+                },
+                {
+                  "k": "B",
+                  "text": "the male students expected them to do badly."
+                },
+                {
+                  "k": "C",
+                  "text": "their test results were lower than the male students'."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "Miyake's team asked the students to write about",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "what they enjoyed about studying physics."
+                },
+                {
+                  "k": "B",
+                  "text": "the successful experiences of other people."
+                },
+                {
+                  "k": "C",
+                  "text": "something that was important to them personally."
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "What was the aim of the writing exercise done by the subjects?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "to reduce stress"
+                },
+                {
+                  "k": "B",
+                  "text": "to strengthen verbal ability"
+                },
+                {
+                  "k": "C",
+                  "text": "to encourage logical thinking"
+                }
+              ]
+            },
+            {
+              "n": 26,
+              "text": "What surprised the researchers about the study?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "how few students managed to get A grades"
+                },
+                {
+                  "k": "B",
+                  "text": "the positive impact it had on physics results for women"
+                },
+                {
+                  "k": "C",
+                  "text": "the difference between male and female performance"
+                }
+              ]
+            },
+            {
+              "n": 27,
+              "text": "Greg and Lisa think Miyake's results could have been affected by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the length of the writing task."
+                },
+                {
+                  "k": "B",
+                  "text": "the number of students who took part."
+                },
+                {
+                  "k": "C",
+                  "text": "the information the students were given."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "Greg and Lisa decide that in their own project, they will compare the effects of",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "two different writing tasks."
+                },
+                {
+                  "k": "B",
+                  "text": "a writing task with an oral task."
+                },
+                {
+                  "k": "C",
+                  "text": "two different oral tasks."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "The main finding of Smolinsky's research was that class teamwork activities",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "were most effective when done by all-women groups."
+                },
+                {
+                  "k": "B",
+                  "text": "had no effect on the performance of men or women."
+                },
+                {
+                  "k": "C",
+                  "text": "improved the results of men more than of women."
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "What will Lisa and Greg do next?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "talk to a professor"
+                },
+                {
+                  "k": "B",
+                  "text": "observe a science class"
+                },
+                {
+                  "k": "C",
+                  "text": "look at the science timetable"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LISA",
+          "t": "OK, Greg, so I finally managed to read the article you mentioned - the one about the study on gender in physics.",
+          "start": 64.52,
+          "end": 72.64
+        },
+        {
+          "s": "GREG",
+          "t": "About the study of college students done by Akira Miyake and his team?",
+          "start": 72.84,
+          "end": 77.76
+        },
+        {
+          "s": "GREG",
+          "t": "Yeah.",
+          "start": 78.38,
+          "end": 78.62
+        },
+        {
+          "s": "GREG",
+          "t": "I was interested that the researchers were actually a mix of psychologists and physicists.",
+          "start": 79.5,
+          "end": 84.7
+        },
+        {
+          "s": "GREG",
+          "t": "That's an unusual combination.",
+          "start": 85.34,
+          "end": 86.86
+        },
+        {
+          "s": "LISA",
+          "t": "Yeah.",
+          "start": 87.14,
+          "end": 87.66
+        },
+        {
+          "s": "LISA",
+          "t": "I got a little confused at first about which students the study was based on.",
+          "start": 88.5,
+          "end": 93.94
+        },
+        {
+          "s": "LISA",
+          "t": "They weren't actually majoring in physics - they were majoring in what's known as the STEM disciplines.",
+          "start": 94.7,
+          "end": 100.38
+        },
+        {
+          "s": "LISA",
+          "t": "That's science, technology, engineering and ...",
+          "q": [
+            21
+          ],
+          "start": 101.19,
+          "end": 104.79
+        },
+        {
+          "s": "GREG",
+          "t": "...and math.",
+          "start": 104.99,
+          "end": 105.63
+        },
+        {
+          "s": "GREG",
+          "t": "Yes, but they were all doing physics courses as part of their studies.",
+          "start": 105.79,
+          "end": 110.43
+        },
+        {
+          "s": "LISA",
+          "t": "That's correct.",
+          "start": 111.46,
+          "end": 112.02
+        },
+        {
+          "s": "LISA",
+          "t": "So as I understood it, Miyake and co started from the fact that women are underrepresented in introductory physics courses at college, and also that on average, the women who do enrol on these courses perform more poorly than the men.",
+          "start": 112.54,
+          "end": 131.26
+        },
+        {
+          "s": "LISA",
+          "t": "No one really knows why this is the case.",
+          "start": 132.1,
+          "end": 134.1
+        },
+        {
+          "s": "GREG",
+          "t": "Yeah.",
+          "start": 134.86,
+          "end": 135.1
+        },
+        {
+          "s": "GREG",
+          "t": "But what the researchers wanted to find out was basically what they could do about the relatively low level of the women's results.",
+          "q": [
+            22
+          ],
+          "start": 135.42,
+          "end": 142.98
+        },
+        {
+          "s": "GREG",
+          "t": "But in order to find a solution they needed to find out more about the nature of the problem.",
+          "start": 143.42,
+          "end": 148.92
+        },
+        {
+          "s": "LISA",
+          "t": "Right - now let's see if I can remember ... it was that in the physics class, the female students thought the male students all assumed that women weren't any good at physics ... was that it?",
+          "start": 149.76,
+          "end": 163.49
+        },
+        {
+          "s": "LISA",
+          "t": "And they thought that the men expected them to get poor results in their tests.",
+          "start": 164.13,
+          "end": 169.09
+        },
+        {
+          "s": "GREG",
+          "t": "That's what the women thought, and that made them nervous, so they did get poor results.",
+          "start": 169.49,
+          "end": 174.77
+        },
+        {
+          "s": "GREG",
+          "t": "But actually they were wrong ... No one was making any assumptions about the female students at all.",
+          "q": [
+            23
+          ],
+          "start": 175.39,
+          "end": 181.91
+        },
+        {
+          "s": "LISA",
+          "t": "Anyway, what Miyake's team did was quite simple - getting the students to do some writing before they went into the physics class.",
+          "start": 182.11,
+          "end": 190.7
+        },
+        {
+          "s": "LISA",
+          "t": "What did they call it?",
+          "start": 191.42,
+          "end": 192.46
+        },
+        {
+          "s": "GREG",
+          "t": "Values-affirmation - they had to write an essay focusing on things that were significant to them, not particularly to do with the subject they were studying, but more general things like music, or people who mattered to them.",
+          "q": [
+            24
+          ],
+          "start": 192.54,
+          "end": 207.79
+        },
+        {
+          "s": "LISA",
+          "t": "Right.",
+          "start": 207.83,
+          "end": 208.43
+        },
+        {
+          "s": "LISA",
+          "t": "So the idea of doing the writing is that this gets the students thinking in a positive way.",
+          "start": 209.03,
+          "end": 215.06
+        },
+        {
+          "s": "GREG",
+          "t": "And putting these thoughts into words can relax them and help them overcome the psychological factors that lead to poor performance.",
+          "q": [
+            25
+          ],
+          "start": 215.14,
+          "end": 223.1
+        },
+        {
+          "s": "GREG",
+          "t": "Yeah.",
+          "start": 223.3,
+          "end": 223.74
+        },
+        {
+          "s": "GREG",
+          "t": "But what the researchers in the study hadn't expected was that this one activity raised the women's physics grades from the C to the B range.",
+          "q": [
+            26
+          ],
+          "start": 224.42,
+          "end": 233.7
+        },
+        {
+          "s": "LISA",
+          "t": "A huge change.",
+          "start": 233.86,
+          "end": 235.3
+        },
+        {
+          "s": "LISA",
+          "t": "Pity it wasn't to an A, but still!",
+          "start": 236.02,
+          "end": 238.38
+        },
+        {
+          "s": "LISA",
+          "t": "No, but it does suggest that the women were seriously underperforming beforehand, in comparison with the men.",
+          "start": 239.34,
+          "end": 246.3
+        },
+        {
+          "s": "GREG",
+          "t": "Yes.",
+          "start": 246.5,
+          "end": 246.9
+        },
+        {
+          "s": "GREG",
+          "t": "Mind you, Miyake's article left out a lot of details.",
+          "start": 247.59,
+          "end": 251.19
+        },
+        {
+          "s": "GREG",
+          "t": "Like, did the students do the writing just once, or several times?",
+          "start": 251.35,
+          "end": 256.03
+        },
+        {
+          "s": "GREG",
+          "t": "And had they been told why they were doing the writing? That might have affected the results.",
+          "q": [
+            27
+          ],
+          "start": 256.47,
+          "end": 261.67
+        },
+        {
+          "s": "LISA",
+          "t": "You mean, if they know the researchers thought it might help them to improve, then they'd just try to fulfil that expectation?",
+          "start": 262.49,
+          "end": 269.69
+        },
+        {
+          "s": "GREG",
+          "t": "Exactly.",
+          "start": 269.85,
+          "end": 270.61
+        },
+        {
+          "s": "GREG",
+          "t": "So anyway, I thought for our project we could do a similar study, but investigate whether it really was the writing activity that had that result.",
+          "start": 304.82,
+          "end": 314.22
+        },
+        {
+          "s": "LISA",
+          "t": "OK.",
+          "start": 314.97,
+          "end": 315.89
+        },
+        {
+          "s": "LISA",
+          "t": "So we could ask them to do a writing task about something completely different ... something more factual?",
+          "start": 315.89,
+          "end": 323.69
+        },
+        {
+          "s": "LISA",
+          "t": "Like a general knowledge topic.",
+          "start": 324.29,
+          "end": 326.05
+        },
+        {
+          "s": "GREG",
+          "t": "Maybe ... or we could have half the students doing a writing task and half doing something else, like an oral task.",
+          "start": 326.65,
+          "end": 335.65
+        },
+        {
+          "s": "LISA",
+          "t": "Or even, half do the same writing task as in the original research and half do a factual writing task.",
+          "q": [
+            28
+          ],
+          "start": 335.93,
+          "end": 343.84
+        },
+        {
+          "s": "LISA",
+          "t": "Then we'd see if it really is the topic that made the difference, or something else.",
+          "start": 344.12,
+          "end": 349.48
+        },
+        {
+          "s": "GREG",
+          "t": "That's it.",
+          "start": 349.64,
+          "end": 350.4
+        },
+        {
+          "s": "GREG",
+          "t": "Good.",
+          "start": 350.68,
+          "end": 350.96
+        },
+        {
+          "s": "GREG",
+          "t": "So at our meeting with the supervisor on Monday we can tell him we've decided on our project.",
+          "start": 351.6,
+          "end": 357.36
+        },
+        {
+          "s": "GREG",
+          "t": "We should have our aims ready by then.",
+          "start": 358.24,
+          "end": 360.12
+        },
+        {
+          "s": "GREG",
+          "t": "I suppose we need to read the original study - the article's just a summary.",
+          "start": 360.84,
+          "end": 365.57
+        },
+        {
+          "s": "LISA",
+          "t": "And there was another article I read, by Smolinsky.",
+          "start": 365.97,
+          "end": 369.77
+        },
+        {
+          "s": "LISA",
+          "t": "It was about her research on how women and men perform in mixed teams in class, compared with single-sex teams and on their own.",
+          "start": 370.41,
+          "end": 378.91
+        },
+        {
+          "s": "GREG",
+          "t": "Let me guess - the women were better at teamwork.",
+          "start": 379.07,
+          "end": 382.07
+        },
+        {
+          "s": "LISA",
+          "t": "That's what I expected, but actually the men and the women got the same results whether they were working in teams or on their own.",
+          "q": [
+            29
+          ],
+          "start": 382.19,
+          "end": 390.63
+        },
+        {
+          "s": "LISA",
+          "t": "But I guess it's not that relevant to us.",
+          "start": 392.0,
+          "end": 394.24
+        },
+        {
+          "s": "GREG",
+          "t": "What worries me anyway is how we're going to get everything done in the time.",
+          "start": 395.16,
+          "end": 399.56
+        },
+        {
+          "s": "LISA",
+          "t": "We'll be OK now we know what we're doing.",
+          "start": 399.84,
+          "end": 402.0
+        },
+        {
+          "s": "LISA",
+          "t": "Though I'm not clear how we assess whether the students in our experiment actually make any progress or not ...",
+          "start": 402.94,
+          "end": 410.58
+        },
+        {
+          "s": "GREG",
+          "t": "No.",
+          "start": 410.86,
+          "end": 411.34
+        },
+        {
+          "s": "GREG",
+          "t": "We may need some advice on that.",
+          "start": 412.02,
+          "end": 413.82
+        },
+        {
+          "s": "GREG",
+          "t": "The main thing's to make sure we have the right size sample, not too big or too small.",
+          "start": 414.55,
+          "end": 420.11
+        },
+        {
+          "s": "LISA",
+          "t": "That shouldn't be difficult.",
+          "start": 420.79,
+          "end": 421.63
+        },
+        {
+          "s": "LISA",
+          "t": "Right, what do we need to do next?",
+          "start": 422.95,
+          "end": 425.07
+        },
+        {
+          "s": "LISA",
+          "t": "We could have a look at the timetable for the science classes ... or perhaps we should just make an appointment to see one of the science professors. That'd be better.",
+          "q": [
+            30
+          ],
+          "start": 425.83,
+          "end": 434.79
+        },
+        {
+          "s": "GREG",
+          "t": "Great.",
+          "start": 434.91,
+          "end": 435.47
+        },
+        {
+          "s": "GREG",
+          "t": "And we could even get to observe one of the classes.",
+          "start": 436.0,
+          "end": 438.48
+        },
+        {
+          "s": "LISA",
+          "t": "What for?",
+          "start": 439.24,
+          "end": 439.6
+        },
+        {
+          "s": "GREG",
+          "t": "Well ... OK maybe let's just go with your idea.",
+          "start": 439.88,
+          "end": 443.24
+        },
+        {
+          "s": "GREG",
+          "t": "Right, well ..",
+          "start": 443.56,
+          "end": 445.24
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c11/t1p4.mp3",
+      "duration": 0,
+      "title": "Ocean Biodiversity",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Ocean Biodiversity",
+          "lines": [
+            "## Biodiversity hotspots",
+            "areas containing many different species",
+            "important for locating targets for {{31}}",
+            "at first only identified on land",
+            "## Boris Worm, 2005",
+            "identified hotspots for large ocean predators, e.g. sharks",
+            "found that ocean hotspots:",
+            "were not always rich in {{32}}",
+            "had higher temperatures at the {{33}}",
+            "had sufficient {{34}} in the water",
+            "## Lisa Ballance, 2007",
+            "looked for hotspots for marine {{35}}",
+            "found these were all located where ocean currents meet",
+            "## Census of Marine Life",
+            "found new ocean species living:",
+            "under the {{36}}",
+            "near volcanoes on the ocean floor",
+            "## Global Marine Species Assessment",
+            "want to list endangered ocean species, considering:",
+            "population size",
+            "geographical distribution",
+            "rate of {{37}}",
+            "Aim: to assess 20,000 species and make a distribution {{38}} for each one",
+            "## Recommendations to retain ocean biodiversity",
+            "increase the number of ocean reserves",
+            "establish {{39}} corridors (e.g. for turtles)",
+            "reduce fishing quotas",
+            "catch fish only for the purpose of {{40}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "I've been looking at ocean biodiversity, that's the diversity of species that live in the world's oceans."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "About 20 years ago biologists developed the idea of what they called 'biodiversity hotspots'."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These are the areas which have the greatest mixture of species, so one example is Madagascar."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These hotspots are significant because they allow us to locate key areas for focusing efforts at conservation.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Biologists can identify hotspots on land, fairly easily, but until recently, very little was known about species distribution and diversity in the oceans, and no one even knew if hotspots existed there."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then a Canadian biologist called Boris Worm did some research in 2005 on data on ocean species that he got from the fishing industry."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Worm located five hotspots for large ocean predators like sharks, and looked at what they had in common."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The main thing he'd expected to find was that they had very high concentrations of food, but to his surprise that was only true for four of the hotspots - the remaining hotspot was quite badly off in that regard.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But what he did find was that in all cases, the water at the surface of the ocean had relatively high temperatures, even when it was cool at greater depths, so this seemed to be a factor in supporting a diverse range of these large predators.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it - so these two factors seemed necessary to support the high metabolic rate of these large fish.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A couple of years later, in 2007, a researcher called Lisa Ballance, who was working in California, also started looking for ocean hotspots, but not for fish - what she was interested in was marine mammals, things like seals.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And she found three places in the oceans which were hotspots, and what these had in common was that these hotspots were all located at boundaries between ocean currents, and this seems to be the sort of place that has lots of the plankton that some of these species feed on."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So now people who want to protect the species that are endangered need to get as much information as possible."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example, there's an international project called the Census of Marine Life."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They've been surveying oceans all over the world, including the Arctic."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One thing they found there which stunned other researchers was that there were large numbers of species which live below the ice - sometimes under a layer up to 20 metres thick.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some of these species had never been seen before."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They've even found species of octopus living in these conditions."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And other scientists working on the same project, but researching very different habitats on the ocean floor, have found large numbers of species congregating around volcanoes, attracted to them by the warmth and nutrients there."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, biologists still don't know how serious the threat to their survival is for each individual species."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So a body called the Global Marine Species Assessment is now creating a list of endangered species on land, so they consider things like the size of the population - how many members of one species there are in a particular place - and then they look at their distribution in geographical terms, although this is quite difficult when you're looking at fish, because they're so mobile, and then thirdly they calculate the rate at which the decline of the species is happening.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So far only 1,500 species have been assessed, but they want to increase this figure to 20,000."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For each one they assess, they use the data they collect on that species to produce a map showing its distribution.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Ultimately they will be able to use these to figure out not only where most species are located but also where they are most threatened."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So finally, what can be done to retain the diversity of species in the world's oceans?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Firstly, we need to set up more reserves in our oceans, places where marine species are protected."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We have some, but not enough."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In addition, to preserve species such as leatherback turtles, which live out in the high seas but have their nesting sites on the American coast, we need to create corridors for migration, so they can get from one area to another safely.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As well as this, action needs to be taken to lower the levels of fishing quotas to prevent overfishing of endangered species."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And finally, there's the problem of 'by-catch'."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This refers to the catching of unwanted fish by fishing boats - they're returned to the sea, but they're often dead or dying."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If these commercial fishing boats used equipment which was more selective, so that only the fish wanted for consumption were caught, this problem could be overcome.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK. So does anyone have any ..."
+        }
+      ]
+    }
+  ]
+}
