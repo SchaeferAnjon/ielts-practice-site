@@ -1,0 +1,1632 @@
+{
+  "id": "c9t3",
+  "book": "剑桥雅思9",
+  "test": 3,
+  "title": "剑9 Test 3 · Listening",
+  "source": "Cambridge IELTS 9, Test 3（OCR 文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "300"
+    ],
+    "2": [
+      "Sunshade"
+    ],
+    "3": [
+      "balcony"
+    ],
+    "4": [
+      "forest",
+      "forests"
+    ],
+    "5": [
+      "319"
+    ],
+    "6": [
+      "10,000",
+      "10000"
+    ],
+    "7": [
+      "relative"
+    ],
+    "8": [
+      "missed"
+    ],
+    "9": [
+      "item"
+    ],
+    "10": [
+      "Ludlow"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "E"
+    ],
+    "15": [
+      "H"
+    ],
+    "16": [
+      "F"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "G"
+    ],
+    "19": [
+      "120"
+    ],
+    "20": [
+      "5 to 12"
+    ],
+    "21": [
+      "fishing industry"
+    ],
+    "22": [
+      "statistics"
+    ],
+    "23": [
+      "note-taking"
+    ],
+    "24": [
+      "confidence"
+    ],
+    "25": [
+      "ideas"
+    ],
+    "26": [
+      "student support"
+    ],
+    "27": [
+      "places"
+    ],
+    "28": [
+      "general"
+    ],
+    "29": [
+      "3 times"
+    ],
+    "30": [
+      "25"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "A"
+    ],
+    "33": [
+      "glass"
+    ],
+    "34": [
+      "insulation"
+    ],
+    "35": [
+      "windows"
+    ],
+    "36": [
+      "electricity"
+    ],
+    "37": [
+      "floor",
+      "floors"
+    ],
+    "38": [
+      "waste"
+    ],
+    "39": [
+      "concrete"
+    ],
+    "40": [
+      "15 years"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c9/t3p1.mp3",
+      "duration": 0,
+      "title": "Greek Island Holidays",
+      "groups": [
+        {
+          "range": [
+            1,
+            5
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "table": {
+            "head": [
+              "Apartments",
+              "Facilities",
+              "Other Information",
+              "Cost"
+            ],
+            "rows": [
+              [
+                "Rose Garden Apartments",
+                "studio flat",
+                "Example\nentertainment programme:\nGreek dancing",
+                "£219"
+              ],
+              [
+                "Blue Bay Apartments",
+                "large salt-water swimming pool",
+                "- just {{1}} metres from beach\n- near shops",
+                "£275"
+              ],
+              [
+                "{{2}} Apartments",
+                "terrace",
+                "watersports",
+                "£490"
+              ],
+              [
+                "The Grand",
+                "- Greek paintings\n- {{3}}",
+                "- overlooking {{4}}\n- near a supermarket and a disco",
+                "£{{5}}"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            6,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "GREEK ISLAND HOLIDAYS",
+          "table": {
+            "head": [
+              "Insurance Benefits",
+              "Maximum Amount"
+            ],
+            "rows": [
+              [
+                "Cancellation",
+                "£{{6}}"
+              ],
+              [
+                "Hospital",
+                "£600. Additional benefit allows a {{7}} to travel to resort"
+              ],
+              [
+                "{{8}} departure",
+                "Up to £1000. Depends on reason"
+              ],
+              [
+                "Personal belongings",
+                "Up to £3000; £500 for one {{9}}"
+              ],
+              [
+                "Name of Assistant Manager: Ben {{10}}",
+                ""
+              ],
+              [
+                "Direct phone line: 081260 543216",
+                ""
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MAN",
+          "t": "Greek Island Holidays, can I help you?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, I hope so."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I have a friend who's just come back from Corfu and she's recommended some apartments in Arilas."
+        },
+        {
+          "s": "WOMAN",
+          "t": "She thought they might be on your list."
+        },
+        {
+          "s": "MAN",
+          "t": "Arilas, Arilas, let me see."
+        },
+        {
+          "s": "MAN",
+          "t": "Can you give me the names?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, the first's Rose Garden Apartments."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'd like to go with another friend in the last week of October."
+        },
+        {
+          "s": "MAN",
+          "t": "Well, we've got a lovely studio flat available at that time."
+        },
+        {
+          "s": "MAN",
+          "t": "I'm sure you'd enjoy the entertainment programme there too, with Greek dancing in the restaurant."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And the cost for each of us?"
+        },
+        {
+          "s": "MAN",
+          "t": "£219."
+        },
+        {
+          "s": "WOMAN",
+          "t": "That sounds very reasonable!"
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm just jotting down some notes."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Now the second one she mentioned was called Blue Bay."
+        },
+        {
+          "s": "MAN",
+          "t": "Blue Bay?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, in fact that's very popular and it has some special features."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Really?"
+        },
+        {
+          "s": "MAN",
+          "t": "The main attraction is the large swimming pool with salt water."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Much healthier, I understand."
+        },
+        {
+          "s": "MAN",
+          "t": "That's right."
+        },
+        {
+          "s": "MAN",
+          "t": "And it isn't far from the beach, either — only 300 metres, and only around half a kilometre to some shops, so you don't have to be too energetic.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is it much more expensive than the first one?"
+        },
+        {
+          "s": "MAN",
+          "t": "Let me just check."
+        },
+        {
+          "s": "MAN",
+          "t": "I think at the time you want to go it's around £260 — no £275 to be exact."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right, I've got that."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Now there are just two more apartments to ask you about."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Um, I can't read my own writing!"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Something to do with sun ..."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Sunshine, is it?"
+        },
+        {
+          "s": "MAN",
+          "t": "I think you meant the Sunshade Apartments."
+        },
+        {
+          "s": "MAN",
+          "t": "They're on a mountainside.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "Any special features?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, each room has its own sun terrace and there are shared barbecue facilities."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Sounds lovely!"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, it is rather well-equipped."
+        },
+        {
+          "s": "MAN",
+          "t": "It also provides water sports — it has its own beach."
+        },
+        {
+          "s": "MAN",
+          "t": "There are facilities for water-skiing."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Any kite-surfing?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "My friend's quite keen."
+        },
+        {
+          "s": "MAN",
+          "t": "Not at the hotel but I'm sure you'll find some in Arilas."
+        },
+        {
+          "s": "MAN",
+          "t": "There's also satellite TV in the apartments."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And how much is that one?"
+        },
+        {
+          "s": "MAN",
+          "t": "£490 with two sharing."
+        },
+        {
+          "s": "WOMAN",
+          "t": "You mean £245 each?"
+        },
+        {
+          "s": "MAN",
+          "t": "I'm afraid not!"
+        },
+        {
+          "s": "MAN",
+          "t": "Each person has to pay that amount and there must be at least two in an apartment."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I don't think that would be within our budget, unfortunately."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And the last one sounds a bit expensive too — the Grand!"
+        },
+        {
+          "s": "MAN",
+          "t": "Actually it's quite reasonable."
+        },
+        {
+          "s": "MAN",
+          "t": "It's an older style house with Greek paintings in every room, and a balcony outside.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "Sounds nice."
+        },
+        {
+          "s": "WOMAN",
+          "t": "What are the views like?"
+        },
+        {
+          "s": "MAN",
+          "t": "Well, there are forests all round and they hide a supermarket just down the road, so that's very useful for all your shopping needs."
+        },
+        {
+          "s": "MAN",
+          "t": "There's a disco in the area too.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "And the price?"
+        },
+        {
+          "s": "MAN",
+          "t": "£319 at that time, but if you leave it till November it goes down by 40%.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "Too late, I'm afraid."
+        },
+        {
+          "s": "MAN",
+          "t": "Well, why don't I send you a brochure with full details, Ms ... ?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Nash."
+        },
+        {
+          "s": "WOMAN",
+          "t": "But don't worry about that."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm coming to Upminster soon and I'll call and get one."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I just wanted to get an idea first."
+        },
+        {
+          "s": "MAN",
+          "t": "Well, that's fine."
+        },
+        {
+          "s": "MAN",
+          "t": "We've got plenty here when you come."
+        },
+        {
+          "s": "WOMAN",
+          "t": "If you've got a minute, could I just check a couple of points about insurance?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "I got one policy through the post but I'd like to see if yours is better."
+        },
+        {
+          "s": "MAN",
+          "t": "Fine."
+        },
+        {
+          "s": "MAN",
+          "t": "What would you like to know?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, the one I've got has benefits and then the maximum amount you can claim."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is that like yours?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, that's how most of them are."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, the first thing is cancellation."
+        },
+        {
+          "s": "WOMAN",
+          "t": "If the holiday's cancelled on the policy I've got, you can claim £8,000."
+        },
+        {
+          "s": "MAN",
+          "t": "We can improve on that, Ms Nash."
+        },
+        {
+          "s": "MAN",
+          "t": "For Greek Island holidays, our maximum is £10,000.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's good — of course our holiday won't even cost £1,000 together!"
+        },
+        {
+          "s": "MAN",
+          "t": "It's still sensible to have good cover."
+        },
+        {
+          "s": "MAN",
+          "t": "Now, if you go to hospital, we allow £600."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, mine's similar."
+        },
+        {
+          "s": "MAN",
+          "t": "And we also allow a relative to travel to your holiday resort.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "My policy just says their representative will help you."
+        },
+        {
+          "s": "MAN",
+          "t": "You can see there's another difference there."
+        },
+        {
+          "s": "MAN",
+          "t": "And what happens if you don't get on the plane?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Nothing, as far as I can see on this form."
+        },
+        {
+          "s": "MAN",
+          "t": "Don't you have missed departure?",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "No, I'll just jot that down."
+        },
+        {
+          "s": "MAN",
+          "t": "We pay up to £1,000 for that, depending on the reason."
+        },
+        {
+          "s": "MAN",
+          "t": "And we're particularly generous about loss of personal belongings — up to £3,000, but not more than £500 for a single item.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "Then I'd better not take my laptop!"
+        },
+        {
+          "s": "MAN",
+          "t": "Not unless you insure it separately."
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK — thanks very much for your time — you've really been helpful."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Can I get back to you?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Your name is?"
+        },
+        {
+          "s": "MAN",
+          "t": "Ben — Ludlow."
+        },
+        {
+          "s": "MAN",
+          "t": "That's L-U-D-L-O-W."
+        },
+        {
+          "s": "MAN",
+          "t": "I'm the Assistant Manager here."
+        },
+        {
+          "s": "MAN",
+          "t": "I'll give you my number."
+        },
+        {
+          "s": "MAN",
+          "t": "It's 081260 543216.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "But didn't I phone 081260 567294?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's what I've got on the paper."
+        },
+        {
+          "s": "MAN",
+          "t": "That's the main switchboard."
+        },
+        {
+          "s": "MAN",
+          "t": "I've given you my direct line."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right, thank you ..."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c9/t3p2.mp3",
+      "duration": 0,
+      "title": "Winridge Forest Railway Park",
+      "groups": [
+        {
+          "range": [
+            11,
+            13
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Winridge Forest Railway Park",
+          "questions": [
+            {
+              "n": 11,
+              "text": "Simon's idea for a theme park came from",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "his childhood hobby."
+                },
+                {
+                  "k": "B",
+                  "text": "his interest in landscape design."
+                },
+                {
+                  "k": "C",
+                  "text": "his visit to another park."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "When they started, the family decided to open the park only when",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the weather was expected to be good."
+                },
+                {
+                  "k": "B",
+                  "text": "the children weren't at school."
+                },
+                {
+                  "k": "C",
+                  "text": "there were fewer farming commitments."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "Since opening, the park has had",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "50,000 visitors."
+                },
+                {
+                  "k": "B",
+                  "text": "1,000,000 visitors."
+                },
+                {
+                  "k": "C",
+                  "text": "1,500,000 visitors."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            14,
+            18
+          ],
+          "type": "matching",
+          "instruction": "What is currently the main area of work of each of the following people? Choose FIVE answers from the box and write the correct letter, A-H, next to questions 14-18.",
+          "optionsTitle": "Area of work",
+          "options": [
+            {
+              "k": "A",
+              "text": "advertising"
+            },
+            {
+              "k": "B",
+              "text": "animal care"
+            },
+            {
+              "k": "C",
+              "text": "building"
+            },
+            {
+              "k": "D",
+              "text": "educational links"
+            },
+            {
+              "k": "E",
+              "text": "engine maintenance"
+            },
+            {
+              "k": "F",
+              "text": "food and drink"
+            },
+            {
+              "k": "G",
+              "text": "sales"
+            },
+            {
+              "k": "H",
+              "text": "staffing"
+            }
+          ],
+          "itemsTitle": "People",
+          "items": [
+            {
+              "n": 14,
+              "text": "Simon (the speaker)"
+            },
+            {
+              "n": 15,
+              "text": "Liz"
+            },
+            {
+              "n": 16,
+              "text": "Sarah"
+            },
+            {
+              "n": 17,
+              "text": "Duncan"
+            },
+            {
+              "n": 18,
+              "text": "Judith"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD AND/OR NUMBERS for each answer.",
+          "table": {
+            "head": [
+              "Feature",
+              "Size",
+              "Biggest challenge",
+              "Target age group"
+            ],
+            "rows": [
+              [
+                "Railway",
+                "1.2 km",
+                "Making tunnels",
+                ""
+              ],
+              [
+                "Go-Kart arena",
+                "{{19}} m²",
+                "Removing mounds\non the track",
+                "{{20}}\nyear-olds"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "WOMAN",
+          "t": "For the second in our series about locally-run businesses, we meet Simon Winridge, co-founder of the hugely-successful Winridge Forest Railway Park."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Welcome, Simon."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Now, perhaps you can begin by telling us a little bit about how it all started."
+        },
+        {
+          "s": "MAN",
+          "t": "Well, during the 1970s, my wife, Liz and I had just acquired 80 acres of sheep-farming land, and we decided to settle down and have children."
+        },
+        {
+          "s": "MAN",
+          "t": "Pretty soon we had a daughter, Sarah, and a son, Duncan."
+        },
+        {
+          "s": "MAN",
+          "t": "The place was wonderful for the kids: they particularly loved trains and gradually built up an enormous network of miniature railway track."
+        },
+        {
+          "s": "MAN",
+          "t": "I began to develop larger-scale models of locomotives but we didn't think anything more of it until I went on a trip to a theme park near Birmingham and decided we could do a much better job!",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "So we set up a small one ourselves based on the miniature railway and we opened to the public for just a month that year, 1984 — in July — our driest month — because our children said they didn't want our quests to have a miserable, wet visit.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "I dealt with Park business and Liz carried on with the farm work."
+        },
+        {
+          "s": "MAN",
+          "t": "It soon became clear that we were onto a winner."
+        },
+        {
+          "s": "MAN",
+          "t": "We began to extend the railway track and lay it among more interesting landscape by planting trees, which in turn attracted more wildlife, and by making cuttings through the rock."
+        },
+        {
+          "s": "MAN",
+          "t": "Nowadays, we're open all year round and we're pleased to say that Winridge is one of the most popular visitor attractions in the area — with 50,000 visitors a year — a million and a half people have been through our doors since we opened.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "All these visitors mean we have had to expand our operation and it's now a truly family concern."
+        },
+        {
+          "s": "MAN",
+          "t": "I'm near to retirement age so I only concern myself with looking after the mechanical side of things — keeping the trains going.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Liz now devotes all her energies to recruiting and supporting the large squadron of workers, which keep the place running smoothly.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "We're really pleased that after some years away teaching, Sarah has now returned to the park and makes sure the visitors are kept fed and watered, which keeps her pretty busy as you can imagine.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Our son, Duncan, has been a stalwart of the park for the last ten years, taking over from me in the area of construction — and I'll say a little bit more about that in a moment — and his new wife, Judith, has also joined the team in charge of retail.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "That's becoming a tremendous growth area for us — a lot of people want to buy souvenirs.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "So have you finished your development of the site for the moment?"
+        },
+        {
+          "s": "MAN",
+          "t": "Not at all!"
+        },
+        {
+          "s": "MAN",
+          "t": "We're constantly looking for ways to offer more to our visitors."
+        },
+        {
+          "s": "MAN",
+          "t": "The railway remains the central feature and there's now 1.2 kilometres of the line laid but we'd like to lay more."
+        },
+        {
+          "s": "MAN",
+          "t": "Because of the geology of the area, our greatest problem is digging tunnels."
+        },
+        {
+          "s": "MAN",
+          "t": "But we're gradually overcoming that."
+        },
+        {
+          "s": "MAN",
+          "t": "We're also very pleased with a new installation of the Go-Kart arena which is 120 square metres in area.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Again the problem is the geology; we had to level the mounds on the track for safety reasons."
+        },
+        {
+          "s": "MAN",
+          "t": "We wanted to enable 5—12 year olds to use the go-karts.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "And the main attraction here is the Formula 1 Kart."
+        },
+        {
+          "s": "MAN",
+          "t": "We've known fights to break out over who gets it!"
+        },
+        {
+          "s": "MAN",
+          "t": "And then finally to our most recent development which is the landscaped ..."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c9/t3p3.mp3",
+      "duration": 0,
+      "title": "Study Skills Tutorial",
+      "groups": [
+        {
+          "range": [
+            21,
+            23
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "Study Skills Tutorial – Caroline Benning",
+          "lines": [
+            "Dissertation topic: the {{21}}",
+            "## Strengths",
+            "- {{22}}",
+            "- computer modelling",
+            "## Weaknesses",
+            "- lack of background information",
+            "- poor {{23}} skills"
+          ]
+        },
+        {
+          "range": [
+            24,
+            28
+          ],
+          "type": "table",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "table": {
+            "head": [
+              "Possible strategy",
+              "Benefits",
+              "Problems"
+            ],
+            "rows": [
+              [
+                "peer group discussion",
+                "increases {{24}}",
+                "dissertations tend to contain the same {{25}}"
+              ],
+              [
+                "use the {{26}} service",
+                "provides structured programme",
+                "limited {{27}}"
+              ],
+              [
+                "consult study skills books",
+                "are a good source of reference",
+                "can be too {{28}}"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            29,
+            30
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "lines": [
+            "## Recommendations",
+            "- use a card index",
+            "- read all notes {{29}}",
+            "## Next tutorial date",
+            "{{30}} January"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TUTOR",
+          "t": "Ah Caroline ... come on in."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Sit down."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Thanks."
+        },
+        {
+          "s": "TUTOR",
+          "t": "So how's the dissertation planning going?"
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Well Dr Schulmann, I'm still having a lot of trouble deciding on a title."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, that's perfectly normal at this stage."
+        },
+        {
+          "s": "TUTOR",
+          "t": "And this is what your tutorials will help you to do."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Right."
+        },
+        {
+          "s": "TUTOR",
+          "t": "What we'll do is jot down some points that might help you in your decision."
+        },
+        {
+          "s": "TUTOR",
+          "t": "First of all, you have chosen your general topic area, haven't you?"
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Yes, it's the fishing industry.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "Oh yes, that was one of the areas you mentioned."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Now, what aspects of the course are you good at?"
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Well, I think I'm coping well with statistics, and I'm never bored by it.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "Good."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Anything else?"
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Well, I found computer modelling fascinating — I have no problem following what's being taught, whereas quite a few of my classmates find it difficult."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, that's very good."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Do you think these might be areas you could bring into your dissertation?"
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Oh yes, if possible."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "It's just that I'm having difficulty thinking how I can do that."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "You see I feel I don't have sufficient background information."
+        },
+        {
+          "s": "TUTOR",
+          "t": "I see."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, do you take notes?"
+        },
+        {
+          "s": "CAROLINE",
+          "t": "I'm very weak at note-taking."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "My teachers always used to say that.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, I think you really need to work on these weaknesses before you go any further."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "What do you suggest?"
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, I can go through the possible strategies with you and let you decide where to go from there."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Okay, thanks."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, some people find it helpful to organise peer-group discussions — you know, each week a different person studies a different topic and shares it with the group."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Oh right."
+        },
+        {
+          "s": "TUTOR",
+          "t": "It really helps build confidence, you know, having to present something to others.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "CAROLINE",
+          "t": "I can see that."
+        },
+        {
+          "s": "TUTOR",
+          "t": "The drawback is that everyone in the group seems to share the same ideas ... they keep being repeated in all the dissertations.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Okay."
+        },
+        {
+          "s": "TUTOR",
+          "t": "You could also try a service called 'Student Support'."
+        },
+        {
+          "s": "TUTOR",
+          "t": "It's designed to give you a structured programme over a number of weeks to develop your skills.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Sounds good."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, unfortunately there are only a few places."
+        },
+        {
+          "s": "TUTOR",
+          "t": "But it's worth looking into.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Yes, of course."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "I know I've got to work on my study skills."
+        },
+        {
+          "s": "TUTOR",
+          "t": "And then there are several study skills books you can consult."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Right."
+        },
+        {
+          "s": "TUTOR",
+          "t": "They'll be a good source of reference but the problem is they are sometimes too general.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Yes, that's what I've found."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Other than that I would strongly advise quite simple ideas like using a card index."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Well, yes, I've never done that before."
+        },
+        {
+          "s": "TUTOR",
+          "t": "It's simple, but it really works because you have to get points down in a small space."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Another thing I always advise is don't just take your notes and forget about them."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Read everything three times — that'll really fix them in your mind.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Yes, I can see it'd take discipline but ..."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, if you establish good study skills at this stage they'll be with you all your life."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Oh yes, I completely agree."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "It's just that I don't seem to be able to discipline myself."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "I need to talk things over."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, we'll be continuing these tutorials of course."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Let's arrange next month's now."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Let's see, I can see you virtually any time during the week starting 22nd January."
+        },
+        {
+          "s": "CAROLINE",
+          "t": "What about the 24th?"
+        },
+        {
+          "s": "CAROLINE",
+          "t": "I'm free in the afternoon."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Sorry, I'm booked then."
+        },
+        {
+          "s": "TUTOR",
+          "t": "What about the following day?"
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Thursday?"
+        },
+        {
+          "s": "CAROLINE",
+          "t": "I can make the morning."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Fine, we'll go for the 25th then.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "CAROLINE",
+          "t": "That's great, thanks."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c9/t3p4.mp3",
+      "duration": 0,
+      "title": "The Underground House",
+      "groups": [
+        {
+          "range": [
+            31,
+            32
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 31,
+              "text": "The owners of the underground house",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "had no experience of living in a rural area."
+                },
+                {
+                  "k": "B",
+                  "text": "were interested in environmental issues."
+                },
+                {
+                  "k": "C",
+                  "text": "wanted a professional project manager."
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "What does the speaker say about the site of the house?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "The land was quite cheap."
+                },
+                {
+                  "k": "B",
+                  "text": "Stone was being extracted nearby."
+                },
+                {
+                  "k": "C",
+                  "text": "It was in a completely unspoilt area."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            33,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "The Underground House",
+          "lines": [
+            "## Design",
+            "- Built in the earth, with two floors",
+            "- The south-facing side was constructed of two layers of {{33}}",
+            "- Photovoltaic tiles were attached",
+            "- A layer of foam was used to improve the {{34}} of the building",
+            "## Special features",
+            "- To increase the light, the building has many internal mirrors and {{35}}",
+            "- In future, the house may produce more {{36}} than it needs",
+            "- Recycled wood was used for the {{37}} of the house",
+            "- The system for processing domestic {{38}} is organic",
+            "## Environmental issues",
+            "- The use of large quantities of {{39}} in construction was environmentally harmful",
+            "- But the house will have paid its 'environmental debt' within {{40}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the last few lectures I've been talking about the history of domestic building construction."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But today I want to begin looking at some contemporary, experimental designs for housing."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, I'm going to start with a house which is constructed more or less under the ground."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And one of the interesting things about this project is that the owners — both professionals but not architects — wanted to be closely involved, so they decided to manage the project themselves."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Their chief aim was to create somewhere that was as environmentally-friendly as possible.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But at the same time they wanted to live somewhere peaceful — they'd both grown up in a rural area and disliked urban life."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So the first thing they did was to look for a site."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And they found a disused stone quarry in a beautiful area."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The price was relatively low, and they liked the idea of recycling the land, as it were.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As it was, the quarry was an ugly blot on the landscape, and it wasn't productive any longer, either."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They consulted various architects and looked at a number of designs before finally deciding on one."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As I've said, it was a design for a sort of underground house, and it was built into the earth itself, with two storeys."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The north, east and west sides were set in the earth, and only the sloping, south-facing side was exposed to light."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That was made of a double layer of very strong glass.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There were also photovoltaic tiles fixed to the top and bottom of this sloping wall."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These are tiles that are designed to store energy from the sun."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the walls had a layer of foam around them too, to increase the insulation.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, what is of interest to us about this project is the features which make the building energy-efficient."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Sunlight floods in through the glass wall, and to maximise it there are lots of mirrors and windows inside the house.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That helps to spread the light around."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So that's the first thing — light is utilised as fully as possible."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In addition, the special tiles on the outside convert energy from the sun and generate some of the house's electricity.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In fact, and it's possible that in future the house may even generate an electricity surplus, and that the owners will be able to sell some to the national grid."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As well as that, wherever possible, recycled materials have been used."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example, the floors are made of reclaimed wood.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the owners haven't bought a single item of new furniture — they just kept what they already had."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And then there's the system for dealing with the waste produced in the house.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is dealt with organically — it's purified by being filtered through reed beds which have been planted for that purpose in the garden."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So the occupants of the house won't pollute the land or use any damaging chemicals."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's true that the actual construction of the house was harmful to the environment, mainly because they had to use massive amounts of concrete — one of the biggest sources of carbon dioxide in manufacturing.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And, as you know, this is very damaging to the environment."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In total, the house construction has released 70 tons of carbon dioxide into the air."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now that's a frightening thought."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, once the initial 'debt' has been cleared— and it's been calculated that this will only take fifteen years — this underground house won't cost anything — environmentally I mean — because unlike ordinary houses, it is run in a way that is completely environmentally friendly.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, eco-housing like this is likely to become much more ..."
+        }
+      ]
+    }
+  ]
+}

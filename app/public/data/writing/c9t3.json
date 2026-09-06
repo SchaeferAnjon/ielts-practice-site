@@ -1,0 +1,77 @@
+{
+  "id": "c9t3",
+  "book": "剑桥雅思9",
+  "test": 3,
+  "title": "剑9 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "pie-chart",
+      "kindZh": "饼图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The charts below give information on the ages of the populations of Yemen and Italy in 2000 and projections for 2050.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c9t3-task1.webp",
+      "imageCaption": "Ages of the populations of Yemen and Italy, 2000 and 2050",
+      "data": {
+        "unit": "% of population",
+        "years": [
+          2000,
+          2050
+        ],
+        "series": {
+          "Yemen 0-14 years": [
+            50.1,
+            37.0
+          ],
+          "Yemen 15-59 years": [
+            46.3,
+            57.3
+          ],
+          "Yemen 60+ years": [
+            3.6,
+            5.7
+          ],
+          "Italy 0-14 years": [
+            14.3,
+            11.5
+          ],
+          "Italy 15-59 years": [
+            61.6,
+            46.2
+          ],
+          "Italy 60+ years": [
+            24.1,
+            42.3
+          ]
+        }
+      },
+      "sample": {
+        "band": 6,
+        "text": "The diagrams show statistic information regarding the ages of the habitants of Yemen and Italy in 2000 and also a estimative for 2050.\n\nWe can see that in 2000 the majority of people in Yemen was between 0 and 14 years old, whith 50.1%, whereas in Italy most of the population was between 15-59 years old (61.6%), in the same year. On the other hand, just 3.6% of people in the former country was 60 years old or more in 2000, while in the latter country this figure is represented with 24.1%.\n\nThe projections for 2050 show that the number of people with 15-59 years and 60 years or more will increase in Yemen, reaching 57.3% and 5.7% respectively. In contrast, in Italy, the population with 15-59 years will decrease to 46.2%, while people with 60 years or more will grow to 42.3%.\n\nOverall, it is possible to see that there is an upward trend on the rates of people with 60 years or more in both countries.",
+        "comment": "The answer addresses the task, reporting sufficient details for the reader to be accurately informed, even though in each chart one element is implied rather than overtly stated. Clear comparisons are drawn between the two countries. An overview is given, although focusing on only one age group reduces its clarity. The information is well organised and a range of linking devices used, e.g. whereas; the latter country. Vocabulary is adequate for the task and generally accurate, though attempts to use less common words are less successful. A few errors occur in word formation, e.g. statistic (statistical); estimative (estimate), but they do not affect understanding. Simple and complex sentence forms are produced with few grammatical errors, but the range of structures is rather restricted."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people say that the best way to improve public health is by increasing the number of sports facilities. Others, however, say that this would have little effect on public health and that other measures are required.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "A problem of modern societies is the declining level of health in the general population, with conflicting views on how to tackle this worrying trend. One possible solution is to provide more sports facilities to encourage a more active lifestyle.\n\nAdvocates of this believe that today's sedentary lifestyle and stressful working conditions mean that physical activity is no longer part of either our work or our leisure time. If there were easy-to-reach local sports centres, we would be more likely to make exercise a regular part of our lives, rather than just collapsing in front of a screen every evening. The variety of sports that could be offered would cater for all ages, levels of fitness and interests: those with painful memories of PE at school might be happier in the swimming pool than on the football pitch.\n\nHowever, there may be better ways of tackling this problem. Interest in sport is not universal, and additional facilities might simply attract the already fit, not those who most need them. Physical activity could be encouraged relatively cheaply, for example by installing exercise equipment in parks, as my local council has done. This has the added benefit that parents and children often use them together just for fun, which develops a positive attitude to exercise at an early age.\n\nAs well as physical activity, high tax penalties could be imposed on high-fat food products, tobacco and alcohol, as excessive consumption of any of these contributes to poor health. Even improving public transport would help: it takes longer to walk to the bus stop than to the car.\n\nIn my opinion, focusing on sports facilities is too narrow an approach and would not have the desired results. People should be encouraged not only to be more physically active but also to adopt a healthier lifestyle in general.",
+        "comment": "This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example of many possible approaches."
+      }
+    }
+  ]
+}
