@@ -20,7 +20,7 @@ from pathlib import Path
 
 PATTERNS = [
     re.compile(r"test\s*(\d|I)\s*[-_ ，,]*\s*(?:part|section|audio|s|p)\s*(\d)", re.I),
-    re.compile(r"\bt\s*(\d)\s*(?:s|p|_audio)\s*(\d)", re.I),
+    re.compile(r"(?:\b|_)t\s*(\d)\s*(?:s|p|_audio)\s*(\d)", re.I),
     re.compile(r"C\d+T(\d)S(\d)", re.I),
 ]
 

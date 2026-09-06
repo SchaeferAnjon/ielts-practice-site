@@ -285,7 +285,10 @@
     "reading",
     "writing"
    ],
-   "audioParts": []
+   "audioParts": [
+    1,
+    2
+   ]
   },
   {
    "id": "c17t2",
@@ -299,7 +302,12 @@
     "reading",
     "writing"
    ],
-   "audioParts": []
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
   },
   {
    "id": "c17t3",
@@ -327,7 +335,12 @@
     "reading",
     "writing"
    ],
-   "audioParts": []
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
   },
   {
    "id": "c16t1",
@@ -516,7 +529,11 @@
    "bookNo": 14,
    "test": 3,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
    "audioParts": [
     1,
     2,

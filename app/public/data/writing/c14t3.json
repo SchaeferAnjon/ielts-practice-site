@@ -1,0 +1,44 @@
+{
+  "id": "c14t3",
+  "book": "剑桥雅思14",
+  "test": 3,
+  "title": "剑14 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "process",
+      "kindZh": "流程图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The diagram below shows how electricity is generated in a hydroelectric power station.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c14t3-task1.webp",
+      "imageCaption": "Hydroelectric power station",
+      "sample": {
+        "band": 6,
+        "text": "A hydroelectric power station can generate electric power by using the energy of water flowing from high level to low level. It works different functions in day and night.\n\nIn the day time, water in the high-level reservoir go through the intake under the dam which is only open in day time. Then the water flow into the power station in which there is a generator. The generator is operated by a reversible turbines that can transfer the water flowing force to the mechanical force which is the power of the generator. The generated electricity then goes to the national grid through the power lines.\n\nOn the other hand in the night time, the power station works in a reversed way. It pumps water from the low-level reservoir to high-level reservoir to provide the enough water for day time's work. The water is pumped by the same reversible turbines from low-level reservoir. So the power station actually consumes energy at night. But that is in order to generate more power in the day time.\n\nIn a conclusion, a hydroelectric power station can generate power is based on the differce heighth of water level. In day time, it uses the natural water energy. Meanwhile in the night, it transfers the water to create and store the energy for the next day.",
+        "comment": "The answer covers the key features of the process and provides an overview of this process in the final paragraph. The detail is not always clear, but the key features are adequately highlighted. Information is arranged coherently and there is a clear overall progression. Cohesive devices are used to signal different stages of the process [Then | On the other hand | So | In a conclusion | Meanwhile], and there is some use of pronouns for reference [It | which | that]. The range of vocabulary is adequate for the task [energy | operated by | transfer | mechanical], in spite of some errors in word form [a reversed way] and spelling [differce heighth]. There is a mix of simple and complex sentence forms and grammatical control is generally adequate, though there are some errors in the use of articles."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people say that music is a good way of bringing people of different cultures and ages together.",
+        "To what extent do you agree or disagree with this opinion?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 5.5,
+        "text": "I agree with this topic. In my opinion I think that music can join anypeople who has different culture together, Music can make a relationship between people all around the world. Although it has different rhytum but when the people who listen to music, their feeling will be better. For the example the woman who will be mom in the future she can use music to join between mom and her baby. I have known about how to make the patients feel better and some cases of the patients in the hospital, the doctors will use music for them. When they patients listen to music (solf music) it makes them feel better. And now we don't use music only human we can use it with animals and plants too.\n\nMusic can make us feel better, although we are different ages, nationalities and culture. when we like the same kind of music. We can join and listen together. One more example I have friend and he is the foreigner. He is around 25 years old. He likes to go anywhere with me and he likes to listen Thai song, especially song for life. He tries to practice to sing Thai song and he can do it. Now he can sing many Thai songs.\n\nIncluding I think music has some power to make human's mind. And it can make good relationship between people who has different ages, cultures and nationalities.",
+        "comment": "The response shows a clear position that is relevant to the task, with examples to support the main ideas. There is a clear overall progression, with effective use of cohesive devices [this | them | it] in spite of some errors [For the example | they patients | Including / In conclusion?]. Paragraphing is adequate. Vocabulary is generally adequate, but control over spelling and word choice is weak [anypeople | rhytum | solf / soft? | anywhere / everywhere? | song for life?], sometimes causing difficulty for the reader. There are attempts at complex sentences, but these usually contain errors [people who has | Although … but when], and punctuation is sometimes faulty (incorrect capitalisation, misuse of commas and full stops). Better control over spelling, grammar and punctuation might improve the overall score."
+      }
+    }
+  ]
+}
