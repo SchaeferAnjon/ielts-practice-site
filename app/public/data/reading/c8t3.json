@@ -1,0 +1,902 @@
+{
+  "id": "c8t3",
+  "book": "剑桥雅思8",
+  "test": 3,
+  "title": "剑8 Test 3 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "D"
+    ],
+    "2": [
+      "A"
+    ],
+    "3": [
+      "A"
+    ],
+    "4": [
+      "power companies"
+    ],
+    "5": [
+      "safely"
+    ],
+    "6": [
+      "size"
+    ],
+    "7": [
+      "B"
+    ],
+    "8": [
+      "C"
+    ],
+    "9": [
+      "G"
+    ],
+    "10": [
+      "D"
+    ],
+    "11": [
+      "NO"
+    ],
+    "12": [
+      "YES"
+    ],
+    "13": [
+      "NOT GIVEN"
+    ],
+    "14": [
+      "B",
+      "C",
+      "F",
+      "H",
+      "J"
+    ],
+    "15": [
+      "B",
+      "C",
+      "F",
+      "H",
+      "J"
+    ],
+    "16": [
+      "B",
+      "C",
+      "F",
+      "H",
+      "J"
+    ],
+    "17": [
+      "B",
+      "C",
+      "F",
+      "H",
+      "J"
+    ],
+    "18": [
+      "B",
+      "C",
+      "F",
+      "H",
+      "J"
+    ],
+    "19": [
+      "TRUE"
+    ],
+    "20": [
+      "TRUE"
+    ],
+    "21": [
+      "FALSE"
+    ],
+    "22": [
+      "TRUE"
+    ],
+    "23": [
+      "TRUE"
+    ],
+    "24": [
+      "NOT GIVEN"
+    ],
+    "25": [
+      "TRUE"
+    ],
+    "26": [
+      "NOT GIVEN"
+    ],
+    "27": [
+      "ix"
+    ],
+    "28": [
+      "ii"
+    ],
+    "29": [
+      "vii"
+    ],
+    "30": [
+      "i"
+    ],
+    "31": [
+      "viii"
+    ],
+    "32": [
+      "iv"
+    ],
+    "33": [
+      "physical chemistry",
+      "thermodynamics"
+    ],
+    "34": [
+      "physical chemistry",
+      "thermodynamics"
+    ],
+    "35": [
+      "adapt"
+    ],
+    "36": [
+      "immortality"
+    ],
+    "37": [
+      "NO"
+    ],
+    "38": [
+      "YES"
+    ],
+    "39": [
+      "NOT GIVEN"
+    ],
+    "40": [
+      "YES"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p2",
+      "why": "全文核心是用激光技术尝试控制/触发闪电放电，对应 D；A、B 只是背景细节，不是全文主旨。",
+      "key": "But researchers in the United States and Japan are planning to hit back."
+    },
+    "2": {
+      "loc": "p1",
+      "why": "题干 buildings = 原文 property，与后面 power companies 的财产损失呼应，对应 A。",
+      "key": "And there is damage to property too."
+    },
+    "3": {
+      "loc": "p3",
+      "why": "佛罗里达大学的火箭项目由 EPRI（电力公司资助）支持，Diels 的激光项目也由 EPRI 资助，二者资金来源相同，对应 A。",
+      "key": "EPRI, which is funded by power companies, is looking at ways to protect the United States' power grid from lightning strikes."
+    },
+    "4": {
+      "loc": "p3",
+      "why": "题干 receives financial support from = 原文 funded by，答案 power companies。",
+      "key": "EPRI, which is funded by power companies, is looking at ways to protect the United States' power grid from lightning strikes."
+    },
+    "5": {
+      "loc": "p4",
+      "why": "题干 can be used = 原文 use lasers to discharge lightning，方式是 safely，答案 safely。",
+      "key": "Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely — and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk."
+    },
+    "6": {
+      "loc": "p6",
+      "why": "激光设备体积巨大（takes up a whole room），主要困难在于其 size。",
+      "key": "The laser is no nifty portable: it's a monster that takes up a whole room."
+    },
+    "7": {
+      "loc": "p5",
+      "why": "电子是从 atoms 中被移除的，对应词表 B atoms。",
+      "key": "The idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions."
+    },
+    "8": {
+      "loc": "p5",
+      "why": "电离路径一直延伸到 storm cloud，激光对准的正是 storm clouds，对应词表 C。",
+      "key": "If a laser could generate a line of ionisation in the air all the way up to a storm cloud, this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge."
+    },
+    "9": {
+      "loc": "p3",
+      "why": "激光法比使用 rockets 更安全，对应词表 G。",
+      "key": "'We can cause the lightning to strike where we want it to using rockets,' says Ralph Bernstein, manager of lightning projects at EPRI."
+    },
+    "10": {
+      "loc": "p5",
+      "why": "为保护激光器不被直接击中，光束先射向 mirror，对应词表 D。",
+      "key": "Instead it would be directed at a mirror, and from there into the sky."
+    },
+    "11": {
+      "loc": "p7",
+      "why": "电力公司尚未拿出研发商用系统所需的 500 万美元，说明并未给予足够资金，故为 NO。",
+      "key": "But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper."
+    },
+    "12": {
+      "loc": "p7",
+      "why": "Bernstein 认为即将进行的野外测试将是资金到位的转折点，说明获得改进资金取决于真实风暴测试，故为 YES。",
+      "key": "He reckons that the forthcoming field tests will be the turning point — and he's hoping for good news."
+    },
+    "13": {
+      "loc": "p8",
+      "why": "文中只提到 Diels 希望发展'交互式气象学'，并未提及气象预报员对该系统的兴趣，故为 NOT GIVEN。",
+      "key": "Diels also hopes to see the birth of 'interactive meteorology' — not just forecasting the weather but controlling it."
+    },
+    "14": {
+      "loc": "p2",
+      "why": "对应选项 B：神童过早耗尽天赋（burn out = talents are soon exhausted）。",
+      "key": "In the mythology of giftedness, it is popularly believed that if people are talented in one area, they must be defective in another, that intellectuals are impractical, that prodigies burn too brightly too soon and burn out, that gifted people are eccentric, that they are physical weaklings, that there's a thin line between genius and madness, that genius runs in families, that the gifted are so clever they don't need special help, that giftedness is the same as having a high IQ, that some races are more intelligent or musical or mathematical than others, that genius goes unrecognised and unrewarded, that adversity makes men wise or that people with gifts have a responsibility to use them."
+    },
+    "15": {
+      "loc": "p2",
+      "why": "对应选项 C：有天赋的人应该运用自己的天赋（responsibility to use them）。",
+      "key": "In the mythology of giftedness, it is popularly believed that if people are talented in one area, they must be defective in another, that intellectuals are impractical, that prodigies burn too brightly too soon and burn out, that gifted people are eccentric, that they are physical weaklings, that there's a thin line between genius and madness, that genius runs in families, that the gifted are so clever they don't need special help, that giftedness is the same as having a high IQ, that some races are more intelligent or musical or mathematical than others, that genius goes unrecognised and unrewarded, that adversity makes men wise or that people with gifts have a responsibility to use them."
+    },
+    "16": {
+      "loc": "p2",
+      "why": "对应选项 F：天才是遗传的（genius runs in families = genius is inherited）。",
+      "key": "In the mythology of giftedness, it is popularly believed that if people are talented in one area, they must be defective in another, that intellectuals are impractical, that prodigies burn too brightly too soon and burn out, that gifted people are eccentric, that they are physical weaklings, that there's a thin line between genius and madness, that genius runs in families, that the gifted are so clever they don't need special help, that giftedness is the same as having a high IQ, that some races are more intelligent or musical or mathematical than others, that genius goes unrecognised and unrewarded, that adversity makes men wise or that people with gifts have a responsibility to use them."
+    },
+    "17": {
+      "loc": "p2",
+      "why": "对应选项 H：人们从不欣赏真正的天才（unrecognised and unrewarded）。",
+      "key": "In the mythology of giftedness, it is popularly believed that if people are talented in one area, they must be defective in another, that intellectuals are impractical, that prodigies burn too brightly too soon and burn out, that gifted people are eccentric, that they are physical weaklings, that there's a thin line between genius and madness, that genius runs in families, that the gifted are so clever they don't need special help, that giftedness is the same as having a high IQ, that some races are more intelligent or musical or mathematical than others, that genius goes unrecognised and unrewarded, that adversity makes men wise or that people with gifts have a responsibility to use them."
+    },
+    "18": {
+      "loc": "p2",
+      "why": "对应选项 J：逆境使人变得睿智，即有天赋的人通过困难磨练出伟大（adversity makes men wise）。",
+      "key": "In the mythology of giftedness, it is popularly believed that if people are talented in one area, they must be defective in another, that intellectuals are impractical, that prodigies burn too brightly too soon and burn out, that gifted people are eccentric, that they are physical weaklings, that there's a thin line between genius and madness, that genius runs in families, that the gifted are so clever they don't need special help, that giftedness is the same as having a high IQ, that some races are more intelligent or musical or mathematical than others, that genius goes unrecognised and unrewarded, that adversity makes men wise or that people with gifts have a responsibility to use them."
+    },
+    "19": {
+      "loc": "p3",
+      "why": "十九世纪的研究没有参照当时的常态（如早期教育、家庭环境等是否普遍），忽略了个人成长背景的独特性，故为 TRUE。",
+      "key": "In other words, when, for instance, information is collated about early illnesses, methods of upbringing, schooling, etc., we must also take into account information from other historical sources about how common or exceptional these were at the time."
+    },
+    "20": {
+      "loc": "p3",
+      "why": "文中说明只有到二十世纪儿科学和心理学发展后，研究才能在更客观、更科学的基础上进行，说明此前的研究缺乏客观性与科学方法，故为 TRUE。",
+      "key": "It was only with the growth of paediatrics and psychology in the twentieth century that studies could be carried out on a more objective, if still not always very scientific, basis."
+    },
+    "21": {
+      "loc": "p4",
+      "why": "作者对约翰逊'天才是具有广泛能力'的说法表示怀疑，认为音乐天才未必能成为科学天才，与题干矛盾，故为 FALSE。",
+      "key": "We may disagree with the 'general', for we doubt if all musicians of genius could have become scientists of genius or vice versa, but there is no doubting the accidental determination which nurtured or triggered their gifts into those channels into which they have poured their powers so successfully."
+    },
+    "22": {
+      "loc": "p5",
+      "why": "天才的能力与普通人相似，只是程度上远远超越，说明本质相同，故为 TRUE。",
+      "key": "What we appreciate, enjoy or marvel at in the works of genius or the achievements of prodigies are the manifestations of skills or abilities which are similar to, but so much superior to, our own."
+    },
+    "23": {
+      "loc": "p5",
+      "why": "伟大的发现后来变得人尽皆知，但这并不减损其成就的卓越性（does not minimise the supremacy of their achievements），故为 TRUE。",
+      "key": "But that their minds are not different from our own is demonstrated by the fact that the hard-won discoveries of scientists like Kepler or Einstein become the commonplace knowledge of schoolchildren and the once outrageous shapes and colours of an artist like Paul Klee so soon appear on the fabrics we wear."
+    },
+    "24": {
+      "loc": "p7",
+      "why": "文章并未提及为保留人类天赋而进行科学研究的说法，故为 NOT GIVEN。",
+      "key": "Genius and giftedness are relative descriptive terms of no real substance."
+    },
+    "25": {
+      "loc": "p6",
+      "why": "文中列举天才为成就所付出的代价（毅力、专注、牺牲个人生活等），故为 TRUE。",
+      "key": "We may envy their achievements and fame, but we should also recognise the price they may have paid in terms of perseverance, single-mindedness, dedication, restrictions on their personal lives, the demands upon their energies and time, and how often they had to display great courage to preserve their integrity or to make their way to the top."
+    },
+    "26": {
+      "loc": "p6",
+      "why": "作者只提到天才付出的代价，并未评判这种代价是否'值得'，故为 NOT GIVEN。",
+      "key": "We may envy their achievements and fame, but we should also recognise the price they may have paid in terms of perseverance, single-mindedness, dedication, restrictions on their personal lives, the demands upon their energies and time, and how often they had to display great courage to preserve their integrity or to make their way to the top."
+    },
+    "27": {
+      "loc": "B",
+      "why": "B 段对比人造物体与生物体衰老原理的根本差异，对应标题 ix。",
+      "key": "Ageing in this case must occur according to the laws of physical chemistry and of thermodynamics."
+    },
+    "28": {
+      "loc": "C",
+      "why": "C 段说明死亡对进化有益（为新物种腾出空间），对应标题 ii。",
+      "key": "Immortality would disturb this system — it needs room for new and better life."
+    },
+    "29": {
+      "loc": "D",
+      "why": "D 段说明尽管医疗进步，人类寿命上限几千年来基本不变，对应标题 vii（改善条件下寿命依然稳定）。",
+      "key": "For example, the average duration of human life has hardly changed in thousands of years."
+    },
+    "30": {
+      "loc": "E",
+      "why": "E 段提出生物体内存在控制衰老与死亡的'内部时钟'，对应标题 i。",
+      "key": "If a life span is a genetically determined biological characteristic, it is logically necessary to propose the existence of an internal clock, which in some way measures and controls the ageing process and which finally determines death as the last step in a fixed programme."
+    },
+    "31": {
+      "loc": "F",
+      "why": "F 段讨论动物节省能量消耗与寿命长短的关系，对应标题 viii。",
+      "key": "Animals which behave 'frugally' with energy become particularly old, for example, crocodiles and tortoises."
+    },
+    "32": {
+      "loc": "G",
+      "why": "G 段说明节约能量储备有助延长寿命，对应标题 iv（延长寿命的方法）。",
+      "key": "It follows from the above that sparing use of energy reserves should tend to extend life."
+    },
+    "33": {
+      "loc": "B",
+      "why": "题干 principles of = 原文 the laws of，答案为 physical chemistry 和 thermodynamics（顺序不限）。",
+      "key": "Ageing in this case must occur according to the laws of physical chemistry and of thermodynamics."
+    },
+    "34": {
+      "loc": "B",
+      "why": "同上，另一个空填 thermodynamics。",
+      "key": "Ageing in this case must occur according to the laws of physical chemistry and of thermodynamics."
+    },
+    "35": {
+      "loc": "C",
+      "why": "题干 better to the environment = 原文 better adaptation to the environmental conditions，动词填 adapt。",
+      "key": "Because of changes in the genetic material (mutations) these have new characteristics and in the course of their individual lives they are tested for optimal or better adaptation to the environmental conditions."
+    },
+    "36": {
+      "loc": "C",
+      "why": "题干主语空格对应 Immortality（永生），永生会扰乱新旧物种更替，对进化论构成严重问题。",
+      "key": "Immortality would disturb this system — it needs room for new and better life."
+    },
+    "37": {
+      "loc": "B",
+      "why": "文中指出磨损定律对生物体的作用方式并不像对人造物体那样不可避免，说明该理论并不完全适用于两者，故为 NO。",
+      "key": "Although the same law holds for a living organism, the result of this law is not inexorable in the same way."
+    },
+    "38": {
+      "loc": "B",
+      "why": "文中明确说明只要生物系统具有自我更新能力，理论上可以'变老而不衰老'，故为 YES。",
+      "key": "At least as long as a biological system has the ability to renew itself it could actually become older without ageing; an organism is an open, dynamic system through which new material continuously flows."
+    },
+    "39": {
+      "loc": "B",
+      "why": "文中只说身体不断以新物质替换旧物质，并未给出七年内 90% 被替换的具体数字，故为 NOT GIVEN。",
+      "key": "Thus our bodies continuously exchange old substance for new, just like a spring which more or less maintains its form and movement, but in which the water molecules are always different."
+    },
+    "40": {
+      "loc": "G",
+      "why": "G 段明确指出节约能量有助于延长寿命，故为 YES。",
+      "key": "It follows from the above that sparing use of energy reserves should tend to extend life."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Striking Back at Lightning With Lasers",
+      "intro": "You should spend about 20 minutes on Questions 1-13 which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Seldom is the weather more dramatic than when thunderstorms strike. Their electrical fury inflicts death or serious injury on around 500 people each year in the United States alone. As the clouds roll in, a leisurely round of golf can become a terrifying dice with death — out in the open, a lone golfer may be a lightning bolt's most inviting target. And there is damage to property too. Lightning damage costs American power companies more than $100 million a year."
+        },
+        {
+          "id": "p2",
+          "text": "But researchers in the United States and Japan are planning to hit back. Already in laboratory trials they have tested strategies for neutralising the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike."
+        },
+        {
+          "id": "p3",
+          "text": "The idea of forcing storm clouds to discharge their lightning on command is not new. In the early 1960s, researchers tried firing rockets trailing wires into thunderclouds to set up an easy discharge path for the huge electric charges that these clouds generate. The technique survives to this day at a test site in Florida run by the University of Florida, with support from the Electrical Power Research Institute (EPRI), based in California. EPRI, which is funded by power companies, is looking at ways to protect the United States' power grid from lightning strikes. 'We can cause the lightning to strike where we want it to using rockets,' says Ralph Bernstein, manager of lightning projects at EPRI. The rocket site is providing precise measurements of lightning voltages and allowing engineers to check how electrical equipment bears up."
+        },
+        {
+          "id": "p4",
+          "text": "Bad behaviour\n\nBut while rockets are fine for research, they cannot provide the protection from lightning strikes that everyone is looking for. The rockets cost around $1,200 each, can only be fired at a limited frequency and their failure rate is about 40 per cent. And even when they do trigger lightning, things still do not always go according to plan. 'Lightning is not perfectly well behaved,' says Bernstein. 'Occasionally, it will take a branch and go someplace it wasn't supposed to go.' And anyway, who would want to fire streams of rockets in a populated area? 'What goes up must come down,' points out Jean-Claude Diels of the University of New Mexico. Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely — and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk. With around $500,000 invested so far, a promising system is just emerging from the laboratory."
+        },
+        {
+          "id": "p5",
+          "text": "The idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions. If a laser could generate a line of ionisation in the air all the way up to a storm cloud, this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge. To stop the laser itself being struck, it would not be pointed straight at the clouds. Instead it would be directed at a mirror, and from there into the sky. The mirror would be protected by placing lightning conductors close by. Ideally, the cloud-zapper (gun) would be cheap enough to be installed around all key power installations, and portable enough to be taken to international sporting events to beam up at brewing storm clouds."
+        },
+        {
+          "id": "p6",
+          "text": "A stumbling block\n\nHowever, there is still a big stumbling block. The laser is no nifty portable: it's a monster that takes up a whole room. Diels is trying to cut down the size and says that a laser around the size of a small table is in the offing. He plans to test this more manageable system on live thunderclouds next summer."
+        },
+        {
+          "id": "p7",
+          "text": "Bernstein says that Diels's system is attracting lots of interest from the power companies. But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper. 'I cannot say I have money yet, but I'm working on it,' says Bernstein. He reckons that the forthcoming field tests will be the turning point — and he's hoping for good news. Bernstein predicts 'an avalanche of interest and support' if all goes well. He expects to see cloud-zappers eventually costing $50,000 to $100,000 each."
+        },
+        {
+          "id": "p8",
+          "text": "Other scientists could also benefit. With a lightning 'switch' at their fingertips, materials scientists could find out what happens when mighty currents meet matter. Diels also hopes to see the birth of 'interactive meteorology' — not just forecasting the weather but controlling it. 'If we could discharge clouds, we might affect the weather,' he says."
+        },
+        {
+          "id": "p9",
+          "text": "And perhaps, says Diels, we'll be able to confront some other meteorological menaces. 'We think we could prevent hail by inducing lightning,' he says. Thunder, the shock wave that comes from a lightning flash, is thought to be the trigger for the torrential rain that is typical of storms. A laser thunder factory could shake the moisture out of clouds, perhaps preventing the formation of the giant hailstones that threaten crops. With luck, as the storm clouds gather this winter, laser-toting researchers could, for the first time, strike back."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            3
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "limit": "Write the correct letter in boxes 1-3 on your answer sheet.",
+          "questions": [
+            {
+              "n": 1,
+              "text": "The main topic discussed in the text is",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the damage caused to US golf courses and golf players by lightning strikes."
+                },
+                {
+                  "k": "B",
+                  "text": "the effect of lightning on power supplies in the US and in Japan."
+                },
+                {
+                  "k": "C",
+                  "text": "a variety of methods used in trying to control lightning strikes."
+                },
+                {
+                  "k": "D",
+                  "text": "a laser technique used in trying to control lightning strikes."
+                }
+              ]
+            },
+            {
+              "n": 2,
+              "text": "According to the text, every year lightning",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "does considerable damage to buildings during thunderstorms."
+                },
+                {
+                  "k": "B",
+                  "text": "kills or injures mainly golfers in the United States."
+                },
+                {
+                  "k": "C",
+                  "text": "kills or injures around 500 people throughout the world."
+                },
+                {
+                  "k": "D",
+                  "text": "damages more than 100 American power companies."
+                }
+              ]
+            },
+            {
+              "n": 3,
+              "text": "Researchers at the University of Florida and at the University of New Mexico",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "receive funds from the same source."
+                },
+                {
+                  "k": "B",
+                  "text": "are using the same techniques."
+                },
+                {
+                  "k": "C",
+                  "text": "are employed by commercial companies."
+                },
+                {
+                  "k": "D",
+                  "text": "are in opposition to each other."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            4,
+            6
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "lines": [
+            "EPRI receives financial support from {{4}}.",
+            "The advantage of the technique being developed by Diels is that it can be used {{5}}.",
+            "The main difficulty associated with using the laser equipment is related to its {{6}}."
+          ]
+        },
+        {
+          "range": [
+            7,
+            10
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words, A-I, below.",
+          "limit": "Write the correct letter, A-I, in boxes 7-10 on your answer sheet.",
+          "text": "In this method, a laser is used to create a line of ionisation by removing electrons from {{7}}. This laser is then directed at {{8}} in order to control electrical charges, a method which is less dangerous than using {{9}}. As a protection for the lasers, the beams are aimed firstly at {{10}}.",
+          "options": [
+            {
+              "k": "A",
+              "text": "cloud-zappers"
+            },
+            {
+              "k": "B",
+              "text": "atoms"
+            },
+            {
+              "k": "C",
+              "text": "storm clouds"
+            },
+            {
+              "k": "D",
+              "text": "mirrors"
+            },
+            {
+              "k": "E",
+              "text": "technique"
+            },
+            {
+              "k": "F",
+              "text": "ions"
+            },
+            {
+              "k": "G",
+              "text": "rockets"
+            },
+            {
+              "k": "H",
+              "text": "conductors"
+            },
+            {
+              "k": "I",
+              "text": "thunder"
+            }
+          ]
+        },
+        {
+          "range": [
+            11,
+            13
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 11,
+              "text": "Power companies have given Diels enough money to develop his laser."
+            },
+            {
+              "n": 12,
+              "text": "Obtaining money to improve the lasers will depend on tests in real storms."
+            },
+            {
+              "n": 13,
+              "text": "Weather forecasters are intensely interested in Diels's system."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The Nature of Genius",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "There has always been an interest in geniuses and prodigies. The word 'genius', from the Latin gens (= family) and the term 'genius', meaning 'begetter', comes from the early Roman cult of a divinity as the head of the family. In its earliest form, genius was concerned with the ability of the head of the family, the paterfamilias, to perpetuate himself. Gradually, genius came to represent a person's characteristics and thence an individual's highest attributes derived from his 'genius' or guiding spirit. Today, people still look to stars or genes, astrology or genetics, in the hope of finding the source of exceptional abilities or personal characteristics."
+        },
+        {
+          "id": "p2",
+          "text": "The concept of genius and of gifts has become part of our folk culture, and attitudes are ambivalent towards them. We envy the gifted and mistrust them. In the mythology of giftedness, it is popularly believed that if people are talented in one area, they must be defective in another, that intellectuals are impractical, that prodigies burn too brightly too soon and burn out, that gifted people are eccentric, that they are physical weaklings, that there's a thin line between genius and madness, that genius runs in families, that the gifted are so clever they don't need special help, that giftedness is the same as having a high IQ, that some races are more intelligent or musical or mathematical than others, that genius goes unrecognised and unrewarded, that adversity makes men wise or that people with gifts have a responsibility to use them. Language has been enriched with such terms as 'highbrow', 'egghead', 'blue-stocking', 'wiseacre', 'know-all', 'boffin' and, for many, 'intellectual' is a term of denigration."
+        },
+        {
+          "id": "p3",
+          "text": "The nineteenth century saw considerable interest in the nature of genius, and produced not a few studies of famous prodigies. Perhaps for us today, two of the most significant aspects of most of these studies of genius are the frequency with which early encouragement and teaching by parents and tutors had beneficial effects on the intellectual, artistic or musical development of the children but caused great difficulties of adjustment later in their lives, and the frequency with which abilities went unrecognised by teachers and schools. However, the difficulty with the evidence produced by these studies, fascinating as they are in collecting together anecdotes and apparent similarities and exceptions, is that they are not what we would today call norm-referenced. In other words, when, for instance, information is collated about early illnesses, methods of upbringing, schooling, etc., we must also take into account information from other historical sources about how common or exceptional these were at the time. For instance, infant mortality was high and life expectancy much shorter than today, home tutoring was common in the families of the nobility and wealthy, bullying and corporal punishment were common at the best independent schools and, for the most part, the cases studied were members of the privileged classes. It was only with the growth of paediatrics and psychology in the twentieth century that studies could be carried out on a more objective, if still not always very scientific, basis."
+        },
+        {
+          "id": "p4",
+          "text": "Geniuses, however they are defined, are but the peaks which stand out through the mist of history and are visible to the particular observer from his or her particular vantage point. Change the observers and the vantage points, clear away some of the mist, and a different lot of peaks appear. Genius is a term we apply to those whom we recognise for their outstanding achievements and who stand near the end of the continuum of human abilities which reaches back through the mundane and mediocre to the incapable. There is still much truth in Dr Samuel Johnson's observation, 'The true genius is a mind of large general powers, accidentally determined to some particular direction'. We may disagree with the 'general', for we doubt if all musicians of genius could have become scientists of genius or vice versa, but there is no doubting the accidental determination which nurtured or triggered their gifts into those channels into which they have poured their powers so successfully. Along the continuum of abilities are hundreds of thousands of gifted men and women, boys and girls."
+        },
+        {
+          "id": "p5",
+          "text": "What we appreciate, enjoy or marvel at in the works of genius or the achievements of prodigies are the manifestations of skills or abilities which are similar to, but so much superior to, our own. But that their minds are not different from our own is demonstrated by the fact that the hard-won discoveries of scientists like Kepler or Einstein become the commonplace knowledge of schoolchildren and the once outrageous shapes and colours of an artist like Paul Klee so soon appear on the fabrics we wear. This does not minimise the supremacy of their achievements, which outstrip our own as the sub-four-minute milers outstrip our jogging."
+        },
+        {
+          "id": "p6",
+          "text": "To think of geniuses and the gifted as having uniquely different brains is only reasonable if we accept that each human brain is uniquely different. The purpose of instruction is to make us even more different from one another, and in the process of being educated we can learn from the achievements of those more gifted than ourselves. But before we try to emulate geniuses or encourage our children to do so we should note that some of the things we learn from them may prove unpalatable. We may envy their achievements and fame, but we should also recognise the price they may have paid in terms of perseverance, single-mindedness, dedication, restrictions on their personal lives, the demands upon their energies and time, and how often they had to display great courage to preserve their integrity or to make their way to the top."
+        },
+        {
+          "id": "p7",
+          "text": "Genius and giftedness are relative descriptive terms of no real substance. We may, at best, give them some precision by defining them and placing them in a context but, whatever we do, we should never delude ourselves into believing that gifted children or geniuses are different from the rest of humanity, save in the degree to which they have developed the performance of their abilities."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            18
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose FIVE letters, A-K.",
+          "limit": "Write the correct letters in boxes 14-18 on your answer sheet. NB Your answers may be given in any order.",
+          "text": "Below are listed some popular beliefs about genius and giftedness. Which FIVE of these beliefs are reported by the writer of the text?",
+          "count": 5,
+          "options": [
+            {
+              "k": "A",
+              "text": "Truly gifted people are talented in all areas."
+            },
+            {
+              "k": "B",
+              "text": "The talents of geniuses are soon exhausted."
+            },
+            {
+              "k": "C",
+              "text": "Gifted people should use their gifts."
+            },
+            {
+              "k": "D",
+              "text": "A genius appears once in every generation."
+            },
+            {
+              "k": "E",
+              "text": "Genius can be easily destroyed by discouragement."
+            },
+            {
+              "k": "F",
+              "text": "Genius is inherited."
+            },
+            {
+              "k": "G",
+              "text": "Gifted people are very hard to live with."
+            },
+            {
+              "k": "H",
+              "text": "People never appreciate true genius."
+            },
+            {
+              "k": "I",
+              "text": "Geniuses are natural leaders."
+            },
+            {
+              "k": "J",
+              "text": "Gifted people develop their greatness through difficulties."
+            },
+            {
+              "k": "K",
+              "text": "Genius will always reveal itself."
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            26
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 19,
+              "text": "Nineteenth-century studies of the nature of genius failed to take into account the uniqueness of the person's upbringing."
+            },
+            {
+              "n": 20,
+              "text": "Nineteenth-century studies of genius lacked both objectivity and a proper scientific approach."
+            },
+            {
+              "n": 21,
+              "text": "A true genius has general powers capable of excellence in any area."
+            },
+            {
+              "n": 22,
+              "text": "The skills of ordinary individuals are in essence the same as the skills of prodigies."
+            },
+            {
+              "n": 23,
+              "text": "The ease with which truly great ideas are accepted and taken for granted fails to lessen their significance."
+            },
+            {
+              "n": 24,
+              "text": "Giftedness and genius deserve proper scientific research into their true nature so that all talent may be retained for the human race."
+            },
+            {
+              "n": 25,
+              "text": "Geniuses often pay a high price to achieve greatness."
+            },
+            {
+              "n": 26,
+              "text": "To be a genius is worth the high personal cost."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "How Does the Biological Clock Tick?",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 on the following pages.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Our life span is restricted. Everyone accepts this as 'biologically' obvious. 'Nothing lives for ever!' However, in this statement we think of artificially produced, technical objects, products which are subjected to natural wear and tear during use. This leads to the result that at some time or other the object stops working and is unusable ('death' in the biological sense). But are the wear and tear and loss of function of technical objects and the death of living organisms really similar or comparable?"
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Our 'dead' products are 'static', closed systems. It is always the basic material which constitutes the object and which, in the natural course of things, is worn down and becomes 'older'. Ageing in this case must occur according to the laws of physical chemistry and of thermodynamics. Although the same law holds for a living organism, the result of this law is not inexorable in the same way. At least as long as a biological system has the ability to renew itself it could actually become older without ageing; an organism is an open, dynamic system through which new material continuously flows. Destruction of old material and formation of new material are thus in permanent dynamic equilibrium. The material of which the organism is formed changes continuously. Thus our bodies continuously exchange old substance for new, just like a spring which more or less maintains its form and movement, but in which the water molecules are always different."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Thus ageing and death should not be seen as inevitable, particularly as the organism possesses many mechanisms for repair. It is not, in principle, necessary for a biological system to age and die. Nevertheless, a restricted life span, ageing, and then death are basic characteristics of life. The reason for this is easy to recognise: in nature, the existent organisms either adapt or are regularly replaced by new types. Because of changes in the genetic material (mutations) these have new characteristics and in the course of their individual lives they are tested for optimal or better adaptation to the environmental conditions. Immortality would disturb this system — it needs room for new and better life. This is the basic problem of evolution."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Every organism has a life span which is highly characteristic. There are striking differences in life span between different species, but within one species the parameter is relatively constant. For example, the average duration of human life has hardly changed in thousands of years. Although more and more people attain an advanced age as a result of developments in medical care and better nutrition, the characteristic upper limit for most remains 80 years. A further argument against the simple wear and tear theory is the observation that the time within which organisms age lies between a few days (even a few hours for unicellular organisms) and several thousand years, as with mammoth trees."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "If a life span is a genetically determined biological characteristic, it is logically necessary to propose the existence of an internal clock, which in some way measures and controls the ageing process and which finally determines death as the last step in a fixed programme. Like the life span, the metabolic rate has for different organisms a fixed mathematical relationship to the body mass. In comparison to the life span this relationship is 'inverted': the larger the organism the lower its metabolic rate. Again this relationship is valid not only for birds, but also, similarly on average within the systematic unit, for all other organisms (plants, animals, unicellular organisms)."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Animals which behave 'frugally' with energy become particularly old, for example, crocodiles and tortoises. Parrots and birds of prey are often held chained up. Thus they are not able to 'experience life' and so they attain a high life span in captivity. Animals which save energy by hibernation or lethargy (e.g. bats or hedgehogs) live much longer than those which are always active. The metabolic rate of mice can be reduced by a very low consumption of food (hunger diet). They then may live twice as long as their well fed comrades. Women become distinctly (about 10 per cent) older than men. If you examine the metabolic rates of the two sexes you establish that the higher male metabolic rate roughly accounts for the lower male life span. That means that they live life 'energetically' — more intensively, but not for as long."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "It follows from the above that sparing use of energy reserves should tend to extend life. Extreme high performance sports may lead to optimal cardiovascular performance, but they quite certainly do not prolong life. Relaxation lowers metabolic rate, as does adequate sleep and in general an equable and balanced personality. Each of us can develop his or her own 'energy saving programme' with a little self-observation, critical self-control and, above all, logical consistency. Experience will show that to live in this way not only increases the life span but is also very healthy. This final aspect should not be forgotten."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            32
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the list of headings below. (Paragraph A has been done as an example: heading v.)",
+          "limit": "Write the correct number, i-x, in boxes 27-32 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "The biological clock"
+            },
+            {
+              "k": "ii",
+              "text": "Why dying is beneficial"
+            },
+            {
+              "k": "iii",
+              "text": "The ageing process of men and women"
+            },
+            {
+              "k": "iv",
+              "text": "Prolonging your life"
+            },
+            {
+              "k": "v",
+              "text": "Limitations of life span"
+            },
+            {
+              "k": "vi",
+              "text": "Modes of development of different species"
+            },
+            {
+              "k": "vii",
+              "text": "A stable life span despite improvements"
+            },
+            {
+              "k": "viii",
+              "text": "Energy consumption"
+            },
+            {
+              "k": "ix",
+              "text": "Fundamental differences in ageing of objects and organisms"
+            },
+            {
+              "k": "x",
+              "text": "Repair of genetic material"
+            }
+          ],
+          "itemsTitle": "Paragraphs",
+          "items": [
+            {
+              "n": 27,
+              "text": "Paragraph B"
+            },
+            {
+              "n": 28,
+              "text": "Paragraph C"
+            },
+            {
+              "n": 29,
+              "text": "Paragraph D"
+            },
+            {
+              "n": 30,
+              "text": "Paragraph E"
+            },
+            {
+              "n": 31,
+              "text": "Paragraph F"
+            },
+            {
+              "n": 32,
+              "text": "Paragraph G"
+            }
+          ]
+        },
+        {
+          "range": [
+            33,
+            36
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "lines": [
+            "Objects age in accordance with principles of {{33}} and of {{34}}",
+            "Through mutations, organisms can {{35}} better to the environment",
+            "{{36}} would pose a serious problem for the theory of evolution"
+          ]
+        },
+        {
+          "range": [
+            37,
+            40
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the views of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the views of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 37,
+              "text": "The wear and tear theory applies to both artificial objects and biological systems."
+            },
+            {
+              "n": 38,
+              "text": "In principle, it is possible for a biological system to become older without ageing."
+            },
+            {
+              "n": 39,
+              "text": "Within seven years, about 90 per cent of a human body is replaced as new."
+            },
+            {
+              "n": 40,
+              "text": "Conserving energy may help to extend a human's life."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

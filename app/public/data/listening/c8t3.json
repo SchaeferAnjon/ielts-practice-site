@@ -1,0 +1,2008 @@
+{
+  "id": "c8t3",
+  "book": "剑桥雅思8",
+  "test": 3,
+  "title": "剑8 Test 3 · Listening",
+  "source": "Cambridge IELTS 8, Test 3（OCR 扫描件 + 人工校对）",
+  "answers": {
+    "1": [
+      "central"
+    ],
+    "2": [
+      "600",
+      "£600"
+    ],
+    "3": [
+      "2 years",
+      "2 year",
+      "two years"
+    ],
+    "4": [
+      "garage"
+    ],
+    "5": [
+      "garden"
+    ],
+    "6": [
+      "study"
+    ],
+    "7": [
+      "noisy"
+    ],
+    "8": [
+      "595"
+    ],
+    "9": [
+      "B",
+      "E"
+    ],
+    "10": [
+      "B",
+      "E"
+    ],
+    "11": [
+      "classical music",
+      "classical music concerts"
+    ],
+    "12": [
+      "bookshop",
+      "bookstore"
+    ],
+    "13": [
+      "planned"
+    ],
+    "14": [
+      "1983",
+      "the 1980s",
+      "1980s"
+    ],
+    "15": [
+      "City Council",
+      "the City Council"
+    ],
+    "16": [
+      "363"
+    ],
+    "17": [
+      "Garden Hall",
+      "the Garden Hall"
+    ],
+    "18": [
+      "Three Lives"
+    ],
+    "19": [
+      "4.50",
+      "£4.50"
+    ],
+    "20": [
+      "Faces of China"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "B"
+    ],
+    "33": [
+      "B"
+    ],
+    "34": [
+      "A"
+    ],
+    "35": [
+      "combination",
+      "system"
+    ],
+    "36": [
+      "safety"
+    ],
+    "37": [
+      "attitude",
+      "attitudes"
+    ],
+    "38": [
+      "control",
+      "controls"
+    ],
+    "39": [
+      "factory",
+      "factories"
+    ],
+    "40": [
+      "skills",
+      "skill"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c8/t3p1.mp3",
+      "duration": 454,
+      "title": "Rented Properties",
+      "groups": [
+        {
+          "range": [
+            1,
+            3
+          ],
+          "type": "notes",
+          "instruction": "Complete the form below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Rented Properties",
+          "lines": [
+            "## Customer's Requirements",
+            "Name: Steven Godfrey",
+            "## Example Answer",
+            "No. of bedrooms: four",
+            "Preferred location: in the {{1}} area of town",
+            "Maximum monthly rent: £{{2}}",
+            "Length of let required: {{3}}",
+            "Starting: September 1st"
+          ]
+        },
+        {
+          "range": [
+            4,
+            8
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Rented Properties",
+          "table": {
+            "head": [
+              "Address",
+              "Rooms",
+              "Monthly rent",
+              "Problem"
+            ],
+            "rows": [
+              [
+                "Oakington Avenue",
+                "living/dining room,\nseparate kitchen",
+                "£550",
+                "no {{4}}"
+              ],
+              [
+                "Mead Street",
+                "large living room and\nkitchen, bathroom and a\ncloakroom",
+                "£580",
+                "the {{5}}\nis too large"
+              ],
+              [
+                "Hamilton Road",
+                "living room, kitchen-\ndiner, and a\n{{6}}",
+                "£550",
+                "too {{7}}"
+              ],
+              [
+                "Devon Close",
+                "living room, dining room,\nsmall kitchen",
+                "£{{8}}",
+                "none"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            9,
+            10
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO facilities in the district of Devon Close are open to the public at the moment?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "museum"
+            },
+            {
+              "k": "B",
+              "text": "concert hall"
+            },
+            {
+              "k": "C",
+              "text": "cinema"
+            },
+            {
+              "k": "D",
+              "text": "sports centre"
+            },
+            {
+              "k": "E",
+              "text": "swimming pool"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "WOMAN",
+          "t": "Good morning. How can I help you?",
+          "start": 117.56,
+          "end": 119.04
+        },
+        {
+          "s": "MAN",
+          "t": "Hello.",
+          "start": 119.16,
+          "end": 119.76
+        },
+        {
+          "s": "MAN",
+          "t": "I'm interested in renting a house somewhere in the town.",
+          "start": 120.2,
+          "end": 122.84
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right.",
+          "start": 123.48,
+          "end": 123.56
+        },
+        {
+          "s": "WOMAN",
+          "t": "Could I have your name please?",
+          "start": 124.68,
+          "end": 126.08
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, it's Steven Godfrey.",
+          "start": 126.24,
+          "end": 128.04
+        },
+        {
+          "s": "WOMAN",
+          "t": "And tell me how many bedrooms you're looking for.",
+          "start": 129.53,
+          "end": 132.05
+        },
+        {
+          "s": "MAN",
+          "t": "Well, we'd need four, because I'm going to share the house with three friends.",
+          "start": 132.21,
+          "end": 136.85
+        },
+        {
+          "s": "WOMAN",
+          "t": "Okay, there are several of that size on our books.",
+          "start": 184.66,
+          "end": 186.58
+        },
+        {
+          "s": "WOMAN",
+          "t": "They mostly belong to families who are working abroad at the moment.",
+          "start": 187.17,
+          "end": 189.85
+        },
+        {
+          "s": "WOMAN",
+          "t": "What about the location?",
+          "start": 190.89,
+          "end": 191.77
+        },
+        {
+          "s": "MAN",
+          "t": "It'd be nice to be central.",
+          "q": [
+            1
+          ],
+          "start": 192.09,
+          "end": 194.29
+        },
+        {
+          "s": "WOMAN",
+          "t": "That might be difficult, as most houses of that size are in the suburbs. Still, there are a few.",
+          "start": 195.25,
+          "end": 201.0
+        },
+        {
+          "s": "WOMAN",
+          "t": "What's your upper limit for the rent?",
+          "start": 201.16,
+          "end": 203.72
+        },
+        {
+          "s": "MAN",
+          "t": "We'd like something around £500 a month, but we could go up to £600 if we have to.",
+          "q": [
+            2
+          ],
+          "start": 203.72,
+          "end": 210.8
+        },
+        {
+          "s": "MAN",
+          "t": "But we can't go beyond that.",
+          "start": 211.36,
+          "end": 212.6
+        },
+        {
+          "s": "WOMAN",
+          "t": "Do you know how long you want to rent the house for?",
+          "start": 213.96,
+          "end": 216.2
+        },
+        {
+          "s": "WOMAN",
+          "t": "The minimum let is six months, as you probably realise.",
+          "start": 216.88,
+          "end": 218.92
+        },
+        {
+          "s": "MAN",
+          "t": "We're at college here for two years, and we don't want to have to move during that time if we can avoid it.",
+          "q": [
+            3
+          ],
+          "start": 220.24,
+          "end": 225.52
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right.",
+          "start": 226.04,
+          "end": 226.36
+        },
+        {
+          "s": "WOMAN",
+          "t": "And how soon do you want to move in?",
+          "start": 227.08,
+          "end": 229.08
+        },
+        {
+          "s": "WOMAN",
+          "t": "All our lets start on the first of the month.",
+          "start": 229.2,
+          "end": 231.56
+        },
+        {
+          "s": "MAN",
+          "t": "Well, as soon as possible, really, so that means September 1st.",
+          "start": 231.68,
+          "end": 235.64
+        },
+        {
+          "s": "WOMAN",
+          "t": "Okay, let me have a look at what we've got . . ..",
+          "start": 237.4,
+          "end": 238.64
+        },
+        {
+          "s": "WOMAN",
+          "t": "We have photographs of all the houses on our books, so you can get an idea of what they're like.",
+          "start": 239.52,
+          "end": 243.8
+        },
+        {
+          "s": "WOMAN",
+          "t": "There's this one in Oakington Avenue, at £550 a month.",
+          "start": 245.3,
+          "end": 249.86
+        },
+        {
+          "s": "WOMAN",
+          "t": "Combined living room and dining room, with a separate kitchen.",
+          "start": 250.46,
+          "end": 253.22
+        },
+        {
+          "s": "WOMAN",
+          "t": "It doesn't have a garage, though you can park in the road.",
+          "q": [
+            4
+          ],
+          "start": 254.26,
+          "end": 257.06
+        },
+        {
+          "s": "MAN",
+          "t": "Ah, we'd prefer to have one, if possible.",
+          "start": 258.48,
+          "end": 259.92
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right.",
+          "start": 260.64,
+          "end": 260.72
+        },
+        {
+          "s": "WOMAN",
+          "t": "Then have a look at this house, in Mead Street.",
+          "start": 261.4,
+          "end": 264.48
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's got a very large living room and kitchen, bathroom, cloakroom...",
+          "start": 265.28,
+          "end": 269.2
+        },
+        {
+          "s": "MAN",
+          "t": "How much is it?",
+          "start": 269.36,
+          "end": 270.12
+        },
+        {
+          "s": "WOMAN",
+          "t": "That one's 580.",
+          "start": 270.67,
+          "end": 272.19
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's very well furnished and equipped.",
+          "start": 273.03,
+          "end": 274.67
+        },
+        {
+          "s": "WOMAN",
+          "t": "It also has plenty of space for parking, and it's available for a minimum of a year.",
+          "start": 275.27,
+          "end": 279.79
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, and there's a big garden.",
+          "q": [
+            5
+          ],
+          "start": 280.65,
+          "end": 281.89
+        },
+        {
+          "s": "MAN",
+          "t": "I don't think we could cope with that, to be honest.",
+          "start": 282.89,
+          "end": 284.77
+        },
+        {
+          "s": "MAN",
+          "t": "We'll be too busy to look after it.",
+          "start": 285.45,
+          "end": 286.97
+        },
+        {
+          "s": "WOMAN",
+          "t": "Okay.",
+          "start": 286.97,
+          "end": 286.97,
+          "estimated": true
+        },
+        {
+          "s": "WOMAN",
+          "t": "Then there's this older house in Hamilton Road: living room, kitchen-diner, and it has a study. 550 a month.",
+          "q": [
+            6
+          ],
+          "start": 289.65,
+          "end": 297.27
+        },
+        {
+          "s": "MAN",
+          "t": "That looks rather nice.",
+          "start": 297.91,
+          "end": 298.83
+        },
+        {
+          "s": "MAN",
+          "t": "But whereabouts in Hamilton Road?",
+          "start": 299.43,
+          "end": 301.39
+        },
+        {
+          "s": "WOMAN",
+          "t": "Towards the western end.",
+          "start": 301.51,
+          "end": 303.39
+        },
+        {
+          "s": "MAN",
+          "t": "Oh, that'll be very noisy.",
+          "start": 303.51,
+          "end": 305.49
+        },
+        {
+          "s": "MAN",
+          "t": "I know the area.",
+          "q": [
+            7
+          ],
+          "start": 305.81,
+          "end": 306.61
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, it's pretty lively.",
+          "start": 306.73,
+          "end": 308.25
+        },
+        {
+          "s": "WOMAN",
+          "t": "Some people like it, though.",
+          "start": 308.77,
+          "end": 309.85
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, what about this house in Devon Close?",
+          "start": 311.21,
+          "end": 314.25
+        },
+        {
+          "s": "MAN",
+          "t": "That looks lovely.",
+          "start": 315.3,
+          "end": 315.94
+        },
+        {
+          "s": "WOMAN",
+          "t": "There's a big demand for houses in that area, so prices tend to be quite high.",
+          "start": 316.3,
+          "end": 320.42
+        },
+        {
+          "s": "WOMAN",
+          "t": "But this one hasn't been decorated for a few years, which has kept the rent down a bit.",
+          "start": 320.74,
+          "end": 324.78
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's got a living room, dining room and small kitchen, and it's 595 a month.",
+          "start": 325.53,
+          "end": 331.53
+        },
+        {
+          "s": "WOMAN",
+          "t": "I think it would suit you, from what you've said.",
+          "q": [
+            8
+          ],
+          "start": 332.45,
+          "end": 334.37
+        },
+        {
+          "s": "MAN",
+          "t": "It sounds fine.",
+          "start": 335.01,
+          "end": 335.77
+        },
+        {
+          "s": "MAN",
+          "t": "Why's that part of town so popular?",
+          "start": 362.94,
+          "end": 364.3
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, there's a big scheme to improve the district, and it'll soon have the best facilities for miles around.",
+          "start": 364.62,
+          "end": 369.82
+        },
+        {
+          "s": "MAN",
+          "t": "What sort of thing?",
+          "start": 370.42,
+          "end": 371.06
+        },
+        {
+          "s": "WOMAN",
+          "t": "There's a big sports centre under construction, which will be very impressive when it's finished.",
+          "start": 371.22,
+          "end": 375.34
+        },
+        {
+          "s": "WOMAN",
+          "t": "In fact the swimming pool's already opened ahead of schedule, and it's attracting a lot of people.",
+          "q": [
+            9,
+            10
+          ],
+          "start": 376.14,
+          "end": 381.18
+        },
+        {
+          "s": "MAN",
+          "t": "What about cinemas: are there any in the area?",
+          "start": 381.82,
+          "end": 384.26
+        },
+        {
+          "s": "WOMAN",
+          "t": "The only one closed down last year, and it's now in the process of being converted into a film museum.",
+          "start": 384.74,
+          "end": 389.9
+        },
+        {
+          "s": "WOMAN",
+          "t": "The local people are trying to get a new cinema added to the scheme.",
+          "start": 390.69,
+          "end": 393.69
+        },
+        {
+          "s": "MAN",
+          "t": "I think I heard something about a plan to replace the existing concert hall with a larger one.",
+          "q": [
+            9,
+            10
+          ],
+          "start": 394.61,
+          "end": 399.65
+        },
+        {
+          "s": "WOMAN",
+          "t": "Ah, that's due to start next year.",
+          "start": 400.53,
+          "end": 402.05
+        },
+        {
+          "s": "MAN",
+          "t": "Well it sounds an interesting area to live in.",
+          "start": 402.77,
+          "end": 405.13
+        },
+        {
+          "s": "MAN",
+          "t": "Could I go and see the house, please?",
+          "start": 405.81,
+          "end": 407.05
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, of course.",
+          "start": 407.13,
+          "end": 407.85
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c8/t3p2.mp3",
+      "duration": 344,
+      "title": "The National Arts Centre",
+      "groups": [
+        {
+          "range": [
+            11,
+            16
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "THE NATIONAL ARTS CENTRE",
+          "lines": [
+            "Well known for: {{11}}",
+            "## Complex consists of",
+            "concert rooms",
+            "theatres",
+            "cinemas",
+            "art galleries",
+            "public library",
+            "restaurants",
+            "a {{12}}",
+            "## Historical background",
+            "1940 – area destroyed by bombs",
+            "1960s-1970s – Centre was {{13}} and built",
+            "in {{14}} – opened to public",
+            "## Managed by",
+            "the {{15}}",
+            "## Open",
+            "{{16}} days per year"
+          ]
+        },
+        {
+          "range": [
+            17,
+            20
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "What's on at the National Arts Centre",
+          "table": {
+            "head": [
+              "Day",
+              "Time",
+              "Event",
+              "Venue",
+              "Ticket price"
+            ],
+            "rows": [
+              [
+                "Monday and Tuesday",
+                "7.30 p.m.",
+                "'The Magic Flute' (opera by Mozart)",
+                "{{17}}",
+                "from £8.00"
+              ],
+              [
+                "Wednesday",
+                "8.00 p.m.",
+                "'{{18}}' (Canadian film)",
+                "Cinema 2",
+                "£{{19}}"
+              ],
+              [
+                "Saturday and Sunday",
+                "11 a.m. to 10 p.m.",
+                "'{{20}}' (art exhibition)",
+                "Gallery 1",
+                "free"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Hello, and welcome to Focus on the Arts.",
+          "start": 50.69,
+          "end": 53.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm your host - Dave Green — and this is your very own local radio programme.",
+          "start": 53.33,
+          "end": 57.81
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Every Friday evening we put the spotlight on different arts and culture facilities, and look at the shows and events that are on offer in the coming week.",
+          "start": 59.33,
+          "end": 66.31
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And today the focus is on The National Arts Centre.",
+          "start": 67.11,
+          "end": 69.79
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, if you don't already know it yourself, I'm sure you've all heard of it.",
+          "start": 70.95,
+          "end": 74.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's famous throughout the world as one of the major venues for classical music. But did you know that it is actually much more than just a place to hear concerts?",
+          "q": [
+            11
+          ],
+          "start": 75.23,
+          "end": 83.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Centre itself is a huge complex that caters for a great range of arts.",
+          "start": 83.15,
+          "end": 87.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Under a single roof it houses concert rooms, theatres, cinemas, art galleries and a wonderful public library, as well as service facilities including three restaurants and a bookshop.",
+          "start": 89.02,
+          "end": 100.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So at any one time, the choice of entertainment there is simply enormous.",
+          "q": [
+            12
+          ],
+          "start": 101.0,
+          "end": 104.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, how did they manage to build such a big arts complex right in the heart of the city?",
+          "start": 106.0,
+          "end": 110.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, the area was completely destroyed by bombs during the war in 1940.",
+          "start": 111.91,
+          "end": 115.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So the opportunity was taken to create a cultural centre that would be, what they called: 'the City's gift to the Nation'.",
+          "start": 115.95,
+          "end": 122.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Of course it took a while for such a big project to get started, but it was planned in the 60s, built in the 70s and eventually opened to the public in 1983.",
+          "start": 123.15,
+          "end": 132.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Ever since then it has proved to be a great success.",
+          "q": [
+            13,
+            14
+          ],
+          "start": 133.78,
+          "end": 136.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It is not privately owned, like many arts centres, but is still in public hands — it's run by the City Council.",
+          "q": [
+            15
+          ],
+          "start": 138.35,
+          "end": 143.99
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Both our National Symphony Orchestra and National Theatre Company were involved in the planning of the project, and they are now based there — giving regular performances every week — and as the Centre is open 363 days of the year, there are plenty of performances to choose from.",
+          "q": [
+            16
+          ],
+          "start": 145.31,
+          "end": 160.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, to give you some idea of what's on, and to help you choose from the many possibilities, we've made a selection of the star attractions. if you're interested in classical music, then we recommend you go along to the National on either Monday or Tuesday evening at 7.30 for a spectacular production of 'The Magic Flute' ~ probably the most popular of all Mozart's operas.",
+          "start": 197.36,
+          "end": 218.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's in the Garden Hall and tickets start at only £8.00, but you'll have to be early if you want to get them that cheap!",
+          "q": [
+            17
+          ],
+          "start": 219.31,
+          "end": 224.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And remember, it's only on for those two evenings.",
+          "start": 225.47,
+          "end": 228.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For those more interested in the cinema, you might like to see the new Canadian film which is showing on Wednesday evening at 8pm in Cinema 2.",
+          "start": 229.19,
+          "end": 236.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And that's called 'Three Lives.' It's had fantastic reviews and tickets cost just £4.50, which is a reduction on the usual price of £5.50.",
+          "q": [
+            18,
+            19
+          ],
+          "start": 237.31,
+          "end": 246.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, it's really good value, especially for such a great movie.",
+          "start": 246.76,
+          "end": 250.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But you can see the centre's main attraction at the weekend, because on Saturday and Sunday, 11 am to 10 pm, they're showing a wonderful new exhibition that hasn't been seen anywhere else in Europe yet.",
+          "start": 251.33,
+          "end": 262.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's a collection of Chinese Art called 'Faces of China' — that's in Gallery 1 — and it has some really fascinating paintings and sculptures by leading artists from all over China — and the good news is that it is completely free, so don't miss it!",
+          "q": [
+            20
+          ],
+          "start": 263.4,
+          "end": 278.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So why not go along to the National Arts Centre next week for one — or all — of these great events — and you can always pick up a programme and check out all the other performances and exhibitions on offer, or coming soon, on almost every day of the year.",
+          "start": 279.81,
+          "end": 293.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Next week we'll be looking at the new Museum of Science . . .",
+          "start": 295.17,
+          "end": 297.45
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c8/t3p3.mp3",
+      "duration": 396,
+      "title": "Latin American Studies",
+      "groups": [
+        {
+          "range": [
+            21,
+            26
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Latin American studies",
+          "questions": [
+            {
+              "n": 21,
+              "text": "Paul decided to get work experience in South America because he wanted",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "to teach English there."
+                },
+                {
+                  "k": "B",
+                  "text": "to improve his Spanish."
+                },
+                {
+                  "k": "C",
+                  "text": "to learn about Latin American life."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "What project work did Paul originally intend to get involved in?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "construction"
+                },
+                {
+                  "k": "B",
+                  "text": "agriculture"
+                },
+                {
+                  "k": "C",
+                  "text": "tourism"
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "Why did Paul change from one project to another?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "His first job was not well organised."
+                },
+                {
+                  "k": "B",
+                  "text": "He found doing the routine work very boring."
+                },
+                {
+                  "k": "C",
+                  "text": "The work was too physically demanding."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "In the village community, he learnt how important it was to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "respect family life."
+                },
+                {
+                  "k": "B",
+                  "text": "develop trust."
+                },
+                {
+                  "k": "C",
+                  "text": "use money wisely."
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "What does Paul say about his project manager?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "He let Paul do most of the work."
+                },
+                {
+                  "k": "B",
+                  "text": "His plans were too ambitious."
+                },
+                {
+                  "k": "C",
+                  "text": "He was very supportive of Paul."
+                }
+              ]
+            },
+            {
+              "n": 26,
+              "text": "Paul was surprised to be given",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a computer to use."
+                },
+                {
+                  "k": "B",
+                  "text": "so little money to live on."
+                },
+                {
+                  "k": "C",
+                  "text": "an extension to his contract."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "matching",
+          "instruction": "What does Paul decide about each of the following modules?",
+          "limit": "Write the correct letter, A, B or C, next to Questions 27-30.",
+          "optionsTitle": "Decision",
+          "options": [
+            {
+              "k": "A",
+              "text": "He will do this."
+            },
+            {
+              "k": "B",
+              "text": "He might do this."
+            },
+            {
+              "k": "C",
+              "text": "He won't do this."
+            }
+          ],
+          "itemsTitle": "Module",
+          "items": [
+            {
+              "n": 27,
+              "text": "Gender Studies in Latin America"
+            },
+            {
+              "n": 28,
+              "text": "Second Language Acquisition"
+            },
+            {
+              "n": 29,
+              "text": "Indigenous Women's Lives"
+            },
+            {
+              "n": 30,
+              "text": "Portuguese Language Studies"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "WOMAN",
+          "t": "I've been reading your personal statement, Paul.",
+          "start": 71.42,
+          "end": 73.62
+        },
+        {
+          "s": "WOMAN",
+          "t": "First, let's talk about your work experience in South America.",
+          "start": 74.1,
+          "end": 77.54
+        },
+        {
+          "s": "WOMAN",
+          "t": "What took you there?",
+          "start": 78.14,
+          "end": 78.9
+        },
+        {
+          "s": "WOMAN",
+          "t": "Was it to gain more fluency in Spanish?",
+          "start": 79.02,
+          "end": 81.1
+        },
+        {
+          "s": "PAUL",
+          "t": "Well, as I'm combining Spanish with Latin American studies, my main idea was to find out more about the way people lived there.",
+          "start": 81.83,
+          "end": 89.15
+        },
+        {
+          "s": "PAUL",
+          "t": "My spoken Spanish was already pretty good in fact.",
+          "q": [
+            21
+          ],
+          "start": 89.67,
+          "end": 91.99
+        },
+        {
+          "s": "WOMAN",
+          "t": "So you weren't too worried about language barriers?",
+          "start": 92.55,
+          "end": 94.63
+        },
+        {
+          "s": "PAUL",
+          "t": "No.",
+          "start": 94.87,
+          "end": 95.31
+        },
+        {
+          "s": "PAUL",
+          "t": "In fact, I ended up teaching English there, although that wasn't my original choice of work.",
+          "start": 95.8,
+          "end": 99.88
+        },
+        {
+          "s": "WOMAN",
+          "t": "I see.",
+          "start": 100.0,
+          "end": 100.64
+        },
+        {
+          "s": "WOMAN",
+          "t": "How did you find out about all this?",
+          "start": 100.84,
+          "end": 103.0
+        },
+        {
+          "s": "PAUL",
+          "t": "I found an agency that runs all kinds of voluntary projects in South America.",
+          "start": 103.64,
+          "end": 107.44
+        },
+        {
+          "s": "WOMAN",
+          "t": "What kind of work?",
+          "start": 107.56,
+          "end": 108.72
+        },
+        {
+          "s": "PAUL",
+          "t": "Well, there were several possibilities.",
+          "start": 109.43,
+          "end": 110.99
+        },
+        {
+          "s": "WOMAN",
+          "t": "You mean construction?",
+          "start": 111.19,
+          "end": 112.19
+        },
+        {
+          "s": "WOMAN",
+          "t": "Engineering work?",
+          "start": 112.63,
+          "end": 113.39
+        },
+        {
+          "s": "PAUL",
+          "t": "Yes, getting involved in building projects was an option.",
+          "start": 113.99,
+          "end": 116.67
+        },
+        {
+          "s": "PAUL",
+          "t": "Then there was tourism — taking tourists for walks around the volcanoes — which I actually chose to do, and then there was work with local farmers.",
+          "q": [
+            22
+          ],
+          "start": 117.23,
+          "end": 125.39
+        },
+        {
+          "s": "WOMAN",
+          "t": "But you didn't continue with that project.",
+          "start": 126.31,
+          "end": 128.27
+        },
+        {
+          "s": "WOMAN",
+          "t": "Why not?",
+          "start": 128.83,
+          "end": 129.27
+        },
+        {
+          "s": "PAUL",
+          "t": "Because I never really knew whether I'd be needed or not.",
+          "start": 130.23,
+          "end": 132.59
+        },
+        {
+          "s": "PAUL",
+          "t": "I'd thought it might be difficult physically, but I was certainly fit enough ...no, I wanted to do something that had more of a proper structure to it, I suppose.",
+          "q": [
+            23
+          ],
+          "start": 133.57,
+          "end": 141.53
+        },
+        {
+          "s": "PAUL",
+          "t": "I get de-motivated otherwise.",
+          "start": 141.93,
+          "end": 143.29
+        },
+        {
+          "s": "WOMAN",
+          "t": "What do you think you learned from your experience?",
+          "start": 144.53,
+          "end": 146.33
+        },
+        {
+          "s": "WOMAN",
+          "t": "It must have been a great opportunity to examine community life.",
+          "start": 146.97,
+          "end": 149.77
+        },
+        {
+          "s": "PAUL",
+          "t": "Yes, but it was difficult at first to be accepted by the locals.",
+          "start": 149.85,
+          "end": 153.65
+        },
+        {
+          "s": "PAUL",
+          "t": "It was a very remote village and some of them were reluctant to speak to me — although they were always interested in my clothes and how much I'd had to pay for them.",
+          "start": 154.29,
+          "end": 162.09
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, that's understandable.",
+          "start": 162.21,
+          "end": 163.49
+        },
+        {
+          "s": "PAUL",
+          "t": "Yes, but things soon improved.",
+          "start": 163.97,
+          "end": 165.57
+        },
+        {
+          "s": "PAUL",
+          "t": "What struck me was that when people became more comfortable with me and less suspicious, we really connected with each other in a meaningful way.",
+          "q": [
+            24
+          ],
+          "start": 166.27,
+          "end": 173.27
+        },
+        {
+          "s": "WOMAN",
+          "t": "You made good friends?",
+          "start": 173.27,
+          "end": 174.59
+        },
+        {
+          "s": "PAUL",
+          "t": "Yes, with two of the families in particular.",
+          "start": 175.19,
+          "end": 177.19
+        },
+        {
+          "s": "WOMAN",
+          "t": "Good.",
+          "start": 177.39,
+          "end": 177.91
+        },
+        {
+          "s": "WOMAN",
+          "t": "What about management.",
+          "start": 178.47,
+          "end": 179.39
+        },
+        {
+          "s": "WOMAN",
+          "t": "Did you have a project manager?",
+          "start": 179.79,
+          "end": 181.19
+        },
+        {
+          "s": "PAUL",
+          "t": "Yes and he gave me lots of advice and guidance.",
+          "q": [
+            25
+          ],
+          "start": 181.27,
+          "end": 184.39
+        },
+        {
+          "s": "WOMAN",
+          "t": "And was he good at managing too?",
+          "start": 184.84,
+          "end": 186.72
+        },
+        {
+          "s": "PAUL",
+          "t": "That wasn't his strong point!",
+          "start": 187.24,
+          "end": 188.72
+        },
+        {
+          "s": "PAUL",
+          "t": "I think he was often more interested in the academic side of things than filing reports.",
+          "start": 190.12,
+          "end": 194.68
+        },
+        {
+          "s": "PAUL",
+          "t": "He was a bit of a dreamer.",
+          "start": 195.51,
+          "end": 196.51
+        },
+        {
+          "s": "WOMAN",
+          "t": "And did you have a contract?",
+          "start": 197.75,
+          "end": 199.19
+        },
+        {
+          "s": "PAUL",
+          "t": "I had to stay for a minimum of three months.",
+          "start": 199.51,
+          "end": 201.91
+        },
+        {
+          "s": "PAUL",
+          "t": "My parents were surprised when I asked to stay longer — six months in the end.",
+          "start": 202.67,
+          "end": 206.15
+        },
+        {
+          "s": "PAUL",
+          "t": "I was so happy there.",
+          "start": 206.66,
+          "end": 207.66
+        },
+        {
+          "s": "WOMAN",
+          "t": "And did anything on the administration side of things surprise you?",
+          "start": 207.66,
+          "end": 211.26
+        },
+        {
+          "s": "WOMAN",
+          "t": "What was the food and lodging like?",
+          "start": 211.86,
+          "end": 213.42
+        },
+        {
+          "s": "PAUL",
+          "t": "Simple . . . but there was plenty to eat and I only paid seven dollars a day for that which was amazing really.",
+          "start": 213.54,
+          "end": 219.22
+        },
+        {
+          "s": "PAUL",
+          "t": "And they gave me all the equipment I needed .. . even a laptop.",
+          "q": [
+            26
+          ],
+          "start": 219.95,
+          "end": 222.51
+        },
+        {
+          "s": "WOMAN",
+          "t": "You didn't.expect that then?",
+          "start": 222.71,
+          "end": 224.23
+        },
+        {
+          "s": "PAUL",
+          "t": "No.",
+          "start": 224.59,
+          "end": 224.75
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, I'll look forward to hearing more.",
+          "start": 224.91,
+          "end": 227.39
+        },
+        {
+          "s": "WOMAN",
+          "t": "But now let's look at these modules.",
+          "start": 265.17,
+          "end": 266.69
+        },
+        {
+          "s": "WOMAN",
+          "t": "You'll need to start thinking about which ones you'll definitely want to study.",
+          "start": 267.21,
+          "end": 270.41
+        },
+        {
+          "s": "WOMAN",
+          "t": "The first one here is Gender Studies in Latin America.",
+          "start": 271.05,
+          "end": 274.41
+        },
+        {
+          "s": "PAUL",
+          "t": "Mmm...",
+          "start": 274.41,
+          "end": 274.41,
+          "estimated": true
+        },
+        {
+          "s": "WOMAN",
+          "t": "It looks at how gender analysis is reconfiguring civil society in Latin America.",
+          "start": 275.45,
+          "end": 280.05
+        },
+        {
+          "s": "WOMAN",
+          "t": "Women are increasingly occupying positions in government and in other elected leadership positions in Latin America.",
+          "start": 280.54,
+          "end": 286.66
+        },
+        {
+          "s": "WOMAN",
+          "t": "I think you'd find it interesting.",
+          "start": 287.1,
+          "end": 288.34
+        },
+        {
+          "s": "PAUL",
+          "t": "If it was to do with people in the villages rather than those in the public sphere, I would.",
+          "q": [
+            27
+          ],
+          "start": 288.82,
+          "end": 292.58
+        },
+        {
+          "s": "WOMAN",
+          "t": "Okay.",
+          "start": 292.58,
+          "end": 292.58,
+          "estimated": true
+        },
+        {
+          "s": "WOMAN",
+          "t": "What about Second Language Acquisition?",
+          "start": 294.47,
+          "end": 296.55
+        },
+        {
+          "s": "PAUL",
+          "t": "Do you think I'd find that useful?",
+          "start": 297.19,
+          "end": 298.67
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, you've had some practical experience in the field, I think it would be.",
+          "start": 299.23,
+          "end": 303.19
+        },
+        {
+          "s": "PAUL",
+          "t": "I hadn't thought about that.",
+          "start": 303.9,
+          "end": 304.82
+        },
+        {
+          "s": "PAUL",
+          "t": "I'll put that down as a definite, then.",
+          "q": [
+            28
+          ],
+          "start": 304.9,
+          "end": 306.74
+        },
+        {
+          "s": "WOMAN",
+          "t": "Okay.",
+          "start": 306.74,
+          "end": 306.74,
+          "estimated": true
+        },
+        {
+          "s": "WOMAN",
+          "t": "What about Indigenous Women's Lives.",
+          "start": 307.9,
+          "end": 309.9
+        },
+        {
+          "s": "WOMAN",
+          "t": "That sounds appropriate.",
+          "start": 310.46,
+          "end": 311.34
+        },
+        {
+          "s": "PAUL",
+          "t": "I thought so too, but I looked at last year's exam questions and that changed my mind.",
+          "start": 311.94,
+          "end": 316.22
+        },
+        {
+          "s": "WOMAN",
+          "t": "Don't judge the value of the course on that.",
+          "start": 317.1,
+          "end": 319.3
+        },
+        {
+          "s": "WOMAN",
+          "t": "Maybe, talk to some other students first and we can talk about it again later.",
+          "q": [
+            29
+          ],
+          "start": 319.3,
+          "end": 323.94
+        },
+        {
+          "s": "PAUL",
+          "t": "Okay.",
+          "start": 323.94,
+          "end": 323.94,
+          "estimated": true
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes.",
+          "start": 325.86,
+          "end": 325.94
+        },
+        {
+          "s": "WOMAN",
+          "t": "And lastly, will you sign up for Portuguese lessons?",
+          "start": 326.26,
+          "end": 329.14
+        },
+        {
+          "s": "PAUL",
+          "t": "My Spanish is good, so would I find that module easy?",
+          "start": 329.95,
+          "end": 332.71
+        },
+        {
+          "s": "WOMAN",
+          "t": "Not necessarily.",
+          "start": 333.51,
+          "end": 334.23
+        },
+        {
+          "s": "WOMAN",
+          "t": "Some people find that Spanish interferes with learning Portuguese . . . getting the accent right too.",
+          "start": 334.87,
+          "end": 340.11
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's quite different in a lot of ways.",
+          "start": 340.58,
+          "end": 342.22
+        },
+        {
+          "s": "PAUL",
+          "t": "Well, I'd much sooner do something else, then.",
+          "q": [
+            30
+          ],
+          "start": 342.38,
+          "end": 344.94
+        },
+        {
+          "s": "WOMAN",
+          "t": "Alright.",
+          "start": 344.94,
+          "end": 344.94,
+          "estimated": true
+        },
+        {
+          "s": "WOMAN",
+          "t": "Now, what we need to do is...",
+          "start": 346.74,
+          "end": 348.46
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c8/t3p4.mp3",
+      "duration": 469,
+      "title": "Trying to Repeat Success",
+      "groups": [
+        {
+          "range": [
+            31,
+            34
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Trying to repeat success",
+          "questions": [
+            {
+              "n": 31,
+              "text": "Compared to introducing new business processes, attempts to copy existing processes are",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "more attractive."
+                },
+                {
+                  "k": "B",
+                  "text": "more frequent."
+                },
+                {
+                  "k": "C",
+                  "text": "more straightforward."
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "Most research into the repetition of success in business has",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "been done outside the United States."
+                },
+                {
+                  "k": "B",
+                  "text": "produced consistent findings."
+                },
+                {
+                  "k": "C",
+                  "text": "related to only a few contexts."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "What does the speaker say about consulting experts?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Too few managers ever do it."
+                },
+                {
+                  "k": "B",
+                  "text": "It can be useful in certain circumstances."
+                },
+                {
+                  "k": "C",
+                  "text": "Experts are sometimes unwilling to give advice."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "An expert's knowledge about a business system may be incomplete because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "some details are difficult for workers to explain."
+                },
+                {
+                  "k": "B",
+                  "text": "workers choose not to mention certain details."
+                },
+                {
+                  "k": "C",
+                  "text": "details are sometimes altered by workers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            35,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Setting up systems based on an existing process",
+          "lines": [
+            "## Two mistakes",
+            "Manager tries to:",
+            "improve on the original process",
+            "create an ideal {{35}} from the best parts of several processes",
+            "## Cause of problems",
+            "information was inaccurate",
+            "comparison between the business settings was invalid",
+            "disadvantages were overlooked, e.g. effect of changes on {{36}}",
+            "## Solution",
+            "change {{37}}",
+            "impose rigorous {{38}}",
+            "copy original very closely:",
+            "physical features of the {{39}}",
+            "the {{40}} of original employees"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Once a business has successfully introduced a new process — managing a branch bank, say, or selling a new product — the parent organisation naturally wants to repeat that success, and capture it if possible on a bigger scale.",
+          "start": 89.86,
+          "end": 106.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The goal, then, is to utilise existing knowledge and not to generate new knowledge.",
+          "start": 107.08,
+          "end": 113.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's a less glamorous activity than pure innovation, but it actually happens more often, as a matter of fact.",
+          "start": 115.11,
+          "end": 122.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, surprisingly, getting things right the second time is not necessarily any simpler than it was the first time.",
+          "q": [
+            31
+          ],
+          "start": 123.11,
+          "end": 131.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, there's been a lot of research into how companies can repeat their previous successes, and it certainly hasn't been confined to the United States.",
+          "start": 132.88,
+          "end": 142.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It seems that most large industries are trying to repeat their own successes, and manage the knowledge they've acquired — but even so it has been shown that the overwhelming majority of attempts fail.",
+          "start": 143.7,
+          "end": 158.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A host of studies confirm this, covering a wide range of business settings: branch banks, retail stores, real estate agencies, factories, call centres . . . to name but a few. So why do so few managers get things right the second or third time?",
+          "q": [
+            32
+          ],
+          "start": 159.99,
+          "end": 180.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's consider one reason for failure — placing too much trust in the people who are running the successful operation, the 'experts' shall we say.",
+          "start": 181.2,
+          "end": 191.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Managers who want to apply existing knowledge typically start off by going to an expert — such as the person who designed and is running a successful department store — and picking their brains.",
+          "start": 191.2,
+          "end": 204.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, this approach can be used if you want to gain a rough understanding of a particular system, or understand smaller, isolated problems.",
+          "q": [
+            33
+          ],
+          "start": 205.6,
+          "end": 215.58
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The trouble is, even the expert doesn't fully grasp the whole thing because when it comes to complex systems, the individual components of the process are interwoven with one another.",
+          "start": 216.82,
+          "end": 229.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The expert never has complete access to the necessary information.",
+          "start": 229.78,
+          "end": 233.82
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the situation's complicated even further by the fact that experts are usually not aware of their own ignorance.",
+          "start": 235.3,
+          "end": 243.54
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The ignorance can take various forms.",
+          "start": 244.62,
+          "end": 247.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For instance, a lot of details of the system are invisible to managers.",
+          "start": 248.33,
+          "end": 253.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some may be difficult to describe — learned on the job and well known by workers perhaps, but impossible to describe in a way that's helpful.",
+          "q": [
+            34
+          ],
+          "start": 254.41,
+          "end": 264.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And there are some things that people know or do that they're not even aware of.",
+          "start": 265.49,
+          "end": 271.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, let's consider two types of mistake that can occur when a manager actually starts to set up a duplicate system to replicate a successful process.",
+          "start": 276.64,
+          "end": 287.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Firstly, perhaps he forgets that he was just trying to copy another process, and starts trying to improve on it.",
+          "start": 288.34,
+          "end": 297.42
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another mistake is trying to use the best parts of various different systems, in the hope of creating the perfect combination.",
+          "q": [
+            35
+          ],
+          "start": 298.46,
+          "end": 307.06
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Unfortunately, attempts like these usually turn out to be misguided and lead to problems.",
+          "start": 308.92,
+          "end": 315.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Why?",
+          "start": 315.88,
+          "end": 317.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, for various reasons.",
+          "start": 318.2,
+          "end": 319.88
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Perhaps there weren't really any advantages after all, because the information wasn't accurate.",
+          "start": 320.93,
+          "end": 326.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Or perhaps the business settings weren't really comparable.",
+          "start": 327.93,
+          "end": 331.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "More typically, the advantages are real enough, but there are also disadvantages that have been overlooked.",
+          "start": 333.7,
+          "end": 341.22
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example, the modifications might compromise safety in some way.",
+          "q": [
+            36
+          ],
+          "start": 342.58,
+          "end": 347.82
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, what's the solution?",
+          "start": 349.41,
+          "end": 350.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, I don't intend to suggest that it's easy to get things right the second time . . . it's not.",
+          "start": 352.1,
+          "end": 359.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But the underlying problem has more to do with attitudes than the actual difficulty of the task, and there are ways of getting it right.",
+          "start": 360.1,
+          "end": 369.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These involve adjusting attitudes, first of all... being more realistic and cautious really.",
+          "q": [
+            37
+          ],
+          "start": 371.35,
+          "end": 379.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Secondly, they involve exerting strict controls on the organisational and operational systems.",
+          "q": [
+            38
+          ],
+          "start": 380.95,
+          "end": 388.27
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And this in turn means copying the original as closely as possible.",
+          "start": 389.47,
+          "end": 394.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Not merely duplicating the physical characteristics of the factory, but also duplicating the skills that the original employees had.",
+          "q": [
+            39,
+            40
+          ],
+          "start": 395.64,
+          "end": 405.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Reliance on a template like this offers the huge advantage of built-in consistency.",
+          "start": 407.0,
+          "end": 414.04
+        }
+      ]
+    }
+  ]
+}
