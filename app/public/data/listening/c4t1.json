@@ -1,0 +1,1445 @@
+{
+  "id": "c4t1",
+  "book": "剑桥雅思4",
+  "test": 1,
+  "title": "剑4 Test 1 · Listening",
+  "source": "Cambridge IELTS 4, Test 1（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "shopping",
+      "variety of shopping"
+    ],
+    "2": [
+      "guided tours"
+    ],
+    "3": [
+      "more than 12",
+      "over 12"
+    ],
+    "4": [
+      "notice board"
+    ],
+    "5": [
+      "13th February",
+      "13 February",
+      "February 13th"
+    ],
+    "6": [
+      "Tower of London"
+    ],
+    "7": [
+      "Bristol"
+    ],
+    "8": [
+      "American Museum"
+    ],
+    "9": [
+      "student newspaper"
+    ],
+    "10": [
+      "Yentob"
+    ],
+    "11": [
+      "coal and firewood",
+      "firewood and coal"
+    ],
+    "12": [
+      "local craftsmen"
+    ],
+    "13": [
+      "160"
+    ],
+    "14": [
+      "F"
+    ],
+    "15": [
+      "E"
+    ],
+    "16": [
+      "C"
+    ],
+    "17": [
+      "G"
+    ],
+    "18": [
+      "D"
+    ],
+    "19": [
+      "A"
+    ],
+    "20": [
+      "B"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "E"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "G"
+    ],
+    "26": [
+      "F"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "D"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "cities",
+      "environment"
+    ],
+    "32": [
+      "windy"
+    ],
+    "33": [
+      "humid"
+    ],
+    "34": [
+      "shady",
+      "shaded"
+    ],
+    "35": [
+      "dangerous"
+    ],
+    "36": [
+      "leaves"
+    ],
+    "37": [
+      "ground"
+    ],
+    "38": [
+      "considerably reduce",
+      "decrease",
+      "filter"
+    ],
+    "39": [
+      "low"
+    ],
+    "40": [
+      "space",
+      "room"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c4/t1p1.mp3",
+      "duration": 0,
+      "title": "Social Programme and Weekend Trips",
+      "groups": [
+        {
+          "range": [
+            1,
+            4
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Notes on Social Programme",
+          "lines": [
+            "Number of trips per month: 5 (example)",
+            "Visit places which have:",
+            "- historical interest",
+            "- good {{1}}",
+            "- {{2}}",
+            "Cost: between £5.00 and £15.00 per person",
+            "Note: special trips organised for groups of {{3}} people",
+            "Time: departure - 8.30 a.m.; return - 6.00 p.m.",
+            "To reserve a place: sign your name on the {{4}}, 3 days in advance"
+          ]
+        },
+        {
+          "range": [
+            5,
+            8
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Weekend Trips",
+          "table": {
+            "head": [
+              "Place",
+              "Date",
+              "Number of seats",
+              "Optional extra"
+            ],
+            "rows": [
+              [
+                "St Ives",
+                "{{5}}",
+                "16",
+                "Hepworth Museum"
+              ],
+              [
+                "London",
+                "16th February",
+                "45",
+                "{{6}}"
+              ],
+              [
+                "{{7}}",
+                "3rd March",
+                "18",
+                "S.S. Great Britain"
+              ],
+              [
+                "Salisbury",
+                "18th March",
+                "50",
+                "Stonehenge"
+              ],
+              [
+                "Bath",
+                "23rd March",
+                "16",
+                "{{8}}"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            9,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "lines": [
+            "For further information:",
+            "Read the {{9}} or see Social Assistant: Jane {{10}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MAN",
+          "t": "Good morning."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Good morning."
+        },
+        {
+          "s": "WOMAN",
+          "t": "How can I help you?"
+        },
+        {
+          "s": "MAN",
+          "t": "I understand that the school organises ... umm, trips to different ..."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, we run five every month: three during weekends and two Wednesday afternoon trips."
+        },
+        {
+          "s": "MAN",
+          "t": "What sort of places?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, obviously it varies, but always places of historical interest and also which offer a variety of shopping, because our students always ask about that ...",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "and then we go for ones where we know there are guided tours, because this gives a good focus for the visit.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Do you travel far?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well. we're lucky here, obviously. because we're able to say that all our visits are less than three hours drive."
+        },
+        {
+          "s": "MAN",
+          "t": "How much do they cost?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Again it varies- between five and fifteen pounds a head, depending on distance."
+        },
+        {
+          "s": "MAN",
+          "t": "Ah ha . .."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, and we do offer to arrange special trips if, you know, there are more than twelve people.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Oh right, I'll keep that in mind."
+        },
+        {
+          "s": "MAN",
+          "t": "And what are the times normally?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "We try to keep it pretty fixed so that, that students get to know the pattern."
+        },
+        {
+          "s": "WOMAN",
+          "t": "We leave at eight-thirty a.m. and return at six p.m."
+        },
+        {
+          "s": "WOMAN",
+          "t": "We figure it's best to keep the day fairly short."
+        },
+        {
+          "s": "MAN",
+          "t": "Oh yes."
+        },
+        {
+          "s": "MAN",
+          "t": "And how do we reserve a place?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "You sign your name on the notice board."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Do you know where it is?",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Ah ha."
+        },
+        {
+          "s": "MAN",
+          "t": "I saw it this morning."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And we do ask that you sign up three days in advance so we know we've got enough people interested to run it, and we can cancel if necessary, with full refund of course."
+        },
+        {
+          "s": "MAN",
+          "t": "That's fine, thanks."
+        },
+        {
+          "s": "MAN",
+          "t": "And what visits are planned for this term?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right, well I'm afraid the schedule hasn't been printed out yet, but we have confirmed the dates and planned the optional extra visits which you can also book in advance if you want to."
+        },
+        {
+          "s": "MAN",
+          "t": "Oh that's all right."
+        },
+        {
+          "s": "MAN",
+          "t": "If you can just give some idea of the weekend ones so I can, you know, work out when to see friends, etcetera."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh sure."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, the first one is St Ives."
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's on the thirteenth of February and we'll have only sixteen places available 'cos we're going by minibus.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "And that's a day in town with the optional extra of visiting the Hepworth Museum."
+        },
+        {
+          "s": "MAN",
+          "t": "Oh right . .. yeah . . . that sounds good"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Then there's a London trip on the sixteenth of February and we'll be taking a medium-sized coach so there'll be forty-five places on that, and, let's see, the optional extra is the Tower of London.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Oh, I've already been there."
+        },
+        {
+          "s": "WOMAN",
+          "t": "After that there's Bristol on the third of March.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Where?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Bristol .. ."
+        },
+        {
+          "s": "WOMAN",
+          "t": "B-R-I-S-T-0 -L."
+        },
+        {
+          "s": "MAN",
+          "t": "OK . .."
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's in a different minibus with eighteen places available, oh, and the optional extra is a visit to the S.S."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Great Britain."
+        },
+        {
+          "s": "MAN",
+          "t": "OK .. ."
+        },
+        {
+          "s": "WOMAN",
+          "t": "We're going to Salisbury on the eighteenth of March and that's always a popular one because the optional extra is Stonehenge, so we're taking the large coach with fifty seats . . ."
+        },
+        {
+          "s": "MAN",
+          "t": "Oh good."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And then the last one is to Bath on the twenty-third of March."
+        },
+        {
+          "s": "MAN",
+          "t": "Oh yes."
+        },
+        {
+          "s": "MAN",
+          "t": "Is Bath the Roman city?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, that's right, and that's in the sixteen-seater minibus."
+        },
+        {
+          "s": "MAN",
+          "t": "And where's the optional visit?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's to the American Museum- well worth a visit.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "OK, well that's great, thanks for all that . . ."
+        },
+        {
+          "s": "WOMAN",
+          "t": "My pleasure."
+        },
+        {
+          "s": "WOMAN",
+          "t": "By the way, if you want more information about any of the trips, have a look in the student newspaper.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "OK."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Or, have a word with my assistant; her name is Jane Yentob - that's Y-E-N-T-O-B.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Right, I've got that."
+        },
+        {
+          "s": "MAN",
+          "t": "Thank you very much for all your help."
+        },
+        {
+          "s": "WOMAN",
+          "t": "You're very welcome."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I hope you enjoy the trips."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c4/t1p2.mp3",
+      "duration": 0,
+      "title": "Riverside Industrial Village Tour",
+      "groups": [
+        {
+          "range": [
+            11,
+            13
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Riverside Industrial Village",
+          "lines": [
+            "Riverside Village was a good place to start an industry because it had water, raw materials and fuels such as {{11}}.",
+            "The metal industry was established at Riverside Village by {{12}} who lived in the area.",
+            "There were over {{13}} water-powered mills in the area in the eighteenth century."
+          ]
+        },
+        {
+          "range": [
+            14,
+            20
+          ],
+          "type": "matching",
+          "instruction": "Label the plan below. 原题为地图（工业村平面图）标注题，见原书；这里改为按导游讲解描述的位置，从选项中选出对应的名称。",
+          "limit": "Write the correct letter, A-G, next to Questions 14-20.",
+          "optionsTitle": "Locations",
+          "options": [
+            {
+              "k": "A",
+              "text": "Cafe"
+            },
+            {
+              "k": "B",
+              "text": "cottages"
+            },
+            {
+              "k": "C",
+              "text": "Gift Shop"
+            },
+            {
+              "k": "D",
+              "text": "Showroom"
+            },
+            {
+              "k": "E",
+              "text": "Ticket Office"
+            },
+            {
+              "k": "F",
+              "text": "Woodside Road"
+            },
+            {
+              "k": "G",
+              "text": "(main) Workshop"
+            }
+          ],
+          "itemsTitle": "Plan positions",
+          "items": [
+            {
+              "n": 14,
+              "text": "The road running along the bottom of the site"
+            },
+            {
+              "n": 15,
+              "text": "Immediately to the right of the entrance"
+            },
+            {
+              "n": 16,
+              "text": "By the entry gate, to the left of the car park"
+            },
+            {
+              "n": 17,
+              "text": "The big stone building at the top of the site, where the furnace is"
+            },
+            {
+              "n": 18,
+              "text": "The building with bigger windows in the top right-hand corner"
+            },
+            {
+              "n": 19,
+              "text": "Next to the Engine Room, where old-fashioned teas are served"
+            },
+            {
+              "n": 20,
+              "text": "The row of buildings on the left, built for the workers"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good afternoon everybody and welcome to Riverside Industrial Village."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "To start your visit I'm just going to give you a brief account of the history of the museum before letting you roam about on your own."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I won't keep you long."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, from where we're standing you've got a good view of the river over there."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And it was because of this fast-flowing water that this site was a natural place for manufacturing works."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The water and the availability of raw materials in the area, like minerals and iron ore, and also the abundance of local fuels, like coal and firewood, all made this site suitable for industry from a very early time.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Water was the main source of power for the early industries and some of the water wheels were first established in the twelfth century, would you believe?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At that time, local craftsmen first built an iron forge just behind the village here, on the bend in the river.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "By the seventeenth and eighteenth centuries the region's rivers supported more than a hundred and sixty water mills - and many of these continued to operate well into the nineteenth century.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But then the steam engine was invented and then the railways came and the centres of industry were able to move away from the rivers and the countryside and into the towns."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, industrial villages like this one became very rare."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So that's the history for you."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you'd like any more information, you can ask me some questions, or you can read further in our excellent guide book."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now I'm going to give you a plan of the site and I'd just like to point out where everything is and then you can take a look at everything for yourself."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I've already pointed out the river, which is on the left."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And of course, running along the bottom is Woodside Road, got it?",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now we're standing at the entrance, see it at the bottom. and immediately to our right is the Ticket Office.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You won't need that because you've got your group booking, but just past it are the toilets-·always good to know where they are."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In front of us is the car park, as you can see, and to the left, by the entry gate is the Gift Shop.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's where you can get copies of the guide, like this one here."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, beyond the car park all the buildings are arranged in a half circle with a yard in the middle."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The big, stone building at the top is the main Workshop.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's where the furnace is and where all the metal was smelted and the tools were cast, as you'll be able to see."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, in the top right-hand corner. that building with bigger windows is the Showroom, where samples of all the tools that were made through the ages are on display.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the top left corner is the Grinding Shop, where the tools were sharpened and finished."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And on one side of that you can see the Engine Room and on the other is the Cafe, which isn't an antique, you'll be pleased to know, though they do serve very nice old-fashioned teas.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The row of buildings you can see on the left are the cottages.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These were built for the workers towards the end of the eighteenth century and they're still furnished from that period so you can get a good idea of ordinary people's living conditions."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Across the yard from them, you can see the stables where the horses were kept for transporting the products."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the separate building in front of them is the Works Office and that still has some of the old accounts on display."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Right, if anyone wants a guided tour then I'm starting at the Engine Room."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you'd like to come along. this way please. ladies and gentlemen."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c4/t1p3.mp3",
+      "duration": 0,
+      "title": "Meeting with a Course Tutor",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Meeting with Dr Johnson",
+          "questions": [
+            {
+              "n": 21,
+              "text": "Melanie says she has not started the assignment because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "she was doing work for another course."
+                },
+                {
+                  "k": "B",
+                  "text": "it was a really big assignment."
+                },
+                {
+                  "k": "C",
+                  "text": "she hasn't spent time in the library."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "The lecturer says that reasonable excuses for extensions are",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "planning problems."
+                },
+                {
+                  "k": "B",
+                  "text": "problems with assignment deadlines."
+                },
+                {
+                  "k": "C",
+                  "text": "personal illness or accident."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            27
+          ],
+          "type": "people-match",
+          "instruction": "What recommendations does Dr Johnson make about the journal articles? Choose your answers from the box and write the letters A-G next to Questions 23-27.",
+          "optionsTitle": "Recommendations",
+          "options": [
+            {
+              "k": "A",
+              "text": "must read"
+            },
+            {
+              "k": "B",
+              "text": "useful"
+            },
+            {
+              "k": "C",
+              "text": "limited value"
+            },
+            {
+              "k": "D",
+              "text": "read first section"
+            },
+            {
+              "k": "E",
+              "text": "read research methods"
+            },
+            {
+              "k": "F",
+              "text": "read conclusion"
+            },
+            {
+              "k": "G",
+              "text": "don't read"
+            }
+          ],
+          "questions": [
+            {
+              "n": 23,
+              "text": "Jackson"
+            },
+            {
+              "n": 24,
+              "text": "Roberts"
+            },
+            {
+              "n": 25,
+              "text": "Morris"
+            },
+            {
+              "n": 26,
+              "text": "Cooper"
+            },
+            {
+              "n": 27,
+              "text": "Forster"
+            }
+          ]
+        },
+        {
+          "range": [
+            28,
+            30
+          ],
+          "type": "matching",
+          "instruction": "Label the chart below. 原题为图表标注题（人口研究：搬家原因柱状图），见原书；这里改为按对话内容描述柱形位置，从选项中选出对应原因。",
+          "limit": "Choose your answers from the box below and write the letters A-H next to Questions 28-30.",
+          "optionsTitle": "Possible reasons",
+          "options": [
+            {
+              "k": "A",
+              "text": "uncooperative landlord"
+            },
+            {
+              "k": "B",
+              "text": "environment"
+            },
+            {
+              "k": "C",
+              "text": "space"
+            },
+            {
+              "k": "D",
+              "text": "noisy neighbours"
+            },
+            {
+              "k": "E",
+              "text": "near city"
+            },
+            {
+              "k": "F",
+              "text": "work location"
+            },
+            {
+              "k": "G",
+              "text": "transport"
+            },
+            {
+              "k": "H",
+              "text": "rent"
+            }
+          ],
+          "itemsTitle": "Bars on the chart",
+          "items": [
+            {
+              "n": 28,
+              "text": "Bar 2 in the chart of reasons for changing accommodation"
+            },
+            {
+              "n": 29,
+              "text": "Bar 4 in the chart of reasons for changing accommodation"
+            },
+            {
+              "n": 30,
+              "text": "Bar 6 in the chart of reasons for changing accommodation"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MELANIE",
+          "t": "Excuse me, Dr Johnson."
+        },
+        {
+          "s": "MELANIE",
+          "t": "May I speak to you for a minute?"
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Sure."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Come in."
+        },
+        {
+          "s": "MELANIE",
+          "t": "I'm Melanie Griffin."
+        },
+        {
+          "s": "MELANIE",
+          "t": "I'm taking your course in Population Studies."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Right."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Well, Melanie, how can I help you?"
+        },
+        {
+          "s": "MELANIE",
+          "t": "I'm ... having a bit of trouble with the second assignment, and it's due in twelve days."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "What sort of trouble are you having? Is the assignment question a problem?"
+        },
+        {
+          "s": "MELANIE",
+          "t": "Well, that's part of the problem."
+        },
+        {
+          "s": "MELANIE",
+          "t": "I'm also having- been having- trouble getting hold of the books."
+        },
+        {
+          "s": "MELANIE",
+          "t": "I've been to the library several times, and all the books are out."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Sounds like you should have started borrowing books a bit earlier."
+        },
+        {
+          "s": "MELANIE",
+          "t": "Well, I had a really big assignment due in for another course. and I've been spending all my time on that, and I thought ...",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "..."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "You might get an extension of time to finish your assignment for me?"
+        },
+        {
+          "s": "MELANIE",
+          "t": "If that's possible, but I don't know . .."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Well, yes, it is possible, but extensions are normally given only for medical or compassionate reasons, otherwise it's really a question of organising your study, and we don't like giving extensions to students who simply didn't plan their work properly.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "What did you get for your first assignment?"
+        },
+        {
+          "s": "MELANIE",
+          "t": "I got eighty-seven per cent."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Mmm, yes. you did very well indeed, so obviously you can produce good work."
+        },
+        {
+          "s": "MELANIE",
+          "t": "I don't think I'll need too much extra time, as long as I can get hold of some of the important references."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Well. since you did so well in your first assignment."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "I'm prepared to give you an extra two weeks for this one, so that'll mean you'll need to submit it about a month from now."
+        },
+        {
+          "s": "MELANIE",
+          "t": "Thank you. ."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Now, what about the reading materials? Have you checked out the journal articles in the list?"
+        },
+        {
+          "s": "MELANIE",
+          "t": "Umm, no, not yet, there were about twenty of them, and I wasn't sure which ones would be most useful or important."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Well, they're all useful, but I don't expect anyone to read them all, because a number of them deal with the same issues."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Let me give you some suggestions."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "The article by Anderson and Hawker is really worth reading."
+        },
+        {
+          "s": "MELANIE",
+          "t": "Right, I'll read that one."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "You should also read the article by Jackson, but just look at the part on the research methodology- how they did it.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "MELANIE",
+          "t": "OK . .. Jackson, got that ..."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "And if you have time, the one by Roberts says very relevant things, although it's not essential."
+        },
+        {
+          "s": "MELANIE",
+          "t": "So, OK, if it's not essential, I'll try and read that one ...",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Now, the one by Morris."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "I wouldn't bother with that at this stage, if I were you.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "MELANIE",
+          "t": "OK."
+        },
+        {
+          "s": "MELANIE",
+          "t": "I won't bother with Morris."
+        },
+        {
+          "s": "MELANIE",
+          "t": "Oh, now, someone told me the article by Cooper is important."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Well. yes. in a way, but just look at the last part. where he discusses the research results.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "And lastly. there's Forster- I can't think why I included that one."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "It's not bad and could be of some help. but not that much.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Now, let's deal with the assignment question."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "What's the problem there?"
+        },
+        {
+          "s": "MELANIE",
+          "t": "It's the graph on page two."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "What seems to be the problem?"
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "It's just the bar graph showing reasons why people change where they live. ·"
+        },
+        {
+          "s": "MELANIE",
+          "t": "Well, I've got a photocopy but the reasons at the bottom are missing."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Ah, OK. Look at the first bar on the graph - now that indicates the number of people who move because they want more space."
+        },
+        {
+          "s": "MELANIE",
+          "t": "OK . .."
+        },
+        {
+          "s": "MELANIE",
+          "t": "Oh I see ... bar one. OK ... Now what about the next bar?"
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Bar two is to do with the people living nearby disturbing them, so they chose to move away to somewhere quieter. Now let's look at bar number three ... another reason people change their place of living is because they want to be closer to the city.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "MELANIE",
+          "t": "OK."
+        },
+        {
+          "s": "MELANIE",
+          "t": "Proximity to the city is an issue .. ."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Now . . . bar number four refers to problems when the owner of the property won't help fix things that go wrong."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "In other words, the owner is not helpful and so the tenants move out.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "MELANIE",
+          "t": "OK ... Now what about bar five?"
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Bar five is about those people who move because they need a bus or train to get them into the city or to go to work."
+        },
+        {
+          "s": "MELANIE",
+          "t": "OK .. ."
+        },
+        {
+          "s": "MELANIE",
+          "t": "And bar six?"
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "Bar number six is interesting."
+        },
+        {
+          "s": "DR JOHNSON",
+          "t": "That reason was given quite a lot- people moving because they wanted to be in a more attractive neighbourhood.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "MELANIE",
+          "t": "Oh, yes, thank you very much."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c4/t1p4.mp3",
+      "duration": 0,
+      "title": "The Urban Landscape",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "The Urban Landscape",
+          "lines": [
+            "## Two areas of focus:",
+            "- the effect of vegetation on the urban climate",
+            "- ways of planning our {{31}} better",
+            "## Large-scale impact of trees:",
+            "- they can make cities more or less {{32}}",
+            "- in summer they can make cities cooler",
+            "- they can make inland cities more {{33}}",
+            "## Local impact of trees:",
+            "- they can make local areas more {{34}}, cooler, more humid, less windy and less {{35}}",
+            "## Comparing trees and buildings:",
+            "Temperature regulation:",
+            "- trees evaporate water through their {{36}}",
+            "- building surfaces may reach high temperatures",
+            "Wind force:",
+            "- tall buildings cause more wind at {{37}} level",
+            "- trees {{38}} the wind force",
+            "Noise:",
+            "- trees have a small effect on traffic noise",
+            "- {{39}} frequency noise passes through trees",
+            "## Important points to consider:",
+            "- trees require a lot of sunlight, water and {{40}} to grow"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good day, ladies and gentlemen."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I have been asked today to talk to you about the urban landscape."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are two major areas that I will focus on in my talk: how vegetation can have a significant effect on urban climate, and how we can better plan our cities using trees to provide a more comfortable environment for us to live in.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Trees can have a significant impact on our cities."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They can make a city, as a whole, a bit less windy or a bit more windy. if that's what you want."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They can make it a bit cooler if it's a hot summer day in an Australian city, or they can make it a bit more humid if it's a dry inland city.",
+          "q": [
+            32,
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On the local scale - that is, in particular areas within the city - trees can make the local area more shady. cooler, more humid and much less windy.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In fact trees and planting of various kinds can be used to make city streets actually less dangerous in particular areas.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "How do trees do all that, you ask?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, the main difference between a tree and a building is a tree has got an internal mechanism to keep the temperature regulated."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It evaporates water through its leaves, and that means that the temperature of the leaves is never very far from our own body temperature.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The temperature of a building surface on a hot sunny day can easily be twenty degrees more than our temperature."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Trees, on the other hand, remain cooler than buildings because they sweat."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This means that they can humidify the air and cool it- a property which can be exploited to improve the local climate."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Trees can also help break the force of winds."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The reason that high buildings make it windier at ground level is that, as the wind goes higher and higher, it goes faster and faster.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When the wind hits the building, it has to go somewhere."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some of it goes over the top and some goes around the sides of the building, forcing those high level winds down to ground level."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That doesn't happen when you have trees."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Trees filter the wind and considerably reduce it, preventing those very large strong gusts that you so often find around tall buildings.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another problem in built-up areas is that traffic noise is Intensified by tall buildings."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "By planting a belt of trees at the side of the road,you can make things a little quieter, but much of the vehicle noise still goes through the trees."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Trees can also help reduce the amount of noise in the surroundings, although the effect is not as large as people like to think."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Low-frequency noise, in particular, just goes through the trees as though they aren't there.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Although trees can significantly improve the local climate, they do however take up a lot of space."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are root systems to consider and branches blocking windows and so on."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It may therefore be difficult to fit trees into the local landscape."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There is not a great deal you can do if you have what we call a street canyon - a whole set of high-rises enclosed in a narrow street."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Trees need water to grow."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They also need some sunlight to grow and you need room to put them.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you have the chance of knocking buildings down and replacing them, then suddenly you can start looking at different ways to design the streets and to introduce . . ."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "(fade out)"
+        }
+      ]
+    }
+  ]
+}

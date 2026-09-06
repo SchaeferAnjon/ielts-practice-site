@@ -1,0 +1,78 @@
+{
+  "id": "c4t1",
+  "book": "剑桥雅思4",
+  "test": 1,
+  "title": "剑4 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "table",
+      "kindZh": "表格",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The table below shows the proportion of different categories of families living in poverty in Australia in 1999.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c4t1-task1.webp",
+      "imageCaption": "Proportion of people from each household type living in poverty, Australia, 1999",
+      "data": {
+        "unit": "% of people in that household type living in poverty (number of people)",
+        "years": [
+          1999
+        ],
+        "series": {
+          "single aged person": [
+            6
+          ],
+          "aged couple": [
+            4
+          ],
+          "single, no children": [
+            19
+          ],
+          "couple, no children": [
+            7
+          ],
+          "sole parent": [
+            21
+          ],
+          "couple with children": [
+            12
+          ],
+          "all households": [
+            11
+          ]
+        }
+      },
+      "sample": {
+        "band": 0,
+        "text": "本书未提供此题范文。",
+        "comment": "本书未提供此题范文。"
+      }
+    },
+    {
+      "task": 2,
+      "kind": "two-part",
+      "kindZh": "双问题",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Compare the advantages and disadvantages of three of the following as media for communicating information. State which you consider to be the most effective.",
+        "- comics",
+        "- books",
+        "- radio",
+        "- television",
+        "- film",
+        "- theatre",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 4,
+        "text": "In our daily life, we always communicate information through the media, such as television, radio, film. These media have different advantages and disadvantages for us. Now, I am going to compare the advantages and disadvantages of books, television and film.\n\nBooks bring us different knowledge. It bases on what book we read. A famous Chinese traditional verse which described books is a treasure. We can find a golden house in there. Moreover, when we want to read it, we can find it easily, such as bookstore, library. We can also learn a lot of words from books. And it can improve our reading and writing skills.\n\nHowever, books always are not attractive for children or youngster. It is because books are quite boring. A lot of words and less pictures inside the books, compare to television, television has pictures and sound. We don't have to read a lot of words in television. But some artist in television programme or film, bring a bad image to us. Then some children or youngers will imitate their behaviour. Some film also bring a wrong message to us. For example, they are always smoking in films. It seems that smoking is good and smart. It caused many youngers imitate them smoking.\n\nIn conclusion, books, television and film have many advantages and disadvantages. I cannot write all in here. And we have choose the media carefully.",
+        "comment": "This answer describes some relevant advantages and disadvantages of books, TV and films, although these are sometimes unclear or not sufficiently developed. The script loses marks, however, because it doesn't answer the question about 'which medium is most effective' and also because it is under the minimum length (only 230 words).\n\nThe writer has tried to organise ideas and uses paragraphing to structure the response. However, the message is confused at times and the answer is incomplete. Some ideas are linked appropriately, but there is a lot of repetition across sentences.\n\nThe writer uses a limited range of language quite repetitively and there are only simple sentences. However, these are often quite accurate, although there are many examples of basic errors in grammar and punctuation."
+      }
+    }
+  ]
+}
