@@ -2,5 +2,13 @@
  {
   "file": "speaking.json",
   "label": "2026 年 5-8 月（当季）"
+ },
+ {
+  "file": "speaking-2026-1-4.json",
+  "label": "2026 年 1-4 月"
+ },
+ {
+  "file": "speaking-2025-9-12.json",
+  "label": "2025 年 9-12 月"
  }
 ]
