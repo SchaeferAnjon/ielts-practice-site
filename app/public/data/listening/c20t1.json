@@ -1,0 +1,2021 @@
+{
+  "id": "c20t1",
+  "book": "剑桥雅思20",
+  "test": 1,
+  "title": "剑20 Test 1 · Listening",
+  "answers": {
+    "1": [
+      "fish"
+    ],
+    "2": [
+      "roof"
+    ],
+    "3": [
+      "Spanish"
+    ],
+    "4": [
+      "vegetarian"
+    ],
+    "5": [
+      "Audley"
+    ],
+    "6": [
+      "hotel"
+    ],
+    "7": [
+      "reviews"
+    ],
+    "8": [
+      "local"
+    ],
+    "9": [
+      "30",
+      "thirty"
+    ],
+    "10": [
+      "average"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "B"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "A"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "C"
+    ],
+    "17": [
+      "A",
+      "E"
+    ],
+    "18": [
+      "A",
+      "E"
+    ],
+    "19": [
+      "C",
+      "E"
+    ],
+    "20": [
+      "C",
+      "E"
+    ],
+    "21": [
+      "C",
+      "E"
+    ],
+    "22": [
+      "C",
+      "E"
+    ],
+    "23": [
+      "A",
+      "C"
+    ],
+    "24": [
+      "A",
+      "C"
+    ],
+    "25": [
+      "A",
+      "B"
+    ],
+    "26": [
+      "A",
+      "B"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "B"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "factories"
+    ],
+    "32": [
+      "dead"
+    ],
+    "33": [
+      "whale"
+    ],
+    "34": [
+      "apartments"
+    ],
+    "35": [
+      "park"
+    ],
+    "36": [
+      "art"
+    ],
+    "37": [
+      "beaches"
+    ],
+    "38": [
+      "ferry"
+    ],
+    "39": [
+      "bikes"
+    ],
+    "40": [
+      "drone",
+      "drones"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c20/t1p1.mp3",
+      "duration": 501,
+      "title": "Restaurant recommendations",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Restaurant recommendations",
+          "table": {
+            "head": [
+              "Name of restaurant",
+              "Location",
+              "Reason for recommendation",
+              "Other comments"
+            ],
+            "rows": [
+              [
+                "The Junction",
+                "Greyson Street, near the station",
+                "Good for people who are especially keen on {{1}}",
+                "Quite expensive\nThe {{2}} is a good place for a drink"
+              ],
+              [
+                "Paloma",
+                "In Bow Street next to the cinema",
+                "{{3}} food, good for sharing",
+                "Staff are very friendly\nNeed to pay £50 deposit\nA limited selection of {{4}} food on the menu"
+              ],
+              [
+                "The {{5}}",
+                "At the top of a {{6}}",
+                "A famous chef\nAll the {{7}} are very good\nOnly uses {{8}} ingredients",
+                "Set lunch costs £{{9}} per person\nPortions probably of {{10}} size"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "IELTS 20 published by Cambridge University Press and Assessment 2025.",
+          "start": 2.32,
+          "end": 8.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This recording is copyright.",
+          "start": 8.52,
+          "end": 11.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Test one.",
+          "start": 12.88,
+          "end": 13.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is the IELTS listening test.",
+          "start": 15.15,
+          "end": 17.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+          "start": 18.62,
+          "end": 23.98
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There will be time for you to read the instructions and questions.",
+          "start": 23.98,
+          "end": 28.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And you will have a chance to check your work.",
+          "start": 29.67,
+          "end": 32.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "All the recordings will be played once only.",
+          "start": 33.5,
+          "end": 36.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The test is in four parts.",
+          "start": 37.47,
+          "end": 39.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet.",
+          "start": 40.44,
+          "end": 46.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now turn to part one.",
+          "start": 49.0,
+          "end": 50.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Part one.",
+          "start": 55.74,
+          "end": 56.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You will hear a woman asking a friend for restaurant recommendations.",
+          "start": 58.09,
+          "end": 61.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First, you have some time to look at questions 1~4.",
+          "start": 62.13,
+          "end": 67.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now listen carefully, and answer questions 1~4.",
+          "start": 88.19,
+          "end": 92.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I've been meaning to ask you for some advice about restaurants.",
+          "start": 95.81,
+          "end": 99.05
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I need to book somewhere to celebrate my sister's 30TH birthday, and I liked the sound of that place you went to for your mom's 50TH.",
+          "start": 99.97,
+          "end": 107.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The junction?",
+          "start": 108.27,
+          "end": 108.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Yeah, I definitely recommend that for a special occasion.",
+          "start": 108.99,
+          "end": 112.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We had a great time there.",
+          "start": 112.91,
+          "end": 114.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Everyone really enjoyed it.",
+          "start": 114.19,
+          "end": 116.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Where is it again?",
+          "start": 116.91,
+          "end": 117.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I can't remember.",
+          "start": 117.91,
+          "end": 118.63
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's on Grayson Street, only about a two minute walk from the station.",
+          "start": 119.66,
+          "end": 123.9
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Oh, that's good.",
+          "start": 124.5,
+          "end": 125.42
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'd prefer not to have to drive anywhere, but I don't want to have to walk too far either.",
+          "start": 126.02,
+          "end": 131.06
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Yes, the location's perfect, but that's not necessarily why I'd recommend it.",
+          "start": 132.29,
+          "end": 137.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The foods amazing.",
+          "start": 137.77,
+          "end": 139.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you like fish It's probably the best restaurant in town for that.",
+          "start": 140.33,
+          "end": 145.21,
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's always really fresh, and there are lots of interesting dishes to choose from.",
+          "start": 145.97,
+          "end": 150.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But all the food is good there.",
+          "start": 151.49,
+          "end": 153.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Is it really expensive?",
+          "start": 154.05,
+          "end": 155.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's certainly not cheap, but for a special occasion, I think it's fine.",
+          "start": 156.57,
+          "end": 161.13
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's got a great atmosphere.",
+          "start": 162.05,
+          "end": 163.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Before dinner, you can go up on the roof and have a drink.",
+          "start": 164.91,
+          "end": 168.31,
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's really nice up there, but you need to book.",
+          "start": 169.15,
+          "end": 172.27
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's very popular, as the views are spectacular.",
+          "start": 173.15,
+          "end": 176.31
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Sounds good.",
+          "start": 177.31,
+          "end": 177.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So that's definitely a possibility then.",
+          "start": 177.99,
+          "end": 180.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Is there anywhere else you can think of?",
+          "start": 181.67,
+          "end": 183.59
+        },
+        {
+          "s": "SPEAKER",
+          "t": "umIf you want somewhere a bit less formal, then you could try Paloma.",
+          "start": 185.57,
+          "end": 189.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Where's that?",
+          "start": 190.13,
+          "end": 190.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I haven't heard of it.",
+          "start": 191.09,
+          "end": 191.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "No, it's quite new.",
+          "start": 192.49,
+          "end": 193.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's only been open a few months, but it's got a great reputation already.",
+          "start": 194.17,
+          "end": 198.13
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's in a really beautiful old building on Bow Street.",
+          "start": 199.16,
+          "end": 202.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Oh, I think I know where you mean, right beside the cinema.",
+          "start": 203.28,
+          "end": 207.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Yes, that's it.",
+          "start": 207.84,
+          "end": 209.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I've only been there a couple of times, but I was really impressed.",
+          "start": 209.75,
+          "end": 213.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The chef used to work at Don Felipe's apparently.",
+          "start": 214.31,
+          "end": 217.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I was really sorry when that closed down.",
+          "start": 218.35,
+          "end": 220.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So is all the food they serve Spanish then?",
+          "start": 221.0,
+          "end": 223.64,
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Yeah, you can get lots of small dishes to share, which always works really well if you're in a group.",
+          "start": 224.16,
+          "end": 230.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We're thinking about.",
+          "start": 231.67,
+          "end": 232.59
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Yeah, there's a lively atmosphere, and the waiters are really friendly.",
+          "start": 232.87,
+          "end": 237.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The only thing is that you need to pay a 50 pound deposit to book a table.",
+          "start": 238.75,
+          "end": 243.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A lot of restaurants are doing that these days.",
+          "start": 243.75,
+          "end": 245.79
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I should have a look at the menu to check there's a good choice of vegetarian dishes.",
+          "start": 246.67,
+          "end": 250.91,
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A couple of my friends have stopped eating meat.",
+          "start": 251.79,
+          "end": 254.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Not sure, I'd say the selection of those would be quite limited.",
+          "start": 255.26,
+          "end": 258.66
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Before you hear the rest of the conversation, you have some time to look at questions 5~10.",
+          "start": 262.44,
+          "end": 268.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now listen and answer questions 5~10.",
+          "start": 299.64,
+          "end": 303.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I've just thought of another idea.",
+          "start": 306.79,
+          "end": 308.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Have you been to the Orley?",
+          "start": 309.07,
+          "end": 310.47,
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "No, don't think I've heard of it.",
+          "start": 311.27,
+          "end": 313.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "How's it spelled?",
+          "start": 313.31,
+          "end": 314.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A, U d, l, e, y.",
+          "start": 315.11,
+          "end": 319.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You must have heard of it.",
+          "start": 320.6,
+          "end": 321.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's been a lot about it in the press.",
+          "start": 321.68,
+          "end": 323.88
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I don't tend to pay much attention to that kind of thing.",
+          "start": 324.6,
+          "end": 327.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, where is it exactly?",
+          "start": 328.55,
+          "end": 329.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's in that hotel near Baxter Bridge, on the top floor.",
+          "start": 330.83,
+          "end": 335.03,
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Oh, the views would be incredible from up there.",
+          "start": 335.59,
+          "end": 338.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'd love to go.",
+          "start": 339.5,
+          "end": 340.42
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I can't think of the chef's name, but she was a judge on that TV cookery show recently, and she's written a couple of cookery books.",
+          "start": 341.38,
+          "end": 350.02
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Oh, Angela Frayne.",
+          "start": 350.91,
+          "end": 352.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's the one.",
+          "start": 352.63,
+          "end": 353.59
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Anyway, it's had excellent reviews from all the newspapers.",
+          "start": 353.59,
+          "end": 358.51,
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That would be a memorable place for a celebration.",
+          "start": 359.31,
+          "end": 361.99
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Definitely.",
+          "start": 362.87,
+          "end": 363.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Obviously, it's worth going there just for the view, but the food is supposed to be really special.",
+          "start": 363.59,
+          "end": 370.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "She only likes cooking with local products, doesn't she?",
+          "start": 370.31,
+          "end": 374.51,
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Yes, everything at the restaurant has to be sourced within a short distance, and absolutely nothing flown in from abroad.",
+          "start": 375.08,
+          "end": 383.52
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I imagine it's really expensive though.",
+          "start": 384.08,
+          "end": 386.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, you could go for the set lunch.",
+          "start": 387.33,
+          "end": 389.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's quite reasonable for a top class restaurant, 30 pounds ahead.",
+          "start": 390.29,
+          "end": 394.93,
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the evening, I think it would be more like 50 pounds.",
+          "start": 395.77,
+          "end": 399.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At least that I should think, but I'm sure everyone would enjoy it.",
+          "start": 400.24,
+          "end": 404.52
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's not the kind of place you leave feeling hungry though, is it?",
+          "start": 405.44,
+          "end": 408.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "With tiny portions.",
+          "start": 409.36,
+          "end": 410.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "No, the reviews I've read didn't mention that.",
+          "start": 411.43,
+          "end": 413.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I imagine they'd be average.",
+          "start": 414.59,
+          "end": 416.63,
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, that's all great, thanks.",
+          "start": 416.87,
+          "end": 419.79
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That is the end of part one.",
+          "start": 423.97,
+          "end": 425.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You now have one minute to check your answers to part one.",
+          "start": 426.57,
+          "end": 430.49
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c20/t1p2.mp3",
+      "duration": 0,
+      "title": "Heather's pottery class",
+      "noTranscript": true,
+      "groups": [
+        {
+          "range": [
+            11,
+            16
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 11,
+              "text": "Heather says pottery differs from other art forms because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "it lasts longer in the ground."
+                },
+                {
+                  "k": "B",
+                  "text": "it is practised by more people."
+                },
+                {
+                  "k": "C",
+                  "text": "it can be repaired more easily."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "Archaeologists sometimes identify the use of ancient pottery from",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the clay it was made with."
+                },
+                {
+                  "k": "B",
+                  "text": "the marks that are on it."
+                },
+                {
+                  "k": "C",
+                  "text": "the basic shape of it."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "Some people join Heather's pottery class because they want to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "create an item that looks very old."
+                },
+                {
+                  "k": "B",
+                  "text": "find something that they are good at."
+                },
+                {
+                  "k": "C",
+                  "text": "make something that will outlive them."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "What does Heather value most about being a potter?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "its calming effect"
+                },
+                {
+                  "k": "B",
+                  "text": "its messy nature"
+                },
+                {
+                  "k": "C",
+                  "text": "its physical benefits"
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "Most of the visitors to Edelman Pottery",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "bring friends to join courses."
+                },
+                {
+                  "k": "B",
+                  "text": "have never made a pot before."
+                },
+                {
+                  "k": "C",
+                  "text": "try to learn techniques too quickly."
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "Heather reminds her visitors that they should",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "put on their aprons."
+                },
+                {
+                  "k": "B",
+                  "text": "change their clothes."
+                },
+                {
+                  "k": "C",
+                  "text": "take off their jewellery."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            18
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO things does Heather explain about kilns?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "what their function is"
+            },
+            {
+              "k": "B",
+              "text": "when they were invented"
+            },
+            {
+              "k": "C",
+              "text": "ways of keeping them safe"
+            },
+            {
+              "k": "D",
+              "text": "where to put one in your home"
+            },
+            {
+              "k": "E",
+              "text": "what some people use instead of one"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO points does Heather make about a potter's tools?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Some are hard to hold."
+            },
+            {
+              "k": "B",
+              "text": "Some are worth buying."
+            },
+            {
+              "k": "C",
+              "text": "Some are essential items."
+            },
+            {
+              "k": "D",
+              "text": "Some have memorable names."
+            },
+            {
+              "k": "E",
+              "text": "Some are available for use by participants."
+            }
+          ]
+        }
+      ],
+      "transcript": []
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c20/t1p3.mp3",
+      "duration": 479,
+      "title": "A presentation on loneliness",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO things do the students both believe are responsible for the increase in loneliness?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "social media"
+            },
+            {
+              "k": "B",
+              "text": "smaller nuclear families"
+            },
+            {
+              "k": "C",
+              "text": "urban design"
+            },
+            {
+              "k": "D",
+              "text": "longer lifespans"
+            },
+            {
+              "k": "E",
+              "text": "a mobile workforce"
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            24
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO health risks associated with loneliness do the students agree are based on solid evidence?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "a weakened immune system"
+            },
+            {
+              "k": "B",
+              "text": "dementia"
+            },
+            {
+              "k": "C",
+              "text": "cancer"
+            },
+            {
+              "k": "D",
+              "text": "obesity"
+            },
+            {
+              "k": "E",
+              "text": "cardiovascular disease"
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            26
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO opinions do both the students express about the evolutionary theory of loneliness?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "It has little practical relevance."
+            },
+            {
+              "k": "B",
+              "text": "It needs further investigation."
+            },
+            {
+              "k": "C",
+              "text": "It is misleading."
+            },
+            {
+              "k": "D",
+              "text": "It should be more widely accepted."
+            },
+            {
+              "k": "E",
+              "text": "It is difficult to understand."
+            }
+          ]
+        },
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Loneliness and mental health",
+          "questions": [
+            {
+              "n": 27,
+              "text": "When comparing loneliness to depression, the students",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "doubt that there will ever be a medical cure for loneliness."
+                },
+                {
+                  "k": "B",
+                  "text": "claim that the link between loneliness and mental health is overstated."
+                },
+                {
+                  "k": "C",
+                  "text": "express frustration that loneliness is not taken more seriously."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "Why do the students decide to start their presentation with an example from their own experience?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "to explain how difficult loneliness can be"
+                },
+                {
+                  "k": "B",
+                  "text": "to highlight a situation that most students will recognise"
+                },
+                {
+                  "k": "C",
+                  "text": "to emphasise that feeling lonely is more common for men than women"
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "The students agree that talking to strangers is a good strategy for dealing with loneliness because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "it creates a sense of belonging."
+                },
+                {
+                  "k": "B",
+                  "text": "it builds self-confidence."
+                },
+                {
+                  "k": "C",
+                  "text": "it makes people feel more positive."
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "The students find it difficult to understand why solitude is considered to be",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "similar to loneliness."
+                },
+                {
+                  "k": "B",
+                  "text": "necessary for mental health."
+                },
+                {
+                  "k": "C",
+                  "text": "an enjoyable experience."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Part three.",
+          "start": 0.45,
+          "end": 1.13
+        },
+        {
+          "s": "SPEAKER",
+          "t": "will hear two sociology students called Tamara and Dev discussing their research for a presentation on loneliness.",
+          "start": 3.16,
+          "end": 11.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First, you have some time to look at questions 21 to 26.",
+          "start": 13.04,
+          "end": 18.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now listen carefully, and answer questions 21~26.",
+          "start": 49.04,
+          "end": 54.12
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Shall we go through the notes we've made from our research into loneliness now, Dave?",
+          "start": 57.85,
+          "end": 62.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK, Summer.",
+          "start": 62.41,
+          "end": 63.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "uh, It's been a real eye opener.",
+          "start": 64.25,
+          "end": 66.09
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I had no idea that loneliness has been increasing steadily for the last 20 years.",
+          "start": 66.57,
+          "end": 72.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "uh, I know.",
+          "start": 72.53,
+          "end": 73.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And it's the same all over the world, the downside of a modern lifestyle, I guess.",
+          "start": 74.09,
+          "end": 79.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Did you come to any conclusions about what the reasons for the increase are?",
+          "start": 79.85,
+          "end": 84.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, I assumed it was mainly an issue for the elderly, but in fact, it's something which affects young people just as much.",
+          "start": 85.48,
+          "end": 94.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, nothing really to do with longer life spans.",
+          "start": 95.61,
+          "end": 98.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "um, What about social media?",
+          "start": 99.13,
+          "end": 101.97
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In my case, far from making me feel isolated, it actually does the opposite.",
+          "start": 102.37,
+          "end": 106.97
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It definitely does more good than harm.",
+          "start": 108.02,
+          "end": 110.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'd say loneliness has a lot to do with the way cities are designed.",
+          "start": 111.26,
+          "end": 114.86,
+          "q": [
+            21,
+            22
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "People living in high rise flats with not much opportunity to speak to their neighbours.",
+          "start": 115.26,
+          "end": 120.02
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I think you're right.",
+          "start": 120.5,
+          "end": 121.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another possible reason is that people are having fewer children, and don't live in large extended family groups.",
+          "start": 122.08,
+          "end": 129.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But in this country anyway, that all changed decades ago.",
+          "start": 130.2,
+          "end": 134.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And yet, loneliness is a more recent problem.",
+          "start": 134.93,
+          "end": 137.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I suppose so.",
+          "start": 137.89,
+          "end": 139.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A more More plausible explanation is that people are having to move around for work, and often end up living miles away from their family and friends.",
+          "start": 140.29,
+          "end": 149.72,
+          "q": [
+            21,
+            22
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's true.",
+          "start": 149.96,
+          "end": 150.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Looking at the studies on health risks and loneliness, there are claims that loneliness has as much impact as smoking 15 cigarettes a day, or similar to the risks caused by obesity.",
+          "start": 151.45,
+          "end": 163.89
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But I'm not sure there's enough evidence for some of these claims.",
+          "start": 164.81,
+          "end": 168.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, what about that one in Finland, which showed that loneliness increased the risk of cancer?",
+          "start": 169.61,
+          "end": 176.09
+        },
+        {
+          "s": "SPEAKER",
+          "t": "By about 10 percent, and those findings have been supported by other studies too.",
+          "start": 176.71,
+          "end": 182.47,
+          "q": [
+            23,
+            24
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You're right about that one, I was actually thinking of the studies on dementia.",
+          "start": 182.71,
+          "end": 187.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some found no association between loneliness and dementia, and others found the opposite.",
+          "start": 188.79,
+          "end": 195.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Not exactly reliable then.",
+          "start": 195.39,
+          "end": 197.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's been a lot of research on cardiovascular disease, and whether loneliness contributes to that.",
+          "start": 198.63,
+          "end": 205.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Yes, I read that it was hard to reach a judgment, as the definition of loneliness varied quite a lot.",
+          "start": 206.15,
+          "end": 212.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the responses from participants were too subjective.",
+          "start": 213.67,
+          "end": 217.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But there's no doubt that loneliness contributes to a weakened immune system.",
+          "start": 217.99,
+          "end": 222.87,
+          "q": [
+            23,
+            24
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Unquestionably, the data on that is sound.",
+          "start": 223.75,
+          "end": 226.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What did you think about the evolutionary theory of loneliness?",
+          "start": 226.95,
+          "end": 231.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, I thought the idea that loneliness evolved because it motivated people to be with other people quite convincing.",
+          "start": 231.83,
+          "end": 238.79
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Survival often depended on group cooperation.",
+          "start": 239.69,
+          "end": 242.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But I don't think there's enough evidence to claim that there must be a group of neurons in our brains which influence social behavior by making us feel bad when we're alone.",
+          "start": 243.13,
+          "end": 254.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are a few studies which support the theory, but not conclusively enough.",
+          "start": 255.34,
+          "end": 260.82
+        },
+        {
+          "s": "SPEAKER",
+          "t": "More evidence is needed.",
+          "start": 261.5,
+          "end": 262.7,
+          "q": [
+            25,
+            26
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "hmm.",
+          "start": 262.98,
+          "end": 263.3
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And anyway, this theory is not really useful when it comes to solving the problem of loneliness today.",
+          "start": 263.9,
+          "end": 269.94,
+          "q": [
+            25,
+            26
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Try Before you hear the rest of the discussion, you have some time to look at questions 27~30.",
+          "start": 270.47,
+          "end": 281.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now listen and answer questions 27~30.",
+          "start": 312.3,
+          "end": 315.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Should we look at the relationship between loneliness and mental health now?",
+          "start": 319.79,
+          "end": 324.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK, so loneliness and depression are clearly related, and that's been recognized by various governments around the world.",
+          "start": 324.19,
+          "end": 333.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But unlike depression, loneliness has no recognized clinical form.",
+          "start": 334.28,
+          "end": 339.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's no available diagnosis or effective treatments, and that's not likely to change.",
+          "start": 340.12,
+          "end": 345.8,
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I don't think so either.",
+          "start": 346.49,
+          "end": 347.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I was thinking we should start our presentation with an example from our own experience.",
+          "start": 348.95,
+          "end": 354.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'd like to talk about how lonely I was when I started university.",
+          "start": 355.55,
+          "end": 359.67
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Being away from home for the first time and all that.",
+          "start": 360.44,
+          "end": 362.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Good idea, everyone will be able to relate to that, although a lot of students were probably too embarrassed to admit to it.",
+          "start": 363.08,
+          "end": 372.2,
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Yeah, uh, we could discuss ways of dealing with loneliness as well, like just talking to strangers.",
+          "start": 372.61,
+          "end": 380.05
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Loads of studies have shown that interactions with shop assistants and bar staff make people feel more optimistic and relaxed.",
+          "start": 380.33,
+          "end": 389.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I don't know about that, but it must make people feel more connected with their community.",
+          "start": 390.81,
+          "end": 396.33,
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "True, although you need to be a certain kind of person to be able to just strike up a conversation.",
+          "start": 396.73,
+          "end": 403.05
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Good point.",
+          "start": 403.99,
+          "end": 404.51
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We should say something about solitude, and how being alone and being lonely aren't the same thing.",
+          "start": 405.67,
+          "end": 412.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's strange the way some people can't stand being by themselves, while others love it.",
+          "start": 413.97,
+          "end": 419.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Yeah, the research shows a certain amounts of solitude is beneficial for well being, which I appreciate.",
+          "start": 419.37,
+          "end": 426.37,
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But being alone isn't something I actually like.",
+          "start": 426.89,
+          "end": 430.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'd never choose to go on holiday alone, for example.",
+          "start": 431.49,
+          "end": 434.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Me neither.",
+          "start": 434.81,
+          "end": 435.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, let's not think That is the end of part three.",
+          "start": 435.89,
+          "end": 443.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You now have 30 seconds to check your answers to part three.",
+          "start": 444.49,
+          "end": 448.37
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c20/t1p4.mp3",
+      "duration": 473,
+      "title": "Reclaiming urban rivers",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Reclaiming urban rivers",
+          "lines": [
+            "## Historical background",
+            "Nearly all major cities were built on a river.",
+            "Rivers were traditionally used by city dwellers for transport, fishing and recreation.",
+            "Industrial development and rising populations later led to:",
+            "- more sewage from houses being discharged into the river",
+            "- pollution from {{31}} on the river bank",
+            "In 1957, the River Thames in London was declared biologically {{32}}.",
+            "## Recent improvements",
+            "Seals and even a {{33}} have been seen in the River Thames.",
+            "Riverside warehouses are converted to restaurants and {{34}}.",
+            "In Los Angeles, there are plans to:",
+            "- build a riverside {{35}}",
+            "- display {{36}} projects",
+            "In Paris, {{37}} are created on the sides of the river every summer.",
+            "## Transport possibilities",
+            "Over 2 billion passengers already travel by {{38}} in cities round the world.",
+            "Changes in shopping habits mean the number of deliveries that are made is increasing.",
+            "Instead of road transport, goods could be transported by large freight barges and electric {{39}} or, in future, by {{40}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Part four.",
+          "start": 2.23,
+          "end": 2.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You will hear part of a presentation by an urban planning student about the role of rivers in cities around the world.",
+          "start": 4.72,
+          "end": 12.24
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First, you have some time to look at questions 31~40.",
+          "start": 12.4,
+          "end": 17.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now listen carefully, and answer questions 31~40.",
+          "start": 68.33,
+          "end": 72.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's quite hard to think of a city that doesn't have a big river running through it.",
+          "start": 76.15,
+          "end": 80.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you think about the major cities in the world, Shanghai, New York, Mumbai, London.",
+          "start": 80.31,
+          "end": 85.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They're nearly all built on rivers.",
+          "start": 86.26,
+          "end": 87.9
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When these cities were established hundreds or even thousands of years ago, the rivers were a big part of people's lives.",
+          "start": 87.98,
+          "end": 95.9
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In 16TH century London, the quickest way to get from one part of the city to another was by river.",
+          "start": 96.77,
+          "end": 102.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But people also used the river for fishing, as the water then was relatively clean.",
+          "start": 103.17,
+          "end": 108.05
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And they would also go on boat trips up and down the river just for pleasure, as a relaxing escape from the noise and bustle of the city streets.",
+          "start": 108.56,
+          "end": 116.24
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But as industries developed and populations increased City rivers suffered.",
+          "start": 116.4,
+          "end": 122.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The rising number of people meant there was a huge increase in the amount of sewage discharged into the rivers.",
+          "start": 122.88,
+          "end": 128.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Rivers had always been used for this purpose.",
+          "start": 128.68,
+          "end": 131.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But when the number of inhabitants was so small, that wasn't such a problem.",
+          "start": 132.1,
+          "end": 136.58
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, as cities grew to over a million inhabitants, the impact on the rivers became more serious.",
+          "start": 136.7,
+          "end": 143.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In addition, other types of pollution increased, as factories were built beside the river, and discharge their waste materials into the water.",
+          "start": 144.41,
+          "end": 153.05,
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This got worse over time.",
+          "start": 153.25,
+          "end": 155.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As recently as 1957, scientists at London's Natural History Museum declared that the River Thames was dead in biological terms.",
+          "start": 156.33,
+          "end": 165.69,
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As the water was too filthy to support any kind of life.",
+          "start": 166.33,
+          "end": 169.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But in recent years, as rivers lost their industrial function, cities have begun to recognize their true value, and to take steps to clean them up.",
+          "start": 170.6,
+          "end": 179.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example, the River Thames is now cleaner than it's been for 150 years.",
+          "start": 180.64,
+          "end": 185.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These days, you can see seals swimming in the water, and recently, people had to try to rescue a whale, which had got lost and swam up the river from the sea by mistake.",
+          "start": 186.24,
+          "end": 196.08,
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Unfortunately, they didn't succeed.",
+          "start": 197.34,
+          "end": 199.02
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But the problem was disorientation rather than the quality of the water.",
+          "start": 199.42,
+          "end": 203.58
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then, all around the world Riverside areas are now seen as prime sites for development.",
+          "start": 203.78,
+          "end": 210.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Warehouses that were once used for storing goods are now being converted into expensive restaurants, and And also into apartments with river views, which are in great demand and sell for astronomical prices.",
+          "start": 210.65,
+          "end": 223.97,
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In Los Angeles, on the west coast of the USA An architect has plans to revitalize the banks of the river, and to make a park there, which can provide facilities for sports, as well as a natural environment for relaxing in. It's also hoped that the riverside can be.",
+          "start": 225.21,
+          "end": 242.29,
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "used for other purposes.",
+          "start": 242.29,
+          "end": 243.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's been proposed that facilities could be provided for displaying projects related to various kinds of art.",
+          "start": 244.41,
+          "end": 251.33,
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That have been produced by local people, for example.",
+          "start": 251.87,
+          "end": 254.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the city of Paris, during the summer months of July and August, all the traffic is banned from the roads by the sides of the river.",
+          "start": 255.47,
+          "end": 263.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the banks are transformed into beaches where people can relax in deck chairs under potted palm trees, sunbathe, or buy a drink or a snack while enjoying the view.",
+          "start": 263.66,
+          "end": 274.42,
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But to make the most of our rivers in our increasingly crowded cities, we need to allow them to regain their original purpose, and be used as a means of transport.",
+          "start": 279.8,
+          "end": 289.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Reclaiming our streets from cars and lorries.",
+          "start": 289.84,
+          "end": 292.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "To do this, we'll have to shift more traffic back to the river, but this time cleanly and silently.",
+          "start": 292.16,
+          "end": 300.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Making the most of modern technology.",
+          "start": 300.93,
+          "end": 302.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Already, more than two billion passengers use the ferry to travel in cities around the world, like Istanbul, San Francisco, and New York.",
+          "start": 303.01,
+          "end": 313.21,
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And these numbers are set to rise further.",
+          "start": 313.75,
+          "end": 315.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Admittedly, it's not a fast way of traveling, but neither is a car when it's stuck in traffic.",
+          "start": 315.99,
+          "end": 321.79
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Of course.",
+          "start": 321.91,
+          "end": 323.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Passenger traffic on roads might decrease, as more people start working from home.",
+          "start": 323.91,
+          "end": 328.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But another recent development, the huge rise in online shopping, has meant that another form of urban traffic just keeps on growing.",
+          "start": 328.95,
+          "end": 336.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And that's deliveries.",
+          "start": 337.46,
+          "end": 338.86
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Trucks and vans in the city pollute and double park while dropping off parcels.",
+          "start": 338.94,
+          "end": 344.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Imagine using the immense capacity of shipping To take these trucks off the road.",
+          "start": 344.26,
+          "end": 350.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One freight barge can replace 44 large trucks, uses far less energy, and causes less pollution.",
+          "start": 351.09,
+          "end": 358.33
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When the barge docks at the riverside, the parcels could be taken the last few kilometers to their final destination on cargo bikes, electric ones of course.",
+          "start": 359.55,
+          "end": 369.11,
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is already happening in the Dutch city of Amsterdam, and in future, the final stage could even be carried out by drone, although at present, this isn't allowed.",
+          "start": 370.27,
+          "end": 379.83,
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Wouldn't it be great to unblock our city centers in this way?",
+          "start": 380.79,
+          "end": 384.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Looking further ahead.",
+          "start": 384.91,
+          "end": 386.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That is the end of part four.",
+          "start": 390.38,
+          "end": 391.9
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You now have one minute to check your answers to part four.",
+          "start": 392.86,
+          "end": 396.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That is the end of the listening test.",
+          "start": 456.76,
+          "end": 458.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the IELTS test, you would now have 10 minutes to transfer your answers to the listening answer sheet.",
+          "start": 460.17,
+          "end": 466.81
+        }
+      ]
+    }
+  ]
+}

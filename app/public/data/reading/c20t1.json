@@ -1,0 +1,856 @@
+{
+  "id": "c20t1",
+  "book": "剑桥雅思20",
+  "test": 1,
+  "title": "剑20 Test 1 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "FALSE"
+    ],
+    "2": [
+      "FALSE"
+    ],
+    "3": [
+      "FALSE"
+    ],
+    "4": [
+      "NOT GIVEN"
+    ],
+    "5": [
+      "TRUE"
+    ],
+    "6": [
+      "TRUE"
+    ],
+    "7": [
+      "bulbs"
+    ],
+    "8": [
+      "soil"
+    ],
+    "9": [
+      "feathers"
+    ],
+    "10": [
+      "deer"
+    ],
+    "11": [
+      "1980"
+    ],
+    "12": [
+      "funding"
+    ],
+    "13": [
+      "stakeholders"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "G"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "E"
+    ],
+    "18": [
+      "C"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "oak"
+    ],
+    "25": [
+      "flooring"
+    ],
+    "26": [
+      "keel"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "D"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "G"
+    ],
+    "33": [
+      "F"
+    ],
+    "34": [
+      "E"
+    ],
+    "35": [
+      "D"
+    ],
+    "36": [
+      "YES"
+    ],
+    "37": [
+      "NOT GIVEN"
+    ],
+    "38": [
+      "NO"
+    ],
+    "39": [
+      "YES"
+    ],
+    "40": [
+      "YES"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "why": "题干说其他鹦鹉也不会飞，但原文明确几维鹦鹉是\"world's only flightless parrot\"（世界上唯一不会飞的鹦鹉），与题干矛盾，为FALSE。",
+      "key": "It is the world's only flightless parrot, and is also possibly one of the world's longest-living birds, with a reported lifespan of up to 100 years."
+    },
+    "2": {
+      "loc": "p3",
+      "why": "原文说几维鹦鹉只在食物充足的年份繁殖，并非每年都产卵育雏，与题干矛盾，为FALSE。",
+      "key": "Kakapo breed in summer and autumn, but only in years when food is plentiful."
+    },
+    "3": {
+      "loc": "p3",
+      "why": "原文明确雄鸟不参与孵蛋育雏，是雌鸟独自觅食喂养幼鸟，雄鸟并不给雌鸟带回食物，为FALSE。",
+      "key": "Males play no part in incubation or chick-rearing — females alone incubate eggs and feed the chicks."
+    },
+    "4": {
+      "loc": "p4",
+      "why": "原文只说波利尼西亚人带来的狗和老鼠都捕食几维鹦鹉，并未比较老鼠和移民本身对几维鹦鹉的威胁孰大孰小，为NOT GIVEN。",
+      "key": "With them came the Polynesian dog and rat, which also preyed on kakapo."
+    },
+    "5": {
+      "loc": "p7",
+      "why": "原文说野猫在雷库拉岛捕食导致几维鹦鹉数量骤降，因此幸存种群被转移到三个岛屿保护区，与题干一致，为TRUE。",
+      "key": "Unfortunately, predation by feral cats on Rakiura Island led to a rapid decline in kakapo numbers."
+    },
+    "6": {
+      "loc": "p8",
+      "why": "题干\"caring for struggling young birds\"对应原文\"rescuing and hand-raising any failing chicks\"（救助并人工抚养体弱雏鸟），为TRUE。",
+      "key": "This involved moving the birds between islands, supplementary feeding of adults and rescuing and hand-raising any failing chicks."
+    },
+    "7": {
+      "loc": "p2",
+      "why": "原文列出几维鹦鹉的食物包括树叶、根、树皮以及球茎和蕨类嫩叶，题干已给出蕨类嫩叶和树的部位，空格对应球茎 bulbs。",
+      "key": "They are entirely vegetarian, with their diet including the leaves, roots and bark of trees as well as bulbs, and fern fronds."
+    },
+    "8": {
+      "loc": "p3",
+      "why": "原文说蛋产在土壤中，且孵化期间会反复翻动，对应答案 soil。",
+      "key": "The 1-4 eggs are laid in soil, which is repeatedly turned over before and during incubation."
+    },
+    "9": {
+      "loc": "p4",
+      "why": "原文说早期移民用几维鹦鹉的羽毛制作柔软的斗篷，对应答案 feathers。",
+      "key": "They ate its meat and used its feathers to make soft cloaks."
+    },
+    "10": {
+      "loc": "p4",
+      "why": "原文说欧洲殖民者引入的鹿等物种消耗了森林中的食物资源，对应答案 deer。",
+      "key": "A great deal of habitat was lost through forest clearance, and introduced species such as deer depleted the remaining forests of food."
+    },
+    "11": {
+      "loc": "p6",
+      "why": "原文明确1980年确认雷库拉岛上也有雌性几维鹦鹉存在，对应答案 1980。",
+      "key": "There were about 200 individuals, and in 1980 it was confirmed females were also present."
+    },
+    "12": {
+      "loc": "p8",
+      "why": "原文说1996年新的恢复计划伴随着专家顾问组和更高额度的资金投入，对应答案 funding。",
+      "key": "In 1996, a new Recovery Plan was launched, together with a specialist advisory group called the Kakapo Scientific and Technical Advisory Committee and a higher amount of funding."
+    },
+    "13": {
+      "loc": "p9",
+      "why": "原文说恢复计划的目标之一是确保利益相关方持续充分参与保护工作，对应答案 stakeholders。",
+      "key": "Its key goals are: minimise the loss of genetic diversity in the kakapo population, restore or maintain sufficient habitat to accommodate the expected increase in the kakapo population, and ensure stakeholders continue to be fully engaged in the preservation of the species."
+    },
+    "14": {
+      "loc": "C",
+      "why": "题干问\"因幸存大树数量少而产生的研究难题\"，C段提到幸存的成熟榆树数量小，研究机会因此有限，对应C段。",
+      "key": "Nevertheless, opportunities are limited as the number of these mature survivors is relatively small."
+    },
+    "15": {
+      "loc": "G",
+      "why": "G段中Russell认为重新引入榆树的环境效益强，而Elliot等人则更为谨慎、担忧克隆和新疾病风险，体现了意见分歧，对应G段。",
+      "key": "'They will host wildlife, which is a good thing.' Others are more wary."
+    },
+    "16": {
+      "loc": "B",
+      "why": "题干问荷兰榆树病如何传入英国，B段说第二次疫情是由加拿大运来的榆木引发的，对应B段。",
+      "key": "A first epidemic, which occurred in the 1920s, gradually died down, but in the 70s a second epidemic was triggered by shipments of elm from Canada."
+    },
+    "17": {
+      "loc": "E",
+      "why": "E段说布莱顿沿海强风使榆树甲虫难以入侵，从而使当地榆树幸存，对应\"使某地免受疫病侵害的条件\"，对应E段。",
+      "key": "Strong winds from the sea make it difficult for the determined elm bark beetle to attack this coastal city's elm population."
+    },
+    "18": {
+      "loc": "C",
+      "why": "C段说明榆树主干长到10-15厘米直径时最容易遭甲虫产卵和真菌侵害，对应\"幼树变得易感染的阶段\"，对应C段。",
+      "key": "Once the trunk of the elm reaches 10-15 centimetres or so in diameter, it becomes a perfect size for beetles to lay eggs and for the fungus to take hold."
+    },
+    "19": {
+      "loc": "F",
+      "why": "Russell在F段说被感染的树几周内就会显现症状（叶片脱落甚至死亡），说明感染后损害很快显现，故答案为B（Karen Russell）。",
+      "key": "'The effects are very quick,' says Russell."
+    },
+    "20": {
+      "loc": "G",
+      "why": "Elliot在G段说最好的做法是给自然时间恢复，随时间推移也许能获得抗性，即建议等待观察，故答案为A（Matt Elliot）。",
+      "key": "'Sometimes the best thing you can do is just give nature time to recover ... over time, you might get resistance,' says Elliot."
+    },
+    "21": {
+      "loc": "C",
+      "why": "Russell在C段说她不认为幸存完全是运气，暗示一定存在解释幸存原因的因素，故答案为B（Karen Russell）。",
+      "key": "I don't see how it can be entirely down to luck.'"
+    },
+    "22": {
+      "loc": "E",
+      "why": "Bourne在E段说甲虫随时可能入侵，威胁近在咫尺，提醒人们保持警惕，故答案为C（Peter Bourne）。",
+      "key": "'The beetles can just march in if we're not careful, as the threat is right on our doorstep,' says Bourne."
+    },
+    "23": {
+      "loc": "A",
+      "why": "Elliot在A段说看到1960年代的老照片才能真正理解榆树曾经的重要地位和疫病造成的影响，故答案为A（Matt Elliot）。",
+      "key": "'You look at old photographs from the 1960s and it's only then that you realise the impact [elms had] ..."
+    },
+    "24": {
+      "loc": "D",
+      "why": "原文说榆树在英国是仅次于橡树的硬木首选，对应答案 oak。",
+      "key": "For centuries, elm ran a close second to oak as the hardwood tree of choice in Britain and was in many instances the most prominent tree in the landscape."
+    },
+    "25": {
+      "loc": "D",
+      "why": "原文说18世纪榆树木材被用来制作储物箱和地板，对应答案 flooring。",
+      "key": "In the 18th century, it was planted more widely and its wood was used for items such as storage crates and flooring."
+    },
+    "26": {
+      "loc": "D",
+      "why": "原文说卡蒂萨克号帆船的龙骨也是用榆木建造的，对应答案 keel。",
+      "key": "It was also suitable for items that experienced high levels of impact and was used to build the keel of the 19th-century sailing ship Cutty Sark as well as mining equipment."
+    },
+    "27": {
+      "loc": "p1",
+      "why": "第一段指出我们都需要在压力下权衡信息做决定，这是每个人都会遇到的普遍挑战，对应C选项。",
+      "key": "From medical decisions to financial and professional ones, we are all sometimes required to weigh up information under stressful conditions."
+    },
+    "28": {
+      "loc": "p2",
+      "why": "第二段说消防员的工作日忙闲交替、压力水平起伏不定，正好适合做压力研究的对象，对应A选项。",
+      "key": "Firefighters' workdays vary quite a bit."
+    },
+    "29": {
+      "loc": "p4",
+      "why": "第四段详细说明了实验的具体做法（让消防员估计概率、给予好坏消息再让其重新估计），属于描述研究方法，对应D选项。",
+      "key": "This is how we arrived at these results."
+    },
+    "30": {
+      "loc": "p7",
+      "why": "第七段说这种大脑\"开关\"与对意外警告信号（如恐惧表情）的神经信号增强有关，即对外部威胁更敏感，对应C选项。",
+      "key": "Brain imaging reveals that this 'switch' is related to a sudden boost in a neural signal important for learning, specifically in response to unexpected warning signs, such as faces expressing fear."
+    },
+    "31": {
+      "loc": "p5",
+      "why": "第五段说消防员放松时倾向于忽视坏消息、只接受好消息，对应B选项\"较少注意坏消息\"。",
+      "key": "People are normally quite optimistic — they will ignore bad news and embrace the good."
+    },
+    "32": {
+      "loc": "p5",
+      "why": "第五段说消防员处于压力下时对坏消息变得高度警觉并据此改变看法，即认为坏事更可能发生，对应G选项。",
+      "key": "Under these conditions, they became hyper-vigilant to bad news, even when it had nothing to do with their job (such as learning that the likelihood of card fraud was higher than they'd thought), and altered their beliefs in response."
+    },
+    "33": {
+      "loc": "p5",
+      "why": "第五段说压力并不改变消防员对好消息的反应方式，即无论是否有压力，对好消息的反应始终一致，对应F选项。",
+      "key": "In contrast, stress didn't change how they responded to good news (such as learning that the likelihood of card fraud was lower than they'd thought)."
+    },
+    "34": {
+      "loc": "p6",
+      "why": "第六段说学生被告知要进行突如其来的公开演讲（面对评审、被录音发布），这使他们处于压力情境，从而影响了皮质醇水平和心率，对应E选项。",
+      "key": "Back in our lab, we observed the same pattern in students who were told they had to give a surprise public speech, which would be judged by a panel, recorded and posted online."
+    },
+    "35": {
+      "loc": "p6",
+      "why": "第六段说处于压力下的学生更善于处理令人担忧的信息，呼应第五段消防员在压力下的表现，说明两个实验中压力状态下负面信息都被更好地处理，对应D选项。",
+      "key": "Sure enough, their cortisol levels spiked, their heart rates went up and they suddenly became better at processing unrelated, yet alarming, information about rates of disease and violence."
+    },
+    "36": {
+      "loc": "p9",
+      "why": "第九段说人们看到积极的帖子（如晚霞图片）后更倾向于发布积极内容，看到消极帖子后则会发布更多消极内容，说明发帖语气会反映所看到的内容，为YES。",
+      "key": "Studies show that if we observe positive feeds on social media, such as images of a pink sunset, we are more likely to post uplifting messages ourselves."
+    },
+    "37": {
+      "loc": "p10",
+      "why": "第十段提到查看手机和发社交媒体帖子都与压力有关，但并未将手机与其他电子设备对压力水平的影响进行比较，为NOT GIVEN。",
+      "key": "Social media posting, according to one study, raises your pulse, makes you sweat, and enlarges your pupils more than most daily activities."
+    },
+    "38": {
+      "loc": "p11",
+      "why": "第十一段说压力使人更容易关注并被负面消息影响，从而放大了实际的危险程度，而不是说人们处理信息的能力变差，与题干相反，为NO。",
+      "key": "But that has the effect of exaggerating existing danger."
+    },
+    "39": {
+      "loc": "p11",
+      "why": "第十一段说人们会取消旅行、抛售股票，即使这些反应并非必要，对应题干\"采取不必要的预防措施\"，为YES。",
+      "key": "As a result, trips are cancelled, even if the disaster took place across the globe; stocks are sold, even when holding on is the best thing to do."
+    },
+    "40": {
+      "loc": "p12",
+      "why": "第十二段说希望等积极情绪同样具有传染性，能有效促使人们采取行动寻找解决方案，说明这种情绪感染倾向可被积极利用，为YES。",
+      "key": "The good news, however, is that positive emotions, such as hope, are contagious too, and are powerful in inducing people to act to find solutions."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "The kakapo",
+      "subtitle": "The kakapo is a nocturnal, flightless parrot that is critically endangered and one of New Zealand's unique treasures",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "The kakapo, also known as the owl parrot, is a large, forest-dwelling bird, with a pale owl-like face. Up to 64 cm in length, it has predominantly yellow-green feathers, forward-facing eyes, a large grey beak, large blue feet, and relatively short wings and tail. It is the world's only flightless parrot, and is also possibly one of the world's longest-living birds, with a reported lifespan of up to 100 years."
+        },
+        {
+          "id": "p2",
+          "text": "Kakapo are solitary birds and tend to occupy the same home range for many years. They forage on the ground and climb high into trees. They often leap from trees and flap their wings, but at best manage a controlled descent to the ground. They are entirely vegetarian, with their diet including the leaves, roots and bark of trees as well as bulbs, and fern fronds."
+        },
+        {
+          "id": "p3",
+          "text": "Kakapo breed in summer and autumn, but only in years when food is plentiful. Males play no part in incubation or chick-rearing — females alone incubate eggs and feed the chicks. The 1-4 eggs are laid in soil, which is repeatedly turned over before and during incubation. The female kakapo has to spend long periods away from the nest searching for food, which leaves the unattended eggs and chicks particularly vulnerable to predators."
+        },
+        {
+          "id": "p4",
+          "text": "Before humans arrived, kakapo were common throughout New Zealand's forests. However, this all changed with the arrival of the first Polynesian settlers about 700 years ago. For the early settlers, the flightless kakapo was easy prey. They ate its meat and used its feathers to make soft cloaks. With them came the Polynesian dog and rat, which also preyed on kakapo. By the time European colonisers arrived in the early 1800s, kakapo had become confined to the central North Island and forested parts of the South Island. The fall in kakapo numbers was accelerated by European colonisation. A great deal of habitat was lost through forest clearance, and introduced species such as deer depleted the remaining forests of food. Other predators such as cats, stoats and two more species of rat were also introduced. The kakapo were in serious trouble."
+        },
+        {
+          "id": "p5",
+          "text": "In 1894, the New Zealand government launched its first attempt to save the kakapo. Conservationist Richard Henry led an effort to relocate several hundred of the birds to predator-free Resolution Island in Fiordland. Unfortunately, the island didn't remain predator free — stoats arrived within six years, eventually destroying the kakapo population. By the mid-1900s, the kakapo was practically a lost species. Only a few clung to life in the most isolated parts of New Zealand."
+        },
+        {
+          "id": "p6",
+          "text": "From 1949 to 1973, the newly formed New Zealand Wildlife Service made over 60 expeditions to find kakapo, focusing mainly on Fiordland. Six were caught, but there were no females amongst them and all but one died within a few months of captivity. In 1974, a new initiative was launched, and by 1977, 18 more kakapo were found in Fiordland. However, there were still no females. In 1977, a large population of males was spotted in Rakiura — a large island free from stoats, ferrets and weasels. There were about 200 individuals, and in 1980 it was confirmed females were also present. These birds have been the foundation of all subsequent work in managing the species."
+        },
+        {
+          "id": "p7",
+          "text": "Unfortunately, predation by feral cats on Rakiura Island led to a rapid decline in kakapo numbers. As a result, during 1980-97, the surviving population was evacuated to three island sanctuaries: Codfish Island, Maud Island and Little Barrier Island. However, breeding success was hard to achieve. Rats were found to be a major predator of kakapo chicks and an insufficient number of chicks survived to offset adult mortality. By 1995, although at least 12 chicks had been produced on the islands, only three had survived. The kakapo population had dropped to 51 birds. The critical situation prompted an urgent review of kakapo management in New Zealand."
+        },
+        {
+          "id": "p8",
+          "text": "In 1996, a new Recovery Plan was launched, together with a specialist advisory group called the Kakapo Scientific and Technical Advisory Committee and a higher amount of funding. Renewed steps were taken to control predators on the three islands. Cats were eradicated from Little Barrier Island in 1980, and possums were eradicated from Codfish Island by 1986. However, the population did not start to increase until rats were removed from all three islands, and the birds were more intensively managed. This involved moving the birds between islands, supplementary feeding of adults and rescuing and hand-raising any failing chicks. After the first five years of the Recovery Plan, the population was on target. By 2000, five new females had been produced, and the total population had grown to 62 birds. For the first time, there was cautious optimism for the future of kakapo and by June 2020, a total of 210 birds was recorded."
+        },
+        {
+          "id": "p9",
+          "text": "Today, kakapo management continues to be guided by the kakapo Recovery Plan. Its key goals are: minimise the loss of genetic diversity in the kakapo population, restore or maintain sufficient habitat to accommodate the expected increase in the kakapo population, and ensure stakeholders continue to be fully engaged in the preservation of the species."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            6
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "There are other parrots that share the kakapo's inability to fly."
+            },
+            {
+              "n": 2,
+              "text": "Adult kakapo produce chicks every year."
+            },
+            {
+              "n": 3,
+              "text": "Adult male kakapo bring food back to nesting females."
+            },
+            {
+              "n": 4,
+              "text": "The Polynesian rat was a greater threat to the kakapo than Polynesian settlers."
+            },
+            {
+              "n": 5,
+              "text": "Kakapo were transferred from Rakiura Island to other locations because they were at risk from feral cats."
+            },
+            {
+              "n": 6,
+              "text": "One Recovery Plan initiative that helped increase the kakapo population size was caring for struggling young birds."
+            }
+          ]
+        },
+        {
+          "range": [
+            7,
+            13
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+          "title": "New Zealand's kakapo",
+          "lines": [
+            "## A type of parrot",
+            "diet consists of fern fronds, various parts of a tree and {{7}}",
+            "nests are created in {{8}} where eggs are laid",
+            "## Arrival of Polynesian settlers",
+            "the {{9}} of the kakapo were used to make clothes",
+            "## Arrival of European colonisers",
+            "{{10}} were an animal which they introduced that ate the kakapo's food sources",
+            "## Protecting kakapo",
+            "Richard Henry, a conservationist, tried to protect the kakapo",
+            "a definite sighting of female kakapo on Rakiura Island was reported in the year {{11}}",
+            "the Recovery Plan included an increase in {{12}}",
+            "a current goal of the Recovery Plan is to maintain the involvement of {{13}} in kakapo protection"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "to Britain",
+      "subtitle": "Mark Rowe investigates attempts to reintroduce elms to Britain",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Around 25 million elms, accounting for 90% of all elm trees in the UK, died during the 1960s and '70s of Dutch elm disease. In the aftermath, the elm, once so dominant in the British landscape, was largely forgotten. However, there's now hope the elm may be reintroduced to the countryside of central and southern England. Any reintroduction will start from a very low base. 'The impact of the disease is difficult to picture if you hadn't seen what was there before,' says Matt Elliot of the Woodland Trust. 'You look at old photographs from the 1960s and it's only then that you realise the impact [elms had] ... They were significant, large trees ... then they were gone.'"
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "The disease is caused by a fungus that blocks the elms' vascular (water, nutrient and food transport) system, causing branches to wilt and die. A first epidemic, which occurred in the 1920s, gradually died down, but in the 70s a second epidemic was triggered by shipments of elm from Canada. The wood came in the form of logs destined for boat building and its intact bark was perfect for the elm bark beetles that spread the deadly fungus. This time, the beetles carried a much more virulent strain that destroyed the vast majority of British elms."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Today, elms still exist in the southern English countryside but mostly only in low hedgerows between fields. 'We have millions of small elms in hedgerows but they get targeted by the beetle as soon as they reach a certain size,' says Karen Russell, co-author of the report 'Where we are with elm'. Once the trunk of the elm reaches 10-15 centimetres or so in diameter, it becomes a perfect size for beetles to lay eggs and for the fungus to take hold. Yet mature specimens have been identified, in counties such as Cambridgeshire, that are hundreds of years old, and have mysteriously escaped the epidemic. The key, Russell says, is to identify and study those trees that have survived and work out why they stood tall when millions of others succumbed. Nevertheless, opportunities are limited as the number of these mature survivors is relatively small. 'What are the reasons for their survival?' asks Russell. 'Avoidance, tolerance, resistance? We don't know where the balance lies between the three. I don't see how it can be entirely down to luck.'"
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "For centuries, elm ran a close second to oak as the hardwood tree of choice in Britain and was in many instances the most prominent tree in the landscape. Not only was elm common in European forests, it became a key component of birch, ash and hazel woodlands. The use of elm is thought to go back to the Bronze Age, when it was widely used for tools. Elm was also the preferred material for shields and early swords. In the 18th century, it was planted more widely and its wood was used for items such as storage crates and flooring. It was also suitable for items that experienced high levels of impact and was used to build the keel of the 19th-century sailing ship Cutty Sark as well as mining equipment."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Given how ingrained elm is in British culture, it's unsurprising the tree has many advocates. Amongst them is Peter Bourne of the National Elm Collection in Brighton. 'I saw Dutch elm disease unfold as a small boy,' he says. 'The elm seemed to be part of rural England, but I remember watching trees just lose their leaves and that really stayed with me.' Today, the city of Brighton's elms total about 17,000. Local factors appear to have contributed to their survival. Strong winds from the sea make it difficult for the determined elm bark beetle to attack this coastal city's elm population. However, the situation is precarious. 'The beetles can just march in if we're not careful, as the threat is right on our doorstep,' says Bourne."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Any prospect of the elm returning relies heavily on trees being either resistant to, or tolerant of, the disease. This means a widespread reintroduction would involve existing or new hybrid strains derived from resistant, generally non-native elm species. A new generation of seedlings have been bred and tested to see if they can withstand the fungus by cutting a small slit on the bark and injecting a tiny amount of the pathogen. 'The effects are very quick,' says Russell. 'You return in four to six weeks and trees that are resistant show no symptoms, whereas those that are susceptible show leaf loss and may even have died completely.'"
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "All of this raises questions of social acceptance, acknowledges Russell. 'If we're putting elm back into the landscape, a small element of it is not native - are we bothered about that?' For her, the environmental case for reintroducing elm is strong. 'They will host wildlife, which is a good thing.' Others are more wary. 'On the face of it, it seems like a good idea,' says Elliot. The problem, he suggests, is that, 'You're replacing a native species with a horticultural analogue*. You're effectively cloning.' There's also the risk of introducing new diseases. Rather than plant new elms, the Woodland Trust emphasises providing space to those elms that have survived independently. 'Sometimes the best thing you can do is just give nature time to recover ... over time, you might get resistance,' says Elliot."
+        }
+      ],
+      "footnotes": [
+        "* horticultural analogue: a cultivated plant species that is genetically similar to an existing species"
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            18
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has seven sections, A-G. Which section contains the following information?",
+          "limit": "NB You may use any letter more than once.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "reference to the research problems that arise from there being only a few surviving large elms"
+            },
+            {
+              "n": 15,
+              "text": "details of a difference of opinion about the value of reintroducing elms to Britain"
+            },
+            {
+              "n": 16,
+              "text": "reference to how Dutch elm disease was brought into Britain"
+            },
+            {
+              "n": 17,
+              "text": "a description of the conditions that have enabled a location in Britain to escape Dutch elm disease"
+            },
+            {
+              "n": 18,
+              "text": "reference to the stage at which young elms become vulnerable to Dutch elm disease"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            23
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following statements (Questions 19-23) and the list of people below. Match each statement with the correct person, A, B, or C.",
+          "limit": "NB You may use any letter more than once.",
+          "optionsTitle": "List of People",
+          "options": [
+            {
+              "k": "A",
+              "text": "Matt Elliot"
+            },
+            {
+              "k": "B",
+              "text": "Karen Russell"
+            },
+            {
+              "k": "C",
+              "text": "Peter Bourne"
+            }
+          ],
+          "questions": [
+            {
+              "n": 19,
+              "text": "If a tree gets infected with Dutch elm disease, the damage rapidly becomes visible."
+            },
+            {
+              "n": 20,
+              "text": "It may be better to wait and see if the mature elms that have survived continue to flourish."
+            },
+            {
+              "n": 21,
+              "text": "There must be an explanation for the survival of some mature elms."
+            },
+            {
+              "n": 22,
+              "text": "We need to be aware that insects carrying Dutch elm disease are not very far away."
+            },
+            {
+              "n": 23,
+              "text": "You understand the effect Dutch elm disease has had when you see evidence of how prominent the tree once was."
+            }
+          ]
+        },
+        {
+          "range": [
+            24,
+            26
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Uses of a popular tree",
+          "text": "For hundreds of years, the only tree that was more popular in Britain than elm was {{24}}. Starting in the Bronze Age, many tools were made from elm and people also used it to make weapons. In the 18th century, it was grown to provide wood for boxes and {{25}}. Due to its strength, elm was often used for mining equipment and the Cutty Sark's {{26}} was also constructed from elm."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "How stress affects our judgement",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Some of the most important decisions of our lives occur while we're feeling stressed and anxious. From medical decisions to financial and professional ones, we are all sometimes required to weigh up information under stressful conditions. But do we become better or worse at processing and using information under such circumstances?"
+        },
+        {
+          "id": "p2",
+          "text": "My colleague and I, both neuroscientists, wanted to investigate how the mind operates under stress, so we visited some local fire stations. Firefighters' workdays vary quite a bit. Some are pretty relaxed; they'll spend their time washing the truck, cleaning equipment, cooking meals and reading. Other days can be hectic, with numerous life-threatening incidents to attend to; they'll enter burning homes to rescue trapped residents, and assist with medical emergencies. These ups and downs presented the perfect setting for an experiment on how people's ability to use information changes when they feel under pressure."
+        },
+        {
+          "id": "p3",
+          "text": "We found that perceived threat acted as a trigger for a stress reaction that made the task of processing information easier for the firefighters — but only as long as it conveyed bad news."
+        },
+        {
+          "id": "p4",
+          "text": "This is how we arrived at these results. We asked the firefighters to estimate their likelihood of experiencing 40 different adverse events in their life, such as being involved in an accident or becoming a victim of card fraud. We then gave them either good news (that their likelihood of experiencing these events was lower than they'd thought) or bad news (that it was higher) and asked them to provide new estimates."
+        },
+        {
+          "id": "p5",
+          "text": "People are normally quite optimistic — they will ignore bad news and embrace the good. This is what happened when the firefighters were relaxed; but when they were under stress, a different pattern emerged. Under these conditions, they became hyper-vigilant to bad news, even when it had nothing to do with their job (such as learning that the likelihood of card fraud was higher than they'd thought), and altered their beliefs in response. In contrast, stress didn't change how they responded to good news (such as learning that the likelihood of card fraud was lower than they'd thought)."
+        },
+        {
+          "id": "p6",
+          "text": "Back in our lab, we observed the same pattern in students who were told they had to give a surprise public speech, which would be judged by a panel, recorded and posted online. Sure enough, their cortisol levels spiked, their heart rates went up and they suddenly became better at processing unrelated, yet alarming, information about rates of disease and violence."
+        },
+        {
+          "id": "p7",
+          "text": "When we experience stressful events, a physiological change is triggered that causes us to take in warnings and focus on what might go wrong. Brain imaging reveals that this 'switch' is related to a sudden boost in a neural signal important for learning, specifically in response to unexpected warning signs, such as faces expressing fear."
+        },
+        {
+          "id": "p8",
+          "text": "Such neural engineering could have helped prehistoric humans to survive. When our ancestors found themselves surrounded by hungry animals, they would have benefited from an increased ability to learn about hazards. In a safe environment, however, it would have been wasteful to be on high alert constantly. So, a neural switch that automatically increases or decreases our ability to process warnings in response to changes in our environment could have been useful. In fact, people with clinical depression and anxiety seem unable to switch away from a state in which they absorb all the negative messages around them."
+        },
+        {
+          "id": "p9",
+          "text": "It is also important to realise that stress travels rapidly from one person to the next. If a co-worker is stressed, we are more likely to tense up and feel stressed ourselves. We don't even need to be in the same room with someone for their emotions to influence our behaviour. Studies show that if we observe positive feeds on social media, such as images of a pink sunset, we are more likely to post uplifting messages ourselves. If we observe negative posts, such as complaints about a long queue at the coffee shop, we will in turn create more negative posts."
+        },
+        {
+          "id": "p10",
+          "text": "In some ways, many of us now live as if we are in danger, constantly ready to tackle demanding emails and text messages, and respond to news alerts and comments on social media. Repeatedly checking your phone, according to a survey conducted by the American Psychological Association, is related to stress. In other words, a pre-programmed physiological reaction, which evolution has equipped us with to help us avoid famished predators, is now being triggered by an online post. Social media posting, according to one study, raises your pulse, makes you sweat, and enlarges your pupils more than most daily activities."
+        },
+        {
+          "id": "p11",
+          "text": "The fact that stress increases the likelihood that we will focus more on alarming messages, together with the fact that it spreads extremely rapidly, can create collective fear that is not always justified. After a stressful public event, such as a natural disaster or major financial crash, there is often a wave of alarming information in traditional and social media, which individuals become very aware of. But that has the effect of exaggerating existing danger. And so, a reliable pattern emerges — stress is triggered, spreading from one person to the next, which temporarily enhances the likelihood that people will take in negative reports, which increases stress further. As a result, trips are cancelled, even if the disaster took place across the globe; stocks are sold, even when holding on is the best thing to do."
+        },
+        {
+          "id": "p12",
+          "text": "The good news, however, is that positive emotions, such as hope, are contagious too, and are powerful in inducing people to act to find solutions. Being aware of the close relationship between people's emotional state and how they process information can help us frame our messages more effectively and become conscientious agents of change."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 27,
+              "text": "In the first paragraph, the writer introduces the topic of the text by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "defining some commonly used terms."
+                },
+                {
+                  "k": "B",
+                  "text": "questioning a widely held assumption."
+                },
+                {
+                  "k": "C",
+                  "text": "mentioning a challenge faced by everyone."
+                },
+                {
+                  "k": "D",
+                  "text": "specifying a situation which makes us most anxious."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "What point does the writer make about firefighters in the second paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "The regular changes of stress levels in their working lives make them ideal study subjects."
+                },
+                {
+                  "k": "B",
+                  "text": "The strategies they use to handle stress are of particular interest to researchers."
+                },
+                {
+                  "k": "C",
+                  "text": "The stressful nature of their job is typical of many public service professions."
+                },
+                {
+                  "k": "D",
+                  "text": "Their personalities make them especially well-suited to working under stress."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "What is the writer doing in the fourth paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "explaining their findings"
+                },
+                {
+                  "k": "B",
+                  "text": "justifying their approach"
+                },
+                {
+                  "k": "C",
+                  "text": "setting out their objectives"
+                },
+                {
+                  "k": "D",
+                  "text": "describing their methodology"
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "In the seventh paragraph, the writer describes a mechanism in the brain which",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "enables people to respond more quickly to stressful situations."
+                },
+                {
+                  "k": "B",
+                  "text": "results in increased ability to control our levels of anxiety."
+                },
+                {
+                  "k": "C",
+                  "text": "produces heightened sensitivity to indications of external threats."
+                },
+                {
+                  "k": "D",
+                  "text": "is activated when there is a need to communicate a sense of danger."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            31,
+            35
+          ],
+          "type": "matching",
+          "instruction": "Complete each sentence with the correct ending, A-G, below.",
+          "optionsTitle": "Sentence endings",
+          "options": [
+            {
+              "k": "A",
+              "text": "made them feel optimistic."
+            },
+            {
+              "k": "B",
+              "text": "took relatively little notice of bad news."
+            },
+            {
+              "k": "C",
+              "text": "responded to negative and positive information in the same way."
+            },
+            {
+              "k": "D",
+              "text": "were feeling under stress."
+            },
+            {
+              "k": "E",
+              "text": "put them in a stressful situation."
+            },
+            {
+              "k": "F",
+              "text": "behaved in a similar manner, regardless of the circumstances."
+            },
+            {
+              "k": "G",
+              "text": "thought it more likely that they would experience something bad."
+            }
+          ],
+          "items": [
+            {
+              "n": 31,
+              "text": "At times when they were relaxed, the firefighters usually"
+            },
+            {
+              "n": 32,
+              "text": "The researchers noted that when the firefighters were stressed, they"
+            },
+            {
+              "n": 33,
+              "text": "When the firefighters were told good news, they always"
+            },
+            {
+              "n": 34,
+              "text": "The students' cortisol levels and heart rates were affected when the researchers"
+            },
+            {
+              "n": 35,
+              "text": "In both experiments, negative information was processed better when the subjects"
+            }
+          ]
+        },
+        {
+          "range": [
+            36,
+            40
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 36,
+              "text": "The tone of the content we post on social media tends to reflect the nature of the posts in our feeds."
+            },
+            {
+              "n": 37,
+              "text": "Phones have a greater impact on our stress levels than other electronic media devices."
+            },
+            {
+              "n": 38,
+              "text": "The more we read about a stressful public event on social media, the less able we are to take the information in."
+            },
+            {
+              "n": 39,
+              "text": "Stress created by social media posts can lead us to take unnecessary precautions."
+            },
+            {
+              "n": 40,
+              "text": "Our tendency to be affected by other people's moods can be used in a positive way."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
