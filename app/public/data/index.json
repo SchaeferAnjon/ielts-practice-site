@@ -568,8 +568,16 @@
    "bookNo": 13,
    "test": 1,
    "type": "A",
-   "modules": [],
-   "audioParts": []
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
+   "audioParts": [
+    1,
+    2,
+    3
+   ]
   },
   {
    "id": "c13t2",
@@ -579,7 +587,10 @@
    "test": 2,
    "type": "A",
    "modules": [],
-   "audioParts": []
+   "audioParts": [
+    3,
+    4
+   ]
   },
   {
    "id": "c13t3",
@@ -589,7 +600,12 @@
    "test": 3,
    "type": "A",
    "modules": [],
-   "audioParts": []
+   "audioParts": [
+    1,
+    2,
+    3,
+    4
+   ]
   },
   {
    "id": "c13t4",
@@ -599,7 +615,11 @@
    "test": 4,
    "type": "A",
    "modules": [],
-   "audioParts": []
+   "audioParts": [
+    1,
+    2,
+    3
+   ]
   },
   {
    "id": "c12t1",
@@ -862,7 +882,10 @@
    "test": 1,
    "type": "A",
    "modules": [],
-   "audioParts": []
+   "audioParts": [
+    2,
+    4
+   ]
   },
   {
    "id": "c7t2",
@@ -872,7 +895,10 @@
    "test": 2,
    "type": "A",
    "modules": [],
-   "audioParts": []
+   "audioParts": [
+    3,
+    4
+   ]
   },
   {
    "id": "c7t3",

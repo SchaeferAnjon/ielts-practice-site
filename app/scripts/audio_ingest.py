@@ -18,6 +18,18 @@ import subprocess
 import sys
 from pathlib import Path
 
+# 文件名里没有 Test/Part 信息的，用 ASR 转写和书里 audioscript 比对后人工确认的映射（文件名 → (书, test, part)）
+MANUAL = {
+    "IELTS 13 - Tests 1-4 CD 1 Track_01.mp3": (13, 1, 1), "IELTS 13 - Tests 1-4 CD 1 Track_02.mp3": (13, 1, 2),
+    "IELTS 13 - Tests 1-4 CD 1 Track_03.mp3": (13, 1, 3), "IELTS 13 - Tests 1-4 CD 1 Track_07.mp3": (13, 2, 3),
+    "IELTS 13 - Tests 1-4 CD 1 Track_08.mp3": (13, 2, 4), "IELTS 13 - Tests 1-4 CD 2 Track_01.mp3": (13, 3, 1),
+    "IELTS 13 - Tests 1-4 CD 2 Track_02.mp3": (13, 3, 2), "IELTS 13 - Tests 1-4 CD 2 Track_03.mp3": (13, 3, 3),
+    "IELTS 13 - Tests 1-4 CD 2 Track_04.mp3": (13, 3, 4), "IELTS 13 - Tests 1-4 CD 2 Track_05.mp3": (13, 4, 1),
+    "IELTS 13 - Tests 1-4 CD 2 Track_06.mp3": (13, 4, 2), "IELTS 13 - Tests 1-4 CD 2 Track_07.mp3": (13, 4, 3),
+    "02-AudioTrack 02.mp3": (7, 1, 2), "04-AudioTrack 04.mp3": (7, 1, 4),
+    "07-AudioTrack 07.mp3": (7, 2, 3), "08-AudioTrack 08.mp3": (7, 2, 4),
+}
+
 PATTERNS = [
     re.compile(r"test\s*(\d|I)\s*[-_ ，,]*\s*(?:part|section|audio|s|p)\s*(\d)", re.I),
     re.compile(r"(?:\b|_)t\s*(\d)\s*(?:s|p|_audio)\s*(\d)", re.I),
@@ -54,8 +66,12 @@ def main() -> None:
     manifest: dict = {"books": {}, "unmapped": []}
     plan: dict[tuple[int, int, int], Path] = {}
     for f in files:
-        book = book_of(f)
-        tp = parse(f.name)
+        if f.name in MANUAL:
+            book, *tp = MANUAL[f.name]
+            tp = tuple(tp)
+        else:
+            book = book_of(f)
+            tp = parse(f.name)
         if not book or not tp:
             manifest["unmapped"].append(str(f.relative_to(args.root)))
             continue

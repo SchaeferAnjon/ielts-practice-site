@@ -349,3 +349,5 @@ table.qtable th { background: #f2f2f2; font-weight: 700; }
   .analysis-chart, .score-grid { grid-template-columns: repeat(2, 1fr); }
   .eb-grid { grid-template-columns: 1fr; }
 }
+
+.ai-input { width: 100%; box-sizing: border-box; height: 34px; border: 1px solid var(--line); border-radius: 6px; padding: 0 10px; font-size: 13px; margin-top: 4px; }

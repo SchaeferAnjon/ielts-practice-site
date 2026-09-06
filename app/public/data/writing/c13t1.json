@@ -1,0 +1,44 @@
+{
+  "id": "c13t1",
+  "book": "剑桥雅思13",
+  "test": 1,
+  "title": "剑13 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "map",
+      "kindZh": "地图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The two maps below show road access to a city hospital in 2007 and in 2010.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c13t1-task1.webp",
+      "imageCaption": "Road access to a city hospital, 2007 and 2010",
+      "sample": {
+        "band": 5.5,
+        "text": "Two maps illustrate the way to get to a city hospital of two different years (2007 and 2010).\n\nAccording to both maps, the main features which is city hospital is sourrounded by Ring Road. In these two maps, there have been two features that still remained. This two features are City Hospital and staff car park. Apart from these two features there are some features that shows on 2010 map but haven't shown on 2007 map. The additional features that appear on the map of 2010 are public car park which located on the east-side of the city hospital. The further additional features are two around-turn on the hospital Rd. which can lead to the bus station.\n\nOverall, there are two major features that never change on both 2007 and 2010 map. These features are city hospital and staff car park. However, there are some additional features that appear on the map of 2010 but not on 2007. These features are public car park, bus station and two around-turns.",
+        "comment": "The candidate has identified all the key features (hospital, ring road, new public car park, staff car park and bus station in 2010) but the descriptions are not always accurate e.g. [two features that still remained. This two features are City Hospital and staff car park] whereas the staff car park was formerly a car park for both staff and public, while the mention of the bus station is not developed. Organisation is clear, however, with some good use of cohesive devices [According to | Apart from | The further additional features], although there is an error in the use of reference pronouns [This/These two features]. The range of vocabulary is sufficient for the task [two different years | features | remained | additional], though [features] is over-used. A spelling error is noted in the second line [sourrounded] but this does not cause any difficulty for the reader; similarly, the use of [around-turn] can be easily understood as 'roundabout'. There is a mix of simple and complex sentences, mainly used accurately."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Living in a country where you have to speak a foreign language can cause serious social problems, as well as practical problems.",
+        "To what extent do you agree or disagree with this statement?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 6.5,
+        "text": "It is clear that living in a foreign country has its own benefits and drawbacks to consider. I agree with this statement, however I think that anybody coming in another country should respect national culture. In this essay, I would like to outline the social and practical problems.\n\nThe social problems would be language barrier, which means that a person coming from another country might not be able to speak and understand the language which might be a problem as far a person who is living in a country, and a person who came in the country. Another problem is linked to the language barrier, but it might influence the behaviour of others. An individual who come into the country might offend others with their behaviour or language. For example; some cultures like English people prefer to be very polite and say things differently from other cultures. Therefore a person who doesn't know how to behave in a particular culture might offend others around him.\n\nThe practical problems would be misunderstanding of culture. That means that a person who visits other countries does not understand other culture and he behaves as he wants to.\n\nThe second practical problem is finding a job. An individual who works in foreign country might not be appropriate for people who he serves. For example if an individual works in a restaurant, the people who live in a country and they were born in that country might not respect and not like the behaviour of a person who works in a restaurant, it might be because, the cultures are different.\n\nTo summarize, it can be said that there are a lot of misconceptions which people have when they come in a foreign country, and in my opinion and from my personal experience people should educate themselves in order to know how to behave in different situations with different cultures.",
+        "comment": "The candidate deals with both parts of the prompt and addresses some social and practical problems that might be experienced in a foreign language environment. Ideas are supported by examples, though there is room for further development here. Organisation is logical and there is clear progression throughout the response. Cohesive devices are used appropriately [Another problem | For example | Therefore | That means ... | The second ... problem | To summarize]. There is a sufficient range of vocabulary to allow some flexibility and precision and to demonstrate awareness of style and collocation [language barrier | linked to | influence the behaviour | offend | misunderstanding | misconceptions]. There is a mix of simple and complex sentence forms including subordinate clauses [which means that | a person who], modal verbs [should | might | would] and gerunds [finding a job]. Grammatical control is generally good as is the use of punctuation, although the first sentence in the second paragraph is incomplete."
+      }
+    }
+  ]
+}

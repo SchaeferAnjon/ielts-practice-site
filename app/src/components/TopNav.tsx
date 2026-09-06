@@ -1,4 +1,6 @@
+import { useState } from "react";
 import { NavLink, Link } from "react-router-dom";
+import AiSettingsModal from "./AiSettingsModal";
 import { useIndex } from "../services/data";
 import type { ExamMode } from "../data/types";
 
@@ -6,6 +8,7 @@ const MODE_LABEL: Record<ExamMode, string> = { paper: "纸笔考", cbt: "机考"
 
 export default function TopNav({ mode, onChangeMode }: { mode: ExamMode | null; onChangeMode: () => void }) {
   const idx = useIndex();
+  const [aiOpen, setAiOpen] = useState(false);
   const PAPERS = idx?.papers ?? [];
   const first = PAPERS.find((p) => p.modules.length);
   const books = [...new Set(PAPERS.filter((p) => p.modules.length).map((p) => p.bookShort))];
@@ -22,8 +25,10 @@ export default function TopNav({ mode, onChangeMode }: { mode: ExamMode | null; 
           <button className="mode-chip" onClick={onChangeMode}>
             当前模式：<b>{mode ? MODE_LABEL[mode] : "未选择"}</b> ▾
           </button>
+          <button className="btn sm" onClick={() => setAiOpen(true)}>AI 设置</button>
           <Link className="btn sm" to="/errors">错题本</Link>
         </div>
+        {aiOpen && <AiSettingsModal onClose={() => setAiOpen(false)} />}
       </div>
       <div className="row2">
         <nav className="wrap menu">

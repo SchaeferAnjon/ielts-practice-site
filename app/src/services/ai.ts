@@ -1,25 +1,45 @@
 /**
  * AI 适配层。
- * - 没有 VITE_AI_API_KEY：走本地模拟（基于题目 JSON 的解析 / 原文定位 / 规则化写作分析 / 真实口语参考答案），带 600-1200ms 延迟。
- * - 有 Key：走 OpenAI 兼容的 chat/completions（VITE_AI_ENDPOINT、VITE_AI_MODEL 可配），要求模型返回 JSON。
+ * - 没填 Key：走本地模拟（基于题目 JSON 的解析 / 原文定位 / 规则化写作分析 / 真实口语参考答案），带 600-1200ms 延迟。
+ * - 填了 Key（页面「AI 设置」，存 localStorage）：走 OpenAI 兼容的 chat/completions，要求模型返回 JSON。
+ *   公网部署时 Key 不要放进构建包，endpoint 指向带口令的代理（见 proxy/cloudflare-worker.js），Key 栏填口令。
  */
 import type { ReadingPaper, SpeakingTopic, TranscriptLine, WritingTask } from "../data/types";
 import { countWords } from "./scoring";
 
-const API_KEY = import.meta.env.VITE_AI_API_KEY as string | undefined;
-const ENDPOINT = (import.meta.env.VITE_AI_ENDPOINT as string | undefined) || "https://api.openai.com/v1/chat/completions";
-const MODEL = (import.meta.env.VITE_AI_MODEL as string | undefined) || "gpt-4o-mini";
+export type AiConfig = { endpoint: string; model: string; key: string };
+const AI_KEY = "ielts.ai";
+const DEFAULTS: AiConfig = {
+  endpoint: (import.meta.env.VITE_AI_ENDPOINT as string | undefined) || "https://api.openai.com/v1/chat/completions",
+  model: (import.meta.env.VITE_AI_MODEL as string | undefined) || "gpt-4o-mini",
+  key: (import.meta.env.VITE_AI_API_KEY as string | undefined) || "",
+};
 
-export const aiMode: "mock" | "live" = API_KEY ? "live" : "mock";
+/** 运行时配置存 localStorage（在页面右上角「AI 设置」里填），不会进构建包；.env 只作为本地开发的默认值 */
+export function getAiConfig(): AiConfig {
+  try {
+    const raw = localStorage.getItem(AI_KEY);
+    return raw ? { ...DEFAULTS, ...(JSON.parse(raw) as Partial<AiConfig>) } : DEFAULTS;
+  } catch {
+    return DEFAULTS;
+  }
+}
+export function setAiConfig(c: Partial<AiConfig>) {
+  localStorage.setItem(AI_KEY, JSON.stringify({ ...getAiConfig(), ...c }));
+}
+export function getAiMode(): "mock" | "live" {
+  return getAiConfig().key ? "live" : "mock";
+}
 
 const delay = (ms = 600 + Math.random() * 600) => new Promise((r) => setTimeout(r, ms));
 
 async function chatJson<T>(system: string, user: string): Promise<T> {
-  const res = await fetch(ENDPOINT, {
+  const cfg = getAiConfig();
+  const res = await fetch(cfg.endpoint, {
     method: "POST",
-    headers: { "Content-Type": "application/json", Authorization: `Bearer ${API_KEY}` },
+    headers: { "Content-Type": "application/json", Authorization: `Bearer ${cfg.key}` },
     body: JSON.stringify({
-      model: MODEL,
+      model: cfg.model,
       temperature: 0.3,
       response_format: { type: "json_object" },
       messages: [
@@ -49,7 +69,7 @@ export type ReadingAnalysis = {
 export async function analyzeReadingError(paper: ReadingPaper, n: number, userAnswer: string): Promise<ReadingAnalysis> {
   const correct = paper.answers[String(n)]?.join(" / ") ?? "";
   const ex = paper.explain?.[String(n)];
-  if (aiMode === "live") {
+  if (getAiMode() === "live") {
     const passage = paper.passages.find((p) => p.groups.some((g) => n >= g.range[0] && n <= g.range[1]));
     const text = passage?.paragraphs.map((p) => (p.label ? `[${p.label}] ` : "") + p.text).join("\n\n") ?? "";
     return chatJson<ReadingAnalysis>(
@@ -123,7 +143,7 @@ function bandRound(x: number) {
 }
 
 export async function gradeWriting(task: WritingTask, essay: string): Promise<WritingGrade> {
-  if (aiMode === "live") {
+  if (getAiMode() === "live") {
     const r = await chatJson<Omit<WritingGrade, "mode">>(
       "你是雅思写作考官。按 Task Achievement/Response、Coherence & Cohesion、Lexical Resource、Grammatical Range & Accuracy 四维打分（0.5 步进），指出逐句问题并给改写建议。只输出 JSON：{overall, dims:[{key,label,band,comment}], issues:[{kind,quote,fix}], rewrite, summary}，评语用中文。",
       `题目（Task ${task.task}）：\n${task.prompt.join("\n")}\n\n考生作文：\n${essay}`,
@@ -208,7 +228,7 @@ const P1_TEMPLATES = [
 
 export async function generateSpeakingAnswer(topic: SpeakingTopic, question?: string, keywords?: string): Promise<SpeakingAnswer> {
   const q = question ? [...topic.questions, ...topic.part3].find((x) => x.text === question) : undefined;
-  if (aiMode === "live") {
+  if (getAiMode() === "live") {
     const r = await chatJson<{ answer: string; answerZh: string; phrases: string[]; structure: string[] }>(
       "你是雅思口语老师。为题目生成 Band 7 水平的参考答案（自然口语、120-180 词，Part 2 约 220 词），给中文翻译、5 个高分短语、答题结构要点。只输出 JSON：{answer, answerZh, phrases, structure}。",
       `Part ${topic.part} 话题：${topic.title}\n${question ? `问题：${question}` : `Cue card：${topic.cue?.title}\n${topic.cue?.points.join("\n")}`}\n${keywords ? `请围绕关键词：${keywords}` : ""}`,
