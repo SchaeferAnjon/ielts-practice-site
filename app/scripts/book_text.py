@@ -32,7 +32,9 @@ def pdf_text(pdf: str, a: int, b: int, layout: bool) -> str:
 
 
 def clean(s: str, collapse: bool = True) -> str:
-    s = s.replace("「", "r").replace("『", "r").replace("φ", "").replace("\f", "\n")
+    s = s.replace("「", "r").replace("『", "r").replace("φ", "")
+    if collapse:
+        s = s.replace("\f", "\n")
     s = re.sub(r"[’‘]\s*\n\s*(s|re|ll|ve|d|m|t|S|II|H)\b", lambda m: "'" + {"II": "ll", "H": "ll", "S": "s"}.get(m.group(1), m.group(1)), s)
     s = re.sub(r"[’‘]\s+(s|re|ll|ve|d|m|t)\b", r"'\1", s)
     s = re.sub(r"[’‘]\s*(II|H)\b", "'ll", s)
