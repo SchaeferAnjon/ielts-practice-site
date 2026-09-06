@@ -1,0 +1,45 @@
+{
+  "id": "c14t4",
+  "book": "剑桥雅思14",
+  "test": 4,
+  "title": "剑14 Test 4 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "map",
+      "kindZh": "地图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The plans below show a public park when it first opened in 1920 and the same park today.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c14t4-task1.webp",
+      "imageCaption": "Grange Park in 1920 and today",
+      "sample": {
+        "band": 9,
+        "text": "Grange Park was opened in 1920, a rectangular area with access from Arnold Avenue on the north side and from Eldon Street on the south side. There was a fountain in the centre, with a stage for musicians situated centre left, a glasshouse to the right of the Eldon Street entrance and a pond for water plants in the north east corner opposite. Around the edges of the park there were rose gardens, with seats nearby for people to smell the flowers and listen to music.\n\nThe park has altered considerably since then. Now there is one large-ish rose garden, occupying the central area where the fountain stood, and with seats all around it. One of the smaller rose gardens remains on the north side of the park. The bandstand (stage for musicians) has also been replaced, by an amphitheatre for concerts and associated seating. The glasshouse has gone and in its place is a water feature; similarly, where the pond for water plants stood there is now a children's play area with a cafe nearby. Access to the park is still via the two original entrances, but there is now a third entrance near the water feature from an underground car park.\n\nDespite the apparently significant changes, the park retains the basic elements of flowers, water, seating and music, with the addition of a cafe and a children's play area.",
+        "comment": "本书对这道 Task 1 只提供了考官撰写的示范范文（Model Answer），说明它是「优秀范文的一个例子」，未附具体的评分点评或分数。"
+      }
+    },
+    {
+      "task": 2,
+      "kind": "two-part",
+      "kindZh": "双问题",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Nowadays many people choose to be self-employed, rather than to work for a company or organisation.",
+        "Why might this be the case?",
+        "What could be the disadvantages of being self-employed?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 7.5,
+        "text": "Most contemporary economies allow such a model of employment as being self-employed, which appears very tempting for many. However, still the vast majority of people opt for being employed in a company and not to set up their own business. This essay will attempt to look into the key factors as to why people may prefer entrepreneurship and major drawbacks to it.\n\nTo start with, in many modern societies, including Russian, entrepreneurship is greatly encouraged with lots of business seminars and workshops advertised. These may range from slightly fraudulent to genuinely educational and supportive, and generally any information on setting up a company is easily accessible for those who are willing. And willing they are, as being a business person, the image itself has a certain feel of luxury, respectability and success. People are being told that they have no limits and can easily become as wealthy as a Steve Jobs is they wish it.\n\nThis first reason is linked to the second, which is relevant for Russia and some other counties. Bank loans are accessible too, and they are largely eagerly granted. If a future business person truly knows their business, it poses no threat. Nevertheless, easy access to setting up a company for someone inexperienced or insensible may cause a range of problems.\n\nApparently, the first issue that may perplex an unskilled entrepreneur is the necessity to be a jack of all trades (if the company is very small). Having taken the responsibilities of an accountant, PR or HR manager at the same time can be a burden and make the person wish they had never done it at all. If they hire other people to perform these tasks, they must pay more tax and provide their employees with decent working conditions. At the same time, business is usually a risky matter and in our competitive reality many of them go bankrupt. And last, but not least – self-employed people are the only people responsible for their own vacations, sick or maternity leaves or any job perks.\n\nSo, in a nutshell, being your own master has many downsides, that is why many people decide to play it safe.",
+        "comment": "The candidate has produced a well-developed response to the task. Further ideas could be included, e.g. wanting to develop own ideas, wanting to work more flexibly than employment allows for. There is a clear progression throughout the response, with information and ideas organised logically. There is a range of cohesive devices [To start with / These / The first ... the second / Apparently / last but not least] and each paragraph has a clear central topic. There is a wide range of vocabulary, including less common items and showing evidence of style and collocation [contemporary / tempting / vast majority / opt for / entrepreneurship / fraudulent / image / luxury / perplex / jack of all trades], with only rare examples of inaccuracy [insensible]. There is a variety of complex structures, used flexibly and accurately. Grammar and punctuation are well controlled and there are frequent error-free sentences. A few errors persist [still the vast majority of people opt for (word order) / (the) major drawbacks] but the message is still clear."
+      }
+    }
+  ]
+}

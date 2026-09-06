@@ -1,0 +1,255 @@
+{
+  "id": "c14t4",
+  "book": "剑桥雅思14",
+  "test": 4,
+  "title": "剑14 Test 4 · Reading",
+  "minutes": 60,
+  "passages": [
+    {
+      "n": 1,
+      "title": "The secret of staying young",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {"id": "p1", "text": "Pheidole dentata, a native ant of the south-eastern U.S., isn't immortal. But scientists have found that it doesn't seem to show any signs of aging. Old worker ants can do everything just as well as the youngsters, and their brains appear just as sharp. 'We get a picture that these ants really don't decline,' says Ysabel Giraldo, who studied the ants for her doctoral thesis at Boston University."},
+        {"id": "p2", "text": "Such age-defying feats are rare in the animal kingdom. Naked mole rats can live for almost 30 years and stay fit for nearly their entire lives. They can still reproduce even when old, and they never get cancer. But the vast majority of animals deteriorate with age just like people do. Like the naked mole rat, ants are social creatures that usually live in highly organised colonies. 'It's this social complexity that makes P. dentata useful for studying aging in people,' says Giraldo, now at the California Institute of Technology. Humans are also highly social, a trait that has been connected to healthier aging. By contrast, most animal studies of aging use mice, worms or fruit flies, which all lead much more isolated lives."},
+        {"id": "p3", "text": "In the lab, P. dentata worker ants typically live for around 140 days. Giraldo focused on ants at four age ranges: 20 to 22 days, 45 to 47 days, 95 to 97 days and 120 to 122 days. Unlike all previous studies, which only estimated how old the ants were, her work tracked the ants from the time the pupae became adults, so she knew their exact ages. Then she put them through a range of tests."},
+        {"id": "p4", "text": "Giraldo watched how well the ants took care of the young of the colony, recording how often each ant attended to, carried and fed them. She compared how well 20-day-old and 95-day-old ants followed the telltale scent that the insects usually leave to mark a trail to food. She tested how ants responded to light and also measured how active they were by counting how often ants in a small dish walked across a line. And she experimented with how ants react to live prey: a tethered fruit fly. Giraldo expected the older ants to perform poorly in all these tasks. But the elderly insects were all good caretakers and trail-followers - the 95-day-old ants could track the scent even longer than their younger counterparts. They all responded to light well, and the older ants were more active. And when it came to reacting to prey, the older ants attacked the poor fruit fly just as aggressively as the young ones did, flaring their mandibles or pulling at the fly's legs."},
+        {"id": "p5", "text": "Then Giraldo compared the brains of 20-day-old and 95-day-old ants, identifying any cells that were close to death. She saw no major differences with age, nor was there any difference in the location of the dying cells, showing that age didn't seem to affect specific brain functions. Ants and other insects have structures in their brains called mushroom bodies, which are important for processing information, learning and memory. She also wanted to see if aging affects the density of synaptic complexes within these structures - regions where neurons come together. Again, the answer was no. What was more, the old ants didn't experience any drop in the levels of either serotonin or dopamine - brain chemicals whose decline often coincides with aging. In humans, for example, a decrease in serotonin has been linked to Alzheimer's disease."},
+        {"id": "p6", "text": "'This is the first time anyone has looked at both behavioral and neural changes in these ants so thoroughly,' says Giraldo, who recently published the findings in the Proceedings of the Royal Society B. Scientists have looked at some similar aspects in bees, but the results of recent bee studies were mixed - some studies showed age-related declines, which biologists call senescence, and others didn't. 'For now, the study raises more questions than it answers,' Giraldo says, 'including how P. dentata stays in such good shape.'"},
+        {"id": "p7", "text": "Also, if the ants don't deteriorate with age, why do they die at all? Out in the wild, the ants probably don't live for a full 140 days thanks to predators, disease and just being in an environment that's much harsher than the comforts of the lab. 'The lucky ants that do live into old age may suffer a steep decline just before dying,' Giraldo says, but she can't say for sure because her study wasn't designed to follow an ant's final moments."},
+        {"id": "p8", "text": "'It will be important to extend these findings to other species of social insects,' says Gene E. Robinson, an entomologist at the University of Illinois at Urbana-Champaign. This ant might be unique, or it might represent a broader pattern among other social bugs with possible clues to the science of aging in larger animals. Either way, it seems that for these ants, age really doesn't matter."}
+      ],
+      "groups": [
+        {
+          "range": [1, 8],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Ysabel Giraldo's research",
+          "lines": [
+            "Focused on a total of {{1}} different age groups of ants, analysing",
+            "## Behaviour",
+            "how well ants looked after the {{2}}",
+            "their ability to locate {{3}} using a scent trail",
+            "the effect that {{4}} had on them",
+            "how {{5}} they attacked prey",
+            "## Brains",
+            "comparison between age and the {{6}} of dying cells in the brains of ants",
+            "condition of synaptic complexes (areas in which {{7}} meet) in the brain's mushroom bodies",
+            "level of two {{8}} in the brain associated with ageing"
+          ]
+        },
+        {
+          "range": [9, 13],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [["TRUE", "if the statement agrees with the information"], ["FALSE", "if the statement contradicts the information"], ["NOT GIVEN", "if there is no information on this"]],
+          "questions": [
+            {"n": 9, "text": "Pheidole dentata ants are the only known animals which remain active for almost their whole lives."},
+            {"n": 10, "text": "Ysabel Giraldo was the first person to study Pheidole dentata ants using precise data about the insects' ages."},
+            {"n": 11, "text": "The ants in Giraldo's experiments behaved as she had predicted that they would."},
+            {"n": 12, "text": "The recent studies of bees used different methods of measuring age-related decline."},
+            {"n": 13, "text": "Pheidole dentata ants kept in laboratory conditions tend to live longer lives."}
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Why zoos are good",
+      "subtitle": "Scientist David Hone makes the case for zoos",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {"id": "A", "label": "A", "text": "In my view, it is perfectly possible for many species of animals living in zoos or wildlife parks to have a quality of life as high as, or higher than, in the wild. Animals in good zoos get a varied and high-quality diet with all the supplements required, and any illnesses they might have will be treated. Their movement might be somewhat restricted, but they have a safe environment in which to live, and they are spared bullying and social ostracism by others of their kind. They do not suffer from the threat or stress of predators, or the irritation and pain of parasites or injuries. The average captive animal will have a greater life expectancy compared with its wild counterpart, and will not die of drought, of starvation or in the jaws of a predator. A lot of very nasty things happen to truly wild animals that simply don't happen in good zoos, and to view a life that is 'free' as one that is automatically 'good' is, I think, an error. Furthermore, zoos serve several key purposes."},
+        {"id": "B", "label": "B", "text": "Firstly, zoos aid conservation. Colossal numbers of species are becoming extinct across the world, and many more are increasingly threatened and therefore risk extinction. Moreover, some of these collapses have been sudden, dramatic and unexpected, or were simply discovered very late in the day. A species protected in captivity can be bred up to provide a reservoir population against a population crash or extinction in the wild. A good number of species only exist in captivity, with many of these living in zoos. Still more only exist in the wild because they have been reintroduced from zoos, or have wild populations that have been boosted by captive-bred animals. Without these efforts there would be fewer species alive today. Although reintroduction successes are few and far between, the numbers are increasing, and the very fact that species have been saved or reintroduced as a result of captive breeding proves the value of such initiatives."},
+        {"id": "C", "label": "C", "text": "Zoos also provide education. Many children and adults, especially those in cities, will never see a wild animal beyond a fox or pigeon. While it is true that television documentaries are becoming ever more detailed and impressive, and many natural history specimens are on display in museums, there really is nothing to compare with seeing a living creature in the flesh, hearing it, smelling it, watching what it does and having the time to absorb details. That alone will bring a greater understanding and perspective to many, and hopefully give them a greater appreciation for wildlife, conservation efforts and how they can contribute."},
+        {"id": "D", "label": "D", "text": "In addition to this, there is also the education that can take place in zoos through signs, talks and presentations which directly communicate information to visitors about the animals they are seeing and their place in the world. This was an area where zoos used to be lacking, but they are now increasingly sophisticated in their communication and outreach work. Many zoos also work directly to educate conservation workers in other countries, or send their animal keepers abroad to contribute their knowledge and skills to those working in zoos and reserves, thereby helping to improve conditions and reintroductions all over the world."},
+        {"id": "E", "label": "E", "text": "Zoos also play a key role in research. If we are to save wild species and restore and repair ecosystems we need to know about how key species live, act and react. Being able to undertake research on animals in zoos where there is less risk and fewer variables means real changes can be effected on wild populations. Finding out about, for example, the oestrus cycle of an animal or its breeding rate helps us manage wild populations. Procedures such as capturing and moving at-risk or dangerous individuals are bolstered by knowledge gained in zoos about doses for anaesthetics, and by experience in handling and transporting animals. This can make a real difference to conservation efforts and to the reduction of human-animal conflicts, and can provide a knowledge base for helping with the increasing threats of habitat destruction and other problems."},
+        {"id": "F", "label": "F", "text": "In conclusion, considering the many ongoing global threats to the environment, it is hard for me to see zoos as anything other than essential to the long-term survival of numerous species. They are vital not just in terms of protecting animals, but as a means of learning about them to aid those still in the wild, as well as educating and informing the general population about these animals and their world so that they can assist or at least accept the need to be more environmentally conscious. Without them the world would be, and would increasingly become, a much poorer place."}
+      ],
+      "groups": [
+        {
+          "range": [14, 17],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F. Which paragraph contains the following information?",
+          "limit": "Write the correct letter, A-F, in boxes 14-17 on your answer sheet.",
+          "options": ["A", "B", "C", "D", "E", "F"],
+          "questions": [
+            {"n": 14, "text": "a reference to how quickly animal species can die out"},
+            {"n": 15, "text": "reasons why it is preferable to study animals in captivity rather than in the wild"},
+            {"n": 16, "text": "mention of two ways of learning about animals other than visiting them in zoos"},
+            {"n": 17, "text": "reasons why animals in zoos may be healthier than those in the wild"}
+          ]
+        },
+        {
+          "range": [18, 22],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
+          "legend": [["TRUE", "if the statement agrees with the information"], ["FALSE", "if the statement contradicts the information"], ["NOT GIVEN", "if there is no information on this"]],
+          "questions": [
+            {"n": 18, "text": "An animal is likely to live longer in a zoo than in the wild."},
+            {"n": 19, "text": "There are some species in zoos which can no longer be found in the wild."},
+            {"n": 20, "text": "Improvements in the quality of TV wildlife documentaries have resulted in increased numbers of zoo visitors."},
+            {"n": 21, "text": "Zoos have always excelled at transmitting information about animals to the public."},
+            {"n": 22, "text": "Studying animals in zoos is less stressful for the animals than studying them in the wild."}
+          ]
+        },
+        {
+          "range": [23, 24],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO of the following are stated about zoo staff in the text?",
+          "count": 2,
+          "options": [
+            {"k": "A", "text": "Some take part in television documentaries about animals."},
+            {"k": "B", "text": "Some travel to overseas locations to join teams in zoos."},
+            {"k": "C", "text": "Some get experience with species in the wild before taking up zoo jobs."},
+            {"k": "D", "text": "Some teach people who are involved with conservation projects."},
+            {"k": "E", "text": "Some specialise in caring for species which are under threat."}
+          ]
+        },
+        {
+          "range": [25, 26],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO of these beliefs about zoos does the writer mention in the text?",
+          "count": 2,
+          "options": [
+            {"k": "A", "text": "They can help children overcome their fears of wild animals."},
+            {"k": "B", "text": "They can increase public awareness of environmental issues."},
+            {"k": "C", "text": "They can provide employment for a range of professional people."},
+            {"k": "D", "text": "They can generate income to support wildlife conservation projects."},
+            {"k": "E", "text": "They can raise animals which can later be released into the wild."}
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Reading Passage 3",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {"id": "p1", "text": "Chelsea Rochman, an ecologist at the University of California, Davis, has been trying to answer a dismal question: Is everything terrible, or are things just very, very bad?"},
+        {"id": "p2", "text": "Rochman is a member of the National Center for Ecological Analysis and Synthesis's marine-debris working group, a collection of scientists who study, among other things, the growing problem of marine debris, also known as ocean trash. Plenty of studies have sounded alarm bells about the state of marine debris; in a recent paper published in the journal Ecology, Rochman and her colleagues set out to determine how many of those perceived risks are real."},
+        {"id": "p3", "text": "Often, Rochman says, scientists will end a paper by speculating about the broader impacts of what they've found. For example, a study could show that certain seabirds eat plastic bags, and go on to warn that whole bird populations are at risk of dying out. 'But the truth was that nobody had yet tested those perceived threats,' Rochman says. 'There wasn't a lot of information.'"},
+        {"id": "p4", "text": "Rochman and her colleagues examined more than a hundred papers on the impacts of marine debris that were published through 2013. Within each paper, they asked what threats scientists had studied - 366 perceived threats in all - and what they'd actually found."},
+        {"id": "p5", "text": "In 83 percent of cases, the perceived dangers of ocean trash were proven true. In the remaining cases, the working group found the studies had weaknesses in design and content which affected the validity of their conclusions - they lacked a control group, for example, or used faulty statistics."},
+        {"id": "p6", "text": "Strikingly, Rochman says, only one well-designed study failed to find the effect it was looking for, an investigation of mussels ingesting microscopic plastic bits. The plastic moved from the mussels' stomachs to their bloodstreams, scientists found, and stayed there for weeks - but didn't seem to stress out the shellfish."},
+        {"id": "p7", "text": "While mussels may be fine eating trash, though, the analysis also gave a clearer picture of the many ways that ocean debris is bothersome."},
+        {"id": "p8", "text": "Within the studies they looked at, most of the proven threats came from plastic debris, rather than other materials like metal or wood. Most of the dangers also involved large pieces of debris - animals getting entangled in trash, for example, or eating it and severely injuring themselves."},
+        {"id": "p9", "text": "But a lot of ocean debris is 'microplastic', or pieces smaller than five millimeters. These may be ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris. Compared to the number of studies investigating large-scale debris, Rochman's group found little research on the effects of these tiny bits. 'There are a lot of open questions still for microplastic,' Rochman says, though she notes that more papers on the subject have been published since 2013, the cutoff point for the group's analysis."},
+        {"id": "p10", "text": "There are also, she adds, a lot of open questions about the ways that ocean debris can lead to sea-creature death. Many studies have looked at how plastic affects an individual animal, or that animal's tissues or cells, rather than whole populations. And in the lab, scientists often use higher concentrations of plastic than what's really in the ocean. None of that tells us how many birds or fish or sea turtles could die from plastic pollution - or how deaths in one species could affect that animal's predators, or the rest of the ecosystem."},
+        {"id": "p11", "text": "'We need to be asking more ecologically relevant questions,' Rochman says. Usually, scientists don't know exactly how disasters such as a tanker accidentally spilling its whole cargo of oil and polluting huge areas of the ocean will affect the environment until after they've happened. 'We don't ask the right questions early enough,' she says. But if ecologists can understand how the slow-moving effect of ocean trash is damaging ecosystems, they might be able to prevent things from getting worse."},
+        {"id": "p12", "text": "Asking the right questions can help policy makers, and the public, figure out where to focus their attention. The problems that look or sound most dramatic may not be the best places to start. For example, the name of the 'Great Pacific Garbage Patch' - a collection of marine debris in the northern Pacific Ocean - might conjure up a vast floating trash island. In reality though, much of the debris is tiny or below the surface; a person could sail through the area without seeing any trash at all. A Dutch group called 'The Ocean Cleanup' is currently working on plans to put mechanical devices in the Pacific Garbage Patch and similar areas to suck up plastic. But a recent paper used simulations to show that strategically positioning the cleanup devices closer to shore would more effectively reduce pollution over the long term."},
+        {"id": "p13", "text": "'I think clearing up some of these misperceptions is really important,' Rochman says. Among scientists as well as in the media, she says, 'A lot of the images about strandings and entanglement and all of that cause the perception that plastic debris is killing everything in the ocean.' Interrogating the existing scientific literature can help ecologists figure out which problems really need addressing, and which ones they'd be better off - like the mussels - absorbing and ignoring."}
+      ],
+      "groups": [
+        {
+          "range": [27, 33],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3?",
+          "legend": [["TRUE", "if the statement agrees with the information"], ["FALSE", "if the statement contradicts the information"], ["NOT GIVEN", "if there is no information on this"]],
+          "questions": [
+            {"n": 27, "text": "Rochman and her colleagues were the first people to research the problem of marine debris."},
+            {"n": 28, "text": "The creatures most in danger from ocean trash are certain seabirds."},
+            {"n": 29, "text": "The studies Rochman has reviewed have already proved that populations of some birds will soon become extinct."},
+            {"n": 30, "text": "Rochman analysed papers on the different kinds of danger caused by ocean trash."},
+            {"n": 31, "text": "Most of the research analysed by Rochman and her colleagues was badly designed."},
+            {"n": 32, "text": "One study examined by Rochman was expecting to find that mussels were harmed by eating plastic."},
+            {"n": 33, "text": "Some mussels choose to eat plastic in preference to their natural diet."}
+          ]
+        },
+        {
+          "range": [34, 39],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Findings related to marine debris",
+          "lines": [
+            "Studies of marine debris found the biggest threats were",
+            "plastic (not metal or wood)",
+            "bits of debris that were {{34}} (harmful to animals)",
+            "There was little research into {{35}} e.g. from synthetic fibres.",
+            "## Drawbacks of the studies examined",
+            "most of them focused on individual animals, not entire {{36}}",
+            "the {{37}} of plastic used in the lab did not always reflect those in the ocean",
+            "there was insufficient information on",
+            "numbers of animals which could be affected",
+            "the impact of a reduction in numbers on the {{38}} of that species",
+            "the impact on the ecosystem",
+            "Rochman says more information is needed on the possible impact of future {{39}} (e.g. involving oil)."
+          ]
+        },
+        {
+          "range": [40, 40],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 40,
+              "text": "What would be the best title for this passage?",
+              "options": [
+                {"k": "A", "text": "Assessing the threat of marine debris"},
+                {"k": "B", "text": "Marine debris: who is to blame?"},
+                {"k": "C", "text": "A new solution to the problem of marine debris"},
+                {"k": "D", "text": "Marine debris: the need for international action"}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": ["four", "4"], "2": ["young"], "3": ["food"], "4": ["light"], "5": ["aggressively"], "6": ["location"], "7": ["neurons"], "8": ["chemicals"],
+    "9": ["FALSE"], "10": ["TRUE"], "11": ["FALSE"], "12": ["NOT GIVEN"], "13": ["TRUE"],
+    "14": ["B"], "15": ["E"], "16": ["C"], "17": ["A"],
+    "18": ["TRUE"], "19": ["TRUE"], "20": ["NOT GIVEN"], "21": ["FALSE"], "22": ["NOT GIVEN"],
+    "23": ["B", "D"], "24": ["B", "D"], "25": ["B", "E"], "26": ["B", "E"],
+    "27": ["FALSE"], "28": ["NOT GIVEN"], "29": ["FALSE"], "30": ["TRUE"], "31": ["FALSE"], "32": ["TRUE"], "33": ["NOT GIVEN"],
+    "34": ["large"], "35": ["microplastic"], "36": ["populations"], "37": ["concentrations"], "38": ["predators"], "39": ["disasters"],
+    "40": ["A"]
+  },
+  "explain": {
+    "1": {"loc": "p3", "key": "Giraldo focused on ants at four age ranges: 20 to 22 days, 45 to 47 days, 95 to 97 days and 120 to 122 days", "why": "题干 total of ... different age groups = 原文 four age ranges，填 four。"},
+    "2": {"loc": "p4", "key": "Giraldo watched how well the ants took care of the young of the colony", "why": "题干 looked after the ... = 原文 took care of，宾语是 the young。"},
+    "3": {"loc": "p4", "key": "She compared how well 20-day-old and 95-day-old ants followed the telltale scent that the insects usually leave to mark a trail to food", "why": "题干 locate ... using a scent trail = 原文 followed the ... scent ... to mark a trail to food，填 food。"},
+    "4": {"loc": "p4", "key": "She tested how ants responded to light", "why": "题干 the effect that ... had on them = 原文 responded to light，填 light。"},
+    "5": {"loc": "p4", "key": "the older ants attacked the poor fruit fly just as aggressively as the young ones did", "why": "题干 how ... they attacked prey = 原文 attacked ... aggressively，填 aggressively。"},
+    "6": {"loc": "p5", "key": "nor was there any difference in the location of the dying cells", "why": "题干 comparison between age and the ... of dying cells = 原文 difference in the location of the dying cells，填 location。"},
+    "7": {"loc": "p5", "key": "the density of synaptic complexes within these structures - regions where neurons come together", "why": "题干 areas in which ... meet = 原文 regions where neurons come together，填 neurons。"},
+    "8": {"loc": "p5", "key": "the old ants didn't experience any drop in the levels of either serotonin or dopamine - brain chemicals whose decline often coincides with aging", "why": "题干 level of two ... in the brain = 原文 serotonin or dopamine - brain chemicals，填 chemicals。"},
+    "9": {"loc": "p2", "key": "Naked mole rats can live for almost 30 years and stay fit for nearly their entire lives", "why": "原文说裸鼹鼠也几乎终生保持活力，说明 P. dentata 并非唯一这样的动物，与题干 only known 矛盾 → FALSE。"},
+    "10": {"loc": "p3", "key": "Unlike all previous studies, which only estimated how old the ants were, her work tracked the ants from the time the pupae became adults, so she knew their exact ages", "why": "题干 first person ... using precise data about ... ages = 原文明确说之前的研究只能估算年龄，只有 Giraldo 用精确数据 → TRUE。"},
+    "11": {"loc": "p4", "key": "Giraldo expected the older ants to perform poorly in all these tasks. But the elderly insects were all good caretakers and trail-followers", "why": "原文说她原本预期老蚂蚁表现差，但实际结果相反，与题干 behaved as she had predicted 矛盾 → FALSE。"},
+    "12": {"loc": "p6", "key": "the results of recent bee studies were mixed - some studies showed age-related declines ... and others didn't", "why": "原文只说蜜蜂研究结果不一致，没有提及这些研究使用的方法是否不同 → NOT GIVEN。"},
+    "13": {"loc": "p7", "key": "Out in the wild, the ants probably don't live for a full 140 days thanks to predators, disease and just being in an environment that's much harsher than the comforts of the lab", "why": "野外蚂蚁活不到实验室里的 140 天，说明实验室环境让蚂蚁活得更久 → TRUE。"},
+    "14": {"loc": "B", "key": "some of these collapses have been sudden, dramatic and unexpected", "why": "题干 how quickly animal species can die out = 原文 collapses ... sudden, dramatic and unexpected，位于 B 段。"},
+    "15": {"loc": "E", "key": "Being able to undertake research on animals in zoos where there is less risk and fewer variables means real changes can be effected on wild populations", "why": "题干 preferable to study animals in captivity rather than in the wild 对应 E 段解释在动物园做研究风险更小、变量更少。"},
+    "16": {"loc": "C", "key": "television documentaries are becoming ever more detailed and impressive, and many natural history specimens are on display in museums", "why": "题干 two ways of learning about animals other than visiting them in zoos = 纪录片和博物馆标本，位于 C 段。"},
+    "17": {"loc": "A", "key": "The average captive animal will have a greater life expectancy compared with its wild counterpart, and will not die of drought, of starvation or in the jaws of a predator", "why": "题干 healthier than those in the wild 对应 A 段列举动物园动物寿命更长、不受干旱饥饿天敌威胁。"},
+    "18": {"loc": "A", "key": "The average captive animal will have a greater life expectancy compared with its wild counterpart", "why": "题干 live longer in a zoo than in the wild = 原文 greater life expectancy，一致 → TRUE。"},
+    "19": {"loc": "B", "key": "A good number of species only exist in captivity, with many of these living in zoos", "why": "题干 species in zoos which can no longer be found in the wild = 原文 species only exist in captivity → TRUE。"},
+    "20": {"loc": "C", "key": "television documentaries are becoming ever more detailed and impressive", "why": "原文只说纪录片质量提升，没有提到动物园游客数量因此增加 → NOT GIVEN。"},
+    "21": {"loc": "D", "key": "This was an area where zoos used to be lacking, but they are now increasingly sophisticated in their communication and outreach work", "why": "原文说动物园过去在这方面是欠缺的，与题干 have always excelled 矛盾 → FALSE。"},
+    "22": {"loc": "E", "key": "Being able to undertake research on animals in zoos where there is less risk and fewer variables", "why": "原文说在动物园做研究风险更小、变量更少，但没有明确说这对动物本身的压力更小 → NOT GIVEN。"},
+    "23": {"loc": "D", "key": "Many zoos also work directly to educate conservation workers in other countries, or send their animal keepers abroad to contribute their knowledge and skills to those working in zoos and reserves", "why": "send their animal keepers abroad = travel to overseas locations to join teams（B）；educate conservation workers = teach people involved with conservation projects（D）。"},
+    "24": {"loc": "D", "key": "Many zoos also work directly to educate conservation workers in other countries, or send their animal keepers abroad", "why": "同上，B 和 D 两项都在 D 段被提及。"},
+    "25": {"loc": "F", "key": "educating and informing the general population about these animals and their world so that they can assist or at least accept the need to be more environmentally conscious", "why": "题干 increase public awareness of environmental issues 对应 F 段末尾这句。"},
+    "26": {"loc": "B", "key": "have wild populations that have been boosted by captive-bred animals", "why": "题干 raise animals which can later be released into the wild 对应 B 段提到人工繁育的动物用于补充野生种群。"},
+    "27": {"loc": "p2", "key": "Plenty of studies have sounded alarm bells about the state of marine debris", "why": "原文说已有大量研究关注海洋垃圾问题，说明 Rochman 团队并非最早研究者 → FALSE。"},
+    "28": {"loc": "p3", "key": "a study could show that certain seabirds eat plastic bags, and go on to warn that whole bird populations are at risk of dying out", "why": "这只是原文举的一个未被证实的例子，并未说明海鸟是受威胁最大的生物 → NOT GIVEN。"},
+    "29": {"loc": "p3", "key": "'But the truth was that nobody had yet tested those perceived threats,' Rochman says", "why": "原文明确说这些说法当时并未被验证，与题干 have already proved 矛盾 → FALSE。"},
+    "30": {"loc": "p4", "key": "they asked what threats scientists had studied - 366 perceived threats in all", "why": "题干 different kinds of danger = 原文 366 perceived threats，与 Rochman 分析论文的内容一致 → TRUE。"},
+    "31": {"loc": "p5", "key": "In 83 percent of cases, the perceived dangers of ocean trash were proven true", "why": "83% 的研究被证明设计合理、结论成立，说明大多数研究并非设计糟糕，与题干矛盾 → FALSE。"},
+    "32": {"loc": "p6", "key": "only one well-designed study failed to find the effect it was looking for, an investigation of mussels ingesting microscopic plastic bits", "why": "该研究本是想验证塑料是否伤害贻贝，结果没找到伤害效果，说明研究预期是会发现伤害 → TRUE。"},
+    "33": {"loc": "p6", "key": "The plastic moved from the mussels' stomachs to their bloodstreams, scientists found, and stayed there for weeks", "why": "原文没有提到贻贝会主动选择吃塑料而非天然食物 → NOT GIVEN。"},
+    "34": {"loc": "p8", "key": "Most of the dangers also involved large pieces of debris - animals getting entangled in trash, for example, or eating it and severely injuring themselves", "why": "题干 bits of debris that were ... (harmful to animals) = 原文 large pieces of debris，填 large。"},
+    "35": {"loc": "p9", "key": "a lot of ocean debris is 'microplastic' ... fibers shed by synthetic clothing in the wash ... little research on the effects of these tiny bits", "why": "题干 little research into ... e.g. from synthetic fibres = 原文 microplastic ... fibers shed by synthetic clothing，填 microplastic。"},
+    "36": {"loc": "p10", "key": "Many studies have looked at how plastic affects an individual animal, or that animal's tissues or cells, rather than whole populations", "why": "题干 not entire ... = 原文 rather than whole populations，填 populations。"},
+    "37": {"loc": "p10", "key": "scientists often use higher concentrations of plastic than what's really in the ocean", "why": "题干 the ... of plastic used in the lab = 原文 concentrations of plastic，填 concentrations。"},
+    "38": {"loc": "p10", "key": "how deaths in one species could affect that animal's predators, or the rest of the ecosystem", "why": "题干 impact ... on the ... of that species = 原文 affect that animal's predators，填 predators。"},
+    "39": {"loc": "p11", "key": "disasters such as a tanker accidentally spilling its whole cargo of oil and polluting huge areas of the ocean", "why": "题干 future ... (e.g. involving oil) = 原文 disasters such as a tanker ... spilling ... oil，填 disasters。"},
+    "40": {"loc": "p1", "key": "Is everything terrible, or are things just very, very bad?", "why": "全文围绕评估海洋垃圾威胁的真实程度展开（哪些威胁被证实、哪些被夸大、该如何提出更有效的问题），最贴切的标题是 A『评估海洋垃圾的威胁』；B/C/D 分别涉及归咎、新解决方案、国际行动，原文均未以此为核心论点。"}
+  }
+}
