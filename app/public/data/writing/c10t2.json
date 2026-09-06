@@ -1,0 +1,44 @@
+{
+  "id": "c10t2",
+  "book": "剑桥雅思10",
+  "test": 2,
+  "title": "剑10 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "table",
+      "kindZh": "表格",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The tables below give information about sales of Fairtrade*-labelled coffee and bananas in 1999 and 2004 in five European countries.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c10t2-task1.webp",
+      "imageCaption": "Sales of Fairtrade-labelled coffee and bananas (1999 & 2004)",
+      "sample": {
+        "band": 9,
+        "text": "The two tables contain sales data for Fairtrade coffee and bananas in 1999 and 2004 in five nations of Europe.\n\nThe first table shows low-level coffee sales increasing in all five countries, albeit to widely varying degrees. In two places sales increased by the same small amount: 1.8-2 million euros in Denmark, and 0.8-1 million in Sweden. The increment was slightly larger in Belgium, from 1-1.7 million euros. Meanwhile, in Switzerland sales doubled from 3-6 million euros. Finally, in the UK there was an enormous increase, from 1.5-20 million euros.\n\nIn the second table, it is Switzerland which stands out as buying far more Fairtrade bananas than the other four countries. Swiss sales figures jumped from 15-47 million euros across these five years, while in the UK and Belgium sales only grew from 1-5.5 and from 0.6-4 million euros respectively. Sweden and Denmark showed a different pattern, with falls in banana sales from 1.8-1 and 2-0.9 million euros.\n\nComparing the two tables, it is clear that in 1999 Fairtrade coffee sales ranged from 0.8-3 million euros in these five countries, while banana sales also mostly clustered between 0.6 and 2 million euros, with Switzerland the outlier at a huge 15 million euros. By 2004, sales figures for both products had risen across the board, except for Sweden and Denmark which recorded drops in banana sales.",
+        "comment": "This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people think that all university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 3.5,
+        "text": "All of us agree that all University students have maind can They use to think and choose a way life. The goverments need to be better in the future.\n\nThe big quistion? How can we fuind the answer fo relaize interested students and the goverments?\n\nFirst of all. who the some people think that all university students should study whatever they like. There are experts. The experts could be give us the result suitable for the students, and drew for Them the good choose. also, should be The goverment put plan for future. for example, How many pailot, How many teatcher or tuter the country need. Moreover, In schools, help students for choose what they like of job. Furthermore, coumet all the Minstor togather. (togather much better)\n\non the other hand, I think not good idea a drew the way for students. such as, take who finsh study in school to study soubject we like Not what he like. and thes same as me. when I was student, me tuter told me \"please studey computer science\", and my do not like computer science. Now, I will study another subject. I have aim and I can do what I like. I agree with people. who siad only be allowed to study subjects that will be useful in the future.\n\nin conclusion, I would like to say that the students have maind. They with our recommend to them. They will be live one of the good lives in countries also the science and technology plays rule importent in our life.\n\nI hop you",
+        "comment": "This response is too short at only 232 original words, so does not meet the minimum length required for the task. It is difficult to work out what the writer is trying to say, as his/her position is not made clear. The ideas do seem to be relevant, but problems in the writing mean that no part of the task is adequately addressed. Although some linking words and phrases are used, and the paragraphing looks helpful on the page, the order of information is not coherent and the response does not progress clearly to the end. The vocabulary is basic and the writer has only limited control of word formation. The spelling errors cause strain for the reader. Two lengthy phrases have been copied from the writing question paper. Some complex grammatical structures are attempted but are all faulty. Some simple structures are correct but overall errors predominate. Commas, fullstops and capital letters are misused throughout so punctuation is faulty."
+      }
+    }
+  ]
+}

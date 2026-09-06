@@ -1,0 +1,905 @@
+{
+  "id": "c10t2",
+  "book": "剑桥雅思10",
+  "test": 2,
+  "title": "剑10 Test 2 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "iv"
+    ],
+    "2": [
+      "viii"
+    ],
+    "3": [
+      "vii"
+    ],
+    "4": [
+      "i"
+    ],
+    "5": [
+      "vi"
+    ],
+    "6": [
+      "ix"
+    ],
+    "7": [
+      "ii"
+    ],
+    "8": [
+      "NOT GIVEN"
+    ],
+    "9": [
+      "TRUE"
+    ],
+    "10": [
+      "FALSE"
+    ],
+    "11": [
+      "FALSE"
+    ],
+    "12": [
+      "NOT GIVEN"
+    ],
+    "13": [
+      "TRUE"
+    ],
+    "14": [
+      "A"
+    ],
+    "15": [
+      "D"
+    ],
+    "16": [
+      "F"
+    ],
+    "17": [
+      "D"
+    ],
+    "18": [
+      "B"
+    ],
+    "19": [
+      "D"
+    ],
+    "20": [
+      "E"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "books and activities"
+    ],
+    "24": [
+      "internal regulation",
+      "self-regulation"
+    ],
+    "25": [
+      "emotional awareness"
+    ],
+    "26": [
+      "spoon-feeding"
+    ],
+    "27": [
+      "B"
+    ],
+    "28": [
+      "H"
+    ],
+    "29": [
+      "L"
+    ],
+    "30": [
+      "G"
+    ],
+    "31": [
+      "D"
+    ],
+    "32": [
+      "C"
+    ],
+    "33": [
+      "D"
+    ],
+    "34": [
+      "A"
+    ],
+    "35": [
+      "D"
+    ],
+    "36": [
+      "NOT GIVEN"
+    ],
+    "37": [
+      "NO"
+    ],
+    "38": [
+      "YES"
+    ],
+    "39": [
+      "NOT GIVEN"
+    ],
+    "40": [
+      "NO"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "A",
+      "why": "第A段提出核心问题：工业革命为何、何时在英国发生 -> 对应标题iv“时间和地点”。",
+      "key": "Why did this particular Big Bang the world-changing birth of industry —happen in Britain?"
+    },
+    "2": {
+      "loc": "B",
+      "why": "第B段列举工业化所需的约20个条件 -> 对应标题viii“工业化所需条件”。",
+      "key": "'There are about 20 different factors and all of them need to be present before the revolution can happen,' he says."
+    },
+    "3": {
+      "loc": "C",
+      "why": "第C段提出茶和啤酒是解开谜题的“两把钥匙” -> 对应标题vii“英国工业革命的两把钥匙”。",
+      "key": "Tea and beer, two of the nation's favourite drinks, fuelled the revolution."
+    },
+    "4": {
+      "loc": "D",
+      "why": "第D段讲历史学家探究人口激增的原因 -> 对应标题i“探寻人口增长的原因”。",
+      "key": "But then there was a burst in population growth."
+    },
+    "5": {
+      "loc": "E",
+      "why": "第E段讲啤酒被课税后人们改喝水和杜松子酒，饮用习惯发生变化 -> 对应标题vi“英国饮用习惯的变化”。",
+      "key": "The poor turned to water and gin and in the 1720s the mortality rate began to rise again."
+    },
+    "6": {
+      "loc": "F",
+      "why": "第F段将英国与日本作比较，从而得出茶的关键作用 -> 对应标题ix“与日本的比较得出答案”。",
+      "key": "Macfarlane looked to Japan, which was also developing large cities about the same time, and also had no sanitation."
+    },
+    "7": {
+      "loc": "G",
+      "why": "第G段说日本放弃畜力等省力设备是因为害怕造成失业 -> 对应标题ii“工业化与失业的恐惧”。",
+      "key": "Macfarlane notes that even though 17th-century Japan had large cities, high literacy rates, even a futures market, it had turned its back on the essence of any work-based revolution by giving up labour-saving devices such as animals, afraid that they would put people out of work."
+    },
+    "8": {
+      "loc": "B",
+      "why": "原文只说中国也具备许多因素，没有提到中国的交通运输系统是否适合工业化 -> NOT GIVEN。",
+      "key": "'After all, Holland had everything except coal, while China also had many of these factors."
+    },
+    "9": {
+      "loc": "C",
+      "why": "原文明确说茶（丹宁）和啤酒（啤酒花）的抗菌性都帮助避免了痢疾等疾病 -> TRUE。",
+      "key": "The antiseptic properties of tannin, the active ingredient in tea, and of hops in beer - plus the fact that both are made with boiled water — allowed urban communities to flourish at close quarters without succumbing to water-borne diseases such as dysentery."
+    },
+    "10": {
+      "loc": "C",
+      "why": "原文说Roy Porter对Macfarlane的研究给出了正面评价，而题干说他不同意，正好相反 -> FALSE。",
+      "key": "Macfarlane's case has been strengthened by support from notable quarters - Roy Porter, the distinguished medical historian, recently wrote a favourable appraisal of his research."
+    },
+    "11": {
+      "loc": "D",
+      "why": "原文说1740年后人口是激增而不是减少，与题干相反 -> FALSE。",
+      "key": "But then there was a burst in population growth."
+    },
+    "12": {
+      "loc": "E",
+      "why": "原文只讲麦芽（啤酒原料）被征税，没有提到人们是否在家自酿啤酒 -> NOT GIVEN。",
+      "key": "But in the late 17th century a tax was introduced on malt, the basic ingredient of beer."
+    },
+    "13": {
+      "loc": "E",
+      "why": "麦芽税导致穷人改喝不安全的水和杜松子酒，进而使死亡率上升，符合题干的因果关系 -> TRUE。",
+      "key": "The poor turned to water and gin and in the 1720s the mortality rate began to rise again."
+    },
+    "14": {
+      "loc": "A",
+      "why": "题干influence of the domestic background = 原文home educational provision，对应A段。",
+      "key": "For example, a very close positive relationship was found when children's IQ scores were compared with their home educational provision (Freeman, 2010)."
+    },
+    "15": {
+      "loc": "D",
+      "why": "题干what can be lost if given too much guidance = 原文Too much dependence on the teacher risks loss of autonomy，对应D段。",
+      "key": "Too much dependence on the teacher risks loss of autonomy and motivation to discover."
+    },
+    "16": {
+      "loc": "F",
+      "why": "题干damaging effects of anxiety = 原文Fear...can limit the development of curiosity，对应F段。",
+      "key": "Fear, for example, can limit the development of curiosity, which is a strong force in scientific advance, because it motivates problem-solving behaviour."
+    },
+    "17": {
+      "loc": "D",
+      "why": "题干techniques which favour socially-disadvantaged children = 原文particularly useful for bright children from deprived areas，对应D段。",
+      "key": "Such practices have been found to be particularly useful for bright children from deprived areas."
+    },
+    "18": {
+      "loc": "C",
+      "why": "该观点引自Shore and Kanevsky (1993)，与“少犯错的学生可以减少练习时间”对应 -> B。",
+      "key": "If they merely make fewer errors, then we can shorten the practice.' But of course, this is not entirely the case; adjustments have to be made in methods of learning and teaching, to take account of the many ways individuals think."
+    },
+    "19": {
+      "loc": "E",
+      "why": "该观点引自Simonton (1988)的研究，独立性(self-reliance)帮助达到专业顶峰 -> D。",
+      "key": "Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice."
+    },
+    "20": {
+      "loc": "F",
+      "why": "该观点引自Boekaerts (1991)的综述，讲情绪力量与学习协调一致 -> E。",
+      "key": "In Boekaerts' (1991) review of emotion in the learning of very high IQ and highly achieving children, she found emotional forces in harness."
+    },
+    "21": {
+      "loc": "A",
+      "why": "该数据引自Freeman (2010)，家庭教育资源(close relatives的支持)与高IQ密切相关 -> A。",
+      "key": "For example, a very close positive relationship was found when children's IQ scores were compared with their home educational provision (Freeman, 2010)."
+    },
+    "22": {
+      "loc": "E",
+      "why": "该观点引自Elshout (1995)，掌握大量专业知识的人成就更高，对应题干“学习了大量学科知识” -> C。",
+      "key": "But scientific progress is not all theoretical, knowledge is also vital to outstanding performance: individuals who know a great deal about a specific domain will achieve at a higher level than those who do not (Elshout, 1995)."
+    },
+    "23": {
+      "loc": "A",
+      "why": "题干the availability of ... at home 对应原文number of books and activities in their home，答案为books and activities。",
+      "key": "The higher the children's IQ scores, especially over IQ 130, the better the quality of their educational backup, measured in terms of reported verbal interactions with parents, number of books and activities in their home etc."
+    },
+    "24": {
+      "loc": "B",
+      "why": "题干do not have ... 对应原文lack of internal regulation，答案internal regulation/self-regulation。",
+      "key": "There appears to be a qualitative difference in the way the intellectually highly able think, compared with more average-ability or older pupils, for whom external regulation by the teacher often compensates for lack of internal regulation."
+    },
+    "25": {
+      "loc": "B",
+      "why": "题干developing ... 对应原文Emotional awareness is also part of metacognition，答案emotional awareness。",
+      "key": "Emotional awareness is also part of metacognition, so children should be helped to be aware of their feelings around the area to be learned, feelings of curiosity or confidence, for example."
+    },
+    "26": {
+      "loc": "D",
+      "why": "题干what is known as ... 对应原文'spoon-feeding'，答案spoon-feeding。",
+      "key": "Although 'spoon-feeding' can produce extremely high examination results, these are not always followed by equally impressive life successes."
+    },
+    "27": {
+      "loc": "p2",
+      "why": "题干the availability of novels has depended on ... 对应原文能大量印刷文本的技术发展，即mass production -> B。",
+      "key": "This might be explained by the fact that the novel has evolved precisely because of technological developments that made it possible to print out huge numbers of texts, whereas oil paintings have always been produced as unique objects."
+    },
+    "28": {
+      "loc": "p2",
+      "why": "题干with novels, the ... are the most important thing 对应原文读者关注的是文字的意义而非印刷形式，即underlying ideas -> H。",
+      "key": "With novels, the reader attends mainly to the meaning of words rather than the way they are printed on the page, whereas the 'reader' of a painting must attend just as closely to the material form of marks and shapes in the picture as to any ideas they may signify."
+    },
+    "29": {
+      "loc": "p3",
+      "why": "题干artists...instruct ... to produce copies 对应原文将复制工作交给workshop apprentices（学徒/助手），即assistants -> L。",
+      "key": "The seven surviving versions of Mona Lisa bear witness to the fact that in the 16th century, artists seemed perfectly content to assign the reproduction of their creations to their workshop apprentices as regular 'bread and butter' work."
+    },
+    "30": {
+      "loc": "p3",
+      "why": "题干colour and ... 对应原文made exactly to the original scale（与原作同等尺寸），即size -> G。",
+      "key": "And today the task of reproducing pictures is incomparably more simple and reliable, with reprographic techniques that allow the production of high-quality prints made exactly to the original scale, with faithful colour values, and even with duplication of the surface relief of the painting."
+    },
+    "31": {
+      "loc": "p5",
+      "why": "题干may not be in the interests of the ... 对应原文普通参观者(the public)在治馆环境中感到自身“渺小”，损害的正是公众利益 -> D。",
+      "key": "In a society that judges the personal status of the individual so much by their material worth, it is therefore difficult not to be impressed by one's own relative 'worthlessness' in such an environment."
+    },
+    "32": {
+      "loc": "p5",
+      "why": "作者举伦敦国家美术馆为例，说明博物馆环境让参观者觉得自己“一文不值”，即对参观者自我评价的负面影响 -> C。",
+      "key": "In a society that judges the personal status of the individual so much by their material worth, it is therefore difficult not to be impressed by one's own relative 'worthlessness' in such an environment."
+    },
+    "33": {
+      "loc": "p4",
+      "why": "原文说参观者的想法不会改变作品已被赋予的巨额金钱价值，因此参观者觉得自己的看法无关紧要 -> D。",
+      "key": "Evidently, nothing the viewer thinks about the work is going to alter that value, and so today's viewer is deterred from trying to extend that spontaneous, immediate, self-reliant kind of reading which would originally have met the work."
+    },
+    "34": {
+      "loc": "p7",
+      "why": "“移位效应”源于将风格迥异的作品汇集在一起展出、且展品数量庞大，对应题干variety...and the way they are arranged -> A。",
+      "key": "The visitor may then be struck by the strangeness of seeing such diverse paintings, drawings and sculptures brought together in an environment for which they were not originally created."
+    },
+    "35": {
+      "loc": "p8",
+      "why": "题干does not have a specific beginning or end 对应原文绘画没有明确的开始或结束的欣赏时刻（不同于歌剧、小说） -> D。",
+      "key": "Similarly, novels and poems are read in a prescribed temporal sequence, whereas a picture has no clear place at which to start viewing, or at which to finish."
+    },
+    "36": {
+      "loc": "p9",
+      "why": "原文只说艺术史方法致力于在文化语境中“发现意义”，并未提及要用多种媒介(a range of media) -> NOT GIVEN。",
+      "key": "Consequently, the dominant critical approach becomes that of the art historian, a specialised academic approach devoted to 'discovering the meaning' of art within the cultural context of its time."
+    },
+    "37": {
+      "loc": "p9",
+      "why": "原文说艺术史家的方法与博物馆功能“完全协调”，与题干“冲突”相反 -> NO。",
+      "key": "This is in perfect harmony with the museum's function, since the approach is dedicated to seeking out and conserving 'authentic', 'original' readings of the exhibits."
+    },
+    "38": {
+      "loc": "p10",
+      "why": "原文说观众在被鼓励表达看法时能更好地欣赏艺术，与题干一致 -> YES。",
+      "key": "The museum public, like other audience, experience art more rewardingly when given the confidence to express their views."
+    },
+    "39": {
+      "loc": "p10",
+      "why": "原文只是提出高保真复制品可以让艺术品更易获得，并未提出“只有高质量才应出售”这一限定条件 -> NOT GIVEN。",
+      "key": "If appropriate works of fine art could be rendered permanently accessible to the public by means of high-fidelity reproductions, as literature and music already are, the public may feel somewhat less in awe of them."
+    },
+    "40": {
+      "loc": "p10",
+      "why": "原文说掌控艺术体制的人恐怕难以接受（让更多人接触艺术），与题干“未来会鼓励更多人”相反 -> NO。",
+      "key": "Unfortunately, that may be too much to ask from those who seek to maintain and control the art establishment."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Tea and the Industrial Revolution",
+      "subtitle": "A Cambridge professor says that a change in drinking habits was the reason for the Industrial Revolution in Britain. Anjana Ahuja reports",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Alan Macfarlane, professor of anthropological science at Kings College, Cambridge, has, like other historians, spent decades wrestling with the enigma of the Industrial Revolution. Why did this particular Big Bang the world-changing birth of industry —happen in Britain? And why did it strike at the end of the 18th century?"
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Macfarlane compares the puzzle to a combination lock. 'There are about 20 different factors and all of them need to be present before the revolution can happen,' he says. For industry to take off, there needs to be the technology and power to drive factories, large urban populations to provide cheap labour, easy transport to move goods around, an affluent middle-class willing to buy mass-produced objects, a market-driven economy and a political system that allows this to happen. While this was the case for England, other nations, such as Japan, the Netherlands and France also met some of these criteria but were not industrialising. All these factors must have been necessary but not sufficient to cause the revolution,' says Macfarlane. 'After all, Holland had everything except coal, while China also had many of these factors. Most historians are convinced there are one or two missing factors that you need to open the lock.'"
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "The missing factors, he proposes, are to be found in almost every kitchen cupboard. Tea and beer, two of the nation's favourite drinks, fuelled the revolution. The antiseptic properties of tannin, the active ingredient in tea, and of hops in beer - plus the fact that both are made with boiled water — allowed urban communities to flourish at close quarters without succumbing to water-borne diseases such as dysentery. The theory sounds eccentric but once he starts to explain the detective work that went into his deduction, the scepticism gives way to wary admiration. Macfarlane's case has been strengthened by support from notable quarters - Roy Porter, the distinguished medical historian, recently wrote a favourable appraisal of his research."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Macfarlane had wondered for a long time how the Industrial Revolution came about. Historians had alighted on one interesting factor around the mid-18th century that required explanation. Between about 1650 and 1740, the population in Britain was static. But then there was a burst in population growth. Macfarlane says: 'The infant mortality rate halved in the space of 20 years, and this happened in both rural areas and cities, and across all classes. People suggested four possible causes. Was there a sudden change in the viruses and bacteria around? Unlikely. Was there a revolution in medical science? But this was a century before Lister's revolution*. Was there a change in environmental conditions? There were improvements in agriculture that wiped out malaria, but these were small gains. Sanitation did not become widespread until the 19th century. The only option left is food. But the height and weight statistics show a decline. So the food must have got worse. Efforts to explain this sudden reduction in child deaths appeared to draw a blank.'"
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "This population burst seemed to happen at just the right time to provide labour for the Industrial Revolution. 'When you start moving towards an industrial revolution, it is economically efficient to have people living close together,' says Macfarlane. 'But then you get disease, particularly from human waste.' Some digging around in historical records revealed that there was a change in the incidence of water-borne disease at that time, especially dysentery. Macfarlane deduced that whatever the British were drinking must have been important in regulating disease. He says, 'We drank beer. For a long time, the English were protected by the strong antibacterial agent in hops, which were added to help preserve the beer. But in the late 17th century a tax was introduced on malt, the basic ingredient of beer. The poor turned to water and gin and in the 1720s the mortality rate began to rise again. Then it suddenly dropped again. What caused this?'"
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Macfarlane looked to Japan, which was also developing large cities about the same time, and also had no sanitation. Water-borne diseases had a much looser grip on the Japanese population than those in Britain. Could it be the prevalence of tea in their culture? Macfarlane then noted that the history of tea in Britain provided an extraordinary coincidence of dates. Tea was relatively expensive until Britain started a direct clipper trade with China in the early 18th century. By the 1740s, about the time that infant mortality was dipping, the drink was common. Macfarlane guessed that the fact that water had to be boiled, together with the stomach-purifying properties of tea meant that the breast milk provided by mothers was healthier than it had ever been. No other European nation sipped tea like the British, which, by Macfarlane's logic, pushed these other countries out of contention for the revolution."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "But, if tea is a factor in the combination lock, why didn't Japan forge ahead in a tea-soaked industrial revolution of its own? Macfarlane notes that even though 17th-century Japan had large cities, high literacy rates, even a futures market, it had turned its back on the essence of any work-based revolution by giving up labour-saving devices such as animals, afraid that they would put people out of work. So, the nation that we now think of as one of the most technologically advanced entered the 19th century having abandoned the wheel'."
+        }
+      ],
+      "footnotes": [
+        "* Joseph Lister was the first doctor to use antiseptic techniques during surgical operations to prevent infections."
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            7
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below.",
+          "limit": "Write the correct number, i-ix, in boxes 1-7 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "The search for the reasons for an increase in population"
+            },
+            {
+              "k": "ii",
+              "text": "Industrialisation and the fear of unemployment"
+            },
+            {
+              "k": "iii",
+              "text": "The development of cities in Japan"
+            },
+            {
+              "k": "iv",
+              "text": "The time and place of the Industrial Revolution"
+            },
+            {
+              "k": "v",
+              "text": "The cases of Holland, France and China"
+            },
+            {
+              "k": "vi",
+              "text": "Changes in drinking habits in Britain"
+            },
+            {
+              "k": "vii",
+              "text": "Two keys to Britain's industrial revolution"
+            },
+            {
+              "k": "viii",
+              "text": "Conditions required for industrialisation"
+            },
+            {
+              "k": "ix",
+              "text": "Comparisons with Japan lead to the answer"
+            }
+          ],
+          "itemsTitle": "Paragraphs",
+          "items": [
+            {
+              "n": 1,
+              "text": "Paragraph A"
+            },
+            {
+              "n": 2,
+              "text": "Paragraph B"
+            },
+            {
+              "n": 3,
+              "text": "Paragraph C"
+            },
+            {
+              "n": 4,
+              "text": "Paragraph D"
+            },
+            {
+              "n": 5,
+              "text": "Paragraph E"
+            },
+            {
+              "n": 6,
+              "text": "Paragraph F"
+            },
+            {
+              "n": 7,
+              "text": "Paragraph G"
+            }
+          ]
+        },
+        {
+          "range": [
+            8,
+            13
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 8,
+              "text": "China's transport system was not suitable for industry in the 18th century."
+            },
+            {
+              "n": 9,
+              "text": "Tea and beer both helped to prevent dysentery in Britain."
+            },
+            {
+              "n": 10,
+              "text": "Roy Porter disagrees with Professor Macfarlane's findings."
+            },
+            {
+              "n": 11,
+              "text": "After 1740 there was a reduction in population in Britain."
+            },
+            {
+              "n": 12,
+              "text": "People in Britain used to make beer at home."
+            },
+            {
+              "n": 13,
+              "text": "The tax on malt indirectly caused a rise in the death rate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Gifted children and learning",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Internationally, /giftedness/ is most frequently determined by a score on a general intelligence test, known as an IQ test, which is above a chosen cut-off point, usually at around the top 2-5%. Children's educational environment contributes to the IQ score and the way intelligence is used. For example, a very close positive relationship was found when children's IQ scores were compared with their home educational provision (Freeman, 2010). The higher the children's IQ scores, especially over IQ 130, the better the quality of their educational backup, measured in terms of reported verbal interactions with parents, number of books and activities in their home etc. Because IQ tests are decidedly influenced by what the child has learned, they are to some extent measures of current achievement based on age-norms; that is, how well the children have learned to manipulate their knowledge and know-how within the terms of the test. The vocabulary aspect, for example, is dependent on having heard those words. But IQ tests can neither identify the processes of learning and thinking nor predict creativity."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Excellence does not emerge without appropriate help. To reach an exceptionally high standard in any area very able children need the means to learn, which includes material to work with and focused challenging tuition - and the encouragement to follow their dream. There appears to be a qualitative difference in the way the intellectually highly able think, compared with more average-ability or older pupils, for whom external regulation by the teacher often compensates for lack of internal regulation. To be at their most effective in their self-regulation, all children can be helped to identify their own ways of learning - metacognition - which will include strategies of planning, monitoring, evaluation, and choice of what to learn. Emotional awareness is also part of metacognition, so children should be helped to be aware of their feelings around the area to be learned, feelings of curiosity or confidence, for example."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "High achievers have been found to use self-regulatory learning strategies more often and more effectively than lower achievers, and are better able to transfer these strategies to deal with unfamiliar tasks. This happens to such a high degree in some children that they appear to be demonstrating talent in particular areas. Overviewing research on the thinking process of highly able children, (Shore and Kanevsky, 1993) put the instructor's problem succinctly: 'If they [the gifted] merely think more quickly, then we need only teach more quickly. If they merely make fewer errors, then we can shorten the practice.' But of course, this is not entirely the case; adjustments have to be made in methods of learning and teaching, to take account of the many ways individuals think."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Yet in order to learn by themselves, the gifted do need some support from their teachers. Conversely, teachers who have a tendency to 'overdirect' can diminish their gifted pupils' learning autonomy. Although 'spoon-feeding' can produce extremely high examination results, these are not always followed by equally impressive life successes. Too much dependence on the teacher risks loss of autonomy and motivation to discover. However, when teachers help pupils to reflect on their own learning and thinking activities, they increase their pupils' self-regulation. For a young child, it may be just the simple question 'What have you learned today?' which helps them to recognise what they are doing. Given that a fundamental goal of education is to transfer the control of learning from teachers to pupils, improving pupils' learning to learn techniques should be a major outcome of the school experience, especially for the highly competent. There are quite a number of new methods which can help, such as child-initiated learning, ability-peer tutoring, etc. Such practices have been found to be particularly useful for bright children from deprived areas."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "But scientific progress is not all theoretical, knowledge is also vital to outstanding performance: individuals who know a great deal about a specific domain will achieve at a higher level than those who do not (Elshout, 1995). Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice. Creativity in all forms can be seen as expertise mixed with a high level of m otivation (Weisberg, 1993)."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "To sum up, learning is affected by emotions of both the individual and significant others. Positive emotions facilitate the creative aspects of learning and negative emotions inhibit it. Fear, for example, can limit the development of curiosity, which is a strong force in scientific advance, because it motivates problem-solving behaviour. In Boekaerts' (1991) review of emotion in the learning of very high IQ and highly achieving children, she found emotional forces in harness. They were not only curious, but often had a strong desire to control their environment, improve their learning efficiency, and increase their own learning resources."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            17
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F. Which paragraph contains the following information?",
+          "limit": "Write the correct letter, A-F, in boxes 14-17 on your answer sheet. NB You may use any letter more than once.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "a reference to the influence of the domestic background on the gifted child"
+            },
+            {
+              "n": 15,
+              "text": "reference to what can be lost if learners are given too much guidance"
+            },
+            {
+              "n": 16,
+              "text": "a reference to the damaging effects of anxiety"
+            },
+            {
+              "n": 17,
+              "text": "examples of classroom techniques which favour socially-disadvantaged children"
+            }
+          ]
+        },
+        {
+          "range": [
+            18,
+            22
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following statements (Questions 18-22) and the list of people below. Match each statement with the correct person or people, A-E.",
+          "limit": "Write the correct letter, A-E, in boxes 18-22 on your answer sheet.",
+          "optionsTitle": "List of People",
+          "options": [
+            {
+              "k": "A",
+              "text": "Freeman"
+            },
+            {
+              "k": "B",
+              "text": "Shore and Kanevsky"
+            },
+            {
+              "k": "C",
+              "text": "Elshout"
+            },
+            {
+              "k": "D",
+              "text": "Simonton"
+            },
+            {
+              "k": "E",
+              "text": "Boekaerts"
+            }
+          ],
+          "questions": [
+            {
+              "n": 18,
+              "text": "Less time can be spent on exercises with gifted pupils who produce accurate work."
+            },
+            {
+              "n": 19,
+              "text": "Self-reliance is a valuable tool that helps gifted students reach their goals."
+            },
+            {
+              "n": 20,
+              "text": "Gifted children know how to channel their feelings to assist their learning."
+            },
+            {
+              "n": 21,
+              "text": "The very gifted child benefits from appropriate support from close relatives."
+            },
+            {
+              "n": 22,
+              "text": "Really successful students have learnt a considerable amount about their subject."
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            26
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "lines": [
+            "One study found a strong connection between children's IQ and the availability of {{23}} at home.",
+            "Children of average ability seem to need more direction from teachers because they do not have {{24}}.",
+            "Metacognition involves children understanding their own learning strategies, as well as developing {{25}}.",
+            "Teachers who rely on what is known as {{26}} often produce sets of impressive grades in class tests."
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Museums of fine art and their public",
+      "subtitle": "The fact that people go to the Louvre museum in Paris to see the original painting Mona Lisa when they can see a reproduction anywhere leads us to question some assumptions about the role of museums of fine art in today's world",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "One of the most famous works of art in the world is Leonardo da Vinci's Mona Lisa. Nearly everyone who goes to see the original will already be familiar with it from reproductions, but they accept that fine art is more rewardingly viewed in its original form."
+        },
+        {
+          "id": "p2",
+          "text": "However, if Mona Lisa was a famous novel, few people would bother to go to a museum to read the writer's actual manuscript rather than a printed reproduction. This might be explained by the fact that the novel has evolved precisely because of technological developments that made it possible to print out huge numbers of texts, whereas oil paintings have always been produced as unique objects. In addition, it could be argued that the practice of interpreting or 'reading' each medium follows different conventions. With novels, the reader attends mainly to the meaning of words rather than the way they are printed on the page, whereas the 'reader' of a painting must attend just as closely to the material form of marks and shapes in the picture as to any ideas they may signify."
+        },
+        {
+          "id": "p3",
+          "text": "Yet it has always been possible to make very accurate facsimiles of pretty well any fine art work. The seven surviving versions of Mona Lisa bear witness to the fact that in the 16th century, artists seemed perfectly content to assign the reproduction of their creations to their workshop apprentices as regular 'bread and butter' work. And today the task of reproducing pictures is incomparably more simple and reliable, with reprographic techniques that allow the production of high-quality prints made exactly to the original scale, with faithful colour values, and even with duplication of the surface relief of the painting."
+        },
+        {
+          "id": "p4",
+          "text": "But despite an implicit recognition that the spread of good reproductions can be culturally valuable, museums continue to promote the special status of original work. Unfortunately, this seems to place severe limitations on the kind of experience offered to visitors."
+        },
+        {
+          "id": "p5",
+          "text": "One limitation is related to the way the museum presents its exhibits. As repositories of unique historical objects, art museums are often called 'treasure houses'. We are reminded of this even before we view a collection by the presence of security guards, attendants, ropes and display cases to keep us away from the exhibits. In many cases, the architectural style of the building further reinforces that notion. In addition, a major collection like that of London's National Gallery is housed in numerous rooms, each with dozens of works, any one of which is likely to be worth more than all the average visitor possesses. In a society that judges the personal status of the individual so much by their material worth, it is therefore difficult not to be impressed by one's own relative 'worthlessness' in such an environment."
+        },
+        {
+          "id": "p6",
+          "text": "Furthermore, consideration of the Value' of the original work in its treasure house setting impresses upon the viewer that, since these works were originally produced, they have been assigned a huge monetary value by some person or institution more powerful than themselves. Evidently, nothing the viewer thinks about the work is going to alter that value, and so today's viewer is deterred from trying to extend that spontaneous, immediate, self-reliant kind of reading which would originally have met the work."
+        },
+        {
+          "id": "p7",
+          "text": "The visitor may then be struck by the strangeness of seeing such diverse paintings, drawings and sculptures brought together in an environment for which they were not originally created. This 'displacement effect' is further heightened by the sheer volume of any exhibits. In the case of a major collection, there are probably more works on display than we could realistically view in weeks or even months."
+        },
+        {
+          "id": "p8",
+          "text": "This is particularly distressing because time seems to be a vital factor in the appreciation of all art forms. A fundamental difference between paintings and other art forms is that there is no prescribed time over which a painting is viewed. By contrast, the audience encounters an opera or a play over a specific time, which is the duration of the performance. Similarly, novels and poems are read in a prescribed temporal sequence, whereas a picture has no clear place at which to start viewing, or at which to finish. Thus art works themselves encourage us to view them superficially, without appreciating the richness of detail and labour that is involved."
+        },
+        {
+          "id": "p9",
+          "text": "Consequently, the dominant critical approach becomes that of the art historian, a specialised academic approach devoted to 'discovering the meaning' of art within the cultural context of its time. This is in perfect harmony with the museum's function, since the approach is dedicated to seeking out and conserving 'authentic', 'original' readings of the exhibits. Again, this seems to put paid to that spontaneous, participatory criticism which can be found in abundance in criticism of classic works of literature, but is absent from most art history."
+        },
+        {
+          "id": "p10",
+          "text": "The displays of art museums serve as a warning of what critical practices can emerge when spontaneous criticism suppressed. The museum public, like other audience, experience art more rewardingly when given the confidence to express their views. If appropriate works of fine art could be rendered permanently accessible to the public by means of high-fidelity reproductions, as literature and music already are, the public may feel somewhat less in awe of them. Unfortunately, that may be too much to ask from those who seek to maintain and control the art establishment."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            31
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words, A-L, below.",
+          "limit": "Write the correct letter, A-L, in boxes 27-31 on your answer sheet.",
+          "title": "The value attached to original works of art",
+          "text": "People go to art museums because they accept the value of seeing an original work of art. But they do not go to museums to read original manuscripts of novels, perhaps because the availability of novels has depended on {{27}} for so long, and also because with novels, the {{28}} are the most important thing.\n\nHowever, in historical times artists such as Leonardo were happy to instruct {{29}} to produce copies of their work and these days new methods of reproduction allow excellent replication of surface relief features as well as colour and {{30}}.\n\nIt is regrettable that museums still promote the superiority of original works of art, since this may not be in the interests of the {{31}}.",
+          "options": [
+            {
+              "k": "A",
+              "text": "institution"
+            },
+            {
+              "k": "B",
+              "text": "mass production"
+            },
+            {
+              "k": "C",
+              "text": "mechanical processes"
+            },
+            {
+              "k": "D",
+              "text": "public"
+            },
+            {
+              "k": "E",
+              "text": "paints"
+            },
+            {
+              "k": "F",
+              "text": "artist"
+            },
+            {
+              "k": "G",
+              "text": "size"
+            },
+            {
+              "k": "H",
+              "text": "underlying ideas"
+            },
+            {
+              "k": "I",
+              "text": "basic technology"
+            },
+            {
+              "k": "J",
+              "text": "readers"
+            },
+            {
+              "k": "K",
+              "text": "picture frames"
+            },
+            {
+              "k": "L",
+              "text": "assistants"
+            }
+          ]
+        },
+        {
+          "range": [
+            32,
+            35
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 32,
+              "text": "The writer mentions London's National Gallery to illustrate",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the undesirable cost to a nation of maintaining a huge collection of art."
+                },
+                {
+                  "k": "B",
+                  "text": "the conflict that may arise in society between financial and artistic values."
+                },
+                {
+                  "k": "C",
+                  "text": "the negative effect a museum can have on visitors' opinions of themselves."
+                },
+                {
+                  "k": "D",
+                  "text": "the need to put individual well-being above large-scale artistic schemes."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "The writer says that today, viewers may be unwilling to criticise a work because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "they lack the knowledge needed to support an opinion."
+                },
+                {
+                  "k": "B",
+                  "text": "they fear it may have financial implications."
+                },
+                {
+                  "k": "C",
+                  "text": "they have no real concept of the work's value."
+                },
+                {
+                  "k": "D",
+                  "text": "they feel their personal reaction is of no significance."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "According to the writer, the 'displacement effect' on the visitor is caused by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the variety of works on display and the way they are arranged."
+                },
+                {
+                  "k": "B",
+                  "text": "the impossibility of viewing particular works of art over a long period."
+                },
+                {
+                  "k": "C",
+                  "text": "the similar nature of the paintings and the lack of great works."
+                },
+                {
+                  "k": "D",
+                  "text": "the inappropriate nature of the individual works selected for exhibition."
+                }
+              ]
+            },
+            {
+              "n": 35,
+              "text": "The writer says that unlike other forms of art, a painting does not",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "involve direct contact with an audience."
+                },
+                {
+                  "k": "B",
+                  "text": "require a specific location for a performance."
+                },
+                {
+                  "k": "C",
+                  "text": "need the involvement of other professionals."
+                },
+                {
+                  "k": "D",
+                  "text": "have a specific beginning or end."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            36,
+            40
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the views of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the views of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 36,
+              "text": "Art history should focus on discovering the meaning of art using a range of media."
+            },
+            {
+              "n": 37,
+              "text": "The approach of art historians conflicts with that of art museums."
+            },
+            {
+              "n": 38,
+              "text": "People should be encouraged to give their opinions openly on works of art."
+            },
+            {
+              "n": 39,
+              "text": "Reproductions of fine art should only be sold to the public if they are of high quality."
+            },
+            {
+              "n": 40,
+              "text": "In the future, those with power are likely to encourage more people to enjoy art."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

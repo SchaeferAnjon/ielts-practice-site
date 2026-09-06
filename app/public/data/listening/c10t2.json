@@ -1,0 +1,1397 @@
+{
+  "id": "c10t2",
+  "book": "剑桥雅思10",
+  "test": 2,
+  "title": "剑10 Test 2 · Listening",
+  "source": "Cambridge IELTS 10 Academic, Test 2（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "Hardie"
+    ],
+    "2": [
+      "19"
+    ],
+    "3": [
+      "GT8 2LC",
+      "GT8, 2LC"
+    ],
+    "4": [
+      "hairdresser"
+    ],
+    "5": [
+      "dentist",
+      "dentist's"
+    ],
+    "6": [
+      "lighting"
+    ],
+    "7": [
+      "trains"
+    ],
+    "8": [
+      "safe"
+    ],
+    "9": [
+      "shower"
+    ],
+    "10": [
+      "training"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "A"
+    ],
+    "15": [
+      "E"
+    ],
+    "16": [
+      "F"
+    ],
+    "17": [
+      "D"
+    ],
+    "18": [
+      "H"
+    ],
+    "19": [
+      "A"
+    ],
+    "20": [
+      "B"
+    ],
+    "21": [
+      "B",
+      "C"
+    ],
+    "22": [
+      "B",
+      "C"
+    ],
+    "23": [
+      "B",
+      "E"
+    ],
+    "24": [
+      "B",
+      "E"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "C"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "A"
+    ],
+    "31": [
+      "competition"
+    ],
+    "32": [
+      "global"
+    ],
+    "33": [
+      "demand"
+    ],
+    "34": [
+      "customers"
+    ],
+    "35": [
+      "regulation"
+    ],
+    "36": [
+      "project"
+    ],
+    "37": [
+      "flexible"
+    ],
+    "38": [
+      "leadership"
+    ],
+    "39": [
+      "women"
+    ],
+    "40": [
+      "self-employed"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c10/t2p1.mp3",
+      "duration": 0,
+      "title": "Transport Survey",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Transport Survey",
+          "lines": [
+            "Name: Luisa {{1}}",
+            "Address: {{2}} White Stone Road",
+            "Area: Bradfield",
+            "Postcode: {{3}}",
+            "Occupation: {{4}}",
+            "Reason for visit to town: to go to the {{5}}",
+            "Suggestions for improvement:",
+            "better {{6}}",
+            "have more footpaths",
+            "more frequent {{7}}",
+            "## Things that would encourage cycling to work",
+            "having {{8}} parking places for bicycles",
+            "being able to use a {{9}} at work",
+            "the opportunity to have cycling {{10}} on busy roads"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "INTERVIEWER",
+          "t": "Excuse me."
+        },
+        {
+          "s": "LUISA",
+          "t": "Yes?"
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "I wonder if you could spare a few minutes to do a survey on transport."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "It won't take long."
+        },
+        {
+          "s": "LUISA",
+          "t": "No, that's fine."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Lovely."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "The survey is on behalf of the local council."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "They'd like to know about what transport you use and any suggestions for improvement."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Can I start by asking you how you travelled to town today?"
+        },
+        {
+          "s": "LUISA",
+          "t": "Sure."
+        },
+        {
+          "s": "LUISA",
+          "t": "I came on the bus."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Great."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Now can I get a few details about yourself?"
+        },
+        {
+          "s": "LUISA",
+          "t": "OK."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "What's your name?"
+        },
+        {
+          "s": "LUISA",
+          "t": "It's Luisa ...."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Yes."
+        },
+        {
+          "s": "LUISA",
+          "t": "Hardie.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Can you spell that, please?"
+        },
+        {
+          "s": "LUISA",
+          "t": "Yes, it's H-A-R-D-I-E."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Great."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Thanks."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "And can I have your address?"
+        },
+        {
+          "s": "LUISA",
+          "t": "It's 19, White Stone Road.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Oh, right."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "I know that area."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "It's Bradfield, isn't it?"
+        },
+        {
+          "s": "LUISA",
+          "t": "That's right."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Is the postcode GT7?"
+        },
+        {
+          "s": "LUISA",
+          "t": "It's actually G-T-8, 2-L-C.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Great."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "And could I ask what your job is?"
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Are you a student?"
+        },
+        {
+          "s": "LUISA",
+          "t": "I've actually just finished my training."
+        },
+        {
+          "s": "LUISA",
+          "t": "I'm a hairdresser.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Oh, right."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "And one more question in this section."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "What is the reason for you coming into town today?"
+        },
+        {
+          "s": "LUISA",
+          "t": "Actually it's not for shopping today, which would be my normal reason, but to see the dentist.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Right."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Thanks."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Now in this last section I'd like you to give us some ideas about the facilities and arrangements in the city for getting to and from work, er - any suggestions you have for improvements."
+        },
+        {
+          "s": "LUISA",
+          "t": "Well, something I've thought about for some time is that when I do walk and I'm doing a later shift, I think the lighting should be better.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Yes, good point."
+        },
+        {
+          "s": "LUISA",
+          "t": "And of course, I think it's a real shame they've been cutting down on the number of footpaths."
+        },
+        {
+          "s": "LUISA",
+          "t": "They should have more of those."
+        },
+        {
+          "s": "LUISA",
+          "t": "Then people would walk more."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Yes, right."
+        },
+        {
+          "s": "LUISA",
+          "t": "And, I don't think there are enough trains."
+        },
+        {
+          "s": "LUISA",
+          "t": "That's why I don't use them - you have to wait so long.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Thanks."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "And finally I'd like to ask your opinion on cycling."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "As you may know, there's a drive in the city to get more people to cycle to work."
+        },
+        {
+          "s": "LUISA",
+          "t": "Right."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "But we realise that there are things which the council, but also employers, might do to help encourage workers to cycle to work."
+        },
+        {
+          "s": "LUISA",
+          "t": "Yep."
+        },
+        {
+          "s": "LUISA",
+          "t": "Well, I have thought about it and where I work there are no safe places to leave your bikes.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "OK."
+        },
+        {
+          "s": "LUISA",
+          "t": "And also, I'd have to cycle uphill and on a hot day I'd arrive at work pretty sweaty so I think I'd need a shower somewhere at work.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Right."
+        },
+        {
+          "s": "LUISA",
+          "t": "And I suppose the last thing is that I wouldn't be all that confident about cycling on such busy roads."
+        },
+        {
+          "s": "LUISA",
+          "t": "I think I'd like to see you offering training for that, you know, I'd feel a lot better about starting if that was the case.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Well, that's very helpful."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Thank you very much for your time."
+        },
+        {
+          "s": "LUISA",
+          "t": "No problem."
+        },
+        {
+          "s": "LUISA",
+          "t": "Bye."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c10/t2p2.mp3",
+      "duration": 0,
+      "title": "City Developments",
+      "groups": [
+        {
+          "range": [
+            11,
+            14
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "New city developments",
+          "questions": [
+            {
+              "n": 11,
+              "text": "The idea for the two new developments in the city came from",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "local people."
+                },
+                {
+                  "k": "B",
+                  "text": "the City Council."
+                },
+                {
+                  "k": "C",
+                  "text": "the SWRDC."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "What is unusual about Brackenside pool?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "its architectural style"
+                },
+                {
+                  "k": "B",
+                  "text": "its heating system"
+                },
+                {
+                  "k": "C",
+                  "text": "its method of water treatment"
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "Local newspapers have raised worries about",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the late opening date."
+                },
+                {
+                  "k": "B",
+                  "text": "the cost of the project."
+                },
+                {
+                  "k": "C",
+                  "text": "the size of the facilities."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "What decision has not yet been made about the pool?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "whose statue will be at the door"
+                },
+                {
+                  "k": "B",
+                  "text": "the exact opening times"
+                },
+                {
+                  "k": "C",
+                  "text": "who will open it"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            20
+          ],
+          "type": "matching",
+          "instruction": "Which feature is related to each of the following areas of the world represented in the playground?",
+          "limit": "Choose SIX answers from the box and write the correct letter, A-I, next to Questions 15-20.",
+          "optionsTitle": "Features",
+          "options": [
+            {
+              "k": "A",
+              "text": "ancient forts"
+            },
+            {
+              "k": "B",
+              "text": "waterways"
+            },
+            {
+              "k": "C",
+              "text": "ice and snow"
+            },
+            {
+              "k": "D",
+              "text": "jewels"
+            },
+            {
+              "k": "E",
+              "text": "local animals"
+            },
+            {
+              "k": "F",
+              "text": "mountains"
+            },
+            {
+              "k": "G",
+              "text": "music and film"
+            },
+            {
+              "k": "H",
+              "text": "space travel"
+            },
+            {
+              "k": "I",
+              "text": "volcanoes"
+            }
+          ],
+          "itemsTitle": "Areas of the world",
+          "items": [
+            {
+              "n": 15,
+              "text": "Asia"
+            },
+            {
+              "n": 16,
+              "text": "Antarctica"
+            },
+            {
+              "n": 17,
+              "text": "South America"
+            },
+            {
+              "n": 18,
+              "text": "North America"
+            },
+            {
+              "n": 19,
+              "text": "Europe"
+            },
+            {
+              "n": 20,
+              "text": "Africa"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm very pleased to have this opportunity to say a little about two exciting new developments in the city: the Brackenside Open-Air Swimming Pool and the children's Adventure Playground in Central Park."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As many of you may know, the idea for these initiatives came from you, the public, in the extensive consultation exercise which the City Council conducted last year.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And they have been realised using money from the SWRDC - the South West Regional Development Commission."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First of all, Brackenside Pool."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As many of the older members of the audience will remember, there used to be a wonderful open-air pool on the sea front 30 years ago but it had to close when it was judged to be unsafe."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For the design of this new heated pool, we were very happy to secure the talents of internationally renowned architect Ellen Wendon, who has managed to combine a charming 1930s design, which fits in so well with many of the other buildings in the area, with up-to-the-minute features such as a recycling system - the only one of its kind in the world - which enables seawater to be used in the pool.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, there has been quite a bit of discussion in the local press about whether there would be enough room for the number of visitors we're hoping to attract, but the design is deceptive and there have been rigorous checks about capacity.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Also, just in case you were wondering, we're on schedule for a June 15th opening date and well within budget: a testimony to the excellent work of local contractors Hickman's."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We hope that as many people as possible will be there on June 15th."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We have engaged award-winning actress Coral White to declare the pool open and there'll be drinks and snacks available at the pool side."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There'll also be a competition for the public to decide on the sculpture we plan to have at the entrance: you will decide which famous historical figure from the city we should have.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And now, moving on to the Central Park Playground, which we're pleased to announce has just won the Douglas Award for safety: the news came through only last week."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The unique design is based on the concept of the Global Village, with the playground being divided into six areas showing different parts of the world - each with a representative feature."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example, there is a section on Asia, and this is represented by rides and equipment in the shape of snakes, orang-utans, tigers and so on - fauna native to the forests of the region.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Moving south to the Antarctic - we couldn't run to an ice rink I'm afraid but opted instead 136 for climbing blocks in the shape of mountains 一 I thought they could have had slides for the glaciers but the designers did want to avoid being too literal!",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then on to South America - and here the theme is El Dorado - games replicating the search for mines full of precious stones.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And then moving up to North America, here there was considerable debate - I know the contribution of cinema and jazz was considered but the designers finally opted for rockets and the International Space Station.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Eastwards to Europe then, and perhaps the most traditional choice of all the areas: medieval castles and other fortifications.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then last, but not least, moving south to Africa and a whole set of wonderful mosaics and trails to represent the great rivers of this fascinating and varied continent.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, the opening date for our Global Playground is 10th July."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And again we'd love to see you there - so make a date and come and see this magnificent, original new amenity right in the heart of the city."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c10/t2p3.mp3",
+      "duration": 0,
+      "title": "Thor Heyerdahl",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO hobbies was Thor Heyerdahl very interested in as a youth?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "camping"
+            },
+            {
+              "k": "B",
+              "text": "climbing"
+            },
+            {
+              "k": "C",
+              "text": "collecting"
+            },
+            {
+              "k": "D",
+              "text": "hunting"
+            },
+            {
+              "k": "E",
+              "text": "reading"
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            24
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which do the speakers say are the TWO reasons why Heyerdahl went to live on an island?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "to examine ancient carvings"
+            },
+            {
+              "k": "B",
+              "text": "to experience an isolated place"
+            },
+            {
+              "k": "C",
+              "text": "to formulate a new theory"
+            },
+            {
+              "k": "D",
+              "text": "to learn survival skills"
+            },
+            {
+              "k": "E",
+              "text": "to study the impact of an extreme environment"
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "The later life of Thor Heyerdahl",
+          "questions": [
+            {
+              "n": 25,
+              "text": "According to Victor and Olivia, academics thought that Polynesian migration from the east was impossible due to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the fact that Eastern countries were far away."
+                },
+                {
+                  "k": "B",
+                  "text": "the lack of materials for boat building."
+                },
+                {
+                  "k": "C",
+                  "text": "the direction of the winds and currents."
+                }
+              ]
+            },
+            {
+              "n": 26,
+              "text": "Which do the speakers agree was the main reason for Heyerdahl's raft journey?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "to overcome a research setback"
+                },
+                {
+                  "k": "B",
+                  "text": "to demonstrate a personal quality"
+                },
+                {
+                  "k": "C",
+                  "text": "to test a new theory"
+                }
+              ]
+            },
+            {
+              "n": 27,
+              "text": "What was most important to Heyerdahl about his raft journey?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the fact that he was the first person to do it"
+                },
+                {
+                  "k": "B",
+                  "text": "the speed of crossing the Pacific"
+                },
+                {
+                  "k": "C",
+                  "text": "the use of authentic construction methods"
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "Why did Heyerdahl go to Easter Island?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "to build a stone statue"
+                },
+                {
+                  "k": "B",
+                  "text": "to sail a reed boat"
+                },
+                {
+                  "k": "C",
+                  "text": "to learn the local language"
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "In Olivia's opinion, Heyerdahl's greatest influence was on",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "theories about Polynesian origins."
+                },
+                {
+                  "k": "B",
+                  "text": "the development of archaeological methodology."
+                },
+                {
+                  "k": "C",
+                  "text": "establishing archaeology as an academic subject."
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "Which criticism do the speakers make of William Oliver's textbook?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Its style is out of date."
+                },
+                {
+                  "k": "B",
+                  "text": "Its content is over-simplified."
+                },
+                {
+                  "k": "C",
+                  "text": "Its methodology is flawed."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "VICTOR",
+          "t": "Right, well, for our presentation shall I start with the early life of Thor Heyerdahl?"
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Sure."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Why don't you begin with describing the type of boy he was, especially his passion for collecting things.",
+          "q": [
+            21,
+            22
+          ]
+        },
+        {
+          "s": "VICTOR",
+          "t": "That's right, he had his own little museum."
+        },
+        {
+          "s": "VICTOR",
+          "t": "And I think it's unusual for children to develop their own values and not join in their parents' hobbies; I'm thinking of how Heyerdahl wouldn't go hunting with his dad, for example."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Yeah, he preferred to learn about nature by listening to his mother read to him."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "And quite early on he knew he wanted to become an explorer when he grew up."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "That came from his camping trips he went on in Norway I think ..."
+        },
+        {
+          "s": "VICTOR",
+          "t": "No, it was climbing that he spent his time on as a young man.",
+          "q": [
+            21,
+            22
+          ]
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Oh, right ... After university he married a classmate and together, they decided to experience living on a small island, to find out how harsh weather conditions shaped people's lifestyles.",
+          "q": [
+            23,
+            24
+          ]
+        },
+        {
+          "s": "VICTOR",
+          "t": "As part of their preparation before they left home, they learnt basic survival skills like building a shelter."
+        },
+        {
+          "s": "VICTOR",
+          "t": "I guess they needed that knowledge in order to live wild in a remote location with few inhabitants, cut off by the sea, which is what they were aiming to do."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "An important part of your talk should be the radical theory Heyerdahl formed from examining mysterious ancient carvings that he happened to find on the island."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "I think you should finish with that."
+        },
+        {
+          "s": "VICTOR",
+          "t": "OK."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "All right, Victor, so after your part I'll talk about Thor Heyerdahl's adult life, continuing from the theory he had about Polynesian migration."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Up until that time of course, academics had believed that humans first migrated to the islands in Polynesia from Asia, in the west."
+        },
+        {
+          "s": "VICTOR",
+          "t": "Yes, they thought that travel from the east was impossible, because of the huge, empty stretch of ocean that lies between the islands and the nearest inhabited land.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Yes, but Heyerdahl spent ages studying the cloud movements, ocean currents and wind patterns to find if it was actually possible."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "And another argument was that there was no tradition of large ship-building in the communities lying to the east of Polynesia."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "But Heyerdahl knew they made lots of coastal voyages in locally built canoes."
+        },
+        {
+          "s": "VICTOR",
+          "t": "Yes, or sailing on rafts, as was shown by the long voyage that Heyerdahl did next."
+        },
+        {
+          "s": "VICTOR",
+          "t": "It was an incredibly risky journey to undertake - sometimes I wonder if he did that trip for private reasons, you know?"
+        },
+        {
+          "s": "VICTOR",
+          "t": "To show others that he could have spectacular adventures."
+        },
+        {
+          "s": "VICTOR",
+          "t": "What do you think, Olivia?"
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Well, I think it was more a matter of simply trying out his idea, to see if migration from the east was possible.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "VICTOR",
+          "t": "Yes, that's probably it."
+        },
+        {
+          "s": "VICTOR",
+          "t": "And the poor guy suffered a bit at that time because the war forced him to stop his work for some years ..."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Yes."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "When he got started again and planned his epic voyage, do you think it was important to him that he achieve it before anyone else did?"
+        },
+        {
+          "s": "VICTOR",
+          "t": "Um, I haven't read anywhere that that was his motivation."
+        },
+        {
+          "s": "VICTOR",
+          "t": "The most important factor seems to have been that he use only ancient techniques and local materials to build his raft.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Yes."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "I wonder how fast it went."
+        },
+        {
+          "s": "VICTOR",
+          "t": "Well, it took them 97 days from South America to the Pacific Islands."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Mm."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "And after that, Heyerdahl went to Easter Island, didn't he?"
+        },
+        {
+          "s": "OLIVIA",
+          "t": "We should mention the purpose of that trip."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "I think he sailed there in a boat made out of reeds."
+        },
+        {
+          "s": "VICTOR",
+          "t": "No, that was later on in Egypt, Olivia."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Oh, yes, that's right."
+        },
+        {
+          "s": "VICTOR",
+          "t": "But what he wanted to do was talk to the local people about their old stone carvings and then make one himself to learn more about the process.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "OLIVIA",
+          "t": "I see."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Well, what a great life."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Even though many of his theories have been disproven, he certainly left a lasting impression on many disciplines, didn't he?"
+        },
+        {
+          "s": "OLIVIA",
+          "t": "To my mind, he was the first person to establish what modern academics call practical archaeology.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "OLIVIA",
+          "t": "I mean, that they try to recreate something from the past today, like he did with his raft trip."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "It's unfortunate that his ideas about where Polynesians originated from have been completely discredited."
+        },
+        {
+          "s": "VICTOR",
+          "t": "Yes."
+        },
+        {
+          "s": "VICTOR",
+          "t": "Right, well, I'll prepare a PowerPoint slide at the end that acknowledges our sources."
+        },
+        {
+          "s": "VICTOR",
+          "t": "I mainly used The Life and Work of Thor Heyerdahl by William Oliver."
+        },
+        {
+          "s": "VICTOR",
+          "t": "I thought the research methods he used were very sound, although I must say I found the overall tone somewhat old-fashioned.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "VICTOR",
+          "t": "I think they need to do a new, revised edition."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "Yeah, I agree."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "What about the subject matter - I found it really challenging!"
+        },
+        {
+          "s": "VICTOR",
+          "t": "Well, it's a complex issue ..."
+        },
+        {
+          "s": "OLIVIA",
+          "t": "I thought the book had lots of good points. What did you think of ..."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c10/t2p4.mp3",
+      "duration": 0,
+      "title": "The Future of Management",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "THE FUTURE OF MANAGEMENT",
+          "lines": [
+            "## Business markets",
+            "greater {{31}} among companies",
+            "increase in power of large {{32}} companies",
+            "rising {{33}} in certain countries",
+            "## External influences on businesses",
+            "more discussion with {{34}} before making business decisions",
+            "environmental concerns which may lead to more {{35}}",
+            "## Business structures",
+            "more teams will be formed to work on a particular {{36}}",
+            "businesses may need to offer hours that are {{37}} or the chance to work remotely",
+            "## Management styles",
+            "increasing need for managers to provide good {{38}}",
+            "changes influenced by {{39}} taking senior roles",
+            "## Changes in the economy",
+            "service sector continues to be important",
+            "increasing value of intellectual property",
+            "more and more {{40}} workers"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Well, I've been talking to managers in a number of businesses, and reading surveys about the future of management."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And what I'm going to present in this seminar is a few ideas about how the activity is likely to change in the next ten years."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It isn't a scientific, statistical analysis - just some ideas for us to discuss."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One area I want to mention is business markets, and I'm sure a really significant development will be a major increase in competition, with companies from all round the world trying to sell similar products.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Consumers will have much more choice - for instance, food products sold in Australia might be manufactured in the USA, China, Finland and dozens of other countries."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At the same time, mergers and takeovers mean that governments are actually losing power to major global corporations."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We can probably all think of companies that exert a great deal of influence, which may be good for consumers.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A third point I want to make about markets is that in the rapidly expanding economies, such as India, China, Brazil and Russia, demand is growing very fast.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is putting pressure on resources all over the world."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I think businesses are becoming more open to external influences."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In particular, companies are consulting customers more and more before making their business decisions.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Companies are finding out what they want and providing it, instead of making products and then trying to sell them, which is the model of years ago."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another influence is that concerns about the environment will force manufacturers to extend product lifecycles, to reduce the amount of pollution and waste.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And in some cases, regulation will need to be strengthened."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Many societies are much more fluid and democratic, and the structure of companies is changing to reflect that."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I think we're going to see a greater emphasis within companies on teams created with a specific project in mind.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And when they're completed, the teams will be disbanded and new ones formed."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "More and more people see work as simply one part of their lifestyle, and not the most important one, and as the workforce is shrinking in some countries, businesses are having to compete for staff instead of being able to choose among a lot of applicants."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Typical examples that will attract and retain staff are traditional ones like flexible hours and - something that has been made possible by advances in technology - remote working, with people based at their home, abroad, or almost anywhere they choose.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Management styles will almost certainly continue to change."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Senior managers will require a lot more than the efficiency that they've always needed."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Above all they'll need great skills in leadership, so that their organisation can initiate and respond to change in a fast-moving world, where they face lots of competing requirements and potential conflicts.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In most of the world, the senior managers of large businesses are mainly men in their fifties and sixties."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The predominant style of management will almost certainly become more consultative and collaborative, caused above all, by more women moving into senior management positions.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Many of the changes are influenced by developments in the wider economy."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The traditional emphasis of business was manufacturing, and of course the service sector is very important."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But we shouldn't overlook the growing financial contribution of IP, that is, intellectual property."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some books and films generate enormous sums from the sale of related DVDs, music, games, clothes, and so on."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another point I'd like to make is that although I've been talking about companies, one trend that they have to face is the move away from people working for the same employer for years."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Instead, more and more people are becoming self-employed, to gain the freedom and control over their lives that they're unlikely to get from being employed.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK, well that's all I want to say, so let's open it up for discussion."
+        }
+      ]
+    }
+  ]
+}
