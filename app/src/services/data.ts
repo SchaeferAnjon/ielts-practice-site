@@ -60,7 +60,8 @@ export const paperUrl = {
   listening: (id: string) => withBase(`/data/listening/${id}.json`),
   reading: (id: string) => withBase(`/data/reading/${id}.json`),
   writing: (id: string) => withBase(`/data/writing/${id}.json`),
-  speaking: () => withBase(`/data/speaking.json`),
+  speaking: (file = "speaking.json") => withBase(`/data/${file}`),
+  speakingSeasons: () => withBase(`/data/speaking-seasons.json`),
 };
 
 export type { ListeningPaper, ReadingPaper, WritingPaper, SpeakingBank };

@@ -8,7 +8,9 @@ const CATS = [["all", "全部"], ["new", "本季新题"], ["retained", "保留�
 const THEMES = [["all", "全部"], ["people", "人物"], ["place", "地点"], ["event", "经历"], ["thing", "事物"]] as const;
 
 export default function Speaking() {
-  const { data: bank, error } = useJson<SpeakingBank>(paperUrl.speaking());
+  const { data: seasons } = useJson<{ file: string; label: string }[]>(paperUrl.speakingSeasons());
+  const [seasonFile, setSeasonFile] = useState("speaking.json");
+  const { data: bank, error } = useJson<SpeakingBank>(paperUrl.speaking(seasonFile));
   const [part, setPart] = useState<1 | 2>(1);
   const [cat, setCat] = useState<string>("all");
   const [theme, setTheme] = useState<string>("all");
@@ -52,7 +54,13 @@ export default function Speaking() {
     <div className="wrap" style={{ paddingTop: 20 }}>
       <div className="card" style={{ padding: "16px 20px" }}>
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline" }}>
-          <h2 style={{ margin: 0 }}>雅思口语题库 <span className="tag red">{meta.season}</span></h2>
+          <h2 style={{ margin: 0 }}>雅思口语题库 <span className="tag red">{meta.season}</span>
+            {seasons && seasons.length > 1 && (
+              <select className="ai-input" style={{ width: "auto", marginLeft: 10, height: 28, fontSize: 13 }} value={seasonFile} onChange={(e) => { setSeasonFile(e.target.value); setSel(null); }}>
+                {seasons.map((x) => <option key={x.file} value={x.file}>{x.label}</option>)}
+              </select>
+            )}
+          </h2>
           <span className="small muted">来源：{meta.source}（文字版 PDF 全量抽取）· {meta.topics} 个话题 / {meta.questions} 道题 · {meta.answered} 题带真实参考答案</span>
         </div>
         <div className="filter-row">
