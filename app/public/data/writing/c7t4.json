@@ -1,0 +1,83 @@
+{
+  "id": "c7t4",
+  "book": "剑桥雅思7",
+  "test": 4,
+  "title": "剑7 Test 4 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "pie-chart",
+      "kindZh": "饼图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The pie charts below show units of electricity production by fuel source in Australia and France in 1980 and 2000.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c7t4-task1.webp",
+      "imageCaption": "Units of electricity production by fuel source in Australia and France, 1980 and 2000",
+      "data": {
+        "unit": "units of electricity",
+        "years": [
+          "Coal",
+          "Oil",
+          "Natural Gas",
+          "Hydro Power",
+          "Nuclear Power"
+        ],
+        "series": {
+          "Australia 1980": [
+            50,
+            10,
+            20,
+            20,
+            0
+          ],
+          "Australia 2000": [
+            130,
+            2,
+            2,
+            36,
+            0
+          ],
+          "France 1980": [
+            25,
+            20,
+            25,
+            5,
+            15
+          ],
+          "France 2000": [
+            25,
+            25,
+            2,
+            2,
+            126
+          ]
+        }
+      },
+      "sample": {
+        "band": 9,
+        "text": "The charts compare the sources of electricity in Australia and France in the years 1980 and 2000. Between these years electricity production almost doubled, rising from 100 units to 170 in Australia, and from 90 to 180 units in France.\n\nIn 1980 Australia used coal as the main electricity source (50 units) and the remainder was produced from natural gas, hydro power (each producing 20 units) and oil (which produced only 10 units). By 2000, coal had become the fuel for more than 75% of electricity produced and only hydro continued to be another significant source supplying approximately 20%.\n\nIn contrast, France used coal as a source for only 25 units of electricity in 1980, which was matched by natural gas. The remaining 40 units were produced largely from oil and nuclear power, with hydro contributing only 5 units. But by 2000 nuclear power, which was not used at all in Australia, had developed into the main source, producing almost 75% of electricity, at 126 units, while coal and oil together produced only 50 units. Other sources were no longer significant.\n\nOverall, it is clear that by 2000 these two countries relied on different principal fuel sources: Australia relied on coal and France on nuclear power.",
+        "comment": "This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Some people think that universities should provide graduates with the knowledge and skills needed in the workplace. Others think that the true function of a university should be to give access to knowledge for its own sake, regardless of whether the course is useful to an employer.",
+        "What, in your opinion, should be the main function of a university?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 5,
+        "text": "What knowledge and skills should universities provide has been argued for many years. Some people think that the true function of universities provide knowledge for their own purpose, but nowadays, more and more people point out that universities should provide graduates with the knowledge and skills according to the workplace.\n\nThe first reason for universities should provide these knowledge and skill is the students' needs. Obviously, the most of the students go to university purpose of is to get some knowledge\n\nand skills which could make them have the ability to get a job. If a university does not provide these knowledge and skills, the students might not get a job and they would be very disappointed. As a result, the university would lose its students.\n\nMoreover, providing knowledge and skills needed in the workplace maks a university progress. The new skills and information always are initiated in the workplace, so focusing on the needs of the workplace the university could get sound strategies to do research and make it more mordenization.\n\nLastly, providing these knowledge and skills could benefit our country which usually gives a financial support to universities. Having these knowledge and skills, students are more easy to get a job, and this can make our countries' economy strong.\n\nIn conclusion, it can be said that providing the knowledge and skills which the workplace needs is every universities' basic function.",
+        "comment": "This answer is less than 250 words and it does not address all parts of the question, so it loses marks. Nevertheless, some relevant ideas and a position on the issue are presented. Ideas are organised and the structure of the answer is clearly signalled. Paragraphing is not always logical, however. There is some good use of linkers, but there is also a lot of repetition due to inadequate use of referencing and substitution. The high level of repetition ['knowledge and skills' is repeated nine times] also indicates limitations in the range of vocabulary although, apart from language given in the rubric, there is just sufficient additional vocabulary for the task. The answer includes attempts at complex sentence forms, but these are generally awkwardly phrased and tend to require some re-reading to understand. Nevertheless, there are examples of accurate complex structures."
+      }
+    }
+  ]
+}

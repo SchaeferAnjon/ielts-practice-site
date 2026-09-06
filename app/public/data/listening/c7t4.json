@@ -1,0 +1,1399 @@
+{
+  "id": "c7t4",
+  "book": "剑桥雅思7",
+  "test": 4,
+  "title": "剑7 Test 4 · Listening",
+  "source": "Cambridge IELTS 7, Test 4（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "Keiko"
+    ],
+    "2": [
+      "106337"
+    ],
+    "3": [
+      "4 months",
+      "four months"
+    ],
+    "4": [
+      "English",
+      "English Studies",
+      "Advanced English",
+      "Advanced English Studies"
+    ],
+    "5": [
+      "young children",
+      "children"
+    ],
+    "6": [
+      "pets"
+    ],
+    "7": [
+      "seafood"
+    ],
+    "8": [
+      "tennis"
+    ],
+    "9": [
+      "trains",
+      "the train",
+      "train"
+    ],
+    "10": [
+      "this afternoon",
+      "that afternoon",
+      "afternoon"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "B"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "A"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "cycling"
+    ],
+    "19": [
+      "biology lesson",
+      "biology lessons"
+    ],
+    "20": [
+      "viewing shelter"
+    ],
+    "21": [
+      "5",
+      "five"
+    ],
+    "22": [
+      "assessed"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "C"
+    ],
+    "27": [
+      "media room"
+    ],
+    "28": [
+      "resources room"
+    ],
+    "29": [
+      "embassy"
+    ],
+    "30": [
+      "statistics",
+      "stats"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "C"
+    ],
+    "33": [
+      "A"
+    ],
+    "34": [
+      "water"
+    ],
+    "35": [
+      "meat",
+      "cheese"
+    ],
+    "36": [
+      "meat",
+      "cheese"
+    ],
+    "37": [
+      "5th taste",
+      "fifth taste",
+      "new taste"
+    ],
+    "38": [
+      "common"
+    ],
+    "39": [
+      "bitterness"
+    ],
+    "40": [
+      "minerals"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c7/t4p1.mp3",
+      "duration": 0,
+      "title": "Homestay Application",
+      "groups": [
+        {
+          "range": [
+            1,
+            6
+          ],
+          "type": "table",
+          "instruction": "Complete the form below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "HOMESTAY APPLICATION",
+          "table": {
+            "head": [
+              "Item",
+              "Details"
+            ],
+            "rows": [
+              [
+                "Surname",
+                "Yuichini"
+              ],
+              [
+                "First name",
+                "{{1}}"
+              ],
+              [
+                "Sex",
+                "female"
+              ],
+              [
+                "Nationality",
+                "Japanese"
+              ],
+              [
+                "Passport number",
+                "{{2}}"
+              ],
+              [
+                "Age",
+                "28 years"
+              ],
+              [
+                "Present address",
+                "Room 21C, Willow College"
+              ],
+              [
+                "Length of homestay",
+                "approx {{3}}"
+              ],
+              [
+                "Course enrolled in",
+                "{{4}}"
+              ],
+              [
+                "Family preferences",
+                "no {{5}}\nno objection to {{6}}"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            7,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Answer the questions below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "General questions",
+          "lines": [
+            "What does the student particularly like to eat? {{7}}",
+            "What sport does the student play? {{8}}",
+            "What mode of transport does the student prefer? {{9}}",
+            "When will the student find out her homestay address? {{10}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "OFFICER",
+          "t": "Yes, what can I do for you?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "My friend is in homestay ... and she really enjoys it .. . so I'd like to join a family as well."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Okay, so let me get some details."
+        },
+        {
+          "s": "OFFICER",
+          "t": "What's your name?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "My name is Keiko Yuichini."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Could you spell your family name for me?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "It's ..."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Yuichini, that's Y-U-I-C-H-I-N-1."
+        },
+        {
+          "s": "OFFICER",
+          "t": "And your first name?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "It's Keiko."
+        },
+        {
+          "s": "STUDENT",
+          "t": "K-E-I-K-0.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "OFFICER",
+          "t": "That's Keiko Yuichini . . . okay .. . and you're female."
+        },
+        {
+          "s": "OFFICER",
+          "t": "And your nationality?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'm Japanese."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Right and could I see your passport, please?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Here it is ..."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Okay .. . your passport number is 106337 ..."
+        },
+        {
+          "s": "OFFICER",
+          "t": "And you're how old?",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'm twenty-eight years old."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Now, you live at one of the colleges ... which one?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Willow College, umm ... Room 21C"
+        },
+        {
+          "s": "OFFICER",
+          "t": "Right, 21C Willow College, and how long are you planning on staying with homestay?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "About four months ... longer if I like it . . .",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "OFFICER",
+          "t": "And what course are you enrolled in?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Well, I've enrolled for twenty weeks in the ... urn ..."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Advanced English Studies because I need help with my writing ... and I'm nearly at the end of my first five-week course.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "OFFICER",
+          "t": "Okay . .."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Do you have any preference for a family with children or without children?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "I prefer . .."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I mean I like young children, but I'd like to be with older people .. . you know ... adults .. . someone around my age.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "OFFICER",
+          "t": "Okay, and what about pets?",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "I am a veterinarian so that's fine ... the more the better."
+        },
+        {
+          "s": "OFFICER",
+          "t": "All right, now what about you?"
+        },
+        {
+          "s": "OFFICER",
+          "t": "Are you a vegetarian or do you have any special food requirements?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "No, I am not a vegetarian ... but I don't eat a lot of meat ..."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I really like seafood.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "OFFICER",
+          "t": "And what are your hobbies?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "I like reading and going to the movies."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Do you play any sports?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Yes, I joined the handball team, but I didn't like that . . . so I stopped playing."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Now I play tennis on the weekend with my friends. . .",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "OFFICER",
+          "t": "All right, let's see, name, age, now the location."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Are you familiar with the public transport system?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "No ..."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'm not really because I have been living on campus . .."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I've been to the city a few times on the bus, but they are always late."
+        },
+        {
+          "s": "OFFICER",
+          "t": "What about the trains?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "I like catching the train .. . they are much faster . . .",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "OFFICER",
+          "t": "Now, let me go check on the computer and see who I've got ..."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Listen, leave it with me .. ."
+        },
+        {
+          "s": "OFFICER",
+          "t": "I'll check my records and I'll give you details this afternoon.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "Thank you for helping me .. ."
+        },
+        {
+          "s": "OFFICER",
+          "t": "It's a pleasure."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Bye."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Bye."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c7/t4p2.mp3",
+      "duration": 0,
+      "title": "Bicentennial Park Tour",
+      "groups": [
+        {
+          "range": [
+            11,
+            14
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 11,
+              "text": "What kind of tour is Sally leading?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a bus tour"
+                },
+                {
+                  "k": "B",
+                  "text": "a train tour"
+                },
+                {
+                  "k": "C",
+                  "text": "a walking tour"
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "The original buildings on the site were",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "houses."
+                },
+                {
+                  "k": "B",
+                  "text": "industrial buildings."
+                },
+                {
+                  "k": "C",
+                  "text": "shops."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "The local residents wanted to use the site for",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "leisure."
+                },
+                {
+                  "k": "B",
+                  "text": "apartment blocks."
+                },
+                {
+                  "k": "C",
+                  "text": "a sports centre."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "The Tower is at the centre of the",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "nature reserve."
+                },
+                {
+                  "k": "B",
+                  "text": "formal gardens."
+                },
+                {
+                  "k": "C",
+                  "text": "Bicentennial Park."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            17
+          ],
+          "type": "matching",
+          "instruction": "Label the plan below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer. 原题为地图标注题，见原书第84页公园平面图；此处以位置描述代替地图图像。",
+          "title": "Olympic Site park plan",
+          "optionsTitle": "What is located there?",
+          "options": [
+            {
+              "k": "A",
+              "text": "car park"
+            },
+            {
+              "k": "B",
+              "text": "rose garden"
+            },
+            {
+              "k": "C",
+              "text": "cafe"
+            }
+          ],
+          "itemsTitle": "Locations on the plan",
+          "items": [
+            {
+              "n": 15,
+              "text": "a diamond-shaped area at the bottom right of the plan, next to the railway line, on the opposite side from the Indoor Arena and close to the Station"
+            },
+            {
+              "n": 16,
+              "text": "the curved, semi-circular structure at the bottom left of the plan where the Benches are drawn"
+            },
+            {
+              "n": 17,
+              "text": "a square area between the two clusters of trees, just below the Island, north of the Tower"
+            }
+          ]
+        },
+        {
+          "range": [
+            18,
+            20
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Nature Reserve",
+          "table": {
+            "head": [
+              "Area",
+              "Facility",
+              "Activity"
+            ],
+            "rows": [
+              [
+                "The Mangroves",
+                "boardwalk",
+                "{{18}}"
+              ],
+              [
+                "Frog Pond",
+                "outdoor classroom",
+                "{{19}}"
+              ],
+              [
+                "The Waterbird Refuge",
+                "{{20}}",
+                "bird watching"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Welcome to all of you . .. can everybody see and hear me? . .."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Good . .."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm Sally, your guide for this tour of the Bicentennial Park . .."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I hope that you're all wearing your most comfortable shoes and that you can keep up the pace.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So let's get under way on our tour around this wonderful park."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'll start today with some general background information."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There used to be a lot of factories in this area until the 1960s.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Creating the park required the demolition of lots of derelict buildings on the site, so most of the exciting park space all around you was originally warehouses and storehouses."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The idea of building a public park here was first discussed when a property developer proposed a high-rise housing development, but the local community wasn't happy."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If the land was to be cleaned up, they wanted to use the site for recreation."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Residents wanted open space for outdoor activities, rather than housing or even an indoor sports complex.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now to the Bicentennial Park itself."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It has two areas, a nature reserve and a formal park with man-made features and gardens."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The tall blue-and-white building in front of us is called The Tower and is the centre point for the formal gardens."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It stands twelve metres high, so follow me up the stairs to where we can take advantage of the fantastic views.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, here we are at the top of The Tower, and we're going to look at the view from each direction."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Out to the east, the large buildings about a kilometre away are on the Olympic site."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's an indoor arena for gymnastics, a stadium for track and field and a swimming pool for races and synchronised swimming and also diving."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you look carefully down there, you can see the train lines."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Olympic site has its own station to encourage the use of public transport."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There is also a car park, but it only holds a limited number of cars.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The formal park has some specially-created water features."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you look out here to the south, you can see a circular ornamental pond."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And around to the west, you can relax and sit on a bench to smell the flowers in the rose garden, and finally up to the north, if you look in front of you now, there's a lake with a small island in the centre, you can hire rowing boats at the boat shed, which you can't see from here, - but if you look through the trees, you can see the cafe, which has lovely views across the water.",
+          "q": [
+            16,
+            17
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK, let's climb down now."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We will go now and have a look at the nature reserve section of the park, which has opened up natural wetland to the public."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Mangroves have been made more accessible to visitors by the boardwalk built during the park's upgrade."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'd think that people would come here to look at the unusual plant life of the area, but in fact it's more often used for cycling and is very popular with the local clubs.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is the far end of the park and over there you can see the Frog Pond, a natural feature here long before the park was designed."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Just next to it we have our outdoor classroom, a favourite spot for school parties."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The area is now most often used by primary schools for biology lessons.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And finally let's pass by the Waterbird Refuge."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This area is in a sheltered part of the estuary, that's why the park's viewing shelter is a favourite spot for bird watchers who can use it to spy through binoculars.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You can watch a variety of water birds, but most visitors expect to see black swans when they come to the shelter."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You might spot one yourself right now!"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, here we are back at our starting point, the Visitor Centre."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c7/t4p3.mp3",
+      "duration": 0,
+      "title": "Geography Presentation Planning",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer.",
+          "lines": [
+            "The presentation will last 15 minutes.",
+            "There will be {{21}} minutes for questions.",
+            "The presentation will not be {{22}}."
+          ]
+        },
+        {
+          "range": [
+            23,
+            26
+          ],
+          "type": "matching",
+          "instruction": "What do the students decide about each topic for the geography presentation?",
+          "limit": "Write the correct letter, A, B or C, next to Questions 23-26.",
+          "optionsTitle": "Decisions",
+          "options": [
+            {
+              "k": "A",
+              "text": "They will definitely include this topic."
+            },
+            {
+              "k": "B",
+              "text": "They might include this topic."
+            },
+            {
+              "k": "C",
+              "text": "They will not include this topic."
+            }
+          ],
+          "itemsTitle": "Topics",
+          "items": [
+            {
+              "n": 23,
+              "text": "Geographical Location"
+            },
+            {
+              "n": 24,
+              "text": "Economy"
+            },
+            {
+              "n": 25,
+              "text": "Overview of Education System"
+            },
+            {
+              "n": 26,
+              "text": "Role of English Language"
+            }
+          ]
+        },
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "table": {
+            "head": [
+              "Information/visual aid",
+              "Where from?"
+            ],
+            "rows": [
+              [
+                "Overhead projector",
+                "the {{27}}"
+              ],
+              [
+                "Map of West Africa",
+                "the {{28}}"
+              ],
+              [
+                "Map of the islands",
+                "a tourist brochure"
+              ],
+              [
+                "Literacy figures",
+                "the {{29}}"
+              ],
+              [
+                "{{30}} on school places",
+                "as above"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "JULIE",
+          "t": "Remind me, Trevor ... how long is the presentation?"
+        },
+        {
+          "s": "TREVOR",
+          "t": "Dr White said three per hour."
+        },
+        {
+          "s": "JULIE",
+          "t": "So about twenty minutes?"
+        },
+        {
+          "s": "TREVOR",
+          "t": "Well ... it'll be fifteen minutes per presentation."
+        },
+        {
+          "s": "JULIE",
+          "t": "And five minutes for questions.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "TREVOR",
+          "t": "And is this one going to be assessed?",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "JULIE",
+          "t": "No .. . not this time round ... because it's the first one ... you know."
+        },
+        {
+          "s": "TREVOR",
+          "t": "Good news."
+        },
+        {
+          "s": "JULIE",
+          "t": "Well, Trevor, what are we going to include?"
+        },
+        {
+          "s": "TREVOR",
+          "t": "Well . .."
+        },
+        {
+          "s": "TREVOR",
+          "t": "Do you think we ought to give some historical background?"
+        },
+        {
+          "s": "JULIE",
+          "t": "Oh no .. . definitely not ... we won't have time!"
+        },
+        {
+          "s": "TREVOR",
+          "t": "OK ... but I think we ought to say something about the geographical location . . . cos not a lot of people know where the islands are ...",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "JULIE",
+          "t": "Yes . . ."
+        },
+        {
+          "s": "JULIE",
+          "t": "OK ..."
+        },
+        {
+          "s": "JULIE",
+          "t": "I'll take notes, shall I?"
+        },
+        {
+          "s": "TREVOR",
+          "t": "Yeah, that'll be a help ..."
+        },
+        {
+          "s": "JULIE",
+          "t": "So . .. geographical location ..."
+        },
+        {
+          "s": "TREVOR",
+          "t": "Then we ought to give an overview of the whole education system."
+        },
+        {
+          "s": "JULIE",
+          "t": "Shouldn't we say something about the economy ... you know agricultural produce ... minerals and so forth?"
+        },
+        {
+          "s": "TREVOR",
+          "t": "Well .. ."
+        },
+        {
+          "s": "TREVOR",
+          "t": "Dr White said we shouldn't go into that sort of detail."
+        },
+        {
+          "s": "JULIE",
+          "t": "But it's pretty important when you think about it ... you know because it does influence the education system . . .",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "TREVOR",
+          "t": "Look .. . let's think about that one later shall we?"
+        },
+        {
+          "s": "TREVOR",
+          "t": "Let's see how we're doing for time ..."
+        },
+        {
+          "s": "JULIE",
+          "t": "OK ... so .. . general overview of education",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "TREVOR",
+          "t": "Of course ... and then the role of English language . . .",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "JULIE",
+          "t": "Nope ... that goes in the Language Policy Seminar .. . don't you remember?"
+        },
+        {
+          "s": "TREVOR",
+          "t": "Are you sure?"
+        },
+        {
+          "s": "JULIE",
+          "t": "Positive."
+        },
+        {
+          "s": "TREVOR",
+          "t": "All right . . . so those are the topics we're going to be ... to be covering . . ."
+        },
+        {
+          "s": "JULIE",
+          "t": "We need to think about what to prepare . . ."
+        },
+        {
+          "s": "JULIE",
+          "t": "Dr White said he wanted us to use plenty of visuals and things and we might as well try them out when we're not being assessed . .."
+        },
+        {
+          "s": "TREVOR",
+          "t": "Well, the most important thing is the overhead projector . . .",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "JULIE",
+          "t": "No problem . .. we'll get that from the media room . . . must remember to book it . . ."
+        },
+        {
+          "s": "TREVOR",
+          "t": "Well ... we'll need a map of course."
+        },
+        {
+          "s": "JULIE",
+          "t": "Probably two ... one of the islands . .. large scale."
+        },
+        {
+          "s": "TREVOR",
+          "t": "And one of West Africa."
+        },
+        {
+          "s": "JULIE",
+          "t": "Well, the West African one is no problem .. ."
+        },
+        {
+          "s": "JULIE",
+          "t": "There's one in the Resources Room.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "TREVOR",
+          "t": "Oh yeah, of course, the resources room; the islands are going to be more of a problem."
+        },
+        {
+          "s": "JULIE",
+          "t": "Tell you what ... there's a very clear map of Santiago in that tourist brochure I showed you last week."
+        },
+        {
+          "s": "JULIE",
+          "t": "Don't you remember it?"
+        },
+        {
+          "s": "TREVOR",
+          "t": "Oh yeah .. . that's right; we can just use the tourist brochure."
+        },
+        {
+          "s": "JULIE",
+          "t": "We also need statistics .. . on several different things."
+        },
+        {
+          "s": "TREVOR",
+          "t": "Literacy rates."
+        },
+        {
+          "s": "JULIE",
+          "t": "Yes, and school places."
+        },
+        {
+          "s": "TREVOR",
+          "t": "How about the encyclopaedia?"
+        },
+        {
+          "s": "JULIE",
+          "t": "Nah . . . not up-to-date enough!"
+        },
+        {
+          "s": "TREVOR",
+          "t": "Mmm . .. why don't we call the embassy?",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "JULIE",
+          "t": "Oh .. . someone's enthusiastic!"
+        },
+        {
+          "s": "TREVOR",
+          "t": "Well ... if something's worth doing . .."
+        },
+        {
+          "s": "JULIE",
+          "t": "I know . . . it's worth doing well . . ."
+        },
+        {
+          "s": "JULIE",
+          "t": "OK."
+        },
+        {
+          "s": "TREVOR",
+          "t": "We can find out statistics on school places from them as well.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "JULIE",
+          "t": "Might as well."
+        },
+        {
+          "s": "TREVOR",
+          "t": "Look, Julie, it's almost time for our tutorials .. . we can meet again on Monday . .. but we need to prepare some stuff before then ..."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c7/t4p4.mp3",
+      "duration": 0,
+      "title": "Monosodium Glutamate (MSG)",
+      "groups": [
+        {
+          "range": [
+            31,
+            33
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Monosodium Glutamate (MSG)",
+          "questions": [
+            {
+              "n": 31,
+              "text": "The speaker says the main topic of the lecture is",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the history of monosodium glutamate."
+                },
+                {
+                  "k": "B",
+                  "text": "the way monosodium glutamate works."
+                },
+                {
+                  "k": "C",
+                  "text": "where monosodium glutamate is used."
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "In 1908, scientists in Japan",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "made monosodium glutamate."
+                },
+                {
+                  "k": "B",
+                  "text": "began using kombu."
+                },
+                {
+                  "k": "C",
+                  "text": "identified glutamate."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "What change occurred in the manufacture of glutamate in 1956?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It began to be manufactured on a large scale."
+                },
+                {
+                  "k": "B",
+                  "text": "The Japanese began extracting it from natural sources."
+                },
+                {
+                  "k": "C",
+                  "text": "It became much more expensive to produce."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            34,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Monosodium Glutamate (MSG)",
+          "lines": [
+            "MSG contains",
+            "- glutamate (78.2%)",
+            "- sodium (12.2%)",
+            "- {{34}} (9.6%)",
+            "Glutamate is found in foods that contain protein such as {{35}} and {{36}}.",
+            "MSG is used in foods in many different parts of the world.",
+            "In 1908 Kikunae Ikeda discovered a {{37}}.",
+            "Our ability to detect glutamate makes sense because it is so {{38}} naturally.",
+            "John Prescott suggests that:",
+            "- sweetness tells us that a food contains carbohydrates.",
+            "- {{39}} tells us that a food contains toxins.",
+            "- sourness tells us that a food is spoiled.",
+            "- saltiness tells us that a food contains {{40}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "In today's lecture, I'm going to talk about Monosodium Glutamate, or MSG, as it's more. commonly known."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, MSG as you probably know, is a flavour enhancer which is used particularly in Chinese and Japanese cooking."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Today I am going to explore why it is so popular in these cuisines and, more importantly, how does it enhance the flavour of food?",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The main reason why MSG is more commonly used in Japanese meals is tradition."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For many thousands of years the Japanese have incorporated a type of seaweed known as kombu in their cooking, as they discovered it had the ability to make food taste better."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But it wasn't until 1908 that the ingredient in kombu which was responsible for the improvement in flavour was actually discovered to be glutamate by scientists working there.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "From 1908 until 1956, glutamate was produced commercially in Japan by a very slow and expensive means of extraction."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It was in 1956 that the speed of the process was improved, and industrial production increased dramatically and still continues to increase to this day.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In fact, hundreds of thousands of tonnes of MSG are produced all over the world today."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So what exactly is MSG?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, Monosodium Glutamate contains seventy-eight point two per cent glutamate, twelve point two per cent sodium and nine point six per cent water.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Glutamate is an amino acid that can be found naturally in all protein-containing foods, erm, so this includes food such as meat and cheese.",
+          "q": [
+            35,
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It is widely known that Chinese and Japanese food contains MSG but many people don't seem to be aware that it is also used in foods in other parts of the world."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example it is found in commercially made Italian pizzas, in American fast food and in Britain MSG is used in things like potato crisps."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, how exactly does MSG work?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, in the Western world, we commonly talk of four 'tastes', and I'm sure you're all familiar with the concepts of sweet, sour, bitter and salt."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, in 1908, Kikunae Ikeda identified a fifth 'taste'."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And it is thought that MSG intensifies this naturally occurring 'taste' in some food .",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It does make perfect evolutionary sense that we should have the ability to detect or taste glutamate because it is the amino acid which is most common in natural foods.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "John Prescott, an associate professor at the University of Chicago, suggests that this fifth taste serves a purpose just as the other tastes do."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He suggests that it signals to us the presence of protein in food, in the same way that sweetness indicates that a food contains energy-giving carbohydrates."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Bitterness, he says, alerts us of toxins in the food, while sourness warns us of spoilage and saltiness signals the presence of minerals.",
+          "q": [
+            39,
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, what else do we know about this fifth taste ..."
+        }
+      ]
+    }
+  ]
+}

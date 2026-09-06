@@ -1,0 +1,841 @@
+{
+  "id": "c7t4",
+  "book": "剑桥雅思7",
+  "test": 4,
+  "title": "剑7 Test 4 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "TRUE"
+    ],
+    "2": [
+      "FALSE"
+    ],
+    "3": [
+      "NOT GIVEN"
+    ],
+    "4": [
+      "TRUE"
+    ],
+    "5": [
+      "FALSE"
+    ],
+    "6": [
+      "NOT GIVEN"
+    ],
+    "7": [
+      "TRUE"
+    ],
+    "8": [
+      "pulleys",
+      "wooden pulleys"
+    ],
+    "9": [
+      "stone"
+    ],
+    "10": [
+      "sailors",
+      "accomplished sailors"
+    ],
+    "11": [
+      "glider",
+      "modern glider"
+    ],
+    "12": [
+      "flight"
+    ],
+    "13": [
+      "messages"
+    ],
+    "14": [
+      "FALSE"
+    ],
+    "15": [
+      "NOT GIVEN"
+    ],
+    "16": [
+      "TRUE"
+    ],
+    "17": [
+      "NOT GIVEN"
+    ],
+    "18": [
+      "TRUE"
+    ],
+    "19": [
+      "TRUE"
+    ],
+    "20": [
+      "FALSE"
+    ],
+    "21": [
+      "G"
+    ],
+    "22": [
+      "E"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "A"
+    ],
+    "25": [
+      "K"
+    ],
+    "26": [
+      "F"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "D"
+    ],
+    "32": [
+      "F"
+    ],
+    "33": [
+      "I"
+    ],
+    "34": [
+      "B"
+    ],
+    "35": [
+      "A"
+    ],
+    "36": [
+      "D"
+    ],
+    "37": [
+      "A"
+    ],
+    "38": [
+      "E"
+    ],
+    "39": [
+      "B"
+    ],
+    "40": [
+      "C"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1-1",
+      "why": "原文说传统观点认为是成千上万奴隶拖拽石块，与题干说法一致，故为 TRUE。",
+      "key": "The conventional picture is that tens of thousands of slaves dragged stones on sledges."
+    },
+    "2": {
+      "loc": "p1-1",
+      "why": "原文说 Clemmons 是在读一本关于埃及古迹的书时注意到象形文字，并非在古迹墙壁上发现，题干与原文不符，故为 FALSE。",
+      "key": "While perusing a book on the monuments of Egypt, she noticed a hieroglyph that showed a row of men standing in odd postures."
+    },
+    "3": {
+      "loc": "p1-1",
+      "why": "原文只说 Gharib 对这个想法很感兴趣并因研究中东历史而好奇，没有提到他此前是否做过鸟类飞行实验，故为 NOT GIVEN。",
+      "key": "He was fascinated by the idea."
+    },
+    "4": {
+      "loc": "p1-2",
+      "why": "原文说他们先做了初步计算和风洞模型实验，然后才确信不需要很强的风力，即先测试理论再应用，故为 TRUE。",
+      "key": "Their initial calculations and scale-model wind-tunnel experiments convinced them they wouldn't need a strong wind to lift the 33.5-tonne column."
+    },
+    "5": {
+      "loc": "p1-3",
+      "why": "原文说实验时风速只有每小时16到20公里，是原先预计所需风速的一半多一点，说明成功并非因为风速很高，故为 FALSE。",
+      "key": "'The instant the sail opened into the wind, a huge force was generated and the column was raised to the vertical in a mere 40 seconds.' The wind was blowing at a gentle 16 to 20 kilometres an hour, little more than half what they thought would be needed."
+    },
+    "6": {
+      "loc": "p1-3",
+      "why": "原文提到风筝张开瞬间产生的初始力比稳定状态的力大五倍，但没有提到风筝升得越高、风力越强这一说法，故为 NOT GIVEN。",
+      "key": "'There was a huge initial force - five times larger than the steady state force,' Gharib says."
+    },
+    "7": {
+      "loc": "p1-3",
+      "why": "原文说 Gharib 意识到风筝可以吊起巨大重量，甚至300吨的石柱也能被吊起，说明团队认定用风筝搬运重石块是可行的，故为 TRUE。",
+      "key": "This clearly meant that kites could lift huge weights, Gharib realised."
+    },
+    "8": {
+      "loc": "p1-5",
+      "why": "原文说埃及人已知使用木制滑轮（wooden pulleys），题干 the Egyptians had ___ 对应 pulleys。",
+      "key": "And they are known to have used wooden pulleys, which could have been made strong enough to bear the weight of massive blocks of stone."
+    },
+    "9": {
+      "loc": "p1-5",
+      "why": "原文说这些滑轮能承受巨大石块（massive blocks of stone）的重量，对应 large pieces of ___ 为 stone。",
+      "key": "And they are known to have used wooden pulleys, which could have been made strong enough to bear the weight of massive blocks of stone."
+    },
+    "10": {
+      "loc": "p1-5",
+      "why": "原文说驾驭风力对像埃及人这样熟练的水手（accomplished sailors）来说不是问题，对应 their skill as ___ 为 sailors。",
+      "key": "Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians."
+    },
+    "11": {
+      "loc": "p1-5",
+      "why": "原文说在阶梯金字塔发现的木制器物看起来像现代滑翔机（modern glider），对应 resembled a ___。",
+      "key": "A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider."
+    },
+    "12": {
+      "loc": "p1-5",
+      "why": "原文说这件器物的精巧程度说明埃及人可能一直在发展飞行（flight）的构想，对应 experimented with ___。",
+      "key": "Although it dates from several hundred years after the building of the pyramids, its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time."
+    },
+    "13": {
+      "loc": "p1-5",
+      "why": "原文说中国人很早就用风筝传递消息（deliver messages），对应 sending ___ 为 messages。",
+      "key": "And other ancient civilisations certainly knew about kites; as early as 1250 BC, the Chinese were using them to deliver messages and dump flaming debris on their foes."
+    },
+    "14": {
+      "loc": "p2-1",
+      "why": "原文说是阿留申群岛的原住民把北边那片大陆叫做 Aleyska，即今天的阿拉斯加，不是原住民把自己的岛屿改名，题干与原文不符，故为 FALSE。",
+      "key": "The islands' native inhabitants called this land mass Aleyska, the 'Great Land'; today, we know it as Alaska."
+    },
+    "15": {
+      "loc": "p2-2",
+      "why": "原文只说阿拉斯加的商业渔业规模位居世界最大之列，并未提及这些渔业公司归属，故为 NOT GIVEN。",
+      "key": "Taking advantage of this rich bounty, Alaska's commercial fisheries have developed into some of the largest in the world."
+    },
+    "16": {
+      "loc": "p2-3",
+      "why": "原文引用作家的话说鲑鱼就像血液一样流淌在阿拉斯加的生命中，滋养着土地、动物和人类，说明当地生活依赖鲑鱼，故为 TRUE。",
+      "key": "'Salmon,' notes writer Susan Ewing in The Great Alaska Nature Factbook, 'pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.' The 'predictable abundance of salmon allowed some native cultures to flourish,' and 'dying spawners* feed bears, eagles, other animals, and ultimately the soil itself.' All five species of Pacific salmon - chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback - spawn** in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there."
+    },
+    "17": {
+      "loc": "p2-3",
+      "why": "原文说全北美商业捕获的太平洋鲑鱼中有90%产自阿拉斯加，这是指产地比例，并未说明其中90%是红鲑或粉鲑，故为 NOT GIVEN。",
+      "key": "'Salmon,' notes writer Susan Ewing in The Great Alaska Nature Factbook, 'pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.' The 'predictable abundance of salmon allowed some native cultures to flourish,' and 'dying spawners* feed bears, eagles, other animals, and ultimately the soil itself.' All five species of Pacific salmon - chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback - spawn** in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there."
+    },
+    "18": {
+      "loc": "p2-3",
+      "why": "原文明确说2000年阿拉斯加太平洋鲑鱼商业捕获量超过32万吨，与题干一致，故为 TRUE。",
+      "key": "During 2000, commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes, with an ex-vessel value of over $US260 million."
+    },
+    "19": {
+      "loc": "p2-4",
+      "why": "原文说1940至1959年间过度捕捞导致鲑鱼种群严重崩溃，对应题干的急剧下降，故为 TRUE。",
+      "key": "Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that in 1953 Alaska was declared a federal disaster area."
+    },
+    "20": {
+      "loc": "p2-4",
+      "why": "原文说90年代年捕获量远超一亿条，有时甚至超过两亿条，并非平均维持在一亿条，题干与原文不符，故为 FALSE。",
+      "key": "Over the next few decades average catches steadily increased as a result of this policy of sustainable management, until, during the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish."
+    },
+    "21": {
+      "loc": "p2-5",
+      "why": "原文说全州的生物学家持续监测洄游产卵的成年鱼，对应 G（确保鱼群数量足以允许捕捞）。",
+      "key": "There are biologists throughout the state constantly monitoring adult fish as they show up to spawn."
+    },
+    "22": {
+      "loc": "p2-5",
+      "why": "原文说现场生物学家有权随时叫停捕捞，甚至休闲垂钓也可以被叫停，对应 E（阻止人们垂钓）。",
+      "key": "Even sport fishing can be brought to a halt."
+    },
+    "23": {
+      "loc": "p2-5",
+      "why": "原文说这种管理机制使阿拉斯加鲑鱼种群和渔业得以繁荣发展，对应 B（取得成功）。",
+      "key": "It is this management mechanism that has allowed Alaska salmon stocks - and, accordingly, Alaska salmon fisheries - to prosper, even as salmon populations in the rest of the United States are increasingly considered threatened or even endangered."
+    },
+    "24": {
+      "loc": "p2-6",
+      "why": "原文说海洋管理委员会（MSC）成立的目的是认证符合高环保标准的渔业，对应 A（认可关心环境的渔业）。",
+      "key": "The Council, which was founded in 1996, certifies fisheries that meet high environmental standards, enabling them to use a label that recognises their environmental responsibility."
+    },
+    "25": {
+      "loc": "p2-8",
+      "why": "原文说鲑鱼种群崩溃后，州政府迅速反应，关闭了所有渔场，对应 K（关闭所有渔场）。",
+      "key": "However, the state reacted quickly, closing down all fisheries, even those necessary for subsistence purposes."
+    },
+    "26": {
+      "loc": "p2-9",
+      "why": "原文说2000年9月七家公司获准在产品上使用MSC标志，对应 F（用MSC标志标注产品）。",
+      "key": "Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products."
+    },
+    "27": {
+      "loc": "p3-1",
+      "why": "原文说人们在山区或乡下睡觉时常常因为『太安静』而需要适应，说明人已经习惯了城市中较高的噪音水平，对应 D。",
+      "key": "And yet most of us have had the experience of having to adjust to sleeping in the mountains or the countryside because it was initially 'too quiet', an experience that suggests that humans are capable of adapting to a wide range of noise levels."
+    },
+    "28": {
+      "loc": "p3-1",
+      "why": "原文说噪音起初确实造成干扰，但大约四分钟后受试者的表现就和对照组一样好了，说明长期来看噪音爆发并不会严重干扰解决问题，对应 C。",
+      "key": "The noise was quite disruptive at first, but after about four minutes the subjects were doing just as well on their tasks as control subjects who were not exposed to noise."
+    },
+    "29": {
+      "loc": "p3-2",
+      "why": "原文说噪音并不影响受试者仅用方向盘追踪移动线条这一单一任务的表现，只有同时叠加复述数字等第二项任务时才会受干扰，说明高噪音不太可能干扰单一任务的表现，对应 A。",
+      "key": "Similarly, noise did not affect a subject's ability to track a moving line with a steering wheel, but it did interfere with the subject's ability to repeat numbers while tracking (Finkelman and Glass, 1970)."
+    },
+    "30": {
+      "loc": "p3-3",
+      "why": "原文把随机出现、无法预测的噪音称为 unpredictable noise，即意料之外的噪音，对应 unexpected，故为 B。",
+      "key": "For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall, but the bursts occurred at random intervals (unpredictable noise)."
+    },
+    "31": {
+      "loc": "p3-3",
+      "why": "原文说无论是可预测组还是不可预测组，受试者听到的噪音总量是一样的，对应 the same amount of，故为 D。",
+      "key": "For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall, but the bursts occurred at random intervals (unpredictable noise)."
+    },
+    "32": {
+      "loc": "p3-3",
+      "why": "原文说在播放噪音期间，所有受试者的任务表现大致相同，说明可预测组和不可预测组在这一阶段表现相当，对应 F。",
+      "key": "Subjects reported finding the predictable and unpredictable noise equally annoying, and all subjects performed at about the same level during the noise portion of the experiment."
+    },
+    "33": {
+      "loc": "p3-3",
+      "why": "原文说在随后的校对任务中，不可预测噪音组比可预测噪音组犯的错误更多，对应 made more mistakes than，故为 I。",
+      "key": "As shown in Table I the unpredictable noise produced more errors in the later proofreading task than predictable noise; and soft, unpredictable noise actually produced slightly more errors on this task than the loud, predictable noise."
+    },
+    "34": {
+      "loc": "p3-5",
+      "why": "原文说不可预测的（即意料之外的）噪音比可预测噪音更容易造成疲劳，只是这种疲劳要过一段时间才会在表现上显现出来，对应 unexpected，故为 B。",
+      "key": "Apparently, unpredictable noise produces more fatigue than predictable noise, but it takes a while for this fatigue to take its toll on performance."
+    },
+    "35": {
+      "loc": "p3-1",
+      "why": "这是 Glass and Singer (1972) 的实验发现：噪音一开始确实会干扰解决问题的任务，几分钟后才恢复正常，对应 A。",
+      "key": "The noise was quite disruptive at first, but after about four minutes the subjects were doing just as well on their tasks as control subjects who were not exposed to noise."
+    },
+    "36": {
+      "loc": "p3-7",
+      "why": "这是 Cohen et al. 的后续研究发现：搬到安静教室的学生一年后仍比一直在安静学校的学生更容易分心，说明长期影响持续存在，对应 D。",
+      "key": "A follow-up study showed that children who were moved to less noisy classrooms still showed greater distractibility one year later than students who had always been in the quiet schools (Cohen et al, 1981 )."
+    },
+    "37": {
+      "loc": "p3-6",
+      "why": "这是 Glass and Singer (1972) 的发现：只要受试者知道自己能控制噪音，即使从未真正使用这个选项，负面影响和后遗效应都会消失，对应 A。",
+      "key": "If the individual knows that he or she can control the noise, this seems to eliminate both its negative effects at the time and its after-effects."
+    },
+    "38": {
+      "loc": "p3-3",
+      "why": "原文比较的是噪音的响度（loud/soft）和可预测性，从未研究噪音音调高低（high-pitched/low-pitched）对错误率的影响，因此没有研究者提出过这一说法，故为 E（以上都不是）。",
+      "key": "As shown in Table I the unpredictable noise produced more errors in the later proofreading task than predictable noise; and soft, unpredictable noise actually produced slightly more errors on this task than the loud, predictable noise."
+    },
+    "39": {
+      "loc": "p3-2",
+      "why": "这是 Broadbent (1957) 的实验发现：要求受试者同时监测三个仪表盘时，高噪音会干扰表现，对应 B。",
+      "key": "For example, high noise levels interfered with the performance of subjects who were required to monitor three dials at a time, a task not unlike that of an aeroplane pilot or an air-traffic controller (Broadbent, 1957)."
+    },
+    "40": {
+      "loc": "p3-2",
+      "why": "这是 Finkelman and Glass (1970) 的实验发现：噪音会干扰受试者在追踪任务同时复述数字的能力，对应 C。",
+      "key": "Similarly, noise did not affect a subject's ability to track a moving line with a steering wheel, but it did interfere with the subject's ability to repeat numbers while tracking (Finkelman and Glass, 1970)."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Pulling strings to build pyramids",
+      "subtitle": "No one knows exactly how the pyramids were built. Marcus Chown reckons the answer could be 'hanging in the air'.",
+      "paragraphs": [
+        {
+          "id": "p1-1",
+          "text": "The pyramids of Egypt were built more than three thousand years ago, and no one knows how. The conventional picture is that tens of thousands of slaves dragged stones on sledges. But there is no evidence to back this up. Now a Californian software consultant called Maureen Clemmons has suggested that kites might have been involved. While perusing a book on the monuments of Egypt, she noticed a hieroglyph that showed a row of men standing in odd postures. They were holding what looked like ropes that led, via some kind of mechanical system, to a giant bird in the sky. She wondered if perhaps the bird was actually a giant kite, and the men were using it to lift a heavy object. Intrigued, Clemmons contacted Morteza Gharib, aeronautics professor at the California Institute of Technology. He was fascinated by the idea. 'Coming from Iran, I have a keen interest in Middle Eastern science,' he says. He too was puzzled by the picture that had sparked Clemmons's interest. The object in the sky apparently had wings far too short and wide for a bird. 'The possibility certainly existed that it was a kite,' he says. And since he needed a summer project for his student Emilio Graff, investigating the possibility of using kites as heavy lifters seemed like a good idea."
+        },
+        {
+          "id": "p1-2",
+          "text": "Gharib and Graff set themselves the task of raising a 4.5-metre stone column from horizontal to vertical, using no source of energy except the wind. Their initial calculations and scale-model wind-tunnel experiments convinced them they wouldn't need a strong wind to lift the 33.5-tonne column. Even a modest force, if sustained over a long time, would do. The key was to use a pulley system that would magnify the applied force. So they rigged up a tent-shaped scaffold directly above the tip of the horizontal column, with pulleys suspended from the scaffold's apex. The idea was that as one end of the column rose, the base would roll across the ground on a trolley."
+        },
+        {
+          "id": "p1-3",
+          "text": "Earlier this year, the team put Clemmons's unlikely theory to the test, using a 40-square-metre rectangular nylon sail. The kite lifted the column clean off the ground. We were absolutely stunned,' Gharib says. 'The instant the sail opened into the wind, a huge force was generated and the column was raised to the vertical in a mere 40 seconds.' The wind was blowing at a gentle 16 to 20 kilometres an hour, little more than half what they thought would be needed. What they had failed to reckon with was what happened when the kite was opened. 'There was a huge initial force - five times larger than the steady state force,' Gharib says. This clearly meant that kites could lift huge weights, Gharib realised. Even a 300-tonne column could have been lifted to the vertical with 40 or so men and four or five sails. So Clemmons was right: the pyramid builders could have used kites to lift massive stones into place. Whether they actually did is another matter,' Gharib says. There are no pictures showing the construction of the pyramids, so there is no way to tell what really happened. 'The evidence for using kites to move large stones is no better or worse than the evidence for the brute force method,' Gharib says."
+        },
+        {
+          "id": "p1-4",
+          "text": "Indeed, the experiments have left many specialists unconvinced. 'The evidence for kite-lifting is non-existent,' says Willeke Wendrich, an associate professor of Egyptology at the University of California, Los Angeles."
+        },
+        {
+          "id": "p1-5",
+          "text": "Others feel there is more of a case for the theory. Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians. And they are known to have used wooden pulleys, which could have been made strong enough to bear the weight of massive blocks of stone. In addition, there is some physical evidence that the ancient Egyptians were interested in flight. A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider. Although it dates from several hundred years after the building of the pyramids, its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time. And other ancient civilisations certainly knew about kites; as early as 1250 BC, the Chinese were using them to deliver messages and dump flaming debris on their foes."
+        },
+        {
+          "id": "p1-6",
+          "text": "The experiments might even have practical uses nowadays. There are plenty of places around the globe where people have no access to heavy machinery, but do know how to deal with wind, sailing and basic mechanical principles. Gharib has already been contacted by a civil engineer in Nicaragua, who wants to put up buildings with adobe roofs supported by concrete arches on a site that heavy equipment can't reach. His idea is to build the arches horizontally, then lift them into place using kites. We've given him some design hints,' says Gharib. We're just waiting for him to report back.' So whether they were actually used to build the pyramids or not, it seems that kites may make sensible construction tools in the 21st century AD."
+        }
+      ],
+      "intro": "",
+      "groups": [
+        {
+          "range": [
+            1,
+            7
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "It is generally believed that large numbers of people were needed to build the pyramids."
+            },
+            {
+              "n": 2,
+              "text": "Clemmons found a strange hieroglyph on the wall of an Egyptian monument."
+            },
+            {
+              "n": 3,
+              "text": "Gharib had previously done experiments on bird flight."
+            },
+            {
+              "n": 4,
+              "text": "Gharib and Graff tested their theory before applying it."
+            },
+            {
+              "n": 5,
+              "text": "The success of the actual experiment was due to the high speed of the wind."
+            },
+            {
+              "n": 6,
+              "text": "They found that, as the kite flew higher, the wind force got stronger."
+            },
+            {
+              "n": 7,
+              "text": "The team decided that it was possible to use kites to raise very heavy stones."
+            }
+          ]
+        },
+        {
+          "range": [
+            8,
+            13
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "title": "Additional evidence for theory of kite-lifting",
+          "text": "The Egyptians had {{8}}, which could lift large pieces of {{9}}, and they knew how to use the energy of the wind from their skill as {{10}}. The discovery on one pyramid of an object which resembled a {{11}} suggests they may have experimented with {{12}}. In addition, over two thousand years ago kites were used in China as weapons, as well as for sending {{13}}."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Endless Harvest",
+      "paragraphs": [
+        {
+          "id": "p2-1",
+          "text": "More than two hundred years ago, Russian explorers and fur hunters landed on the Aleutian Islands, a volcanic archipelago in the North Pacific, and learned of a land mass that lay farther to the north. The islands' native inhabitants called this land mass Aleyska, the 'Great Land'; today, we know it as Alaska."
+        },
+        {
+          "id": "p2-2",
+          "text": "The forty-ninth state to join the United States of America (in 1959), Alaska is fully one-fifth the size of the mainland 48 states combined. It shares, with Canada, the second longest river system in North America and has over half the coastline of the United States. The rivers feed into the Bering Sea and Gulf of Alaska - cold, nutrient-rich waters which support tens of millions of seabirds, and over 400 species of fish, shellfish, crustaceans, and molluscs. Taking advantage of this rich bounty, Alaska's commercial fisheries have developed into some of the largest in the world."
+        },
+        {
+          "id": "p2-3",
+          "text": "According to the Alaska Department of Fish and Game (ADF&G), Alaska's commercial fisheries landed hundreds of thousands of tonnes of shellfish and herring, and well over a million tonnes of groundfish (cod, sole, perch and pollock) in 2000. The true cultural heart and soul of Alaska's fisheries, however, is salmon. 'Salmon,' notes writer Susan Ewing in The Great Alaska Nature Factbook, 'pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.' The 'predictable abundance of salmon allowed some native cultures to flourish,' and 'dying spawners* feed bears, eagles, other animals, and ultimately the soil itself.' All five species of Pacific salmon - chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback - spawn** in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there. Indeed, if Alaska was an independent nation, it would be the largest producer of wild salmon in the world. During 2000, commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes, with an ex-vessel value of over $US260 million."
+        },
+        {
+          "id": "p2-4",
+          "text": "Catches have not always been so healthy. Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that in 1953 Alaska was declared a federal disaster area. With the onset of statehood, however, the State of Alaska took over management of its own fisheries, guided by a state constitution which mandates that Alaska's natural resources be managed on a sustainable basis. At that time, statewide harvests totalled around 25 million salmon. Over the next few decades average catches steadily increased as a result of this policy of sustainable management, until, during the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish."
+        },
+        {
+          "id": "p2-5",
+          "text": "The primary reason for such increases is what is known as 'In-Season Abundance-Based Management'. There are biologists throughout the state constantly monitoring adult fish as they show up to spawn. The biologists sit in streamside counting towers, study sonar, watch from aeroplanes, and talk to fishermen. The salmon season in Alaska is not pre-set. The fishermen know the approximate time of year when they will be allowed to fish, but on any given day, one or more field biologists in a particular area can put a halt to fishing. Even sport fishing can be brought to a halt. It is this management mechanism that has allowed Alaska salmon stocks - and, accordingly, Alaska salmon fisheries - to prosper, even as salmon populations in the rest of the United States are increasingly considered threatened or even endangered."
+        },
+        {
+          "id": "p2-6",
+          "text": "In 1999, the Marine Stewardship Council (MSC)*** commissioned a review of the Alaska salmon fishery. The Council, which was founded in 1996, certifies fisheries that meet high environmental standards, enabling them to use a label that recognises their environmental responsibility. The MSC has established a set of criteria by which commercial fisheries can be judged. Recognising the potential benefits of being identified as environmentally responsible, fisheries approach the Council requesting to undergo the certification process. The MSC then appoints a certification committee, composed of a panel of fisheries experts, which gathers information and opinions from fishermen, biologists, government officials, industry representatives, non-governmental organisations and others."
+        },
+        {
+          "id": "p2-7",
+          "text": "Some observers thought the Alaska salmon fisheries would not have any chance of certification when, in the months leading up to MSC's final decision, salmon runs throughout western Alaska completely collapsed. In the Yukon and Kuskokwim rivers, chinook and chum runs were probably the poorest since statehood; subsistence communities throughout the region, who normally have priority over commercial fishing, were devastated."
+        },
+        {
+          "id": "p2-8",
+          "text": "The crisis was completely unexpected, but researchers believe it had nothing to do with impacts of fisheries. Rather, they contend, it was almost certainly the result of climatic shifts, prompted in part by cumulative effects of the el niño/la niña phenomenon on Pacific Ocean temperatures, culminating in a harsh winter in which huge numbers of salmon eggs were frozen. It could have meant the end as far as the certification process was concerned. However, the state reacted quickly, closing down all fisheries, even those necessary for subsistence purposes."
+        },
+        {
+          "id": "p2-9",
+          "text": "In September 2000, MSC announced that the Alaska salmon fisheries qualified for certification. Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products. Certification is for an initial period of five years, with an annual review to ensure that the fishery is continuing to meet the required standards."
+        }
+      ],
+      "footnotes": [
+        "spawners: fish that have released eggs",
+        "spawn: release eggs",
+        "MSC: a joint venture between WWF (World Wildlife Fund) and Unilever, a Dutch-based multi-national"
+      ],
+      "intro": "",
+      "groups": [
+        {
+          "range": [
+            14,
+            20
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "The inhabitants of the Aleutian islands renamed their islands 'Aleyska'."
+            },
+            {
+              "n": 15,
+              "text": "Alaska's fisheries are owned by some of the world's largest companies."
+            },
+            {
+              "n": 16,
+              "text": "Life in Alaska is dependent on salmon."
+            },
+            {
+              "n": 17,
+              "text": "Ninety per cent of all Pacific salmon caught are sockeye or pink salmon."
+            },
+            {
+              "n": 18,
+              "text": "More than 320,000 tonnes of salmon were caught in Alaska in 2000."
+            },
+            {
+              "n": 19,
+              "text": "Between 1940 and 1959, there was a sharp decrease in Alaska's salmon population."
+            },
+            {
+              "n": 20,
+              "text": "During the 1990s, the average number of salmon caught each year was 100 million."
+            }
+          ]
+        },
+        {
+          "range": [
+            21,
+            26
+          ],
+          "type": "matching",
+          "instruction": "Complete each sentence with the correct ending, A-K, below.",
+          "limit": "Write the correct letter, A-K, in boxes 21-26 on your answer sheet.",
+          "optionsTitle": "Endings",
+          "options": [
+            {
+              "k": "A",
+              "text": "to recognise fisheries that care for the environment."
+            },
+            {
+              "k": "B",
+              "text": "to be successful."
+            },
+            {
+              "k": "C",
+              "text": "to stop fish from spawning."
+            },
+            {
+              "k": "D",
+              "text": "to set up environmental protection laws."
+            },
+            {
+              "k": "E",
+              "text": "to stop people fishing for sport."
+            },
+            {
+              "k": "F",
+              "text": "to label their products using the MSC logo."
+            },
+            {
+              "k": "G",
+              "text": "to ensure that fish numbers are sufficient to permit fishing."
+            },
+            {
+              "k": "H",
+              "text": "to assist the subsistence communities in the region."
+            },
+            {
+              "k": "I",
+              "text": "to freeze a huge number of salmon eggs."
+            },
+            {
+              "k": "J",
+              "text": "to deny certification to the Alaska fisheries."
+            },
+            {
+              "k": "K",
+              "text": "to close down all fisheries."
+            }
+          ],
+          "itemsTitle": "Sentence beginnings",
+          "items": [
+            {
+              "n": 21,
+              "text": "In Alaska, biologists keep a check on adult fish"
+            },
+            {
+              "n": 22,
+              "text": "Biologists have the authority"
+            },
+            {
+              "n": 23,
+              "text": "In-Season Abundance-Based Management has allowed the Alaska salmon fisheries"
+            },
+            {
+              "n": 24,
+              "text": "The Marine Stewardship Council (MSC) was established"
+            },
+            {
+              "n": 25,
+              "text": "As a result of the collapse of the salmon runs in 1999, the state decided"
+            },
+            {
+              "n": 26,
+              "text": "In September 2000, the MSC allowed seven Alaska salmon companies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "EFFECTS OF NOISE",
+      "paragraphs": [
+        {
+          "id": "p3-1",
+          "text": "In general, it is plausible to suppose that we should prefer peace and quiet to noise. And yet most of us have had the experience of having to adjust to sleeping in the mountains or the countryside because it was initially 'too quiet', an experience that suggests that humans are capable of adapting to a wide range of noise levels. Research supports this view. For example, Glass and Singer (1972) exposed people to short bursts of very loud noise and then measured their ability to work out problems and their physiological reactions to the noise. The noise was quite disruptive at first, but after about four minutes the subjects were doing just as well on their tasks as control subjects who were not exposed to noise. Their physiological arousal also declined quickly to the same levels as those of the control subjects."
+        },
+        {
+          "id": "p3-2",
+          "text": "But there are limits to adaptation and loud noise becomes more troublesome if the person is required to concentrate on more than one task. For example, high noise levels interfered with the performance of subjects who were required to monitor three dials at a time, a task not unlike that of an aeroplane pilot or an air-traffic controller (Broadbent, 1957). Similarly, noise did not affect a subject's ability to track a moving line with a steering wheel, but it did interfere with the subject's ability to repeat numbers while tracking (Finkelman and Glass, 1970)."
+        },
+        {
+          "id": "p3-3",
+          "text": "Probably the most significant finding from research on noise is that its predictability is more important than how loud it is. We are much more able to 'tune out' chronic background noise, even if it is quite loud, than to work under circumstances with unexpected intrusions of noise. In the Glass and Singer study, in which subjects were exposed to bursts of noise as they worked on a task, some subjects heard loud bursts and others heard soft bursts. For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall, but the bursts occurred at random intervals (unpredictable noise). Subjects reported finding the predictable and unpredictable noise equally annoying, and all subjects performed at about the same level during the noise portion of the experiment. But the different noise conditions had quite different after-effects when the subjects were required to proofread written material under conditions of no noise. As shown in Table I the unpredictable noise produced more errors in the later proofreading task than predictable noise; and soft, unpredictable noise actually produced slightly more errors on this task than the loud, predictable noise."
+        },
+        {
+          "id": "p3-4",
+          "text": "Table 1: Proofreading Errors and Noise\n\n| | Unpredictable Noise | Predictable Noise | Average |\n| Loud noise | 40.1 | 31.8 | 35.9 |\n| Soft noise | 36.7 | 27.4 | 32.1 |\n| Average | 38.4 | 29.6 | |"
+        },
+        {
+          "id": "p3-5",
+          "text": "Apparently, unpredictable noise produces more fatigue than predictable noise, but it takes a while for this fatigue to take its toll on performance."
+        },
+        {
+          "id": "p3-6",
+          "text": "Predictability is not the only variable that reduces or eliminates the negative effects of noise. Another is control. If the individual knows that he or she can control the noise, this seems to eliminate both its negative effects at the time and its after-effects. This is true even if the individual never actually exercises his or her option to turn the noise off (Glass and Singer, 1972). Just the knowledge that one has control is sufficient."
+        },
+        {
+          "id": "p3-7",
+          "text": "The studies discussed so far exposed people to noise for only short periods and only transient effects were studied. But the major worry about noisy environments is that living day after day with chronic noise may produce serious, lasting effects. One study, suggesting that this worry is a realistic one, compared elementary school pupils who attended schools near Los Angeles's busiest airport with students who attended schools in quiet neighbourhoods (Cohen et al. , 1980). It was found that children from the noisy schools had higher blood pressure and were more easily distracted than those who attended the quiet schools. Moreover, there was no evidence of adaptability to the noise. In fact, the longer the children had attended the noisy schools, the more distractible they became. The effects also seem to be long lasting. A follow-up study showed that children who were moved to less noisy classrooms still showed greater distractibility one year later than students who had always been in the quiet schools (Cohen et al, 1981 ). It should be noted that the two groups of children had been carefully matched by the investigators so that they were comparable in age, ethnicity, race, and social class."
+        }
+      ],
+      "intro": "",
+      "groups": [
+        {
+          "range": [
+            27,
+            29
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 27,
+              "text": "The writer suggests that people may have difficulty sleeping in the mountains because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "humans do not prefer peace and quiet to noise."
+                },
+                {
+                  "k": "B",
+                  "text": "they may be exposed to short bursts of very strange sounds."
+                },
+                {
+                  "k": "C",
+                  "text": "humans prefer to hear a certain amount of noise while they sleep."
+                },
+                {
+                  "k": "D",
+                  "text": "they may have adapted to a higher noise level in the city."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "In noise experiments, Glass and Singer found that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "problem-solving is much easier under quiet conditions."
+                },
+                {
+                  "k": "B",
+                  "text": "physiological arousal prevents the ability to work."
+                },
+                {
+                  "k": "C",
+                  "text": "bursts of noise do not seriously disrupt problem-solving in the long term."
+                },
+                {
+                  "k": "D",
+                  "text": "the physiological arousal of control subjects declined quickly."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "Researchers discovered that high noise levels are not likely to interfere with the",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "successful performance of a single task."
+                },
+                {
+                  "k": "B",
+                  "text": "tasks of pilots or air traffic controllers."
+                },
+                {
+                  "k": "C",
+                  "text": "ability to repeat numbers while tracking moving lines."
+                },
+                {
+                  "k": "D",
+                  "text": "ability to monitor three dials at once."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            30,
+            34
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words and phrases, A-J, below.",
+          "limit": "Write the correct letter, A-J, in boxes 30-34 on your answer sheet. You may use any letter more than once.",
+          "text": "Glass and Singer (1972) showed that situations in which there is intense noise have less effect on performance than circumstances in which {{30}} noise occurs. Subjects were divided into groups to perform a task. Some heard loud bursts of noise, others soft. For some subjects, the noise was predictable, while for others its occurrence was random. All groups were exposed to {{31}} noise. The predictable noise group {{32}} the unpredictable noise group on this task. In the second part of the experiment, the four groups were given a proofreading task to complete under conditions of no noise. They were required to check written material for errors. The group which had been exposed to unpredictable noise {{33}} the group which had been exposed to predictable noise. The group which had been exposed to loud predictable noise performed better than those who had heard soft, unpredictable bursts. The results suggest that {{34}} noise produces fatigue but that this manifests itself later.",
+          "options": [
+            {
+              "k": "A",
+              "text": "no control over"
+            },
+            {
+              "k": "B",
+              "text": "unexpected"
+            },
+            {
+              "k": "C",
+              "text": "intense"
+            },
+            {
+              "k": "D",
+              "text": "the same amount of"
+            },
+            {
+              "k": "E",
+              "text": "performed better than"
+            },
+            {
+              "k": "F",
+              "text": "performed at about the same level as"
+            },
+            {
+              "k": "G",
+              "text": "no"
+            },
+            {
+              "k": "H",
+              "text": "showed more irritation than"
+            },
+            {
+              "k": "I",
+              "text": "made more mistakes than"
+            },
+            {
+              "k": "J",
+              "text": "different types of"
+            }
+          ]
+        },
+        {
+          "range": [
+            35,
+            40
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following statements (Questions 35-40) and the list of researchers below. Match each statement with the correct researcher(s), A-E.",
+          "limit": "Write the correct letter, A-E, in boxes 35-40 on your answer sheet. You may use any letter more than once.",
+          "optionsTitle": "List of Researchers",
+          "options": [
+            {
+              "k": "A",
+              "text": "Glass and Singer"
+            },
+            {
+              "k": "B",
+              "text": "Broadbent"
+            },
+            {
+              "k": "C",
+              "text": "Finkelman and Glass"
+            },
+            {
+              "k": "D",
+              "text": "Cohen et al."
+            },
+            {
+              "k": "E",
+              "text": "None of the above"
+            }
+          ],
+          "questions": [
+            {
+              "n": 35,
+              "text": "Subjects exposed to noise find it difficult at first to concentrate on problem-solving tasks."
+            },
+            {
+              "n": 36,
+              "text": "Long-term exposure to noise can produce changes in behaviour which can still be observed a year later."
+            },
+            {
+              "n": 37,
+              "text": "The problems associated with exposure to noise do not arise if the subject knows they can make it stop."
+            },
+            {
+              "n": 38,
+              "text": "Exposure to high-pitched noise results in more errors than exposure to low-pitched noise."
+            },
+            {
+              "n": 39,
+              "text": "Subjects find it difficult to perform three tasks at the same time when exposed to noise."
+            },
+            {
+              "n": 40,
+              "text": "Noise affects a subject's capacity to repeat numbers while carrying out another task."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
