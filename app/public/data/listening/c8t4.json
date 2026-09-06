@@ -1,0 +1,2025 @@
+{
+  "id": "c8t4",
+  "book": "剑桥雅思8",
+  "test": 4,
+  "title": "剑8 Test 4 · Listening",
+  "source": "Cambridge IELTS 8, Test 4（OCR 扫描件 + 人工校对）",
+  "answers": {
+    "1": [
+      "waiter",
+      "waiters"
+    ],
+    "2": [
+      "day off"
+    ],
+    "3": [
+      "break"
+    ],
+    "4": [
+      "meal",
+      "free meal",
+      "a free meal"
+    ],
+    "5": [
+      "dark",
+      "dark coloured",
+      "dark colored",
+      "dark-coloured",
+      "dark-colored"
+    ],
+    "6": [
+      "jacket"
+    ],
+    "7": [
+      "28 June"
+    ],
+    "8": [
+      "Urwin"
+    ],
+    "9": [
+      "12.00",
+      "12.00 pm",
+      "noon",
+      "mid-day",
+      "midday",
+      "12.00pm"
+    ],
+    "10": [
+      "reference"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "B"
+    ],
+    "13": [
+      "B"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "D"
+    ],
+    "16": [
+      "G"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "F"
+    ],
+    "19": [
+      "A"
+    ],
+    "20": [
+      "E"
+    ],
+    "21": [
+      "B",
+      "E"
+    ],
+    "22": [
+      "B",
+      "E"
+    ],
+    "23": [
+      "A",
+      "C"
+    ],
+    "24": [
+      "A",
+      "C"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "C"
+    ],
+    "27": [
+      "priorities"
+    ],
+    "28": [
+      "timetable"
+    ],
+    "29": [
+      "tasks",
+      "small tasks"
+    ],
+    "30": [
+      "paragraph",
+      "single paragraph"
+    ],
+    "31": [
+      "C"
+    ],
+    "32": [
+      "B"
+    ],
+    "33": [
+      "C"
+    ],
+    "34": [
+      "A"
+    ],
+    "35": [
+      "B"
+    ],
+    "36": [
+      "B"
+    ],
+    "37": [
+      "animal",
+      "creature"
+    ],
+    "38": [
+      "sea level",
+      "sea levels",
+      "water level",
+      "water levels",
+      "sea/water level",
+      "sea/water levels"
+    ],
+    "39": [
+      "hunting"
+    ],
+    "40": [
+      "creation"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c8/t4p1.mp3",
+      "duration": 394,
+      "title": "West Bay Hotel – Job Enquiry",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "West Bay Hotel – details of job",
+          "lines": [
+            "Newspaper advert for temporary staff",
+            "Vacancies for {{1}}",
+            "Two shifts",
+            "Can choose your {{2}} (must be the same each week)",
+            "Pay: £5.50 per hour, including a {{3}}",
+            "A {{4}} is provided in the hotel",
+            "Total weekly pay: £231",
+            "Dress: a white shirt and {{5}} trousers (not supplied)",
+            "{{6}} (supplied)",
+            "Starting date: {{7}}",
+            "Call Jane {{8}} (Service Manager) before {{9}} tomorrow (Tel: 832009)",
+            "She'll require a {{10}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "WOMAN",
+          "t": "Hello, West Bay Hotel.",
+          "start": 121.38,
+          "end": 122.94
+        },
+        {
+          "s": "WOMAN",
+          "t": "Can I help you?",
+          "start": 123.26,
+          "end": 123.9
+        },
+        {
+          "s": "MAN",
+          "t": "Oh, good morning.",
+          "start": 124.18,
+          "end": 125.14
+        },
+        {
+          "s": "MAN",
+          "t": "I'm ringing about your advertisement in the Evening Gazette.",
+          "start": 125.66,
+          "end": 128.3
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is that the one for temporary staff?",
+          "start": 129.02,
+          "end": 130.94
+        },
+        {
+          "s": "MAN",
+          "t": "That's right.",
+          "start": 131.14,
+          "end": 131.74
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes.",
+          "start": 132.72,
+          "end": 132.8
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm afraid the person who's dealing with that isn't in today, but I can give you the main details if you like.",
+          "start": 133.48,
+          "end": 139.56
+        },
+        {
+          "s": "MAN",
+          "t": "Yes please.",
+          "start": 140.2,
+          "end": 140.68
+        },
+        {
+          "s": "MAN",
+          "t": "Could you tell me what kind of staff you are looking for?",
+          "start": 141.48,
+          "end": 143.96
+        },
+        {
+          "s": "WOMAN",
+          "t": "We're looking for waiters at the moment.",
+          "q": [
+            1
+          ],
+          "start": 144.86,
+          "end": 146.26
+        },
+        {
+          "s": "WOMAN",
+          "t": "There was one post for a cook, but that's already been taken.",
+          "start": 146.26,
+          "end": 149.86
+        },
+        {
+          "s": "MAN",
+          "t": "Oh right.",
+          "start": 150.14,
+          "end": 150.94
+        },
+        {
+          "s": "MAN",
+          "t": "Erm, what are the hours of work?",
+          "start": 152.1,
+          "end": 153.54
+        },
+        {
+          "s": "WOMAN",
+          "t": "There are two different shifts — there's a day shift from 7 to 2 and a late shift from 4 till 11.",
+          "start": 154.46,
+          "end": 161.82
+        },
+        {
+          "s": "MAN",
+          "t": "And can people choose which one they want to do?",
+          "start": 162.02,
+          "end": 164.58
+        },
+        {
+          "s": "WOMAN",
+          "t": "Not normally, because everyone would choose the day shift I suppose.",
+          "start": 165.19,
+          "end": 168.35
+        },
+        {
+          "s": "WOMAN",
+          "t": "You alternate from one week to another.",
+          "start": 168.79,
+          "end": 170.83
+        },
+        {
+          "s": "MAN",
+          "t": "Okay.",
+          "start": 170.83,
+          "end": 170.83,
+          "estimated": true
+        },
+        {
+          "s": "MAN",
+          "t": "I'm just writing all this down.",
+          "start": 172.27,
+          "end": 173.43
+        },
+        {
+          "s": "MAN",
+          "t": "What about time off?",
+          "start": 174.31,
+          "end": 175.35
+        },
+        {
+          "s": "WOMAN",
+          "t": "You get one day off and I think you can negotiate which one you want, it's more or less up to you.",
+          "q": [
+            2
+          ],
+          "start": 176.09,
+          "end": 182.09
+        },
+        {
+          "s": "WOMAN",
+          "t": "But it has to be the same one every week.",
+          "start": 182.53,
+          "end": 184.41
+        },
+        {
+          "s": "MAN",
+          "t": "Do you know what the rates of pay are?",
+          "start": 184.69,
+          "end": 187.17
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, I've got them here.",
+          "start": 188.0,
+          "end": 189.8
+        },
+        {
+          "s": "WOMAN",
+          "t": "You get £5.50 an hour, and that includes a break.",
+          "q": [
+            3
+          ],
+          "start": 191.04,
+          "end": 195.0
+        },
+        {
+          "s": "MAN",
+          "t": "Do I have to go home to eat or...",
+          "start": 195.16,
+          "end": 197.24
+        },
+        {
+          "s": "WOMAN",
+          "t": "You don't have to.",
+          "start": 197.82,
+          "end": 198.58
+        },
+        {
+          "s": "WOMAN",
+          "t": "You can get a meal in the hotel if you want to, and there's no charge for it so you might as well.",
+          "q": [
+            4
+          ],
+          "start": 199.06,
+          "end": 203.98
+        },
+        {
+          "s": "MAN",
+          "t": "Oh good.",
+          "start": 204.46,
+          "end": 204.94
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, so let's see.",
+          "start": 205.1,
+          "end": 206.22
+        },
+        {
+          "s": "MAN",
+          "t": "I'd get er, two hundred and twenty one, no, two hundred and thirty one pounds a week?",
+          "start": 206.58,
+          "end": 211.54
+        },
+        {
+          "s": "WOMAN",
+          "t": "You'd also get tips — our guests tend to be quite generous.",
+          "start": 212.1,
+          "end": 215.5
+        },
+        {
+          "s": "MAN",
+          "t": "Erm, is there a uniform?",
+          "start": 254.38,
+          "end": 255.22
+        },
+        {
+          "s": "MAN",
+          "t": "What about clothes?",
+          "start": 255.94,
+          "end": 256.54
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, I forgot to mention that.",
+          "start": 256.86,
+          "end": 258.94
+        },
+        {
+          "s": "WOMAN",
+          "t": "You need to wear a white shirt, just a plain one, and dark trousers.",
+          "start": 259.42,
+          "end": 263.18
+        },
+        {
+          "s": "WOMAN",
+          "t": "You know, not green or anything like that.",
+          "start": 263.78,
+          "end": 265.7
+        },
+        {
+          "s": "WOMAN",
+          "t": "And we don't supply those.",
+          "q": [
+            5
+          ],
+          "start": 266.08,
+          "end": 267.36
+        },
+        {
+          "s": "MAN",
+          "t": "That's okay, I've got trousers, I'd just have to buy a couple of shirts.",
+          "start": 267.36,
+          "end": 271.12
+        },
+        {
+          "s": "MAN",
+          "t": "What about anything else?",
+          "start": 271.48,
+          "end": 272.36
+        },
+        {
+          "s": "MAN",
+          "t": "Do I need a waistcoat or anything?",
+          "start": 272.64,
+          "end": 274.04
+        },
+        {
+          "s": "WOMAN",
+          "t": "You have to wear a jacket, but the hotel lends you that.",
+          "q": [
+            6
+          ],
+          "start": 274.56,
+          "end": 277.16
+        },
+        {
+          "s": "MAN",
+          "t": "I see.",
+          "start": 277.48,
+          "end": 277.84
+        },
+        {
+          "s": "MAN",
+          "t": "Er, one last thing — I don't know what the starting date is.",
+          "start": 278.68,
+          "end": 281.92
+        },
+        {
+          "s": "WOMAN",
+          "t": "Just a minute, I think it's some time around the end of June.",
+          "start": 282.76,
+          "end": 286.8
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, the 28th, in time for the summer.",
+          "q": [
+            7
+          ],
+          "start": 287.76,
+          "end": 290.08
+        },
+        {
+          "s": "MAN",
+          "t": "That's great. I'm available from the 10th.",
+          "start": 290.6,
+          "end": 292.2
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh good.",
+          "start": 292.68,
+          "end": 293.56
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, if you can call again you need to speak to the Service Manager.",
+          "start": 294.08,
+          "end": 297.6
+        },
+        {
+          "s": "WOMAN",
+          "t": "Her name's Jane Urwin, that's U-R-W-I-N, and she'll probably arrange to meet you.",
+          "q": [
+            8
+          ],
+          "start": 298.08,
+          "end": 305.92
+        },
+        {
+          "s": "MAN",
+          "t": "Okay.",
+          "start": 305.92,
+          "end": 305.92,
+          "estimated": true
+        },
+        {
+          "s": "MAN",
+          "t": "And when's the best time to ring?",
+          "start": 307.36,
+          "end": 308.88
+        },
+        {
+          "s": "WOMAN",
+          "t": "Could you call tomorrow?",
+          "start": 309.52,
+          "end": 310.32
+        },
+        {
+          "s": "WOMAN",
+          "t": "Um, she usually starts checking the rooms at midday, so before then if you can, so she'll have more time to chat.",
+          "start": 311.16,
+          "end": 318.04
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'll just give you her number because she's got a direct line.",
+          "q": [
+            9
+          ],
+          "start": 318.84,
+          "end": 321.56
+        },
+        {
+          "s": "MAN",
+          "t": "Thanks.",
+          "start": 321.76,
+          "end": 322.2
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's 832 double-0 9.",
+          "start": 322.52,
+          "end": 325.08
+        },
+        {
+          "s": "MAN",
+          "t": "823 double-0 9?",
+          "start": 326.84,
+          "end": 328.2
+        },
+        {
+          "s": "WOMAN",
+          "t": "832.",
+          "start": 329.5,
+          "end": 330.78
+        },
+        {
+          "s": "MAN",
+          "t": "Oh, okay.",
+          "start": 331.1,
+          "end": 331.86
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, I'll do that.",
+          "start": 332.78,
+          "end": 333.54
+        },
+        {
+          "s": "WOMAN",
+          "t": "And by the way, she will ask you for a reference, so you might like to be thinking about that.",
+          "q": [
+            10
+          ],
+          "start": 333.7,
+          "end": 338.5
+        },
+        {
+          "s": "WOMAN",
+          "t": "You know, just someone who knows you and can vouch for you.",
+          "start": 338.94,
+          "end": 341.46
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, no problem.",
+          "start": 341.92,
+          "end": 342.92
+        },
+        {
+          "s": "MAN",
+          "t": "Well, thanks very much for your help.",
+          "start": 343.0,
+          "end": 344.68
+        },
+        {
+          "s": "WOMAN",
+          "t": "You're welcome.",
+          "start": 344.8,
+          "end": 345.32
+        },
+        {
+          "s": "WOMAN",
+          "t": "Bye.",
+          "start": 345.6,
+          "end": 346.08
+        },
+        {
+          "s": "MAN",
+          "t": "Bye.",
+          "start": 346.36,
+          "end": 346.8
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c8/t4p2.mp3",
+      "duration": 339,
+      "title": "Improvements to Red Hill Suburb",
+      "groups": [
+        {
+          "range": [
+            11,
+            13
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Improvements to Red Hill Suburb",
+          "questions": [
+            {
+              "n": 11,
+              "text": "Community groups are mainly concerned about",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "pedestrian safety."
+                },
+                {
+                  "k": "B",
+                  "text": "traffic jams."
+                },
+                {
+                  "k": "C",
+                  "text": "increased pollution."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "It has been decided that the overhead power lines will be",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "extended."
+                },
+                {
+                  "k": "B",
+                  "text": "buried."
+                },
+                {
+                  "k": "C",
+                  "text": "repaired."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "The expenses related to the power lines will be paid for by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the council."
+                },
+                {
+                  "k": "B",
+                  "text": "the power company."
+                },
+                {
+                  "k": "C",
+                  "text": "local businesses."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            14,
+            20
+          ],
+          "type": "matching",
+          "instruction": "Label the map below. Write the correct letter, A-H, next to questions 14-20.（原题为地图标注题（Red Hill Improvement Plan 地图），见原书；此处按方位描述转换为配对题）",
+          "optionsTitle": "Locations on the Red Hill Improvement Plan map",
+          "options": [
+            {
+              "k": "A",
+              "text": "a house set back from Hill Street, on the opposite side of the road from the supermarket"
+            },
+            {
+              "k": "B",
+              "text": "the corner of the supermarket block nearest the junction of Evelyn Street and Hill Street"
+            },
+            {
+              "k": "C",
+              "text": "the side of the supermarket facing Days Road"
+            },
+            {
+              "k": "D",
+              "text": "the corner where Carberry Street meets Thomas Street"
+            },
+            {
+              "k": "E",
+              "text": "houses on Hill Street at its far end, near Carberry Street"
+            },
+            {
+              "k": "F",
+              "text": "a point on Hill Street partway between the two rows of houses, where it crosses Days Road"
+            },
+            {
+              "k": "G",
+              "text": "the corner where Thomas Street meets Days Road"
+            },
+            {
+              "k": "H",
+              "text": "a row of houses on Thomas Street (not used)"
+            }
+          ],
+          "items": [
+            {
+              "n": 14,
+              "text": "trees"
+            },
+            {
+              "n": 15,
+              "text": "wider footpaths"
+            },
+            {
+              "n": 16,
+              "text": "coloured road surface"
+            },
+            {
+              "n": 17,
+              "text": "new sign"
+            },
+            {
+              "n": 18,
+              "text": "traffic lights"
+            },
+            {
+              "n": 19,
+              "text": "artwork"
+            },
+            {
+              "n": 20,
+              "text": "children's playground"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "CAROL",
+          "t": "Good morning and welcome again to Your City Today.",
+          "start": 49.03,
+          "end": 52.43
+        },
+        {
+          "s": "CAROL",
+          "t": "With me today is Graham Campbell, a councillor from the city council.",
+          "start": 53.67,
+          "end": 57.59
+        },
+        {
+          "s": "CAROL",
+          "t": "He will be telling us about the plan to improve the fast-growing suburb of Red Hill.",
+          "start": 58.71,
+          "end": 62.95
+        },
+        {
+          "s": "CAROL",
+          "t": "Good morning Graham and welcome to the show.",
+          "start": 63.53,
+          "end": 65.13
+        },
+        {
+          "s": "GRAHAM",
+          "t": "Good morning, Carol.",
+          "start": 65.25,
+          "end": 65.93
+        },
+        {
+          "s": "CAROL",
+          "t": "Now, Graham, I understand that there has been a lot of community consultation for the new plan?",
+          "start": 65.93,
+          "end": 72.13
+        },
+        {
+          "s": "GRAHAM",
+          "t": "Yes, we've tried to address some of the concerns that local groups told us about.",
+          "start": 72.77,
+          "end": 76.77
+        },
+        {
+          "s": "GRAHAM",
+          "t": "People we've heard from are mainly worried about traffic in the area, and, in particular, the increasing speed of cars near schools.",
+          "start": 77.37,
+          "end": 84.93
+        },
+        {
+          "s": "GRAHAM",
+          "t": "They feel that it is only a matter of time before there is an accident as a lot of the children walk to the school.",
+          "q": [
+            11
+          ],
+          "start": 85.05,
+          "end": 90.73
+        },
+        {
+          "s": "GRAHAM",
+          "t": "So we're trying to do something about that.",
+          "start": 91.51,
+          "end": 93.95
+        },
+        {
+          "s": "GRAHAM",
+          "t": "Another area of concern is the overhead power lines.",
+          "start": 93.95,
+          "end": 97.87
+        },
+        {
+          "s": "GRAHAM",
+          "t": "These are very old and a lot of people we spoke to asked if something could be done about them.",
+          "start": 98.15,
+          "end": 103.27
+        },
+        {
+          "s": "GRAHAM",
+          "t": "Well, I'm happy to report that the power company have agreed to move the power lines underground at a cost of $800,000.",
+          "start": 104.1,
+          "end": 111.26
+        },
+        {
+          "s": "GRAHAM",
+          "t": "I think that will really improve the look of the area, as well as being safer.",
+          "q": [
+            12
+          ],
+          "start": 113.26,
+          "end": 116.92
+        },
+        {
+          "s": "CAROL",
+          "t": "That's good to know, but will that mean an increase in rates for the local businesses in that area?",
+          "start": 117.68,
+          "end": 123.56
+        },
+        {
+          "s": "GRAHAM",
+          "t": "Well, the power company have agreed to bear the cost of this themselves after a lot of discussion with the council.",
+          "q": [
+            13
+          ],
+          "start": 124.32,
+          "end": 129.88
+        },
+        {
+          "s": "GRAHAM",
+          "t": "This is wonderful news as the council now has some extra funds for us to put into other things like tree planting and art work.",
+          "start": 130.84,
+          "end": 137.56
+        },
+        {
+          "s": "GRAHAM",
+          "t": "Now, we've also put together a map which we've sent out to all the residents in the area.",
+          "start": 183.23,
+          "end": 195.47
+        },
+        {
+          "s": "GRAHAM",
+          "t": "And on the map we've marked the proposed changes.",
+          "start": 195.95,
+          "end": 198.07
+        },
+        {
+          "s": "GRAHAM",
+          "t": "Firstly, we'll plant mature pine trees to provide shelter and shade just to the right of the supermarket in Days Road.",
+          "q": [
+            14
+          ],
+          "start": 198.31,
+          "end": 205.69
+        },
+        {
+          "s": "GRAHAM",
+          "t": "In order to address the traffic problems, the pavements on the corner of Carberry and Thomas Street will be widened.",
+          "q": [
+            15
+          ],
+          "start": 206.73,
+          "end": 212.61
+        },
+        {
+          "s": "GRAHAM",
+          "t": "This will help to reduce the speed of vehicles entering Thomas Street.",
+          "start": 213.73,
+          "end": 217.17
+        },
+        {
+          "s": "GRAHAM",
+          "t": "We think it's very important to separate the local residential streets from the main road.",
+          "start": 218.3,
+          "end": 222.34
+        },
+        {
+          "s": "GRAHAM",
+          "t": "So the roadway at the entry to Thomas Street from Days Road will be painted red.",
+          "q": [
+            16
+          ],
+          "start": 222.82,
+          "end": 227.58
+        },
+        {
+          "s": "GRAHAM",
+          "t": "This should mark it more clearly and act as a signal for traffic to slow down.",
+          "start": 228.46,
+          "end": 232.42
+        },
+        {
+          "s": "GRAHAM",
+          "t": "One way of making sure that the pedestrians are safe is to increase signage at the intersections.",
+          "start": 233.96,
+          "end": 238.6
+        },
+        {
+          "s": "GRAHAM",
+          "t": "A 'keep clear' sign will be erected at the junction of Evelyn Street and Hill Street, to enable traffic to exit at all times.",
+          "q": [
+            17
+          ],
+          "start": 238.72,
+          "end": 246.51
+        },
+        {
+          "s": "GRAHAM",
+          "t": "Something we're planning to do to help control the flow of traffic in the area is to install traffic lights halfway down Hill Street where it crosses Days Road.",
+          "q": [
+            18
+          ],
+          "start": 246.63,
+          "end": 255.75
+        },
+        {
+          "s": "GRAHAM",
+          "t": "Now, we haven't only thought about the cars and traffic, of course, there's also something for the children.",
+          "start": 257.04,
+          "end": 262.52
+        },
+        {
+          "s": "GRAHAM",
+          "t": "We're going to get school children in the area to research a local story, the life of a local sports hero perhaps, and an artist will incorporate that story into paintings on the wall of a building on the other side of Hill Street from the supermarket.",
+          "q": [
+            19
+          ],
+          "start": 262.72,
+          "end": 276.72
+        },
+        {
+          "s": "GRAHAM",
+          "t": "And finally, we've agreed to build a new children's playground which will be at the other end of Hill Street close to the intersection with Carberry Street.",
+          "q": [
+            20
+          ],
+          "start": 277.59,
+          "end": 285.83
+        },
+        {
+          "s": "CAROL",
+          "t": "Wonderful, now, what's the next stage?",
+          "start": 285.99,
+          "end": 289.85
+        },
+        {
+          "s": "GRAHAM",
+          "t": "Well, the final plan. . .",
+          "start": 290.57,
+          "end": 292.37
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c8/t4p3.mp3",
+      "duration": 396,
+      "title": "Financing a Course and College Life",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "In which TWO ways is Dan financing his course?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "He is receiving money from the government."
+            },
+            {
+              "k": "B",
+              "text": "His family are willing to help him."
+            },
+            {
+              "k": "C",
+              "text": "The college is giving him a small grant."
+            },
+            {
+              "k": "D",
+              "text": "His local council is supporting him for a limited period."
+            },
+            {
+              "k": "E",
+              "text": "A former employer is providing partial funding."
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            24
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO reasons does Jeannie give for deciding to leave some college clubs?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "She is not sufficiently challenged."
+            },
+            {
+              "k": "B",
+              "text": "The activity interferes with her studies."
+            },
+            {
+              "k": "C",
+              "text": "She does not have enough time."
+            },
+            {
+              "k": "D",
+              "text": "The activity is too demanding physically."
+            },
+            {
+              "k": "E",
+              "text": "She does not think she is any good at the activity."
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            26
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 25,
+              "text": "What does Dan say about the seminars on the course?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "The other students do not give him a chance to speak."
+                },
+                {
+                  "k": "B",
+                  "text": "The seminars make him feel inferior to the other students."
+                },
+                {
+                  "k": "C",
+                  "text": "The preparation for seminars takes too much time."
+                }
+              ]
+            },
+            {
+              "n": 26,
+              "text": "What does Jeannie say about the tutorials on the course?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "They are an inefficient way of providing guidance."
+                },
+                {
+                  "k": "B",
+                  "text": "They are more challenging than she had expected."
+                },
+                {
+                  "k": "C",
+                  "text": "They are helping her to develop her study skills."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "notes",
+          "instruction": "Complete the flow-chart below.",
+          "limit": "Choose NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "Advice on exam preparation",
+          "lines": [
+            "Make sure you know the exam requirements",
+            "Find some past papers",
+            "Work out your {{27}} for revision and write them on a card",
+            "Make a {{28}} and keep it in view",
+            "Divide revision into {{29}} for each day",
+            "Write one {{30}} about each topic",
+            "Practise writing some exam answers"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "DAN",
+          "t": "Hi Jeannie.",
+          "start": 53.77,
+          "end": 54.37
+        },
+        {
+          "s": "DAN",
+          "t": "How's it going?",
+          "start": 54.69,
+          "end": 55.25
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Oh, hello Dan.",
+          "start": 55.45,
+          "end": 56.49
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Pretty well, thanks.",
+          "start": 56.65,
+          "end": 57.93
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Have you managed to get the money for the course yet?",
+          "start": 57.93,
+          "end": 61.05
+        },
+        {
+          "s": "DAN",
+          "t": "Yes, that's all sorted out now, thanks.",
+          "start": 61.37,
+          "end": 63.97
+        },
+        {
+          "s": "DAN",
+          "t": "It took long enough, though.",
+          "start": 64.49,
+          "end": 65.69
+        },
+        {
+          "s": "DAN",
+          "t": "It was practically a year ago that I applied to my local council for a grant, and it took them six months to turn me down.",
+          "start": 66.19,
+          "end": 72.79
+        },
+        {
+          "s": "JEANNIE",
+          "t": "That's really slow.",
+          "start": 73.03,
+          "end": 74.35
+        },
+        {
+          "s": "DAN",
+          "t": "And I thought I was eligible for government funding, but it seems I was mistaken.",
+          "start": 74.75,
+          "end": 79.43
+        },
+        {
+          "s": "DAN",
+          "t": "So then I asked the boss of the company I used to work for if they would sponsor me, and much to my surprise, he said they'd make a contribution.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 80.5,
+          "end": 88.18
+        },
+        {
+          "s": "JEANNIE",
+          "t": "But what about college grants and scholarships?",
+          "start": 88.46,
+          "end": 91.74
+        },
+        {
+          "s": "JEANNIE",
+          "t": "There must be some you could apply for.",
+          "start": 92.39,
+          "end": 94.03
+        },
+        {
+          "s": "DAN",
+          "t": "Yes, there are, but they're all so small that I decided to leave them until I was desperate.",
+          "start": 94.23,
+          "end": 99.39
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Uhuh.",
+          "start": 99.39,
+          "end": 99.39,
+          "estimated": true
+        },
+        {
+          "s": "DAN",
+          "t": "And in fact I didn't need to apply.",
+          "start": 100.03,
+          "end": 102.31
+        },
+        {
+          "s": "DAN",
+          "t": "My parents had been saying that as I already had a job, I ought to support myself through college.",
+          "start": 102.87,
+          "end": 108.27
+        },
+        {
+          "s": "DAN",
+          "t": "But in the end they took pity on me, so now I've just about got enough.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 108.96,
+          "end": 113.12
+        },
+        {
+          "s": "JEANNIE",
+          "t": "That's good.",
+          "start": 113.28,
+          "end": 114.0
+        },
+        {
+          "s": "DAN",
+          "t": "So now I can put a bit of effort into meeting people — I haven't had time so far.",
+          "start": 114.44,
+          "end": 119.48
+        },
+        {
+          "s": "DAN",
+          "t": "Any suggestions?",
+          "start": 120.01,
+          "end": 121.05
+        },
+        {
+          "s": "JEANNIE",
+          "t": "What about joining some college clubs?",
+          "start": 121.97,
+          "end": 124.09
+        },
+        {
+          "s": "DAN",
+          "t": "Oh right.",
+          "start": 124.09,
+          "end": 124.09,
+          "estimated": true
+        },
+        {
+          "s": "DAN",
+          "t": "You joined several didn't you?",
+          "start": 125.45,
+          "end": 126.81
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Yes, I'm in the drama club.",
+          "start": 126.89,
+          "end": 129.29
+        },
+        {
+          "s": "JEANNIE",
+          "t": "It's our first performance next week, so we're rehearsing frantically, and I've got behind with my work, but it's worth it.",
+          "start": 129.73,
+          "end": 136.98
+        },
+        {
+          "s": "JEANNIE",
+          "t": "I'm hoping to be in the spring production, too.",
+          "start": 137.18,
+          "end": 139.7
+        },
+        {
+          "s": "DAN",
+          "t": "I've never liked acting.",
+          "start": 139.82,
+          "end": 141.7
+        },
+        {
+          "s": "DAN",
+          "t": "Are you doing anything else?",
+          "start": 142.02,
+          "end": 143.46
+        },
+        {
+          "s": "JEANNIE",
+          "t": "I enjoyed singing when I was at school, so I joined a group when I came to college.",
+          "start": 144.02,
+          "end": 148.55
+        },
+        {
+          "s": "JEANNIE",
+          "t": "I don't think the conductor stretches us enough, though so I'll give up after the next concert.",
+          "q": [
+            23,
+            24
+          ],
+          "start": 149.27,
+          "end": 153.87
+        },
+        {
+          "s": "JEANNIE",
+          "t": "And I also joined the debating society.",
+          "start": 154.67,
+          "end": 156.91
+        },
+        {
+          "s": "JEANNIE",
+          "t": "It's fun, but with all the rehearsing I'm doing, something has to go, and I'm afraid that's the one.",
+          "q": [
+            23,
+            24
+          ],
+          "start": 157.97,
+          "end": 163.93
+        },
+        {
+          "s": "DAN",
+          "t": "Do you do any sports?",
+          "start": 164.05,
+          "end": 165.33
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Yes, I'm in one of the hockey teams.",
+          "start": 165.97,
+          "end": 168.01
+        },
+        {
+          "s": "JEANNIE",
+          "t": "I'm not very good, but I'd really miss it if I stopped.",
+          "start": 168.51,
+          "end": 171.27
+        },
+        {
+          "s": "JEANNIE",
+          "t": "I decided to try tennis when I came to college, and I'm finding it pretty tough going.",
+          "start": 172.27,
+          "end": 177.15
+        },
+        {
+          "s": "JEANNIE",
+          "t": "I'm simply not fit enough.",
+          "start": 177.79,
+          "end": 179.23
+        },
+        {
+          "s": "DAN",
+          "t": "Nor me.",
+          "start": 179.23,
+          "end": 179.23,
+          "estimated": true
+        },
+        {
+          "s": "DAN",
+          "t": "I think I'll give that a miss!",
+          "start": 180.57,
+          "end": 181.65
+        },
+        {
+          "s": "JEANNIE",
+          "t": "I'm hoping it'll help me to build up my stamina, but it'll probably be a long haul.",
+          "start": 181.97,
+          "end": 186.81
+        },
+        {
+          "s": "DAN",
+          "t": "Good luck.",
+          "start": 187.01,
+          "end": 187.61
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Thanks.",
+          "start": 187.65,
+          "end": 188.13
+        },
+        {
+          "s": "DAN",
+          "t": "How are you finding the course?",
+          "start": 188.41,
+          "end": 189.85
+        },
+        {
+          "s": "JEANNIE",
+          "t": "I wish we had more seminars.",
+          "start": 190.73,
+          "end": 192.57
+        },
+        {
+          "s": "DAN",
+          "t": "What?",
+          "start": 192.89,
+          "end": 193.25
+        },
+        {
+          "s": "DAN",
+          "t": "I'd have thought we had more than enough already.",
+          "start": 193.49,
+          "end": 196.21
+        },
+        {
+          "s": "DAN",
+          "t": "All those people saying clever things that I could never think of — it's quite interesting, but I wonder if I'm clever enough to be doing this course.",
+          "q": [
+            25
+          ],
+          "start": 196.81,
+          "end": 205.07
+        },
+        {
+          "s": "JEANNIE",
+          "t": "I find it helpful to listen to the other people.",
+          "start": 205.75,
+          "end": 207.99
+        },
+        {
+          "s": "JEANNIE",
+          "t": "I like the way we're exploring the subject, and working towards getting insight into it.",
+          "start": 208.83,
+          "end": 213.79
+        },
+        {
+          "s": "DAN",
+          "t": "How do you get on with your tutor?",
+          "start": 214.45,
+          "end": 216.01
+        },
+        {
+          "s": "DAN",
+          "t": "I don't think I'm on the same wavelength as mine, so I feel I'm not getting anything out of the tutorials.",
+          "start": 216.89,
+          "end": 222.29
+        },
+        {
+          "s": "DAN",
+          "t": "It would be more productive to read a book instead.",
+          "start": 222.41,
+          "end": 225.45
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Oh, mine's very demanding.",
+          "start": 226.07,
+          "end": 227.43
+        },
+        {
+          "s": "JEANNIE",
+          "t": "She gives me lots of feedback and advice, so I've got much better at writing essays.",
+          "q": [
+            26
+          ],
+          "start": 227.67,
+          "end": 232.83
+        },
+        {
+          "s": "JEANNIE",
+          "t": "And she's helping me plan my revision for the end-of-year exams.",
+          "start": 232.91,
+          "end": 236.55
+        },
+        {
+          "s": "DAN",
+          "t": "Do tell me, I always struggle with revision.",
+          "start": 237.11,
+          "end": 238.91
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Well, the first thing is to find out exactly what's required in the exams.",
+          "start": 277.33,
+          "end": 282.05
+        },
+        {
+          "s": "DAN",
+          "t": "Mm.",
+          "start": 282.05,
+          "end": 282.05,
+          "estimated": true
+        },
+        {
+          "s": "DAN",
+          "t": "Would it help to get hold of some past papers?",
+          "start": 283.57,
+          "end": 285.65
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Yes.",
+          "start": 285.93,
+          "end": 286.37
+        },
+        {
+          "s": "JEANNIE",
+          "t": "They'll help to make it clear.",
+          "start": 287.17,
+          "end": 288.33
+        },
+        {
+          "s": "DAN",
+          "t": "Right, I'll do that.",
+          "start": 288.49,
+          "end": 289.57
+        },
+        {
+          "s": "DAN",
+          "t": "Then what?",
+          "start": 289.57,
+          "end": 290.69
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Then you can sort out your revision priorities, based on what's most likely to come up.",
+          "q": [
+            27
+          ],
+          "start": 290.81,
+          "end": 295.73
+        },
+        {
+          "s": "JEANNIE",
+          "t": "I put these on a card, and read them through regularly.",
+          "start": 296.37,
+          "end": 298.57
+        },
+        {
+          "s": "DAN",
+          "t": "Uhuh.",
+          "start": 298.57,
+          "end": 298.57,
+          "estimated": true
+        },
+        {
+          "s": "JEANNIE",
+          "t": "But that isn't enough in itself.",
+          "start": 299.65,
+          "end": 301.33
+        },
+        {
+          "s": "JEANNIE",
+          "t": "You also need a timetable, to see how you can fit everything in, in the time available.",
+          "q": [
+            28
+          ],
+          "start": 302.13,
+          "end": 306.29
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Then keep it in front of you while you're studying.",
+          "start": 306.45,
+          "end": 309.01
+        },
+        {
+          "s": "DAN",
+          "t": "I've done that before, but it hasn't helped me!",
+          "start": 309.33,
+          "end": 311.89
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Maybe you need to do something different every day, so if you break down your revision into small tasks, and allocate them to specific days, there's more incentive to tackle them.",
+          "q": [
+            29
+          ],
+          "start": 312.33,
+          "end": 321.69
+        },
+        {
+          "s": "JEANNIE",
+          "t": "With big topics you're more likely to put off starting.",
+          "start": 322.49,
+          "end": 325.01
+        },
+        {
+          "s": "DAN",
+          "t": "Good idea.",
+          "start": 325.77,
+          "end": 326.29
+        },
+        {
+          "s": "JEANNIE",
+          "t": "And as I revise each topic I write a single paragraph about it — then later I can read it through quickly, and it helps fix things in my mind.",
+          "q": [
+            30
+          ],
+          "start": 326.81,
+          "end": 335.4
+        },
+        {
+          "s": "DAN",
+          "t": "That's brilliant.",
+          "start": 335.88,
+          "end": 336.48
+        },
+        {
+          "s": "JEANNIE",
+          "t": "I also write answers to questions for the exam practice.",
+          "start": 337.16,
+          "end": 340.0
+        },
+        {
+          "s": "JEANNIE",
+          "t": "It's hard to make myself do it, though!",
+          "start": 340.56,
+          "end": 342.2
+        },
+        {
+          "s": "DAN",
+          "t": "Well, I'll try.",
+          "start": 343.82,
+          "end": 344.54
+        },
+        {
+          "s": "DAN",
+          "t": "Thanks a lot, Jeannie.",
+          "start": 345.06,
+          "end": 346.34
+        },
+        {
+          "s": "DAN",
+          "t": "That's a great help.",
+          "start": 346.46,
+          "end": 347.26
+        },
+        {
+          "s": "JEANNIE",
+          "t": "No problem.",
+          "start": 347.5,
+          "end": 348.02
+        },
+        {
+          "s": "DAN",
+          "t": "See you around.",
+          "start": 348.18,
+          "end": 349.06
+        },
+        {
+          "s": "JEANNIE",
+          "t": "Bye.",
+          "start": 349.18,
+          "end": 349.46
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c8/t4p4.mp3",
+      "duration": 408,
+      "title": "Australian Aboriginal Rock Paintings",
+      "groups": [
+        {
+          "range": [
+            31,
+            36
+          ],
+          "type": "matching",
+          "instruction": "Which painting styles have the following features? Write the correct letter, A, B or C, next to questions 31-36.",
+          "optionsTitle": "Painting Styles",
+          "options": [
+            {
+              "k": "A",
+              "text": "Dynamic"
+            },
+            {
+              "k": "B",
+              "text": "Yam"
+            },
+            {
+              "k": "C",
+              "text": "Modern"
+            }
+          ],
+          "itemsTitle": "Features",
+          "items": [
+            {
+              "n": 31,
+              "text": "figures revealing bones"
+            },
+            {
+              "n": 32,
+              "text": "rounded figures"
+            },
+            {
+              "n": 33,
+              "text": "figures with parts missing"
+            },
+            {
+              "n": 34,
+              "text": "figures smaller than life size"
+            },
+            {
+              "n": 35,
+              "text": "sea creatures"
+            },
+            {
+              "n": 36,
+              "text": "plants"
+            }
+          ]
+        },
+        {
+          "range": [
+            37,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Rainbow Serpent Project",
+          "lines": [
+            "Aim of project: to identify the {{37}} used as the basis for the Rainbow Serpent",
+            "## Yam Period",
+            "environmental changes led to higher {{38}}",
+            "traditional activities were affected, especially {{39}}",
+            "## Rainbow Serpent image",
+            "similar to a sea horse",
+            "unusual because it appeared in inland areas",
+            "symbolises {{40}} in Aboriginal culture"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning, everyone.",
+          "start": 74.78,
+          "end": 75.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I've been invited to talk about my research project into Australian Aboriginal rock paintings.",
+          "start": 75.94,
+          "end": 81.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Australian Aborigines have recorded both real and symbolic images of their time on rock walls for many thousands of years.",
+          "start": 81.46,
+          "end": 89.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Throughout the long history of this tradition, new images have appeared and new painting styles have developed.",
+          "start": 90.59,
+          "end": 96.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And these characteristics can be used to categorise the different artistic styles.",
+          "start": 96.91,
+          "end": 101.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Among these are what we call the Dynamic, Yam and Modern styles of painting.",
+          "start": 102.48,
+          "end": 107.24
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One of the most significant characteristics of the different styles is the way that humans are depicted in the paintings.",
+          "start": 108.94,
+          "end": 114.86
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The more recent paintings show people in static poses.",
+          "start": 115.74,
+          "end": 119.06
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But the first human images to dominate rock art paintings, over 8,000 years ago, were full of movement.",
+          "start": 119.94,
+          "end": 126.34
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These paintings showed people hunting and cooking food and so they were given the name 'Dynamic' to reflect this energy.",
+          "start": 126.74,
+          "end": 134.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's quite amazing considering they were painted in such a simple stick-like form.",
+          "start": 135.09,
+          "end": 139.13
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the Yam period, there was a movement away from stick figures to a more naturalistic shape.",
+          "start": 140.29,
+          "end": 145.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, they didn't go as far as the Modern style, which is known as 'x-ray' because it actually makes a feature of the internal skeleton as well as the organs of animals and humans.",
+          "q": [
+            31
+          ],
+          "start": 146.33,
+          "end": 156.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Yam style of painting got its name from the fact that it featured much curvier figures that actually resemble the vegetable called a yam, which is similar to a sweet potato.",
+          "q": [
+            32
+          ],
+          "start": 157.43,
+          "end": 167.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Modern paintings are interesting because they include paintings at the time of the first contact with European settlers.",
+          "start": 168.54,
+          "end": 174.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Aborigines managed to convey the idea of the settlers' clothing by simply painting the Europeans without any hands, indicating the habit of standing with their hands in their pockets!",
+          "q": [
+            33
+          ],
+          "start": 176.14,
+          "end": 185.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Size is another characteristic.",
+          "start": 185.84,
+          "end": 188.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The more recent images tend to be life size or even larger, but the Dynamic figures are painted in miniature.",
+          "q": [
+            34
+          ],
+          "start": 189.12,
+          "end": 195.63
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Aboriginal rock art also records the environmental changes that occurred over thousands of years.",
+          "start": 197.66,
+          "end": 202.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example, we know from the Dynamic paintings that over 8,000 years ago, Aborigines would have rarely eaten fish and sea levels were much lower at this time.",
+          "q": [
+            35
+          ],
+          "start": 203.58,
+          "end": 213.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In fact, fish didn't start to appear in paintings until the Yam period along with shells and other marine images.",
+          "start": 214.53,
+          "end": 221.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The paintings of the Yam tradition also suggest that, during this time, the Aborigines moved away from animals as their main food source and began including vegetables in their diet, as these feature prominently.",
+          "q": [
+            36
+          ],
+          "start": 223.08,
+          "end": 235.46
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Freshwater creatures didn't appear in the paintings until the Modern period from 4,000 years ago.",
+          "start": 236.92,
+          "end": 242.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, these paintings have already taught us a lot.",
+          "start": 247.98,
+          "end": 250.54
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But one image that has always intrigued us is known as the 'Rainbow Serpent'.",
+          "start": 251.22,
+          "end": 254.58
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Rainbow Serpent, which is the focus of my most recent project, gets its name from its snake or serpent-like body and it first appeared in the Yam period 4 to 6,000 years ago.",
+          "start": 256.5,
+          "end": 268.05
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Many believe it is a curious mixture of kangaroo, snake and crocodile.",
+          "start": 269.16,
+          "end": 273.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But we decided to study the Rainbow Serpent paintings to see if we could locate the animal that the very first painters based their image on.",
+          "q": [
+            37
+          ],
+          "start": 273.36,
+          "end": 281.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Yam period coincided with the end of the last ice age.",
+          "start": 283.34,
+          "end": 286.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This brought about tremendous change in the environment, with the sea levels rising and creeping steadily inland.",
+          "q": [
+            38
+          ],
+          "start": 287.14,
+          "end": 293.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This flooded many familiar land features and also caused a great deal of disruption to traditional patterns of life, hunting in particular.",
+          "q": [
+            39
+          ],
+          "start": 294.7,
+          "end": 302.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "New shores were formed and totally different creatures would have washed up onto the shores.",
+          "start": 303.99,
+          "end": 308.27
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We studied 107 paintings of the Rainbow Serpent and found that the one creature that matches it most closely was the Ribboned Pipefish, which is a type of sea horse.",
+          "start": 308.39,
+          "end": 319.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This sea creature would have been a totally unfamiliar sight in the inland regions where the image is found and may have been the inspiration behind the early paintings.",
+          "start": 319.96,
+          "end": 330.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, at the end of the ice age there would have been enormous changes in animal and plant life.",
+          "start": 331.8,
+          "end": 337.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's not surprising then, that the Aborigines linked this abundance to the new creatures they witnessed.",
+          "start": 338.24,
+          "end": 343.64
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Even today, Aborigines see the Rainbow Serpent as a symbol of creation, which is understandable given the increase in vegetation and the new life forms that featured when the image first appeared.",
+          "q": [
+            40
+          ],
+          "start": 343.92,
+          "end": 356.09
+        }
+      ]
+    }
+  ]
+}

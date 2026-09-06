@@ -1,0 +1,99 @@
+{
+  "id": "c8t4",
+  "book": "剑桥雅思8",
+  "test": 4,
+  "title": "剑8 Test 4 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "line-graph",
+      "kindZh": "曲线图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The graph below shows the quantities of goods transported in the UK between 1974 and 2002 by four different modes of transport.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c8t4-task1.webp",
+      "imageCaption": "Goods transported in UK (1974-2002)",
+      "data": {
+        "unit": "Million tonnes",
+        "years": [
+          1974,
+          1978,
+          1982,
+          1986,
+          1990,
+          1994,
+          1998,
+          2002
+        ],
+        "series": {
+          "Road": [
+            70,
+            73,
+            68,
+            75,
+            83,
+            77,
+            90,
+            98
+          ],
+          "Water": [
+            37,
+            39,
+            55,
+            57,
+            58,
+            55,
+            51,
+            65
+          ],
+          "Rail": [
+            39,
+            38,
+            30,
+            32,
+            34,
+            25,
+            34,
+            41
+          ],
+          "Pipeline": [
+            5,
+            6,
+            14,
+            15,
+            17,
+            23,
+            23,
+            22
+          ]
+        }
+      },
+      "sample": {
+        "band": 8,
+        "text": "The graph illustrates the quantities of goods transported in the United Kingdom by four different modes of transport between the time period of 1974 and 2002. Over this span of 28 years, the quantities of goods transported by road, water and pipeline have all increased while the quantity transported by rail has remained almost constant at about 40 million tonnes.\n\nThe largest quantity of goods transported both in 1974 and 2002 was by road (70 million tonnes and 98 million tonnes respectively) while the lowest both in 1974 and 2002 was by pipeline (about 5 million tonnes and 22 million tonnes respectively). The amount of goods transported by water was constant from 1974 to 1978, where it showed an exponential growth, rising to almost 60 million tonnes after which it plateaued for about 20 years before starting to rise gradually again.\n\nThe amount of goods transported by rail is almost constant at 40 million tonnes in 1974 and 2002, with decreases in quantity in between the years. It is also interesting to note that almost all showed a decrease in 1994 in amount of goods transported except for the pipeline, which actually peaked in that year.\n\nIn conclusion the road remains the most popular method of transporting goods in the UK while water and pipelines are becoming increasingly used, have not become more popular as a method of transport.",
+        "comment": "This answer covers all the relevant information in the task, and clearly highlights the main trends and comparisons. The only thing that would improve this answer is an introduction to the topic that is not so closely copied from the prompt.\n\nThe message is easy to follow because paragraphing is logical and information is clearly linked across the whole answer. A wide range of vocabulary is used accurately and effectively, although there are some rare imprecise choices and some repetitions. Similarly, a wide range of grammatical structures and sentence forms is used accurately and effectively, with only one significant error where punctuation is omitted in the final paragraph. Overall, most sentences are accurate."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "two-part",
+      "kindZh": "双问题",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "In some countries the average weight of people is increasing and their levels of health and fitness are decreasing.",
+        "What do you think are the causes of these problems and what measures could be taken to solve them?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 6.5,
+        "text": "In some countries the average weight of people is increasing and their levels of health and fitness are decreasing. I think that the cause of these problems are due to unhealthy lifestyle and the lack of exercise.\n\nNowadays, people are getting more and more lazy. They want convience in everything. When they come home from work, they will have microwaved dinner or fast food so that they do not have to take the trouble to prepare a meal or wash up after dinner. The introduction of fast food is also the main cause of unhealthy living. People are opting a fast food restaurant meal rather than a simple homecooked meal. Yes, your burgers and pizzas tasted better than a homecooked meal but think of all the calories you are swallowing. The oil they used to fry your fries. It is literally black. Eating too much fast food will also lead to health problems. Sugary drinks, packeted chips, candies and chocolate are also some of the causes that contributes to unhealthy lifestyle. Heavy consumption can lead to weight gain and diabeties.\n\nI think that the main cause is the lack of exercise. As you grow older, your metabolism rate drops. Even if you are eating the same amount as before, you will still gain weight. The one and only solution to this is exercise. The recommended exercise per day is at least 30 minutes of brisk walking. This target can be easily achieved if people do not drive to work. They can take a bus or a train and drip one stop earlier than walk to the office. Every little bit counts. When you comes home from work, you can play with your kids or bring the dog for a walk. Anything to get your attention away from the couch. More exercise will surpress your cravings for sugary stuffs.\n\nPeople should also balance their diet. For example, by eating more vegetables and fruits. Eat less meat and drink plenty of water throughout the day. Organise time with your family to take a walk outdoors to enjoy the sceneries rather than cooping yourself in the house. This is healthy living for the body, heart and the soul. It is also less likely to fall sick if you do plenty of exercise as your body is strong enough to fight off illness and diseases.",
+        "comment": "This script answers both parts of the task and presents a clear opinion on the issues. There are relevant main ideas, although the supporting examples are sometimes less appropriate. The answer is organised with some good use of connectives and time-markers giving an overall progression to the argument. There are also mistakes, however, and some lack of linking between sentences. Paragraphing is used, but is not always logical, and the concluding paragraph is confused. The range of vocabulary is the best feature of this script, and includes some good use of natural expressions and idiomatic language. There is some inappropriate use of a less formal style at times, but control is generally good. There are few word choices that are inaccurate, and errors in word form and spelling are only occasional. A variety of sentence forms is used with accuracy and fluency, but there are a lot of short, simple sentences that reduce the range of complex structures. There are grammatical errors and omissions, but these are not frequent."
+      }
+    }
+  ]
+}
