@@ -8,7 +8,7 @@
     {
       "part": 1,
       "audio": "/audio/c17/t2p1.mp3",
-      "duration": 0,
+      "duration": 475,
       "title": "Opportunities for voluntary work in Southoe village",
       "groups": [
         {
@@ -75,216 +75,305 @@
       "transcript": [
         {
           "s": "JANE",
-          "t": "Hello, Jane Fairbanks speaking."
+          "t": "Hello, Jane Fairbanks speaking.",
+          "start": 91.85,
+          "end": 93.77
         },
         {
           "s": "FRANK",
-          "t": "Oh, good morning. My name’s Frank Pritchard. I’ve just retired and moved to Southoe. I’d like to become a volunteer, and I gather you co-ordinate voluntary work in the village."
+          "t": "Oh, good morning. My name’s Frank Pritchard. I’ve just retired and moved to Southoe. I’d like to become a volunteer, and I gather you co-ordinate voluntary work in the village.",
+          "start": 94.89,
+          "end": 106.37
         },
         {
           "s": "JANE",
-          "t": "That’s right."
+          "t": "That’s right.",
+          "start": 106.77,
+          "end": 107.49
         },
         {
           "s": "FRANK",
-          "t": "What sort of thing could I do?"
+          "t": "What sort of thing could I do?",
+          "start": 108.57,
+          "end": 110.01
         },
         {
           "s": "JANE",
           "t": "Well, we need help with the village library. We borrow books from the town library, and individuals also donate them. So, one thing you could do is get involved in collecting them – if you’ve got a car, that is.",
           "q": [
             1
-          ]
+          ],
+          "start": 110.41,
+          "end": 126.24
         },
         {
           "s": "FRANK",
-          "t": "Yes, that’s no problem."
+          "t": "Yes, that’s no problem.",
+          "start": 126.56,
+          "end": 128.24
         },
         {
           "s": "JANE",
           "t": "The times are pretty flexible so we can arrange it to suit you. Another thing is the records that we keep of the books we’re given, and those we borrow and need to return to the town library. It would be very useful to have another person to help keep them up to date.",
           "q": [
             2
-          ]
+          ],
+          "start": 128.68,
+          "end": 146.85
         },
         {
           "s": "FRANK",
-          "t": "Right. I’m used to working on a computer – I presume they’re computerised?"
+          "t": "Right. I’m used to working on a computer – I presume they’re computerised?",
+          "start": 147.83,
+          "end": 151.87
         },
         {
           "s": "JANE",
-          "t": "Oh yes."
+          "t": "Oh yes.",
+          "start": 153.19,
+          "end": 153.99
         },
         {
           "s": "FRANK",
-          "t": "Is the library purpose-built? I haven’t noticed it when I’ve walked round the village."
+          "t": "Is the library purpose-built? I haven’t noticed it when I’ve walked round the village.",
+          "start": 154.91,
+          "end": 159.63
         },
         {
           "s": "JANE",
           "t": "No, we simply have the use of a room in the village hall, the West Room. It’s on the left as you go in.",
           "q": [
             3
-          ]
+          ],
+          "start": 160.62,
+          "end": 167.82
         },
         {
           "s": "FRANK",
-          "t": "I must go and have a look inside the hall."
+          "t": "I must go and have a look inside the hall.",
+          "start": 168.82,
+          "end": 170.66
         },
         {
           "s": "JANE",
-          "t": "Yes, it’s a nice building."
+          "t": "Yes, it’s a nice building.",
+          "start": 171.45,
+          "end": 173.01
         },
         {
           "s": "FRANK",
-          "t": "Do you run a lunch club in the village for elderly people? I know a lot of places do."
+          "t": "Do you run a lunch club in the village for elderly people? I know a lot of places do.",
+          "start": 173.93,
+          "end": 179.29
         },
         {
           "s": "JANE",
-          "t": "Yes, we have a very successful club."
+          "t": "Yes, we have a very successful club.",
+          "start": 180.17,
+          "end": 182.53
         },
         {
           "s": "FRANK",
           "t": "I could help with transport, if that’s of any use.",
           "q": [
             4
-          ]
+          ],
+          "start": 183.31,
+          "end": 186.19
         },
         {
           "s": "JANE",
-          "t": "Ooo definitely. People come to the club from neighbouring villages, and we’re always in need of more drivers."
+          "t": "Ooo definitely. People come to the club from neighbouring villages, and we’re always in need of more drivers.",
+          "start": 187.03,
+          "end": 193.55
         },
         {
           "s": "FRANK",
           "t": "And does the club have groups that focus on a particular hobby, too? I could get involved in one or two, particularly if there are any art groups.",
           "q": [
             5
-          ]
+          ],
+          "start": 194.51,
+          "end": 204.75
         },
         {
           "s": "JANE",
-          "t": "Excellent. I’ll find out where we need help and get back to you."
+          "t": "Excellent. I’ll find out where we need help and get back to you.",
+          "start": 205.62,
+          "end": 210.14
         },
         {
           "s": "FRANK",
-          "t": "Fine. What about help for individual residents. Do you arrange that at all?"
+          "t": "Fine. What about help for individual residents. Do you arrange that at all?",
+          "start": 210.18,
+          "end": 216.66
         },
         {
           "s": "JANE",
           "t": "Yes, we do it as a one-off. In fact, there’s Mrs Carroll. She needs a lift to the hospital next week, and we’re struggling to find someone.",
           "q": [
             6
-          ]
+          ],
+          "start": 217.59,
+          "end": 228.19
         },
         {
           "s": "FRANK",
-          "t": "When’s her appointment?"
+          "t": "When’s her appointment?",
+          "start": 229.22,
+          "end": 230.26
         },
         {
           "s": "JANE",
-          "t": "On Tuesday. It would take the whole morning."
+          "t": "On Tuesday. It would take the whole morning.",
+          "start": 230.5,
+          "end": 233.7
         },
         {
           "s": "FRANK",
-          "t": "I could do that."
+          "t": "I could do that.",
+          "start": 234.62,
+          "end": 235.34
         },
         {
           "s": "JANE",
           "t": "Oh, that would be great. Thank you. And also, next week, we’re arranging to have some work done to Mr Selsbury’s house before he moves, as he isn’t healthy enough to do it himself. We’ve got some people to decorate his kitchen, but if you could do some weeding in his garden, that would be wonderful.",
           "q": [
             7
-          ]
+          ],
+          "start": 235.66,
+          "end": 256.26
         },
         {
           "s": "FRANK",
-          "t": "OK. I’d enjoy that. And presumably the day and time are flexible."
+          "t": "OK. I’d enjoy that. And presumably the day and time are flexible.",
+          "start": 257.46,
+          "end": 262.86
         },
         {
           "s": "JANE",
-          "t": "Oh yes. Just say when would suit you best, and we’ll let Mr Selsbury know."
+          "t": "Oh yes. Just say when would suit you best, and we’ll let Mr Selsbury know.",
+          "start": 263.29,
+          "end": 268.29
         },
         {
           "s": "FRANK",
-          "t": "Good."
+          "t": "Good.",
+          "start": 269.21,
+          "end": 269.33
         },
         {
           "s": "JANE",
-          "t": "The volunteers group also organises monthly social events, which is a great way to meet other people, of course."
+          "t": "The volunteers group also organises monthly social events, which is a great way to meet other people, of course.",
+          "start": 300.8,
+          "end": 308.04
         },
         {
           "s": "FRANK",
-          "t": "Uhuh."
+          "t": "Uhuh.",
+          "start": 308.04,
+          "end": 308.04,
+          "estimated": true
         },
         {
           "s": "JANE",
           "t": "So next month, on the 19th of October, we’re holding a quiz – a couple of residents are great at planning unusual ones, and we always fill the village hall.",
           "q": [
             8
-          ]
+          ],
+          "start": 309.52,
+          "end": 321.56
         },
         {
           "s": "FRANK",
-          "t": "That sounds like fun. Can I do anything to help?"
+          "t": "That sounds like fun. Can I do anything to help?",
+          "start": 322.36,
+          "end": 325.53
         },
         {
           "s": "JANE",
-          "t": "Well, because of the number of people, we need plenty of refreshments for halfway through. So, if you could provide any, we’d be grateful."
+          "t": "Well, because of the number of people, we need plenty of refreshments for halfway through. So, if you could provide any, we’d be grateful.",
+          "start": 325.89,
+          "end": 335.85
         },
         {
           "s": "FRANK",
-          "t": "I’m sure I could. I’ll think about what to make, and let you know."
+          "t": "I’m sure I could. I’ll think about what to make, and let you know.",
+          "start": 336.56,
+          "end": 340.76
         },
         {
           "s": "JANE",
-          "t": "Thank you. Then on November the 18th, we’re holding a dance, also in the village hall. We’ve booked a band that specialises in music of the 1930s – they’ve been before, and we’ve had a lot of requests to bring them back."
+          "t": "Thank you. Then on November the 18th, we’re holding a dance, also in the village hall. We’ve booked a band that specialises in music of the 1930s – they’ve been before, and we’ve had a lot of requests to bring them back.",
+          "start": 341.28,
+          "end": 358.99
         },
         {
           "s": "FRANK",
-          "t": "I’m not really a dancer, but I’d like to do something to help."
+          "t": "I’m not really a dancer, but I’d like to do something to help.",
+          "start": 359.75,
+          "end": 363.67
         },
         {
           "s": "JANE",
           "t": "Well, we sell tickets in advance, and having an extra person to check them at the door, as people arrive, would be good – it can be quite a bottleneck if everyone arrives at once!",
           "q": [
             9
-          ]
+          ],
+          "start": 364.55,
+          "end": 376.68
         },
         {
           "s": "FRANK",
-          "t": "OK, I’m happy with that."
+          "t": "OK, I’m happy with that.",
+          "start": 377.12,
+          "end": 378.92
         },
         {
           "s": "JANE",
-          "t": "We’re also arranging a New Year’s Eve party. We’re expecting that to be a really big event, so instead of the village hall, it’ll be held in the Mountfort Hotel."
+          "t": "We’re also arranging a New Year’s Eve party. We’re expecting that to be a really big event, so instead of the village hall, it’ll be held in the Mountfort Hotel.",
+          "start": 380.04,
+          "end": 390.92
         },
         {
           "s": "FRANK",
-          "t": "The …?"
+          "t": "The …?",
+          "start": 392.64,
+          "end": 392.72
         },
         {
           "s": "JANE",
           "t": "Mountfort. M-O-U-N-T-F-O-R-T Hotel. It isn’t in Southoe itself, but it’s only a couple of miles away. The hotel will be providing dinner and we’ve booked a band. The one thing we haven’t got yet is a poster. That isn’t something you could do, by any chance, is it?",
           "q": [
             10
-          ]
+          ],
+          "start": 392.72,
+          "end": 419.92
         },
         {
           "s": "FRANK",
-          "t": "Well actually, yes. Before I retired I was a graphic designer, so that’s right up my street."
+          "t": "Well actually, yes. Before I retired I was a graphic designer, so that’s right up my street.",
+          "start": 420.12,
+          "end": 427.24
         },
         {
           "s": "JANE",
-          "t": "Oh perfect! I’ll give you the details, and then perhaps you could send me a draft …"
+          "t": "Oh perfect! I’ll give you the details, and then perhaps you could send me a draft …",
+          "start": 428.28,
+          "end": 433.4
         },
         {
           "s": "FRANK",
-          "t": "Of course."
+          "t": "Of course.",
+          "start": 433.4,
+          "end": 434.4
         }
       ]
     },
     {
       "part": 2,
       "audio": "/audio/c17/t2p2.mp3",
-      "duration": 0,
+      "duration": 445,
       "title": "A tour of Oniton Hall",
       "groups": [
         {
@@ -445,168 +534,232 @@
       "transcript": [
         {
           "s": "SPEAKER",
-          "t": "Good morning, and welcome to Oniton Hall, one of the largest estates in the area."
+          "t": "Good morning, and welcome to Oniton Hall, one of the largest estates in the area.",
+          "start": 50.94,
+          "end": 57.14
         },
         {
           "s": "SPEAKER",
-          "t": "My name’s Nick, and I’m one of the guides."
+          "t": "My name’s Nick, and I’m one of the guides.",
+          "start": 58.02,
+          "end": 60.34
         },
         {
           "s": "SPEAKER",
-          "t": "I’ll give you a brief introduction to the estate while you’re sitting down, and then we’ll walk round."
+          "t": "I’ll give you a brief introduction to the estate while you’re sitting down, and then we’ll walk round.",
+          "start": 61.42,
+          "end": 67.34
         },
         {
           "s": "SPEAKER",
-          "t": "The estate consists of the house, gardens, parkland and farm, and it dates back to the fourteenth century."
+          "t": "The estate consists of the house, gardens, parkland and farm, and it dates back to the fourteenth century.",
+          "start": 68.94,
+          "end": 77.5
         },
         {
           "s": "SPEAKER",
-          "t": "The original house was replaced in the late seventeenth century, and of course it has had a large number of owners."
+          "t": "The original house was replaced in the late seventeenth century, and of course it has had a large number of owners.",
+          "start": 78.5,
+          "end": 86.48
         },
         {
           "s": "SPEAKER",
           "t": "Almost all of them have left their mark, generally by adding new rooms, like the ballroom and conservatory, or by demolishing others.",
           "q": [
             11
-          ]
+          ],
+          "start": 86.52,
+          "end": 98.6
         },
         {
           "s": "SPEAKER",
-          "t": "The farm looks much as it’s always done, although the current owner has done a great deal of work to the flower beds."
+          "t": "The farm looks much as it’s always done, although the current owner has done a great deal of work to the flower beds.",
+          "start": 100.23,
+          "end": 108.15
         },
         {
           "s": "SPEAKER",
-          "t": "In the seventeenth century, the estate was owned by a very wealthy man called Sir Edward Downes."
+          "t": "In the seventeenth century, the estate was owned by a very wealthy man called Sir Edward Downes.",
+          "start": 109.77,
+          "end": 115.89
         },
         {
           "s": "SPEAKER",
-          "t": "His intention was to escape from the world of politics, after years as an active politician, and to build a new house worthy of his big collection of books, paintings and sculptures."
+          "t": "His intention was to escape from the world of politics, after years as an active politician, and to build a new house worthy of his big collection of books, paintings and sculptures.",
+          "start": 117.89,
+          "end": 132.75
         },
         {
           "s": "SPEAKER",
           "t": "He broke off contact with his former political allies, and hosted meetings of creative and literary people, like painters and poets.",
           "q": [
             12
-          ]
+          ],
+          "start": 134.29,
+          "end": 144.13
         },
         {
           "s": "SPEAKER",
-          "t": "Unusually for his time, he didn’t care whether his guests were rich or poor, as long as they had talent."
+          "t": "Unusually for his time, he didn’t care whether his guests were rich or poor, as long as they had talent.",
+          "start": 145.98,
+          "end": 154.14
         },
         {
           "s": "SPEAKER",
-          "t": "Big houses like Oniton had dozens of servants until the 1920s or 30s, and we’ve tried to show what their working lives were like."
+          "t": "Big houses like Oniton had dozens of servants until the 1920s or 30s, and we’ve tried to show what their working lives were like.",
+          "start": 155.82,
+          "end": 167.38
         },
         {
           "s": "SPEAKER",
           "t": "Photographs of course don’t give much of an idea, so instead, as you go round the house, you’ll see volunteers dressed up as nineteenth-century servants, going about their work.",
           "q": [
             13
-          ]
+          ],
+          "start": 168.52,
+          "end": 182.72
         },
         {
           "s": "SPEAKER",
-          "t": "They’ll explain what they’re doing, and tell you their recipes, or what tools they’re using."
+          "t": "They’ll explain what they’re doing, and tell you their recipes, or what tools they’re using.",
+          "start": 184.42,
+          "end": 190.98
         },
         {
           "s": "SPEAKER",
-          "t": "We’ve just introduced this feature to replace the audio guide we used to have available."
+          "t": "We’ve just introduced this feature to replace the audio guide we used to have available.",
+          "start": 192.46,
+          "end": 198.65
         },
         {
           "s": "SPEAKER",
-          "t": "I see there are a number of children here with you today."
+          "t": "I see there are a number of children here with you today.",
+          "start": 200.4,
+          "end": 203.56
         },
         {
           "s": "SPEAKER",
-          "t": "Well, we have several activities specially for children, like dressing up in the sorts of clothes that children wore in the past, and as it’s a fine day, some of you will probably want to play in the adventure playground."
+          "t": "Well, we have several activities specially for children, like dressing up in the sorts of clothes that children wore in the past, and as it’s a fine day, some of you will probably want to play in the adventure playground.",
+          "start": 203.72,
+          "end": 221.32
         },
         {
           "s": "SPEAKER",
           "t": "Our latest addition is child-sized tractors, that you can drive around the grounds.",
           "q": [
             14
-          ]
+          ],
+          "start": 223.13,
+          "end": 229.05
         },
         {
           "s": "SPEAKER",
-          "t": "We’ll also be going into the farm that’s part of the estate, where there’s plenty to do."
+          "t": "We’ll also be going into the farm that’s part of the estate, where there’s plenty to do.",
+          "start": 276.8,
+          "end": 283.16
         },
         {
           "s": "SPEAKER",
-          "t": "Most of the buildings date from the eighteenth century, so you can really step back into an agricultural past."
+          "t": "Most of the buildings date from the eighteenth century, so you can really step back into an agricultural past.",
+          "start": 283.32,
+          "end": 292.74
         },
         {
           "s": "SPEAKER",
-          "t": "Until recently, the dairy was where milk from the cows was turned into cheese."
+          "t": "Until recently, the dairy was where milk from the cows was turned into cheese.",
+          "start": 295.22,
+          "end": 301.34
         },
         {
           "s": "SPEAKER",
           "t": "It’s now the place to go for lunch, or afternoon tea, or just a cup of coffee and a slice of homemade cake.",
           "q": [
             15
-          ]
+          ],
+          "start": 302.5,
+          "end": 310.5
         },
         {
           "s": "SPEAKER",
           "t": "The big stone building that dominates the farm is the large barn, and in here is our collection of agricultural tools.",
           "q": [
             16
-          ]
+          ],
+          "start": 311.77,
+          "end": 320.93
         },
         {
           "s": "SPEAKER",
-          "t": "These were used in the past to plough the earth, sow seeds, make gates, and much more."
+          "t": "These were used in the past to plough the earth, sow seeds, make gates, and much more.",
+          "start": 322.14,
+          "end": 329.1
         },
         {
           "s": "SPEAKER",
           "t": "There’s a small barn, also made of stone, where you can groom the donkeys and horses, to keep their coats clean.",
           "q": [
             17
-          ]
+          ],
+          "start": 330.82,
+          "end": 338.3
         },
         {
           "s": "SPEAKER",
-          "t": "They really seem to enjoy having it done, and children love grooming them."
+          "t": "They really seem to enjoy having it done, and children love grooming them.",
+          "start": 339.38,
+          "end": 344.53
         },
         {
           "s": "SPEAKER",
           "t": "The horses no longer live in the stables, which instead is the place to go to buy gifts, books, our own jams and pickles, and clothes and blankets made of wool from our sheep.",
           "q": [
             18
-          ]
+          ],
+          "start": 345.76,
+          "end": 359.78
         },
         {
           "s": "SPEAKER",
           "t": "Outside the shed, which is the only brick building, you can climb into a horse-drawn carriage for a lovely, relaxing tour of the park and farm.",
           "q": [
             19
-          ]
+          ],
+          "start": 361.51,
+          "end": 372.03
         },
         {
           "s": "SPEAKER",
-          "t": "The carriages are well over a hundred years old."
+          "t": "The carriages are well over a hundred years old.",
+          "start": 372.72,
+          "end": 376.2
         },
         {
           "s": "SPEAKER",
-          "t": "And finally, the parkland, which was laid out in the eighteenth century, with a lake and trees that are now well established."
+          "t": "And finally, the parkland, which was laid out in the eighteenth century, with a lake and trees that are now well established.",
+          "start": 378.03,
+          "end": 387.19
         },
         {
           "s": "SPEAKER",
           "t": "You’ll see types of cattle and sheep that are hardly ever found on farms these days. We’re helping to preserve them, to stop their numbers falling further.",
           "q": [
             20
-          ]
+          ],
+          "start": 388.11,
+          "end": 398.63
         },
         {
           "s": "SPEAKER",
-          "t": "OK, well if you’d like to come with me …"
+          "t": "OK, well if you’d like to come with me …",
+          "start": 400.1,
+          "end": 403.26
         }
       ]
     },
     {
       "part": 3,
       "audio": "/audio/c17/t2p3.mp3",
-      "duration": 0,
+      "duration": 402,
       "title": "Reviewing a production of Romeo and Juliet",
       "groups": [
         {
@@ -772,35 +925,51 @@
       "transcript": [
         {
           "s": "ED",
-          "t": "Did you make notes while you were watching the performances of Romeo and Juliet, Gemma?"
+          "t": "Did you make notes while you were watching the performances of Romeo and Juliet, Gemma?",
+          "start": 34.93,
+          "end": 39.13
         },
         {
           "s": "GEMMA",
-          "t": "Yes, I did. I found it quite hard though. I kept getting too involved in the play."
+          "t": "Yes, I did. I found it quite hard though. I kept getting too involved in the play.",
+          "start": 39.21,
+          "end": 44.97
         },
         {
           "s": "ED",
-          "t": "Me too. I ended up not taking notes. I wrote down my impressions when I got home. Do you mind if I check a few things with you? In case I’ve missed anything. And I’ve also got some questions about our assignment."
+          "t": "Me too. I ended up not taking notes. I wrote down my impressions when I got home. Do you mind if I check a few things with you? In case I’ve missed anything. And I’ve also got some questions about our assignment.",
+          "start": 45.13,
+          "end": 58.79
         },
         {
           "s": "GEMMA",
-          "t": "No, it’s good to talk things through. I may have missed things too."
+          "t": "No, it’s good to talk things through. I may have missed things too.",
+          "start": 59.47,
+          "end": 63.63
         },
         {
           "s": "ED",
-          "t": "OK great. So first of all, I’m not sure how much information we should include in our reviews."
+          "t": "OK great. So first of all, I’m not sure how much information we should include in our reviews.",
+          "start": 63.87,
+          "end": 70.62
         },
         {
           "s": "GEMMA",
-          "t": "Right. Well, I don’t think we need to describe what happens. Especially as Romeo and Juliet is one of Shakespeare’s most well-known plays."
+          "t": "Right. Well, I don’t think we need to describe what happens. Especially as Romeo and Juliet is one of Shakespeare’s most well-known plays.",
+          "start": 71.26,
+          "end": 80.3
         },
         {
           "s": "ED",
-          "t": "Yeah, everyone knows the story. In an essay we’d focus on the poetry and Shakespeare’s use of imagery etc., but that isn’t really relevant in a review. We’re supposed to focus on how effective this particular production is."
+          "t": "Yeah, everyone knows the story. In an essay we’d focus on the poetry and Shakespeare’s use of imagery etc., but that isn’t really relevant in a review. We’re supposed to focus on how effective this particular production is.",
+          "start": 80.7,
+          "end": 95.7
         },
         {
           "s": "GEMMA",
-          "t": "Mmm. We should say what made it a success or a failure."
+          "t": "Mmm. We should say what made it a success or a failure.",
+          "start": 97.43,
+          "end": 100.39
         },
         {
           "s": "ED",
@@ -808,11 +977,15 @@
           "q": [
             21,
             22
-          ]
+          ],
+          "start": 100.91,
+          "end": 106.67
         },
         {
           "s": "GEMMA",
-          "t": "Yes. And we should definitely mention how well the director handled important bits of the play – like when Romeo climbs onto Juliet’s balcony."
+          "t": "Yes. And we should definitely mention how well the director handled important bits of the play – like when Romeo climbs onto Juliet’s balcony.",
+          "start": 106.95,
+          "end": 117.05
         },
         {
           "s": "ED",
@@ -820,166 +993,233 @@
           "q": [
             21,
             22
-          ]
+          ],
+          "start": 117.17,
+          "end": 119.61
         },
         {
           "s": "GEMMA",
-          "t": "Yes. It would also be interesting to mention the theatre space and how the director used it but I don’t think we’ll have space in 800 words."
+          "t": "Yes. It would also be interesting to mention the theatre space and how the director used it but I don’t think we’ll have space in 800 words.",
+          "start": 119.61,
+          "end": 129.44
         },
         {
           "s": "ED",
-          "t": "No. OK. That all sounds quite straightforward."
+          "t": "No. OK. That all sounds quite straightforward.",
+          "start": 129.96,
+          "end": 133.22
         },
         {
           "s": "ED",
-          "t": "So what about The Emporium Theatre’s production of the play?"
+          "t": "So what about The Emporium Theatre’s production of the play?",
+          "start": 201.43,
+          "end": 204.67
         },
         {
           "s": "GEMMA",
-          "t": "I thought some things worked really well but there were some problems too."
+          "t": "I thought some things worked really well but there were some problems too.",
+          "start": 205.23,
+          "end": 209.63
         },
         {
           "s": "ED",
-          "t": "Yeah. What about the set, for example?"
+          "t": "Yeah. What about the set, for example?",
+          "start": 209.79,
+          "end": 212.91
         },
         {
           "s": "GEMMA",
           "t": "I think it was visually really stunning. I’d say that was probably the most memorable thing about this production.",
           "q": [
             23
-          ]
+          ],
+          "start": 213.47,
+          "end": 220.27
         },
         {
           "s": "ED",
-          "t": "You’re right. The set design was really amazing, but actually I have seen similar ideas used in other productions."
+          "t": "You’re right. The set design was really amazing, but actually I have seen similar ideas used in other productions.",
+          "start": 220.51,
+          "end": 227.86
         },
         {
           "s": "GEMMA",
-          "t": "What about the lighting? Some of the scenes were so dimly lit it was quite hard to see."
+          "t": "What about the lighting? Some of the scenes were so dimly lit it was quite hard to see.",
+          "start": 227.86,
+          "end": 227.86,
+          "estimated": true
         },
         {
           "s": "ED",
           "t": "I didn’t dislike it. It helped to change the mood of the quieter scenes.",
           "q": [
             24
-          ]
+          ],
+          "start": 235.39,
+          "end": 239.99
         },
         {
           "s": "GEMMA",
-          "t": "That’s a good point."
+          "t": "That’s a good point.",
+          "start": 240.23,
+          "end": 241.31
         },
         {
           "s": "ED",
-          "t": "What did you think of the costumes?"
+          "t": "What did you think of the costumes?",
+          "start": 242.23,
+          "end": 243.59
         },
         {
           "s": "GEMMA",
-          "t": "I was a bit surprised by the contemporary dress, I must say."
+          "t": "I was a bit surprised by the contemporary dress, I must say.",
+          "start": 244.19,
+          "end": 247.59
         },
         {
           "s": "ED",
           "t": "Yeah – I think it worked well, but I had assumed it would be more conventional.",
           "q": [
             25
-          ]
+          ],
+          "start": 247.87,
+          "end": 252.09
         },
         {
           "s": "GEMMA",
           "t": "Me too. I liked the music at the beginning and I thought the musicians were brilliant, but I thought they were wasted because the music didn’t have much impact in Acts 2 and 3.",
           "q": [
             26
-          ]
+          ],
+          "start": 252.25,
+          "end": 264.01
         },
         {
           "s": "ED",
-          "t": "Yes – that was a shame."
+          "t": "Yes – that was a shame.",
+          "start": 264.33,
+          "end": 265.41
         },
         {
           "s": "GEMMA",
-          "t": "One problem with this production was that the actors didn’t deliver the lines that well. They were speaking too fast."
+          "t": "One problem with this production was that the actors didn’t deliver the lines that well. They were speaking too fast.",
+          "start": 266.41,
+          "end": 272.57
         },
         {
           "s": "ED",
           "t": "It was a problem I agree, but I thought it was because they weren’t speaking loudly enough – especially at key points in the play.",
           "q": [
             27
-          ]
+          ],
+          "start": 272.93,
+          "end": 279.97
         },
         {
           "s": "GEMMA",
-          "t": "I actually didn’t have a problem with that."
+          "t": "I actually didn’t have a problem with that.",
+          "start": 280.65,
+          "end": 282.65
         },
         {
           "s": "ED",
-          "t": "It’s been an interesting experience watching different versions of Romeo and Juliet, hasn’t it?"
+          "t": "It’s been an interesting experience watching different versions of Romeo and Juliet, hasn’t it?",
+          "start": 283.63,
+          "end": 288.27
         },
         {
           "s": "GEMMA",
-          "t": "Definitely. It’s made me realise how relevant the play still is."
+          "t": "Definitely. It’s made me realise how relevant the play still is.",
+          "start": 288.31,
+          "end": 292.79
         },
         {
           "s": "ED",
           "t": "Right. I mean a lot’s changed since Shakespeare’s time, but in many ways nothing’s changed. There are always disagreements and tension between teenagers and their parents.",
           "q": [
             28
-          ]
+          ],
+          "start": 292.95,
+          "end": 302.5
         },
         {
           "s": "GEMMA",
-          "t": "Yes, that’s something all young people can relate to – more than the violence and the extreme emotions in the play."
+          "t": "Yes, that’s something all young people can relate to – more than the violence and the extreme emotions in the play.",
+          "start": 302.78,
+          "end": 310.4
         },
         {
           "s": "ED",
-          "t": "How did you find watching it in translation?"
+          "t": "How did you find watching it in translation?",
+          "start": 310.56,
+          "end": 313.4
         },
         {
           "s": "GEMMA",
-          "t": "Really interesting. I expected to find it more challenging, but I could follow the story pretty well."
+          "t": "Really interesting. I expected to find it more challenging, but I could follow the story pretty well.",
+          "start": 314.11,
+          "end": 320.35
         },
         {
           "s": "ED",
           "t": "I stopped worrying about not being able to understand all the words and focused on the actors’ expressions. The ending was pretty powerful.",
           "q": [
             29
-          ]
+          ],
+          "start": 320.91,
+          "end": 328.13
         },
         {
           "s": "GEMMA",
-          "t": "Yes. That somehow intensified the emotion for me."
+          "t": "Yes. That somehow intensified the emotion for me.",
+          "start": 328.41,
+          "end": 332.45
         },
         {
           "s": "ED",
-          "t": "Did you know Shakespeare’s been translated into more languages than any other writer?"
+          "t": "Did you know Shakespeare’s been translated into more languages than any other writer?",
+          "start": 333.09,
+          "end": 337.85
         },
         {
           "s": "GEMMA",
-          "t": "What’s the reason for his international appeal, do you think?"
+          "t": "What’s the reason for his international appeal, do you think?",
+          "start": 338.68,
+          "end": 342.6
         },
         {
           "s": "ED",
-          "t": "I was reading that it’s because his plays are about basic themes that people everywhere are familiar with."
+          "t": "I was reading that it’s because his plays are about basic themes that people everywhere are familiar with.",
+          "start": 343.2,
+          "end": 348.96
         },
         {
           "s": "GEMMA",
           "t": "Yeah, and they can also be understood on different levels. The characters have such depth.",
           "q": [
             30
-          ]
+          ],
+          "start": 349.04,
+          "end": 355.22
         },
         {
           "s": "ED",
-          "t": "Right – which allows directors to experiment and find new angles."
+          "t": "Right – which allows directors to experiment and find new angles.",
+          "start": 355.34,
+          "end": 359.66
         },
         {
           "s": "GEMMA",
-          "t": "That’s really important because …"
+          "t": "That’s really important because …",
+          "start": 360.34,
+          "end": 362.06
         }
       ]
     },
     {
       "part": 4,
       "audio": "/audio/c17/t2p4.mp3",
-      "duration": 0,
+      "duration": 434,
       "title": "The impact of digital technology on the Icelandic language",
       "groups": [
         {
@@ -1015,121 +1255,165 @@
       "transcript": [
         {
           "s": "SPEAKER",
-          "t": "Right, everyone, let’s make a start."
+          "t": "Right, everyone, let’s make a start.",
+          "start": 75.16,
+          "end": 77.4
         },
         {
           "s": "SPEAKER",
-          "t": "Over the past few sessions, we’ve been considering the reasons why some world languages are in decline, and today I’m going to introduce another factor that affects languages, and the speakers of those languages, and that’s technology and, in particular, digital technology."
+          "t": "Over the past few sessions, we’ve been considering the reasons why some world languages are in decline, and today I’m going to introduce another factor that affects languages, and the speakers of those languages, and that’s technology and, in particular, digital technology.",
+          "start": 77.72,
+          "end": 95.5
         },
         {
           "s": "SPEAKER",
           "t": "In order to illustrate its effect, I’m going to focus on the Icelandic language, which is spoken by around 321,000 people, most of whom live in Iceland – an island in the North Atlantic Ocean.",
           "q": [
             31
-          ]
+          ],
+          "start": 96.49,
+          "end": 110.11
         },
         {
           "s": "SPEAKER",
-          "t": "The problem for this language is not the number of speakers – even though this number is small. Nor is it about losing words to other languages, such as English."
+          "t": "The problem for this language is not the number of speakers – even though this number is small. Nor is it about losing words to other languages, such as English.",
+          "start": 111.56,
+          "end": 120.76
         },
         {
           "s": "SPEAKER",
           "t": "In fact, the vocabulary of Icelandic is continually increasing because when speakers need a new word for something, they tend to create one, rather than borrowing from another language.",
           "q": [
             32
-          ]
+          ],
+          "start": 121.89,
+          "end": 133.05
         },
         {
           "s": "SPEAKER",
-          "t": "All this makes Icelandic quite a special language – it’s changed very little in the past millennium, yet it can handle twenty-first-century concepts related to the use of computers and digital technology."
+          "t": "All this makes Icelandic quite a special language – it’s changed very little in the past millennium, yet it can handle twenty-first-century concepts related to the use of computers and digital technology.",
+          "start": 134.28,
+          "end": 146.28
         },
         {
           "s": "SPEAKER",
-          "t": "Take, for example, the word for web browser … this is vafri in Icelandic, which comes from the verb ‘to wander’. I can’t think of a more appropriate term because that’s exactly what you do mentally when you browse the internet."
+          "t": "Take, for example, the word for web browser … this is vafri in Icelandic, which comes from the verb ‘to wander’. I can’t think of a more appropriate term because that’s exactly what you do mentally when you browse the internet.",
+          "start": 147.43,
+          "end": 161.27
         },
         {
           "s": "SPEAKER",
           "t": "Then there’s an Icelandic word for podcast – which is too hard to pronounce! And so on.",
           "q": [
             33
-          ]
+          ],
+          "start": 162.28,
+          "end": 167.68
         },
         {
           "s": "SPEAKER",
-          "t": "Icelandic, then, is alive and growing, but – and it’s a big but – young Icelanders spend a great deal of time in the digital world and this world is predominantly English."
+          "t": "Icelandic, then, is alive and growing, but – and it’s a big but – young Icelanders spend a great deal of time in the digital world and this world is predominantly English.",
+          "start": 169.08,
+          "end": 179.12
         },
         {
           "s": "SPEAKER",
           "t": "Think about smartphones. They didn’t even exist until comparatively recently, but today young people use them all the time to read books, watch TV or films, play games, listen to music, and so on.",
           "q": [
             34
-          ]
+          ],
+          "start": 180.45,
+          "end": 194.32
         },
         {
           "s": "SPEAKER",
           "t": "Obviously, this is a good thing in many respects because it promotes their bilingual skills, but the extent of the influence of English in the virtual world is staggering and it’s all happening really fast.",
           "q": [
             35
-          ]
+          ],
+          "start": 194.44,
+          "end": 207.33
         },
         {
           "s": "SPEAKER",
-          "t": "For their parents and grandparents, the change is less concerning because they already have their native-speaker skills in Icelandic."
+          "t": "For their parents and grandparents, the change is less concerning because they already have their native-speaker skills in Icelandic.",
+          "start": 208.83,
+          "end": 215.47
         },
         {
           "s": "SPEAKER",
           "t": "But for young speakers – well, the outcome is a little troubling. For example, teachers have found that playground conversations in Icelandic secondary schools can be conducted entirely in English,",
           "q": [
             36
-          ]
+          ],
+          "start": 215.99,
+          "end": 228.89
         },
         {
           "s": "SPEAKER",
           "t": "while teachers of much younger children have reported situations where their classes find it easier to say what is in a picture using English, rather than Icelandic.",
           "q": [
             37
-          ]
+          ],
+          "start": 229.45,
+          "end": 238.4
         },
         {
           "s": "SPEAKER",
-          "t": "The very real and worrying consequence of all this is that the young generation in Iceland is at risk of losing its mother tongue."
+          "t": "The very real and worrying consequence of all this is that the young generation in Iceland is at risk of losing its mother tongue.",
+          "start": 239.44,
+          "end": 246.81
         },
         {
           "s": "SPEAKER",
-          "t": "Of course, this is happening to other European languages too, but while internet companies might be willing to offer, say, French options in their systems, it’s much harder for them to justify the expense of doing the same for a language that has a population the size of a French town, such as Nice."
+          "t": "Of course, this is happening to other European languages too, but while internet companies might be willing to offer, say, French options in their systems, it’s much harder for them to justify the expense of doing the same for a language that has a population the size of a French town, such as Nice.",
+          "start": 252.22,
+          "end": 269.94
         },
         {
           "s": "SPEAKER",
           "t": "The other drawback of Icelandic is the grammar, which is significantly more complex than in most languages. At the moment, the tech giants are simply not interested in tackling this.",
           "q": [
             38
-          ]
+          ],
+          "start": 271.1,
+          "end": 282.51
         },
         {
           "s": "SPEAKER",
-          "t": "So, what is the Icelandic government doing about this? Well, large sums of money are being allocated to a language technology fund that it is hoped will lead to the development of Icelandic sourced apps and other social media and digital systems, but clearly this is going to be an uphill struggle."
+          "t": "So, what is the Icelandic government doing about this? Well, large sums of money are being allocated to a language technology fund that it is hoped will lead to the development of Icelandic sourced apps and other social media and digital systems, but clearly this is going to be an uphill struggle.",
+          "start": 283.67,
+          "end": 301.99
         },
         {
           "s": "SPEAKER",
-          "t": "On the positive side, they know that Icelandic is still the official language of education and government. It has survived for well over a thousand years and the experts predict that its future in this nation state is sound and will continue to be so."
+          "t": "On the positive side, they know that Icelandic is still the official language of education and government. It has survived for well over a thousand years and the experts predict that its future in this nation state is sound and will continue to be so.",
+          "start": 303.11,
+          "end": 318.71
         },
         {
           "s": "SPEAKER",
-          "t": "However, there’s no doubt that it’s becoming an inevitable second choice in young people’s lives."
+          "t": "However, there’s no doubt that it’s becoming an inevitable second choice in young people’s lives.",
+          "start": 319.79,
+          "end": 325.11
         },
         {
           "s": "SPEAKER",
           "t": "This raises important questions. When you consider how much of the past is tied up in a language, will young Icelanders lose their sense of their own identity?",
           "q": [
             39
-          ]
+          ],
+          "start": 325.27,
+          "end": 335.97
         },
         {
           "s": "SPEAKER",
           "t": "Another issue that concerns the government of Iceland is this. If children are learning two languages through different routes, neither of which they are fully fluent in, will they be able to express themselves properly?",
           "q": [
             40
-          ]
+          ],
+          "start": 336.21,
+          "end": 349.94
         }
       ]
     }

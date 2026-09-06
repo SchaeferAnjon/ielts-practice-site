@@ -8,7 +8,7 @@
     {
       "part": 1,
       "audio": "/audio/c17/t1p1.mp3",
-      "duration": 0,
+      "duration": 415,
       "title": "Buckworth Conservation Group",
       "groups": [
         {
@@ -48,168 +48,232 @@
       "transcript": [
         {
           "s": "PETER",
-          "t": "Hello?"
+          "t": "Hello?",
+          "start": 91.7,
+          "end": 92.54
         },
         {
           "s": "JAN",
-          "t": "Oh hello. My name's Jan. Are you the right person to talk to about the Buckworth Conservation Group?"
+          "t": "Oh hello. My name's Jan. Are you the right person to talk to about the Buckworth Conservation Group?",
+          "start": 92.54,
+          "end": 99.94
         },
         {
           "s": "PETER",
-          "t": "Yes, I'm Peter. I'm the secretary."
+          "t": "Yes, I'm Peter. I'm the secretary.",
+          "start": 100.18,
+          "end": 102.3
         },
         {
           "s": "JAN",
-          "t": "Good. I've just moved to this area, and I'm interested in getting involved. I was in a similar group where I used to live. Could you tell me something about your activities, please?"
+          "t": "Good. I've just moved to this area, and I'm interested in getting involved. I was in a similar group where I used to live. Could you tell me something about your activities, please?",
+          "start": 103.07,
+          "end": 114.71
         },
         {
           "s": "PETER",
           "t": "Of course. Well, we have a mixture of regular activities and special events. One of the regular ones is trying to keep the beach free of litter. A few of us spend a couple of hours a month on it, and it's awful how much there is to clear. I wish people would be more responsible and take it home with them.",
           "q": [
             1
-          ]
+          ],
+          "start": 115.21,
+          "end": 133.0
         },
         {
           "s": "JAN",
-          "t": "I totally agree. I'd be happy to help with that. Is it OK to take dogs?"
+          "t": "I totally agree. I'd be happy to help with that. Is it OK to take dogs?",
+          "start": 133.44,
+          "end": 139.03
         },
         {
           "s": "PETER",
           "t": "I'm afraid not, as they're banned from the beach itself. You can take them along the cliffs, though. And children are welcome.",
           "q": [
             2
-          ]
+          ],
+          "start": 139.43,
+          "end": 146.39
         },
         {
           "s": "JAN",
-          "t": "Right."
+          "t": "Right.",
+          "start": 147.03,
+          "end": 147.11
         },
         {
           "s": "PETER",
-          "t": "We also manage a nature reserve, and there's a lot to do there all year round. For example, because it's a popular place to visit, we spend a lot of time looking after the paths and making sure they're in good condition for walking."
+          "t": "We also manage a nature reserve, and there's a lot to do there all year round. For example, because it's a popular place to visit, we spend a lot of time looking after the paths and making sure they're in good condition for walking.",
+          "start": 148.14,
+          "end": 160.77
         },
         {
           "s": "JAN",
-          "t": "I could certainly help with that."
+          "t": "I could certainly help with that.",
+          "start": 161.65,
+          "end": 163.37
         },
         {
           "s": "PETER",
           "t": "Good. And we have a programme of creating new habitats there. We've just finished making and installing nesting boxes for birds to use, and next we're going to work on encouraging insects – they're important for the biodiversity of the reserve.",
           "q": [
             3
-          ]
+          ],
+          "start": 163.69,
+          "end": 179.37
         },
         {
           "s": "JAN",
-          "t": "They certainly are."
+          "t": "They certainly are.",
+          "start": 179.91,
+          "end": 180.75
         },
         {
           "s": "PETER",
           "t": "Oh, and we're also running a project to identify the different species of butterflies that visit the reserve. You might be interested in taking part in that.",
           "q": [
             4
-          ]
+          ],
+          "start": 181.03,
+          "end": 190.27
         },
         {
           "s": "JAN",
-          "t": "Sure. I was involved in something similar where I used to live, counting all the species of moths. I'd enjoy that."
+          "t": "Sure. I was involved in something similar where I used to live, counting all the species of moths. I'd enjoy that.",
+          "start": 190.63,
+          "end": 198.83
         },
         {
           "s": "PETER",
           "t": "Another job we're doing at the reserve is replacing the wall on the southern side, between the parking area and our woodshed. It was badly damaged in a storm last month.",
           "q": [
             5
-          ]
+          ],
+          "start": 199.11,
+          "end": 209.45
         },
         {
           "s": "JAN",
-          "t": "OK."
+          "t": "OK.",
+          "start": 209.61,
+          "end": 210.09
         },
         {
           "s": "PETER",
-          "t": "Then as I said, we have a programme of events as well, both at the weekend, and during the week."
+          "t": "Then as I said, we have a programme of events as well, both at the weekend, and during the week.",
+          "start": 252.17,
+          "end": 257.29
         },
         {
           "s": "JAN",
-          "t": "Right. I presume you have guided walks? I'd like to get to know the local countryside, as I'm new to the area."
+          "t": "Right. I presume you have guided walks? I'd like to get to know the local countryside, as I'm new to the area.",
+          "start": 257.49,
+          "end": 266.25
         },
         {
           "s": "PETER",
           "t": "Yes, we do. The next walk is to Ruston Island, a week on Saturday. We'll be meeting in the car park at Dunsmore Beach at low tide – that's when the sands are dry enough for us to walk to the island without getting wet.",
           "q": [
             6
-          ]
+          ],
+          "start": 266.77,
+          "end": 279.79
         },
         {
           "s": "JAN",
-          "t": "Sounds good."
+          "t": "Sounds good.",
+          "start": 280.51,
+          "end": 281.11
         },
         {
           "s": "PETER",
-          "t": "The island's a great place to explore. It's quite small, and it's got a range of habitats. It's also an ideal location for seeing seals just off the coast, or even on the beach."
+          "t": "The island's a great place to explore. It's quite small, and it's got a range of habitats. It's also an ideal location for seeing seals just off the coast, or even on the beach.",
+          "start": 281.71,
+          "end": 292.91
         },
         {
           "s": "JAN",
-          "t": "OK. And is there anything we should bring, like a picnic, for instance?"
+          "t": "OK. And is there anything we should bring, like a picnic, for instance?",
+          "start": 293.11,
+          "end": 299.26
         },
         {
           "s": "PETER",
           "t": "Yes, do bring one, as it's a full-day walk. And of course it'll be wet walking across and back, so make sure your boots are waterproof.",
           "q": [
             7
-          ]
+          ],
+          "start": 300.1,
+          "end": 309.14
         },
         {
           "s": "JAN",
-          "t": "I must buy a new pair – there's a hole in one of my current ones! Well, I'd definitely like to come on the walk."
+          "t": "I must buy a new pair – there's a hole in one of my current ones! Well, I'd definitely like to come on the walk.",
+          "start": 309.59,
+          "end": 317.35
         },
         {
           "s": "PETER",
-          "t": "Great. Then later this month we're having a one-day woodwork session in Hopton Wood."
+          "t": "Great. Then later this month we're having a one-day woodwork session in Hopton Wood.",
+          "start": 317.67,
+          "end": 323.49
         },
         {
           "s": "JAN",
           "t": "I've never tried that before. Is it OK for beginners to take part?",
           "q": [
             8
-          ]
+          ],
+          "start": 324.01,
+          "end": 328.81
         },
         {
           "s": "PETER",
-          "t": "Definitely. There'll be a couple of experts leading the session, and we keep the number of participants down, so you'll get as much help as you need."
+          "t": "Definitely. There'll be a couple of experts leading the session, and we keep the number of participants down, so you'll get as much help as you need.",
+          "start": 329.6,
+          "end": 337.28
         },
         {
           "s": "JAN",
-          "t": "Excellent! I'd love to be able to make chairs."
+          "t": "Excellent! I'd love to be able to make chairs.",
+          "start": 337.44,
+          "end": 340.88
         },
         {
           "s": "PETER",
           "t": "That's probably too ambitious for one day! You'll be starting with wooden spoons, and of course learning how to use the tools. And anything you make is yours to take home with you.",
           "q": [
             9
-          ]
+          ],
+          "start": 341.72,
+          "end": 352.92
         },
         {
           "s": "JAN",
-          "t": "That sounds like fun. When is it?"
+          "t": "That sounds like fun. When is it?",
+          "start": 353.73,
+          "end": 356.17
         },
         {
           "s": "PETER",
           "t": "It's on the 17th, from 10 a.m. until 3. There's a charge of £35, including lunch, or £40 if you want to camp in the wood.",
           "q": [
             10
-          ]
+          ],
+          "start": 356.41,
+          "end": 367.68
         },
         {
           "s": "JAN",
-          "t": "I should think I'll come home the same day. Well, I'd certainly like to join the group."
+          "t": "I should think I'll come home the same day. Well, I'd certainly like to join the group.",
+          "start": 368.2,
+          "end": 373.84
         }
       ]
     },
     {
       "part": 2,
       "audio": "/audio/c17/t1p2.mp3",
-      "duration": 0,
+      "duration": 413,
       "title": "Boat trip round Tasmania",
       "groups": [
         {
@@ -395,39 +459,51 @@
       "transcript": [
         {
           "s": "SPEAKER",
-          "t": "So, hello everyone. My name's Lou Miller and I'm going to be your tour guide today as we take this fantastic boat trip around the Tasmanian coast. Before we set off, I just want to tell you a few things about our journey."
+          "t": "So, hello everyone. My name's Lou Miller and I'm going to be your tour guide today as we take this fantastic boat trip around the Tasmanian coast. Before we set off, I just want to tell you a few things about our journey.",
+          "start": 59.04,
+          "end": 73.9
         },
         {
           "s": "SPEAKER",
           "t": "Our boats aren't huge as you can see. We already have three staff members on board and on top of that, we can transport a further fifteen people – that's you – around the coastline. But please note if there are more than nine people on either side of the boat, we'll move some of you over, otherwise all eighteen of us will end up in the sea!",
           "q": [
             11
-          ]
+          ],
+          "start": 75.02,
+          "end": 99.4
         },
         {
           "s": "SPEAKER",
           "t": "We've recently upgraded all our boats. They used to be jet black, but our new ones now have these comfortable dark red seats and a light-green exterior in order to stand out from others and help promote our company. This gives our boats a rather unique appearance, don't you think?",
           "q": [
             12
-          ]
+          ],
+          "start": 100.64,
+          "end": 120.03
         },
         {
           "s": "SPEAKER",
           "t": "We offer you a free lunchbox during the trip and we have three types. Lunchbox 1 contains ham and tomato sandwiches. Lunchbox 2 contains a cheddar cheese roll and Lunchbox 3 is salad-based and also contains eggs and tuna. All three lunchboxes also have a packet of crisps and chocolate bar inside. Please let staff know which lunchbox you prefer.",
           "q": [
             13
-          ]
+          ],
+          "start": 121.11,
+          "end": 150.45
         },
         {
           "s": "SPEAKER",
           "t": "I'm sure I don't have to ask you not to throw anything into the sea. We don't have any bins to put litter in, but Jess, myself or Ray, our other guide, will collect it from you after lunch and put it all in a large plastic sack.",
           "q": [
             14
-          ]
+          ],
+          "start": 151.77,
+          "end": 168.12
         },
         {
           "s": "SPEAKER",
-          "t": "The engine on the boat makes quite a lot of noise so before we head off, let me tell you a few things about what you're going to see."
+          "t": "The engine on the boat makes quite a lot of noise so before we head off, let me tell you a few things about what you're going to see.",
+          "start": 215.62,
+          "end": 223.3
         },
         {
           "s": "SPEAKER",
@@ -435,7 +511,9 @@
           "q": [
             15,
             16
-          ]
+          ],
+          "start": 224.1,
+          "end": 253.01
         },
         {
           "s": "SPEAKER",
@@ -443,7 +521,9 @@
           "q": [
             15,
             16
-          ]
+          ],
+          "start": 254.17,
+          "end": 276.75
         },
         {
           "s": "SPEAKER",
@@ -451,7 +531,9 @@
           "q": [
             17,
             18
-          ]
+          ],
+          "start": 278.35,
+          "end": 321.71
         },
         {
           "s": "SPEAKER",
@@ -459,7 +541,9 @@
           "q": [
             17,
             18
-          ]
+          ],
+          "start": 321.99,
+          "end": 329.79
         },
         {
           "s": "SPEAKER",
@@ -467,7 +551,9 @@
           "q": [
             19,
             20
-          ]
+          ],
+          "start": 331.45,
+          "end": 358.09
         },
         {
           "s": "SPEAKER",
@@ -475,7 +561,9 @@
           "q": [
             19,
             20
-          ]
+          ],
+          "start": 359.08,
+          "end": 373.12
         }
       ]
     },

@@ -42,6 +42,16 @@
    然后用 Read 工具看一眼生成的 PNG，确认图表完整、没有把题干截掉一半；不合适就调 `--crop` 的四个比例再跑。`image` 字段填 `/img/c{N}t{T}-task1.png`。
 8. 顶层字段：`id: "c{N}t{T}"`，`book: "剑桥雅思{N}"`，`test: {T}`，`title: "剑{N} Test {T} · Listening"`（阅读/写作同理）。阅读加 `minutes: 60`。
 
+## 输出必须分块（硬性要求）
+
+一次输出太长的文件会被拦截，所以**不要一次 Write 整份听力或阅读 JSON**：
+
+- 听力：先写 `drafts/c{N}/parts/l-t{T}-meta.json`（id/book/test/title 等顶层字段 + `answers`，不含 parts），再分别写 `l-t{T}-part1.json` … `part4.json`（每个文件就是一个 Part 对象，含 groups 和 transcript），然后 `python3 scripts/merge_paper.py listening {N} {T}` 合并。单个 Part 的 transcript 太长（超过 80 句）时，可以先写不含 transcript 的 Part，再用 Bash 的 python 分两三次把 transcript 句子追加进去。
+- 阅读：`r-t{T}-meta.json`（顶层字段 + `answers`）、`r-t{T}-explain.json`（40 题 explain）、`r-t{T}-passage1.json` … `passage3.json`（每个是一个 Passage 对象），然后 `python3 scripts/merge_paper.py reading {N} {T}`。
+- 写作：范文按第 6b 条逐段抄。
+
+合并后再跑校验。这些中间文件放 `drafts/`，不会提交。
+
 ## 校验（必须通过才算完成）
 
 ```bash
@@ -50,7 +60,7 @@ python3 scripts/validate_paper.py reading   public/data/reading/c{N}t{T}.json
 python3 scripts/validate_paper.py writing   public/data/writing/c{N}t{T}.json
 ```
 
-三个都打印 `✓` 才算完成。报错就改到通过。**只允许创建/修改上面 4 个产出文件和 `drafts/c{N}/samples/` 下的范文文本**，不要改脚本、不要改其它试卷、不要 git 操作。
+三个都打印 `✓` 才算完成。报错就改到通过。**只允许创建/修改上面 4 个产出文件和 `drafts/c{N}/samples/`、`drafts/c{N}/parts/` 下的中间文件**，不要改脚本、不要改其它试卷、不要 git 操作。
 
 ## 最后汇报（简短）
 
