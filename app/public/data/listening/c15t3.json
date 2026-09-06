@@ -1,0 +1,1065 @@
+{
+  "id": "c15t3",
+  "book": "剑桥雅思15",
+  "test": 3,
+  "title": "剑15 Test 3 · Listening",
+  "source": "Cambridge IELTS 15 Academic, Test 3（文字层抽取 + 人工校对，答案页/音频原文以书末 Audioscripts 页图核对）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c15/t3p1.mp3",
+      "duration": 0,
+      "title": "Employment Agency: Possible Jobs",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Employment Agency: Possible Jobs",
+          "lines": [
+            "## First job",
+            "Administrative assistant in a company that produces {{1}} (North London)",
+            "Responsibilities",
+            "data entry",
+            "go to {{2}} and take notes",
+            "general admin",
+            "management of {{3}}",
+            "Requirements",
+            "good computer skills including spreadsheets",
+            "good interpersonal skills",
+            "attention to {{4}}",
+            "Experience",
+            "need a minimum of {{5}} of experience of teleconferencing",
+            "## Second job",
+            "Warehouse assistant in South London",
+            "Responsibilities",
+            "stock management",
+            "managing {{6}}",
+            "Requirements",
+            "ability to work with numbers",
+            "good computer skills",
+            "very organised and {{7}}",
+            "good communication skills",
+            "used to working in a {{8}}",
+            "able to cope with items that are {{9}}",
+            "Need experience of",
+            "driving in London",
+            "warehouse work",
+            "{{10}} service"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SALLY",
+          "t": "Good morning. Thanks for coming in to see us here at the agency, Joe. I'm one of the agency representatives, and my name's Sally Baker."
+        },
+        {
+          "s": "JOE",
+          "t": "Hi Sally. I think we spoke on the phone, didn't we?"
+        },
+        {
+          "s": "SALLY",
+          "t": "That's right, we did. So thank you for sending in your CV. We've had quite a careful look at it and I think we have two jobs that might be suitable for you."
+        },
+        {
+          "s": "JOE",
+          "t": "OK."
+        },
+        {
+          "s": "SALLY",
+          "t": "The first one is in a company based in North London. They're looking for an administrative assistant."
+        },
+        {
+          "s": "JOE",
+          "t": "OK. What sort of company is it?"
+        },
+        {
+          "s": "SALLY",
+          "t": "They're called Home Solutions and they design and make furniture.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "JOE",
+          "t": "Oh, I don't know much about that, but it sounds interesting."
+        },
+        {
+          "s": "SALLY",
+          "t": "Yes, well as I said, they want someone in their office, and looking at your past experience it does look as if you fit quite a few of the requirements. So on your CV it appears you've done some data entry?"
+        },
+        {
+          "s": "JOE",
+          "t": "Yes."
+        },
+        {
+          "s": "SALLY",
+          "t": "So that's one skill they want. Then they expect the person they appoint to attend meetings and take notes there ...",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "JOE",
+          "t": "OK. I've done that before, yes."
+        },
+        {
+          "s": "SALLY",
+          "t": "And you'd need to be able to cope with general admin."
+        },
+        {
+          "s": "JOE",
+          "t": "Filing, and keeping records and so on? That should be OK. And in my last job I also had to manage the diary.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "SALLY",
+          "t": "Excellent. That's something they want here too. I'd suggest you add it to your CV – I don't think you mentioned that, did you?"
+        },
+        {
+          "s": "JOE",
+          "t": "No."
+        },
+        {
+          "s": "SALLY",
+          "t": "So as far as the requirements go, they want good computer skills, of course, and they particularly mention spreadsheets."
+        },
+        {
+          "s": "JOE",
+          "t": "That should be fine."
+        },
+        {
+          "s": "SALLY",
+          "t": "And interpersonal skills – which would be something they'd check with your references."
+        },
+        {
+          "s": "JOE",
+          "t": "I think that should be OK, yes."
+        },
+        {
+          "s": "SALLY",
+          "t": "Then they mention that they want someone who is careful and takes care with details – just looking at your CV, I'd say you're probably alright there.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "JOE",
+          "t": "I think so, yes. Do they want any special experience?"
+        },
+        {
+          "s": "SALLY",
+          "t": "I think they wanted some experience of teleconferencing."
+        },
+        {
+          "s": "JOE",
+          "t": "I've got three years' experience of that."
+        },
+        {
+          "s": "SALLY",
+          "t": "Let's see, yes, good. In fact they're only asking for at least one year, so that's great. So is that something that might interest you?",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "JOE",
+          "t": "It is, yes. The only thing is, you said they were in North London so it would be quite a long commute for me."
+        },
+        {
+          "s": "SALLY",
+          "t": "OK."
+        },
+        {
+          "s": "SALLY",
+          "t": "So the second position might suit you better as far as the location goes; that's for a warehouse assistant and that's in South London."
+        },
+        {
+          "s": "JOE",
+          "t": "Yes, that would be a lot closer."
+        },
+        {
+          "s": "SALLY",
+          "t": "And you've worked in a warehouse before, haven't you?"
+        },
+        {
+          "s": "JOE",
+          "t": "Yes."
+        },
+        {
+          "s": "SALLY",
+          "t": "So as far as the responsibilities for this position go, they want someone who can manage the stock, obviously, and also deliveries.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "JOE",
+          "t": "That should be OK. You've got to keep track of stuff, but I've always been quite good with numbers."
+        },
+        {
+          "s": "SALLY",
+          "t": "Good, that's their first requirement. And they want someone who's computer literate, which we know you are."
+        },
+        {
+          "s": "JOE",
+          "t": "Sure."
+        },
+        {
+          "s": "SALLY",
+          "t": "Then they mention organisational skills. They want someone who's well organised."
+        },
+        {
+          "s": "JOE",
+          "t": "Yes, I think I am."
+        },
+        {
+          "s": "SALLY",
+          "t": "And tidy?",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "JOE",
+          "t": "Yes, they go together really, don't they?"
+        },
+        {
+          "s": "SALLY",
+          "t": "Sure. Then the usual stuff; they want someone who can communicate well both orally and in writing."
+        },
+        {
+          "s": "JOE",
+          "t": "OK. And for the last warehouse job I had, one of the things I enjoyed most was being part of a team. I found that was really essential for the job.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "SALLY",
+          "t": "Excellent. Yes, they do mention that they want someone who's used to that, yes. Now when you were working in a warehouse last time, what sorts of items were you dealing with?"
+        },
+        {
+          "s": "JOE",
+          "t": "It was mostly bathroom and kitchen equipment, sinks and stoves and fridges."
+        },
+        {
+          "s": "SALLY",
+          "t": "So you're OK moving heavy things?",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "JOE",
+          "t": "Sure. I'm quite strong, and I've had the training."
+        },
+        {
+          "s": "SALLY",
+          "t": "Good. Now as far as experience goes, they mention they want someone with a licence, and that you have experience of driving in London – so you can cope with the traffic and so on."
+        },
+        {
+          "s": "JOE",
+          "t": "Yes, no problem."
+        },
+        {
+          "s": "SALLY",
+          "t": "And you've got experience of warehouse work ... and the final thing they mention is customer service. I think looking at your CV you're OK there.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "JOE",
+          "t": "Right. So what about pay? Can you tell me a bit more about that, please ..."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c15/t3p2.mp3",
+      "duration": 0,
+      "title": "The Street Play Scheme",
+      "groups": [
+        {
+          "range": [
+            11,
+            16
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Street Play Scheme",
+          "questions": [
+            {
+              "n": 11,
+              "text": "When did the Street Play Scheme first take place?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "two years ago"
+                },
+                {
+                  "k": "B",
+                  "text": "three years ago"
+                },
+                {
+                  "k": "C",
+                  "text": "six years ago"
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "How often is Beechwood Road closed to traffic now?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "once a week"
+                },
+                {
+                  "k": "B",
+                  "text": "on Saturdays and Sundays"
+                },
+                {
+                  "k": "C",
+                  "text": "once a month"
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "Who is responsible for closing the road?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a council official"
+                },
+                {
+                  "k": "B",
+                  "text": "the police"
+                },
+                {
+                  "k": "C",
+                  "text": "local wardens"
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "Residents who want to use their cars",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "have to park in another street."
+                },
+                {
+                  "k": "B",
+                  "text": "must drive very slowly."
+                },
+                {
+                  "k": "C",
+                  "text": "need permission from a warden."
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "Alice says that Street Play Schemes are most needed in",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "wealthy areas."
+                },
+                {
+                  "k": "B",
+                  "text": "quiet suburban areas."
+                },
+                {
+                  "k": "C",
+                  "text": "areas with heavy traffic."
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "What has been the reaction of residents who are not parents?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Many of them were unhappy at first."
+                },
+                {
+                  "k": "B",
+                  "text": "They like seeing children play in the street."
+                },
+                {
+                  "k": "C",
+                  "text": "They are surprised by the lack of noise."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            18
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO benefits for children does Alice think are the most important?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "increased physical activity"
+            },
+            {
+              "k": "B",
+              "text": "increased sense of independence"
+            },
+            {
+              "k": "C",
+              "text": "opportunity to learn new games"
+            },
+            {
+              "k": "D",
+              "text": "opportunity to be part of a community"
+            },
+            {
+              "k": "E",
+              "text": "opportunity to make new friends"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO results of the King Street experiment surprised Alice?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "more shoppers"
+            },
+            {
+              "k": "B",
+              "text": "improved safety"
+            },
+            {
+              "k": "C",
+              "text": "less air pollution"
+            },
+            {
+              "k": "D",
+              "text": "more relaxed atmosphere"
+            },
+            {
+              "k": "E",
+              "text": "less noise pollution"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "PRESENTER",
+          "t": "My guest on the show today is Alice Riches who started the Street Play Scheme where she lives in Beechwood Road. For those of you that don't already know – Street Play involves local residents closing off their street for a few hours so that children have a chance to play in the street safely. She started it in her own street, Beechwood Road, and the idea caught on, and there are now Street Play Schemes all over the city. So when did you actually start the scheme, Alice?"
+        },
+        {
+          "s": "ALICE",
+          "t": "Well, I first had the idea when my oldest child was still a toddler, so that's about six years ago now – but it took at least two years of campaigning before we were actually able to make it happen. So the scheme's been up and running for three years now.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "We'd love to be able to close our road for longer – for the whole weekend, from Saturday morning until Sunday evening, for example. At the moment it's just once a week. But when we started it was only once a month. But we're working on it.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "PRESENTER",
+          "t": "So what actually happens when Beechwood Road is closed?"
+        },
+        {
+          "s": "ALICE",
+          "t": "We have volunteer wardens, mostly parents but some elderly residents too, who block off our road at either end. The council have provided special signs but there's always a volunteer there to explain what's happening to any motorists. Generally, they're fine about it – we've only had to get the police involved once or twice.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "Now I should explain that the road isn't completely closed to cars. But only residents' cars are allowed. If people really need to get in or out of Beechwood Road, it's not a problem – as long as they drive at under 20 kilometres per hour.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "But most people just decide not to use their cars during this time, or they park in another street. The wardens are only there to stop through traffic."
+        },
+        {
+          "s": "PRESENTER",
+          "t": "So can anyone apply to get involved in Street Play?"
+        },
+        {
+          "s": "ALICE",
+          "t": "Absolutely – we want to include all kids in the city – especially those who live on busy roads. It's here that demand is greatest. Obviously, there isn't such demand in wealthier areas where the children have access to parks or large gardens – or in the suburbs where there are usually more places for children to play outside.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "I'd recommend that anyone listening who likes the idea should just give it a go. We've been surprised by the positive reaction of residents all over the city. And that's not just parents. There are always a few who complain but they're a tiny minority. On the whole everyone is very supportive and say they're very happy to see children out on the street – even if it does get quite noisy.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "There have been so many benefits of Street Play for the kids. Parents really like the fact that the kids are getting fresh air instead of sitting staring at a computer screen, even if they're not doing anything particularly energetic. And of course it's great that kids can play with their friends outside without being supervised by their parents – but for me the biggest advantage is that kids develop confidence in themselves to be outside without their parents.",
+          "q": [
+            17,
+            18
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "The other really fantastic thing is that children get to know the adults in the street – it's like having a big extended family.",
+          "q": [
+            17,
+            18
+          ]
+        },
+        {
+          "s": "PRESENTER",
+          "t": "It certainly does have a lot of benefits. I want to move on now and ask you about a related project in King Street."
+        },
+        {
+          "s": "ALICE",
+          "t": "Right. Well this was an experiment I was involved in where local residents decided to try and reduce the traffic along King Street, which is the busiest main road in our area, by persuading people not to use their cars for one day. We thought about making people pay more for parking – but we decided that would be really unpopular – so instead we just stopped people from parking on King Street but left the other car parks open."
+        },
+        {
+          "s": "ALICE",
+          "t": "It was surprising how much of a difference all this made. As we'd predicted, air quality was significantly better but what I hadn't expected was how much quieter it would be – even with the buses still running.",
+          "q": [
+            19,
+            20
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "Of course everyone said they felt safer but we were actually amazed that sales in the shops went up considerably that day – we thought there'd be fewer people out shopping – not more.",
+          "q": [
+            19,
+            20
+          ]
+        },
+        {
+          "s": "PRESENTER",
+          "t": "That's really interesting so the fact that ..."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c15/t3p3.mp3",
+      "duration": 0,
+      "title": "Media studies assignment: analysing newspaper articles",
+      "groups": [
+        {
+          "range": [
+            21,
+            26
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "What Hazel should analyse about items in newspapers:",
+          "lines": [
+            "what {{21}} the item is on",
+            "the {{22}} of the item, including the headline",
+            "any {{23}} accompanying the item",
+            "the {{24}} of the item, e.g. what's made prominent",
+            "the writer's main {{25}}",
+            "the {{26}} the writer may make about the reader"
+          ]
+        },
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "matching",
+          "instruction": "What does Hazel decide to do about each of the following types of articles?",
+          "limit": "Write the correct letter, A, B or C, next to Questions 27-30.",
+          "options": [
+            {
+              "k": "A",
+              "text": "She will definitely look for a suitable article."
+            },
+            {
+              "k": "B",
+              "text": "She may look for a suitable article."
+            },
+            {
+              "k": "C",
+              "text": "She definitely won't look for an article."
+            }
+          ],
+          "itemsTitle": "Types of articles",
+          "items": [
+            {
+              "n": 27,
+              "text": "national news item"
+            },
+            {
+              "n": 28,
+              "text": "editorial"
+            },
+            {
+              "n": 29,
+              "text": "human interest"
+            },
+            {
+              "n": 30,
+              "text": "arts"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "HAZEL",
+          "t": "Tom, could I ask you for some advice, please?"
+        },
+        {
+          "s": "TOM",
+          "t": "Yes of course, if you think I can help. What's it about?"
+        },
+        {
+          "s": "HAZEL",
+          "t": "It's my first media studies assignment, and I'm not sure how to go about it. You must have done it last year."
+        },
+        {
+          "s": "TOM",
+          "t": "Is that the one comparing the coverage of a particular story in a range of newspapers?"
+        },
+        {
+          "s": "HAZEL",
+          "t": "That's right."
+        },
+        {
+          "s": "TOM",
+          "t": "Oh yes, I really enjoyed writing it."
+        },
+        {
+          "s": "HAZEL",
+          "t": "So what sort of things do I need to compare?"
+        },
+        {
+          "s": "TOM",
+          "t": "Well, there are several things. For example, there's the question of which page of the newspaper the item appears on.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "HAZEL",
+          "t": "You mean, because there's a big difference between having it on the front page and the bottom of page ten, for instance?"
+        },
+        {
+          "s": "TOM",
+          "t": "Exactly. And that shows how important the editor thinks the story is. Then there's the size – how many column inches the story is given, how many columns it spreads over.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "HAZEL",
+          "t": "And I suppose that includes the headline."
+        },
+        {
+          "s": "TOM",
+          "t": "It certainly does. It's all part of attracting the reader's attention."
+        },
+        {
+          "s": "HAZEL",
+          "t": "What about graphics – whether there's anything visual in addition to the text?",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "TOM",
+          "t": "Yes, you need to consider those, too, because they can have a big effect on the reader's understanding of the story – sometimes a bigger effect than the text itself. Then you'll need to look at how the item is put together: what structure is it given?",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "TOM",
+          "t": "Bear in mind that not many people read beyond the first paragraph, so what has the journalist put at the beginning? And if, say, there are conflicting opinions about something, does one appear near the end, where people probably won't read it?"
+        },
+        {
+          "s": "HAZEL",
+          "t": "And newspapers sometimes give wrong or misleading information, don't they? Either deliberately or by accident. Should I be looking at that, too?"
+        },
+        {
+          "s": "TOM",
+          "t": "Yes, if you can. Compare what's in different versions, and as far as possible, try and work out what's true and what isn't. And that relates to a very important point: what's the writer's purpose, or at least the most important one, if they have several.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "TOM",
+          "t": "It may seem to be to inform the public, but often it's that they want to create fear, or controversy, or to make somebody look ridiculous."
+        },
+        {
+          "s": "HAZEL",
+          "t": "Gosh, I see what you mean. And I suppose the writer may make assumptions about the reader.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "TOM",
+          "t": "That's right – about their knowledge of the subject, their attitudes, and their level of education, which means writing so that the readers understand without feeling patronised. All of that will make a difference to how the story is presented."
+        },
+        {
+          "s": "HAZEL",
+          "t": "Does it matter what type of story I write about?"
+        },
+        {
+          "s": "TOM",
+          "t": "No – national or international politics, the arts ... Anything, as long as it's covered in two or three newspapers. Though of course it'll be easier and more fun if it's something you're interested in and know something about."
+        },
+        {
+          "s": "HAZEL",
+          "t": "And on that basis a national news item would be worth analysing – I'm quite keen on politics, so I'll try and find a suitable topic. What did you choose for your analysis, Tom?",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "TOM",
+          "t": "I was interested in how newspapers express their opinions explicitly, so I wanted to compare editorials in different papers, but when I started looking, I couldn't find two on the same topic that I felt like analysing.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "HAZEL",
+          "t": "In that case, I won't even bother to look.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "TOM",
+          "t": "So in the end I chose a human interest story – a terribly emotional story about a young girl who was very ill, and lots of other people – mostly strangers – raised money so she could go abroad for treatment. Actually, I was surprised – some papers just wrote about how wonderful everyone was, but others considered the broader picture, like why treatment wasn't available here."
+        },
+        {
+          "s": "HAZEL",
+          "t": "Hmm, I usually find stories like that raise quite strong feelings in me! I'll avoid that.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "HAZEL",
+          "t": "Perhaps I'll choose an arts topic, like different reviews of a film, or something about funding for the arts – I'll think about that.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "TOM",
+          "t": "Yes, that might be interesting."
+        },
+        {
+          "s": "HAZEL",
+          "t": "OK, well thanks a lot for your help, Tom. It's been really useful."
+        },
+        {
+          "s": "TOM",
+          "t": "You're welcome. Good luck with the assignment, Hazel."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c15/t3p4.mp3",
+      "duration": 0,
+      "title": "Early history of keeping clean",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Early history of keeping clean",
+          "lines": [
+            "## Prehistoric times",
+            "water was used to wash off {{31}}",
+            "## Ancient Babylon",
+            "soap-like material found in {{32}} cylinders",
+            "## Ancient Greece",
+            "people cleaned themselves with sand and other substances",
+            "used a strigil - scraper made of {{33}}",
+            "washed clothes in streams",
+            "## Ancient Germany and Gaul",
+            "used soap to colour their {{34}}",
+            "## Ancient Rome",
+            "animal fat, ashes and clay mixed through action of rain, used for washing clothes",
+            "from about 312 BC, water carried to Roman {{35}} by aqueducts",
+            "## Europe in Middle Ages",
+            "decline in bathing contributed to occurrence of {{36}}",
+            "{{37}} began to be added to soap",
+            "## Europe from 17th century",
+            "1600s: cleanliness and bathing started becoming usual",
+            "1791: Leblanc invented a way of making soda ash from {{38}}",
+            "early 1800s: Chevreul turned soapmaking into a {{39}}",
+            "from 1800s, there was no longer a {{40}} on soap"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Nowadays, we use different products for personal cleanliness, laundry, dishwashing and household cleaning, but this is very much a 20th-century development."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The origins of cleanliness date back to prehistoric times. Since water is essential for life, the earliest people lived near water and knew something about its cleansing properties – at least that it rinsed mud off their hands.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "During the excavation of ancient Babylon, evidence was found that soapmaking was known as early as 2800 BC. Archaeologists discovered cylinders made of clay, with inscriptions on them saying that fats were boiled with ashes. This is a method of making soap, though there's no reference to the purpose of this material.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The early Greeks bathed for aesthetic reasons and apparently didn't use soap. Instead, they cleaned their bodies with blocks of sand, pumice and ashes, then anointed themselves with oil, and scraped off the oil and dirt with a metal instrument known as a strigil. They also used oil mixed with ashes. Clothes were washed without soap in streams.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The ancient Germans and Gauls are also credited with discovering how to make a substance called 'soap', made of melted animal fat and ashes. They used this mixture to tint their hair red.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Soap got its name, according to an ancient Roman legend, from Mount Sapo, where animals were sacrificed, leaving deposits of animal fat. Rain washed these deposits, along with wood ashes, down into the clay soil along the River Tiber. Women found that this mixture greatly reduced the effort required to wash their clothes."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As Roman civilisation advanced, so did bathing. The first of the famous Roman baths, supplied with water from their aqueducts, was built around 312 BC. The baths were luxurious, and bathing became very popular. And by the second century AD, the Greek physician Galen recommended soap for both medicinal and cleansing purposes.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "After the fall of Rome in 467 AD and the resulting decline in bathing habits, much of Europe felt the impact of filth on public health. This lack of personal cleanliness and related unsanitary living conditions were major factors in the outbreaks of disease in the Middle Ages, and especially the Black Death of the 14th century.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Nevertheless, soapmaking became an established craft in Europe, and associations of soapmakers guarded their trade secrets closely. Vegetable and animal oils were used with ashes of plants, along with perfume, apparently for the first time. Gradually more varieties of soap became available for shaving and shampooing, as well as bathing and laundering.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A major step toward large-scale commercial soapmaking occurred in 1791, when a French chemist, Nicholas Leblanc, patented a process for turning salt into soda ash, or sodium carbonate. Soda ash is the alkali obtained from ashes that combines with fat to form soap. The Leblanc process yielded quantities of good-quality, inexpensive soda ash.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Modern soapmaking was born some 20 years later, in the early 19th century, with the discovery by Michel Eugène Chevreul, another French chemist, of the chemical nature and relationship of fats, glycerine and fatty acids. His studies established the basis for both fat and soap chemistry, and soapmaking became a science. Further developments during the 19th century made it easier and cheaper to manufacture soap.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Until the 19th century, soap was regarded as a luxury item, and was heavily taxed in several countries. As it became more readily available, it became an everyday necessity, a development that was reinforced when the high tax was removed. Soap was then something ordinary people could afford, and cleanliness standards improved.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "With this widespread use came the development of milder soaps for bathing and soaps for use in the washing machines that were available to consumers by the turn of the 20th century."
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "furniture"
+    ],
+    "2": [
+      "meetings"
+    ],
+    "3": [
+      "diary"
+    ],
+    "4": [
+      "detail",
+      "details"
+    ],
+    "5": [
+      "1 year",
+      "one year"
+    ],
+    "6": [
+      "deliveries"
+    ],
+    "7": [
+      "tidy"
+    ],
+    "8": [
+      "team"
+    ],
+    "9": [
+      "heavy"
+    ],
+    "10": [
+      "customer"
+    ],
+    "11": [
+      "B"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "B",
+      "D"
+    ],
+    "18": [
+      "B",
+      "D"
+    ],
+    "19": [
+      "A",
+      "E"
+    ],
+    "20": [
+      "A",
+      "E"
+    ],
+    "21": [
+      "page"
+    ],
+    "22": [
+      "size"
+    ],
+    "23": [
+      "graphic",
+      "graphics"
+    ],
+    "24": [
+      "structure"
+    ],
+    "25": [
+      "purpose"
+    ],
+    "26": [
+      "assumption",
+      "assumptions"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "C"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "mud"
+    ],
+    "32": [
+      "clay"
+    ],
+    "33": [
+      "metal"
+    ],
+    "34": [
+      "hair"
+    ],
+    "35": [
+      "bath",
+      "baths"
+    ],
+    "36": [
+      "disease",
+      "diseases"
+    ],
+    "37": [
+      "perfume"
+    ],
+    "38": [
+      "salt"
+    ],
+    "39": [
+      "science"
+    ],
+    "40": [
+      "tax"
+    ]
+  }
+}

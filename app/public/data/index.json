@@ -450,7 +450,11 @@
    "bookNo": 15,
    "test": 3,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
    "audioParts": [
     3
    ]

@@ -1,0 +1,44 @@
+{
+  "id": "c15t3",
+  "book": "剑桥雅思15",
+  "test": 3,
+  "title": "剑15 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "process",
+      "kindZh": "流程图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The diagram below shows how instant noodles are manufactured.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c15t3-task1.png",
+      "imageCaption": "Manufacturing instant noodles",
+      "sample": {
+        "band": 6.5,
+        "text": "The given scheme explains the process of instant noodles production. Moreover it reveals how this product appears on super market shelves. In general, there are eight stages of manufacturing before the final product is being delivered to the store.\n\nThe first operation consists of putting flour into storage silos. Then the flour is mixed with some other ingredients into dough in a special machine. The substance is further stretched into sheets which are cut into thin strips during the fourth stage. The following operation involves the strips too. At this moment the noodles are formed into discs. After that the round-shaped figures are cooked in oil and dried. The seventh stage consists of placing the product into cups and adding some vegetables and spices to it. The final part of production process is mainly about the packaging. At this moment freshly printed labels are added to the cups which are sealed after that. As soon as the product (instant noodles) is ready to leave the factory, it is shipped to a shopping facility.\n\nOverall, it takes a considerably long time for a product to get to a super market.",
+        "comment": "This response addresses the task fully and provides a description for each stage of the process, along with supporting details. A stronger overview would help to raise the overall score. Information is logically organised and the reader is guided through the answer by a range of cohesive devices [Moreover / In general / The first operation / Then / further / too / At this moment / After that / The seventh stage / The final part / Overall]. There is also use of reference [this] and substitution [product] to add variety to the description. There is some flexibility in the use of vocabulary [Labelling + sealing -> lables / labels are added to the cups which are sealed] and there is good use of less common items [The substance / round-shaped figures / the product / packaging]. There is a variety of complex structures used and most of these are accurate: there is an error in line 6 [which a cut / which are cut]."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 7,
+        "text": "Advertisement has always been a crucial part in the world of marketing. Throughout the decade, we have seen a significant increase in the amount of advertisements, whether it is on the media like television or widespread through social network platforms. The goal of advertisements is to get consumers to buy a targeted product, and while this method has been proven considerably successful generally, some people view it as too prevalent to catch the consumers' attention any more.\n\nAdvertisements can act as a strong persuasion device to seemingly hypnotize people into buying goods and services. This is so because of the tactics placed in the messages, such as showing people having a good time together when using a particular product, using bandwagen, showing only the upsides of usage, and applying compare and contrast strategies to show the effects of using the product and make it stand out. Even if people do not know it, these messages are repeated several times and soon it may brainwash people to Finally go out and get the product. For instance, if a person is watching television and sees a certain advertisement of a snack many times, the repeated sight of the scrumptious food may result in that person feeling hungry and succumbing to the advertisement at last.\n\nNevertheless, there is another point of view in which the widespread of advertisements makes it a normal thing. After watching a dozen of advertisements people will see it as a mere every day routine and cease to pay attention to the message of the advertisement. Some people may even choose to turn off a television channel, for instance, only just to avoid seeing and hearing repetetive advertisements. After a certain frequency, they start to get bored and stop paying attention to ads. Hence, in the end, the main goal of advertisements is not complete since the people whom the messages are sent out to do not receive that message. A real life example can be seen from advertisements in a particular social media platform, Youtube. In the Youtube marketing mechanism, advertisements are placed before and in between videos, hoping that the viewers would also be forced to watch the advertisements, too. However, this is not usually the case, since many people would just click \"Skip Ad\" and continue on.\n\nIn conclusion, advertisements can be successful in persuading people to purchase goods and services, or they can be unsuccessful in many ways. They are very commonly seen nowadays, but not all of them fulfill their purpose. Thus, advertisements must be designed and presented in the correct way to result in the highest effectiveness.",
+        "comment": "This candidate has addressed all parts of the prompt and presents a clear position throughout the response. Main ideas are presented, extended and supported. Ideas and information are presented logically and there is a clear progression throughout the answer. There is a range of cohesive devices [For instance / Nevertheless / Hence / A real life example / However / In conclusion / Thus], including reference and substitution [this method / this is so / these messages]. The range of vocabulary is wide enough to show some precise meanings and also shows less common items [prevalent / hypnotize / tactics / brainwash / succumbing] and collocations [significant increase / catch the consumers' attention / having a good time together / compare and contrast strategies]. There are only occasional spelling errors [bandwagen / bandwagon / repetetive / repetitive]. There is a variety of complex structures and the writer shows good control over grammar and punctuation."
+      }
+    }
+  ]
+}
