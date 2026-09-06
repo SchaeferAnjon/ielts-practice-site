@@ -1,0 +1,1425 @@
+{
+  "id": "c13t3",
+  "book": "剑桥雅思13",
+  "test": 3,
+  "title": "剑13 Test 3 · Listening",
+  "answers": {
+    "1": [
+      "850"
+    ],
+    "2": [
+      "bike",
+      "bicycle"
+    ],
+    "3": [
+      "parking"
+    ],
+    "4": [
+      "30",
+      "thirty"
+    ],
+    "5": [
+      "weekend",
+      "weekends"
+    ],
+    "6": [
+      "cinema"
+    ],
+    "7": [
+      "hospital"
+    ],
+    "8": [
+      "dentist"
+    ],
+    "9": [
+      "Thursday"
+    ],
+    "10": [
+      "cafe",
+      "café"
+    ],
+    "11": [
+      "F"
+    ],
+    "12": [
+      "D"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "G"
+    ],
+    "17": [
+      "B",
+      "C"
+    ],
+    "18": [
+      "B",
+      "C"
+    ],
+    "19": [
+      "B",
+      "D"
+    ],
+    "20": [
+      "B",
+      "D"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "F"
+    ],
+    "27": [
+      "H"
+    ],
+    "28": [
+      "D"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "E"
+    ],
+    "31": [
+      "tongue",
+      "tongues"
+    ],
+    "32": [
+      "plants"
+    ],
+    "33": [
+      "snakes"
+    ],
+    "34": [
+      "sky"
+    ],
+    "35": [
+      "partner",
+      "partners"
+    ],
+    "36": [
+      "contact"
+    ],
+    "37": [
+      "protection"
+    ],
+    "38": [
+      "tail",
+      "tails"
+    ],
+    "39": [
+      "steps"
+    ],
+    "40": [
+      "injury",
+      "injuries"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c13/t3p1.mp3",
+      "duration": 549,
+      "title": "Moving to Banford",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Moving to Banford",
+          "lines": [
+            "Suburb recommended by Linda: Dalton (example)",
+            "## Accommodation",
+            "Average rent: £{{1}} a month",
+            "## Transport",
+            "Linda travels to work by {{2}}",
+            "Limited {{3}} in city centre",
+            "Trains to London every {{4}} minutes",
+            "Poor train service at {{5}}",
+            "## Advantages of living in Banford",
+            "New {{6}} opened recently",
+            "{{7}} has an excellent reputation",
+            "Good {{8}} on Bridge Street",
+            "## Meet Linda",
+            "Meet Linda on {{9}} after 5.30 pm",
+            "In the {{10}} opposite the station"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LINDA",
+          "t": "Hello, Linda speaking.",
+          "start": 181.18,
+          "end": 182.62
+        },
+        {
+          "s": "MATT",
+          "t": "Oh hi, Linda. This is Matt Brooks. Alex White gave me your number. He said you'd be able to give me some advice about moving to Banford.",
+          "start": 183.14,
+          "end": 193.38
+        },
+        {
+          "s": "LINDA",
+          "t": "Yes, Alex did mention you. How can I help?",
+          "start": 193.81,
+          "end": 198.45
+        },
+        {
+          "s": "MATT",
+          "t": "Well, first of all – which area to live in?",
+          "start": 198.65,
+          "end": 203.01
+        },
+        {
+          "s": "LINDA",
+          "t": "Well, I live in Dalton, which is a really nice suburb – not too expensive, and there's a nice park.",
+          "start": 203.93,
+          "end": 213.89
+        },
+        {
+          "s": "MATT",
+          "t": "Sounds good. Do you know how much it would be to rent a two bedroom flat there?",
+          "start": 215.14,
+          "end": 220.14
+        },
+        {
+          "s": "LINDA",
+          "t": "Yeah, you should be able to get something reasonable for 850 pounds per month. That's what people typically pay. You certainly wouldn't want to pay more than 900 pounds. That doesn't include bills or anything.",
+          "q": [
+            1
+          ],
+          "start": 220.14,
+          "end": 240.08
+        },
+        {
+          "s": "MATT",
+          "t": "No. That sounds alright. I'll definitely have a look there. Are the transport links easy from where you live?",
+          "start": 240.4,
+          "end": 248.96
+        },
+        {
+          "s": "LINDA",
+          "t": "Well, I'm very lucky. I work in the city centre so I don't have to use public transport. I go by bike.",
+          "q": [
+            2
+          ],
+          "start": 249.65,
+          "end": 259.77
+        },
+        {
+          "s": "MATT",
+          "t": "Oh, I wish I could do that. Is it safe to cycle around the city?",
+          "start": 260.86,
+          "end": 265.1
+        },
+        {
+          "s": "LINDA",
+          "t": "Yes, it's fine. And it keeps me fit. Anyway, driving to work in the city centre would be a nightmare because there's hardly any parking. And the traffic during the rush hour can be bad.",
+          "q": [
+            3
+          ],
+          "start": 265.3,
+          "end": 284.61
+        },
+        {
+          "s": "MATT",
+          "t": "I'd be working from home but I'd have to go to London one or two days a week.",
+          "start": 285.33,
+          "end": 290.65
+        },
+        {
+          "s": "LINDA",
+          "t": "Oh, that's perfect. Getting to London is no problem. There's a fast train every 30 minutes which only takes 45 minutes.",
+          "q": [
+            4
+          ],
+          "start": 291.44,
+          "end": 304.12
+        },
+        {
+          "s": "MATT",
+          "t": "That's good.",
+          "start": 304.6,
+          "end": 305.72
+        },
+        {
+          "s": "LINDA",
+          "t": "Yeah, the train service isn't bad during the week. And they run quite late at night. It's weekends that are a problem. They're always doing engineering work and you have to take a bus to Hadham and pick up the train there, which is really slow. But other than that, Banford's a great place to live. I've never been happier.",
+          "q": [
+            5
+          ],
+          "start": 306.04,
+          "end": 338.09
+        },
+        {
+          "s": "LINDA",
+          "t": "There are some nice restaurants in the city centre and a brand new cinema which has only been open a couple of months. There's a good arts centre too.",
+          "q": [
+            6
+          ],
+          "start": 380.03,
+          "end": 392.37
+        },
+        {
+          "s": "MATT",
+          "t": "Sounds like Banford's got it all.",
+          "start": 392.65,
+          "end": 394.81
+        },
+        {
+          "s": "LINDA",
+          "t": "Yes! We're really lucky. There are lots of really good aspects to living here. The schools are good and the hospital here is one of the best in the country. Everyone I know who's been there's had a positive experience. Oh, I can give you the name of my dentist too in Bridge Street, if you're interested. I've been going to him for years and I've never had any problems.",
+          "q": [
+            7,
+            8
+          ],
+          "start": 394.97,
+          "end": 429.9
+        },
+        {
+          "s": "MATT",
+          "t": "Oh, OK. Thanks!",
+          "start": 430.63,
+          "end": 432.59
+        },
+        {
+          "s": "LINDA",
+          "t": "I'll find his number and send it to you.",
+          "start": 433.03,
+          "end": 436.55
+        },
+        {
+          "s": "MATT",
+          "t": "Thanks, that would be really helpful.",
+          "start": 436.95,
+          "end": 439.79
+        },
+        {
+          "s": "LINDA",
+          "t": "Are you planning to visit Banford soon?",
+          "start": 440.74,
+          "end": 443.42
+        },
+        {
+          "s": "MATT",
+          "t": "Yes. My wife and I are both coming next week. We want to make some appointments with estate agents.",
+          "start": 443.66,
+          "end": 451.02
+        },
+        {
+          "s": "LINDA",
+          "t": "I could meet you if you like and show you around.",
+          "start": 451.91,
+          "end": 454.95
+        },
+        {
+          "s": "MATT",
+          "t": "Are you sure? We'd really appreciate that.",
+          "start": 455.31,
+          "end": 459.07
+        },
+        {
+          "s": "LINDA",
+          "t": "Either a Tuesday or Thursday is good for me, after 5.30.",
+          "q": [
+            9
+          ],
+          "start": 459.31,
+          "end": 465.89
+        },
+        {
+          "s": "MATT",
+          "t": "Thursday's preferable – Tuesday I need to get home before 6 pm.",
+          "start": 466.69,
+          "end": 472.69
+        },
+        {
+          "s": "LINDA",
+          "t": "OK. Great. Let me know which train you're catching and I'll meet you in the cafe outside. You can't miss it. It's opposite the station and next to the museum.",
+          "q": [
+            10
+          ],
+          "start": 473.65,
+          "end": 490.28
+        },
+        {
+          "s": "MATT",
+          "t": "Brilliant. I'll text you next week then. Thanks so much for all the advice.",
+          "start": 490.52,
+          "end": 497.9
+        },
+        {
+          "s": "LINDA",
+          "t": "No problem. I'll see you next week.",
+          "start": 498.74,
+          "end": 501.7
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c13/t3p2.mp3",
+      "duration": 381,
+      "title": "Choosing a physical activity",
+      "groups": [
+        {
+          "range": [
+            11,
+            16
+          ],
+          "type": "matching",
+          "instruction": "What advantage does the speaker mention for each of the following physical activities?",
+          "limit": "Choose SIX answers from the box and write the correct letter, A-G, next to Questions 11-16.",
+          "optionsTitle": "Advantages",
+          "options": [
+            {
+              "k": "A",
+              "text": "not dependent on season"
+            },
+            {
+              "k": "B",
+              "text": "enjoyable"
+            },
+            {
+              "k": "C",
+              "text": "low risk of injury"
+            },
+            {
+              "k": "D",
+              "text": "fitness level unimportant"
+            },
+            {
+              "k": "E",
+              "text": "sociable"
+            },
+            {
+              "k": "F",
+              "text": "fast results"
+            },
+            {
+              "k": "G",
+              "text": "motivating"
+            }
+          ],
+          "itemsTitle": "Physical activities",
+          "items": [
+            {
+              "n": 11,
+              "text": "using a gym"
+            },
+            {
+              "n": 12,
+              "text": "running"
+            },
+            {
+              "n": 13,
+              "text": "swimming"
+            },
+            {
+              "n": 14,
+              "text": "cycling"
+            },
+            {
+              "n": 15,
+              "text": "doing yoga"
+            },
+            {
+              "n": 16,
+              "text": "training with a personal trainer"
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            18
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "For which TWO reasons does the speaker say people give up going to the gym?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "lack of time"
+            },
+            {
+              "k": "B",
+              "text": "loss of confidence"
+            },
+            {
+              "k": "C",
+              "text": "too much effort required"
+            },
+            {
+              "k": "D",
+              "text": "high costs"
+            },
+            {
+              "k": "E",
+              "text": "feeling less successful than others"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO pieces of advice does the speaker give for setting goals?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "write goals down"
+            },
+            {
+              "k": "B",
+              "text": "have achievable aims"
+            },
+            {
+              "k": "C",
+              "text": "set a time limit"
+            },
+            {
+              "k": "D",
+              "text": "give yourself rewards"
+            },
+            {
+              "k": "E",
+              "text": "challenge yourself"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "So if you're one of those people who hasn't found the perfect physical activity yet – here are some things to think about which might help you make the right decision for you.",
+          "start": 52.98,
+          "end": 63.58
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The first question to ask yourself is whether you would enjoy training in a gym.",
+          "start": 65.17,
+          "end": 70.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Many people are put off by the idea of having to fit a visit to the gym into their busy day – you often have to go very early or late as some gyms can get very crowded.",
+          "start": 70.13,
+          "end": 82.64
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But with regular training you'll see a big difference in a relatively short space of time.",
+          "q": [
+            11
+          ],
+          "start": 82.88,
+          "end": 88.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Running has become incredibly popular in recent years.",
+          "start": 90.47,
+          "end": 93.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's probably got a lot to do with the fact that it's a very accessible form of exercise – anyone can run – even if you can only run a few metres to begin with.",
+          "q": [
+            12
+          ],
+          "start": 94.63,
+          "end": 104.99
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But make sure you get the right shoes – it's worth investing in a high quality pair and they don't come cheap.",
+          "start": 105.75,
+          "end": 112.79
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another great thing about running is that you can do it at any time of day or night – the only thing that may stop you is snow and ice.",
+          "start": 114.33,
+          "end": 122.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Swimming is another really good way to build fitness.",
+          "start": 124.66,
+          "end": 127.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What attracts many people is that you can swim in an indoor pool at any time of year.",
+          "q": [
+            13
+          ],
+          "start": 128.74,
+          "end": 134.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On the other hand, it can be quite boring or solitary – it's hard to chat to people while you're swimming lengths.",
+          "start": 135.58,
+          "end": 141.98
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Cycling has become almost as popular as running in recent years.",
+          "start": 143.58,
+          "end": 147.34
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's probably because as well as improving their fitness, many people say being out in the fresh air in a park or in the countryside can be fun, provided the conditions are right, of course – only fanatics go out in the wind and rain!",
+          "q": [
+            14
+          ],
+          "start": 148.18,
+          "end": 163.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Yoga is a good choice for those of you looking for exercise which focuses on developing both a healthy mind and body.",
+          "start": 164.78,
+          "end": 172.46
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's a good way of building strength and with the right instructor, there's less chance of hurting yourself than with other more active sports.",
+          "q": [
+            15
+          ],
+          "start": 173.74,
+          "end": 181.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But don't expect to find it easy – it can be surprisingly challenging, especially for people who aren't very flexible.",
+          "start": 182.94,
+          "end": 190.3
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Getting a personal trainer is a good way to start your fitness programme.",
+          "start": 192.18,
+          "end": 195.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Obviously there can be significant costs involved.",
+          "start": 196.46,
+          "end": 199.86
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But if you've got someone there to encourage you and help you achieve your goals, you're less likely to give up.",
+          "q": [
+            16
+          ],
+          "start": 200.54,
+          "end": 207.31
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Make sure you get someone with a recognised qualification, though, or you could do yourself permanent damage.",
+          "start": 207.51,
+          "end": 214.59
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Whatever you do, don't join a gym unless you're sure you'll make good use of it.",
+          "start": 251.79,
+          "end": 256.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So many people waste lots of money by signing up for membership and then hardly ever go.",
+          "start": 257.87,
+          "end": 263.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What happens to their good intentions?",
+          "start": 264.59,
+          "end": 266.31
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I don't think people suddenly stop caring about improving their fitness, or decide they have more important things to do.",
+          "start": 267.63,
+          "end": 274.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I think people lose interest when they don't think they're making enough progress.",
+          "start": 275.75,
+          "end": 280.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's when they give up and stop believing they'll ever achieve their goals.",
+          "q": [
+            17,
+            18
+          ],
+          "start": 281.75,
+          "end": 286.67
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Also, what people sometimes don't realise when they start is that it takes a lot of determination and hard work to keep training week after week and lots of people don't have that kind of commitment.",
+          "start": 288.39,
+          "end": 302.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One thing you can do to help yourself is to set manageable goals – be realistic and don't push yourself too far.",
+          "q": [
+            19,
+            20
+          ],
+          "start": 304.45,
+          "end": 312.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some people advise writing goals down, but I think it's better to have a flexible approach.",
+          "start": 314.24,
+          "end": 319.52
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Give yourself a really nice treat every time you reach one of your goals.",
+          "start": 319.68,
+          "end": 324.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And don't get too upset if you experience setbacks – it's a journey – there are bound to be difficulties along the way.",
+          "start": 325.62,
+          "end": 333.7
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c13/t3p3.mp3",
+      "duration": 399,
+      "title": "Project on using natural dyes to colour fabrics",
+      "groups": [
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Project on using natural dyes to colour fabrics",
+          "questions": [
+            {
+              "n": 21,
+              "text": "What first inspired Jim to choose this project?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "textiles displayed in an exhibition"
+                },
+                {
+                  "k": "B",
+                  "text": "a book about a botanic garden"
+                },
+                {
+                  "k": "C",
+                  "text": "carpets he saw on holiday"
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "Jim eventually decided to do a practical investigation which involved",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "using a range of dyes with different fibres."
+                },
+                {
+                  "k": "B",
+                  "text": "applying different dyes to one type of fibre."
+                },
+                {
+                  "k": "C",
+                  "text": "testing one dye and a range of fibres."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "When doing his experiments, Jim was surprised by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "how much natural material was needed to make the dye."
+                },
+                {
+                  "k": "B",
+                  "text": "the fact that dyes were widely available on the internet."
+                },
+                {
+                  "k": "C",
+                  "text": "the time that he had to leave the fabric in the dye."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "What problem did Jim have with using tartrazine as a fabric dye?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It caused a slight allergic reaction."
+                },
+                {
+                  "k": "B",
+                  "text": "It was not a permanent dye on cotton."
+                },
+                {
+                  "k": "C",
+                  "text": "It was ineffective when used on nylon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            30
+          ],
+          "type": "matching",
+          "instruction": "What problem is identified with each of the following natural dyes?",
+          "limit": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
+          "optionsTitle": "Problems",
+          "options": [
+            {
+              "k": "A",
+              "text": "It is expensive."
+            },
+            {
+              "k": "B",
+              "text": "The colour is too strong."
+            },
+            {
+              "k": "C",
+              "text": "The colour is not long-lasting."
+            },
+            {
+              "k": "D",
+              "text": "It is very poisonous."
+            },
+            {
+              "k": "E",
+              "text": "It can damage the fabric."
+            },
+            {
+              "k": "F",
+              "text": "The colour may be unexpected."
+            },
+            {
+              "k": "G",
+              "text": "It is unsuitable for some fabrics."
+            },
+            {
+              "k": "H",
+              "text": "It is not generally available."
+            }
+          ],
+          "itemsTitle": "Natural dyes",
+          "items": [
+            {
+              "n": 25,
+              "text": "turmeric"
+            },
+            {
+              "n": 26,
+              "text": "beetroot"
+            },
+            {
+              "n": 27,
+              "text": "Tyrian purple"
+            },
+            {
+              "n": 28,
+              "text": "logwood"
+            },
+            {
+              "n": 29,
+              "text": "cochineal"
+            },
+            {
+              "n": 30,
+              "text": "metal oxide"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TUTOR",
+          "t": "OK, Jim. You wanted to see me about your textile design project.",
+          "start": 44.99,
+          "end": 49.55
+        },
+        {
+          "s": "JIM",
+          "t": "That's right. I've been looking at how a range of natural dyes can be used to colour fabrics like cotton and wool.",
+          "start": 49.71,
+          "end": 56.83
+        },
+        {
+          "s": "TUTOR",
+          "t": "Why did you choose that topic?",
+          "start": 57.3,
+          "end": 58.98
+        },
+        {
+          "s": "JIM",
+          "t": "Well, I got a lot of useful ideas from the museum, you know, at that exhibition of textiles. But I've always been interested in anything to do with colour. Years ago, I went to a carpet shop with my parents when we were on holiday in Turkey, and I remember all the amazing colours.",
+          "q": [
+            21
+          ],
+          "start": 59.18,
+          "end": 75.19
+        },
+        {
+          "s": "TUTOR",
+          "t": "They might not all have been natural dyes.",
+          "start": 76.07,
+          "end": 78.59
+        },
+        {
+          "s": "JIM",
+          "t": "Maybe not, but for the project I decided to follow it up. And I found a great book about a botanic garden in California that specialises in plants used for dyes.",
+          "start": 78.99,
+          "end": 89.95
+        },
+        {
+          "s": "TUTOR",
+          "t": "OK. So, in your project, you had to include a practical investigation.",
+          "start": 90.11,
+          "end": 95.47
+        },
+        {
+          "s": "JIM",
+          "t": "Yeah. At first I couldn't decide on my variables. I was going to just look at one type of fibre for example, like cotton...",
+          "start": 95.79,
+          "end": 104.03
+        },
+        {
+          "s": "TUTOR",
+          "t": "...and see how different types of dyes affected it?",
+          "start": 104.23,
+          "end": 107.03
+        },
+        {
+          "s": "JIM",
+          "t": "Yes. Then I decided to include others as well, so I looked at cotton and wool and nylon.",
+          "q": [
+            22
+          ],
+          "start": 107.11,
+          "end": 113.78
+        },
+        {
+          "s": "TUTOR",
+          "t": "With just one type of dye?",
+          "start": 113.94,
+          "end": 115.58
+        },
+        {
+          "s": "JIM",
+          "t": "Various types, including some that weren't natural, for comparison.",
+          "start": 115.82,
+          "end": 119.66
+        },
+        {
+          "s": "TUTOR",
+          "t": "OK.",
+          "start": 119.82,
+          "end": 120.1
+        },
+        {
+          "s": "JIM",
+          "t": "So, I did the experiments last week. I used some ready-made natural dyes, I found a website which supplied them, they came in just a few days, but I also made some of my own.",
+          "start": 120.98,
+          "end": 132.62
+        },
+        {
+          "s": "TUTOR",
+          "t": "That must have taken quite a bit of time.",
+          "start": 132.7,
+          "end": 134.78
+        },
+        {
+          "s": "JIM",
+          "t": "Yes, I'd thought it'd just be a matter of a teaspoon or so of dye, and actually that wasn't the case at all. Like I was using one vegetable, beetroot, for a red dye, and I had to chop up a whole pile of it. So it all took longer than I'd expected.",
+          "q": [
+            23
+          ],
+          "start": 134.9,
+          "end": 150.57
+        },
+        {
+          "s": "TUTOR",
+          "t": "One possibility is to use food colourings.",
+          "start": 150.93,
+          "end": 153.61
+        },
+        {
+          "s": "JIM",
+          "t": "I did use one. That was a yellow dye, an artificial one.",
+          "start": 154.41,
+          "end": 157.85
+        },
+        {
+          "s": "TUTOR",
+          "t": "Tartrazine?",
+          "start": 158.18,
+          "end": 158.86
+        },
+        {
+          "s": "JIM",
+          "t": "Yeah. I used it on cotton first. It came out a great colour, but when I rinsed the material, the colour just washed away. I'd been going to try it out on nylon, but I abandoned that idea.",
+          "q": [
+            24
+          ],
+          "start": 159.86,
+          "end": 170.42
+        },
+        {
+          "s": "TUTOR",
+          "t": "Were you worried about health issues?",
+          "start": 171.18,
+          "end": 173.1
+        },
+        {
+          "s": "JIM",
+          "t": "I'd thought if it's a legal food colouring, it must be safe.",
+          "start": 173.86,
+          "end": 176.46
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, it can occasionally cause allergic reactions, I believe.",
+          "start": 176.78,
+          "end": 180.46
+        },
+        {
+          "s": "TUTOR",
+          "t": "So what natural dyes did you look at?",
+          "start": 227.45,
+          "end": 229.45
+        },
+        {
+          "s": "JIM",
+          "t": "Well, one was turmeric. The colour's great, it's a really strong yellow. It's generally used in dishes like curry.",
+          "start": 229.97,
+          "end": 237.89
+        },
+        {
+          "s": "TUTOR",
+          "t": "It's meant to be quite good for your health when eaten, but you might find it's not permanent when it's used as a dye – a few washes, and it's gone.",
+          "q": [
+            25
+          ],
+          "start": 238.68,
+          "end": 246.12
+        },
+        {
+          "s": "JIM",
+          "t": "Right. I used beetroot as a dye for wool. When I chop up beetroot to eat I always end up with bright red hands, but the wool ended up just a sort of watery cream shade. Disappointing.",
+          "q": [
+            26
+          ],
+          "start": 246.36,
+          "end": 258.7
+        },
+        {
+          "s": "TUTOR",
+          "t": "There's a natural dye called Tyrian purple. Have you heard of that?",
+          "start": 258.98,
+          "end": 262.42
+        },
+        {
+          "s": "JIM",
+          "t": "Yes. It comes from a shellfish, and it was worn in ancient times but only by important people as it was so rare. I didn't use it.",
+          "q": [
+            27
+          ],
+          "start": 262.99,
+          "end": 271.71
+        },
+        {
+          "s": "TUTOR",
+          "t": "It fell out of use centuries ago, though one researcher managed to get hold of some recently. But that shade of purple can be produced by chemical dyes nowadays. Did you use any black dyes?",
+          "start": 271.79,
+          "end": 282.65
+        },
+        {
+          "s": "JIM",
+          "t": "Logwood. That was quite complicated. I had to prepare the fabric so the dye would take.",
+          "start": 282.97,
+          "end": 288.63
+        },
+        {
+          "s": "TUTOR",
+          "t": "I hope you were careful to wear gloves.",
+          "start": 288.75,
+          "end": 290.35
+        },
+        {
+          "s": "JIM",
+          "t": "Yes. I know the danger with that dye.",
+          "start": 290.51,
+          "end": 292.43
+        },
+        {
+          "s": "TUTOR",
+          "t": "Good. It can be extremely dangerous if it's ingested. Now, presumably you had a look at an insect-based dye? Like cochineal, for example?",
+          "q": [
+            28
+          ],
+          "start": 292.59,
+          "end": 300.6
+        },
+        {
+          "s": "JIM",
+          "t": "Yes. I didn't actually make that, I didn't have time to start crushing up insects to get the red colour and anyway they're not available here, but I managed to get the dye quite easily from a website. But it cost a fortune. I can see why it's generally just used in cooking, and in small quantities.",
+          "q": [
+            29
+          ],
+          "start": 301.24,
+          "end": 318.92
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, it's very effective, but that's precisely why it's not used as a dye.",
+          "start": 319.65,
+          "end": 323.41
+        },
+        {
+          "s": "JIM",
+          "t": "I also read about using metal oxide. Apparently you can allow iron to rust while it's in contact with the fabric, and that colours it.",
+          "start": 323.97,
+          "end": 332.37
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, that works well for dyeing cotton. But you have to be careful as the metal can actually affect the fabric and so you can't expect to get a lot of wear out of fabrics treated in this way. And the colours are quite subtle, not everyone likes them.",
+          "q": [
+            30
+          ],
+          "start": 332.49,
+          "end": 346.59
+        },
+        {
+          "s": "TUTOR",
+          "t": "Anyway, it looks as if you've done a lot of work...",
+          "start": 346.59,
+          "end": 349.83
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c13/t3p4.mp3",
+      "duration": 400,
+      "title": "The sleepy lizard (Tiliqua rugosa)",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "The sleepy lizard (Tiliqua rugosa)",
+          "lines": [
+            "## Description",
+            "They are common in Western and South Australia",
+            "They are brown, but recognisable by their blue {{31}}",
+            "They are relatively large",
+            "Their diet consists mainly of {{32}}",
+            "Their main predators are large birds and {{33}}",
+            "## Navigation study",
+            "One study found that lizards can use the {{34}} to help them navigate",
+            "## Observations in the wild",
+            "Observations show that these lizards keep the same {{35}} for several years",
+            "## What people want",
+            "Possible reasons:",
+            "to improve the survival of their young (but little {{36}} has been noted between parents and children)",
+            "to provide {{37}} for female lizards",
+            "## Tracking study",
+            "A study was carried out using GPS systems attached to the {{38}} of the lizards",
+            "This provided information on the lizards' location and even the number of {{39}} taken",
+            "It appeared that the lizards were trying to avoid one another",
+            "This may be in order to reduce chances of {{40}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Last week, we started looking at reptiles, including crocodiles and snakes. Today, I'd like us to have a look at another reptile – the lizard – and in particular, at some studies that have been done on a particular type of lizard whose Latin name is tiliqua rugosa.",
+          "start": 75.27,
+          "end": 92.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is commonly known as the sleepy lizard, because it's quite slow in its movements and spends quite a lot of its time dozing under rocks or lying in the sun.",
+          "start": 93.8,
+          "end": 103.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'll start with a general description.",
+          "start": 105.1,
+          "end": 106.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Sleepy lizards live in Western and South Australia, where they're quite common.",
+          "start": 108.11,
+          "end": 112.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Unlike European lizards, which are mostly small, green and fast-moving, sleepy lizards are brown, but what's particularly distinctive about them is the colour of their tongue, which is dark blue, in contrast with the lining of their mouth which is bright pink.",
+          "q": [
+            31
+          ],
+          "start": 112.87,
+          "end": 129.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And they're much bigger than most European lizards.",
+          "start": 131.2,
+          "end": 133.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They have quite a varied diet, including insects and even small animals, but they mostly eat plants of varying kinds.",
+          "q": [
+            32
+          ],
+          "start": 133.48,
+          "end": 143.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Even though they're quite large and powerful, with strong jaws that can crush beetles and snail shells, they still have quite a few predators.",
+          "start": 145.14,
+          "end": 152.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Large birds like cassowaries were one of the main ones in the past, but nowadays they're more likely to be caught and killed by snakes.",
+          "q": [
+            33
+          ],
+          "start": 153.06,
+          "end": 162.88
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Actually, another threat to their survival isn't a predator at all, but is man-made – quite a large number of sleepy lizards are killed by cars when they're trying to cross highways.",
+          "start": 165.2,
+          "end": 176.24
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One study carried out by Michael Freake at Flinders University investigated the methods of navigation of these lizards.",
+          "start": 178.15,
+          "end": 184.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Though they move slowly, they can travel quite long distances.",
+          "start": 184.95,
+          "end": 189.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And he found that even if they were taken some distance away from their home territory, they could usually find their way back home as long as they could see the sky – they didn't need any other landmarks on the ground.",
+          "q": [
+            34
+          ],
+          "start": 190.87,
+          "end": 203.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Observations of these lizards in the wild have also revealed that their mating habits are quite unusual.",
+          "start": 208.63,
+          "end": 214.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Unlike most animals, it seems that they're relatively monogamous, returning to the same partner year after year.",
+          "q": [
+            35
+          ],
+          "start": 215.6,
+          "end": 222.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the male and female also stay together for a long time, both before and after the birth of their young.",
+          "start": 223.66,
+          "end": 230.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's quite interesting to think about the possible reasons for this.",
+          "start": 232.5,
+          "end": 235.54
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It could be that it's to do with protecting their young – you'd expect them to have a much better chance of survival if they have both parents around.",
+          "start": 236.26,
+          "end": 244.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But in fact observers have noted that once the babies have hatched out of their eggs, they have hardly any contact with their parents.",
+          "start": 245.46,
+          "end": 252.82
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, there's not really any evidence to support that idea.",
+          "q": [
+            36
+          ],
+          "start": 253.6,
+          "end": 256.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another suggestion's based on the observation that male lizards in monogamous relationships tend to be bigger and stronger than other males.",
+          "start": 258.34,
+          "end": 265.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So maybe the male lizards stay around so they can give the female lizards protection from other males.",
+          "start": 267.14,
+          "end": 272.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But again, we're not really sure.",
+          "q": [
+            37
+          ],
+          "start": 273.61,
+          "end": 275.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Finally, I'd like to mention another study that involved collecting data by tracking the lizards.",
+          "start": 278.29,
+          "end": 283.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I was actually involved in this myself.",
+          "start": 284.29,
+          "end": 285.97
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So we caught some lizards in the wild and we developed a tiny GPS system that would allow us to track them, and we fixed this onto their tails.",
+          "q": [
+            38
+          ],
+          "start": 287.01,
+          "end": 295.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then we set the lizards free again, and we were able to track them for twelve days and gather data, not just about their location, but even about how many steps they took during this period.",
+          "q": [
+            39
+          ],
+          "start": 295.68,
+          "end": 308.13
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One surprising thing we discovered from this is that there were far fewer meetings between lizards than we expected – it seems that they were actually trying to avoid one another.",
+          "start": 310.24,
+          "end": 320.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So why would that be?",
+          "start": 321.61,
+          "end": 322.81
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, again we have no clear evidence, but one hypothesis is that male lizards can cause quite serious injuries to one another, so maybe this avoidance is a way of preventing this – of self-preservation, if you like.",
+          "q": [
+            40
+          ],
+          "start": 323.81,
+          "end": 338.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But we need to collect a lot more data before we can be sure of any of this.",
+          "start": 338.97,
+          "end": 342.93
+        }
+      ]
+    }
+  ]
+}

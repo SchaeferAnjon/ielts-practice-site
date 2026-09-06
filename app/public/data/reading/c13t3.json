@@ -1,0 +1,743 @@
+{
+  "id": "c13t3",
+  "book": "剑桥雅思13",
+  "test": 3,
+  "title": "剑13 Test 3 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "furniture"
+    ],
+    "2": [
+      "sugar"
+    ],
+    "3": [
+      "ropes"
+    ],
+    "4": [
+      "charcoal"
+    ],
+    "5": [
+      "bowls"
+    ],
+    "6": [
+      "hormones"
+    ],
+    "7": [
+      "cosmetics"
+    ],
+    "8": [
+      "dynamite"
+    ],
+    "9": [
+      "FALSE"
+    ],
+    "10": [
+      "FALSE"
+    ],
+    "11": [
+      "NOT GIVEN"
+    ],
+    "12": [
+      "TRUE"
+    ],
+    "13": [
+      "NOT GIVEN"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "A"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "recording devices"
+    ],
+    "19": [
+      "fathers",
+      "dads"
+    ],
+    "20": [
+      "bridge hypothesis"
+    ],
+    "21": [
+      "repertoire"
+    ],
+    "22": [
+      "audio-recording vests",
+      "recording vests",
+      "vests"
+    ],
+    "23": [
+      "vocabulary"
+    ],
+    "24": [
+      "F"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "E"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "H"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "D"
+    ],
+    "32": [
+      "shells"
+    ],
+    "33": [
+      "lake"
+    ],
+    "34": [
+      "rainfall"
+    ],
+    "35": [
+      "grains"
+    ],
+    "36": [
+      "pottery"
+    ],
+    "37": [
+      "B"
+    ],
+    "38": [
+      "A"
+    ],
+    "39": [
+      "D"
+    ],
+    "40": [
+      "A"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p2",
+      "key": "increasingly being used as a replacement for endangered hardwoods in the furniture construction industry",
+      "why": "题干 Uses 对应表格里 trunk 的用途，原文说木材被用于家具制造业，填 furniture。"
+    },
+    "2": {
+      "loc": "p2",
+      "key": "the sap can also be reduced by boiling to produce a type of sugar used for cooking",
+      "why": "花茎的汁液除了做饮料，煮沸后还能做成糖，填 sugar。"
+    },
+    "3": {
+      "loc": "p3",
+      "key": "coconut fibre, 'coir', which has numerous uses and is particularly important in manufacturing ropes",
+      "why": "果皮中间层纤维（椰壳纤维/coir）主要用来制绳，填 ropes。"
+    },
+    "4": {
+      "loc": "p3",
+      "key": "An important product obtained from the shell is charcoal",
+      "why": "果实最内层坚硬的壳能提炼出木炭，填 charcoal。"
+    },
+    "5": {
+      "loc": "p3",
+      "key": "When broken in half, the shells are also used as bowls in many parts of Asia",
+      "why": "壳对半剖开后在亚洲多地被当碗使用，填 bowls。"
+    },
+    "6": {
+      "loc": "p4",
+      "key": "coconut water...provides the hormones which encourage other plants to grow more rapidly and produce higher yields",
+      "why": "椰子水含有能促进其他植物生长的激素，填 hormones。"
+    },
+    "7": {
+      "loc": "p4",
+      "key": "coconut oil and coconut milk, which are widely used in cooking...as well as in cosmetics",
+      "why": "椰肉制成的油和椰奶除了烹饪还广泛用于化妆品，填 cosmetics。"
+    },
+    "8": {
+      "loc": "p4",
+      "key": "A derivative of coconut fat, glycerine, acquired strategic importance...as Alfred Nobel introduced the world to his nitroglycerine-based invention: dynamite",
+      "why": "甘油是制造硝化甘油炸药（dynamite）的原料，填 dynamite。"
+    },
+    "9": {
+      "loc": "p5",
+      "key": "exposed to the full glare of the tropical sun, coconut seeds are able to germinate and root",
+      "why": "题干说种子发芽需要阴凉，原文说种子是在烈日暴晒下发芽生根的，与题干矛盾，故 FALSE。"
+    },
+    "10": {
+      "loc": "p6",
+      "key": "Arab traders and European sailors are likely to have moved coconuts from South and Southeast Asia to Africa and then across the Atlantic to the east coast of America",
+      "why": "题干说 16 世纪椰子从美洲传到亚洲，原文说的方向相反（从亚洲传到美洲），故 FALSE。"
+    },
+    "11": {
+      "loc": "p6",
+      "key": "the origin of coconuts discovered along the west coast of America by 16th century sailors has been the subject of centuries of discussion",
+      "why": "原文只讨论了美洲西海岸椰子来源的争论，没有把它和东海岸的椰子类型做比较，属于 NOT GIVEN。"
+    },
+    "12": {
+      "loc": "p6",
+      "key": "In Asia, there is a large degree of coconut diversity and evidence of millennia of human use — but there are no relatives growing in the wild",
+      "why": "原文说亚洲没有野生椰子近缘种，说明亚洲发现的椰子都是人类栽培利用的，故 TRUE。"
+    },
+    "13": {
+      "loc": "p6",
+      "key": "these problems have led to the intriguing suggestion that coconuts originated on coral islands in the Pacific and were dispersed from there",
+      "why": "原文没有比较美洲和太平洋地区椰子栽培方式的异同，属于 NOT GIVEN。"
+    },
+    "14": {
+      "loc": "D",
+      "key": "we also found that it really matters whether you use baby talk in a one-on-one context",
+      "why": "题干 individual attention 对应原文 one-on-one context，这是 Ramírez-Esparza（选项 B）的研究发现。"
+    },
+    "15": {
+      "loc": "F",
+      "key": "the baby brain is engaged in trying to talk back right from the start",
+      "why": "题干说的是听到的话和自己发声练习之间的联系，对应 Kuhl（选项 C）关于大脑运动区激活的研究。"
+    },
+    "16": {
+      "loc": "C",
+      "key": "the kid then has a wider repertoire of kinds of speech to practice",
+      "why": "题干说父母各自用不同方式说话对婴儿的好处，对应 Van Dam（选项 A）提出的 bridge hypothesis。"
+    },
+    "17": {
+      "loc": "D",
+      "key": "the more baby talk parents used, the more their youngsters began to babble",
+      "why": "题干说婴儿听到的儿语量和自己发声量的关系，对应 Ramírez-Esparza（选项 B）团队的发现。"
+    },
+    "18": {
+      "loc": "C",
+      "key": "equipped parents with recording devices and speech-recognition software",
+      "why": "题干设备对应原文 recording devices，填 recording devices。"
+    },
+    "19": {
+      "loc": "C",
+      "key": "dads aren't doing the same thing. Dads didn't raise their pitch or fundamental frequency",
+      "why": "原文说爸爸们没有像妈妈一样改变说话方式，填 fathers/dads。"
+    },
+    "20": {
+      "loc": "C",
+      "key": "Their role may be rooted in what is called the bridge hypothesis",
+      "why": "题干提到的这个理论名称就是原文的 bridge hypothesis，直接抄写。"
+    },
+    "21": {
+      "loc": "C",
+      "key": "the kid then has a wider repertoire of kinds of speech to practice",
+      "why": "题干 expands the baby's ... of types of speech 对应原文 wider repertoire，填 repertoire。"
+    },
+    "22": {
+      "loc": "D",
+      "key": "fitting 26 children with audio-recording vests that captured language and sound",
+      "why": "题干 special ... that the babies were equipped with 对应原文 audio-recording vests，填 (audio-recording) vests。"
+    },
+    "23": {
+      "loc": "D",
+      "key": "frequent baby talk had dramatically boosted vocabulary",
+      "why": "两岁时词汇量的比较对应原文 vocabulary，填 vocabulary。"
+    },
+    "24": {
+      "loc": "F",
+      "key": "the brains of the older infants worked harder at the motor activations of non-native sounds compared to native sounds",
+      "why": "题干说一岁前大脑活动的变化，对应 F 段十一个半月大婴儿和七个月大婴儿反应不同的发现。"
+    },
+    "25": {
+      "loc": "A",
+      "key": "prompting some hopeful parents to play classical music to their pregnant bellies",
+      "why": "题干说出生前父母为婴儿做的事，对应 A 段孕期播放古典音乐。"
+    },
+    "26": {
+      "loc": "E",
+      "key": "babies seem to like listening to each other rather than to adults",
+      "why": "题干说婴儿更喜欢听其他婴儿发出的声音，对应 E 段的实验发现。"
+    },
+    "27": {
+      "loc": "C",
+      "key": "Some have claimed that major glacier-fed rivers changed their course...or that climate change caused an environmental change",
+      "why": "C 段列举了河流改道、人口过多、气候变化等多种解释哈拉帕文明衰落的假说。"
+    },
+    "28": {
+      "loc": "H",
+      "key": "we can learn from the past to engage with the public, and the relevant governmental and administrative bodies, to be more proactive in issues such as the management and administration of water supply",
+      "why": "H 段提到把考古发现应用于当下的水资源管理等现实问题，属于现代应用。"
+    },
+    "29": {
+      "loc": "A",
+      "key": "at a time when the Egyptians were carving and painting representations of themselves all over their temples",
+      "why": "A 段将哈拉帕文明缺乏自我形象记录与同时期的埃及文明形成对比，即两种文化的差异。"
+    },
+    "30": {
+      "loc": "B",
+      "key": "cities were built that had great baths, craft workshops, palaces and halls laid out in distinct sectors",
+      "why": "B 段描述了哈拉帕城市规划的具体特征（分区布局、街道、排水系统等）。"
+    },
+    "31": {
+      "loc": "D",
+      "key": "they found inaccuracies in the published geographic locations of ancient settlements ranging from several hundred metres to many kilometres",
+      "why": "D 段说研究团队发现之前公布的考古遗址坐标存在错误，即前人考古工作中的错误。"
+    },
+    "32": {
+      "loc": "E",
+      "key": "gathered shells of Melanoides tuberculata snails from the sediments of an ancient lake",
+      "why": "研究人员采集的是螺类的壳，填 shells。"
+    },
+    "33": {
+      "loc": "E",
+      "key": "used geochemical analysis as a means of tracing the climate history of the region...from the sediments of an ancient lake",
+      "why": "水位变化发生在一个古湖泊中，填 lake。"
+    },
+    "34": {
+      "loc": "E",
+      "key": "the amount of evaporation from the lake exceeded the rainfall — indicative of a drought",
+      "why": "蒸发量超过了降雨量，说明发生干旱，填 rainfall。"
+    },
+    "35": {
+      "loc": "G",
+      "key": "They are analysing grains cultivated at the time, and trying to work out whether they were grown under extreme conditions of water stress",
+      "why": "研究团队正在分析当时种植的谷物，填 grains。"
+    },
+    "36": {
+      "loc": "G",
+      "key": "whether the types of pottery used, and other aspects of their material culture, were distinctive to specific regions or were more similar across larger areas",
+      "why": "研究还包括分析陶器种类，填 pottery。"
+    },
+    "37": {
+      "loc": "F",
+      "key": "it is essential that we obtain more climate data from areas close to the two great cities at Mohenjodaro and Harappa and also from the Indian Punjab",
+      "why": "这是 Singh（选项 B）强调需要获取更多气候数据的观点。"
+    },
+    "38": {
+      "loc": "H",
+      "key": "by investigating responses to environmental pressures and threats, we can learn from the past to engage with the public...to be more proactive",
+      "why": "这是 Petrie（选项 A）提出研究过去行为方式对未来有长期益处的观点。"
+    },
+    "39": {
+      "loc": "E",
+      "key": "we estimate that the weakening of the Indian summer monsoon climate lasted about 200 years before recovering",
+      "why": "这是 Hodell（选项 D）对干旱持续时间做出的粗略估算。"
+    },
+    "40": {
+      "loc": "B",
+      "key": "there is plenty of archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall",
+      "why": "这是 Petrie（选项 A）指出关于文明衰落的资料一直很缺乏的观点。"
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "The coconut palm",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "For millennia, the coconut has been central to the lives of Polynesian and Asian peoples. In the western world, on the other hand, coconuts have always been exotic and unusual, sometimes rare. The Italian merchant traveller Marco Polo apparently saw coconuts in South Asia in the late 13th century, and among the mid-14th-century travel writings of Sir John Mandeville there is mention of 'great Notes of Ynde' (great Nuts of India). Today, images of palm-fringed tropical beaches are cliches in the west to sell holidays, chocolate bars, fizzy drinks and even romance."
+        },
+        {
+          "id": "p2",
+          "text": "Typically, we envisage coconuts as brown cannonballs that, when opened, provide sweet white flesh. But we see only part of the fruit and none of the plant from which they come. The coconut palm has a smooth, slender, grey trunk, up to 30 metres tall. This is an important source of timber for building houses, and is increasingly being used as a replacement for endangered hardwoods in the furniture construction industry. The trunk is surmounted by a rosette of leaves, each of which may be up to six metres long. The leaves have hard veins in their centres which, in many parts of the world, are used as brushes after the green part of the leaf has been stripped away. Immature coconut flowers are tightly clustered together among the leaves at the top of the trunk. The flower stems may be tapped for their sap to produce a drink, and the sap can also be reduced by boiling to produce a type of sugar used for cooking."
+        },
+        {
+          "id": "p3",
+          "text": "Coconut palms produce as many as seventy fruits per year, weighing more than a kilogram each. The wall of the fruit has three layers: a waterproof outer layer, a fibrous middle layer and a hard, inner layer. The thick fibrous middle layer produces coconut fibre, 'coir', which has numerous uses and is particularly important in manufacturing ropes. The woody innermost layer, the shell, with its three prominent 'eyes', surrounds the seed. An important product obtained from the shell is charcoal, which is widely used in various industries as well as in the home as a cooking fuel. When broken in half, the shells are also used as bowls in many parts of Asia."
+        },
+        {
+          "id": "p4",
+          "text": "Inside the shell are the nutrients (endosperm) needed by the developing seed. Initially, the endosperm is a sweetish liquid, coconut water, which is enjoyed as a drink, but also provides the hormones which encourage other plants to grow more rapidly and produce higher yields. As the fruit matures, the coconut water gradually solidifies to form the brilliant white, fat-rich, edible flesh or meat. Dried coconut flesh, 'copra', is made into coconut oil and coconut milk, which are widely used in cooking in different parts of the world, as well as in cosmetics. A derivative of coconut fat, glycerine, acquired strategic importance in a quite different sphere, as Alfred Nobel introduced the world to his nitroglycerine-based invention: dynamite."
+        },
+        {
+          "id": "p5",
+          "text": "Their biology would appear to make coconuts the great maritime voyagers and coastal colonizers of the plant world. The large, energy-rich fruits are able to float in water and tolerate salt, but cannot remain viable indefinitely; studies suggest after about 110 days at sea they are no longer able to germinate. Literally cast onto desert island shores, with little more than sand to grow in and exposed to the full glare of the tropical sun, coconut seeds are able to germinate and root. The air pocket in the seed, created as the endosperm solidifies, protects the embryo. In addition, the fibrous fruit wall that helped it to float during the voyage stores moisture that can be taken up by the roots of the coconut seedling as it starts to grow."
+        },
+        {
+          "id": "p6",
+          "text": "There have been centuries of academic debate over the origins of the coconut. There were no coconut palms in West Africa, the Caribbean or the east coast of the Americas before the voyages of the European explorers Vasco da Gama and Columbus in the late 15th and early 16th centuries. 16th century trade and human migration patterns reveal that Arab traders and European sailors are likely to have moved coconuts from South and Southeast Asia to Africa and then across the Atlantic to the east coast of America. But the origin of coconuts discovered along the west coast of America by 16th century sailors has been the subject of centuries of discussion. Two diametrically opposed origins have been proposed: that they came from Asia, or that they were native to America. Both suggestions have problems. In Asia, there is a large degree of coconut diversity and evidence of millennia of human use — but there are no relatives growing in the wild. In America, there are close coconut relatives, but no evidence that coconuts are indigenous. These problems have led to the intriguing suggestion that coconuts originated on coral islands in the Pacific and were dispersed from there."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            8
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "THE COCONUT PALM",
+          "table": {
+            "head": [
+              "Part",
+              "Description",
+              "Uses"
+            ],
+            "rows": [
+              [
+                "trunk",
+                "up to 30 metres",
+                "timber for houses and the making of {{1}}"
+              ],
+              [
+                "leaves",
+                "up to 6 metres long",
+                "to make brushes"
+              ],
+              [
+                "flowers",
+                "at the top of the trunk",
+                "stems provide sap, used as a drink or a source of {{2}}"
+              ],
+              [
+                "fruit – outer layer",
+                "",
+                ""
+              ],
+              [
+                "fruit – middle layer (coir fibres)",
+                "",
+                "used for {{3}}, etc."
+              ],
+              [
+                "fruit – inner layer (shell)",
+                "",
+                "a source of {{4}}\n(when halved) for {{5}}"
+              ],
+              [
+                "fruit – coconut water",
+                "",
+                "a drink\na source of {{6}} for other plants"
+              ],
+              [
+                "fruit – coconut flesh",
+                "",
+                "oil and milk for cooking and {{7}}\nglycerine (an ingredient in {{8}})"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            9,
+            13
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 9,
+              "text": "Coconut seeds need shade in order to germinate."
+            },
+            {
+              "n": 10,
+              "text": "Coconuts were probably transported to Asia from America in the 16th century."
+            },
+            {
+              "n": 11,
+              "text": "Coconuts found on the west coast of America were a different type from those found on the east coast."
+            },
+            {
+              "n": 12,
+              "text": "All the coconuts found in Asia are cultivated varieties."
+            },
+            {
+              "n": 13,
+              "text": "Coconuts are cultivated in different ways in America and the Pacific."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "How baby talk gives infant brains a boost",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "The typical way of talking to a baby — high-pitched, exaggerated and repetitious — is a source of fascination for linguists who hope to understand how 'baby talk' impacts on learning. Most babies start developing their hearing while still in the womb, prompting some hopeful parents to play classical music to their pregnant bellies. Some research even suggests that infants are listening to adult speech as early as 10 weeks before being born, gathering the basic building blocks of their family's native tongue."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Early language exposure seems to have benefits to the brain — for instance, studies suggest that babies raised in bilingual homes are better at learning how to mentally prioritize information. So how does the sweet if sometimes absurd sound of infant-directed speech influence a baby's development? Here are some recent studies that explore the science behind baby talk."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Fathers don't use baby talk as often or in the same ways as mothers – and that's perfectly OK, according to a new study. Mark Van Dam of Washington State University at Spokane and colleagues equipped parents with recording devices and speech-recognition software to study the way they interacted with their youngsters during a normal day. 'We found that moms do exactly what you'd expect and what's been described many times over,' Van Dam explains. 'But we found that dads aren't doing the same thing. Dads didn't raise their pitch or fundamental frequency when they talked to kids.' Their role may be rooted in what is called the bridge hypothesis, which dates back to 1975. It suggests that fathers use less familial language to provide their children with a bridge to the kind of speech they'll hear in public. The idea is that a kid gets to practice a certain kind of speech with mom and another kind of speech with dad, so the kid then has a wider repertoire of kinds of speech to practice,' says VanDam."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Scientists from the University of Washington and the University of Connecticut collected thousands of 30-second conversations between parents and their babies, fitting 26 children with audio-recording vests that captured language and sound during a typical eight-hour day. The study found that the more baby talk parents used, the more their youngsters began to babble. And when researchers saw the same babies at age two, they found that frequent baby talk had dramatically boosted vocabulary, regardless of socioeconomic status. Those children who listened to a lot of baby talk were talking more than the babies that listened to more adult talk or standard speech,' says Nairan Ramírez-Esparza of the University of Connecticut. 'We also found that it really matters whether you use baby talk in a one-on-one context,' she adds. The more parents use baby talk one-on-one, the more babies babble, and the more they babble, the more words they produce later in life.'"
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Another study suggests that parents might want to pair their youngsters up so they can babble more with their own kind. Researchers from McGill University and Université du Québec à Montréal found that babies seem to like listening to each other rather than to adults – which may be why baby talk is such a universal tool among parents. They played repeating vowel sounds made by a special synthesizing device that mimicked sounds made by either an adult woman or another baby. This way, only the impact of the auditory cues was observed. The team then measured how long each type of sound held the infants' attention. They found that the 'infant' sounds held babies' attention nearly 40 percent longer. The baby noises also induced more reactions in the listening infants, like smiling or lip moving, which approximates sound making. The team theorizes that this attraction to other infant sounds could help launch the learning process that leads to speech. 'It may be some property of the sound that is just drawing their attention,' says study co-author Linda Polka. 'Or maybe they are really interested in that particular type of sound because they are starting to focus on their own ability to make sounds. We are speculating here but it might catch their attention because they recognize it as a sound they could possibly make.'"
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "In a study published in Proceedings of the National Academy of Sciences, a total of 57 babies from two slightly different age groups – seven months and eleven and a half months – were played a number of syllables from both their native language (English) and a non-native tongue (Spanish). The infants were placed in a brain-activation scanner that recorded activity in a brain region known to guide the motor movements that produce speech. The results suggest that listening to baby talk prompts infant brains to start practicing their language skills. 'Finding activation in motor areas of the brain when infants are simply listening is significant, because it means the baby brain is engaged in trying to talk back right from the start, and suggests that seven-month-olds' brains are already trying to figure out how to make the right movements that will produce words,' says co-author Patricia Kuhl. Another interesting finding was that while the seven-month-olds responded to all speech sounds regardless of language, the brains of the older infants worked harder at the motor activations of non-native sounds compared to native sounds. The study may have also uncovered a process by which babies recognize differences between their native language and other tongues."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            17
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following ideas (Questions 14-17) and the list of researchers below. Match each idea with the correct researcher, A, B or C.",
+          "limit": "NB You may use any letter more than once.",
+          "optionsTitle": "List of Researchers",
+          "options": [
+            {
+              "k": "A",
+              "text": "Mark Van Dam"
+            },
+            {
+              "k": "B",
+              "text": "Nairan Ramírez-Esparza"
+            },
+            {
+              "k": "C",
+              "text": "Patricia Kuhl"
+            }
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "the importance of adults giving babies individual attention when talking to them"
+            },
+            {
+              "n": 15,
+              "text": "the connection between what babies hear and their own efforts to create speech"
+            },
+            {
+              "n": 16,
+              "text": "the advantage for the baby of having two parents each speaking in a different way"
+            },
+            {
+              "n": 17,
+              "text": "the connection between the amount of baby talk babies hear and how much vocalising they do themselves"
+            }
+          ]
+        },
+        {
+          "range": [
+            18,
+            23
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "title": "Research into how parents talk to babies",
+          "text": "Researchers at Washington State University used {{18}}, together with specialised computer programs, to analyse how parents interacted with their babies during a normal day. The study revealed that {{19}} tended not to modify their ordinary speech patterns when interacting with their babies. According to an idea known as the {{20}}, they may use a more adult type of speech to prepare infants for the language they will hear outside the family home. According to the researchers, hearing baby talk from one parent and 'normal' language from the other expands the baby's {{21}} of types of speech which they can practise.\n\nMeanwhile, another study carried out by scientists from the University of Washington and the University of Connecticut recorded speech and sound using special {{22}} that the babies were equipped with. When they studied the babies again at age two, they found that those who had heard a lot of baby talk in infancy had a much larger {{23}} than those who had not."
+        },
+        {
+          "range": [
+            24,
+            26
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F. Which paragraph contains the following information?",
+          "limit": "Write the correct letter, A-F, in boxes 24-26 on your answer sheet.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "questions": [
+            {
+              "n": 24,
+              "text": "a reference to a change which occurs in babies' brain activity before the end of their first year"
+            },
+            {
+              "n": 25,
+              "text": "an example of what some parents do for their baby's benefit before birth"
+            },
+            {
+              "n": 26,
+              "text": "a mention of babies' preference for the sounds that other babies make"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Whatever happened to the Harappan Civilisation?",
+      "subtitle": "New research sheds light on the disappearance of an ancient society",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "The Harappan Civilisation of ancient Pakistan and India flourished 5,000 years ago, but a thousand years later their cities were abandoned. The Harappan Civilisation was a sophisticated Bronze Age society who built 'megacities' and traded internationally in luxury craft products, and yet seemed to have left almost no depictions of themselves. But their lack of self-imagery - at a time when the Egyptians were carving and painting representations of themselves all over their temples - is only part of the mystery."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "'There is plenty of archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall,' explains archaeologist Dr Cameron Petrie of the University of Cambridge. 'As populations increased, cities were built that had great baths, craft workshops, palaces and halls laid out in distinct sectors. Houses were arranged in blocks, with wide main streets and narrow alleyways, and many had their own wells and drainage systems. It was very much a \"thriving\" civilisation.' Then around 2100 BC, a transformation began. Streets went uncleaned, buildings started to be abandoned, and ritual structures fell out of use. After their final demise, a millennium passed before really large-scale cities appeared once more in South Asia."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Some have claimed that major glacier-fed rivers changed their course, dramatically affecting the water supply and agriculture; or that the cities could not cope with an increasing population, they exhausted their resource base, the trading economy broke down or they succumbed to invasion and conflict; and yet others that climate change caused an environmental change that affected food and water provision. 'It is unlikely that there was a single cause for the decline of the civilisation. But the fact is, until now, we have had little solid evidence from the area for most of the key elements,' said Petrie. 'A lot of the archaeological debate has really only been well-argued speculation.'"
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "A research team led by Petrie, together with Dr Ravindanath Singh of Banaras Hindu University in India, found early in their investigations that many of the archaeological sites were not where they were supposed to be, completely altering understanding of the way that this region was inhabited in the past. When they carried out a survey of how the larger area was settled in relation to sources of water, they found inaccuracies in the published geographic locations of ancient settlements ranging from several hundred metres to many kilometres. They realised that any attempts to use the existing data were likely to be fundamentally flawed. Over the course of several seasons of fieldwork they carried out new surveys, finding an astonishing 198 settlement sites that were previously unknown."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Now, research published by Dr Yama Dixit and Professor David Hodell, both from Cambridge's Department of Earth Sciences, has provided the first definitive evidence for climate change affecting the plains of north-western India, where hundreds of Harappan sites are known to have been situated. The researchers gathered shells of Melanoides tuberculata snails from the sediments of an ancient lake and used geochemical analysis as a means of tracing the climate history of the region. 'As today, the major source of water into the lake is likely to have been the summer monsoon,' says Dixit. 'But we have observed that there was an abrupt change about 4,100 years ago, when the amount of evaporation from the lake exceeded the rainfall - indicative of a drought.' Hodell adds: 'We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years before recovering to the previous conditions, which we still see today.'"
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "It has long been thought that other great Bronze Age civilisations also declined at a similar time, with a global-scale climate event being seen as the cause. While it is possible that these local-scale processes were linked, the real archaeological interest lies in understanding the impact of these larger-scale events on different environments and different populations. 'Considering the vast area of the Harappan Civilisation with its variable weather systems,' explains Singh, 'it is essential that we obtain more climate data from areas close to the two great cities at Mohenjodaro and Harappa and also from the Indian Punjab.'"
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "Petrie and Singh's team is now examining archaeological records and trying to understand details of how people led their lives in the region five millennia ago. They are analysing grains cultivated at the time, and trying to work out whether they were grown under extreme conditions of water stress, and whether they were adjusting the combinations of crops they were growing for different weather systems. They are also looking at whether the types of pottery used, and other aspects of their material culture, were distinctive to specific regions or were more similar across larger areas. This gives us insight into the types of interactive networks that the population was involved in, and whether those changed."
+        },
+        {
+          "id": "H",
+          "label": "H",
+          "text": "Petrie believes that archaeologists are in a unique position to investigate how past societies responded to environmental and climatic change. 'By investigating responses to environmental pressures and threats, we can learn from the past to engage with the public, and the relevant governmental and administrative bodies, to be more proactive in issues such as the management and administration of water supply, the balance of urban and rural development, and the importance of preserving cultural heritage in the future.'"
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            31
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 3 has eight paragraphs, A-H. Which paragraph contains the following information?",
+          "limit": "Write the correct letter, A-H, in boxes 27-31 on your answer sheet. NB You may use any letter more than once.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "questions": [
+            {
+              "n": 27,
+              "text": "proposed explanations for the decline of the Harappan Civilisation"
+            },
+            {
+              "n": 28,
+              "text": "reference to a present-day application of some archaeological research findings"
+            },
+            {
+              "n": 29,
+              "text": "a difference between the Harappan Civilisation and another culture of the same period"
+            },
+            {
+              "n": 30,
+              "text": "a description of some features of Harappan urban design"
+            },
+            {
+              "n": 31,
+              "text": "reference to the discovery of errors made by previous archaeologists"
+            }
+          ]
+        },
+        {
+          "range": [
+            32,
+            36
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Looking at evidence of climate change",
+          "text": "Yama Dixit and David Hodell have found the first definitive evidence of climate change affecting the plains of north-western India thousands of years ago. By collecting the {{32}} of snails and analysing them, they discovered evidence of a change in water levels in a {{33}} in the region. This occurred when there was less {{34}} than evaporation, and suggests that there was an extended period of drought.\n\nPetrie and Singh's team are using archaeological records to look at {{35}} from five millennia ago, in order to know whether people had adapted their agricultural practices to changing climatic conditions. They are also examining objects including {{36}}, so as to find out about links between inhabitants of different parts of the region and whether these changed over time."
+        },
+        {
+          "range": [
+            37,
+            40
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following statements (Questions 37-40) and the list of researchers below. Match each statement with the correct researcher, A, B, C or D.",
+          "limit": "NB You may use any letter more than once.",
+          "optionsTitle": "List of Researchers",
+          "options": [
+            {
+              "k": "A",
+              "text": "Cameron Petrie"
+            },
+            {
+              "k": "B",
+              "text": "Ravindanath Singh"
+            },
+            {
+              "k": "C",
+              "text": "Yama Dixit"
+            },
+            {
+              "k": "D",
+              "text": "David Hodell"
+            }
+          ],
+          "questions": [
+            {
+              "n": 37,
+              "text": "Finding further information about changes to environmental conditions in the region is vital."
+            },
+            {
+              "n": 38,
+              "text": "Examining previous patterns of behaviour may have long-term benefits."
+            },
+            {
+              "n": 39,
+              "text": "Rough calculations indicate the approximate length of a period of water shortage."
+            },
+            {
+              "n": 40,
+              "text": "Information about the decline of the Harappan Civilisation has been lacking."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "c13t3",
+  "book": "剑桥雅思13",
+  "test": 3,
+  "title": "剑13 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "bar-chart",
+      "kindZh": "柱状图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The bar chart below shows the top ten countries for the production and consumption of electricity in 2014.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c13t3-task1.webp",
+      "imageCaption": "Top ten countries for the production and consumption of electricity, 2014",
+      "data": {
+        "unit": "Electricity (billion kWh)",
+        "years": [
+          "China",
+          "United States",
+          "Russia",
+          "Japan",
+          "India",
+          "Canada",
+          "France",
+          "Brazil",
+          "Germany",
+          "Korea, Rep."
+        ],
+        "series": {
+          "Production": [
+            5398,
+            4099,
+            1057,
+            936.2,
+            871,
+            618.9,
+            561.2,
+            530.7,
+            526.6,
+            485.1
+          ],
+          "Consumption": [
+            5322,
+            3866,
+            1038,
+            856.7,
+            698.8,
+            499.9,
+            462.9,
+            455.8,
+            582.5,
+            449.5
+          ]
+        }
+      },
+      "sample": {
+        "band": 5,
+        "text": "From the bar chart that show the top ten countries for the production and consumption of electricity in 2014. For the production of electricity, the 1st rank is China that have 5,398 billion kwh, the 2nd rank is United States that have 4,099 billion kwh, the 3rd rank is Russia that have 1,059 billion kwh, the 4th rank is Japan that have 936.2 billion kwh, the 5th rank is India that have 891 billion kwh, the 6th rank is Canada that have 618.9 billion kwh, the 7th rank is France that have 561.2 billion kwh, the 8th rank is Brazil that have 530.9 billion kwh, the 9th rank is Germany that have 526.6 billion kwh and the 10th rank is Republic of Korea that have 485.1 billion kwh. For the consumption of electricity, the 1st rank is China that have 5,322 billion kwh, the 2nd rank is United States that have 3,866 billion kwh, the 3rd is Russia that have 1,038 billion kwh, the 4th rank is Japan that have 856.9 billion kwh, the 5th rank is India that have 698.8 billion kwh, the 6th rank is Germany that have 582.5 billion kwh, the 7th rank is Canada that have 499.9 kwh, the 8th rank is France that have 462.9 billion kwh, the 9th rank is Brazil that have 455.8 kwh and the 10th is Republic of Korea that have 449.5 billion kwh.\n\nFrom the information. The country that have the most in production and consumption is China. The country that have the least in production and consumption is Republic of Korea.\n\nAlmost all the country have production more than consumption, exept Germany that have consumption more than production.",
+        "comment": "This response is rather mechanical as it lists the countries in order of production and consumption of electricity, identifies the countries that produce and consume most and least and notes the fact that all the countries except Germany produce more than they consume. However, the writing is supported by data, although there are some errors in the figures (the figures for production in Russia, India and Brazil are inaccurate as is the figure for consumption in Japan). Organisation is limited and there are few examples of cohesive devices; similarly the range of vocabulary is limited although just adequate for the task. There is a mix of simple and complex sentence structures, but complex forms are mainly inaccurate [that have/has | Almost all the country have / Almost all the countries have]."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people say History is one of the most important school subjects. Other people think that, in today's world, subjects like Science and Technology are more important than History.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 6,
+        "text": "In my opinion I think every subjects is important for us. We have to learn everything through our past, present and future. Some people say that History is one of the most important school subjects it's true but it has to go along with today's world which is science and Technology. How can we move without our history, the people behind us \"The ancient people\" is the most powerful people who pushes us to move forward. The taught us how to fire a light, How to find a food, How to lives with other and animals, How to survive and others. Of course we wouldn't know that without them. Science and Technology are important too. They give us a chance to move forward with them. Without Science and Technology we're just a normally humans being. We spend our daily life with no useful. Without them we have no light we have no food, we have no comfortable stuff and things. Old people can survived without these things. Humans creates lots of invention to give an unlimited wants of people based on a limited government.\n\nMay I gives one example of the development of science and Technology. With this two things it give us a chance to be a member of ASEAN \"Association of South East Asia Nation\" we can be able to communicate with the other 9 countries with the high technology. it help us to be a TEAMWORK with the 9 other countries to develop our country. help us in terms of transportation, communication, collaboration etc. it can definitely hold on to that hope that in the near future.\n\nOverall economics can totally achieves. it is a fact that the member of the member of the ASEAN have differences in term of political standing, culture and traditions but it's not a problem with our help I know that there're a bright future are waiting for all of us. and that is a reason why History, Science and Technology is important\n\nWe use History to learn about others, their culture, their tradition to be understand each other more and more and using science and Technology to help us, our country, our world to be moving forward, to help each other and to give a bright chances and future for everyone, especially kids give a chances to them to study, to go to school, to get knowledge so the next ten years, twenty years to the new up coming year all of them can help each other to pass these chances to other kids go on and on.",
+        "comment": "The writer addresses all parts of the prompt and outlines why the various subjects are all important, supporting these ideas with relevant examples. Although the organisation is sometimes confused, there is a sense of progression and a definite conclusion is reached. Cohesive devices are used effectively [In my opinion | Of course | especially]. Referencing is generally accurate [we wouldn't know that without them | these things | that hope | that is a reason why], but there is one error [With this / these two things]. The range of vocabulary is quite varied [go along with today's world | to move forward | daily life | transportation, communication, collaboration etc. | political standing, culture and traditions], though errors occur [every subjects / subject | normally / normal human beings | a bright chances / chance], while a reference to [stuff and things] suggests the writer struggled to find more precise terms. There is a mix of simple and complex sentence forms, including different types of subordinate clauses [Some people say that … | … which is science and technology | … people who pushes / push us to | The / They taught us how to] and although errors occur, these do not usually cause misunderstanding or difficulty for the reader. Punctuation is sometimes faulty, particularly omission of full stops."
+      }
+    }
+  ]
+}
