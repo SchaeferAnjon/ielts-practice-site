@@ -12,3 +12,4 @@ app/.vercel/
 app/drafts/
 app/drafts/
 audio/
+__pycache__/

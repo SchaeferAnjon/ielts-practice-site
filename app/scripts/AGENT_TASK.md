@@ -36,6 +36,7 @@
 4. 听力 `transcript`：把 Audioscript 逐句拆成 `{s, t, q?}`。`s` 是说话人（对话按脚本里的名字，独白用 `SPEAKER`），`t` 是原句。**每道题答案所在的那句加 `q: [n]`**（书里脚本旁边有 Q1、Q2 标记，照它标；两道多选题标 `q: [21, 22]`）。40 题都要标到。不要加时间戳字段（后面脚本统一对齐）。`audio` 填 `/audio/c{N}/t{T}p{k}.mp3`，`duration` 先填 0。
 5. 阅读 `explain`：40 题每题 `{loc, key, why}`。`loc` 是段落 `id`（必须是 paragraphs 里存在的 id），`key` 是原文定位句（英文原句），`why` 用中文写为什么是这个答案、题干和原文的同义替换（写法参考 c21t1.json，每条 1-2 句）。这是你唯一需要"写"的东西，其余全是抄。
 6. 写作：`prompt` 逐句抄题干；`kind`/`kindZh` 按题型（line-graph 曲线图 / bar-chart 柱状图 / pie-chart 饼图 / table 表格 / process 流程图 / map 地图 / mixed 混合；Task 2：agree-disagree 是否同意 / discuss-both 双边讨论 / advantage-disadvantage 利弊 / problem-solution 问题解决 / two-part 双问题）。`sample` 抄书末该题的考生范文和考官评语（`band` 是评语里给的分）；如果书里这套题只有一篇范文，另一题的 `sample` 写 `{"band": 0, "text": "本书未提供此题范文。", "comment": ""}`。Task 1 的 `data` 字段：如果图表数据能从图上读出就填，读不出就省略。
+6b. **范文和评语的抄录方式（必须这样做）**：不要把整篇范文直接写进 JSON。先建 `drafts/c{N}/samples/` 目录，把每篇范文按原文段落**逐段**追加到 `drafts/c{N}/samples/t{T}-task1.txt` / `t{T}-task2.txt`（每段一次单独的 Bash `cat >> 文件 <<'EOF'` 追加，段与段之间空一行；考官评语同样逐段追加到 `t{T}-task1-comment.txt` / `t{T}-task2-comment.txt`）。手写体范文文本层是乱码时，用 `pdftoppm -r 110 -png -f <页> -l <页> "$(cat drafts/c{N}/source.txt)" <输出前缀>` 渲染后用 Read 看图逐段抄。JSON 里 `sample.text` 写 `"@file:drafts/c{N}/samples/t{T}-task1.txt"`，`sample.comment` 写 `"@file:drafts/c{N}/samples/t{T}-task1-comment.txt"`，写完 JSON 后运行 `python3 scripts/fill_samples.py public/data/writing/c{N}t{T}.json` 把占位替换成文件内容，再跑校验。每次输出的内容要短（一段范文），这是为了绕开长文本一次性输出的限制。
 7. Task 1 图表：找到 Writing Task 1 那一页的页码，运行
    `python3 scripts/page_image.py "$(cat drafts/c{N}/source.txt)" <页码> public/img/c{N}t{T}-task1.png --crop 0,0.35,1,0.95`
    然后用 Read 工具看一眼生成的 PNG，确认图表完整、没有把题干截掉一半；不合适就调 `--crop` 的四个比例再跑。`image` 字段填 `/img/c{N}t{T}-task1.png`。
@@ -49,7 +50,7 @@ python3 scripts/validate_paper.py reading   public/data/reading/c{N}t{T}.json
 python3 scripts/validate_paper.py writing   public/data/writing/c{N}t{T}.json
 ```
 
-三个都打印 `✓` 才算完成。报错就改到通过。**只允许创建/修改上面 4 个产出文件**，不要改脚本、不要改其它试卷、不要 git 操作。
+三个都打印 `✓` 才算完成。报错就改到通过。**只允许创建/修改上面 4 个产出文件和 `drafts/c{N}/samples/` 下的范文文本**，不要改脚本、不要改其它试卷、不要 git 操作。
 
 ## 最后汇报（简短）
 

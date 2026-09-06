@@ -1,0 +1,1519 @@
+{
+  "id": "c15t4",
+  "book": "剑桥雅思15",
+  "test": 4,
+  "title": "剑15 Test 4 · Listening",
+  "source": "Cambridge IELTS 15 Academic, Test 4（文字层抽取 + 人工校对）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c15/t4p1.mp3",
+      "duration": 475,
+      "title": "Customer Satisfaction Survey",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the form below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Customer Satisfaction Survey",
+          "lines": [
+            "## Customer details",
+            "Name: Sophie Bird",
+            "Occupation: {{1}}",
+            "Reason for travel today: {{2}}",
+            "## Journey information",
+            "Name of station returning to: {{3}}",
+            "Type of ticket purchased: standard {{4}} ticket",
+            "Cost of ticket: £{{5}}",
+            "When ticket was purchased: yesterday",
+            "Where ticket was bought: {{6}}",
+            "## Satisfaction with journey",
+            "Most satisfied with: the wifi",
+            "Least satisfied with: the {{7}} this morning",
+            "## Satisfaction with station facilities",
+            "Most satisfied with: how much {{8}} was provided",
+            "Least satisfied with: lack of seats, particularly on the {{9}}",
+            "Neither satisfied nor dissatisfied with: the {{10}} available"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MAN",
+          "t": "Hello. Do you mind if I ask you some questions about your journey today? We're doing a customer satisfaction survey.",
+          "start": 96.63,
+          "end": 103.03
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Yes. OK. I've got about ten minutes before my train home leaves. I'm on a day trip.",
+          "start": 103.11,
+          "end": 108.99
+        },
+        {
+          "s": "MAN",
+          "t": "Great. Thank you. So first of all, could you tell me your name?",
+          "start": 109.11,
+          "end": 113.43
+        },
+        {
+          "s": "SOPHIE",
+          "t": "It's Sophie Bird.",
+          "start": 113.99,
+          "end": 115.39
+        },
+        {
+          "s": "MAN",
+          "t": "Thank you. And would you mind telling me what you do?",
+          "start": 115.47,
+          "end": 119.15
+        },
+        {
+          "s": "SOPHIE",
+          "t": "I'm a student.",
+          "q": [
+            1
+          ],
+          "start": 119.75,
+          "end": 120.07
+        },
+        {
+          "s": "MAN",
+          "t": "Oh really? That must be interesting.",
+          "start": 120.87,
+          "end": 122.83
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Yes. It is.",
+          "start": 123.19,
+          "end": 124.11
+        },
+        {
+          "s": "MAN",
+          "t": "So was the reason for your visit here today work?",
+          "start": 124.35,
+          "end": 127.99
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Actually, it's my day off. I came here to do some shopping.",
+          "q": [
+            2
+          ],
+          "start": 128.31,
+          "end": 132.01
+        },
+        {
+          "s": "MAN",
+          "t": "Oh right.",
+          "start": 132.29,
+          "end": 132.93
+        },
+        {
+          "s": "SOPHIE",
+          "t": "But I do sometimes come here for work.",
+          "start": 133.49,
+          "end": 135.73
+        },
+        {
+          "s": "MAN",
+          "t": "OK. Now I'd like to ask some questions about your journey today, if that's OK.",
+          "start": 136.05,
+          "end": 141.25
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Yes. No problem.",
+          "start": 141.63,
+          "end": 142.39
+        },
+        {
+          "s": "MAN",
+          "t": "Right, so can you tell me which station you're travelling back to?",
+          "start": 142.83,
+          "end": 146.63
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Staunfirth, where I live.",
+          "q": [
+            3
+          ],
+          "start": 148.23,
+          "end": 148.83
+        },
+        {
+          "s": "MAN",
+          "t": "Can I just check the spelling? S-T-A-U-N-F-I-R-T-H?",
+          "start": 149.91,
+          "end": 159.02
+        },
+        {
+          "s": "SOPHIE",
+          "t": "That's right.",
+          "start": 159.14,
+          "end": 159.58
+        },
+        {
+          "s": "MAN",
+          "t": "And you travelled from there this morning?",
+          "start": 161.11,
+          "end": 163.07
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Yes.",
+          "start": 163.27,
+          "end": 163.87
+        },
+        {
+          "s": "MAN",
+          "t": "OK, good. Next, can I ask what kind of ticket you bought? I assume it wasn't a season ticket, as you don't travel every day.",
+          "start": 164.55,
+          "end": 172.35
+        },
+        {
+          "s": "SOPHIE",
+          "t": "That's right. No, I just got a normal return ticket. I don't have a rail card so I didn't get any discount. I keep meaning to get one because it's a lot cheaper.",
+          "q": [
+            4
+          ],
+          "start": 173.0,
+          "end": 183.8
+        },
+        {
+          "s": "MAN",
+          "t": "Yes – you'd have saved 20% on your ticket today. So you paid the full price for your ticket?",
+          "start": 184.04,
+          "end": 190.4
+        },
+        {
+          "s": "SOPHIE",
+          "t": "I paid £23.70.",
+          "q": [
+            5
+          ],
+          "start": 190.95,
+          "end": 192.99
+        },
+        {
+          "s": "MAN",
+          "t": "OK. Do you think that's good value for money?",
+          "start": 193.23,
+          "end": 195.99
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Not really. I think it's too much for a journey that only takes 45 minutes.",
+          "start": 196.35,
+          "end": 200.31
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, that's one of the main complaints we get. So, you didn't buy your ticket in advance?",
+          "start": 200.63,
+          "end": 206.0
+        },
+        {
+          "s": "SOPHIE",
+          "t": "No. I know it's cheaper if you buy a week in advance but I didn't know I was coming then.",
+          "start": 206.68,
+          "end": 211.52
+        },
+        {
+          "s": "MAN",
+          "t": "I know. You can't always plan ahead. So, did you buy it this morning?",
+          "start": 211.88,
+          "end": 216.93
+        },
+        {
+          "s": "SOPHIE",
+          "t": "No, it was yesterday.",
+          "start": 217.29,
+          "end": 218.89
+        },
+        {
+          "s": "MAN",
+          "t": "Right. And do you usually buy your tickets at the station?",
+          "start": 219.81,
+          "end": 223.17
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Well, I do usually but the ticket office closes early and I hate using ticket machines. I think ticket offices should be open for longer hours. There's always a queue for the machines and they're often out of order.",
+          "start": 223.45,
+          "end": 236.12
+        },
+        {
+          "s": "MAN",
+          "t": "A lot of customers are saying the same thing.",
+          "start": 237.12,
+          "end": 239.04
+        },
+        {
+          "s": "SOPHIE",
+          "t": "So to answer your question... I got an e-ticket online.",
+          "q": [
+            6
+          ],
+          "start": 239.6,
+          "end": 243.91
+        },
+        {
+          "s": "MAN",
+          "t": "OK. Thank you. Now I'd like to ask you about your satisfaction with your journey. So what would you say you were most satisfied with today?",
+          "start": 280.92,
+          "end": 290.08
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Well, I like the wifi on the train. It's improved a lot. It makes it easier for me to work if I want to.",
+          "start": 290.88,
+          "end": 298.4
+        },
+        {
+          "s": "MAN",
+          "t": "That's the first time today anyone's mentioned that. It's good to get some positive feedback on that.",
+          "start": 298.92,
+          "end": 303.76
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Mmm.",
+          "start": 303.76,
+          "end": 303.76,
+          "estimated": true
+        },
+        {
+          "s": "MAN",
+          "t": "And, is there anything you weren't satisfied with?",
+          "start": 304.76,
+          "end": 308.16
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Well, normally, the trains run on time and are pretty reliable but today there was a delay; the train was about 15 minutes behind schedule.",
+          "q": [
+            7
+          ],
+          "start": 308.64,
+          "end": 319.06
+        },
+        {
+          "s": "MAN",
+          "t": "OK. I'll put that down. Now I'd also like to ask about the facilities at this station. You've probably noticed that the whole station's been upgraded. What are you most satisfied with?",
+          "start": 319.66,
+          "end": 332.25
+        },
+        {
+          "s": "SOPHIE",
+          "t": "I think the best thing is that they've improved the amount of information about train times etc. that's given to passengers – it's much clearer – before there was only one board and I couldn't always see it properly – which was frustrating.",
+          "q": [
+            8
+          ],
+          "start": 334.01,
+          "end": 348.22
+        },
+        {
+          "s": "MAN",
+          "t": "That's good. And is there anything you're not satisfied with?",
+          "start": 348.5,
+          "end": 352.34
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Let's see ... I think things have generally improved a lot. The trains are much more modern and I like the new cafe. But one thing is that there aren't enough places to sit down, especially on the platforms.",
+          "q": [
+            9
+          ],
+          "start": 353.03,
+          "end": 367.38
+        },
+        {
+          "s": "MAN",
+          "t": "OK – so I'll put 'seating' down, shall I, as the thing you're least satisfied with?",
+          "start": 368.18,
+          "end": 373.38
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Yes. OK.",
+          "start": 373.46,
+          "end": 374.34
+        },
+        {
+          "s": "MAN",
+          "t": "Can I ask your opinion about some of the other facilities? We'd like feedback on whether people are satisfied, dissatisfied or neither satisfied nor dissatisfied.",
+          "start": 375.66,
+          "end": 386.1
+        },
+        {
+          "s": "SOPHIE",
+          "t": "OK.",
+          "start": 386.42,
+          "end": 386.74
+        },
+        {
+          "s": "MAN",
+          "t": "What about the parking at the station?",
+          "q": [
+            10
+          ],
+          "start": 388.14,
+          "end": 390.06
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Well to be honest, I don't really have an opinion as I never use it.",
+          "start": 390.5,
+          "end": 394.98
+        },
+        {
+          "s": "MAN",
+          "t": "So, neither satisfied nor dissatisfied for that then.",
+          "start": 395.62,
+          "end": 398.82
+        },
+        {
+          "s": "SOPHIE",
+          "t": "Yes, I suppose so ...",
+          "start": 398.9,
+          "end": 400.78
+        },
+        {
+          "s": "MAN",
+          "t": "OK, and what about ... ?",
+          "start": 400.9,
+          "end": 403.5
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c15/t4p2.mp3",
+      "duration": 381,
+      "title": "Croft Valley Park",
+      "groups": [
+        {
+          "range": [
+            11,
+            16
+          ],
+          "type": "matching",
+          "instruction": "原题为地图标注题：原书给出 Croft Valley Park 的示意地图，用字母 A-H 标出园内 8 个位置，考生需听录音把设施名称填到地图对应字母上。网页无法还原地图图片，已根据录音描述改写为文字位置匹配，请对照原书地图核对。",
+          "limit": "Write the correct letter, A-H, next to Questions 11-16.",
+          "optionsTitle": "地图上的字母位置（见原书地图）",
+          "options": [
+            {
+              "k": "A",
+              "text": "A"
+            },
+            {
+              "k": "B",
+              "text": "B"
+            },
+            {
+              "k": "C",
+              "text": "C"
+            },
+            {
+              "k": "D",
+              "text": "D"
+            },
+            {
+              "k": "E",
+              "text": "E"
+            },
+            {
+              "k": "F",
+              "text": "F"
+            },
+            {
+              "k": "G",
+              "text": "G"
+            },
+            {
+              "k": "H",
+              "text": "H"
+            }
+          ],
+          "itemsTitle": "设施及录音中的位置描述",
+          "items": [
+            {
+              "n": 11,
+              "text": "Cafe — still in the same place, looking out over the lake and next to the old museum"
+            },
+            {
+              "n": 12,
+              "text": "Toilets — to be moved nearer the centre of the park, near the adventure playground, in the corner of the map"
+            },
+            {
+              "n": 13,
+              "text": "Formal gardens — replanted in the space near the south gate, between the park boundary and the path that goes past the lake towards the old museum"
+            },
+            {
+              "n": 14,
+              "text": "Outdoor gym — by the glass houses, just to the right of the path from the south gate, a bit hidden in the trees"
+            },
+            {
+              "n": 15,
+              "text": "Skateboard ramp — near the old museum, at the end of a little path that leads off from the main path between the lake and the museum"
+            },
+            {
+              "n": 16,
+              "text": "Wild flower area — on a bend in the path that goes round the east side of the lake, just south of the adventure playground"
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            18
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "What does the speaker say about the adventure playground?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Children must be supervised."
+            },
+            {
+              "k": "B",
+              "text": "It costs more in winter."
+            },
+            {
+              "k": "C",
+              "text": "Some activities are only for younger children."
+            },
+            {
+              "k": "D",
+              "text": "No payment is required."
+            },
+            {
+              "k": "E",
+              "text": "It was recently expanded."
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "What does the speaker say about the glass houses?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "They are closed at weekends."
+            },
+            {
+              "k": "B",
+              "text": "Volunteers are needed to work there."
+            },
+            {
+              "k": "C",
+              "text": "They were badly damaged by fire."
+            },
+            {
+              "k": "D",
+              "text": "More money is needed to repair some of the glass."
+            },
+            {
+              "k": "E",
+              "text": "Visitors can see palm trees from tropical regions."
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "As chair of the town council subcommittee on park facilities, I'd like to bring you up to date on some of the changes that have been made recently to the Croft Valley Park.",
+          "start": 55.46,
+          "end": 66.9
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So if you could just take a look at the map I handed out, let's begin with a general overview.",
+          "start": 68.12,
+          "end": 74.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So the basic arrangement of the park hasn't changed – it still has two gates, north and south, and a lake in the middle.",
+          "start": 75.76,
+          "end": 85.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The cafe continues to serve an assortment of drinks and snacks and is still in the same place, looking out over the lake and next to the old museum.",
+          "q": [
+            11
+          ],
+          "start": 86.26,
+          "end": 97.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We're hoping to change the location of the toilets, and bring them nearer to the centre of the park as they're a bit out of the way at present, near the adventure playground, in the corner of your map.",
+          "q": [
+            12
+          ],
+          "start": 98.68,
+          "end": 111.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The formal gardens have been replanted and should be at their best in a month or two.",
+          "start": 112.86,
+          "end": 118.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They used to be behind the old museum, but we've now used the space near the south gate – between the park boundary and the path that goes past the lake towards the old museum.",
+          "q": [
+            13
+          ],
+          "start": 119.58,
+          "end": 133.27
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We have a new outdoor gym for adults and children, which is already proving very popular.",
+          "start": 135.03,
+          "end": 141.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's by the glass houses, just to the right of the path from the south gate. You have to look for it as it's a bit hidden in the trees.",
+          "q": [
+            14
+          ],
+          "start": 143.27,
+          "end": 153.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One very successful introduction has been our skateboard ramp. It's in constant use during the evenings and holidays.",
+          "start": 156.05,
+          "end": 165.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's near the old museum, at the end of a little path that leads off from the main path between the lake and the museum.",
+          "q": [
+            15
+          ],
+          "start": 166.8,
+          "end": 176.52
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We've also introduced a new area for wild flowers, to attract bees and butterflies.",
+          "start": 178.48,
+          "end": 184.92
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's on a bend in the path that goes round the east side of the lake, just south of the adventure playground.",
+          "q": [
+            16
+          ],
+          "start": 186.36,
+          "end": 194.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now let me tell you a bit more about some of the changes to Croft Valley Park.",
+          "start": 232.19,
+          "end": 236.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One of our most exciting developments has been the adventure playground. We were aware that we had nowhere for children to let off steam, and decided to use our available funds to set up a completely new facility in a large space to the north of the park.",
+          "start": 237.43,
+          "end": 257.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's open year-round, though it closes early in the winter months, and entrance is completely free.",
+          "q": [
+            17,
+            18
+          ],
+          "start": 258.88,
+          "end": 266.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Children can choose whatever activities they want to do, irrespective of their age, but we do ask adults not to leave them on their own there.",
+          "q": [
+            17,
+            18
+          ],
+          "start": 267.84,
+          "end": 277.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are plenty of seats where parents can relax and keep an eye on their children at the same time.",
+          "start": 278.79,
+          "end": 284.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Lastly, the glass houses. A huge amount of work has been done on them to repair the damage following the disastrous fire that recently destroyed their western side.",
+          "q": [
+            19,
+            20
+          ],
+          "start": 286.36,
+          "end": 298.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Over £80,000 was spent on replacing the glass walls and the metal supports, as well as the plants that had been destroyed, although unfortunately the collection of tropical palm trees has proved too expensive to replace up to now.",
+          "start": 300.33,
+          "end": 317.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At present the glass houses are open from 10am to 3pm Mondays to Thursdays, and it's hoped to extend this to the weekend soon.",
+          "q": [
+            19,
+            20
+          ],
+          "start": 319.29,
+          "end": 329.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We're grateful to all those who helped us by contributing their time and money to this achievement.",
+          "start": 330.96,
+          "end": 336.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The gardens have ...",
+          "start": 338.46,
+          "end": 339.5
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c15/t4p3.mp3",
+      "duration": 419,
+      "title": "Presentation about refrigeration",
+      "groups": [
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Presentation about refrigeration",
+          "questions": [
+            {
+              "n": 21,
+              "text": "What did Annie discover from reading about icehouses?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "why they were first created"
+                },
+                {
+                  "k": "B",
+                  "text": "how the ice was kept frozen"
+                },
+                {
+                  "k": "C",
+                  "text": "where they were located"
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "What point does Annie make about refrigeration in ancient Rome?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It became a commercial business."
+                },
+                {
+                  "k": "B",
+                  "text": "It used snow from nearby."
+                },
+                {
+                  "k": "C",
+                  "text": "It took a long time to become popular."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "In connection with modern refrigerators, both Annie and Jack are worried about",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the complexity of the technology."
+                },
+                {
+                  "k": "B",
+                  "text": "the fact that some are disposed of irresponsibly."
+                },
+                {
+                  "k": "C",
+                  "text": "the large number that quickly break down."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "What do Jack and Annie agree regarding domestic fridges?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "They are generally good value for money."
+                },
+                {
+                  "k": "B",
+                  "text": "There are plenty of useful variations."
+                },
+                {
+                  "k": "C",
+                  "text": "They are more useful than other domestic appliances."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            30
+          ],
+          "type": "matching",
+          "instruction": "Who is going to do research into each topic?",
+          "limit": "Write the correct letter, A, B or C, next to Questions 25-30.",
+          "optionsTitle": "People",
+          "options": [
+            {
+              "k": "A",
+              "text": "Annie"
+            },
+            {
+              "k": "B",
+              "text": "Jack"
+            },
+            {
+              "k": "C",
+              "text": "both Annie and Jack"
+            }
+          ],
+          "itemsTitle": "Topics",
+          "items": [
+            {
+              "n": 25,
+              "text": "the goods that are refrigerated"
+            },
+            {
+              "n": 26,
+              "text": "the effects on health"
+            },
+            {
+              "n": 27,
+              "text": "the impact on food producers"
+            },
+            {
+              "n": 28,
+              "text": "the impact on cities"
+            },
+            {
+              "n": 29,
+              "text": "refrigerated transport"
+            },
+            {
+              "n": 30,
+              "text": "domestic fridges"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "ANNIE",
+          "t": "OK, Jack. Before we plan our presentation about refrigeration, let's discuss what we've discovered so far.",
+          "start": 54.67,
+          "end": 61.59
+        },
+        {
+          "s": "JACK",
+          "t": "Fine, Annie. Though I have to admit I haven't done much research yet.",
+          "start": 61.71,
+          "end": 65.31
+        },
+        {
+          "s": "ANNIE",
+          "t": "Nor me. But I found an interesting article about icehouses.",
+          "start": 65.51,
+          "end": 68.78
+        },
+        {
+          "s": "ANNIE",
+          "t": "I'd seen some 18th- and 19th-century ones here in the UK, so I knew they were often built in a shady area or underground, close to lakes that might freeze in the winter. Then blocks of ice could be cut and stored in the icehouse.",
+          "start": 70.46,
+          "end": 85.65
+        },
+        {
+          "s": "ANNIE",
+          "t": "But I didn't realise that insulating the blocks with straw or sawdust meant they didn't melt for months.",
+          "q": [
+            21
+          ],
+          "start": 86.41,
+          "end": 93.58
+        },
+        {
+          "s": "ANNIE",
+          "t": "The ancient Romans had refrigeration, too.",
+          "start": 94.22,
+          "end": 96.7
+        },
+        {
+          "s": "JACK",
+          "t": "I didn't know that.",
+          "start": 96.82,
+          "end": 97.7
+        },
+        {
+          "s": "ANNIE",
+          "t": "Yes, pits were dug in the ground, and snow was imported from the mountains – even though they were at quite a distance. The snow was stored in the pits. Ice formed at the bottom of it.",
+          "start": 98.22,
+          "end": 110.83
+        },
+        {
+          "s": "ANNIE",
+          "t": "Both the ice and the snow were then sold.",
+          "q": [
+            22
+          ],
+          "start": 111.35,
+          "end": 113.55
+        },
+        {
+          "s": "ANNIE",
+          "t": "The ice cost more than the snow and my guess is that only the wealthy members of society could afford it.",
+          "start": 114.25,
+          "end": 120.93
+        },
+        {
+          "s": "JACK",
+          "t": "I wouldn't be surprised. I also came across an article about modern domestic fridges. Several different technologies are used, but they were too complex for me to understand.",
+          "start": 121.21,
+          "end": 131.04
+        },
+        {
+          "s": "ANNIE",
+          "t": "You have to wonder what happens when people get rid of old ones.",
+          "start": 131.44,
+          "end": 134.84
+        },
+        {
+          "s": "JACK",
+          "t": "You mean because the gases in them are harmful for the environment?",
+          "start": 134.88,
+          "end": 138.08
+        },
+        {
+          "s": "ANNIE",
+          "t": "Exactly. At least there are now plenty of organisations that will recycle most of the components safely, but of course some people just dump old fridges in the countryside.",
+          "q": [
+            23
+          ],
+          "start": 138.2,
+          "end": 149.07
+        },
+        {
+          "s": "JACK",
+          "t": "It's hard to see how they can be stopped unfortunately. In the UK we get rid of three million a year altogether!",
+          "start": 149.31,
+          "end": 156.04
+        },
+        {
+          "s": "ANNIE",
+          "t": "That sounds a lot, especially because fridges hardly ever break down.",
+          "start": 156.68,
+          "end": 160.88
+        },
+        {
+          "s": "JACK",
+          "t": "That's right. In this country we keep domestic fridges for 11 years on average, and a lot last for 20 or more.",
+          "start": 161.0,
+          "end": 167.79
+        },
+        {
+          "s": "JACK",
+          "t": "So if you divide the cost by the number of years you can use a fridge, they're not expensive, compared with some household appliances.",
+          "q": [
+            24
+          ],
+          "start": 168.27,
+          "end": 174.47
+        },
+        {
+          "s": "ANNIE",
+          "t": "True. I suppose manufacturers encourage people to spend more by making them different colours and designs. I'm sure when my parents bought their first fridge they had hardly any choice!",
+          "start": 174.79,
+          "end": 186.54
+        },
+        {
+          "s": "JACK",
+          "t": "Yes, there's been quite a change.",
+          "start": 186.74,
+          "end": 188.5
+        },
+        {
+          "s": "JACK",
+          "t": "Right, let's make a list of topics to cover in our presentation, and decide who's going to do more research on them. Then later, we can get together and plan the next step.",
+          "start": 236.49,
+          "end": 244.69
+        },
+        {
+          "s": "ANNIE",
+          "t": "OK. How about starting with how useful refrigeration is, and the range of goods that are refrigerated nowadays?",
+          "q": [
+            25
+          ],
+          "start": 244.85,
+          "end": 253.13
+        },
+        {
+          "s": "ANNIE",
+          "t": "Because of course it's not just food and drinks.",
+          "start": 253.17,
+          "end": 256.41
+        },
+        {
+          "s": "JACK",
+          "t": "No, I suppose flowers and medicines are refrigerated, too.",
+          "start": 256.65,
+          "end": 260.33
+        },
+        {
+          "s": "ANNIE",
+          "t": "And computers. I could do that, unless you particularly want to.",
+          "start": 260.81,
+          "end": 265.33
+        },
+        {
+          "s": "JACK",
+          "t": "No, that's fine by me. What about the effects of refrigeration on people's health?",
+          "q": [
+            26
+          ],
+          "start": 265.49,
+          "end": 270.21
+        },
+        {
+          "s": "JACK",
+          "t": "After all, some of the chemicals used in the 19th century were pretty harmful, but there have been lots of benefits too, like always having access to fresh food. Do you fancy dealing with that?",
+          "start": 271.02,
+          "end": 281.34
+        },
+        {
+          "s": "ANNIE",
+          "t": "I'm not terribly keen, to be honest.",
+          "start": 281.72,
+          "end": 283.84
+        },
+        {
+          "s": "JACK",
+          "t": "Nor me. My mind just goes blank when I read anything about chemicals.",
+          "start": 284.56,
+          "end": 288.68
+        },
+        {
+          "s": "ANNIE",
+          "t": "Oh, all right then, I'll do you a favour. But you owe me, Jack.",
+          "q": [
+            27
+          ],
+          "start": 289.28,
+          "end": 293.66
+        },
+        {
+          "s": "ANNIE",
+          "t": "OK. What about the effects on food producers, like farmers in poorer countries being able to export their produce to developed countries? Something for you, maybe?",
+          "start": 294.7,
+          "end": 306.03
+        },
+        {
+          "s": "JACK",
+          "t": "I don't mind. It should be quite interesting.",
+          "start": 306.59,
+          "end": 308.43
+        },
+        {
+          "s": "ANNIE",
+          "t": "I think we should also look at how refrigeration has helped whole cities – like Las Vegas, which couldn't exist without refrigeration because it's in the middle of a desert.",
+          "q": [
+            28
+          ],
+          "start": 309.27,
+          "end": 319.19
+        },
+        {
+          "s": "JACK",
+          "t": "Right. I had a quick look at an economics book in the library that's got a chapter about this sort of thing. I could give you the title, if you want to do this section.",
+          "start": 319.39,
+          "end": 327.6
+        },
+        {
+          "s": "ANNIE",
+          "t": "Not particularly, to be honest. I find economics books pretty heavy going, as a rule.",
+          "start": 328.24,
+          "end": 333.37
+        },
+        {
+          "s": "JACK",
+          "t": "OK, leave it to me, then.",
+          "start": 333.49,
+          "end": 334.93
+        },
+        {
+          "s": "ANNIE",
+          "t": "Thanks. Then there's transport, and the difference that refrigerated trucks have made.",
+          "q": [
+            29
+          ],
+          "start": 335.21,
+          "end": 341.81
+        },
+        {
+          "s": "ANNIE",
+          "t": "I wouldn't mind having a go at that.",
+          "start": 342.6,
+          "end": 344.08
+        },
+        {
+          "s": "JACK",
+          "t": "Don't forget trains, too. I read something about milk and butter being transported in refrigerated railroad cars in the USA, right back in the 1840s.",
+          "start": 344.52,
+          "end": 352.76
+        },
+        {
+          "s": "ANNIE",
+          "t": "I hadn't thought of trains. Thanks.",
+          "start": 354.01,
+          "end": 356.05
+        },
+        {
+          "s": "JACK",
+          "t": "Shall we have a separate section on domestic fridges? After all, they're something everyone's familiar with.",
+          "q": [
+            30
+          ],
+          "start": 356.49,
+          "end": 361.29
+        },
+        {
+          "s": "ANNIE",
+          "t": "What about splitting it into two? You could investigate 19th- and 20th-century fridges, and I'll concentrate on what's available these days, and how manufacturers differentiate their products from those of their competitors.",
+          "start": 361.81,
+          "end": 375.88
+        },
+        {
+          "s": "JACK",
+          "t": "OK, that'd suit me.",
+          "start": 376.08,
+          "end": 377.52
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c15/t4p4.mp3",
+      "duration": 468,
+      "title": "How the Industrial Revolution affected life in Britain",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "How the Industrial Revolution affected life in Britain",
+          "lines": [
+            "## 19th century",
+            "For the first time, people's possessions were used to measure Britain's {{31}}.",
+            "Developments in production of goods and in {{32}} greatly changed lives.",
+            "## Main areas of change",
+            "### Manufacturing",
+            "The Industrial Revolution would not have happened without the new types of {{33}} that were used then.",
+            "The leading industry was {{34}} (its products became widely available).",
+            "New {{35}} made factories necessary and so more people moved into towns.",
+            "### Transport",
+            "The railways took the place of canals.",
+            "Because of the new transport:",
+            "greater access to {{36}} made people more aware of what they could buy in shops.",
+            "when shopping, people were not limited to buying {{37}} goods.",
+            "### Retailing",
+            "The first department stores were opened.",
+            "The displays of goods were more visible:",
+            "inside stores because of better {{38}}",
+            "outside stores, because {{39}} were bigger.",
+            "{{40}} that was persuasive became much more common."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Hi everyone, in this session I'll be presenting my research about the social history of Britain during the Industrial Revolution.",
+          "start": 74.84,
+          "end": 82.88
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I particularly looked at how ordinary lives were affected by changes that happened at that time.",
+          "start": 84.12,
+          "end": 89.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This was a time that saw the beginning of a new phenomenon: consumerism – where buying and selling goods became a major part of ordinary people's lives.",
+          "start": 90.74,
+          "end": 100.42
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In fact, it was in the 19th century that the quantity and quality of people's possessions was used as an indication of the wealth of the country.",
+          "q": [
+            31
+          ],
+          "start": 101.85,
+          "end": 110.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Before this, the vast majority of people had very few possessions, but all that was changed by the Industrial Revolution.",
+          "start": 111.92,
+          "end": 119.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This was the era from the mid-18th to the late 19th century, when improvements in how goods were made as well as in technology triggered massive social changes that transformed life for just about everybody in several key areas.",
+          "q": [
+            32
+          ],
+          "start": 121.04,
+          "end": 135.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First let's look at manufacturing. When it comes to manufacturing, we tend to think of the Industrial Revolution in images of steam engines and coal.",
+          "start": 137.05,
+          "end": 147.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And it's true that the Industrial Revolution couldn't have taken place at all if it weren't for these new sources of power.",
+          "q": [
+            33
+          ],
+          "start": 148.97,
+          "end": 155.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They marked an important shift away from the traditional watermills and windmills that had dominated before this.",
+          "start": 157.05,
+          "end": 163.61
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The most advanced industry for much of the 19th century was textiles.",
+          "q": [
+            34
+          ],
+          "start": 164.98,
+          "end": 169.3
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This meant that fashionable fabrics, and lace and ribbons were made available to everyone.",
+          "start": 169.34,
+          "end": 175.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Before the Industrial Revolution, most people made goods to sell in small workshops, often in their own homes.",
+          "start": 177.59,
+          "end": 184.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But enormous new machines were now being created that could produce the goods faster and on a larger scale, and these required a lot more space.",
+          "q": [
+            35
+          ],
+          "start": 184.95,
+          "end": 195.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So large factories were built, replacing the workshops, and forcing workers to travel to work. In fact, large numbers of people migrated from villages into towns as a result.",
+          "start": 197.0,
+          "end": 209.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As well as manufacturing, there were new technologies in transport, contributing to the growth of consumerism.",
+          "start": 215.29,
+          "end": 221.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The horse-drawn stagecoaches and carts of the 18th century, which carried very few people and goods, and travelled slowly along poorly surfaced roads, were gradually replaced by the numerous canals that were constructed.",
+          "start": 222.77,
+          "end": 236.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These were particularly important for the transportation of goods.",
+          "start": 237.56,
+          "end": 241.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The canals gradually fell out of use, though, as railways were developed, becoming the main way of moving goods and people from one end of the country to the other.",
+          "start": 241.16,
+          "end": 252.92
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the goods they moved weren't just coal, iron, clothes, and so on – significantly, they included newspapers, which meant that thousands of people were not only more knowledgeable about what was going on in the country, but could also read about what was available in the shops.",
+          "q": [
+            36
+          ],
+          "start": 253.96,
+          "end": 272.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And that encouraged them to buy more.",
+          "start": 273.02,
+          "end": 275.3
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So faster forms of transport resulted in distribution becoming far more efficient – goods could now be sold all over the country, instead of just in the local market.",
+          "q": [
+            37
+          ],
+          "start": 276.42,
+          "end": 287.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The third main area that saw changes that contributed to consumerism was retailing.",
+          "start": 290.22,
+          "end": 295.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The number and quality of shops grew rapidly, and in particular, small shops suffered as customers flocked to the growing number of department stores – a form of retailing that was new in the 19th century.",
+          "start": 296.54,
+          "end": 310.46
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The entrepreneurs who opened these found new ways to stock them with goods, and to attract customers: for instance, improved lighting inside greatly increased the visibility of the goods for sale.",
+          "q": [
+            38
+          ],
+          "start": 311.6,
+          "end": 327.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another development that made goods more visible from outside resulted from the use of plate glass, which made it possible for windows to be much larger than previously.",
+          "q": [
+            39
+          ],
+          "start": 327.52,
+          "end": 339.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "New ways of promoting goods were introduced, too. Previously, the focus had been on informing potential customers about the availability of goods; now there was an explosion in advertising trying to persuade people to go shopping.",
+          "q": [
+            40
+          ],
+          "start": 341.05,
+          "end": 357.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Flanders claims that one of the great effects of the Industrial Revolution was that it created choice.",
+          "start": 358.82,
+          "end": 364.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "All sorts of things that had previously been luxuries – from sugar to cutlery – became conveniences, and before long they'd turned into necessities: life without sugar or cutlery was unimaginable.",
+          "start": 364.86,
+          "end": 381.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Rather like mobile phones these days!",
+          "start": 381.84,
+          "end": 384.04
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "journalist"
+    ],
+    "2": [
+      "shopping"
+    ],
+    "3": [
+      "Staunfirth"
+    ],
+    "4": [
+      "return"
+    ],
+    "5": [
+      "23.70"
+    ],
+    "6": [
+      "online"
+    ],
+    "7": [
+      "delay"
+    ],
+    "8": [
+      "information"
+    ],
+    "9": [
+      "platform",
+      "platforms"
+    ],
+    "10": [
+      "parking"
+    ],
+    "11": [
+      "D"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "G"
+    ],
+    "14": [
+      "H"
+    ],
+    "15": [
+      "A"
+    ],
+    "16": [
+      "E"
+    ],
+    "17": [
+      "A",
+      "D"
+    ],
+    "18": [
+      "A",
+      "D"
+    ],
+    "19": [
+      "A",
+      "C"
+    ],
+    "20": [
+      "A",
+      "C"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "A"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "B"
+    ],
+    "28": [
+      "B"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "wealth"
+    ],
+    "32": [
+      "technology"
+    ],
+    "33": [
+      "power"
+    ],
+    "34": [
+      "textile",
+      "textiles"
+    ],
+    "35": [
+      "machines"
+    ],
+    "36": [
+      "newspapers"
+    ],
+    "37": [
+      "local"
+    ],
+    "38": [
+      "lighting"
+    ],
+    "39": [
+      "windows"
+    ],
+    "40": [
+      "advertising"
+    ]
+  }
+}

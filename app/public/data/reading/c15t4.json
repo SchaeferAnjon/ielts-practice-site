@@ -1,0 +1,828 @@
+{
+  "id": "c15t4",
+  "book": "剑桥雅思15",
+  "test": 4,
+  "title": "剑15 Test 4 · Reading",
+  "minutes": 60,
+  "passages": [
+    {
+      "n": 1,
+      "title": "The return of the huarango",
+      "subtitle": "The arid valleys of southern Peru are welcoming the return of a native plant",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "The south coast of Peru is a narrow, 2,000-kilometre-long strip of desert squeezed between the Andes and the Pacific Ocean. It is also one of the most fragile ecosystems on Earth. It hardly ever rains there, and the only year-round source of water is located tens of metres below the surface. This is why the huarango tree is so suited to life there: it has the longest roots of any tree in the world. They stretch down 50-80 metres and, as well as sucking up water for the tree, they bring it into the higher subsoil, creating a water source for other plant life."
+        },
+        {
+          "id": "p2",
+          "text": "Dr David Beresford-Jones, archaeobotanist at Cambridge University, has been studying the role of the huarango tree in landscape change in the Lower Ica Valley in southern Peru. He believes the huarango was key to the ancient people's diet and, because it could reach deep water sources, it allowed local people to withstand years of drought when their other crops failed. But over the centuries huarango trees were gradually replaced with crops. Cutting down native woodland leads to erosion, as there is nothing to keep the soil in place. So when the huarangos go, the land turns into a desert. Nothing grows at all in the Lower Ica Valley now."
+        },
+        {
+          "id": "p3",
+          "text": "For centuries the huarango tree was vital to the people of the neighbouring Middle Ica Valley too. They grew vegetables under it and ate products made from its seed pods. Its leaves and bark were used for herbal remedies, while its branches were used for charcoal for cooking and heating, and its trunk was used to build houses. But now it is disappearing rapidly. The majority of the huarango forests in the valley have already been cleared for fuel and agriculture - initially, these were smallholdings, but now they're huge farms producing crops for the international market."
+        },
+        {
+          "id": "p4",
+          "text": "'Of the forests that were here 1,000 years ago, 99 per cent have already gone,' says botanist Oliver Whaley from Kew Gardens in London, who, together with ethnobotanist Dr William Milliken, is running a pioneering project to protect and restore the rapidly disappearing habitat. In order to succeed, Whaley needs to get the local people on board, and that has meant overcoming local prejudices. 'Increasingly aspirational communities think that if you plant food trees in your home or street, it shows you are poor, and still need to grow your own food,' he says. In order to stop the Middle Ica Valley going the same way as the Lower Ica Valley, Whaley is encouraging locals to love the huarangos again. 'It's a process of cultural resuscitation,' he says. He has already set up a huarango festival to reinstate a sense of pride in their eco-heritage, and has helped local schoolchildren plant thousands of trees."
+        },
+        {
+          "id": "p5",
+          "text": "'In order to get people interested in habitat restoration, you need to plant a tree that is useful to them,' says Whaley. So, he has been working with local families to attempt to create a sustainable income from the huarangos by turning their products into foodstuffs. 'Boil up the beans and you get this thick brown syrup like molasses. You can also use it in drinks, soups or stews.' The pods can be ground into flour to make cakes, and the seeds roasted into a sweet, chocolatey 'coffee' - 'It's packed full of vitamins and minerals,' Whaley says."
+        },
+        {
+          "id": "p6",
+          "text": "And some farmers are already planting huarangos. Alberto Benevides, owner of Ica Valley's only certified organic farm, which Whaley helped set up, has been planting the tree for 13 years. He produces syrup and flour, and sells these products at an organic farmers' market in Lima. His farm is relatively small and doesn't yet provide him with enough to live on, but he hopes this will change. 'The organic market is growing rapidly in Peru,' Benevides says. 'I am investing in the future.'"
+        },
+        {
+          "id": "p7",
+          "text": "But even if Whaley can convince the local people to fall in love with the huarango again, there is still the threat of the larger farms. Some of these cut across the forests and break up the corridors that allow the essential movement of mammals, birds and pollen up and down the narrow forest strip. In the hope of counteracting this, he's persuading farmers to let him plant forest corridors on their land. He believes the extra woodland will also benefit the farms by reducing their water usage through a lowering of evaporation and providing a refuge for bio-control insects."
+        },
+        {
+          "id": "p8",
+          "text": "'If we can record biodiversity and see how it all works, then we're in a good position to move on from there. Desert habitats can reduce down to very little,' Whaley explains. 'It's not like a rainforest that needs to have this huge expanse. Life has always been confined to corridors and islands here. If you just have a few trees left, the population can grow up quickly because it's used to exploiting water when it arrives.' He sees his project as a model that has the potential to be rolled out across other arid areas around the world. 'If we can do it here, in the most fragile system on Earth, then that's a real message of hope for lots of places, including Africa, where there is drought and they just can't afford to wait for rain.'"
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            5
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "The importance of the huarango tree",
+          "lines": [
+            "its roots can extend as far as 80 metres into the soil",
+            "can access {{1}} deep below the surface",
+            "was a crucial part of local inhabitants' {{2}} a long time ago",
+            "helped people to survive periods of {{3}}",
+            "prevents {{4}} of the soil",
+            "prevents land from becoming a {{5}}"
+          ]
+        },
+        {
+          "range": [
+            6,
+            8
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "title": "Traditional uses of the huarango tree",
+          "table": {
+            "head": [
+              "Part of tree",
+              "Traditional use"
+            ],
+            "rows": [
+              [
+                "{{6}}",
+                "fuel"
+              ],
+              [
+                "{{7}}",
+                "medicine"
+              ],
+              [
+                "{{8}}",
+                "construction"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            9,
+            13
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 9,
+              "text": "Local families have told Whaley about some traditional uses of huarango products."
+            },
+            {
+              "n": 10,
+              "text": "Farmer Alberto Benevides is now making a good profit from growing huarangos."
+            },
+            {
+              "n": 11,
+              "text": "Whaley needs the co-operation of farmers to help preserve the area's wildlife."
+            },
+            {
+              "n": 12,
+              "text": "For Whaley's project to succeed, it needs to be extended over a very large area."
+            },
+            {
+              "n": 13,
+              "text": "Whaley has plans to go to Africa to set up a similar project."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Silbo Gomero - the whistle 'language' of the Canary Islands",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "La Gomera is one of the Canary Islands situated in the Atlantic Ocean off the northwest coast of Africa. This small volcanic island is mountainous, with steep rocky slopes and deep, wooded ravines, rising to 1,487 metres at its highest peak. It is also home to the best known of the world's whistle 'languages', a means of transmitting information over long distances which is perfectly adapted to the extreme terrain of the island."
+        },
+        {
+          "id": "p2",
+          "text": "This 'language', known as 'Silbo' or 'Silbo Gomero' - from the Spanish word for 'whistle' - is now shedding light on the language-processing abilities of the human brain, according to scientists. Researchers say that Silbo activates parts of the brain normally associated with spoken language, suggesting that the brain is remarkably flexible in its ability to interpret sounds as language."
+        },
+        {
+          "id": "p3",
+          "text": "'Science has developed the idea of brain areas that are dedicated to language, and we are starting to understand the scope of signals that can be recognised as language,' says David Corina, co-author of a recent study and associate professor of psychology at the University of Washington in Seattle."
+        },
+        {
+          "id": "p4",
+          "text": "Silbo is a substitute for Spanish, with individual words recoded into whistles which have high- and low-frequency tones. A whistler - or silbador - puts a finger in his or her mouth to increase the whistle's pitch, while the other hand can be cupped to adjust the direction of the sound. 'There is much more ambiguity in the whistled signal than in the spoken signal,' explains lead researcher Manuel Carreiras, psychology professor at the University of La Laguna on the Canary island of Tenerife. Because whistled 'words' can be hard to distinguish, silbadores rely on repetition, as well as awareness of context, to make themselves understood."
+        },
+        {
+          "id": "p5",
+          "text": "The silbadores of Gomera are traditionally shepherds and other isolated mountain folk, and their novel means of staying in touch allows them to communicate over distances of up to 10 kilometres. Carreiras explains that silbadores are able to pass a surprising amount of information via their whistles. 'In daily life they use whistles to communicate short commands, but any Spanish sentence could be whistled.' Silbo has proved particularly useful when fires have occurred on the island and rapid communication across large areas has been vital."
+        },
+        {
+          "id": "p6",
+          "text": "The study team used neuroimaging equipment to contrast the brain activity of silbadores while listening to whistled and spoken Spanish. Results showed the left temporal lobe of the brain, which is usually associated with spoken language, was engaged during the processing of Silbo. The researchers found that other key regions in the brain's frontal lobe also responded to the whistles, including those activated in response to sign language among deaf people. When the experiments were repeated with non-whistlers, however, activation was observed in all areas of the brain."
+        },
+        {
+          "id": "p7",
+          "text": "'Our results provide more evidence about the flexibility of human capacity for language in a variety of forms,' Corina says. 'These data suggest that left-hemisphere language regions are uniquely adapted for communicative purposes, independent of the modality of signal. The non-Silbo speakers were not recognising Silbo as a language. They had nothing to grab onto, so multiple areas of their brains were activated.'"
+        },
+        {
+          "id": "p8",
+          "text": "Carreiras says the origins of Silbo Gomero remain obscure, but that indigenous Canary Islanders, who were of North African origin, already had a whistled language when Spain conquered the volcanic islands in the 15th century. Whistled languages survive today in Papua New Guinea, Mexico, Vietnam, Guyana, China, Nepal, Senegal, and a few mountainous pockets in southern Europe. There are thought to be as many as 70 whistled languages still in use, though only 12 have been described and studied scientifically. This form of communication is an adaptation found among cultures where people are often isolated from each other, according to Julien Meyer, a researcher at the Institute of Human Sciences in Lyon, France. 'They are mostly used in mountains or dense forests,' he says. 'Whistled languages are quite clearly defined and represent an original adaptation of the spoken language for the needs of isolated human groups.'"
+        },
+        {
+          "id": "p9",
+          "text": "But with modern communication technology now widely available, researchers say whistled languages like Silbo are threatened with extinction. With dwindling numbers of Gomera islanders still fluent in the language, Canaries' authorities are taking steps to try to ensure its survival. Since 1999, Silbo Gomero has been taught in all of the island's elementary schools. In addition, locals are seeking assistance from the United Nations Educational, Scientific and Cultural Organization (UNESCO). 'The local authorities are trying to get an award from the organisation to declare [Silbo Gomero] as something that should be preserved for humanity,' Carreiras adds."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            19
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "La Gomera is the most mountainous of all the Canary Islands."
+            },
+            {
+              "n": 15,
+              "text": "Silbo is only appropriate for short and simple messages."
+            },
+            {
+              "n": 16,
+              "text": "In the brain-activity study, silbadores and non-whistlers produced different results."
+            },
+            {
+              "n": 17,
+              "text": "The Spanish introduced Silbo to the islands in the 15th century."
+            },
+            {
+              "n": 18,
+              "text": "There is precise data available regarding all of the whistle languages in existence today."
+            },
+            {
+              "n": 19,
+              "text": "The children of Gomera now learn Silbo."
+            }
+          ]
+        },
+        {
+          "range": [
+            20,
+            26
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Silbo Gomero",
+          "lines": [
+            "## How Silbo is produced",
+            "high- and low-frequency tones represent different sounds in Spanish {{20}}",
+            "pitch of whistle is controlled using silbador's {{21}}",
+            "{{22}} is changed with a cupped hand",
+            "## How Silbo is used",
+            "has long been used by shepherds and people living in secluded locations",
+            "in everyday use for the transmission of brief {{23}}",
+            "can relay essential information quickly, e.g. to inform people about {{24}}",
+            "## The future of Silbo",
+            "future under threat because of new {{25}}",
+            "Canaries' authorities hoping to receive a UNESCO {{26}} to help preserve it"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Environmental practices of big businesses",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "The environmental practices of big businesses are shaped by a fundamental fact that for many of us offends our sense of justice. Depending on the circumstances, a business may maximize the amount of money it makes, at least in the short term, by damaging the environment and hurting people. That is still the case today for fishermen in an unmanaged fishery without quotas, and for international logging companies with short-term leases on tropical rainforest land in places with corrupt officials and unsophisticated landowners. When government regulation is effective, and when the public is environmentally aware, environmentally clean big businesses may out-compete dirty ones, but the reverse is likely to be true if government regulation is ineffective and if the public doesn't care."
+        },
+        {
+          "id": "p2",
+          "text": "It is easy for the rest of us to blame a business for helping itself by hurting other people. But blaming alone is unlikely to produce change. It ignores the fact that businesses are not charities but profit-making companies, and that publicly owned companies with shareholders are under obligation to those shareholders to maximize profits, provided that they do so by legal means. US laws make a company's directors legally liable for something termed 'breach of fiduciary responsibility' if they knowingly manage a company in a way that reduces profits. The car manufacturer Henry Ford was in fact successfully sued by shareholders in 1919 for raising the minimum wage of his workers to $5 per day: the courts declared that, while Ford's humanitarian sentiments about his employees were nice, his business existed to make profits for its stockholders."
+        },
+        {
+          "id": "p3",
+          "text": "Our blaming of businesses also ignores the ultimate responsibility of the public for creating the conditions that let a business profit through destructive environmental policies. In the long run, it is the public, either directly or through its politicians, that has the power to make such destructive policies unprofitable and illegal, and to make sustainable environmental policies profitable."
+        },
+        {
+          "id": "p4",
+          "text": "The public can do that by suing businesses for harming them, as happened after the Exxon Valdez disaster, in which over 40,000m3 of oil were spilled off the coast of Alaska. The public may also make their opinion felt by preferring to buy sustainably harvested products; by making employees of companies with poor track records feel ashamed of their company and complain to their own management; by preferring their governments to award valuable contracts to businesses with a good environmental track record; and by pressing their governments to pass and enforce laws and regulations requiring good environmental practices."
+        },
+        {
+          "id": "p5",
+          "text": "In turn, big businesses can exert powerful pressure on any suppliers that might ignore public or government pressure. For instance, after the US public became concerned about the spread of a disease known as BSE, which was transmitted to humans through infected meat, the US government's Food and Drug Administration introduced rules demanding that the meat industry abandon practices associated with the risk of the disease spreading. But for five years the meat packers refused to follow these, claiming that they would be too expensive to obey. However, when a major fast-food company then made the same demands after customer purchases of its hamburgers plummeted, the meat industry complied within weeks. The public's task is therefore to identify which links in the supply chain are sensitive to public pressure: for instance, fast-food chains or jewelry stores, but not meat packers or gold miners."
+        },
+        {
+          "id": "p6",
+          "text": "Some readers may be disappointed or outraged that I place the ultimate responsibility for business practices harming the public on the public itself. I also believe that the public must accept the necessity for higher prices for products to cover the added costs, if any, of sound environmental practices. My views may seem to ignore the belief that businesses should act in accordance with moral principles even if this leads to a reduction in their profits. But I think we have to recognize that, throughout human history, in all politically complex human societies, government regulation has arisen precisely because it was found that not only did moral principles need to be made explicit, they also needed to be enforced."
+        },
+        {
+          "id": "p7",
+          "text": "To me, the conclusion that the public has the ultimate responsibility for the behavior of even the biggest businesses is empowering and hopeful, rather than disappointing. My conclusion is not a moralistic one about who is right or wrong, admirable or selfish, a good guy or a bad guy. In the past, businesses have changed when the public came to expect and require different behavior, to reward businesses for behavior that the public wanted, and to make things difficult for businesses practicing behaviors that the public didn't want. I predict that in the future, just as in the past, changes in public attitudes will be essential for changes in businesses' environmental practices."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            31
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words, A-I, below.",
+          "limit": "Write the correct letter, A-I, in boxes 27-31 on your answer sheet.",
+          "title": "Big businesses",
+          "text": "Many big businesses today are prepared to harm people and the environment in order to make money, and they appear to have no {{27}}. Lack of {{28}} by governments and lack of public {{29}} can lead to environmental problems such as {{30}} or the destruction of {{31}}.",
+          "options": [
+            {
+              "k": "A",
+              "text": "funding"
+            },
+            {
+              "k": "B",
+              "text": "trees"
+            },
+            {
+              "k": "C",
+              "text": "rare species"
+            },
+            {
+              "k": "D",
+              "text": "moral standards"
+            },
+            {
+              "k": "E",
+              "text": "control"
+            },
+            {
+              "k": "F",
+              "text": "involvement"
+            },
+            {
+              "k": "G",
+              "text": "flooding"
+            },
+            {
+              "k": "H",
+              "text": "overfishing"
+            },
+            {
+              "k": "I",
+              "text": "worker support"
+            }
+          ]
+        },
+        {
+          "range": [
+            32,
+            34
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 32,
+              "text": "The main idea of the third paragraph is that environmental damage",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "requires political action if it is to be stopped."
+                },
+                {
+                  "k": "B",
+                  "text": "is the result of ignorance on the part of the public."
+                },
+                {
+                  "k": "C",
+                  "text": "could be prevented by the action of ordinary people."
+                },
+                {
+                  "k": "D",
+                  "text": "can only be stopped by educating business leaders."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "In the fourth paragraph, the writer describes ways in which the public can",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "reduce their own individual impact on the environment."
+                },
+                {
+                  "k": "B",
+                  "text": "learn more about the impact of business on the environment."
+                },
+                {
+                  "k": "C",
+                  "text": "raise awareness of the effects of specific environmental disasters."
+                },
+                {
+                  "k": "D",
+                  "text": "influence the environmental policies of businesses and governments."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "What pressure was exerted by big business in the case of the disease BSE?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Meat packers stopped supplying hamburgers to fast-food chains."
+                },
+                {
+                  "k": "B",
+                  "text": "A fast-food company forced their meat suppliers to follow the law."
+                },
+                {
+                  "k": "C",
+                  "text": "Meat packers persuaded the government to reduce their expenses."
+                },
+                {
+                  "k": "D",
+                  "text": "A fast-food company encouraged the government to introduce legislation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            35,
+            39
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 35,
+              "text": "The public should be prepared to fund good environmental practices."
+            },
+            {
+              "n": 36,
+              "text": "There is a contrast between the moral principles of different businesses."
+            },
+            {
+              "n": 37,
+              "text": "It is important to make a clear distinction between acceptable and unacceptable behaviour."
+            },
+            {
+              "n": 38,
+              "text": "The public have successfully influenced businesses in the past."
+            },
+            {
+              "n": 39,
+              "text": "In the future, businesses will show more concern for the environment."
+            }
+          ]
+        },
+        {
+          "range": [
+            40,
+            40
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 40,
+              "text": "What would be the best subheading for this passage?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Will the world survive the threat caused by big businesses?"
+                },
+                {
+                  "k": "B",
+                  "text": "How can big businesses be encouraged to be less driven by profit?"
+                },
+                {
+                  "k": "C",
+                  "text": "What environmental dangers are caused by the greed of businesses?"
+                },
+                {
+                  "k": "D",
+                  "text": "Are big businesses to blame for the damage they cause the environment?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "water"
+    ],
+    "2": [
+      "diet"
+    ],
+    "3": [
+      "drought"
+    ],
+    "4": [
+      "erosion"
+    ],
+    "5": [
+      "desert"
+    ],
+    "6": [
+      "branches",
+      "its branches",
+      "the branches",
+      "huarango branches"
+    ],
+    "7": [
+      "leaves and bark",
+      "bark and leaves"
+    ],
+    "8": [
+      "trunk",
+      "its trunk",
+      "the trunk",
+      "huarango trunk"
+    ],
+    "9": [
+      "NOT GIVEN"
+    ],
+    "10": [
+      "FALSE"
+    ],
+    "11": [
+      "TRUE"
+    ],
+    "12": [
+      "FALSE"
+    ],
+    "13": [
+      "NOT GIVEN"
+    ],
+    "14": [
+      "NOT GIVEN"
+    ],
+    "15": [
+      "FALSE"
+    ],
+    "16": [
+      "TRUE"
+    ],
+    "17": [
+      "FALSE"
+    ],
+    "18": [
+      "FALSE"
+    ],
+    "19": [
+      "TRUE"
+    ],
+    "20": [
+      "words"
+    ],
+    "21": [
+      "finger"
+    ],
+    "22": [
+      "direction"
+    ],
+    "23": [
+      "commands"
+    ],
+    "24": [
+      "fires"
+    ],
+    "25": [
+      "technology"
+    ],
+    "26": [
+      "award"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "E"
+    ],
+    "29": [
+      "F"
+    ],
+    "30": [
+      "H"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "A"
+    ],
+    "33": [
+      "D"
+    ],
+    "34": [
+      "B"
+    ],
+    "35": [
+      "YES"
+    ],
+    "36": [
+      "NOT GIVEN"
+    ],
+    "37": [
+      "NO"
+    ],
+    "38": [
+      "YES"
+    ],
+    "39": [
+      "NOT GIVEN"
+    ],
+    "40": [
+      "D"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "key": "the only year-round source of water is located tens of metres below the surface",
+      "why": "题干 access ... deep below the surface 对应原文 water is located tens of metres below the surface，答案为 water。"
+    },
+    "2": {
+      "loc": "p2",
+      "key": "the huarango was key to the ancient people's diet",
+      "why": "原文直接指出 huarango 是当地人 diet 的关键部分，与题干 crucial part of local inhabitants' ... 对应。"
+    },
+    "3": {
+      "loc": "p2",
+      "key": "it allowed local people to withstand years of drought when their other crops failed",
+      "why": "题干 survive periods of ... 对应原文 withstand years of drought，答案为 drought。"
+    },
+    "4": {
+      "loc": "p2",
+      "key": "Cutting down native woodland leads to erosion",
+      "why": "原文说明砍伐树木会导致 erosion（水土流失），对应题干 prevents ... of the soil。"
+    },
+    "5": {
+      "loc": "p2",
+      "key": "when the huarangos go, the land turns into a desert",
+      "why": "原文直接说明失去 huarango 后土地会变成 desert，对应题干 prevents land from becoming a ...。"
+    },
+    "6": {
+      "loc": "p3",
+      "key": "its branches were used for charcoal for cooking and heating",
+      "why": "枝条（branches）被用来做木炭燃料，对应表格 fuel 一栏。"
+    },
+    "7": {
+      "loc": "p3",
+      "key": "Its leaves and bark were used for herbal remedies",
+      "why": "叶子和树皮被用作草药（medicine），两者需同时写出才能得分。"
+    },
+    "8": {
+      "loc": "p3",
+      "key": "its trunk was used to build houses",
+      "why": "树干（trunk）被用来建造房屋，对应表格 construction 一栏。"
+    },
+    "9": {
+      "loc": "p5",
+      "key": "he has been working with local families to attempt to create a sustainable income from the huarangos",
+      "why": "原文只说 Whaley 与当地家庭合作开发可持续收入，并未提到是当地家庭主动告诉他传统用途，属于 NOT GIVEN。"
+    },
+    "10": {
+      "loc": "p6",
+      "key": "His farm is relatively small and doesn't yet provide him with enough to live on",
+      "why": "原文明确说他的农场还不足以维持生计，与题干「已经获利良好」矛盾，故为 FALSE。"
+    },
+    "11": {
+      "loc": "p7",
+      "key": "he's persuading farmers to let him plant forest corridors on their land",
+      "why": "Whaley 需要说服农场主让他种植森林走廊以保护动物迁徙通道，说明他需要农民的合作来保护野生动物，故为 TRUE。"
+    },
+    "12": {
+      "loc": "p8",
+      "key": "It's not like a rainforest that needs to have this huge expanse",
+      "why": "原文明确说该项目不需要像雨林那样的大面积，与题干「需扩展到很大范围」矛盾，故为 FALSE。"
+    },
+    "13": {
+      "loc": "p8",
+      "key": "including Africa, where there is drought and they just can't afford to wait for rain",
+      "why": "原文只是以非洲为例说明该模式可能带来希望，并未提及 Whaley 本人计划去非洲，属于 NOT GIVEN。"
+    },
+    "14": {
+      "loc": "p1",
+      "key": "This small volcanic island is mountainous",
+      "why": "原文只说 La Gomera 多山，并未与其他 Canary Islands 比较「最多山」，属于 NOT GIVEN。"
+    },
+    "15": {
+      "loc": "p5",
+      "key": "any Spanish sentence could be whistled",
+      "why": "原文说明任何西班牙语句子都能用口哨表达，并不局限于简短信息，与题干矛盾，故为 FALSE。"
+    },
+    "16": {
+      "loc": "p6",
+      "key": "When the experiments were repeated with non-whistlers, however, activation was observed in all areas of the brain",
+      "why": "silbadores 只激活特定脑区，而不会吹口哨语言的人则全脑激活，两者结果不同，故为 TRUE。"
+    },
+    "17": {
+      "loc": "p8",
+      "key": "indigenous Canary Islanders ... already had a whistled language when Spain conquered the volcanic islands in the 15th century",
+      "why": "原文说明西班牙征服该群岛之前，当地原住民已有口哨语言，并非西班牙人引入，故为 FALSE。"
+    },
+    "18": {
+      "loc": "p8",
+      "key": "though only 12 have been described and studied scientifically",
+      "why": "约70种口哨语言中只有12种被科学研究过，并非所有语言都有精确数据，故为 FALSE。"
+    },
+    "19": {
+      "loc": "p9",
+      "key": "Since 1999, Silbo Gomero has been taught in all of the island's elementary schools",
+      "why": "原文明确说自1999年起该语言已在全岛小学教授，故为 TRUE。"
+    },
+    "20": {
+      "loc": "p4",
+      "key": "individual words recoded into whistles which have high- and low-frequency tones",
+      "why": "题干「不同的声音」对应原文 Spanish words 被转换为高低频哨音，答案为 words。"
+    },
+    "21": {
+      "loc": "p4",
+      "key": "puts a finger in his or her mouth to increase the whistle's pitch",
+      "why": "音调是通过手指（finger）控制的，对应答案 finger。"
+    },
+    "22": {
+      "loc": "p4",
+      "key": "the other hand can be cupped to adjust the direction of the sound",
+      "why": "用手掌拢成杯状可以改变声音的方向（direction），对应答案 direction。"
+    },
+    "23": {
+      "loc": "p5",
+      "key": "In daily life they use whistles to communicate short commands",
+      "why": "日常用于传递简短的 commands（指令），对应答案 commands。"
+    },
+    "24": {
+      "loc": "p5",
+      "key": "Silbo has proved particularly useful when fires have occurred on the island",
+      "why": "口哨语言在岛上发生 fires（火灾）时用于快速传递信息，对应答案 fires。"
+    },
+    "25": {
+      "loc": "p9",
+      "key": "with modern communication technology now widely available, researchers say whistled languages like Silbo are threatened with extinction",
+      "why": "现代通讯技术（technology）的普及使得口哨语言面临消失的威胁，对应答案 technology。"
+    },
+    "26": {
+      "loc": "p9",
+      "key": "trying to get an award from the organisation",
+      "why": "当地政府希望从联合国教科文组织获得一个 award（奖项/认定）以帮助保护该语言，对应答案 award。"
+    },
+    "27": {
+      "loc": "p1",
+      "key": "a business may maximize the amount of money it makes ... by damaging the environment and hurting people",
+      "why": "企业为逐利不惜损害环境和他人利益，说明它们缺乏 moral standards（道德准则），对应选项 D。"
+    },
+    "28": {
+      "loc": "p1",
+      "key": "the reverse is likely to be true if government regulation is ineffective",
+      "why": "政府监管（regulation）不力时环境问题更严重，对应缺乏 control，选项 E。"
+    },
+    "29": {
+      "loc": "p1",
+      "key": "if the public doesn't care",
+      "why": "公众不关心（缺乏 involvement）也会导致环境问题恶化，对应选项 F。"
+    },
+    "30": {
+      "loc": "p1",
+      "key": "fishermen in an unmanaged fishery without quotas",
+      "why": "没有配额限制的渔业会导致 overfishing（过度捕捞），对应选项 H。"
+    },
+    "31": {
+      "loc": "p1",
+      "key": "international logging companies with short-term leases on tropical rainforest land",
+      "why": "伐木公司短期租赁热带雨林土地进行砍伐，导致 trees（树木）被破坏，对应选项 B。"
+    },
+    "32": {
+      "loc": "p3",
+      "key": "it is the public, either directly or through its politicians, that has the power to make such destructive policies unprofitable and illegal",
+      "why": "第三段核心观点是公众可以通过政治行动（political action）迫使有害政策变得不可行，对应选项 A。"
+    },
+    "33": {
+      "loc": "p4",
+      "key": "by pressing their governments to pass and enforce laws and regulations requiring good environmental practices",
+      "why": "第四段列举了公众可以通过购买选择、投诉、施压政府等方式影响企业和政府的环境政策，对应选项 D。"
+    },
+    "34": {
+      "loc": "p5",
+      "key": "when a major fast-food company then made the same demands after customer purchases of its hamburgers plummeted, the meat industry complied within weeks",
+      "why": "快餐公司因销量下滑而要求肉类供应商遵守规定，供应商随即照做，对应选项 B。"
+    },
+    "35": {
+      "loc": "p6",
+      "key": "the public must accept the necessity for higher prices for products to cover the added costs ... of sound environmental practices",
+      "why": "作者明确表示公众应接受为环保措施支付更高价格，即支持资金投入，故为 YES。"
+    },
+    "36": {
+      "loc": "p6",
+      "key": "businesses should act in accordance with moral principles even if this leads to a reduction in their profits",
+      "why": "文中只讨论企业整体是否应遵循道德原则，并未比较不同企业之间道德标准的差异，属于 NOT GIVEN。"
+    },
+    "37": {
+      "loc": "p7",
+      "key": "My conclusion is not a moralistic one about who is right or wrong, admirable or selfish, a good guy or a bad guy",
+      "why": "作者明确表示自己的结论并非要区分对错好坏，与题干「应明确区分可接受与不可接受行为」相反，故为 NO。"
+    },
+    "38": {
+      "loc": "p7",
+      "key": "In the past, businesses have changed when the public came to expect and require different behavior",
+      "why": "作者指出过去公众的期待和要求确实促使企业改变了行为，故为 YES。"
+    },
+    "39": {
+      "loc": "p7",
+      "key": "I predict that in the future, just as in the past, changes in public attitudes will be essential for changes in businesses' environmental practices",
+      "why": "作者只预测公众态度的改变会推动企业改变，但并未断言企业未来一定会更关心环境，属于 NOT GIVEN。"
+    },
+    "40": {
+      "loc": "p1",
+      "key": "The environmental practices of big businesses are shaped by a fundamental fact",
+      "why": "全文围绕「大企业造成的环境损害该由谁负责」展开，最贴切的小标题是选项 D，探讨企业是否该为环境损害负责。"
+    }
+  }
+}

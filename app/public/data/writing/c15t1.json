@@ -1,0 +1,78 @@
+{
+  "id": "c15t1",
+  "book": "剑桥雅思15",
+  "test": 1,
+  "title": "剑15 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "bar-chart",
+      "kindZh": "柱状图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The chart below shows the results of a survey about people's coffee and tea buying and drinking habits in five Australian cities.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c15t1-task1.png",
+      "imageCaption": "Coffee and tea buying and drinking habits in five cities in Australia",
+      "data": {
+        "unit": "Percentage of city residents",
+        "years": [
+          "Sydney",
+          "Melbourne",
+          "Brisbane",
+          "Adelaide",
+          "Hobart"
+        ],
+        "series": {
+          "Bought fresh coffee in last 4 weeks": [
+            43.7,
+            42.2,
+            34.2,
+            34.4,
+            38.3
+          ],
+          "Bought instant coffee in last 4 weeks": [
+            45.5,
+            48.3,
+            52.6,
+            49.8,
+            54.1
+          ],
+          "Went to a cafe for coffee or tea in last 4 weeks": [
+            61,
+            63.3,
+            55.4,
+            49.9,
+            62.7
+          ]
+        }
+      },
+      "sample": {
+        "band": 6,
+        "text": "The table depicts the outcomes of a questionare of how often people buy and drink a different types of coffee in Sydney, Melbourne, Brisbane, Adelaide, and Hobart of Australia.\n\nThe first option is bought fresh coffee in last 4 weeks. In Sydney has 43.7 per cent of city residents and has almost the same amount as Melbourne which is 42.2 per cent. Brisbane and Adelaide have a nearly same amount, 34.2 per cent and 34.4 per cent. Next, Hobart has 38.3 per cent.\n\nThe second line is bought instant coffee in last 4 weeks. Brisbane has 52.6 per cent. Other two cities that have almost the same number are Adelaide, 49.8 per cent, and Melbourne, 48.3 per cent. The lowest number is 45.5 per cent of Sydney and The highest number is 54.1 per cent of Hobart.\n\nThe last option of the survey shows the percentage of city residents that went to a cafe' for coffee or tea in last 4 weeks. In Sydney, people went to a cafe' for coffee or tea in last 4 weeks 61 per cent of city residents. In Brisbane, citizens went to a cafe' for coffee of tea in last 4 weeks 55.4 per cent. The lowest is Adelaide that shows 49.9 per cent of city residents. In Hobart, people went to a cafe' for coffee of tea in last 4 weeks 62.7 per cent. The highest is Melbourne that shows 63.3 per cent.\n\nIn conclusion, the highest number of the survey is the percentage of city residents that went to a cafe for coffee or tea in last 4 weeks because it shows almost the highest percentage in 3 types.",
+        "comment": "This answer covers all three categories and shows a good level of grouping and comparison of information in each category. The descriptions are supported by accurate data. Organisation is clear (introduction and overview, one paragraph per category) and there is evidence of cohesive devices [The first option / The second line / The last option]. Vocabulary is generally adequate and appropriate for the task, in spite of occasional errors [questionare / questionnaire / amost / almost]. Grammar shows a mix of simple and complex sentence structures with a reasonable level of accuracy. A wider range of vocabulary and/or grammatical range would help to improve the score here."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "In some countries, owning a home rather than renting one is very important for people.",
+        "Why might this be the case?",
+        "Do you think this is a positive or negative situation?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 7,
+        "text": "In some countries the ownership of peoples' home is an important matter. In these countries it is very important to own your own home rather than renting it. It might be indifferent for some, but for these people it matter.\n\nWhy is that the case? you might wonder. I think it is because your home is supposed to be exactly what it sounds like, your home. As a human I think we long after having stuff to call our own, doesn't matter what it is, but humans will always want to claim ownership. This is nothing new and it has been like this through human history, like colonies for example, which later once again became the same country as before lead by its own inhabitants. People will always want to be the one to decide what happens to them and when you rent your home you can't even paint it without the owners permission.\n\nIf you as a person are renting an apartment there might be a lot of stressors in your life. A scratched wall can cause you a major headache, because the wall was not yours. The bedroom you are currently sleeping in might not be available as long as you hope, things happen in life and maybe the next landlord won't want to have you as a tenant.\n\nIn other perspective, not owning your home could be a relief when it comes to your finance. As a renter you won't have to pay mortgage, take loans or spend an awful lot of money on buying the property. You wouldn't have to worry about the house market crashing or a natural disaster destroying your expensive home.\n\nBottom line, as a human I feel like we need to have a home and calling it your own can make that more special. I personally would rather own my house, because then whatever happens it is on me and no one else.",
+        "comment": "The candidate clearly explains why home ownership may be of importance to some people. She or he also explores the positive and negative sides of owning your own home before putting forward his or her own opinion. The task is well addressed and ideas are explored in some depth. Organisation is clear, with good use of cohesive devices and paragraphing and the message is easy to follow. The range of vocabulary is appropriate, with examples of less common items [long after / for / house / housing market] and good use of collocations [claim ownership / a major headache / pay mortgage / natural disaster / The bottom line]. There is a variety of complex sentence structures, with a high level of accuracy and only a minor error in punctuation [owners / owner's]."
+      }
+    }
+  ]
+}

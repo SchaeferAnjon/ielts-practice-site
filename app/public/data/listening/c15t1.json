@@ -1,0 +1,1154 @@
+{
+  "id": "c15t1",
+  "book": "剑桥雅思15",
+  "test": 1,
+  "title": "剑15 Test 1 · Listening",
+  "source": "Cambridge IELTS 15 Academic, Test 1（文字层抽取 + 人工校对）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c15/t1p1.mp3",
+      "duration": 460,
+      "title": "Bankside Recruitment Agency",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Bankside Recruitment Agency",
+          "lines": [
+            "## Bankside Recruitment Agency",
+            "Address of agency: 497 Eastside, Docklands",
+            "Name of agent: Becky {{1}}",
+            "Phone number: 07866 510333",
+            "Best to call her in the {{2}}",
+            "## Typical jobs",
+            "Clerical and admin roles, mainly in the finance industry",
+            "Must have good {{3}} skills",
+            "Jobs are usually for at least one {{4}}",
+            "Pay is usually £{{5}} per hour",
+            "## Registration process",
+            "Wear a {{6}} to the interview",
+            "Must bring your {{7}} to the interview",
+            "They will ask questions about each applicant's {{8}}",
+            "## Advantages of using an agency",
+            "The {{9}} you receive at interview will benefit you",
+            "Will get access to vacancies which are not advertised",
+            "Less {{10}} is involved in applying for jobs"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "AMBER",
+          "t": "Hello William. This is Amber – you said to phone if I wanted to get more information about the job agency you mentioned. Is now a good time?",
+          "start": 105.16,
+          "end": 116.28
+        },
+        {
+          "s": "WILLIAM",
+          "t": "Oh, hi Amber. Yes. Fine. So the agency I was talking about is called Bankside – they're based in Docklands – I can tell you the address now – 497 Eastside.",
+          "start": 117.2,
+          "end": 127.08
+        },
+        {
+          "s": "AMBER",
+          "t": "OK, thanks. So is there anyone in particular I should speak to there?",
+          "start": 128.77,
+          "end": 134.13
+        },
+        {
+          "s": "WILLIAM",
+          "t": "The agent I always deal with is called Becky Jamieson.",
+          "start": 134.41,
+          "end": 137.25
+        },
+        {
+          "s": "AMBER",
+          "t": "Let me write that down – Becky ...",
+          "start": 138.81,
+          "end": 141.09
+        },
+        {
+          "s": "WILLIAM",
+          "t": "Jamieson, J-A-M-I-E-S-O-N.",
+          "q": [
+            1
+          ],
+          "start": 142.85,
+          "end": 148.61
+        },
+        {
+          "s": "AMBER",
+          "t": "Do you have her direct line?",
+          "start": 150.08,
+          "end": 151.88
+        },
+        {
+          "s": "WILLIAM",
+          "t": "Yes, it's in my contacts somewhere – right, here we are: 07866 510333. I wouldn't call her until the afternoon if I were you – she's always really busy in the morning trying to fill last-minute vacancies. She's really helpful and friendly so I'm sure it would be worth getting in touch with her for an informal chat.",
+          "q": [
+            2
+          ],
+          "start": 152.16,
+          "end": 175.39
+        },
+        {
+          "s": "AMBER",
+          "t": "It's mainly clerical and admin jobs they deal with, isn't it?",
+          "start": 176.46,
+          "end": 180.42
+        },
+        {
+          "s": "WILLIAM",
+          "t": "That's right. I know you're hoping to find a full-time job in the media eventually – but Becky mostly recruits temporary staff for the finance sector – which will look good on your CV – and generally pays better too.",
+          "start": 180.54,
+          "end": 193.37
+        },
+        {
+          "s": "AMBER",
+          "t": "Yeah – I'm just a bit worried because I don't have much office experience.",
+          "start": 193.53,
+          "end": 198.49
+        },
+        {
+          "s": "WILLIAM",
+          "t": "I wouldn't worry. They'll probably start you as a receptionist, or something like that. So what's important for that kind of job isn't so much having business skills or knowing lots of different computer systems – it's communication that really matters – so you'd be fine there. And you'll pick up office skills really quickly on the job. It's not that complicated.",
+          "q": [
+            3
+          ],
+          "start": 199.49,
+          "end": 219.34
+        },
+        {
+          "s": "AMBER",
+          "t": "OK good. So how long do people generally need temporary staff for? It would be great if I could get something lasting at least a month.",
+          "start": 219.62,
+          "end": 229.94
+        },
+        {
+          "s": "WILLIAM",
+          "t": "That shouldn't be too difficult. But you're more likely to be offered something for a week at first, which might get extended. It's unusual to be sent somewhere for just a day or two.",
+          "q": [
+            4
+          ],
+          "start": 230.5,
+          "end": 239.56
+        },
+        {
+          "s": "AMBER",
+          "t": "Right. I've heard the pay isn't too bad – better than working in a shop or a restaurant.",
+          "start": 239.84,
+          "end": 246.26
+        },
+        {
+          "s": "WILLIAM",
+          "t": "Oh yes – definitely. The hourly rate is about £10, 11 if you're lucky.",
+          "q": [
+            5
+          ],
+          "start": 246.58,
+          "end": 251.38
+        },
+        {
+          "s": "AMBER",
+          "t": "That's pretty good. I was only expecting to get eight or nine pounds an hour.",
+          "start": 252.06,
+          "end": 257.42
+        },
+        {
+          "s": "WILLIAM",
+          "t": "Do you want me to tell you anything about the registration process?",
+          "start": 299.09,
+          "end": 301.85
+        },
+        {
+          "s": "AMBER",
+          "t": "Yes, please. I know you have to have an interview.",
+          "start": 302.65,
+          "end": 305.81
+        },
+        {
+          "s": "WILLIAM",
+          "t": "The interview usually takes about an hour and you should arrange that about a week in advance.",
+          "start": 306.25,
+          "end": 310.57
+        },
+        {
+          "s": "AMBER",
+          "t": "I suppose I should dress smartly if it's for office work – I can probably borrow a suit from Mum.",
+          "q": [
+            6
+          ],
+          "start": 311.64,
+          "end": 318.16
+        },
+        {
+          "s": "WILLIAM",
+          "t": "Good idea. It's better to look too smart than too casual.",
+          "start": 318.8,
+          "end": 322.24
+        },
+        {
+          "s": "AMBER",
+          "t": "Will I need to bring copies of my exam certificates or anything like that?",
+          "start": 323.26,
+          "end": 327.66
+        },
+        {
+          "s": "WILLIAM",
+          "t": "No – they don't need to see those, I don't think.",
+          "start": 328.22,
+          "end": 330.06
+        },
+        {
+          "s": "AMBER",
+          "t": "What about my passport?",
+          "q": [
+            7
+          ],
+          "start": 330.82,
+          "end": 332.14
+        },
+        {
+          "s": "WILLIAM",
+          "t": "Oh yes – they will ask to see that.",
+          "start": 332.5,
+          "end": 334.5
+        },
+        {
+          "s": "AMBER",
+          "t": "OK.",
+          "start": 335.33,
+          "end": 336.33
+        },
+        {
+          "s": "WILLIAM",
+          "t": "I wouldn't get stressed about the interview though. It's just a chance for them to build a relationship with you – so they can try and match you to a job which you'll like. So there are questions about personality that they always ask candidates – fairly basic ones. And they probably won't ask anything too difficult like what your plans are for the future.",
+          "q": [
+            8
+          ],
+          "start": 336.41,
+          "end": 355.24
+        },
+        {
+          "s": "AMBER",
+          "t": "Hope not.",
+          "start": 356.64,
+          "end": 357.28
+        },
+        {
+          "s": "WILLIAM",
+          "t": "Anyway, there are lots of benefits to using an agency – for example, the interview will be useful because they'll give you feedback on your performance so you can improve next time.",
+          "q": [
+            9
+          ],
+          "start": 357.28,
+          "end": 368.16
+        },
+        {
+          "s": "AMBER",
+          "t": "And they'll have access to jobs which aren't advertised.",
+          "start": 368.28,
+          "end": 372.04
+        },
+        {
+          "s": "WILLIAM",
+          "t": "Exactly – most temporary jobs aren't advertised.",
+          "start": 372.66,
+          "end": 375.86
+        },
+        {
+          "s": "AMBER",
+          "t": "And I expect finding a temporary job this way takes a lot less time – it's much easier than ringing up individual companies.",
+          "q": [
+            10
+          ],
+          "start": 376.54,
+          "end": 385.26
+        },
+        {
+          "s": "WILLIAM",
+          "t": "Yes indeed. Well I think ...",
+          "start": 385.81,
+          "end": 388.41
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c15/t1p2.mp3",
+      "duration": 418,
+      "title": "Matthews Island Holidays",
+      "groups": [
+        {
+          "range": [
+            11,
+            14
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Matthews Island Holidays",
+          "questions": [
+            {
+              "n": 11,
+              "text": "According to the speaker, the company",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "has been in business for longer than most of its competitors."
+                },
+                {
+                  "k": "B",
+                  "text": "arranges holidays to more destinations than its competitors."
+                },
+                {
+                  "k": "C",
+                  "text": "has more customers than its competitors."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "Where can customers meet the tour manager before travelling to the Isle of Man?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Liverpool"
+                },
+                {
+                  "k": "B",
+                  "text": "Heysham"
+                },
+                {
+                  "k": "C",
+                  "text": "Luton"
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "How many lunches are included in the price of the holiday?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "three"
+                },
+                {
+                  "k": "B",
+                  "text": "four"
+                },
+                {
+                  "k": "C",
+                  "text": "five"
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "Customers have to pay extra for",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "guaranteeing themselves a larger room."
+                },
+                {
+                  "k": "B",
+                  "text": "booking at short notice."
+                },
+                {
+                  "k": "C",
+                  "text": "transferring to another date."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            20
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Timetable for Isle of Man holiday",
+          "table": {
+            "head": [
+              "Day",
+              "Activity",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "Day 1",
+                "Arrive",
+                "Introduction by manager\nHotel dining room has view of the {{15}}"
+              ],
+              [
+                "Day 2",
+                "Tynwald Exhibition and Peel",
+                "Tynwald may have been founded in {{16}}, not 979."
+              ],
+              [
+                "Day 3",
+                "Trip to Snaefell",
+                "Travel along promenade in a tram; train to Laxey; train to the {{17}} of Snaefell"
+              ],
+              [
+                "Day 4",
+                "Free day",
+                "Company provides a {{18}} for local transport and heritage sites."
+              ],
+              [
+                "Day 5",
+                "Take the {{19}} railway train from Douglas to Port Erin",
+                "Free time, then coach to Castletown – former {{20}} has old castle."
+              ],
+              [
+                "Day 6",
+                "Leave",
+                "Leave the island by ferry or plane"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "ERICA",
+          "t": "Good morning. My name's Erica Matthews, and I'm the owner of Matthews Island Holidays, a company set up by my parents. Thank you for coming to this presentation, in which I hope to interest you in what we have to offer. We're a small, family-run company, and we believe in the importance of the personal touch, so we don't aim to compete with other companies on the number of customers. What we do is build on our many years' experience – more than almost any other rail holiday company – to ensure we provide perfect holidays in a small number of destinations, which we've got to know extremely well.",
+          "q": [
+            11
+          ],
+          "start": 53.35,
+          "end": 97.42
+        },
+        {
+          "s": "ERICA",
+          "t": "I'll start with our six-day Isle of Man holiday. This is a fascinating island in the Irish Sea, with Wales to the south, England to the east, Scotland to the north and Northern Ireland to the west. Our holiday starts in Heysham, where your tour manager will meet you, then you'll travel by ferry to the Isle of Man. Some people prefer to fly from Luton instead, and another popular option is to go by train to Liverpool and take a ferry from there.",
+          "q": [
+            12
+          ],
+          "start": 97.62,
+          "end": 129.67
+        },
+        {
+          "s": "ERICA",
+          "t": "You have five nights in the hotel, and the price covers five breakfasts and dinners, and three lunches on the three days when there are organised trips: day four is free, and most people have lunch in a cafe or restaurant in Douglas.",
+          "q": [
+            13
+          ],
+          "start": 130.75,
+          "end": 146.31
+        },
+        {
+          "s": "ERICA",
+          "t": "The price of the holiday includes the ferry to the Isle of Man, all travel on the island, the hotel, and the meals I've mentioned. Incidentally, we try to make booking our holidays as simple and fair as possible, so unlike with many companies, the price is the same whether you book six months in advance or at the last minute, and there's no supplement for single rooms in hotels. If you make a booking then need to change the start date – for example because of illness – you're welcome to change to an alternative date or a different tour, for a small administrative fee.",
+          "q": [
+            14
+          ],
+          "start": 147.46,
+          "end": 185.0
+        },
+        {
+          "s": "ERICA",
+          "t": "OK, so what does the holiday consist of? Well, on day one you'll arrive in time for a short introduction by your tour manager, followed by dinner in the hotel. The dining room looks out at the river, close to where it flows into the harbour, and there's usually plenty of activity going on.",
+          "q": [
+            15
+          ],
+          "start": 232.39,
+          "end": 252.16
+        },
+        {
+          "s": "ERICA",
+          "t": "On day two you'll take the coach to the small town of Peel, on the way calling in at the Tynwald Exhibition. The Isle of Man isn't part of the United Kingdom, and it has its own parliament, called Tynwald. It's claimed that this is the world's oldest parliament that's still functioning, and that it dates back to 979. However, the earliest surviving reference to it is from 1422, so perhaps it isn't quite as old as it claims!",
+          "q": [
+            16
+          ],
+          "start": 252.28,
+          "end": 286.91
+        },
+        {
+          "s": "ERICA",
+          "t": "Day three we have a trip to the mountain Snaefell. This begins with a leisurely ride along the promenade in Douglas in a horse-drawn tram. Then you board an electric train which takes you to the fishing village of Laxey. From there it's an eight-kilometre ride in the Snaefell Mountain Railway to the top. Lunch will be in the cafe, giving you spectacular views of the island.",
+          "q": [
+            17
+          ],
+          "start": 287.19,
+          "end": 316.49
+        },
+        {
+          "s": "ERICA",
+          "t": "Day four is free for you to explore, using the pass which we'll give you. So you won't have to pay for travel on local transport, or for entrance to the island's heritage sites. Or you might just want to take it easy in Douglas and perhaps do a little light shopping.",
+          "q": [
+            18
+          ],
+          "start": 318.35,
+          "end": 335.25
+        },
+        {
+          "s": "ERICA",
+          "t": "The last full day, day five, is for some people the highlight of the holiday, with a ride on the steam railway, from Douglas to Port Erin.",
+          "q": [
+            19
+          ],
+          "start": 336.72,
+          "end": 347.28
+        },
+        {
+          "s": "ERICA",
+          "t": "After some time to explore, a coach will take you to the headland that overlooks the Calf of Man, a small island just off the coast. From there you continue to Castletown, which used to be the capital of the Isle of Man, and its mediaeval castle.",
+          "q": [
+            20
+          ],
+          "start": 348.54,
+          "end": 364.86
+        },
+        {
+          "s": "ERICA",
+          "t": "And on day six it's back to the ferry – or the airport, if you flew to the island – and time to go home. Now I'd like to tell you ...",
+          "start": 366.46,
+          "end": 376.76
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c15/t1p3.mp3",
+      "duration": 433,
+      "title": "Birth order and personality",
+      "groups": [
+        {
+          "range": [
+            21,
+            26
+          ],
+          "type": "matching",
+          "instruction": "What did findings of previous research claim about the personality traits a child is likely to have because of their position in the family?",
+          "limit": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 21-26.",
+          "optionsTitle": "Personality Traits",
+          "options": [
+            {
+              "k": "A",
+              "text": "outgoing"
+            },
+            {
+              "k": "B",
+              "text": "selfish"
+            },
+            {
+              "k": "C",
+              "text": "independent"
+            },
+            {
+              "k": "D",
+              "text": "attention-seeking"
+            },
+            {
+              "k": "E",
+              "text": "introverted"
+            },
+            {
+              "k": "F",
+              "text": "co-operative"
+            },
+            {
+              "k": "G",
+              "text": "caring"
+            },
+            {
+              "k": "H",
+              "text": "competitive"
+            }
+          ],
+          "itemsTitle": "Position in family",
+          "items": [
+            {
+              "n": 21,
+              "text": "the eldest child"
+            },
+            {
+              "n": 22,
+              "text": "a middle child"
+            },
+            {
+              "n": 23,
+              "text": "the youngest child"
+            },
+            {
+              "n": 24,
+              "text": "a twin"
+            },
+            {
+              "n": 25,
+              "text": "an only child"
+            },
+            {
+              "n": 26,
+              "text": "a child with much older siblings"
+            }
+          ]
+        },
+        {
+          "range": [
+            27,
+            28
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 27,
+              "text": "What do the speakers say about the evidence relating to birth order and academic success?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "There is conflicting evidence about whether oldest children perform best in intelligence tests."
+                },
+                {
+                  "k": "B",
+                  "text": "There is little doubt that birth order has less influence on academic achievement than socio-economic status."
+                },
+                {
+                  "k": "C",
+                  "text": "Some studies have neglected to include important factors such as family size."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "What does Ruth think is surprising about the difference in oldest children's academic performance?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It is mainly thanks to their roles as teachers for their younger siblings."
+                },
+                {
+                  "k": "B",
+                  "text": "The advantages they have only lead to a slightly higher level of achievement."
+                },
+                {
+                  "k": "C",
+                  "text": "The extra parental attention they receive at a young age makes little difference."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            29,
+            30
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO experiences of sibling rivalry do the speakers agree has been valuable for them?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "learning to share"
+            },
+            {
+              "k": "B",
+              "text": "learning to stand up for oneself"
+            },
+            {
+              "k": "C",
+              "text": "learning to be a good loser"
+            },
+            {
+              "k": "D",
+              "text": "learning to be tolerant"
+            },
+            {
+              "k": "E",
+              "text": "learning to say sorry"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "RUTH",
+          "t": "Ed, how are you getting on with the reading for our presentation next week?",
+          "start": 55.12,
+          "end": 58.44
+        },
+        {
+          "s": "ED",
+          "t": "Well, OK, Ruth – but there's so much of it.",
+          "start": 58.64,
+          "end": 61.84
+        },
+        {
+          "s": "RUTH",
+          "t": "I know, I hadn't realised birth order was such a popular area of research.",
+          "start": 62.28,
+          "end": 67.16
+        },
+        {
+          "s": "ED",
+          "t": "But the stuff on birth order and personality is mostly unreliable. From what I've been reading a lot of the claims about how your position in the family determines certain personality traits are just stereotypes, with no robust evidence to support them.",
+          "start": 67.74,
+          "end": 83.04
+        },
+        {
+          "s": "RUTH",
+          "t": "OK, but that's an interesting point – we could start by outlining what previous research has shown. There are studies going back over a hundred years.",
+          "start": 83.04,
+          "end": 92.98
+        },
+        {
+          "s": "ED",
+          "t": "Yeah – so we could just run through some of the typical traits. Like the consensus seems to be that oldest children are generally less well-adjusted because they never get over the arrival of a younger sibling.",
+          "start": 93.22,
+          "end": 105.83
+        },
+        {
+          "s": "RUTH",
+          "t": "Right, but on a positive note, some studies claimed that they were thought to be good at nurturing – certainly in the past when people had large families they would have been expected to look after the younger ones.",
+          "q": [
+            21
+          ],
+          "start": 105.91,
+          "end": 118.1
+        },
+        {
+          "s": "ED",
+          "t": "There isn't such a clear picture for middle children – but one trait that a lot of the studies mention is that they are easier to get on with than older or younger siblings.",
+          "start": 118.34,
+          "end": 128.17
+        },
+        {
+          "s": "RUTH",
+          "t": "Generally eager to please and helpful – although that's certainly not accurate as far as my family goes – my middle brother was a nightmare – always causing fights and envious of whatever I had.",
+          "q": [
+            22
+          ],
+          "start": 129.01,
+          "end": 141.07
+        },
+        {
+          "s": "ED",
+          "t": "As I said – none of this seems to relate to my own experience. I'm the youngest in my family and I don't recognise myself in any of the studies I've read about. I'm supposed to have been a sociable and confident child who made friends easily – but I was actually terribly shy.",
+          "q": [
+            23
+          ],
+          "start": 141.19,
+          "end": 158.71
+        },
+        {
+          "s": "RUTH",
+          "t": "Really? That's funny. There have been hundreds of studies on twins but mostly about nurture versus nature ...",
+          "start": 159.19,
+          "end": 165.99
+        },
+        {
+          "s": "ED",
+          "t": "There was one on personality, which said that a twin is likely to be quite shy in social situations because they always have their twin around to depend on for support.",
+          "q": [
+            24
+          ],
+          "start": 166.92,
+          "end": 177.0
+        },
+        {
+          "s": "RUTH",
+          "t": "My cousins were like that when they were small – they were only interested in each other and found it hard to engage with other kids. They're fine now though.",
+          "start": 177.73,
+          "end": 186.29
+        },
+        {
+          "s": "ED",
+          "t": "Only children have had a really bad press – a lot of studies have branded them as loners who think the world revolves around them because they've never had to fight for their parents' attention.",
+          "q": [
+            25
+          ],
+          "start": 187.13,
+          "end": 197.56
+        },
+        {
+          "s": "RUTH",
+          "t": "That does seem a bit harsh. One category I hadn't considered before was children with much older siblings – a couple of studies mentioned that these children grow up more quickly and are expected to do basic things for themselves – like getting dressed.",
+          "q": [
+            26
+          ],
+          "start": 198.32,
+          "end": 213.36
+        },
+        {
+          "s": "ED",
+          "t": "I can see how that might be true – although I expect they're sometimes the exact opposite – playing the baby role and clamouring for special treatment.",
+          "start": 213.68,
+          "end": 223.04
+        },
+        {
+          "s": "RUTH",
+          "t": "What was the problem with most of these studies, do you think?",
+          "start": 265.95,
+          "end": 268.63
+        },
+        {
+          "s": "ED",
+          "t": "I think it was because in a lot of cases data was collected from only one sibling per family, who rated him or herself and his or her siblings at the same time.",
+          "start": 268.71,
+          "end": 280.77
+        },
+        {
+          "s": "RUTH",
+          "t": "Mmm. Some of the old research into the relationship between birth order and academic achievement has been proved to be accurate though. Performances in intelligence tests decline slightly from the eldest child to his or her younger siblings. This has been proved in lots of recent studies.",
+          "start": 282.49,
+          "end": 300.25
+        },
+        {
+          "s": "ED",
+          "t": "Yes. Although what many of them didn't take into consideration was family size. The more siblings there are, the likelier the family is to have a low socio-economic status – which can also account for differences between siblings in academic performance.",
+          "q": [
+            27
+          ],
+          "start": 300.53,
+          "end": 316.22
+        },
+        {
+          "s": "RUTH",
+          "t": "The oldest boy might be given more opportunities than his younger sisters, for example.",
+          "start": 316.8,
+          "end": 321.12
+        },
+        {
+          "s": "ED",
+          "t": "Exactly.",
+          "start": 321.12,
+          "end": 321.68
+        },
+        {
+          "s": "RUTH",
+          "t": "But the main reason for the marginally higher academic performance of oldest children is quite surprising, I think. It's not only that they benefit intellectually from extra attention at a young age – which is what I would have expected. It's that they benefit from being teachers for their younger siblings, by explaining things to them.",
+          "q": [
+            28
+          ],
+          "start": 322.04,
+          "end": 341.22
+        },
+        {
+          "s": "ED",
+          "t": "Right, and this gives them status and confidence, which again contribute, in a small way, to better performance.",
+          "start": 342.66,
+          "end": 350.61
+        },
+        {
+          "s": "RUTH",
+          "t": "So would you say sibling rivalry has been a useful thing for you?",
+          "start": 350.89,
+          "end": 355.49
+        },
+        {
+          "s": "RUTH",
+          "t": "I think so – my younger brother was incredibly annoying and we fought a lot but I think this has made me a stronger person. I know how to defend myself. We had some terrible arguments and I would have died rather than apologise to him – but we had to put up with each other and most of the time we co-existed amicably enough.",
+          "q": [
+            29,
+            30
+          ],
+          "start": 356.07,
+          "end": 377.06
+        },
+        {
+          "s": "ED",
+          "t": "Yes, my situation was pretty similar. But I don't think having two older brothers made me any less selfish – I was never prepared to let my brothers use any of my stuff ...",
+          "start": 377.84,
+          "end": 388.64
+        },
+        {
+          "s": "RUTH",
+          "t": "That's perfectly normal, whereas ...",
+          "start": 389.19,
+          "end": 391.15
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c15/t1p4.mp3",
+      "duration": 547,
+      "title": "The Eucalyptus Tree in Australia",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "The Eucalyptus Tree in Australia",
+          "lines": [
+            "## Importance",
+            "it provides {{31}} and food for a wide range of species",
+            "its leaves provide {{32}} which is used to make a disinfectant",
+            "## Reasons for present decline in number",
+            "## A) Diseases",
+            "(i) 'Mundulla Yellows'",
+            "Cause – lime used for making {{33}} was absorbed",
+            "trees were unable to take in necessary iron through their roots",
+            "(ii) 'Bell-miner Associated Die-back'",
+            "Cause – {{34}} feed on eucalyptus leaves",
+            "they secrete a substance containing sugar",
+            "bell-miner birds are attracted by this and keep away other species",
+            "## B) Bushfires",
+            "William Jackson's theory:",
+            "high-frequency bushfires have impact on vegetation, resulting in the growth of {{35}}",
+            "mid-frequency bushfires result in the growth of eucalyptus forests, because they:",
+            "- make more {{36}} available to the trees",
+            "- maintain the quality of the {{37}}",
+            "low-frequency bushfires result in the growth of '{{38}} rainforest', which is:",
+            "- a {{39}} ecosystem",
+            "- an ideal environment for the {{40}} of the bell-miner"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LECTURER",
+          "t": "Today I'm going to talk about the eucalyptus tree. This is a very common tree here in Australia, where it's also sometimes called the gum tree. First I'm going to talk about why it's important, then I'm going to describe some problems it faces at present.",
+          "start": 90.07,
+          "end": 109.26
+        },
+        {
+          "s": "LECTURER",
+          "t": "Right, well the eucalyptus tree is an important tree for lots of reasons. For example, it gives shelter to creatures like birds and bats, and these and other species also depend on it for food, particularly the nectar from its flowers. So it supports biodiversity.",
+          "q": [
+            31
+          ],
+          "start": 110.97,
+          "end": 133.0
+        },
+        {
+          "s": "LECTURER",
+          "t": "It's useful to us humans too, because we can kill germs with a disinfectant made from oil extracted from eucalyptus leaves.",
+          "q": [
+            32
+          ],
+          "start": 134.32,
+          "end": 144.04
+        },
+        {
+          "s": "LECTURER",
+          "t": "The eucalyptus grows all over Australia and the trees can live for up to four hundred years. So it's alarming that all across the country, numbers of eucalyptus are falling because the trees are dying off prematurely. So what are the reasons for this?",
+          "start": 145.9,
+          "end": 165.91
+        },
+        {
+          "s": "LECTURER",
+          "t": "One possible reason is disease. As far back as the 1970s the trees started getting a disease called Mundulla Yellows. The trees' leaves would gradually turn yellow, then the tree would die. It wasn't until 2004 that they found the cause of the problem was lime, or calcium hydroxide to give it its proper chemical name, which was being used in the construction of roads. The lime was being washed away into the ground and affecting the roots of the eucalyptus trees nearby. What it was doing was preventing the trees from sucking up the iron they needed for healthy growth. When this was injected back into the affected trees, they immediately recovered.",
+          "q": [
+            33
+          ],
+          "start": 167.35,
+          "end": 219.7
+        },
+        {
+          "s": "LECTURER",
+          "t": "But this problem only affected a relatively small number of trees. By 2000, huge numbers of eucalyptus were dying along Australia's East Coast, of a disease known as Bell-miner Associated Die-back. The bell-miner is a bird and the disease seems to be common where there are high populations of bell-miners. Again it's the leaves of the trees that are affected. What happens is that insects settle on the leaves and eat their way round them, destroying them as they go, and at the same time they secrete a solution which has sugar in it. The bell-miner birds really like this solution, and in order to get as much as possible, they keep away other creatures that might try to get it. So these birds and insects flourish at the expense of other species, and eventually so much damage is done to the leaves that the tree dies.",
+          "q": [
+            34
+          ],
+          "start": 221.66,
+          "end": 287.04
+        },
+        {
+          "s": "LECTURER",
+          "t": "But experts say that trees can start looking sick before any sign of Bell-miner Associated Die-back. So it looks as if the problem might have another explanation. One possibility is that it's to do with the huge bushfires that we have in Australia. A theory proposed over 40 years ago by ecologist William Jackson is that the frequency of bushfires in a particular region affects the type of vegetation that grows there. If there are very frequent bushfires in a region, this encourages grass to grow afterwards, while if the bushfires are rather less frequent, this results in the growth of eucalyptus forests.",
+          "q": [
+            35
+          ],
+          "start": 292.68,
+          "end": 341.61
+        },
+        {
+          "s": "LECTURER",
+          "t": "So why is this? Why do fairly frequent bushfires actually support the growth of eucalyptus? Well, one reason is that the fire stops the growth of other species which would consume water needed by eucalyptus trees.",
+          "q": [
+            36
+          ],
+          "start": 342.89,
+          "end": 362.06
+        },
+        {
+          "s": "LECTURER",
+          "t": "And there's another reason. If these other quick-growing species of bushes and plants are allowed to proliferate, they harm the eucalyptus in another way, by affecting the composition of the soil, and removing nutrients from it. So some bushfires are actually essential for the eucalyptus to survive as long as they are not too frequent.",
+          "q": [
+            37
+          ],
+          "start": 363.86,
+          "end": 389.55
+        },
+        {
+          "s": "LECTURER",
+          "t": "In fact there's evidence that Australia's indigenous people practised regular burning of bush land for thousands of years before the arrival of the Europeans.",
+          "start": 390.87,
+          "end": 400.89
+        },
+        {
+          "s": "LECTURER",
+          "t": "But since Europeans arrived on the continent, the number of bushfires has been strictly controlled. Now scientists believe that this reduced frequency of bushfires to low levels has led to what's known as 'dry rainforest', which seems an odd name as usually we associate tropical rainforest with wet conditions.",
+          "q": [
+            38
+          ],
+          "start": 402.53,
+          "end": 425.76
+        },
+        {
+          "s": "LECTURER",
+          "t": "And what's special about this type of rainforest? Well, unlike tropical rainforest which is a rich ecosystem, this type of ecosystem is usually a simple one. It has very thick, dense vegetation, but not much variety of species.",
+          "q": [
+            39
+          ],
+          "start": 427.64,
+          "end": 446.25
+        },
+        {
+          "s": "LECTURER",
+          "t": "The vegetation provides lots of shade, so one species that does find it ideal is the bell-miner bird, which builds its nest in the undergrowth there. But again that's not helpful for the eucalyptus tree.",
+          "q": [
+            40
+          ],
+          "start": 447.45,
+          "end": 463.09
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "Jamieson"
+    ],
+    "2": [
+      "afternoon"
+    ],
+    "3": [
+      "communication"
+    ],
+    "4": [
+      "week"
+    ],
+    "5": [
+      "10",
+      "ten"
+    ],
+    "6": [
+      "suit"
+    ],
+    "7": [
+      "passport"
+    ],
+    "8": [
+      "personality"
+    ],
+    "9": [
+      "feedback"
+    ],
+    "10": [
+      "time"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "B"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "river"
+    ],
+    "16": [
+      "1422"
+    ],
+    "17": [
+      "top"
+    ],
+    "18": [
+      "pass"
+    ],
+    "19": [
+      "steam"
+    ],
+    "20": [
+      "capital"
+    ],
+    "21": [
+      "G"
+    ],
+    "22": [
+      "F"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "E"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "C"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "B",
+      "D"
+    ],
+    "30": [
+      "B",
+      "D"
+    ],
+    "31": [
+      "shelter"
+    ],
+    "32": [
+      "oil"
+    ],
+    "33": [
+      "roads"
+    ],
+    "34": [
+      "insects"
+    ],
+    "35": [
+      "grass",
+      "grasses"
+    ],
+    "36": [
+      "water"
+    ],
+    "37": [
+      "soil"
+    ],
+    "38": [
+      "dry"
+    ],
+    "39": [
+      "simple"
+    ],
+    "40": [
+      "nest",
+      "nests"
+    ]
+  }
+}
