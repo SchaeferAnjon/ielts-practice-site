@@ -1,0 +1,1721 @@
+{
+  "id": "c5t4",
+  "book": "剑桥雅思5",
+  "test": 4,
+  "title": "剑5 Test 4 · Listening",
+  "answers": {
+    "1": [
+      "14 Hill Road"
+    ],
+    "2": [
+      "between 9 and 9.30",
+      "9-9.30",
+      "9 to 9.30",
+      "between 9 and 9:30"
+    ],
+    "3": [
+      "1 year",
+      "a year",
+      "one year"
+    ],
+    "4": [
+      "intermediate"
+    ],
+    "5": [
+      "north-west",
+      "North-West",
+      "the north-west"
+    ],
+    "6": [
+      "vegetarian"
+    ],
+    "7": [
+      "a real garden",
+      "real garden",
+      "garden",
+      "a garden"
+    ],
+    "8": [
+      "the only guest",
+      "only guest"
+    ],
+    "9": [
+      "100",
+      "£100",
+      "a hundred"
+    ],
+    "10": [
+      "23rd March",
+      "Monday 23rd March",
+      "Monday, 23rd March"
+    ],
+    "11": [
+      "clubhouse"
+    ],
+    "12": [
+      "picnic"
+    ],
+    "13": [
+      "prizes"
+    ],
+    "14": [
+      "10",
+      "ten"
+    ],
+    "15": [
+      "Wednesday afternoon",
+      "Wednesday afternoons"
+    ],
+    "16": [
+      "4",
+      "four"
+    ],
+    "17": [
+      "Sunday afternoon",
+      "Sunday afternoons"
+    ],
+    "18": [
+      "collect the fees",
+      "collect fees",
+      "collect the money",
+      "collect money"
+    ],
+    "19": [
+      "send out newsletters",
+      "send out the newsletters",
+      "send the newsletters",
+      "send newsletters",
+      "send out newsletter",
+      "send the newsletter"
+    ],
+    "20": [
+      "supervise the teams",
+      "supervise teams"
+    ],
+    "21": [
+      "sales"
+    ],
+    "22": [
+      "competition"
+    ],
+    "23": [
+      "interest rates",
+      "rates of interest"
+    ],
+    "24": [
+      "training"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "B"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "D"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "A"
+    ],
+    "33": [
+      "A"
+    ],
+    "34": [
+      "C"
+    ],
+    "35": [
+      "A"
+    ],
+    "36": [
+      "B"
+    ],
+    "37": [
+      "B"
+    ],
+    "38": [
+      "A"
+    ],
+    "39": [
+      "B"
+    ],
+    "40": [
+      "C"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c5/t4p1.mp3",
+      "duration": 448,
+      "title": "Host Family Application",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the form below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR NUMBERS for each answer.",
+          "title": "HOST FAMILY APPLICANT",
+          "table": {
+            "head": [
+              "",
+              "Answer"
+            ],
+            "rows": [
+              [
+                "Name:",
+                "Jenny Chan (example)"
+              ],
+              [
+                "Present address:",
+                "Sea View Guest House, {{1}}"
+              ],
+              [
+                "Daytime phone number:",
+                "2237676\n(NB Best time to contact is {{2}})"
+              ],
+              [
+                "Age:",
+                "19"
+              ],
+              [
+                "Intended length of stay:",
+                "{{3}}"
+              ],
+              [
+                "Occupation while in UK:",
+                "student"
+              ],
+              [
+                "General level of English:",
+                "{{4}}"
+              ],
+              [
+                "Preferred location:",
+                "in the {{5}}"
+              ],
+              [
+                "Special diet:",
+                "{{6}}"
+              ],
+              [
+                "Other requirements:",
+                "own facilities\nown television\n{{7}}\nto be {{8}}"
+              ],
+              [
+                "Maximum price:",
+                "£{{9}} a week"
+              ],
+              [
+                "Preferred starting date:",
+                "{{10}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "ADVISER",
+          "t": "Good morning, how can I help you?",
+          "start": 81.91,
+          "end": 83.59
+        },
+        {
+          "s": "STUDENT",
+          "t": "Good morning.",
+          "start": 84.07,
+          "end": 84.47
+        },
+        {
+          "s": "STUDENT",
+          "t": "Umm, I understand you help fix up students with host families.",
+          "start": 85.91,
+          "end": 89.75
+        },
+        {
+          "s": "ADVISER",
+          "t": "That's right ... are you interested in ... ?",
+          "start": 90.47,
+          "end": 92.99
+        },
+        {
+          "s": "STUDENT",
+          "t": "Yes . ..",
+          "start": 93.19,
+          "end": 93.51
+        },
+        {
+          "s": "ADVISER",
+          "t": "Well please sit down and I'll just take a few details.",
+          "start": 94.31,
+          "end": 97.23
+        },
+        {
+          "s": "STUDENT",
+          "t": "Thank you.",
+          "start": 97.51,
+          "end": 98.39
+        },
+        {
+          "s": "ADVISER",
+          "t": "Right now .. . what name is it?",
+          "start": 98.75,
+          "end": 101.39
+        },
+        {
+          "s": "STUDENT",
+          "t": "Jenny Chan .",
+          "start": 101.75,
+          "end": 102.67
+        },
+        {
+          "s": "ADVISER",
+          "t": "Can you spell that please?",
+          "start": 103.15,
+          "end": 104.35
+        },
+        {
+          "s": "STUDENT",
+          "t": "Yes . ..",
+          "start": 104.63,
+          "end": 105.15
+        },
+        {
+          "s": "STUDENT",
+          "t": "J-E-N-N-Y C-H-A-N .",
+          "start": 168.2,
+          "end": 174.55
+        },
+        {
+          "s": "ADVISER",
+          "t": "Right ... and what is your present address?",
+          "start": 175.43,
+          "end": 177.59
+        },
+        {
+          "s": "STUDENT",
+          "t": "Sea View Guest House, 14 Hill Road.",
+          "q": [
+            1
+          ],
+          "start": 177.99,
+          "end": 181.87
+        },
+        {
+          "s": "ADVISER",
+          "t": "OK, and do you know the phone number there?",
+          "start": 182.19,
+          "end": 185.37
+        },
+        {
+          "s": "STUDENT",
+          "t": "Yes . ..",
+          "start": 185.37,
+          "end": 186.37
+        },
+        {
+          "s": "STUDENT",
+          "t": "I have it here, ummm .. . 2237676, but I'm only there after about 7 pm.",
+          "start": 186.93,
+          "end": 198.27
+        },
+        {
+          "s": "ADVISER",
+          "t": "So when would be the best time to catch you?",
+          "start": 199.31,
+          "end": 201.55
+        },
+        {
+          "s": "STUDENT",
+          "t": "I suppose between 9 and. let me see. half-past, before I leave for the college.",
+          "q": [
+            2
+          ],
+          "start": 202.38,
+          "end": 209.66
+        },
+        {
+          "s": "ADVISER",
+          "t": "Great ... and can I ask you your age?",
+          "start": 210.86,
+          "end": 213.5
+        },
+        {
+          "s": "STUDENT",
+          "t": "I've just had my nineteenth birthday.",
+          "start": 214.4,
+          "end": 216.4
+        },
+        {
+          "s": "ADVISER",
+          "t": "And how long would you want to stay with the host family?",
+          "start": 217.12,
+          "end": 219.96
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'm planning on staying a year but at the moment I'm definitely here for four months only.",
+          "q": [
+            3
+          ],
+          "start": 221.0,
+          "end": 226.76
+        },
+        {
+          "s": "STUDENT",
+          "t": "I have to get an extension to my permit.",
+          "start": 227.6,
+          "end": 229.68
+        },
+        {
+          "s": "ADVISER",
+          "t": "You're working on it?",
+          "start": 230.6,
+          "end": 231.36
+        },
+        {
+          "s": "ADVISER",
+          "t": "Fine ... and what will be your occupation while you're in the UK?",
+          "start": 231.76,
+          "end": 237.28
+        },
+        {
+          "s": "STUDENT",
+          "t": "Studying English?",
+          "start": 237.48,
+          "end": 238.16
+        },
+        {
+          "s": "ADVISER",
+          "t": "And what would you say your level of English is?",
+          "start": 238.92,
+          "end": 241.4
+        },
+        {
+          "s": "STUDENT",
+          "t": "Umm.",
+          "start": 241.4,
+          "end": 241.4,
+          "estimated": true
+        },
+        {
+          "s": "ADVISER",
+          "t": "Good, I think I'd like to say 'advanced' but my written work is below the level of my spoken, so I suppose it's intermediate.",
+          "q": [
+            4
+          ],
+          "start": 243.76,
+          "end": 254.45
+        },
+        {
+          "s": "ADVISER",
+          "t": "Certainly your spoken English is advanced.",
+          "start": 254.73,
+          "end": 256.97
+        },
+        {
+          "s": "ADVISER",
+          "t": "Anyway, which area do you think you would prefer?",
+          "start": 257.29,
+          "end": 260.65
+        },
+        {
+          "s": "STUDENT",
+          "t": "Ummm, well I'm studying right in the centre but I'd really like to live in the north-west.",
+          "q": [
+            5
+          ],
+          "start": 263.07,
+          "end": 268.19
+        },
+        {
+          "s": "ADVISER",
+          "t": "That shouldn't be a great problem . .. we usually have lots of families up there.",
+          "start": 269.47,
+          "end": 273.47
+        },
+        {
+          "s": "ADVISER",
+          "t": "And do you have any particular requirements for diet?",
+          "start": 311.62,
+          "end": 314.38
+        },
+        {
+          "s": "STUDENT",
+          "t": "Well, I'm nearly a vegetarian .. . not quite.",
+          "q": [
+            6
+          ],
+          "start": 314.86,
+          "end": 318.62
+        },
+        {
+          "s": "ADVISER",
+          "t": "Shall I say you are?",
+          "start": 319.02,
+          "end": 320.46
+        },
+        {
+          "s": "ADVISER",
+          "t": "It's probably easier that way.",
+          "start": 320.54,
+          "end": 322.1
+        },
+        {
+          "s": "STUDENT",
+          "t": "That would be best.",
+          "start": 322.18,
+          "end": 323.26
+        },
+        {
+          "s": "ADVISER",
+          "t": "Anything about your actual room?",
+          "start": 324.23,
+          "end": 325.95
+        },
+        {
+          "s": "STUDENT",
+          "t": "I would prefer my own facilities - 'en suite', is that right?",
+          "start": 327.51,
+          "end": 332.63
+        },
+        {
+          "s": "STUDENT",
+          "t": "And also if it's possible a TV and I'd also like the house to have a real garden rather than just a yard, somewhere I could sit and be peaceful.",
+          "q": [
+            7
+          ],
+          "start": 333.31,
+          "end": 344.81
+        },
+        {
+          "s": "ADVISER",
+          "t": "Is that all?",
+          "start": 345.41,
+          "end": 346.05
+        },
+        {
+          "s": "STUDENT",
+          "t": "Well ...",
+          "start": 347.25,
+          "end": 347.41
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'm really serious about improving my English so I'd prefer to be the only guest if that's possible?",
+          "q": [
+            8
+          ],
+          "start": 348.69,
+          "end": 355.89
+        },
+        {
+          "s": "ADVISER",
+          "t": "No other guests . ..",
+          "start": 356.69,
+          "end": 357.37
+        },
+        {
+          "s": "ADVISER",
+          "t": "Yes, you get more practice that way.",
+          "start": 358.04,
+          "end": 359.88
+        },
+        {
+          "s": "ADVISER",
+          "t": "Anyway, obviously all this is partly dependent on how much you're willing to pay.",
+          "start": 360.2,
+          "end": 365.2
+        },
+        {
+          "s": "ADVISER",
+          "t": "What did you have in mind?",
+          "start": 366.12,
+          "end": 367.0
+        },
+        {
+          "s": "STUDENT",
+          "t": "I was thinking in terms of about £60-£80 a week, but I'd go up to a hundred if it was something special.",
+          "q": [
+            9
+          ],
+          "start": 367.8,
+          "end": 375.97
+        },
+        {
+          "s": "ADVISER",
+          "t": "Well I don't think we'd have any problems finding something for you.",
+          "start": 376.37,
+          "end": 379.73
+        },
+        {
+          "s": "STUDENT",
+          "t": "Oh, good.",
+          "start": 379.77,
+          "end": 380.77
+        },
+        {
+          "s": "ADVISER",
+          "t": "And when would you want it for?",
+          "start": 381.6,
+          "end": 383.0
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'd like to move in approximately two weeks.",
+          "start": 383.8,
+          "end": 386.96
+        },
+        {
+          "s": "ADVISER",
+          "t": "Let me see, it's the 10th today ... so if we go for the Monday it's the 23rd March.",
+          "q": [
+            10
+          ],
+          "start": 387.72,
+          "end": 395.24
+        },
+        {
+          "s": "STUDENT",
+          "t": "Yes.",
+          "start": 395.79,
+          "end": 396.15
+        },
+        {
+          "s": "ADVISER",
+          "t": "Right ... good, and if I could ask one last question . ..",
+          "start": 396.91,
+          "end": 401.43
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c5/t4p2.mp3",
+      "duration": 316,
+      "title": "Soccer Club Meeting",
+      "groups": [
+        {
+          "range": [
+            11,
+            13
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "lines": [
+            "11   The next meeting of the soccer club will be in the {{11}} in King's Park on 2 July.",
+            "12   The first event is a {{12}}.",
+            "13   At the final dinner, players receive {{13}}."
+          ]
+        },
+        {
+          "range": [
+            14,
+            17
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "table": {
+            "head": [
+              "Competition",
+              "Number of Teams",
+              "Games Begin",
+              "Training Session (in King's Park)"
+            ],
+            "rows": [
+              [
+                "Junior",
+                "{{14}}",
+                "8.30 am",
+                "{{15}}"
+              ],
+              [
+                "Senior",
+                "{{16}}",
+                "2.00 pm",
+                "{{17}}"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            18,
+            20
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS for each answer",
+          "table": {
+            "head": [
+              "Name of Office Bearer",
+              "Responsibility"
+            ],
+            "rows": [
+              [
+                "Robert Young: President",
+                "to manage meetings"
+              ],
+              [
+                "Gina Costello: Treasurer",
+                "to {{18}}"
+              ],
+              [
+                "David West: Secretary",
+                "to {{19}}"
+              ],
+              [
+                "Jason Dokic: Head Coach",
+                "to {{20}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good evening everyone and thank you for coming to the Soccer Club meeting.",
+          "start": 42.58,
+          "end": 46.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's good to see so many parents and children here tonight, and I know you are looking forward to a great football season.",
+          "start": 47.26,
+          "end": 53.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now I'd like to take a few minutes to tell you about some changes to the Soccer Club for the coming season.",
+          "start": 54.77,
+          "end": 60.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, this season we'll be playing all our matches for both the junior and senior competitions at King's Park, instead of Royal Park, which was used last season.",
+          "start": 62.09,
+          "end": 72.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now for meetings, we're going to use the clubhouse in King's Park, and the next meeting will be held in the clubhouse on the 2nd of July.",
+          "q": [
+            11
+          ],
+          "start": 73.21,
+          "end": 82.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As usual, we hope to begin the season with a picnic next Saturday at the clubhouse.",
+          "q": [
+            12
+          ],
+          "start": 83.71,
+          "end": 88.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Please try and come to the picnic as it's always good fun.",
+          "start": 89.35,
+          "end": 92.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The last week of the season we usually have a dinner and presentation of prizes to the players, and more information about this will be given to you later in the season.",
+          "q": [
+            13
+          ],
+          "start": 92.95,
+          "end": 102.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This season we have more teams than ever.",
+          "start": 104.07,
+          "end": 106.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We hope to have ten teams, instead of five, in the junior competition and they will play on Saturday mornings, beginning at 8.30 a.m.",
+          "q": [
+            14
+          ],
+          "start": 106.71,
+          "end": 115.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Training sessions will be held in King's Park on Wednesday afternoons for the juniors and they will be wearing red shirts again this year.",
+          "q": [
+            15
+          ],
+          "start": 116.3,
+          "end": 124.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the senior competition, there'll be four teams, the same as last year, and their games will be played on Saturday afternoons starting at 2.30, no sorry, it will be a 2 o'clock start, and the training session for seniors is planned for Sunday afternoons.",
+          "q": [
+            16,
+            17
+          ],
+          "start": 125.94,
+          "end": 144.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now I'd like to introduce you to the new committee for the Soccer Club for this season.",
+          "start": 182.01,
+          "end": 186.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Firstly, let me welcome Robert Young, the new President, who will manage the meetings for the next two years.",
+          "start": 187.65,
+          "end": 194.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Robert's son has been playing football with the club for over five years now, and many thanks to Robert for taking on the job of President.",
+          "start": 195.11,
+          "end": 202.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Next we have Gina Costello, she's the treasurer, and she will collect the fees from you for the season.",
+          "q": [
+            18
+          ],
+          "start": 203.31,
+          "end": 211.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Please try and give Gina your fees as early as possible in the season, as the club needs the money to buy some new equipment.",
+          "start": 212.27,
+          "end": 218.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then there's David West who has volunteered to be the club secretary, and one of the many jobs he will have is to send out newsletters to you regularly.",
+          "q": [
+            19
+          ],
+          "start": 220.31,
+          "end": 229.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you have any information that may be useful, please let David know so that it can be included in these newsletters.",
+          "start": 230.42,
+          "end": 236.86
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Also I'd like to introduce you to Jason Dokic who is the Head Coach.",
+          "start": 237.02,
+          "end": 243.46
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For all the new members here tonight, this is the third year that Jason has been with us as Head Coach, and we are very lucky to have such an experienced coach and former player at our club.",
+          "start": 244.13,
+          "end": 254.97
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He will continue to supervise the teams, at training sessions and on match days.",
+          "q": [
+            20
+          ],
+          "start": 255.68,
+          "end": 261.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now before we finish and have some refreshments, does anyone have any questions they'd like to ask the new committee?",
+          "start": 262.44,
+          "end": 269.16
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c5/t4p3.mp3",
+      "duration": 416,
+      "title": "Box Telecom Case Study",
+      "groups": [
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS for each answer.",
+          "title": "Box Telecom",
+          "lines": [
+            "Problems: been affected by",
+            "## drop in {{21}}",
+            "## growing {{22}}",
+            "## delays due to a strike",
+            "Causes of problems:",
+            "## high {{23}}",
+            "## lack of good {{24}}"
+          ]
+        },
+        {
+          "range": [
+            25,
+            27
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 25,
+              "text": "What does Karin think the company will do?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "look for private investors"
+                },
+                {
+                  "k": "B",
+                  "text": "accept a takeover offer"
+                },
+                {
+                  "k": "C",
+                  "text": "issue some new shares"
+                }
+              ]
+            },
+            {
+              "n": 26,
+              "text": "How does the tutor suggest the company can recover?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "by appointing a new managing director"
+                },
+                {
+                  "k": "B",
+                  "text": "by changing the way it is organised"
+                },
+                {
+                  "k": "C",
+                  "text": "by closing some of its retail outlets"
+                }
+              ]
+            },
+            {
+              "n": 27,
+              "text": "The tutor wants Jason and Karin to produce a report which",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "offers solutions to Box Telecom's problems."
+                },
+                {
+                  "k": "B",
+                  "text": "analyses the UK market."
+                },
+                {
+                  "k": "C",
+                  "text": "compares different companies."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            28,
+            30
+          ],
+          "type": "matching",
+          "instruction": "Which opinion does each person express about Box Telecom?",
+          "limit": "Choose your answers from the box and write the letters A-F next to questions 28-30.",
+          "optionsTitle": "Opinions",
+          "options": [
+            {
+              "k": "A",
+              "text": "its workers are motivated"
+            },
+            {
+              "k": "B",
+              "text": "it has too little investment"
+            },
+            {
+              "k": "C",
+              "text": "it will overcome its problems"
+            },
+            {
+              "k": "D",
+              "text": "its marketing campaign needs improvement"
+            },
+            {
+              "k": "E",
+              "text": "it is old-fashioned"
+            },
+            {
+              "k": "F",
+              "text": "it has strong managers"
+            }
+          ],
+          "itemsTitle": "People",
+          "items": [
+            {
+              "n": 28,
+              "text": "Karin"
+            },
+            {
+              "n": 29,
+              "text": "Jason"
+            },
+            {
+              "n": 30,
+              "text": "the tutor"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TUTOR",
+          "t": "Right, Jason and Karin, now I asked you to look at the case study for Box Telecom as part of your exam assessment.",
+          "start": 41.74,
+          "end": 49.34
+        },
+        {
+          "s": "TUTOR",
+          "t": "It's interesting because they are in the middle of problems at the moment and I want you to track how they deal with them.",
+          "start": 50.38,
+          "end": 56.5
+        },
+        {
+          "s": "TUTOR",
+          "t": "Let's start with you, Karin.",
+          "start": 57.79,
+          "end": 58.79
+        },
+        {
+          "s": "TUTOR",
+          "t": "Having read through the case study, can you just summarise what the problems were that Box Telecom had to take on board?",
+          "start": 59.31,
+          "end": 66.99
+        },
+        {
+          "s": "KARIN",
+          "t": "Um, yeah ... Well of course what first came to their attention was that, despite a new advertising campaign, they were suffering from falling sales - and this is something that had many causes.",
+          "q": [
+            21
+          ],
+          "start": 67.83,
+          "end": 80.4
+        },
+        {
+          "s": "KARIN",
+          "t": "On top of that immediate problem, what had also happened over the last two years was that, although they had invested in an expansion plan, they had to face up to increased competition.",
+          "start": 81.28,
+          "end": 91.56
+        },
+        {
+          "s": "KARIN",
+          "t": "And, before they had a chance to get to grips with the effects of that, they were stalled by a strike and it was just when they were thinking about making a colossal investment in new machinery for their plants.",
+          "q": [
+            22
+          ],
+          "start": 92.59,
+          "end": 103.35
+        },
+        {
+          "s": "KARIN",
+          "t": "So they were really in trouble.",
+          "start": 104.21,
+          "end": 105.53
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, I think that's fair.",
+          "start": 105.89,
+          "end": 107.37
+        },
+        {
+          "s": "TUTOR",
+          "t": "And Jason, you contacted the company, didn't you?",
+          "start": 107.97,
+          "end": 111.97
+        },
+        {
+          "s": "TUTOR",
+          "t": "What did the company define as the reasons for these problems?",
+          "start": 112.45,
+          "end": 115.57
+        },
+        {
+          "s": "JASON",
+          "t": "Well, I think they've hit on the right things- it would be easy to say they had invested too heavily, or at the wrong time, but in fact the signs were good and what they were set back by was high interest rates.",
+          "q": [
+            23
+          ],
+          "start": 116.2,
+          "end": 127.2
+        },
+        {
+          "s": "JASON",
+          "t": "At the same time, their longer-term problems, which were affecting their market share, were eventually credited to poor training - and having looked at the details in their last report I think that's right.",
+          "q": [
+            24
+          ],
+          "start": 128.23,
+          "end": 138.11
+        },
+        {
+          "s": "TUTOR",
+          "t": "So, onto the larger issues then.",
+          "start": 175.64,
+          "end": 177.56
+        },
+        {
+          "s": "TUTOR",
+          "t": "Karin, what do you think the company will do?",
+          "start": 178.92,
+          "end": 180.4
+        },
+        {
+          "s": "KARIN",
+          "t": "Hmm ...",
+          "start": 180.4,
+          "end": 180.4,
+          "estimated": true
+        },
+        {
+          "s": "KARIN",
+          "t": "Well, obviously they have the choice of accepting the very favourable terms that another company- KMG Plc - have given them to buy them out.",
+          "start": 181.92,
+          "end": 192.25
+        },
+        {
+          "s": "KARIN",
+          "t": "That would mean creating a new company with a new image.",
+          "start": 193.05,
+          "end": 195.93
+        },
+        {
+          "s": "KARIN",
+          "t": "Or they could decide on a bolder move and offer some new shares if they wanted.",
+          "start": 196.69,
+          "end": 202.33
+        },
+        {
+          "s": "KARIN",
+          "t": "But I think they're much more cautious than that and expect they will start trying to find individuals who'd be prepared to back them with some of the capital they need.",
+          "q": [
+            25
+          ],
+          "start": 203.94,
+          "end": 212.26
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, you mustn't always assume that dramatic problems require dramatic solutions.",
+          "start": 213.99,
+          "end": 218.75
+        },
+        {
+          "s": "TUTOR",
+          "t": "Sometimes there's a simple fix such as changing the guy at the top.",
+          "start": 218.91,
+          "end": 223.43
+        },
+        {
+          "s": "TUTOR",
+          "t": "If they truly are cautious, then I suspect they will seek to shut down some of their shops.",
+          "start": 224.31,
+          "end": 230.07
+        },
+        {
+          "s": "TUTOR",
+          "t": "But a more ambitious approach , and one which I think would have more chance of success, would be to alter how they're running things - the management layers and the processes.",
+          "q": [
+            26
+          ],
+          "start": 230.79,
+          "end": 241.59
+        },
+        {
+          "s": "TUTOR",
+          "t": "So in your analysis try to think of all the options.",
+          "start": 242.27,
+          "end": 246.23
+        },
+        {
+          "s": "TUTOR",
+          "t": "Jason?",
+          "start": 246.9,
+          "end": 247.34
+        },
+        {
+          "s": "JASON",
+          "t": "Yes, it's interesting because I've found it a really useful company to study.",
+          "start": 248.14,
+          "end": 252.1
+        },
+        {
+          "s": "JASON",
+          "t": "Its problems cross all types of industries and it's lucky it's so big- a smaller or even medium-sized company would have gone under by now.",
+          "start": 253.14,
+          "end": 261.96
+        },
+        {
+          "s": "TUTOR",
+          "t": "Ah well in fact, what I want you two to do is to go away when we've finished our discussion today and write a report.",
+          "start": 262.92,
+          "end": 270.07
+        },
+        {
+          "s": "TUTOR",
+          "t": "We've looked in general at the telecommunications market in the UK over the last few sessions and I want you to take Box Telecom as an example and suggest some ways in which they might overcome their problems.",
+          "q": [
+            27
+          ],
+          "start": 271.15,
+          "end": 284.84
+        },
+        {
+          "s": "TUTOR",
+          "t": "And outline the reasons why you think as you do- but try and keep it intrinsic to the company rather than dragging in other examples.",
+          "start": 285.32,
+          "end": 294.72
+        },
+        {
+          "s": "TUTOR",
+          "t": "Is that OK, Karin?",
+          "start": 295.04,
+          "end": 295.68
+        },
+        {
+          "s": "KARIN",
+          "t": "Yes, I think I can do that.",
+          "start": 297.84,
+          "end": 299.4
+        },
+        {
+          "s": "KARIN",
+          "t": "Personally I've got great hopes for it.",
+          "start": 299.6,
+          "end": 302.48
+        },
+        {
+          "s": "KARIN",
+          "t": "I think it will recover.",
+          "q": [
+            28
+          ],
+          "start": 302.84,
+          "end": 303.76
+        },
+        {
+          "s": "KARIN",
+          "t": "That advertising campaign they did was very strong and they're very innovative with their products- they set new trends.",
+          "start": 304.45,
+          "end": 311.65
+        },
+        {
+          "s": "KARIN",
+          "t": "The company's got to recover, don't you think, Jason?",
+          "start": 312.45,
+          "end": 315.17
+        },
+        {
+          "s": "JASON",
+          "t": "Hmm- I'm not sure.",
+          "start": 315.85,
+          "end": 317.21
+        },
+        {
+          "s": "JASON",
+          "t": "I think it can but it's not a foregone conclusion unless they manage to attract the right level of investment .",
+          "start": 318.09,
+          "end": 323.57
+        },
+        {
+          "s": "JASON",
+          "t": "The company definitely needs a boost and to attract more highly skilled workers if their recovery is to be long-lasting.",
+          "q": [
+            29
+          ],
+          "start": 324.41,
+          "end": 330.35
+        },
+        {
+          "s": "JASON",
+          "t": "When I was talking to the marketing manager he said to me that he thinks the company had got a great management team - but he would say that, wouldn't he?- but they are suffering from having to work with outdated production machinery and that could cost a lot to put right.",
+          "start": 331.47,
+          "end": 345.09
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, personally I think the stock market is to blame.",
+          "start": 345.25,
+          "end": 348.73
+        },
+        {
+          "s": "TUTOR",
+          "t": "I think they were expecting too much of the company and then inevitably it looked bad when it didn't perform.",
+          "start": 349.45,
+          "end": 354.97
+        },
+        {
+          "s": "TUTOR",
+          "t": "The market should have had more realistic expectations.",
+          "start": 355.41,
+          "end": 358.33
+        },
+        {
+          "s": "TUTOR",
+          "t": "And I disagree with you about the advertising campaign Karin.",
+          "start": 359.59,
+          "end": 362.35
+        },
+        {
+          "s": "TUTOR",
+          "t": "That's where they could do with some innovation- to get sales kick-started.",
+          "q": [
+            30
+          ],
+          "start": 363.55,
+          "end": 367.11
+        },
+        {
+          "s": "TUTOR",
+          "t": "Anyway, let's see what you come up with . . . [fade]",
+          "start": 367.43,
+          "end": 369.63
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c5/t4p4.mp3",
+      "duration": 356,
+      "title": "Cardiff University Library Induction",
+      "groups": [
+        {
+          "range": [
+            31,
+            36
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter. A, B or C.",
+          "questions": [
+            {
+              "n": 31,
+              "text": "During the first week of term, students are invited to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "be shown round the library by the librarian."
+                },
+                {
+                  "k": "B",
+                  "text": "listen to descriptions of library resources."
+                },
+                {
+                  "k": "C",
+                  "text": "do an intensive course in the computer centre."
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "The speaker warns the students that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "internet materials can be unreliable."
+                },
+                {
+                  "k": "B",
+                  "text": "downloaded information must be acknowledged."
+                },
+                {
+                  "k": "C",
+                  "text": "computer access may be limited at times."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "The library is acquiring more CDs as a resource because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "they are a cheap source of information."
+                },
+                {
+                  "k": "B",
+                  "text": "they take up very little space."
+                },
+                {
+                  "k": "C",
+                  "text": "they are more up to date than the reference books."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "Students are encouraged to use journals online because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the articles do not need to be returned to the shelves."
+                },
+                {
+                  "k": "B",
+                  "text": "reading online is cheaper than photocopying articles."
+                },
+                {
+                  "k": "C",
+                  "text": "the stock of printed articles is to be reduced."
+                }
+              ]
+            },
+            {
+              "n": 35,
+              "text": "Why might some students continue to use reference books?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "they can be taken away from the library"
+                },
+                {
+                  "k": "B",
+                  "text": "they provide information unavailable elsewhere"
+                },
+                {
+                  "k": "C",
+                  "text": "they can be borrowed for an extended loan period"
+                }
+              ]
+            },
+            {
+              "n": 36,
+              "text": "What is the responsibility of the Training Supervisor?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "to supervise and support library staff"
+                },
+                {
+                  "k": "B",
+                  "text": "to provide orientation to the library facilities"
+                },
+                {
+                  "k": "C",
+                  "text": "to identify needs and inform section managers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            37,
+            40
+          ],
+          "type": "matching",
+          "instruction": "Which section of the university will help postgraduate students with their dissertations in the following ways?",
+          "limit": "Write the correct letter, A, B or C, next to questions 37-40.",
+          "optionsTitle": "Sections",
+          "options": [
+            {
+              "k": "A",
+              "text": "the postgraduate's own department or tutor"
+            },
+            {
+              "k": "B",
+              "text": "library staff"
+            },
+            {
+              "k": "C",
+              "text": "another section of the university"
+            }
+          ],
+          "itemsTitle": "Ways",
+          "items": [
+            {
+              "n": 37,
+              "text": "training in specialised computer programs"
+            },
+            {
+              "n": 38,
+              "text": "advising on bibliography presentation"
+            },
+            {
+              "n": 39,
+              "text": "checking the draft of the dissertation"
+            },
+            {
+              "n": 40,
+              "text": "providing language support"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "OK, are you all settled?",
+          "start": 60.36,
+          "end": 61.64
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, first of all, welcome to Cardiff University.",
+          "start": 62.12,
+          "end": 65.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm here to explain what we can offer you.",
+          "start": 65.76,
+          "end": 68.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, as a new student at the university, you will probably need some sort of guidance to help you to use the library effectively to study and research.",
+          "start": 69.8,
+          "end": 77.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some of you have asked about a guided tour but we find this rather muddles people.",
+          "start": 78.47,
+          "end": 83.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, in this first week. we run a series of talks which focus on different aspects of the library and its resources.",
+          "q": [
+            31
+          ],
+          "start": 84.39,
+          "end": 90.51
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll also find that to get the most out of the library you really do need to be computer literate and so all this term we run small classes which will bring you up to speed on how to access the computer-loaded information.",
+          "start": 91.66,
+          "end": 104.54
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK, now let me give you an outline of what's available to you.",
+          "start": 106.07,
+          "end": 109.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll find that the computers are increasingly used as a research tool.",
+          "start": 109.67,
+          "end": 113.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Many students do most of their research on the internet and the library computers are permanently online.",
+          "start": 113.99,
+          "end": 120.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Having found what you need, you'll find you can readily save texts on your personal computer space to print off when you need.",
+          "start": 120.56,
+          "end": 126.92
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You might think that it is the fastest way to get information but the links can be slow.",
+          "start": 127.72,
+          "end": 132.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Clearly you can find lots on there but much of it is useless information as it is from highly debatable sources- so be critical.",
+          "q": [
+            32
+          ],
+          "start": 133.28,
+          "end": 141.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll also find that the library has loaded several CD-ROMS onto the computers from specialist reference sources such as the MLA.",
+          "start": 141.44,
+          "end": 150.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It means we can expand what we offer you at very little extra cost and saves us having to invest in more and more books.",
+          "q": [
+            33
+          ],
+          "start": 150.68,
+          "end": 157.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The CD-ROMS contain exactly the same information as the reference books as the two are updated together.",
+          "start": 158.38,
+          "end": 163.66
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now most of you will need to refer to journal articles in your work and you'll find you can also access these online and we encourage you to do so.",
+          "start": 165.1,
+          "end": 173.42
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Clearly some of you will find the printed version more accessible as it sits on the shelves but I'm afraid the intention is to phase these out eventually.",
+          "q": [
+            34
+          ],
+          "start": 173.7,
+          "end": 182.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, you will still be able to print off a version of the text rather than photocopying the journal pages.",
+          "start": 182.68,
+          "end": 188.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So you must get used to working online.",
+          "start": 189.55,
+          "end": 191.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Naturally we do still have the full range of classic reference books, additional to the CD-ROMS, for you to use and there are several copies of each one.",
+          "start": 192.03,
+          "end": 201.31
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is because some of you may prefer to borrow a book rather than sit in the library.",
+          "q": [
+            35
+          ],
+          "start": 201.39,
+          "end": 206.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There is a restricted loan time on these so that they are not missing from the shelves for too long.",
+          "start": 207.31,
+          "end": 212.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Although there is a Section Manager for each part of the library, they are very busy and so, if you do get stuck looking for things, you should ask the relevant Cataloguing Assistant.",
+          "start": 213.33,
+          "end": 223.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As your Training Supervisor, I just oversee your induction and will not be around after this initial week.",
+          "q": [
+            36
+          ],
+          "start": 223.95,
+          "end": 230.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some of you may be interested to know that the library is offering specialised training sessions on writing a dissertation.",
+          "start": 235.71,
+          "end": 241.27
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Obviously this is not relevant to those of you who are undergraduates; it is just for postgraduates.",
+          "start": 241.67,
+          "end": 247.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Your department will discuss the planning stage of the dissertation- i.e. what you're going to do- with you and we will focus on the structure of it.",
+          "start": 248.56,
+          "end": 257.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, the training will also include some time on the computers.",
+          "q": [
+            37
+          ],
+          "start": 257.7,
+          "end": 261.22
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I realise most of you know how to organise files but we can show you the different ways to run data programmes.",
+          "q": [
+            37
+          ],
+          "start": 262.02,
+          "end": 267.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Your tutors will tell you at the outset how to set out the chapters they require but you will need to ask them how they would like you to organise the bibliography because it varies depending on your subject area.",
+          "q": [
+            38
+          ],
+          "start": 269.03,
+          "end": 280.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When you've got something together the trainer here will look through the draft version for you to see if it's OK.",
+          "q": [
+            39
+          ],
+          "start": 281.41,
+          "end": 286.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And, one final point, for those of you who have registered from abroad, we can offer individual sessions on dissertations if you feel you need them. If you require language lessons then they are available from the International Centre next to the Law Department.",
+          "q": [
+            40
+          ],
+          "start": 287.69,
+          "end": 302.01
+        }
+      ]
+    }
+  ]
+}
