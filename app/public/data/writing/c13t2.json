@@ -1,0 +1,82 @@
+{
+  "id": "c13t2",
+  "book": "剑桥雅思13",
+  "test": 2,
+  "title": "剑13 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "bar-chart",
+      "kindZh": "柱状图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The chart below shows the percentage of households in owned and rented accommodation in England and Wales between 1918 and 2011.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c13t2-task1.webp",
+      "imageCaption": "Households owning and renting accommodation in England and Wales 1918 to 2011",
+      "data": {
+        "unit": "% of households",
+        "years": [
+          1918,
+          1939,
+          1953,
+          1961,
+          1971,
+          1981,
+          1991,
+          2001,
+          2011
+        ],
+        "series": {
+          "households in owned accommodation": [
+            23,
+            32,
+            32,
+            41,
+            50,
+            60,
+            68,
+            69,
+            64
+          ],
+          "households in rented accommodation": [
+            77,
+            68,
+            68,
+            59,
+            50,
+            40,
+            32,
+            31,
+            36
+          ]
+        }
+      },
+      "sample": {
+        "band": 6,
+        "text": "The provided bar chart depicts the comprssion of buying or renting houses in England and Wales from 1918 to 2011.\n\n1918 the rented households was raised about 78 percentage. Then it leveled of between 1939 to 1953. From 1961 to 1981 it dramaticly droped to 35 percentage. This accommodation stated the same until 2001. In 2011 there was a slight increase in rented households and it was up to 38%.\n\nThe same yeas the owned ones has raise from 21% to 32% in 1918 to1953. In 1939 to 1953 the was a graduate stade in the percentage. Then it starts to leveled up to 69% In 1991. At 2001 to 2011 there was a decline in the owned accommodation and it was 62%.\n\nGenarally, both of the rented and owned households has raised and droped throug the years from 1918 to 2011. The was a year that the were the same prectarge and it was 1971 which 50%",
+        "comment": "The candidate has identified all the main features and trends, including the fact that in 1971 the number of households in owned and rented households was the same. Comments are supported by dates and percentages of households and there is a short overview at the end of the script. Organisation is clear as the writer deals with each category in turn. The range of vocabulary is adequate but there are frequent spelling errors [comprssion / comparison | dramaticly droped / dramatically dropped | stated / stayed | yeas / year | leveled / levelled | Genarally / Generally | prectarge / percentage]. These do not noticeably impede communication, however. There is a mix of grammatical structures and some complex sentence forms, though these are not always accurate: the meaning is still clear, however."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people believe that nowadays we have too many choices.",
+        "To what extent do you agree or disagree with this statement?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 7,
+        "text": "The answer is complex since there are a lot of choices in our life and all of them are different kinds. In some cases I would say that it is a good thing to have the ability to choose from a wide variety. Take for example gastronomy. Every single person has different meals on their list of favourites. Actually if you have a bigger family it is almost impossible to cook something that everyone would like. Therefore I would say that it is great that you can go to a shopping center and choose from a dozen different food types. I can always find something that looks delicious.\n\nNaturally, there are some people who say that it is against evolution. They claim to say that back in the old days we had a perfect life when technically everybody was farming. I personally disagree with that. I am happy that I could choose a job that fits best to my abilities. I mean no one is the same, why would we want to do the same? Different kinds of universities give us the opportunity to beome who we are meant to be. We have the right to choose.\n\nHowever there is one topic where, according to my opinion, we have too many choices. This specific area is television. There are hundreds of channels, therefore you can always find something that is worth watching. Literally you could sit in your sofa the whole day and watch films. I think that people doing less outdoor activities are the results of the many available channels. From this point of view I would agree that we have too many choices.\n\nIn conclusion I would say that we can't generally talk about choices since they could be different. In some cases it is good to have many of them while in other areas they could have a negative effect.",
+        "comment": "The candidate explains why s/he both agrees and disagrees with the statement, meeting the requirements of 'To what extent do you agree or disagree with this statement?' S/he singles out two areas of disagreement (food and jobs) and provides clear examples to support these opinions, then goes on to identify an area of agreement (TV channels), again providing support and then some development of the example. Organisation is logical and there is clear progression throughout the writing. There is a range of cohesive devices, used appropriately [Take for example | Actually | Therefore | Naturally | However | This specific area | From this point of view | In conclusion]. The range of vocabulary is sufficient to show some flexibility and precision, as well as less common items and an awareness of style and collocation [Complex | list of favourites | fits ... my abilities | specific area | many available channels]. There is only one spelling error [beome], probably a slip of the pen. Control over grammar and punctuation is generally good and there is a variety of complex structures with frequent error-free sentences."
+      }
+    }
+  ]
+}
