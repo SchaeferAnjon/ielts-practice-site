@@ -1,0 +1,43 @@
+{
+  "id": "c7t2",
+  "book": "剑桥雅思7",
+  "test": 2,
+  "title": "剑7 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "line-graph",
+      "kindZh": "曲线图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The graph below shows the consumption of fish and some different kinds of meat in a European country between 1979 and 2004.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c7t2-task1.webp",
+      "imageCaption": "Fish and meat consumption (grams per person per week), 1979-2004",
+      "sample": {
+        "band": 9,
+        "text": "The graph illustrates changes in the amounts of beef, lamb, chicken and fish consumed in a particular European country between 1979 and 2004.\n\nIn 1979 beef was by far the most popular of these foods, with about 225 grams consumed per person per week. Lamb and chicken were eaten in similar quantities (around 150 grams), while much less fish was consumed (just over 50 grams).\n\nHowever, during this 25-year period the consumption of beef and lamb fell dramatically to approximately 100 grams and 55 grams respectively. The consumption of fish also declined, but much less significantly to just below 50 grams, so although it remained the least popular food, consumption levels were the most stable.\n\nThe consumption of chicken, on the other hand, showed an upward trend, overtaking that of lamb in 1980 and that of beef in 1989. By 2004 it had soared to almost 250 grams per person per week.\n\nOverall, the graph shows how the consumption of chicken increased dramatically while the popularity of these other foods decreased over the period.",
+        "comment": "This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Some people believe that there should be fixed punishments for each type of crime. Others, however, argue that the circumstances of an individual crime, and the motivation for committing it, should always be taken into account when deciding on the punishment.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 7.5,
+        "text": "Fixing punishments for each type of crime has been a debateable issue. There are many arguments supporting both views, those for and those against fixed punishments.\n\nOn the one hand, fixed punishments will have a deterring effect on society. Individuals knowing that they will be subject to a certain punishment if they are convicted with a given crime, will reconsider committing this act in the first place.\n\nThis deterring effect also leads to social stability and security, through minimising the number of crimes committed.\n\nIf people knew they would be able to convince the court or the jury of a reason for having committed the crime they are accused of, penal decisions would be largely arbitrary. This would result into criminals getting away with their crimes and into a high level of injustice caused by the subjective approach of different courts.\n\nOn the other hand, taking the circumstances of a crime and its motivation into consideration is a prerequisite for establishing and ensuring justice and equity.\n\nA person killing in self-defense cannot be compared to a serial killer, moving from one victim to the next. In my opinion an intermediary position between both solutions is the perfect way to establish and ensure justice and equity.\n\nThere have to be fixed punishments for all crimes. However, criminal laws have to provide for a minimum and a maximum for the punishment and the laws also have to foresee certain cases of exemptions.\n\nAn example for setting minimum and maximum penalties is Competition Law where a person being held liable of a crime under this law will be convicted to pay a fine, according to the harm caused by the violation and the profit gained by the violator through committing the crime.\n\nAs for the exemptions, in some countries the law exempts thiefs stealing food during a period of famine taking into consideration the distress and hunger.\n\nAlso, a person killing in self-defense will be exempted from punishment.",
+        "comment": "This is a thoughtful and well-argued response to the task. The candidate examines the opposing views of the topic and gives a clear opinion that is well developed and supported. To reach the highest band a more clearly-signalled conclusion would be needed. The argument is well organised and linking is well managed throughout. The development of the answer is not helped, however, by poor control of paragraphing which sometimes confuses the links across different sections. This is a weak feature of the script which limits the overall rating. In contrast, an excellent range of vocabulary is used with a sophisticated level of control and only rare slips. The range of structures is also wide and most sentences are accurate and precise, but there are some errors and omissions. These, however, are only minor and do not affect communication."
+      }
+    }
+  ]
+}

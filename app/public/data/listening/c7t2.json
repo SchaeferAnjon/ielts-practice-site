@@ -1,0 +1,1649 @@
+{
+  "id": "c7t2",
+  "book": "剑桥雅思7",
+  "test": 2,
+  "title": "剑7 Test 2 · Listening",
+  "source": "Cambridge IELTS 7, Test 2（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "27 Bank Road"
+    ],
+    "2": [
+      "dentist",
+      "a dentist"
+    ],
+    "3": [
+      "Sable"
+    ],
+    "4": [
+      "Northern Star"
+    ],
+    "5": [
+      "stolen"
+    ],
+    "6": [
+      "Paynter"
+    ],
+    "7": [
+      "brother-in-law"
+    ],
+    "8": [
+      "travelling to work",
+      "traveling to work",
+      "travel to work"
+    ],
+    "9": [
+      "Red Flag"
+    ],
+    "10": [
+      "450"
+    ],
+    "11": [
+      "City Bridge"
+    ],
+    "12": [
+      "Newtown"
+    ],
+    "13": [
+      "6.30"
+    ],
+    "14": [
+      "garden",
+      "formal garden"
+    ],
+    "15": [
+      "Restaurant",
+      "Tower Restaurant"
+    ],
+    "16": [
+      "view",
+      "views"
+    ],
+    "17": [
+      "history"
+    ],
+    "18": [
+      "7 screen"
+    ],
+    "19": [
+      "every 20 minutes"
+    ],
+    "20": [
+      "Central Station",
+      "from Central Station",
+      "the Central Station"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "B"
+    ],
+    "27": [
+      "1882 to 1883",
+      "1882-83",
+      "1882-1883"
+    ],
+    "28": [
+      "signed"
+    ],
+    "29": [
+      "A",
+      "D"
+    ],
+    "30": [
+      "A",
+      "D"
+    ],
+    "31": [
+      "C"
+    ],
+    "32": [
+      "B"
+    ],
+    "33": [
+      "C"
+    ],
+    "34": [
+      "A"
+    ],
+    "35": [
+      "A"
+    ],
+    "36": [
+      "2 directions",
+      "two directions"
+    ],
+    "37": [
+      "confident"
+    ],
+    "38": [
+      "vision"
+    ],
+    "39": [
+      "corrections"
+    ],
+    "40": [
+      "balance"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c7/t2p1.mp3",
+      "duration": 0,
+      "title": "Car Insurance",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the form below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Car Insurance",
+          "table": {
+            "head": [
+              "Field",
+              "Details"
+            ],
+            "rows": [
+              [
+                "Name (example)",
+                "Patrick Jones"
+              ],
+              [
+                "Address",
+                "{{1}}, Greendale"
+              ],
+              [
+                "Contact number",
+                "730453"
+              ],
+              [
+                "Occupation",
+                "{{2}}"
+              ],
+              [
+                "Size of car engine",
+                "1200cc"
+              ],
+              [
+                "Manufacturer",
+                "Hewton"
+              ],
+              [
+                "Model",
+                "{{3}}"
+              ],
+              [
+                "Year",
+                "1997"
+              ],
+              [
+                "Previous insurance company",
+                "{{4}}"
+              ],
+              [
+                "Insurance claims in the last five years",
+                "Yes – car was {{5}} in 1999"
+              ],
+              [
+                "Name(s) of other driver(s)",
+                "Simon {{6}}"
+              ],
+              [
+                "Relationship to main driver",
+                "{{7}}"
+              ],
+              [
+                "Uses of car",
+                "social\n{{8}}"
+              ],
+              [
+                "Start date",
+                "31 January"
+              ],
+              [
+                "Recommended insurance company",
+                "{{9}}"
+              ],
+              [
+                "Annual cost",
+                "${{10}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "WOMAN",
+          "t": "Hello .. . motor insurance department .. ."
+        },
+        {
+          "s": "MAN",
+          "t": "Oh hello ..."
+        },
+        {
+          "s": "MAN",
+          "t": "I'd like to ask about insurance for my car."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, of course."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'll just take a few details."
+        },
+        {
+          "s": "WOMAN",
+          "t": "What's your name?"
+        },
+        {
+          "s": "MAN",
+          "t": "Patrick Jones."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And your address?"
+        },
+        {
+          "s": "MAN",
+          "t": "It's 27 Bank Road.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "27 Bank Road."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is that in Greendale?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And what's your daytime phone number?"
+        },
+        {
+          "s": "MAN",
+          "t": "My work number is 730453."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And could I ask what your occupation is?"
+        },
+        {
+          "s": "MAN",
+          "t": "Dentist.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK ... now a few details about your car .. ."
+        },
+        {
+          "s": "WOMAN",
+          "t": "What size is the engine?"
+        },
+        {
+          "s": "MAN",
+          "t": "It's 1200 ccs."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Thank you .. . and the make and model?"
+        },
+        {
+          "s": "MAN",
+          "t": "It 's a Hewton Sable."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Could you spell the model name please?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes .."
+        },
+        {
+          "s": "MAN",
+          "t": "S-A-B-L-E.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "Ah yes .. . thanks."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And when was it made?"
+        },
+        {
+          "s": "MAN",
+          "t": "1997."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Lovely .. . right . . ."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I presume you've had a previous insurer?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right ... we need to know the name of the company."
+        },
+        {
+          "s": "MAN",
+          "t": "Yes ... it was Northern Star.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "Thank you, and have you made any insurance claims in the last five years?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes .. . one in 1999."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And what was the problem?"
+        },
+        {
+          "s": "MAN",
+          "t": "It was stolen . .. but .. .",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's fine, Mr Jones .. . that's all we need to know at the moment .. ."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And will there be any other named drivers?"
+        },
+        {
+          "s": "MAN",
+          "t": "Just the one ..."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And his name?"
+        },
+        {
+          "s": "MAN",
+          "t": "Simon Paynter."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Could you spell the surname please?"
+        },
+        {
+          "s": "MAN",
+          "t": "P-A-Y-N-T-E-R.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK !hank you .. ."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And what relationship is he to you?"
+        },
+        {
+          "s": "MAN",
+          "t": "He's IT'Y bother-in-law.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "And what will you or Mr Paynter be using the car for?"
+        },
+        {
+          "s": "MAN",
+          "t": "Well .. . mainly for social use ..."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Social use ( murmuring)."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Will you be using it to travel to work?",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Yes .. . sometimes."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Anything else?"
+        },
+        {
+          "s": "MAN",
+          "t": "No."
+        },
+        {
+          "s": "MAN",
+          "t": "That's it .. ."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And finally ... when would you like to start the insurance?"
+        },
+        {
+          "s": "MAN",
+          "t": "I'll need it from the 31st of January."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right ..."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Mr Jones ..."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm getting a couple of quotes coming up on the computer now ... and the best bet looks like being with a company called Red Flag.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Yeah."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And that comes out at $450 per year . . .",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Well .. . that seems OK ... it's quite a bit lower than I've been paying up to now ..."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Great .. . so would you like me to go ahead with that?"
+        },
+        {
+          "s": "MAN",
+          "t": "Sure ... why not?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "How would you like to pay?"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c7/t2p2.mp3",
+      "duration": 0,
+      "title": "City Tours",
+      "groups": [
+        {
+          "range": [
+            11,
+            12
+          ],
+          "type": "notes",
+          "instruction": "Label the map below. 原题为地图标注（Boat Trip 河流示意图，罗盘朝北，四个 stop 沿河从西到东依次排列，其中两个站名已在图上给出），下面按顺序列出。",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Boat Trip (stops, west to east)",
+          "lines": [
+            "Stop A — Green Banks",
+            "Stop B — {{11}}",
+            "Stop C — Roman Landing",
+            "Stop D — {{12}}"
+          ]
+        },
+        {
+          "range": [
+            13,
+            18
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "Attractions",
+          "table": {
+            "head": [
+              "Stop",
+              "Attraction",
+              "Further Information"
+            ],
+            "rows": [
+              [
+                "STOP A — Main Booking Office\nFirst boat: 8 a.m.\nLast boat: {{13}} p.m.",
+                "Palace",
+                "has lovely {{14}}"
+              ],
+              [
+                "STOP B",
+                "{{15}}",
+                "has good {{16}} of city centre"
+              ],
+              [
+                "STOP C",
+                "Museum",
+                "bookshop specialising in the {{17}} of the local area"
+              ],
+              [
+                "STOP D",
+                "Entertainment Complex",
+                "bowling alley\n{{18}} cinema\nvideo games arcade"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "notes",
+          "instruction": "Answer the questions below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "City buses",
+          "lines": [
+            "How often do the Top Bus Company tours run? {{19}}",
+            "Where can you catch a Number One Sightseeing Tour from? {{20}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Thank you for calling the Tourist Line."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are many different ways of getting round the city and we'd like to suggest some you may not have thought of."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "How about a city trip by boat?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are four main stopping points- from west to east: stop A Green Banks, stop B City Bridge, stop C Roman Landing and stop D Newtown.",
+          "q": [
+            11,
+            12
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You can find the main booking office at stop A."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The first boat leaves at 8 a.m. and the last one at 6.30 p.m."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are also many attractions you can visit along the river.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At Stop A, if you have time, you can visit the fine 16th century palace here built for the king with its beautiful formal gardens."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's very near the booking office.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now you can enjoy every corner of this superb residence."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Stop B Why don't you visit Tower Restaurant with its wide range of refreshments?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is a place where you can sit and enjoy the wonderful views over the old commercial and banking centre of the city.",
+          "q": [
+            15,
+            16
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Stop C is the area where, in the first century AD, invading soldiers crossed the river; this was much shallower than it is now."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's why this area is called Roman Landing."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's an interactive Museum to visit here with a large shop which has a good range of local history books.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At the furthest point of the trip, stop D, the most exciting place to visit is the new Entertainment Complex with seven-screen cinema, bowling alley and video games arcade.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Besides the boat tours, there are city buses."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Two companies offer special services: The Top Bus Company runs all its tours with a live commentary in English."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Tours leave from 8.30 a.m. every 20 minutes."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are departures from Central Station, Castle Hill and Long Walk.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is a hop-on hop-off service and tickets are valid for 24 hours."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For further details call Top Bus on 0208 9447810."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Number One Sightseeing Tour is available with a commentary in eight languages."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Buses depart from Central Station every five to six minutes from about 9 a.m. with the last bus at around 7 p.m.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are also Number One services with an English-speaking ..."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c7/t2p3.mp3",
+      "duration": 428,
+      "title": "The Antarctic Centre",
+      "groups": [
+        {
+          "range": [
+            21,
+            26
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 21,
+              "text": "The Antarctic Centre was established in Christchurch because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "New Zealand is a member of the Antarctic Treaty."
+                },
+                {
+                  "k": "B",
+                  "text": "Christchurch is geographically well positioned."
+                },
+                {
+                  "k": "C",
+                  "text": "the climate of Christchurch is suitable."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "One role of the Antarctic Centre is to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "provide expeditions with suitable equipment."
+                },
+                {
+                  "k": "B",
+                  "text": "provide researchers with financial assistance."
+                },
+                {
+                  "k": "C",
+                  "text": "ensure that research is internationally relevant."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "The purpose of the Visitors' Centre is to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "provide accommodation."
+                },
+                {
+                  "k": "B",
+                  "text": "run training sessions."
+                },
+                {
+                  "k": "C",
+                  "text": "show people what Antarctica is like."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "Dr Merrywhether says that Antarctica is",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "unlike any other country."
+                },
+                {
+                  "k": "B",
+                  "text": "extremely beautiful."
+                },
+                {
+                  "k": "C",
+                  "text": "too cold for tourists."
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "According to Dr Merrywhether, Antarctica is very cold because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "of the shape of the continent."
+                },
+                {
+                  "k": "B",
+                  "text": "it is surrounded by a frozen sea."
+                },
+                {
+                  "k": "C",
+                  "text": "it is an extremely dry continent."
+                }
+              ]
+            },
+            {
+              "n": 26,
+              "text": "Dr Merrywhether thinks Antarctica was part of another continent because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "he has done his own research in the area."
+                },
+                {
+                  "k": "B",
+                  "text": "there is geological evidence of this."
+                },
+                {
+                  "k": "C",
+                  "text": "it is very close to South America."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            27,
+            28
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD AND/OR TWO NUMBERS for each answer.",
+          "title": "Antarctic Treaty",
+          "table": {
+            "head": [
+              "Date",
+              "Event"
+            ],
+            "rows": [
+              [
+                "1870",
+                "Polar Research meeting"
+              ],
+              [
+                "{{27}}",
+                "1st International Polar Year"
+              ],
+              [
+                "1957",
+                "Antarctic Treaty was proposed"
+              ],
+              [
+                "1959",
+                "Antarctic Treaty was {{28}}"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            29,
+            30
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO achievements of the Antarctic Treaty are mentioned by the speakers?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "no military use"
+            },
+            {
+              "k": "B",
+              "text": "animals protected"
+            },
+            {
+              "k": "C",
+              "text": "historic sites preserved"
+            },
+            {
+              "k": "D",
+              "text": "no nuclear testing"
+            },
+            {
+              "k": "E",
+              "text": "fishing rights protected"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "INTERVIEWER",
+          "t": "We're pleased to welcome Dr Martin Merrywhether of the Antarctic Centre in Christchurch, New Zealand who has come along to talk to us today about the role of the Centre and the Antarctic Treaty.",
+          "start": 70.06,
+          "end": 82.53
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Now my first question is about the choice of location for the centre.",
+          "start": 82.65,
+          "end": 86.37
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Why Christchurch?",
+          "start": 86.85,
+          "end": 88.33
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Was it because of the climate?",
+          "start": 88.65,
+          "end": 89.93
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Well actually New Zealand is the second closest country to Antarctica and Christchurch is often used on Antarctic expeditions.",
+          "q": [
+            21
+          ],
+          "start": 90.09,
+          "end": 97.87
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Right, so it's because of where we are . . . coupled with our historical role.",
+          "start": 98.87,
+          "end": 103.03
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "So tell us - what is the main purpose of the centre?",
+          "start": 103.03,
+          "end": 106.65
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Well ... we have two complementary roles.",
+          "start": 107.65,
+          "end": 110.09
+        },
+        {
+          "s": "DOCTOR",
+          "t": "One is as a scientific base for expeditions and research and the other is as an information centre.",
+          "start": 110.77,
+          "end": 115.97
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Tell us something about the role as a scientific base.",
+          "start": 117.44,
+          "end": 120.0
+        },
+        {
+          "s": "DOCTOR",
+          "t": "We're able to provide information about what scientists should take with them to the South Pole- for example, the centre contains a clothing warehouse where expeditions are supplied with suitable clothing for the extreme conditions.",
+          "q": [
+            22
+          ],
+          "start": 120.72,
+          "end": 132.92
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "I suppose you need a bit more than your normal winter coat!",
+          "start": 133.57,
+          "end": 136.37
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Yes, exactly and then there's also the specialist library and mapping services.",
+          "start": 136.49,
+          "end": 141.45
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Right.",
+          "start": 141.77,
+          "end": 142.29
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "And which countries are actually located at the centre?",
+          "start": 143.09,
+          "end": 146.09
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Well . . . the centre houses research programmes for New Zealand, for The United States as well as for Italy ... there's even a US post office at the American airforce base here.",
+          "start": 147.23,
+          "end": 156.91
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Really?",
+          "start": 156.91,
+          "end": 156.91,
+          "estimated": true
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "And what does the visitor's centre offer?",
+          "start": 158.3,
+          "end": 160.38
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Well, since very few people will ever experience the Antarctic first hand, the visitors' centre aims to recreate the atmosphere of Antarctica.",
+          "q": [
+            23
+          ],
+          "start": 160.78,
+          "end": 169.82
+        },
+        {
+          "s": "DOCTOR",
+          "t": "There's a mock camp site where you can see inside an Antarctic tent and imagine yourself sleeping there.",
+          "start": 170.71,
+          "end": 175.71
+        },
+        {
+          "s": "DOCTOR",
+          "t": "And the centre also acts as a showcase for the unique international co-operation which exists in Antarctica today.",
+          "start": 176.11,
+          "end": 181.66
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "What is it actually like at the South Pole?",
+          "start": 183.18,
+          "end": 185.9
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "I know you've been there on a number of occasions.",
+          "start": 186.5,
+          "end": 188.74
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Yes, I have and each time I'm struck by the awesome beauty of the place.",
+          "q": [
+            24
+          ],
+          "start": 189.14,
+          "end": 194.73
+        },
+        {
+          "s": "DOCTOR",
+          "t": "It's magnificent but you can really only visit it in the summer months.",
+          "start": 195.53,
+          "end": 199.77
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "October to March.",
+          "start": 200.05,
+          "end": 201.37
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Yes, because it's completely dark for four months of the year (pause) ... and in addition it has to be the coldest place on earth.",
+          "start": 201.61,
+          "end": 210.39
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Colder than the North Pole?",
+          "start": 210.51,
+          "end": 212.63
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Why's that?",
+          "start": 213.59,
+          "end": 213.79
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Well, unlike the North Pole, which is actually a frozen sea, Antarctica is a land mass shaped like a dome, with the result that the winds blow down the slopes at speeds of up to 150 km an hour and that's what makes it so cold.",
+          "q": [
+            25
+          ],
+          "start": 213.91,
+          "end": 230.43
+        },
+        {
+          "s": "DOCTOR",
+          "t": "And one other interesting thing is that Antarctica is the driest continent on earth, surprisingly, and so you have to drink large amounts of water when you're there.",
+          "start": 231.15,
+          "end": 241.03
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "How old is Antarctica?",
+          "start": 241.71,
+          "end": 243.11
+        },
+        {
+          "s": "DOCTOR",
+          "t": "We're pretty sure it was part of a larger land mass but it broke away from the rest of the continent 170 million years ago.",
+          "start": 243.79,
+          "end": 250.27
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "How can you be certain of this?",
+          "start": 250.35,
+          "end": 252.11
+        },
+        {
+          "s": "DOCTOR",
+          "t": "... because fossils and rocks have been discovered in Antarctica which are the same as those found in places such as Africa and Australia.",
+          "q": [
+            26
+          ],
+          "start": 252.27,
+          "end": 259.96
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Amazing . ..",
+          "start": 259.96,
+          "end": 260.88
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "To think that it was once attached to Africa .. .",
+          "start": 261.8,
+          "end": 264.24
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Now let's just have a look at the Antarctic Treaty.",
+          "start": 302.3,
+          "end": 305.58
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "How far back does the idea of an international treaty go?",
+          "start": 305.74,
+          "end": 309.86
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Well, as far back as the 19th century, when eleven nations organised an international event.",
+          "start": 310.14,
+          "end": 316.53
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "When was that exactly?",
+          "start": 316.69,
+          "end": 318.21
+        },
+        {
+          "s": "DOCTOR",
+          "t": "In 1870.",
+          "start": 318.49,
+          "end": 320.37
+        },
+        {
+          "s": "DOCTOR",
+          "t": "And it was called the Polar Research Meeting.",
+          "start": 320.89,
+          "end": 323.21
+        },
+        {
+          "s": "DOCTOR",
+          "t": "And then, not long after that, they organised something called the First International Polar Year.",
+          "start": 324.13,
+          "end": 329.33
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "And that took place when exactly?",
+          "start": 329.41,
+          "end": 331.97
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Over two years from 1882 to 1883.",
+          "start": 332.29,
+          "end": 336.97
+        },
+        {
+          "s": "DOCTOR",
+          "t": "But it wasn't until the 1950s that the idea of an international treaty was proposed.",
+          "q": [
+            27
+          ],
+          "start": 337.74,
+          "end": 342.9
+        },
+        {
+          "s": "DOCTOR",
+          "t": "And in 1959 the Treaty was actually signed.",
+          "q": [
+            28
+          ],
+          "start": 343.62,
+          "end": 347.14
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "What do you see as the main achievements of the treaty?",
+          "start": 348.15,
+          "end": 351.15
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Well, firstly it means that the continent is reserved for peaceful use.",
+          "q": [
+            29,
+            30
+          ],
+          "start": 351.47,
+          "end": 356.35
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "That's Article I, isn't it?",
+          "start": 357.11,
+          "end": 359.31
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Yes ...",
+          "start": 359.79,
+          "end": 359.87
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "That's important since the territory belongs to everyone.",
+          "start": 360.47,
+          "end": 363.63
+        },
+        {
+          "s": "DOCTOR",
+          "t": "Yes but not as important as Article 5, which prohibits any nuclear explosions or waste disposal.",
+          "q": [
+            29,
+            30
+          ],
+          "start": 363.83,
+          "end": 370.51
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Which is marvellous.",
+          "start": 370.63,
+          "end": 371.19
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Well, I'm afraid we're going to have to stop there because I'm afraid we've run out of time.",
+          "start": 372.38,
+          "end": 376.62
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Thanks for coming along today and telling us all about the centre and its work.",
+          "start": 376.94,
+          "end": 381.34
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c7/t2p4.mp3",
+      "duration": 444,
+      "title": "Left and Right Handedness in Sport",
+      "groups": [
+        {
+          "range": [
+            31,
+            35
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Left and Right Handedness in Sport",
+          "questions": [
+            {
+              "n": 31,
+              "text": "Anita first felt the Matthews article was of value when she realised",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "how it would help her difficulties with left-handedness."
+                },
+                {
+                  "k": "B",
+                  "text": "the relevance of connections he made with music."
+                },
+                {
+                  "k": "C",
+                  "text": "the impressive size of his research project."
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "Anita feels that the findings on handedness will be of value in",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "helping sportspeople identify their weaknesses."
+                },
+                {
+                  "k": "B",
+                  "text": "aiding sportspeople as they plan tactics for each game."
+                },
+                {
+                  "k": "C",
+                  "text": "developing suitable training programmes for sportspeople."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "Anita feels that most sports coaches",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "know nothing about the influence of handedness."
+                },
+                {
+                  "k": "B",
+                  "text": "focus on the wrong aspects of performance."
+                },
+                {
+                  "k": "C",
+                  "text": "underestimate what science has to offer sport."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "A German study showed there was greater 'mixed handedness' in musicians who",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "started playing instruments in early youth."
+                },
+                {
+                  "k": "B",
+                  "text": "play a string instrument such as the violin."
+                },
+                {
+                  "k": "C",
+                  "text": "practise a great deal on their instrument."
+                }
+              ]
+            },
+            {
+              "n": 35,
+              "text": "Studies on ape behaviour show that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "apes which always use the same hand to get food are most successful."
+                },
+                {
+                  "k": "B",
+                  "text": "apes have the same proportion of left- and right-handers as humans."
+                },
+                {
+                  "k": "C",
+                  "text": "more apes are left-handed than right-handed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            36,
+            40
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Handedness and sport",
+          "table": {
+            "head": [
+              "Sport",
+              "Best laterality",
+              "Comments"
+            ],
+            "rows": [
+              [
+                "Hockey",
+                "mixed laterality",
+                "hockey stick has to be used in {{36}}\nmixed-handed players found to be much more {{37}} than others"
+              ],
+              [
+                "Tennis",
+                "single laterality",
+                "gives a larger relevant field of {{38}}\ncross-lateral players make {{39}} too late"
+              ],
+              [
+                "Gymnastics",
+                "cross laterality",
+                "gymnasts' {{40}} is important for performances"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "My topic is handedness- whether in different sports it is better to be left- or right-sided or whether a more balanced approach is more successful.",
+          "start": 84.41,
+          "end": 95.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm left-handed myself and I actually didn't see any relevance to my own life when I happened to start reading an article by a sports psychologist called Peter Matthews.",
+          "start": 95.94,
+          "end": 107.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He spent the first part of the article talking about handedness in music instead of sport, which I have to say almost put me off from reading further.",
+          "start": 108.13,
+          "end": 117.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But what I soon became struck by was the sheer volume of both observation and investigation he had done in many different sports and I felt persuaded that what he had to say would be of real interest.",
+          "q": [
+            31
+          ],
+          "start": 118.67,
+          "end": 133.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I think Matthews' findings will be beneficial, not so much in helping sportspeople to work on their weaker side, but more that they can help them identify the most suitable strategies to use in a given game.",
+          "q": [
+            32
+          ],
+          "start": 134.19,
+          "end": 147.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Although most trainers know how important handedness is, at present they are rather reluctant to make use of the insights scientists like Matthews can give, which I think is rather short-sighted because focusing on individual flexibility is only part of the story.",
+          "q": [
+            33
+          ],
+          "start": 148.13,
+          "end": 167.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Anyway, back to the article.",
+          "start": 168.72,
+          "end": 170.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Matthews found a German study which looked at what he called 'mixed-handedness', that is, the capacity to use both left and right hands equally.",
+          "start": 171.68,
+          "end": 181.54
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It looked at mixed-handedness in 40 musicians on a variety of instruments.",
+          "start": 181.9,
+          "end": 187.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Researchers examined a number of variables, e.g. type of instrument played, regularity of practice undertaken and length of time playing instrument . . . and found the following: keyboard players had high levels of mixed- handedness, whereas string players like cellists and violinists strongly favoured one hand.",
+          "start": 188.62,
+          "end": 212.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Also those who started younger were more mixed-handed.",
+          "q": [
+            34
+          ],
+          "start": 213.19,
+          "end": 217.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Matthews also reports studies of handedness in apes.",
+          "start": 219.25,
+          "end": 223.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Apes get a large proportion of their food by 'fishing' ants from ant hills.",
+          "start": 223.21,
+          "end": 229.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The studies show that apes, like humans, show handedness- though for them right- and left-handedness is about equal, whereas about 85% of humans are right-handed.",
+          "start": 230.2,
+          "end": 243.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Studies showed that apes consistently using the same hand fished out 30% more ants than those varying between the two.",
+          "q": [
+            35
+          ],
+          "start": 244.88,
+          "end": 254.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Matthews started researching several different sports and found different types of handedness in each.",
+          "start": 259.93,
+          "end": 265.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "By the way, he uses 'handedness' to refer to the dominant side for feet and eyes as well as hands.",
+          "start": 266.57,
+          "end": 273.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Anyway, his team measured the hand, feet and eyes of 2,611 players and found that there were really three main types of laterality: mixed - you work equally well on both sides - both hand and eye; single- you tend to favour one side but both hand and eye favour the same side; and cross-laterality - a player's hands and eyes favour only one side but they are opposite sides.",
+          "start": 273.87,
+          "end": 309.09
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's start with hockey.",
+          "start": 310.53,
+          "end": 311.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Matthews found that it was best to be mixed- handed -this is because a hockey stick must be deployed in two directions - it would be a drawback to have hand or eye favouring one side.",
+          "q": [
+            36
+          ],
+          "start": 312.43,
+          "end": 326.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "An interesting finding is that mixed-handed hockey players were significantly more confident than their single-handed counterparts.",
+          "q": [
+            37
+          ],
+          "start": 327.38,
+          "end": 336.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Things are slightly different in racket sports like tennis.",
+          "start": 337.77,
+          "end": 341.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Here the important thing is to have the dominant hand and eye on the one side.",
+          "start": 342.21,
+          "end": 348.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This means that there is a bigger area of vision on the side where most of the action occurs.",
+          "q": [
+            38
+          ],
+          "start": 349.73,
+          "end": 355.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If a player is cross lateral the racket is invisible from the dominant eye for much of the swing.",
+          "start": 356.05,
+          "end": 363.05
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It means that they can only make corrections much later ... and often the damage has been done by then.",
+          "q": [
+            39
+          ],
+          "start": 364.02,
+          "end": 369.9
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And moving to a rather different type of sport which involves large but precise movements- gymnastics.",
+          "start": 371.21,
+          "end": 378.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's been found that cross hand-eye favouring is best.",
+          "start": 378.17,
+          "end": 382.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The predominant reason for this is because it aids balance- which is of course absolutely central to performance in this sport.",
+          "q": [
+            40
+          ],
+          "start": 383.62,
+          "end": 392.1
+        }
+      ]
+    }
+  ]
+}

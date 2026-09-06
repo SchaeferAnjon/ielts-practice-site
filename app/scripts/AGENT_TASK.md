@@ -53,7 +53,7 @@ python3 scripts/book_text.py transcript drafts/c{N} <起页>-<止页> --from "SE
 python3 scripts/book_text.py passage drafts/c{N} <起页>-<止页> --from "<文章标题前几个词>" --to "Questions 1" --out drafts/c{N}/parts/r-t{T}-p1.paras.json
 ```
 
-扫描件（OCR）书（剑9、16、18、19、20）加 `--book`：听力从 OCR 结果 book.txt 取页，文章会把页面图按空白竖带切成左右两半分别重新 OCR，页眉/跨栏的标题行可能被切坏，修补时删掉即可。
+听力如果说话人标签和台词被拆成两块、全部归到一个人名下，transcript 加 `--layout` 重切。扫描件（OCR）书（剑9、16、18、19、20）加 `--book`：听力从 OCR 结果 book.txt 取页，文章会把页面图按空白竖带切成左右两半分别重新 OCR，页眉/跨栏的标题行可能被切坏，修补时删掉即可。
 
 然后用 Bash 里的 python 读这些文件做**小修补**并写进 Part / Passage 文件：修正个别乱码词（多是划线的答案词，例如 `friahten Or iniure` → `frighten or injure`，用一个 `{错: 对}` 替换表）、补漏掉的 `q` 标记、去掉混进来的页眉/水印、合并被切断的段落、给段落加 `id`/`label`。每次修补的替换表不超过 20 条。**不要把整段原文或整篇文章写进任何一次输出**。先用 Read 看渲染的页面图片核对乱码词，再改。
 

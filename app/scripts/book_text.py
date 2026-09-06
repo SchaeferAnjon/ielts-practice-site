@@ -7,6 +7,7 @@
   python3 scripts/book_text.py transcript drafts/c11 103-104 --out drafts/c11/parts/l-t1-p2.lines.json
   # 阅读文章：按页取 -layout 文本，自动按空白列切开双栏，输出段落数组
   python3 scripts/book_text.py passage drafts/c11 17-18 --out drafts/c11/parts/r-t1-p1.paras.json
+  # 说话人标签和台词被 -raw 模式拆成两块（剑7 这种排版）时，transcript 加 --layout
   # 扫描件（剑9/16/18/19/20）加 --book，从 OCR 结果 book.txt 取页
   python3 scripts/book_text.py transcript drafts/c9 120-121 --book --from "SECTION 1" --to "SECTION 2"
   # 只看清洗后的纯文本
@@ -222,11 +223,12 @@ def main() -> None:
     ap.add_argument("--to", dest="to")
     ap.add_argument("--out")
     ap.add_argument("--book", action="store_true", help="扫描件：从 drafts/cN/book.txt（OCR 结果）取文本，而不是 PDF 文字层")
+    ap.add_argument("--layout", action="store_true", help="transcript 模式改用 pdftotext -layout（说话人标签和台词被 -raw 拆成两块时用）")
     args = ap.parse_args()
     pdf = Path(args.draft, "source.txt").read_text().strip()
     a, _, b = args.pages.partition("-")
     a, b = int(a), int(b or a)
-    layout = args.mode != "transcript"
+    layout = args.mode != "transcript" or args.layout
     if args.book:
         raw = ocr_columns(args.draft, a, b) if args.mode == "passage" else book_pages(args.draft, a, b)
     else:

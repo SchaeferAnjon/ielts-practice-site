@@ -1,0 +1,936 @@
+{
+  "id": "c7t2",
+  "book": "剑桥雅思7",
+  "test": 2,
+  "title": "剑7 Test 2 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "YES"
+    ],
+    "2": [
+      "NO"
+    ],
+    "3": [
+      "NOT GIVEN"
+    ],
+    "4": [
+      "YES"
+    ],
+    "5": [
+      "B"
+    ],
+    "6": [
+      "A"
+    ],
+    "7": [
+      "B"
+    ],
+    "8": [
+      "C"
+    ],
+    "9": [
+      "A"
+    ],
+    "10": [
+      "C"
+    ],
+    "11": [
+      "D"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "E"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "C"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "YES"
+    ],
+    "19": [
+      "NOT GIVEN"
+    ],
+    "20": [
+      "NO"
+    ],
+    "21": [
+      "YES"
+    ],
+    "22": [
+      "food bills",
+      "costs"
+    ],
+    "23": [
+      "intensive farming",
+      "modern intensive farming"
+    ],
+    "24": [
+      "organic farming"
+    ],
+    "25": [
+      "Greener Food Standard"
+    ],
+    "26": [
+      "farmers and consumers",
+      "consumers and farmers"
+    ],
+    "27": [
+      "ii"
+    ],
+    "28": [
+      "v"
+    ],
+    "29": [
+      "x"
+    ],
+    "30": [
+      "i"
+    ],
+    "31": [
+      "NO"
+    ],
+    "32": [
+      "YES"
+    ],
+    "33": [
+      "NO"
+    ],
+    "34": [
+      "YES"
+    ],
+    "35": [
+      "NOT GIVEN"
+    ],
+    "36": [
+      "D"
+    ],
+    "37": [
+      "I"
+    ],
+    "38": [
+      "G"
+    ],
+    "39": [
+      "E"
+    ],
+    "40": [
+      "B"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "why": "原文明确说 1400 年里只倒塌过两座，与题干直接对应，故为 YES。",
+      "key": "Records show that only two have collapsed during the past 1400 years ."
+    },
+    "2": {
+      "loc": "p1",
+      "why": "原文说 1995 年阪神地震中 Toji 寺的塔完好无损（unscathed），与题干「被摧毁」矛盾，故为 NO。",
+      "key": "Yet it left the magnificent five-storey pagoda at the Toji temple in nearby Kyoto unscathed, though it levelled a number of buildings in the neighbourhood."
+    },
+    "3": {
+      "loc": "p1",
+      "why": "原文只说地震震塌了附近一些建筑，并未提及这些建筑的建造年代，故为 NOT GIVEN。",
+      "key": "Yet it left the magnificent five-storey pagoda at the Toji temple in nearby Kyoto unscathed, though it levelled a number of buildings in the neighbourhood."
+    },
+    "4": {
+      "loc": "p3",
+      "why": "原文说工匠们懂得让建筑摇摆、自我调整而不是对抗自然的力量，即懂得吸收恶劣天气产生的力，故为 YES。",
+      "key": "Clearly, Japanese carpenters of the day knew a few tricks about allowing a building to sway and settle itself rather than fight nature's forces."
+    },
+    "5": {
+      "loc": "p4",
+      "why": "原文说中国的塔有内部楼梯（inner staircases），而日本的塔取消了楼梯，故「便于到达顶部」只适用于中国塔，选 B。",
+      "key": "The Chinese built their pagodas in brick or stone, with inner staircases, and used them in later centuries mainly as watchtowers ."
+    },
+    "6": {
+      "loc": "p5",
+      "why": "中国塔用瓷瓦、日本塔用陶瓦，两者屋檐都铺瓦，只是材质不同，故「屋檐铺瓦」是两者共有特征，选 A。",
+      "key": "For the same reason, the builders of Japanese pagodas seem to have further increased their weight by choosing to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles."
+    },
+    "7": {
+      "loc": "p4",
+      "why": "原文说中国后来把塔当瞭望塔用，日本的塔没有实际用途、只是艺术品，故「用作瞭望哨」只适用于中国塔，选 B。",
+      "key": "The Chinese built their pagodas in brick or stone, with inner staircases, and used them in later centuries mainly as watchtowers ."
+    },
+    "8": {
+      "loc": "p5",
+      "why": "原文说日本塔的屋檐可以比建筑宽度多出一半以上，且前文提到中国、韩国的塔没有这样的悬挑，故只适用于日本塔，选 C。",
+      "key": "The roof of a Japanese temple building can be made to overhang the sides of the structure by fifty per cent or more of the building's overall width."
+    },
+    "9": {
+      "loc": "p4",
+      "why": "原文说塔最初随佛教传入并附属于重要寺庙，这一宗教起源在中国、日本都适用，选 A。",
+      "key": "As in China, they were first introduced with Buddhism and were attached to important temples."
+    },
+    "10": {
+      "loc": "p8",
+      "why": "原文说日本塔的各层像一摞帽子一样松散地叠放，这是日本塔特有的构造，选 C。",
+      "key": "They are simply stacked one on top of another like a pile of hats."
+    },
+    "11": {
+      "loc": "p7",
+      "why": "原文说心柱（shinbashira）的作用是在各层晃动到一定距离后把它们撞停，从而限制楼层过度移动，对应选项 D。",
+      "key": "The shinbashira, running up through a hole in the centre of the building, constrained individual storeys from moving too far because, after moving a certain distance, they banged into it, transmitting energy away along the column."
+    },
+    "12": {
+      "loc": "p7",
+      "why": "原文说石田修造建了一系列模型并在振动台上测试，是为了研究塔的动力学原理，对应选项 C。",
+      "key": "Mr Ishida, known to his students as 'Professor Pagoda' because of his passion to understand the pagoda, has built a series of models and tested them on a 'shake- table' in his laboratory."
+    },
+    "13": {
+      "loc": "p8",
+      "why": "原文说日本塔的各层只是像帽子一样松散地叠放在一起，对应选项 C「松散地叠放」。",
+      "key": "They are simply stacked one on top of another like a pile of hats."
+    },
+    "14": {
+      "loc": "E",
+      "why": "E 段提到「£23m for the removal of the bug cryptosporidium from drinking water」，正是净化饮用水的花费，对应 E 段。",
+      "key": "The costs included: £120m for removal of pesticides; £16m for removal of nitrates; £55m for removal of phosphates and soil; £23m for the removal of the bug cryptosporidium from drinking water by water companies; £125m for damage to wildlife habitats, hedgerows and dry stone walls; £1,113m from emissions of gases likely to contribute to climate change; £106m from soil erosion and organic carbon losses; £169m from food poisoning; and £607m from cattle disease."
+    },
+    "15": {
+      "loc": "B",
+      "why": "B 段按顺序列出集约化农业发展的各个阶段：机械化、化肥农药、单一种植、圈养、基因工程，对应「农业发展的各阶段」。",
+      "key": "First mechanisation, then mass use of chemical fertilisers and pesticides, then monocultures, then battery rearing of livestock, and now genetic engineering - the onward march of intensive farming has seemed unstoppable in the last half-century, as the yields of produce have soared."
+    },
+    "16": {
+      "loc": "C",
+      "why": "C 段说这些隐性代价在经济学上被称为 externalities（外部性），这正是题干「描述隐性成本的术语」。",
+      "key": "That is mainly because the costs of all this damage are what economists refer to as externalities: they are outside the main transaction, which is for example producing and selling a field of wheat, and are borne directly by neither producers nor consumers."
+    },
+    "17": {
+      "loc": "B",
+      "why": "B 段提到化肥流失导致湖泊藻类增多，这是化学品对水源的一种影响，对应 B 段。",
+      "key": "Natural soil fertility is dropping in many areas because of continuous industrial fertiliser and pesticide use, while the growth of algae is increasing in lakes because of the fertiliser run-off."
+    },
+    "18": {
+      "loc": "B",
+      "why": "B 段列举云雀、灰山鹑等农田鸟类已从大片乡村消失，说明野生动物正在减少，故为 YES。",
+      "key": "In Britain, for example, many of our best-loved farmland birds, such as the skylark, the grey partridge, the lapwing and the corn bunting, have vanished from huge stretches of countryside, as have even more wild flowers and insects."
+    },
+    "19": {
+      "loc": "A",
+      "why": "全文只讨论食品价格和环境代价，没有提到食品口味的变化，故为 NOT GIVEN。",
+      "key": "In the West at least, most food is now far cheaper to buy in relative terms than it was in 1960."
+    },
+    "20": {
+      "loc": "C",
+      "why": "C 段说消费者很少把这些代价和金钱联系起来，甚至觉得这些代价「不是财务上的」，说明这些财务代价并未被广泛认识到，与题干相反，故为 NO。",
+      "key": "Put it all together and it looks like a battlefield , but consumers rarely make the connection at the dinner table."
+    },
+    "21": {
+      "loc": "E",
+      "why": "E 段列出的费用明细里包含「£169m from food poisoning」食物中毒，正是 Pretty 教授计算的代价之一，故为 YES。",
+      "key": "The costs included: £120m for removal of pesticides; £16m for removal of nitrates; £55m for removal of phosphates and soil; £23m for the removal of the bug cryptosporidium from drinking water by water companies; £125m for damage to wildlife habitats, hedgerows and dry stone walls; £1,113m from emissions of gases likely to contribute to climate change; £106m from soil erosion and organic carbon losses; £169m from food poisoning; and £607m from cattle disease."
+    },
+    "22": {
+      "loc": "E",
+      "why": "E 段说我们的食品账单（food bills）实际上是三重的，对应摘要中「our ___ are higher than most people realise」。",
+      "key": "Professor Pretty draws a simple but memorable conclusion from all this: our food bills are actually threefold."
+    },
+    "23": {
+      "loc": "F",
+      "why": "F 段讨论英国摆脱工业化/集约化农业（intensive farming）的可行性，对应摘要「减少对现代集约化农业的依赖」。",
+      "key": "Breaking away from industrial agriculture as the solution to hunger may be very hard for some countries, but in Britain, where the immediate need to supply food is less urgent, and the costs and the damage of intensive farming have been clearly seen, it may be more feasible."
+    },
+    "24": {
+      "loc": "G",
+      "why": "G 段说有机农业（organic farming）对许多农民来说跨度太大，难以适应，对应摘要「大多数农民难以适应……」。",
+      "key": "Professor Pretty feels that organic farming would be too big a jump in thinking and in practices for many farmers."
+    },
+    "25": {
+      "loc": "G",
+      "why": "G 段说 Pretty 教授建议立即引入「Greener Food Standard」，对应摘要中政府应建立的标准。",
+      "key": "He is recommending the immediate introduction of a 'Greener Food Standard', which would push the market towards more sustainable environmental practices than the current norm, while not requiring the full commitment to organic production."
+    },
+    "26": {
+      "loc": "G",
+      "why": "G 段说这一标准有助于改变消费者和农民（consumers as well as farmers）的态度，对应摘要「both ___」，答案两词顺序均可。",
+      "key": "It could go a long way, he says, to shifting consumers as well as farmers towards a more sustainable system of agriculture. ··"
+    },
+    "27": {
+      "loc": "B",
+      "why": "B 段讲 Phase I 通过对 400 多户家庭的调查来摸清农村家庭的交通需求，对应标题 ii「找出主要的交通问题」。",
+      "key": "The socio-economic survey of more than 400 households in the district indicated that a household in Makete spent, on average, seven hours a day on transporting themselves and their goods, a figure which seemed extreme but which has also been obtained in surveys in other rural areas in Africa."
+    },
+    "28": {
+      "loc": "C",
+      "why": "C 段讲 Phase II 采取了多种方式改善出行和交通方式（道路、小径、驴子、独轮车），对应标题 v「出行和交通方式的初步改善」。",
+      "key": "During Phase II, from January to February 1991, a number of approaches were implemented in an effort to improve mobility and access to transport."
+    },
+    "29": {
+      "loc": "E",
+      "why": "E 段说项目必须先从地区政府官员这一层级开始推动，说明离不开地区官员的配合，对应标题 x「地区官员的合作」。",
+      "key": "It would have been easy to criticise the MIRTP for using in the early phases a 'top-down' approach, in which decisions were made by experts and officials before being handed down to communities, but it was necessary to start the process from the level of the governmental authorities of the district."
+    },
+    "30": {
+      "loc": "F",
+      "why": "F 段说 Makete 的经验将作为坦桑尼亚未来同类项目的参考，对应标题 i「MIRTP 作为未来的模板」。",
+      "key": "The experiences from Makete will help in this initiative, and Makete District will act as a reference for future work."
+    },
+    "31": {
+      "loc": "D",
+      "why": "全文按 Phase I、Phase II、Phase III 三个阶段展开，并没有五个阶段，故题干「分为五个阶段」与原文不符，为 NO。",
+      "key": "Phase III, from March 1991 to March 1993. focused on the refinement and institutionalisation of these activities."
+    },
+    "32": {
+      "loc": "B",
+      "why": "B 段开头就说雨季时 Makete 地区几乎完全与外界隔绝，与题干直接对应，故为 YES。",
+      "key": "When the project began, Makete District was virtually totally isolated during the rainy season ."
+    },
+    "33": {
+      "loc": "B",
+      "why": "B 段说 Phase I 的调查内容是家庭每天花多少时间在交通运输上，是时间而非「家庭交通支出」，故为 NO。",
+      "key": "The socio-economic survey of more than 400 households in the district indicated that a household in Makete spent, on average, seven hours a day on transporting themselves and their goods, a figure which seemed extreme but which has also been obtained in surveys in other rural areas in Africa."
+    },
+    "34": {
+      "loc": "B",
+      "why": "B 段说 80% 的出行在本地范围内，意味着 20%（即五分之一）在本地以外，与题干「五分之一在本地以外」一致，故为 YES。",
+      "key": "Interesting facts regarding transport were found: 95% was on foot; 80% was within the locality; and 70% was related to the collection of water and firewood and travelling to grinding mills."
+    },
+    "35": {
+      "loc": "A",
+      "why": "全文只讲改善 Makete 地区内部的交通，从未提到把货物运往首都，故为 NOT GIVEN。",
+      "key": "The objective was to reduce the time and effort needed to obtain access to essential goods and services through an improved rural transport system."
+    },
+    "36": {
+      "loc": "C",
+      "why": "C 段说这些小径是上下山坡的捷径，于是通过修建台阶、扶手和小桥来改善，对应句尾 D「用于上下山坡的运输小径得到了改善」。",
+      "key": "Most goods were transported along the paths that provide short-cuts up and down the hillsides, but the paths were a real safety risk and made the journey on foot even more arduous."
+    },
+    "37": {
+      "loc": "D",
+      "why": "D 段说大多数机动车都出了故障且无钱维修，导致改善现有交通服务效率的努力不太成功，对应句尾 I「阻碍了让现有交通服务更高效的尝试」。",
+      "key": "The efforts to improve the efficiency of the existing transport services were not very successful because most of the motorised vehicles in the district broke down and there were no resources to repair them."
+    },
+    "38": {
+      "loc": "D",
+      "why": "D 段说小径和次要道路只有在社区愿意参与、主动提出请求时才会得到改善，对应句尾 G「只是应愿意帮忙的当地人的请求而进行的」。",
+      "key": "Paths and secondary roads were improved only at the request of communities who were willing to participate in construction and maintenance."
+    },
+    "39": {
+      "loc": "D",
+      "why": "D 段说道路改善后地区中心全年都可通行，说明道路修好后原来因雨季造成的隔绝就不再是问题，对应句尾 E「道路改善后就不再是问题」。",
+      "key": "The road improvements and accompanying maintenance system had helped make the district centre accessible throughout the year."
+    },
+    "40": {
+      "loc": "A",
+      "why": "全文按时间顺序介绍了 MIRTP 从立项到三个阶段实施、再到最终成效的完整过程，主旨是「描述 MIRTP 是如何实施的以及它有多成功」，对应选项 B。",
+      "key": "The Makete Integrated Rural Transport Project (MIRTP) started in 1985 with financial support from the Swiss Development Corporation and was co-ordinated with the help of the Tanzanian government."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Why pagodas don't fall down",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "In a land swept by typhoons and shaken by earthquakes, how have Japan's tallest and seemingly flimsiest old buildings- 500 or so wooden pagodas- remained standing for centuries? Records show that only two have collapsed during the past 1400 years . Those that have disappeared were destroyed by fire as a result of lightning or civil war. The disastrous Hanshin earthquake in 1995 killed 6,400 people, toppled elevated highways, flattened office blocks and devastated the port area of Kobe. Yet it left the magnificent five-storey pagoda at the Toji temple in nearby Kyoto unscathed, though it levelled a number of buildings in the neighbourhood."
+        },
+        {
+          "id": "p2",
+          "text": "Japanese scholars have been mystified for ages about why these tall, slender buildings are so stable. It was only thirty years ago that the building industry felt confident enough to erect office blocks of steel and reinforced concrete that had more than a dozen floors . With its special shock absorbers to dampen the effect of sudden sideways movements from an earthquake, the thirty-six-storey Kasumigaseki building in central Tokyo- Japan's first skyscraper- was considered a masterpiece of modern engineering when it was built in 1968."
+        },
+        {
+          "id": "p3",
+          "text": "Yet in 826, with only pegs and wedges to keep his wooden structure upright, the master builder Kobodaishi had no hesitation in sending his majestic Toji pagoda soaring fifty-five metres into the sky- nearly half as high as the Kasumigaseki skyscraper built some eleven centuries later. Clearly, Japanese carpenters of the day knew a few tricks about allowing a building to sway and settle itself rather than fight nature's forces. But what sort of tricks?"
+        },
+        {
+          "id": "p4",
+          "text": "The multi-storey pagoda came to Japan from China in the sixth century. As in China, they were first introduced with Buddhism and were attached to important temples. The Chinese built their pagodas in brick or stone, with inner staircases, and used them in later centuries mainly as watchtowers . When the pagoda reached Japan, however, its architecture was freely adapted to local conditions- they were built less high, typically five rather than nine storeys, made mainly of wood and the staircase was dispensed with because the Japanese pagoda did not have any practical use but became more of an art object. Because of the typhoons that batter Japan in the summer, Japanese builders learned to extend the eaves of buildings further beyond the walls. This prevents rainwater gushing down the walls. Pagodas in China and Korea have nothing like the overhang that is found on pagodas in Japan ."
+        },
+        {
+          "id": "p5",
+          "text": "The roof of a Japanese temple building can be made to overhang the sides of the structure by fifty per cent or more of the building's overall width. For the same reason, the builders of Japanese pagodas seem to have further increased their weight by choosing to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles."
+        },
+        {
+          "id": "p6",
+          "text": "But this does not totally explain the great resilience of Japanese pagodas. Is the answer that, like a tall pine tree, the Japanese pagoda- with its massive trunk-like central pillar known as shinbashira- simply flexes and sways during a typhoon or earthquake? For centuries, many thought so . But the answer is not so simple because the startling thing is that the shinbashira actually carries no load at all. In fact, in some pagoda designs, it does not even rest on the ground, but is suspended from the top of the pagoda- hanging loosely down through the middle of the building. The weight of the building is supported entirely by twelve outer and four inner columns."
+        },
+        {
+          "id": "p7",
+          "text": "And what is the role of the shinbashira, the central pillar? The best way to understand the shinbashira's role is to watch a video made by Shuzo Ishida, a structural engineer at Kyoto Institute of Technology. Mr Ishida, known to his students as 'Professor Pagoda' because of his passion to understand the pagoda, has built a series of models and tested them on a 'shake- table' in his laboratory. In short, the shinbashira was acting like an enormous stationary pendulum . The ancient craftsmen, apparently without the assistance of very advanced mathematics, seemed to grasp the principles that were, more than a thousand years later, applied in the construction of Japan's first skyscraper. What those early craftsmen had found by trial and error was that under pressure a pagoda's loose stack of floors could be made to slither to and fro independent of one another. Viewed from the side, the pagoda seemed to be doing a snake dance- with each consecutive floor moving in the opposite direction to its neighbours above and below. The shinbashira, running up through a hole in the centre of the building, constrained individual storeys from moving too far because, after moving a certain distance, they banged into it, transmitting energy away along the column."
+        },
+        {
+          "id": "p8",
+          "text": "Another strange feature of the Japanese pagoda is that, because the building tapers, with each successive floor plan being smaller than the one below, none of the vertical pillars that carry the weight of the building is connected to its corresponding pillar above. In other words, a five-storey pagoda contains not even one pillar that travels right up through the building to carry the structural loads from the top to the bottom . More surprising is the fact that the individual storeys of a Japanese pagoda, unlike their counterparts elsewhere, are not actually connected to each other. They are simply stacked one on top of another like a pile of hats. Interestingly, such a design would not be permitted under current Japanese building regulations."
+        },
+        {
+          "id": "p9",
+          "text": "And the extra-wide eaves? Think of them as a tightrope walker's balancing pole. The bigger the mass at each end of the pole, the easier it is for the tightrope walker to maintain his or her balance . The same holds true for a pagoda . 'With the eaves extending out on all sides like balancing poles,' says Mr Ishida, 'the building responds to even the most powerful jolt of an earthquake with a graceful swaying, never an abrupt shaking .' Here again, Japanese master builders of a thousand years ago anticipated concepts of modern structural engineering."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            4
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 1?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "Only two Japanese pagodas have collapsed in 1400 years."
+            },
+            {
+              "n": 2,
+              "text": "The Hanshin earthquake of 1995 destroyed the pagoda at the Toji temple."
+            },
+            {
+              "n": 3,
+              "text": "The other buildings near the Toji pagoda had been built in the last 30 years."
+            },
+            {
+              "n": 4,
+              "text": "The builders of pagodas knew how to absorb some of the power produced by severe weather conditions."
+            }
+          ]
+        },
+        {
+          "range": [
+            5,
+            10
+          ],
+          "type": "matching",
+          "instruction": "Classify the following as typical of",
+          "limit": "Write the correct letter, A, B or C, in boxes 5-10 on your answer sheet.",
+          "options": [
+            {
+              "k": "A",
+              "text": "both Chinese and Japanese pagodas"
+            },
+            {
+              "k": "B",
+              "text": "only Chinese pagodas"
+            },
+            {
+              "k": "C",
+              "text": "only Japanese pagodas"
+            }
+          ],
+          "items": [
+            {
+              "n": 5,
+              "text": "easy interior access to top"
+            },
+            {
+              "n": 6,
+              "text": "tiles on eaves"
+            },
+            {
+              "n": 7,
+              "text": "use as observation post"
+            },
+            {
+              "n": 8,
+              "text": "size of eaves up to half the width of the building"
+            },
+            {
+              "n": 9,
+              "text": "original religious purpose"
+            },
+            {
+              "n": 10,
+              "text": "floors fitting loosely over each other"
+            }
+          ]
+        },
+        {
+          "range": [
+            11,
+            13
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 11,
+              "text": "In a Japanese pagoda, the shinbashira",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "bears the full weight of the building."
+                },
+                {
+                  "k": "B",
+                  "text": "bends under pressure like a tree."
+                },
+                {
+                  "k": "C",
+                  "text": "connects the floors with the foundations."
+                },
+                {
+                  "k": "D",
+                  "text": "stops the floors moving too far."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "Shuzo Ishida performs experiments in order to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "improve skyscraper design."
+                },
+                {
+                  "k": "B",
+                  "text": "be able to build new pagodas."
+                },
+                {
+                  "k": "C",
+                  "text": "learn about the dynamics of pagodas."
+                },
+                {
+                  "k": "D",
+                  "text": "understand ancient mathematics."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "The storeys of a Japanese pagoda are",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "linked only by wood."
+                },
+                {
+                  "k": "B",
+                  "text": "fastened only to the central pillar."
+                },
+                {
+                  "k": "C",
+                  "text": "fitted loosely on top of each other."
+                },
+                {
+                  "k": "D",
+                  "text": "joined by special weights."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The True Cost of Food",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "For more than forty years the cost of food has been rising. It has now reached a point where a growing number of people believe that it is far too high, and that bringing it down will be one of the great challenges of the twenty first century. That cost, however, is not in immediate cash. In the West at least, most food is now far cheaper to buy in relative terms than it was in 1960. The cost is in the collateral damage of the very methods of food production that have made the food cheaper: in the pollution of water, the enervation of soil, the destruction of wildlife, the harm to animal welfare and the threat to human health caused by modern industrial agriculture."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "First mechanisation, then mass use of chemical fertilisers and pesticides, then monocultures, then battery rearing of livestock, and now genetic engineering - the onward march of intensive farming has seemed unstoppable in the last half-century, as the yields of produce have soared. But the damage it has caused has been colossal. In Britain, for example, many of our best-loved farmland birds, such as the skylark, the grey partridge, the lapwing and the corn bunting, have vanished from huge stretches of countryside, as have even more wild flowers and insects. This is a direct result of the way we have produced our food in the last four decades. Thousands of miles of hedgerows, thousands of ponds, have disappeared from the landscape. The faecal filth of salmon farming has driven wild salmon from many of the sea lochs and rivers of Scotland. Natural soil fertility is dropping in many areas because of continuous industrial fertiliser and pesticide use, while the growth of algae is increasing in lakes because of the fertiliser run-off."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Put it all together and it looks like a battlefield , but consumers rarely make the connection at the dinner table. That is mainly because the costs of all this damage are what economists refer to as externalities: they are outside the main transaction, which is for example producing and selling a field of wheat, and are borne directly by neither producers nor consumers. To many, the costs may not even appear to be financial at all, but merely aesthetic- a terrible shame, but nothing to do with money. And anyway they, as consumers of food, certainly aren't paying for it, are they?"
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "But the costs to society can actually be quantified and, when added up, can amount to staggering sums. A remarkable exercise in doing this has been carried out by one of the world's leading thinkers on the future of agriculture, Professor Jules Pretty, Director of the Centre for Environment and Society at the University of Essex. Professor Pretty and his colleagues calculated the externalities of British agriculture for one particular year. They added up the costs of repairing the damage it caused, and came up with a total figure of £2,343m. This is equivalent to £208 for every hectare of arable land and permanent pasture, almost as much again as the total government and EU spend on British farming in that year. And according to Professor Pretty, it was a conservative estimate."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "The costs included: £120m for removal of pesticides; £16m for removal of nitrates; £55m for removal of phosphates and soil; £23m for the removal of the bug cryptosporidium from drinking water by water companies; £125m for damage to wildlife habitats, hedgerows and dry stone walls; £1,113m from emissions of gases likely to contribute to climate change; £106m from soil erosion and organic carbon losses; £169m from food poisoning; and £607m from cattle disease. Professor Pretty draws a simple but memorable conclusion from all this: our food bills are actually threefold. We are paying for our supposedly cheaper food in three separate ways: once over the counter, secondly through our taxes, which provide the enormous subsidies propping up modern intensive farming, and thirdly to clean up the mess that modern farming leaves behind."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "So can the true cost of food be brought down? Breaking away from industrial agriculture as the solution to hunger may be very hard for some countries, but in Britain, where the immediate need to supply food is less urgent, and the costs and the damage of intensive farming have been clearly seen, it may be more feasible. The government needs to create sustainable, competitive and diverse farming and food sectors, which will contribute to a thriving and sustainable rural economy, and advance environmental, economic, health, and animal welfare goals."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "But if industrial agriculture is to be replaced, what is a viable alternative? Professor Pretty feels that organic farming would be too big a jump in thinking and in practices for many farmers. Furthermore, the price premium would put the produce out of reach of many poorer consumers. He is recommending the immediate introduction of a 'Greener Food Standard', which would push the market towards more sustainable environmental practices than the current norm, while not requiring the full commitment to organic production. Such a standard would comprise agreed practices for different kinds of farming, covering agrochemical use, soil health, land management, water and energy use, food safety and animal health. It could go a long way, he says, to shifting consumers as well as farmers towards a more sustainable system of agriculture. ··"
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            17
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information?",
+          "limit": "Write the correct letter, A-G, in boxes 14-17 on your answer sheet. NB You may use any letter more than once.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "a cost involved in purifying domestic water"
+            },
+            {
+              "n": 15,
+              "text": "the stages in the development of the farming industry"
+            },
+            {
+              "n": 16,
+              "text": "the term used to describe hidden costs"
+            },
+            {
+              "n": 17,
+              "text": "one effect of chemicals on water sources"
+            }
+          ]
+        },
+        {
+          "range": [
+            18,
+            21
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 2?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 18,
+              "text": "Several species of wildlife in the British countryside are declining."
+            },
+            {
+              "n": 19,
+              "text": "The taste of food has deteriorated in recent years."
+            },
+            {
+              "n": 20,
+              "text": "The financial costs of environmental damage are widely recognised."
+            },
+            {
+              "n": 21,
+              "text": "One of the costs calculated by Professor Pretty was illness caused by food."
+            }
+          ]
+        },
+        {
+          "range": [
+            22,
+            26
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+          "limit": "Write your answers in boxes 22-26 on your answer sheet.",
+          "text": "Professor Pretty concludes that our {{22}} are higher than most people realise, because we make three different types of payment. He feels it is realistic to suggest that Britain should reduce its reliance on {{23}}. Although most farmers would be unable to adapt to {{24}}, Professor Pretty wants the government to initiate change by establishing what he refers to as a {{25}}. He feels this would help to change the attitudes of both {{26}}."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Makete Integrated Rural Transport Project",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 on the following pages.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "The disappointing results of many conventional road transport projects in Africa led some experts to rethink the strategy by which rural transport problems were to be tackled at the beginning of the 1980s. A request for help in improving the availability of transport within the remote Makete District of south-western Tanzania presented the opportunity to try a new approach. The concept of 'integrated rural transport' was adopted in the task of examining the transport needs of the rural households in the district. The objective was to reduce the time and effort needed to obtain access to essential goods and services through an improved rural transport system. The underlying assumption was that the time saved would be used instead for activities that would improve the social and economic development of the communities. The Makete Integrated Rural Transport Project (MIRTP) started in 1985 with financial support from the Swiss Development Corporation and was co-ordinated with the help of the Tanzanian government."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "When the project began, Makete District was virtually totally isolated during the rainy season . The regional road was in such bad shape that access to the main towns was impossible for about three months of the year. Road traffic was extremely rare within the district, and alternative means of transport were restricted to donkeys in the north of the district. People relied primarily on the paths, which were slippery and dangerous during the rains. Before solutions could be proposed, the problems had to be understood. Little was known about the transport demands of the rural households, so Phase I, between December 1985 and December 1987, focused on research . The socio-economic survey of more than 400 households in the district indicated that a household in Makete spent, on average, seven hours a day on transporting themselves and their goods, a figure which seemed extreme but which has also been obtained in surveys in other rural areas in Africa. Interesting facts regarding transport were found: 95% was on foot; 80% was within the locality; and 70% was related to the collection of water and firewood and travelling to grinding mills."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Having determined the main transport needs, possible solutions were identified which might reduce the time and burden. During Phase II, from January to February 1991, a number of approaches were implemented in an effort to improve mobility and access to transport. An improvement of the road network was considered necessary to ensure the import and export of goods to the district. These improvements were carried out using methods that were heavily dependent on labour. In addition to the improvement of roads, these methods provided training in the operation of a mechanical workshop and bus and truck services. However; the difference from the conventional approach was that this time consideration was given to local transport needs outside the road network. Most goods were transported along the paths that provide short-cuts up and down the hillsides, but the paths were a real safety risk and made the journey on foot even more arduous. It made sense to improve the paths by building steps, handrails and footbridges. It was uncommon to find means of transport that were more efficient than walking but less technologically advanced than motor vehicles. The use of bicycles was constrained by their high cost and the lack of available spare parts. Oxen were not used at all but donkeys were used by a few households in the northern part of the district. MIRTP focused on what would be most appropriate for the inhabitants of Makete in terms of what was available, how much they could afford and what they were willing to accept. After careful consideration, the project chose the promotion of donkeys- a donkey costs less than a bicycle - and the introduction of a locally manufacturable wheelbarrow."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "At the end of Phase II, it was clear that the selected approaches to Makete's transport problems had had different degrees of success. Phase III, from March 1991 to March 1993. focused on the refinement and institutionalisation of these activities. The road improvements and accompanying maintenance system had helped make the district centre accessible throughout the year. Essential goods from outside the district had become more readily available at the market, and prices did not fluctuate as much as they had done before. Paths and secondary roads were improved only at the request of communities who were willing to participate in construction and maintenance. However, the improved paths impressed the inhabitants, and requests for assistance greatly increased soon after only a few improvements had been completed. The efforts to improve the efficiency of the existing transport services were not very successful because most of the motorised vehicles in the district broke down and there were no resources to repair them. Even the introduction of low-cost means of transport was difficult because of the general poverty of the district. The locally manufactured wheelbarrows were still too expensive for all but a few of the households. Modifications to the original design by local carpenters cut production time and costs. Other local carpenters have been trained in the new design so that they can respond to requests. Nevertheless, a locally produced wooden wheelbarrow which costs around 5000 Tanzanian shillings (less than US$20) in Makete, and is about one quarter the cost of a metal wheelbarrow, is still too expensive for most people . Donkeys, which were imported to the district, have become more common and contribute, in particular, to the transportation of crops and goods to market. Those who have bought donkeys are mainly from richer households but, with an increased supply through local breeding, donkeys should become more affordable. Meanwhile, local initiatives are promoting the renting out of the existing donkeys. It should be noted, however, that a donkey, which at 20,000 Tanzanian shillings costs less than a bicycle, is still an investment equal to an average household's income over half a year. This clearly illustrates the need for supplementary measures if one wants to assist the rural poor."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "It would have been easy to criticise the MIRTP for using in the early phases a 'top-down' approach, in which decisions were made by experts and officials before being handed down to communities, but it was necessary to start the process from the level of the governmental authorities of the district. It would have been difficult to respond to the requests of villagers and other rural inhabitants without the support and understanding of district authorities."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Today, nobody in the district argues about the importance of improved paths and inexpensive means of transport. But this is the result of dedicated work over a long period, particularly from the officers in charge of community development. They played an essential role in raising awareness and interest among the rural communities. The concept of integrated rural transport is now well established in Tanzania, where a major program of rural transport is just about to start. The experiences from Makete will help in this initiative, and Makete District will act as a reference for future work."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 3 has six sections, A-F. Choose the correct heading for sections B, C, E and F from the list of headings below. (Section A has the example heading vi; Section D has the example heading ix.)",
+          "limit": "Write the correct number, i-xi, in boxes 27-30 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "MIRTP as a future model"
+            },
+            {
+              "k": "ii",
+              "text": "Identifying the main transport problems"
+            },
+            {
+              "k": "iii",
+              "text": "Preference for motorised vehicles"
+            },
+            {
+              "k": "iv",
+              "text": "Government authorities' instructions"
+            },
+            {
+              "k": "v",
+              "text": "Initial improvements in mobility and transport modes"
+            },
+            {
+              "k": "vi",
+              "text": "Request for improved transport in Makete"
+            },
+            {
+              "k": "vii",
+              "text": "Transport improvements in the northern part of the district"
+            },
+            {
+              "k": "viii",
+              "text": "Improvements in the rail network"
+            },
+            {
+              "k": "ix",
+              "text": "Effects of initial MIRTP measures"
+            },
+            {
+              "k": "x",
+              "text": "Co-operation of district officials"
+            },
+            {
+              "k": "xi",
+              "text": "Role of wheelbarrows and donkeys"
+            }
+          ],
+          "itemsTitle": "Sections",
+          "items": [
+            {
+              "n": 27,
+              "text": "Section B"
+            },
+            {
+              "n": 28,
+              "text": "Section C"
+            },
+            {
+              "n": 29,
+              "text": "Section E"
+            },
+            {
+              "n": 30,
+              "text": "Section F"
+            }
+          ]
+        },
+        {
+          "range": [
+            31,
+            35
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 31,
+              "text": "MIRTP was divided into five phases."
+            },
+            {
+              "n": 32,
+              "text": "Prior to the start of MIRTP the Makete district was almost inaccessible during the rainy season."
+            },
+            {
+              "n": 33,
+              "text": "Phase I of MIRTP consisted of a survey of household expenditure on transport."
+            },
+            {
+              "n": 34,
+              "text": "The survey concluded that one-fifth or 20% of the household transport requirement was outside the local area."
+            },
+            {
+              "n": 35,
+              "text": "MIRTP hoped to improve the movement of goods from Makete district to the country's capital."
+            }
+          ]
+        },
+        {
+          "range": [
+            36,
+            39
+          ],
+          "type": "matching",
+          "instruction": "Complete each sentence with the correct ending, A-J, below.",
+          "limit": "Write the correct letter, A-J, in boxes 36-39 on your answer sheet.",
+          "optionsTitle": "Sentence endings",
+          "options": [
+            {
+              "k": "A",
+              "text": "provided the people of Makete with experience in running bus and truck services."
+            },
+            {
+              "k": "B",
+              "text": "was especially successful in the northern part of the district."
+            },
+            {
+              "k": "C",
+              "text": "differed from earlier phases in that the community became less actively involved."
+            },
+            {
+              "k": "D",
+              "text": "improved paths used for transport up and down hillsides."
+            },
+            {
+              "k": "E",
+              "text": "was no longer a problem once the roads had been improved."
+            },
+            {
+              "k": "F",
+              "text": "cost less than locally made wheelbarrows."
+            },
+            {
+              "k": "G",
+              "text": "was done only at the request of local people who were willing to lend a hand."
+            },
+            {
+              "k": "H",
+              "text": "was at first considered by MIRTP to be affordable for the people of the district."
+            },
+            {
+              "k": "I",
+              "text": "hindered attempts to make the existing transport services more efficient."
+            },
+            {
+              "k": "J",
+              "text": "was thought to be the most important objective of Phase III."
+            }
+          ],
+          "items": [
+            {
+              "n": 36,
+              "text": "Construction of footbridges, steps and handrails"
+            },
+            {
+              "n": 37,
+              "text": "Frequent breakdown of buses and trucks in Makete"
+            },
+            {
+              "n": 38,
+              "text": "The improvement of secondary roads and paths"
+            },
+            {
+              "n": 39,
+              "text": "The isolation of Makete for part of the year"
+            }
+          ]
+        },
+        {
+          "range": [
+            40,
+            40
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 40,
+              "text": "Which of the following phrases best describes the main aim of Reading Passage 3?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "to suggest that projects such as MIRTP are needed in other countries"
+                },
+                {
+                  "k": "B",
+                  "text": "to describe how MIRTP was implemented and how successful it was"
+                },
+                {
+                  "k": "C",
+                  "text": "to examine how MIRTP promoted the use of donkeys"
+                },
+                {
+                  "k": "D",
+                  "text": "to warn that projects such as MIRTP are likely to have serious problems"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
