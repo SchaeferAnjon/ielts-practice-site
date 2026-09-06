@@ -129,6 +129,8 @@ def validate_listening(d: dict, errors: list) -> None:
         covered |= check_groups(p.get("groups", []), errors, w)
         check_answer_groups(p.get("groups", []), d.get("answers", {}), errors, w)
         tr = p.get("transcript", [])
+        if p.get("noTranscript"):
+            continue  # 资料里既没有音频也没有原文的 Part（剑20 精简版），只保留题目
         if len(tr) < 5:
             errors.append(f"{w}: transcript 只有 {len(tr)} 句")
         for l in tr:

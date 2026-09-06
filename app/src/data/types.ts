@@ -21,6 +21,8 @@ export type ListeningPart = {
   title: string;
   groups: Group[];
   transcript: TranscriptLine[];
+  /** 资料里既没有音频也没有原文（剑20 精简版），只保留题目 */
+  noTranscript?: boolean;
 };
 
 export type ListeningPaper = {
