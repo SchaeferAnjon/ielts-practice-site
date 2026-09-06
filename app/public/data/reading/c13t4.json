@@ -1,0 +1,811 @@
+{
+  "id": "c13t4",
+  "book": "剑桥雅思13",
+  "test": 4,
+  "title": "剑13 Test 4 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "FALSE"
+    ],
+    "2": [
+      "FALSE"
+    ],
+    "3": [
+      "TRUE"
+    ],
+    "4": [
+      "TRUE"
+    ],
+    "5": [
+      "FALSE"
+    ],
+    "6": [
+      "TRUE"
+    ],
+    "7": [
+      "NOT GIVEN"
+    ],
+    "8": [
+      "TRUE"
+    ],
+    "9": [
+      "wool"
+    ],
+    "10": [
+      "navigator"
+    ],
+    "11": [
+      "gale"
+    ],
+    "12": [
+      "training"
+    ],
+    "13": [
+      "fire"
+    ],
+    "14": [
+      "minerals"
+    ],
+    "15": [
+      "carbon"
+    ],
+    "16": [
+      "water"
+    ],
+    "17": [
+      "agriculture"
+    ],
+    "18": [
+      "C"
+    ],
+    "19": [
+      "E"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "D"
+    ],
+    "22": [
+      "E"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "F"
+    ],
+    "25": [
+      "G"
+    ],
+    "26": [
+      "F"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "F"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "G"
+    ],
+    "33": [
+      "E"
+    ],
+    "34": [
+      "A"
+    ],
+    "35": [
+      "YES"
+    ],
+    "36": [
+      "NOT GIVEN"
+    ],
+    "37": [
+      "NO"
+    ],
+    "38": [
+      "NOT GIVEN"
+    ],
+    "39": [
+      "YES"
+    ],
+    "40": [
+      "NO"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p2",
+      "key": "three-masted ships built to transport goods around the world, although some also took passengers",
+      "why": "题干说 clippers 最初是为载客设计，但原文说它们是为运货而造，载客只是附带功能，故为 FALSE。"
+    },
+    "2": {
+      "loc": "p3",
+      "key": "an old Scottish name for a short nightdress",
+      "why": "cutty sark 是女巫穿的短睡衣的名称，不是诗中人物的名字（人物叫 Nannie），故为 FALSE。"
+    },
+    "3": {
+      "loc": "p4",
+      "key": "ensured that the contract with them put him in a very strong position",
+      "why": "题干 favoured Willis = 原文 put him in a very strong position，故为 TRUE。"
+    },
+    "4": {
+      "loc": "p5",
+      "key": "Cutty Sark was designed to make the journey more quickly than any other ship",
+      "why": "题干与原文一致，Willis 希望这艘船比任何其他船都快，故为 TRUE。"
+    },
+    "5": {
+      "loc": "p5",
+      "key": "Cutty Sark reached London a week after Thermopylae",
+      "why": "原文说 Cutty Sark 比 Thermopylae 晚一周到达伦敦，即落败而非获胜，故为 FALSE。"
+    },
+    "6": {
+      "loc": "p6",
+      "key": "Steam ships reduced the journey time between Britain and China by approximately two months",
+      "why": "苏伊士运河使蒸汽船能走更快的直线航线，比帆船快两个月，故为 TRUE。"
+    },
+    "7": {
+      "loc": "p6",
+      "key": "the canal was of no use to sailing ships, which needed the much stronger winds of the oceans",
+      "why": "原文只说运河对帆船无用，帆船需要走大洋航线，但并未提及蒸汽船是否也走大洋航线，故为 NOT GIVEN。"
+    },
+    "8": {
+      "loc": "p8",
+      "key": "bringing her dangerously close to icebergs off the southern tip of South America",
+      "why": "题干 at risk of hitting an iceberg = 原文 dangerously close to icebergs，故为 TRUE。"
+    },
+    "9": {
+      "loc": "p7",
+      "key": "transporting wool from Australia to Britain",
+      "why": "1880 年后 Cutty Sark 最成功的时期是运输 wool（羊毛），填 wool。"
+    },
+    "10": {
+      "loc": "p8",
+      "key": "Richard Woodget, was an excellent navigator",
+      "why": "题干 as a captain and ___ = 原文 an excellent navigator，填 navigator。"
+    },
+    "11": {
+      "loc": "p10",
+      "key": "Badly damaged in a gale in 1922, she was put into Falmouth harbour",
+      "why": "Ferreira（船的当时名字）因 1922 年一场 gale（大风）受损才驶入 Falmouth 维修，填 gale。"
+    },
+    "12": {
+      "loc": "p11",
+      "key": "Dowman used Cutty Sark as a training ship",
+      "why": "1923-1954 期间该船被用作 training（培训）用途，填 training。"
+    },
+    "13": {
+      "loc": "p11",
+      "key": "The ship suffered from fire in 2007, and again, less seriously, in 2014",
+      "why": "21 世纪该船两次被 fire（火灾）损坏，填 fire。"
+    },
+    "14": {
+      "loc": "B",
+      "key": "living amid decomposing plants and various minerals",
+      "why": "健康土壤中除细菌等微生物外还含有腐烂植物和 minerals（矿物质），填 minerals。"
+    },
+    "15": {
+      "loc": "B",
+      "key": "they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere",
+      "why": "土壤储存 carbon（碳）从而影响气候，填 carbon。"
+    },
+    "16": {
+      "loc": "B",
+      "key": "Soils also store water, preventing flood damage",
+      "why": "土壤通过储存 water（水）防止洪水造成的建筑损害，填 water。"
+    },
+    "17": {
+      "loc": "C",
+      "key": "Agriculture is by far the biggest problem",
+      "why": "题干 main factor = 原文 Agriculture is by far the biggest problem，填 agriculture。"
+    },
+    "18": {
+      "loc": "C",
+      "key": "Humans tend not to return unused parts of harvested crops directly to the soil",
+      "why": "题干说收获后未用的作物部分所含营养，对应原文人类不把这些残余物归还土壤，即 C「可能不会被送回土壤」。"
+    },
+    "19": {
+      "loc": "D",
+      "key": "Chemical fertilisers can release polluting nitrous oxide into the atmosphere and excess is often washed away with the rain, releasing nitrogen into rivers",
+      "why": "化学肥料污染大气和河流、并使土壤酸化变咸，对应 E「可能对环境不同方面造成损害」。"
+    },
+    "20": {
+      "loc": "E",
+      "key": "a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt as hard as rock",
+      "why": "Floris 的混合物使植物长得更健康、根系更强壮，对应 A「可能提高那里生长的植物的数量和质量」。"
+    },
+    "21": {
+      "loc": "G",
+      "key": "We need ways of presenting the problem that bring it home to governments and the wider public",
+      "why": "零净土地退化的目标是为了让政府等更了解土壤问题，对应 D「可能帮助政府更加意识到土壤相关问题」。"
+    },
+    "22": {
+      "loc": "E",
+      "key": "One of the people looking for a solution to this problem is Pius Floris, who started out running a tree-care business",
+      "why": "该段讲述 Pius Floris 个人从事树木护理生意进而关注土壤改良的动机，对应题干「某人从事土壤改良项目的动机」。"
+    },
+    "23": {
+      "loc": "C",
+      "key": "In the wild, when plants grow they remove nutrients from the soil, but then when the plants die and decay these nutrients are returned directly to the soil",
+      "why": "该段解释了在农业出现前，野生环境中养分如何自然归还土壤，对应题干「农业发展前土壤保持健康的原因」。"
+    },
+    "24": {
+      "loc": "F",
+      "key": "measurements from field surveys, drone surveys, satellite imagery, lab analyses and so on",
+      "why": "该段列举了田野调查、无人机调查、卫星图像、实验室分析等多种收集土壤退化信息的方式，对应题干。"
+    },
+    "25": {
+      "loc": "G",
+      "key": "Several researchers are agitating for the immediate creation of protected zones for endangered soils",
+      "why": "该段提出为濒危土壤建立保护区的建议，对应题干「近期保护某些土壤类型安全的建议」。"
+    },
+    "26": {
+      "loc": "F",
+      "key": "there is no agreed international system for classifying soil",
+      "why": "该段指出没有统一的国际土壤分类系统，是难以全面了解土壤退化状况的原因，对应题干。"
+    },
+    "27": {
+      "loc": "p2",
+      "key": "since they are by education and intellectual conviction illiterate in the history of ideas",
+      "why": "评论者认为积极心理学倡导者对思想史一无所知，对应 D「他们对应该考虑的观点一无所知」。"
+    },
+    "28": {
+      "loc": "p2",
+      "key": "The Greek philosopher Aristotle may have identified happiness with self-realisation in the 4th century BC",
+      "why": "亚里士多德把幸福等同于自我实现而非单纯的快乐与无痛苦，暗示幸福可能不只是快乐与无痛苦，对应 A。"
+    },
+    "29": {
+      "loc": "p4",
+      "key": "Bentham 'set the stage for the entangling of psychological research and capitalism that would shape the business practices of the twentieth century'",
+      "why": "本瑟姆把价格与快乐挂钩的做法把心理学研究与资本主义（工作/商业）联系起来，对应 B「在工作与心理学之间建立了联系」。"
+    },
+    "30": {
+      "loc": "p3",
+      "key": "he wrote to the Home Office suggesting that the departments of government be linked together through a set of 'conversation tubes'",
+      "why": "对话管连接各政府部门，用于沟通，填 communication（F）。"
+    },
+    "31": {
+      "loc": "p3",
+      "key": "a design for a printing device that could produce unforgeable banknotes",
+      "why": "无法伪造的钞票印刷技术是为了提高银行票据的 security（安全性），填 B。"
+    },
+    "32": {
+      "loc": "p4",
+      "key": "He drew up plans for a 'frigidarium' to keep provisions such as meat, fish, fruit and vegetables fresh",
+      "why": "frigidarium 用于保鲜食物，即 preservation（保存），填 G。"
+    },
+    "33": {
+      "loc": "p4",
+      "key": "in which prisoners would be kept in solitary confinement while being visible at all times to the guards",
+      "why": "圆形监狱设计让狱警随时能 observe（观察）囚犯，填 E。"
+    },
+    "34": {
+      "loc": "p5",
+      "key": "If happiness is to be regarded as a science, it has to be measured",
+      "why": "本瑟姆研究幸福时探讨如何 measure（测量）幸福，填 A。"
+    },
+    "35": {
+      "loc": "p3",
+      "key": "One of the virtues of this rich, lucid and arresting book is that it places the current cult of happiness in a well-defined historical framework",
+      "why": "评论者称赞该书对经济与心理学关系的历史梳理，结合第五段对经济问题被重新定义为心理问题的讨论，符合作者观点，故为 YES。"
+    },
+    "36": {
+      "loc": "p5",
+      "key": "We learn much that is interesting about how economic problems are being redefined and treated as psychological maladies",
+      "why": "文中未比较不同情绪的测量难度，故为 NOT GIVEN。"
+    },
+    "37": {
+      "loc": "p5",
+      "key": "Watson had no factual basis for his view of human action... his research had been confined to experiments on white rats",
+      "why": "沃森1915年之前的研究只针对白鼠，并非人类研究，与题干相反，故为 NO。"
+    },
+    "38": {
+      "loc": "p5",
+      "key": "in Britain, a 'Behaviour Insights Team' has been established by the government",
+      "why": "文中只提到英国政府应用了沃森的思想，并未比较美国以外地区的影响程度，故为 NOT GIVEN。"
+    },
+    "39": {
+      "loc": "p6",
+      "key": "Modern industrial societies appear to need the possibility of ever-increasing happiness to motivate them in their labours",
+      "why": "题干与原文一致，工业社会需要不断增长的幸福感来激励劳动，故为 YES。"
+    },
+    "40": {
+      "loc": "p6",
+      "key": "the idea that governments should be responsible for promoting happiness is always a threat to human freedom",
+      "why": "作者认为政府以促进幸福为己任始终威胁人类自由，即反对该主张，故为 NO。"
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Cutty Sark: the fastest sailing ship of all time",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "The nineteenth century was a period of great technological development in Britain, and for shipping the major changes were from wind to steam power, and from wood to iron and steel."
+        },
+        {
+          "id": "p2",
+          "text": "The fastest commercial sailing vessels of all time were clippers, three-masted ships built to transport goods around the world, although some also took passengers. From the 1840s until 1869, when the Suez Canal opened and steam propulsion was replacing sail, clippers dominated world trade. Although many were built, only one has survived more or less intact: Cutty Sark, now on display in Greenwich, southeast London."
+        },
+        {
+          "id": "p3",
+          "text": "Cutty Sark's unusual name comes from the poem Tam O'Shanter by the Scottish poet Robert Burns. Tam, a farmer, is chased by a witch called Nannie, who is wearing a 'cutty sark' - an old Scottish name for a short nightdress. The witch is depicted in Cutty Sark's figurehead - the carving of a woman typically at the front of old sailing ships. In legend, and in Burns's poem, witches cannot cross water, so this was a rather strange choice of name for a ship."
+        },
+        {
+          "id": "p4",
+          "text": "Cutty Sark was built in Dumbarton, Scotland, in 1869, for a shipping company owned by John Willis. To carry out construction, Willis chose a new shipbuilding firm, Scott & Linton, and ensured that the contract with them put him in a very strong position. In the end, the firm was forced out of business, and the ship was finished by a competitor."
+        },
+        {
+          "id": "p5",
+          "text": "Willis's company was active in the tea trade between China and Britain, where speed could bring shipowners both profits and prestige, so Cutty Sark was designed to make the journey more quickly than any other ship. On her maiden voyage, in 1870, she set sail from London, carrying large amounts of goods to China. She returned laden with tea, making the journey back to London in four months. However, Cutty Sark never lived up to the high expectations of her owner, as a result of bad winds and various misfortunes. On one occasion, in 1872, the ship and a rival clipper, Thermopylae, left port in China on the same day. Crossing the Indian Ocean, Cutty Sark gained a lead of over 400 miles, but then her rudder was severely damaged in stormy seas, making her impossible to steer. The ship's crew had the daunting task of repairing the rudder at sea, and only succeeded at the second attempt. Cutty Sark reached London a week after Thermopylae."
+        },
+        {
+          "id": "p6",
+          "text": "Steam ships posed a growing threat to clippers, as their speed and cargo capacity increased. In addition, the opening of the Suez Canal in 1869, the same year that Cutty Sark was launched, had a serious impact. While steam ships could make use of the quick, direct route between the Mediterranean and the Red Sea, the canal was of no use to sailing ships, which needed the much stronger winds of the oceans, and so had to sail a far greater distance. Steam ships reduced the journey time between Britain and China by approximately two months."
+        },
+        {
+          "id": "p7",
+          "text": "By 1878, tea traders weren't interested in Cutty Sark, and instead, she took on the much less prestigious work of carrying any cargo between any two ports in the world. In 1880, violence aboard the ship led ultimately to the replacement of the captain with an incompetent drunkard who stole the crew's wages. He was suspended from service, and a new captain appointed. This marked a turnaround and the beginning of the most successful period in Cutty Sark's working life, transporting wool from Australia to Britain. One such journey took just under 12 weeks, beating every other ship sailing that year by around a month."
+        },
+        {
+          "id": "p8",
+          "text": "The ship's next captain, Richard Woodget, was an excellent navigator, who got the best out of both his ship and his crew. As a sailing ship, Cutty Sark depended on the strong trade winds of the southern hemisphere, and Woodget took her further south than any previous captain, bringing her dangerously close to icebergs off the southern tip of South America. His gamble paid off, though, and the ship was the fastest vessel in the wool trade for ten years."
+        },
+        {
+          "id": "p9",
+          "text": "As competition from steam ships increased in the 1890s, and Cutty Sark approached the end of her life expectancy, she became less profitable. She was sold to a Portuguese firm, which renamed her Ferreira. For the next 25 years, she again carried miscellaneous cargoes around the world."
+        },
+        {
+          "id": "p10",
+          "text": "Badly damaged in a gale in 1922, she was put into Falmouth harbour in southwest England, for repairs. Wilfred Dowman, a retired sea captain who owned a training vessel, recognised her and tried to buy her, but without success. She returned to Portugal and was sold to another Portuguese company. Dowman was determined, however, and offered a high price: this was accepted, and the ship returned to Falmouth the following year and had her original name restored."
+        },
+        {
+          "id": "p11",
+          "text": "Dowman used Cutty Sark as a training ship, and she continued in this role after his death. When she was no longer required, in 1954, she was transferred to dry dock at Greenwich to go on public display. The ship suffered from fire in 2007, and again, less seriously, in 2014, but now Cutty Sark attracts a quarter of a million visitors a year."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            8
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "Clippers were originally intended to be used as passenger ships."
+            },
+            {
+              "n": 2,
+              "text": "Cutty Sark was given the name of a character in a poem."
+            },
+            {
+              "n": 3,
+              "text": "The contract between John Willis and Scott & Linton favoured Willis."
+            },
+            {
+              "n": 4,
+              "text": "John Willis wanted Cutty Sark to be the fastest tea clipper travelling between the UK and China."
+            },
+            {
+              "n": 5,
+              "text": "Despite storm damage, Cutty Sark beat Thermopylae back to London."
+            },
+            {
+              "n": 6,
+              "text": "The opening of the Suez Canal meant that steam ships could travel between Britain and China faster than clippers."
+            },
+            {
+              "n": 7,
+              "text": "Steam ships sometimes used the ocean route to travel between London and China."
+            },
+            {
+              "n": 8,
+              "text": "Captain Woodget put Cutty Sark at risk of hitting an iceberg."
+            }
+          ]
+        },
+        {
+          "range": [
+            9,
+            13
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "lines": [
+            "9 After 1880, Cutty Sark carried {{9}} as its main cargo during its most successful time.",
+            "10 As a captain and {{10}}, Woodget was very skilled.",
+            "11 Ferreira went to Falmouth to repair damage that a {{11}} had caused.",
+            "12 Between 1923 and 1954, Cutty Sark was used for {{12}}.",
+            "13 Cutty Sark has twice been damaged by {{13}} in the 21st century."
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "SAVING THE SOIL",
+      "subtitle": "More than a third of the Earth's top layer is at risk. Is there hope for our planet's most precious resource?",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "More than a third of the world's soil is endangered, according to a recent UN report. If we don't slow the decline, all farmable soil could be gone in 60 years. Since soil grows 95% of our food, and sustains human life in other more surprising ways, that is a huge problem."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Peter Groffman, from the Cary Institute of Ecosystem Studies in New York, points out that soil scientists have been warning about the degradation of the world's soil for decades. At the same time, our understanding of its importance to humans has grown. A single gram of healthy soil might contain 100 million bacteria, as well as other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals. That means soils do not just grow our food, but are the source of nearly all our existing antibiotics, and could be our best hope in the fight against antibiotic-resistant bacteria. Soil is also an ally against climate change: as microorganisms within soil digest dead animals and plants, they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere. Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million every year."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "If the soil loses its ability to perform these functions, the human race could be in big trouble. The danger is not that the soil will disappear completely, but that the microorganisms that give it its special properties will be lost. And once this has happened, it may take the soil thousands of years to recover. Agriculture is by far the biggest problem. In the wild, when plants grow they remove nutrients from the soil, but then when the plants die and decay these nutrients are returned directly to the soil. Humans tend not to return unused parts of harvested crops directly to the soil to enrich it, meaning that the soil gradually becomes less fertile. In the past we developed strategies to get around the problem, such as regularly varying the types of crops grown, or leaving fields uncultivated for a season."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "But these practices became inconvenient as populations grew and agriculture had to be run on more commercial lines. A solution came in the early 20th century with the Haber-Bosch process for manufacturing ammonium nitrate. Farmers have been putting this synthetic fertiliser on their fields ever since. But over the past few decades, it has become clear this wasn't such a bright idea. Chemical fertilisers can release polluting nitrous oxide into the atmosphere and excess is often washed away with the rain, releasing nitrogen into rivers. More recently, we have found that indiscriminate use of fertilisers hurts the soil itself, turning it acidic and salty, and degrading the soil they are supposed to nourish."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "One of the people looking for a solution to this problem is Pius Floris, who started out running a tree-care business in the Netherlands, and now advises some of the world's top soil scientists. He came to realise that the best way to ensure his trees flourished was to take care of the soil, and has developed a cocktail of beneficial bacteria, fungi and humus* to do this. Researchers at the University of Valladolid in Spain recently used this cocktail on soils destroyed by years of fertiliser overuse. When they applied Floris's mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt as hard as rock. The few plants that grew in the control plots, fed with traditional fertilisers, were small and weak."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "However, measures like this are not enough to solve the global soil degradation problem. To assess our options on a global scale we first need an accurate picture of what types of soil are out there, and the problems they face. That's not easy. For one thing, there is no agreed international system for classifying soil. In an attempt to unify the different approaches, the UN has created the Global Soil Map project. Researchers from nine countries are working together to create a map linked to a database that can be fed measurements from field surveys, drone surveys, satellite imagery, lab analyses and so on to provide real-time data on the state of the soil. Within the next four years, they aim to have mapped soils worldwide to a depth of 100 metres, with the results freely accessible to all."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "But this is only a first step. We need ways of presenting the problem that bring it home to governments and the wider public, says Pamela Chasek at the International Institute for Sustainable Development, in Winnipeg, Canada. 'Most scientists don't speak language that policy-makers can understand, and vice versa.' Chasek and her colleagues have proposed a goal of 'zero net land degradation'. Like the idea of carbon neutrality, it is an easily understood target that can help shape expectations and encourage action. For soils on the brink, that may be too late. Several researchers are agitating for the immediate creation of protected zones for endangered soils. One difficulty here is defining what these areas should conserve: areas where the greatest soil diversity is present? Or areas of unspoilt soils that could act as a future benchmark of quality? Whatever we do, if we want our soils to survive, we need to take action now."
+        }
+      ],
+      "footnotes": [
+        "* Humus: the part of the soil formed from dead plant material"
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            17
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Write ONE WORD ONLY from the passage for each answer.",
+          "title": "Why soil degradation could be a disaster for humans",
+          "text": "Healthy soil contains a large variety of bacteria and other microorganisms, as well as plant remains and {{14}}. It provides us with food and also with antibiotics, and its function in storing {{15}} has a significant effect on the climate. In addition, it prevents damage to property and infrastructure because it holds {{16}}.\n\nIf these microorganisms are lost, soil may lose its special properties. The main factor contributing to soil degradation is the {{17}} carried out by humans."
+        },
+        {
+          "range": [
+            18,
+            21
+          ],
+          "type": "matching",
+          "instruction": "Complete each sentence with the correct ending, A-F, below.",
+          "optionsTitle": "Endings",
+          "options": [
+            {
+              "k": "A",
+              "text": "may improve the number and quality of plants growing there."
+            },
+            {
+              "k": "B",
+              "text": "may contain data from up to nine countries."
+            },
+            {
+              "k": "C",
+              "text": "may not be put back into the soil."
+            },
+            {
+              "k": "D",
+              "text": "may help governments to be more aware of soil-related issues."
+            },
+            {
+              "k": "E",
+              "text": "may cause damage to different aspects of the environment."
+            },
+            {
+              "k": "F",
+              "text": "may be better for use at a global level."
+            }
+          ],
+          "items": [
+            {
+              "n": 18,
+              "text": "Nutrients contained in the unused parts of harvested crops"
+            },
+            {
+              "n": 19,
+              "text": "Synthetic fertilisers produced with the Haber-Bosch process"
+            },
+            {
+              "n": 20,
+              "text": "Addition of a mixture developed by Pius Floris to the soil"
+            },
+            {
+              "n": 21,
+              "text": "The idea of zero net soil degradation"
+            }
+          ]
+        },
+        {
+          "range": [
+            22,
+            26
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which section contains the following information?",
+          "limit": "NB You may use any letter more than once.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "questions": [
+            {
+              "n": 22,
+              "text": "a reference to one person's motivation for a soil-improvement project"
+            },
+            {
+              "n": 23,
+              "text": "an explanation of how soil stayed healthy before the development of farming"
+            },
+            {
+              "n": 24,
+              "text": "examples of different ways of collecting information on soil degradation"
+            },
+            {
+              "n": 25,
+              "text": "a suggestion for a way of keeping some types of soil safe in the near future"
+            },
+            {
+              "n": 26,
+              "text": "a reason why it is difficult to provide an overview of soil degradation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Book Review",
+      "subtitle": "The Happiness Industry: How the Government and Big Business Sold Us Well-Being — By William Davies",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "'Happiness is the ultimate goal because it is self-evidently good. If we are asked why happiness matters we can give no further external reason. It just obviously does matter.' This pronouncement by Richard Layard, an economist and advocate of 'positive psychology', summarises the beliefs of many people today. For Layard and others like him, it is obvious that the purpose of government is to promote a state of collective well-being. The only question is how to achieve it, and here positive psychology - a supposed science that not only identifies what makes people happy but also allows their happiness to be measured - can show the way. Equipped with this science, they say, governments can secure happiness in society in a way they never could in the past."
+        },
+        {
+          "id": "p2",
+          "text": "It is an astonishingly crude and simple-minded way of thinking, and for that very reason increasingly popular. Those who think in this way are oblivious to the vast philosophical literature in which the meaning and value of happiness have been explored and questioned, and write as if nothing of any importance had been thought on the subject until it came to their attention. It was the philosopher Jeremy Bentham (1748-1832) who was more than anyone else responsible for the development of this way of thinking. For Bentham it was obvious that the human good consists of pleasure and the absence of pain. The Greek philosopher Aristotle may have identified happiness with self-realisation in the 4th century BC, and thinkers throughout the ages may have struggled to reconcile the pursuit of happiness with other human values, but for Bentham all this was mere metaphysics or fiction. Without knowing anything much of him or the school of moral theory he established - since they are by education and intellectual conviction illiterate in the history of ideas - our advocates of positive psychology follow in his tracks in rejecting as outmoded and irrelevant pretty much the entirety of ethical reflection on human happiness to date."
+        },
+        {
+          "id": "p3",
+          "text": "But as William Davies notes in his recent book The Happiness Industry, the view that happiness is the only self-evident good is actually a way of limiting moral inquiry. One of the virtues of this rich, lucid and arresting book is that it places the current cult of happiness in a well-defined historical framework. Rightly, Davies begins his story with Bentham, noting that he was far more than a philosopher. Davies writes, 'Bentham's activities were those which we might now associate with a public sector management consultant'. In the 1790s, he wrote to the Home Office suggesting that the departments of government be linked together through a set of 'conversation tubes', and to the Bank of England with a design for a printing device that could produce unforgeable banknotes. He drew up plans for a 'frigidarium' to keep provisions such as meat, fish, fruit and vegetables fresh. His celebrated design for a prison to be known as a 'Panopticon', in which prisoners would be kept in solitary confinement while being visible at all times to the guards, was very nearly adopted. (Surprisingly, Davies does not discuss the fact that Bentham meant his Panopticon not just as a model prison but also as an instrument of control that could be applied to schools and factories.)"
+        },
+        {
+          "id": "p4",
+          "text": "Bentham was also a pioneer of the 'science of happiness'. If happiness is to be regarded as a science, it has to be measured, and Bentham suggested two ways in which this might be done. Viewing happiness as a complex of pleasurable sensations, he suggested that it might be quantified by measuring the human pulse rate. Alternatively, money could be used as the standard for quantification: if two different goods have the same price, it can be claimed that they produce the same quantity of pleasure in the consumer. Bentham was more attracted by the latter measure. By associating money so closely to inner experience, Davies writes, Bentham 'set the stage for the entangling of psychological research and capitalism that would shape the business practices of the twentieth century'."
+        },
+        {
+          "id": "p5",
+          "text": "The Happiness Industry describes how the project of a science of happiness has become integral to capitalism. We learn much that is interesting about how economic problems are being redefined and treated as psychological maladies. In addition, Davies shows how the belief that inner states of pleasure and displeasure can be objectively measured has informed management studies and advertising. The tendency of thinkers such as J B Watson, the founder of behaviourism*, was that human beings could be shaped, or manipulated, by policymakers and managers. Watson had no factual basis for his view of human action. When he became president of the American Psychological Association in 1915, he 'had never even studied a single human being': his research had been confined to experiments on white rats. Yet Watson's reductive model is now widely applied, with 'behaviour change' becoming the goal of governments: in Britain, a 'Behaviour Insights Team' has been established by the government to study how people can be encouraged, at minimum cost to the public purse, to live in what are considered to be socially desirable ways."
+        },
+        {
+          "id": "p6",
+          "text": "Modern industrial societies appear to need the possibility of ever-increasing happiness to motivate them in their labours. But whatever its intellectual pedigree, the idea that governments should be responsible for promoting happiness is always a threat to human freedom."
+        }
+      ],
+      "footnotes": [
+        "* 'behaviourism': a branch of psychology which is concerned with observable behaviour"
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            29
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 27,
+              "text": "What is the reviewer's attitude to advocates of positive psychology?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "They are wrong to reject the ideas of Bentham."
+                },
+                {
+                  "k": "B",
+                  "text": "They are over-influenced by their study of Bentham's theories."
+                },
+                {
+                  "k": "C",
+                  "text": "They have a fresh new approach to ideas on human happiness."
+                },
+                {
+                  "k": "D",
+                  "text": "They are ignorant about the ideas they should be considering."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "The reviewer refers to the Greek philosopher Aristotle in order to suggest that happiness",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "may not be just pleasure and the absence of pain."
+                },
+                {
+                  "k": "B",
+                  "text": "should not be the main goal of humans."
+                },
+                {
+                  "k": "C",
+                  "text": "is not something that should be fought for."
+                },
+                {
+                  "k": "D",
+                  "text": "is not just an abstract concept."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "According to Davies, Bentham's suggestion for linking the price of goods to happiness was significant because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "it was the first successful way of assessing happiness."
+                },
+                {
+                  "k": "B",
+                  "text": "it established a connection between work and psychology."
+                },
+                {
+                  "k": "C",
+                  "text": "it was the first successful example of psychological research."
+                },
+                {
+                  "k": "D",
+                  "text": "it involved consideration of the rights of consumers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            30,
+            34
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words A-G below.",
+          "title": "Jeremy Bentham",
+          "text": "Jeremy Bentham was active in other areas besides philosophy. In the 1790s he suggested a type of technology to improve {{30}} for different Government departments. He developed a new way of printing banknotes to increase {{31}} and also designed a method for the {{32}} of food. He also drew up plans for a prison which allowed the {{33}} of prisoners at all times, and believed the same design could be used for other institutions as well. When researching happiness, he investigated possibilities for its {{34}}, and suggested some methods of doing this.",
+          "options": [
+            {
+              "k": "A",
+              "text": "measurement"
+            },
+            {
+              "k": "B",
+              "text": "security"
+            },
+            {
+              "k": "C",
+              "text": "implementation"
+            },
+            {
+              "k": "D",
+              "text": "profits"
+            },
+            {
+              "k": "E",
+              "text": "observation"
+            },
+            {
+              "k": "F",
+              "text": "communication"
+            },
+            {
+              "k": "G",
+              "text": "preservation"
+            }
+          ]
+        },
+        {
+          "range": [
+            35,
+            40
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 35,
+              "text": "One strength of The Happiness Industry is its discussion of the relationship between psychology and economics."
+            },
+            {
+              "n": 36,
+              "text": "It is more difficult to measure some emotions than others."
+            },
+            {
+              "n": 37,
+              "text": "Watson's ideas on behaviourism were supported by research on humans he carried out before 1915."
+            },
+            {
+              "n": 38,
+              "text": "Watson's ideas have been most influential on governments outside America."
+            },
+            {
+              "n": 39,
+              "text": "The need for happiness is linked to industrialisation."
+            },
+            {
+              "n": 40,
+              "text": "A main aim of government should be to increase the happiness of the population."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

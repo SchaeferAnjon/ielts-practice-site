@@ -1,0 +1,45 @@
+{
+  "id": "c13t4",
+  "book": "剑桥雅思13",
+  "test": 4,
+  "title": "剑13 Test 4 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "map",
+      "kindZh": "地图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The plans below show the layout of a university sports centre now, and how it will look after redevelopment.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c13t4-task1.webp",
+      "imageCaption": "University sports centre: present layout and future plans",
+      "sample": {
+        "band": 6.5,
+        "text": "The following plans illustrate the layout of the university's sports centre at the present moment and the way it will look after a reconstruction.\n\nAccording to the new layout, the redeveloped sports centre is going to become bigger. First, the gym is going to be larger and an additional changing room is going to appear. Besides, there is going to be a sports shop and a cafe in the reception zone. Apart from that, 2 dance studios are going to work opposite the gym. Finally, the sports centre is going to get a new leisure pool. It is going to be located in the place where the outdoor courts used to be. As can be seen from the new layout, both outdoor courts are going to be replaced by other facilities in the renovated sports centre. Furthermore, a sports hall is going to appear in the university sports centre. It is also clear from the second layout that the redeveloped sports centre is going to be a fully indoor one.",
+        "comment": "This answer addresses the main features of the redeveloped sports centre, but it could be improved by adding a brief description of the centre as it is at present. Another aspect of the response that could be improved would be to indicate where the various facilities will be situated in relation to each other: from the description above the reader cannot know where for example the gym, the leisure pool and the dance studios will be located. The range of vocabulary is above average, however: [illustrate | reconstruction | redeveloped | additional | replaced by other facilities | renovated] and shows flexibility and precision. There is a variety of complex structures such as present and future verb forms, passive forms and relative clauses [the place where... | It is also clear... that]. There could be more variety in the language used to express future plans: [going to] is over-used."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "problem-solution",
+      "kindZh": "问题解决",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "In spite of the advances made in agriculture, many people around the world still go hungry.",
+        "Why is this the case?",
+        "What can be done about this problem?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 6,
+        "text": "Nowadays, many countries has been tried to develop the Advances itmes to Solves the lack of food in the world by the way why many people around the world still go hungry, In my opioin, I think \"Captialism\".\n\nUnder \"the world Order\" by USA in 1970 (the cold war) divied the countris around the world in to 3 groups, 1) the frist world like USA, UK, Japan like that, 2) the second word was like Soviet Union and 3) the third word was a devopling countries. I didn't think the captialism is bad, I think it made many problem such as the lack of food in the poor countries.\n\nAccording to the Economics, the develped countries have a absolute rights to take an adventage from the resouse in the develping countries with the lowest wage, the hardest working and the dangerous places working Hence, the people who live in the devepling countries has no oppunities to moblisation their status. the lowest wage they get vice versa the high price of their item product for example 1 dollar US per a day for 1 worker in the develped countries, but 100 dollar US per the item product to be selled, the cap is approximate 99 dollar US goes to the owner who live in the deveoped countries.\n\nThe solve of this problem, I think the goverment on each countries should guranted their citizen to have a basic rights, Food, Clear water and Education, for example. The highest price of food that restrize the poor people to access the food, the government need to bare the barrier pices of food won't be high\n\nIn the long team of solving this problem, the goverment will give more Education fee as free for thie civilan becaus I absolutely think Education comes with mobilisatim the social status when the people has a high Education comes with a hire in a high working. then the government should bare the free of houshold is not high as well. the people will be expenditure more. When the more expenditure the people have, the more money they have we have to solve this problem together, Not the duty of some countries, the problem will be eradicated from the wild. fainally we have to have a hope to solve it, Not despair yet.",
+        "comment": "This script presents some difficulties for the reader. There is an attempt to answer the first part of the prompt (Why is this the case?) although the explanation is not well supported, while the answer to the second question (What can be done about this problem?) lacks focus as it mentions education, clean water and social mobility as well as food. At the same time, it is clear that the writer has some ideas, but lacks the language needed to express them satisfactorily. Ideas are organised into paragraphs and there is some sense of progression, with accurate use of cohesive devices [Nowadays | According to | for example] although there is also some inaccuracy [Hence | In the long team/term?]. Control over spelling and word formation is weak and there are frequent errors [itmes | opioin | Captialism | divied | countris | resouse | develping] for example, causing further difficulty. There are attempts to produce both simple and complex sentence forms, but the error level is high throughout, even in simple forms [I think it made many problem | the people will be expenditure more]. Punctuation is also sometimes faulty."
+      }
+    }
+  ]
+}
