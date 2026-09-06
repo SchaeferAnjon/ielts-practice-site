@@ -885,7 +885,11 @@
    "bookNo": 9,
    "test": 4,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
    "audioParts": []
   },
   {

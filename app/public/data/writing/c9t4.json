@@ -1,0 +1,44 @@
+{
+  "id": "c9t4",
+  "book": "剑桥雅思9",
+  "test": 4,
+  "title": "剑9 Test 4 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "line-graph",
+      "kindZh": "曲线图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The graph below gives information from a 2008 report about consumption of energy in the USA since 1980 with projections until 2030.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c9t4-task1.webp",
+      "imageCaption": "U.S. Energy Consumption by Fuel (1980-2030)",
+      "sample": {
+        "band": 0,
+        "text": "本书未提供此题范文。",
+        "comment": "本书未提供此题范文。"
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Every year several languages die out. Some people think that this is not important because life will be easier if there are fewer languages in the world.",
+        "To what extent do you agree or disagree with this opinion?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 4,
+        "text": "I agree about this opinion.\n\nNowadays, Several languages die out. I think this situation is right. In the world, already have to much languages minimum 100 languages include small country. But we know Just some languages, kind of English, French Japanese, Chinies.\n\nAt this moment, we live in the world, So we need frist language in the world. Therefor several languages need to die out.\n\nAlso, small country language is almost difficult to learn and not usuful. so we don't need to learn this languages. Even if we learning this languages not using in the world. Just usuful this country And we don't find small language education academy.\n\nSo I think small country languages make spend money and time also we need find first language using all of country. This is very important for all country of developing.\n\nAfter when decide first language our communication will be more easier with another country people. Beside we don't need invest of another language education, and we can invest another part kind of economic and culture developing by decrease education money.\n\nAccordng to this opinion,",
+        "comment": "This answer expresses a position on the topic, but the ideas are not always clear because of repetition and a lack of development (the answer is unfinished and underlength). The information is not organised coherently and it is difficult to follow a progression through the answer. Although some linking devices occur, substitution and referencing are not used, and connections between the ideas are unclear. The range of vocabulary is limited and repetitive, and inappropriate word choices, e.g. small country language; invest, make it difficult for the reader to follow the meaning. There are some attempts to produce complex sentences and some grammatical structures are produced accurately, but frequent errors and omissions in basic sentence formation and in punctuation make the writing difficult to understand."
+      }
+    }
+  ]
+}

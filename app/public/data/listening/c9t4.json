@@ -1,0 +1,1601 @@
+{
+  "id": "c9t4",
+  "book": "剑桥雅思9",
+  "test": 4,
+  "title": "剑9 Test 4 · Listening",
+  "source": "Cambridge IELTS 9, Test 4（OCR 文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "babies"
+    ],
+    "2": [
+      "Eshcol"
+    ],
+    "3": [
+      "evening"
+    ],
+    "4": [
+      "Gormley"
+    ],
+    "5": [
+      "B",
+      "E"
+    ],
+    "6": [
+      "B",
+      "E"
+    ],
+    "7": [
+      "heart"
+    ],
+    "8": [
+      "primary school"
+    ],
+    "9": [
+      "4.30",
+      "4:30",
+      "half past four"
+    ],
+    "10": [
+      "ages"
+    ],
+    "11": [
+      "B"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "E"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "E"
+    ],
+    "16": [
+      "D"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "C"
+    ],
+    "19": [
+      "732281"
+    ],
+    "20": [
+      "Thursday",
+      "Thursdays"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "approach"
+    ],
+    "24": [
+      "mature"
+    ],
+    "25": [
+      "interest"
+    ],
+    "26": [
+      "groups"
+    ],
+    "27": [
+      "every 2 days",
+      "every two days"
+    ],
+    "28": [
+      "2 weeks",
+      "two weeks"
+    ],
+    "29": [
+      "confident"
+    ],
+    "30": [
+      "education system"
+    ],
+    "31": [
+      "C"
+    ],
+    "32": [
+      "A"
+    ],
+    "33": [
+      "B"
+    ],
+    "34": [
+      "B"
+    ],
+    "35": [
+      "A"
+    ],
+    "36": [
+      "C"
+    ],
+    "37": [
+      "frog",
+      "frogs"
+    ],
+    "38": [
+      "predators"
+    ],
+    "39": [
+      "count"
+    ],
+    "40": [
+      "seed",
+      "seeds"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c9/t4p1.mp3",
+      "duration": 0,
+      "title": "Registering with a doctor / Talks at Shore Lane Health Centre",
+      "groups": [
+        {
+          "range": [
+            1,
+            4
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Health Centres",
+          "table": {
+            "head": [
+              "Name of centre",
+              "Doctor's name",
+              "Advantage"
+            ],
+            "rows": [
+              [
+                "The Harvey Clinic",
+                "Example\nDr Green",
+                "especially good with {{1}}"
+              ],
+              [
+                "The {{2}} Health Practice",
+                "Dr Fuller",
+                "offers {{3}} appointments"
+              ],
+              [
+                "The Shore Lane Health Centre",
+                "Dr {{4}}",
+                ""
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            5,
+            6
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO of the following are offered free of charge at Shore Lane Health Centre?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "acupuncture"
+            },
+            {
+              "k": "B",
+              "text": "employment medicals"
+            },
+            {
+              "k": "C",
+              "text": "sports injury therapy"
+            },
+            {
+              "k": "D",
+              "text": "travel advice"
+            },
+            {
+              "k": "E",
+              "text": "vaccinations"
+            }
+          ]
+        },
+        {
+          "range": [
+            7,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "Talks for patients at Shore Lane Health Centre",
+          "table": {
+            "head": [
+              "Subject of talk",
+              "Date/Time",
+              "Location",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "Giving up smoking",
+                "25th February at 7pm",
+                "room 4",
+                "useful for people with asthma or {{7}} problems"
+              ],
+              [
+                "Healthy eating",
+                "1st March at 5pm",
+                "the {{8}}\n(Shore Lane)",
+                "anyone welcome"
+              ],
+              [
+                "Avoiding injuries during exercise",
+                "9th March at {{9}}",
+                "room 6",
+                "for all {{10}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "WOMAN",
+          "t": "Can I help you?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, I've just moved to this area with my wife and children and I'd like to know where we can all register with a doctor at a Health Centre."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Okay."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, there's Doctor Green at The Harvey Clinic."
+        },
+        {
+          "s": "WOMAN",
+          "t": "We always recommend her for babies, because she's very good with them and she runs a special clinic.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Oh ... actually my youngest child is five, so that wouldn't be any good for us."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right."
+        },
+        {
+          "s": "MAN",
+          "t": "Is there anywhere else I could try?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, the Eshcol Health Practice is the next one on my list.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "How do you spell that?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "E-S-H-C-O-L."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And it's Doctor Fuller, who has space on his list."
+        },
+        {
+          "s": "WOMAN",
+          "t": "The clinic only opened a year ago, so the facilities are all very modern."
+        },
+        {
+          "s": "MAN",
+          "t": "That sounds good."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And it's particularly good if you're busy during the day, because they also do appointments in the evening.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "They're closed on Saturday, though."
+        },
+        {
+          "s": "WOMAN",
+          "t": "The only other place on the list is the Health Centre on Shore Lane."
+        },
+        {
+          "s": "WOMAN",
+          "t": "You can register with Doctor Gormley, that's G-O-R-M-L-E-Y.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "He's new there, but the centre has a very good reputation."
+        },
+        {
+          "s": "MAN",
+          "t": "Oh yes, I think I know the road."
+        },
+        {
+          "s": "MAN",
+          "t": "That would be the best one."
+        },
+        {
+          "s": "MAN",
+          "t": "Thanks."
+        },
+        {
+          "s": "MAN",
+          "t": "' Could you tell me, will all their services be free?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Erm ... there are usually some small charges that doctors make."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Let me see what it says about the Shore Lane Centre."
+        },
+        {
+          "s": "WOMAN",
+          "t": "If you need to be vaccinated before any trips abroad, you won't have to pay for this.",
+          "q": [
+            5,
+            6
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "Erm, what else?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "The sports injury treatment service operates on a paying basis, as does the nutritional therapy service."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Some health centres do offer alternative therapies like homeopathy as part of their pay-to-use service."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Shore Lane are hoping to do this soon — I think they may start with acupuncture."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And finally, if you need to prove you're healthy or haven't had any serious injuries before a new employer will accept you you can get a free fitness check-up there, but you'd most likely have to pay for insurance medicals though.",
+          "q": [
+            5,
+            6
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Okay, thanks."
+        },
+        {
+          "s": "WOMAN",
+          "t": "You might also be interested to know the Centre is running a pilot scheme of talks for patients."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I've got the list here."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Actually, they look very interesting."
+        },
+        {
+          "s": "MAN",
+          "t": "What sort of things?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, the first one's about giving up smoking."
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's next week, the twenty- fifth of February, at 7 pm, and that's in Room 4."
+        },
+        {
+          "s": "WOMAN",
+          "t": "It says, the talk will stress the health benefits particularly for people with asthma or heart disease.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "That sounds very interesting."
+        },
+        {
+          "s": "WOMAN",
+          "t": "There's also a talk for families with children."
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's on Healthy Eating, and takes place on the first of March at five o'clock."
+        },
+        {
+          "s": "MAN",
+          "t": "Will that be at the Health Centre?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Erm, actually it's at the primary school on Shore Lane.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "I imagine they're inviting the parents of pupils there — it says here 'all welcome'."
+        },
+        {
+          "s": "MAN",
+          "t": "Mmn, I might go to that if I have time."
+        },
+        {
+          "s": "WOMAN",
+          "t": "There's a couple of other talks — one giving advice about how to avoid injuries while doing exercise."
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's on the ninth of March."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, it's a late afternoon talk, at four thirty, and it'll be in Room 6.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "It also says the talk is suitable for all ages.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "And finally, there's a talk called 'Stress Management?' which is ..."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c9/t4p2.mp3",
+      "duration": 0,
+      "title": "Holiday flat instructions",
+      "groups": [
+        {
+          "range": [
+            11,
+            13
+          ],
+          "type": "matching",
+          "instruction": "Label the diagram below. 原题为水管图标注（Water Heater 示意图），见原书第 81 页；此处改为按位置描述配对。",
+          "limit": "Choose THREE answers from the box and write the correct letter, A-E, next to questions 11-13.",
+          "options": [
+            {
+              "k": "A",
+              "text": "electricity indicator"
+            },
+            {
+              "k": "B",
+              "text": "on/off switch"
+            },
+            {
+              "k": "C",
+              "text": "reset button"
+            },
+            {
+              "k": "D",
+              "text": "time control"
+            },
+            {
+              "k": "E",
+              "text": "warning indicator"
+            }
+          ],
+          "itemsTitle": "Water Heater parts",
+          "items": [
+            {
+              "n": 11,
+              "text": "The round control on the far left, at the bottom of the heater"
+            },
+            {
+              "n": 12,
+              "text": "The small round plastic button below the middle of the controls"
+            },
+            {
+              "n": 13,
+              "text": "The small square indicator light near the hot-water pipe, under the third knob"
+            }
+          ]
+        },
+        {
+          "range": [
+            14,
+            18
+          ],
+          "type": "matching",
+          "instruction": "Where can each of the following items be found?",
+          "limit": "Choose FIVE answers from the box and write the correct letter, A-G, next to questions 14-18.",
+          "optionsTitle": "Locations",
+          "options": [
+            {
+              "k": "A",
+              "text": "in box on washing machine"
+            },
+            {
+              "k": "B",
+              "text": "in cupboard on landing"
+            },
+            {
+              "k": "C",
+              "text": "in chest of drawers"
+            },
+            {
+              "k": "D",
+              "text": "next to window in living room"
+            },
+            {
+              "k": "E",
+              "text": "on shelf by back door"
+            },
+            {
+              "k": "F",
+              "text": "on top of television"
+            },
+            {
+              "k": "G",
+              "text": "under kitchen sink"
+            }
+          ],
+          "itemsTitle": "Items",
+          "items": [
+            {
+              "n": 14,
+              "text": "pillows"
+            },
+            {
+              "n": 15,
+              "text": "washing powder"
+            },
+            {
+              "n": 16,
+              "text": "key"
+            },
+            {
+              "n": 17,
+              "text": "light bulbs"
+            },
+            {
+              "n": 18,
+              "text": "map"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "lines": [
+            "The best place to park in town — next to the station",
+            "Phone number for takeaway pizzas — {{19}}",
+            "Railway museum closed on {{20}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MAN",
+          "t": "Hello?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Hi."
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's Laura Carlton here."
+        },
+        {
+          "s": "WOMAN",
+          "t": "We've just arrived at the holiday flat, but I can't get the hot water and heating to work."
+        },
+        {
+          "s": "MAN",
+          "t": "Oh right!"
+        },
+        {
+          "s": "MAN",
+          "t": "That's easy."
+        },
+        {
+          "s": "MAN",
+          "t": "Don't worry."
+        },
+        {
+          "s": "MAN",
+          "t": "In the upstairs cupboard, you'll find the water heater."
+        },
+        {
+          "s": "MAN",
+          "t": "You'll see three main controls on the left at the bottom of the heater."
+        },
+        {
+          "s": "MAN",
+          "t": "The first one — the round one on the far left — is the most important one for the heating and hot water.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "It's the main control switch."
+        },
+        {
+          "s": "MAN",
+          "t": "Make sure it's in the 'on' position."
+        },
+        {
+          "s": "MAN",
+          "t": "The switch itself doesn't light up, but the little square below will be black if the switch is 'off'."
+        },
+        {
+          "s": "MAN",
+          "t": "That's probably what's happened - it's got switched off by mistake."
+        },
+        {
+          "s": "MAN",
+          "t": "The middle one of these three controls — you'll see it's slightly larger than the first one — controls the radiators."
+        },
+        {
+          "s": "MAN",
+          "t": "If you feel cold while you're there and need the radiators on, this needs to be turned to maximum."
+        },
+        {
+          "s": "MAN",
+          "t": "The last of the three controls — the one on the right — is usually on about a number four setting which for the water in the taps is usually quite hot enough."
+        },
+        {
+          "s": "MAN",
+          "t": "Below the heating controls in the middle is a small round plastic button."
+        },
+        {
+          "s": "MAN",
+          "t": "If there isn't enough water in the pipes, sometimes the heater goes out."
+        },
+        {
+          "s": "MAN",
+          "t": "If this happens you'll need to press this button to reset the heater.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Hold it in for about five seconds and the heater should come on again."
+        },
+        {
+          "s": "MAN",
+          "t": "Then there's a little square indicator under the third knob that's a kind of alarm light."
+        },
+        {
+          "s": "MAN",
+          "t": "It'll flash if you need to reset the heater.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "It sounds complicated ..."
+        },
+        {
+          "s": "MAN",
+          "t": "I'm sure you won't have any problems with it."
+        },
+        {
+          "s": "MAN",
+          "t": "There should be some more instructions on the side of the heater."
+        },
+        {
+          "s": "MAN",
+          "t": "Call me back if you can't make it work."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Okay."
+        },
+        {
+          "s": "WOMAN",
+          "t": "While you're on the phone, we haven't managed to find a few things we need, like extra pillows for the beds and some washing powder."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is there any here?"
+        },
+        {
+          "s": "MAN",
+          "t": "Pillows ... yes."
+        },
+        {
+          "s": "MAN",
+          "t": "If you look in the cupboard, the large white one upstairs — to the left of the bathroom door — there should be four or five on the top shelf.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "And if you want to do some washing, there's some powder for that .., probably by the back door."
+        },
+        {
+          "s": "MAN",
+          "t": "There's a kind of shelf there above the sink.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "In fact, I'm sure there's some there, in a large blue box."
+        },
+        {
+          "s": "MAN",
+          "t": "You need about half a cup full for each wash."
+        },
+        {
+          "s": "MAN",
+          "t": "And that reminds me, the spare key to the back door is hanging on a hook on the wall by the sitting room window.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Please make sure to put it back when you've used it."
+        },
+        {
+          "s": "MAN",
+          "t": "The previous guests lost it in the garden and I had to get another one made!"
+        },
+        {
+          "s": "MAN",
+          "t": "And if you have any trouble with the lamps, you'll find some spare bulbs in a large cardboard box."
+        },
+        {
+          "s": "MAN",
+          "t": "It's on top of the washing machine with all kinds of useful things in it.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Oh, and another thing I forgot to mention when we last spoke ..."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes?"
+        },
+        {
+          "s": "MAN",
+          "t": "I've left you a local map, so you'll be able to find your way around easily."
+        },
+        {
+          "s": "MAN",
+          "t": "It shows the whole area."
+        },
+        {
+          "s": "MAN",
+          "t": "I put it in the top drawer of the chest under the TV in your bedroom.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "There's a whole file of local information in there too."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Thanks."
+        },
+        {
+          "s": "WOMAN",
+          "t": "What about visiting the town?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Can you give us any advice?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes."
+        },
+        {
+          "s": "MAN",
+          "t": "You'll need to take the car."
+        },
+        {
+          "s": "MAN",
+          "t": "It's too far to walk from the flat really."
+        },
+        {
+          "s": "MAN",
+          "t": "You have to pay to leave your car in all the car parks now I'm afraid ..."
+        },
+        {
+          "s": "MAN",
+          "t": "I like the one that's by the station best and you can walk to the town centre from there in five minutes."
+        },
+        {
+          "s": "MAN",
+          "t": "That's where all the best restaurants are."
+        },
+        {
+          "s": "MAN",
+          "t": "But if you want a takeaway, the Italian one does really good pasta and pizzas."
+        },
+        {
+          "s": "MAN",
+          "t": "Call 7-3 double 2, 8-1 for that one, or 7 double 6, double 1, 9 for the Chinese.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "They're both good and they'll both deliver to the flat."
+        },
+        {
+          "s": "MAN",
+          "t": "As for places to visit, yes, do go and see the railway museum."
+        },
+        {
+          "s": "MAN",
+          "t": "The exhibition is small but really good."
+        },
+        {
+          "s": "MAN",
+          "t": "It gets very crowded on Sundays, so I suggest you visit it on a quieter day, later in the week, but not on Thursdays which is market day — you won't find anywhere to park and it's also the only day of the week when they're not open!",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Anything else?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Not for the moment."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Thanks!"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c9/t4p3.mp3",
+      "duration": 0,
+      "title": "A Pharmacy graduate's experience",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 21,
+              "text": "In her home country, Kira had",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "completed a course."
+                },
+                {
+                  "k": "B",
+                  "text": "done two years of a course."
+                },
+                {
+                  "k": "C",
+                  "text": "found her course difficult."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "To succeed with assignments, Kira had to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "read faster."
+                },
+                {
+                  "k": "B",
+                  "text": "write faster."
+                },
+                {
+                  "k": "C",
+                  "text": "change her way of thinking."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            25
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "lines": [
+            "Kira says that lecturers are easier to {{23}} than those in her home country.",
+            "Paul suggests that Kira may be more {{24}} than when she was studying before.",
+            "Kira says that students want to discuss things that worry them or that {{25}} them very much."
+          ]
+        },
+        {
+          "range": [
+            26,
+            30
+          ],
+          "type": "notes",
+          "instruction": "Answer the questions below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "lines": [
+            "How did the students do their practical sessions? {{26}}",
+            "In the second semester how often did Kira work in a hospital? {{27}}",
+            "How much full-time work did Kira do during the year? {{28}}",
+            "Having completed the year, how does Kira feel? {{29}}",
+            "In addition to the language, what do overseas students need to become familiar with? {{30}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "PAUL",
+          "t": "Hello, Kira, how are you?"
+        },
+        {
+          "s": "KIRA",
+          "t": "Fine thanks, Paul, how are you?"
+        },
+        {
+          "s": "PAUL",
+          "t": "Well, thanks."
+        },
+        {
+          "s": "PAUL",
+          "t": "It's good to see you."
+        },
+        {
+          "s": "PAUL",
+          "t": "It must be twelve months since you did our course?"
+        },
+        {
+          "s": "KIRA",
+          "t": "That's right."
+        },
+        {
+          "s": "KIRA",
+          "t": "It's nice to come back and say hello."
+        },
+        {
+          "s": "PAUL",
+          "t": "What course did you enrol in?"
+        },
+        {
+          "s": "KIRA",
+          "t": "Actually, I went straight into third year Pharmacy."
+        },
+        {
+          "s": "KIRA",
+          "t": "They credited me with two years, which probably made it more difficult for me."
+        },
+        {
+          "s": "PAUL",
+          "t": "On the other hand, you were lucky to be granted credits."
+        },
+        {
+          "s": "PAUL",
+          "t": "Is that why you chose the course?"
+        },
+        {
+          "s": "KIRA",
+          "t": "Yes."
+        },
+        {
+          "s": "KIRA",
+          "t": "And, as I'd already finished a course in it in my country, I thought it would be easier if I studied something I already knew.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "PAUL",
+          "t": "I didn't realise you went into third year."
+        },
+        {
+          "s": "PAUL",
+          "t": "I thought you started in first year."
+        },
+        {
+          "s": "PAUL",
+          "t": "No wonder it was so hard!"
+        },
+        {
+          "s": "PAUL",
+          "t": "And what do you think is one of the big differences between studying at a university here and studying in your country?"
+        },
+        {
+          "s": "KIRA",
+          "t": "Well, I've found it very difficult to write assignments, because I wasn't familiar with that aspect of the system here."
+        },
+        {
+          "s": "KIRA",
+          "t": "The main problem is that the lecturers expect you to be critical."
+        },
+        {
+          "s": "KIRA",
+          "t": "That made me feel really terrible."
+        },
+        {
+          "s": "KIRA",
+          "t": "I thought “How can I possibly do it?"
+        },
+        {
+          "s": "KIRA",
+          "t": "How can I comment on someone else's research when they probably spent five years doing it?” I think a lot of people who come from overseas countries have similar problems."
+        },
+        {
+          "s": "KIRA",
+          "t": "But after a while it became easier for me."
+        },
+        {
+          "s": "KIRA",
+          "t": "People expect you to have problems with the process of reading and writing but, in fact, it is more a question of altering your viewpoint towards academic study.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "PAUL",
+          "t": "How was the content of the lectures?"
+        },
+        {
+          "s": "PAUL",
+          "t": "Was it easy for you?"
+        },
+        {
+          "s": "KIRA",
+          "t": "I didn't really have many problems understanding lectures."
+        },
+        {
+          "s": "KIRA",
+          "t": "The content was very similar to what I'd studied before."
+        },
+        {
+          "s": "PAUL",
+          "t": "And what about the lecturers themselves?"
+        },
+        {
+          "s": "PAUL",
+          "t": "Are they essentially the same as lecturers in your country?"
+        },
+        {
+          "s": "KIRA",
+          "t": "Well actually, no."
+        },
+        {
+          "s": "KIRA",
+          "t": "Here, they're much easier to approach.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "KIRA",
+          "t": "After every lecture you can go and ask them something you didn't understand."
+        },
+        {
+          "s": "KIRA",
+          "t": "Or you can make an appointment and talk to them about anything in the course."
+        },
+        {
+          "s": "PAUL",
+          "t": "Maybe you found them different because you're a more mature student now, whereas when you were studying in your country you were younger and not so assertive.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "KIRA",
+          "t": "No, I don't think that's the difference."
+        },
+        {
+          "s": "KIRA",
+          "t": "Most of the students here do it."
+        },
+        {
+          "s": "KIRA",
+          "t": "In my faculty, they all seem to make appointments — usually to talk about something in the course that's worrying them, but sometimes just about something that might really interest them, something they might want to specialise in.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "KIRA",
+          "t": "The lecturers must set aside certain times every week when they're available for students."
+        },
+        {
+          "s": "PAUL",
+          "t": "That's good to hear."
+        },
+        {
+          "s": "PAUL",
+          "t": "And how was your timetable?"
+        },
+        {
+          "s": "PAUL",
+          "t": "Was it a very busy year?"
+        },
+        {
+          "s": "KIRA",
+          "t": "Very, very busy."
+        },
+        {
+          "s": "KIRA",
+          "t": "They make you work very hard."
+        },
+        {
+          "s": "KIRA",
+          "t": "Apart from lectures, we had practical sessions in a lot of subjects."
+        },
+        {
+          "s": "KIRA",
+          "t": "We did these in small groups.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "KIRA",
+          "t": "I had to go and work four hours every week in a community pharmacy."
+        },
+        {
+          "s": "KIRA",
+          "t": "Actually, I enjoyed this very much — meeting new people all the time."
+        },
+        {
+          "s": "KIRA",
+          "t": "Then in second semester, we had to get experience in hospital dispensaries, so every second day we went to one of the big hospitals and worked there.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "KIRA",
+          "t": "And on top of all that we had our assignments, which took me a lot of time."
+        },
+        {
+          "s": "KIRA",
+          "t": "Oh, I nearly forgot, between first and second semesters, we had to work full-time for two weeks in a hospital.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "PAUL",
+          "t": "That does sound a very heavy year."
+        },
+        {
+          "s": "PAUL",
+          "t": "So are you pleased now that you did it?"
+        },
+        {
+          "s": "PAUL",
+          "t": "Do you feel some sense of achievement?"
+        },
+        {
+          "s": "KIRA",
+          "t": "Yeah, I do feel much more confident, which I suppose is the most important thing.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "PAUL",
+          "t": "And have you got any recommendations for people who are studying from overseas?"
+        },
+        {
+          "s": "KIRA",
+          "t": "Well, I suppose they need very good English."
+        },
+        {
+          "s": "KIRA",
+          "t": "It would be much better if they spent more time learning English before they enter the university, because you can be in big trouble if you don't understand what people are saying and you haven't got time to translate."
+        },
+        {
+          "s": "PAUL",
+          "t": "Anything else?"
+        },
+        {
+          "s": "KIRA",
+          "t": "Well, as I said before, the biggest problem for me was a lack of familiarity with the education system here.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "PAUL",
+          "t": "It sounds as if it was a real challenge."
+        },
+        {
+          "s": "PAUL",
+          "t": "Congratulations, Kira."
+        },
+        {
+          "s": "KIRA",
+          "t": "Thanks, Paul."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c9/t4p4.mp3",
+      "duration": 0,
+      "title": "Wildlife in city gardens",
+      "groups": [
+        {
+          "range": [
+            31,
+            36
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Wildlife in city gardens",
+          "questions": [
+            {
+              "n": 31,
+              "text": "What led the group to choose their topic?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "They were concerned about the decline of one species."
+                },
+                {
+                  "k": "B",
+                  "text": "They were interested in the effects of city growth."
+                },
+                {
+                  "k": "C",
+                  "text": "They wanted to investigate a recent phenomenon."
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "The exact proportion of land devoted to private gardens was confirmed by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "consulting some official documents."
+                },
+                {
+                  "k": "B",
+                  "text": "taking large-scale photos."
+                },
+                {
+                  "k": "C",
+                  "text": "discussions with town surveyors."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "The group asked garden owners to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "take part in formal interviews."
+                },
+                {
+                  "k": "B",
+                  "text": "keep a record of animals they saw."
+                },
+                {
+                  "k": "C",
+                  "text": "get in contact when they saw a rare species."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "The group made their observations in gardens",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "which had a large number of animal species."
+                },
+                {
+                  "k": "B",
+                  "text": "which they considered to be representative."
+                },
+                {
+                  "k": "C",
+                  "text": "which had stable populations of rare animals."
+                }
+              ]
+            },
+            {
+              "n": 35,
+              "text": "The group did extensive reading on",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "wildlife problems in rural areas."
+                },
+                {
+                  "k": "B",
+                  "text": "urban animal populations."
+                },
+                {
+                  "k": "C",
+                  "text": "current gardening practices."
+                }
+              ]
+            },
+            {
+              "n": 36,
+              "text": "The speaker focuses on three animal species because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a lot of data has been obtained about them."
+                },
+                {
+                  "k": "B",
+                  "text": "the group were most interested in them."
+                },
+                {
+                  "k": "C",
+                  "text": "they best indicated general trends."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            37,
+            40
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "table": {
+            "head": [
+              "Animals",
+              "Reason for population increase in gardens",
+              "Comments"
+            ],
+            "rows": [
+              [
+                "{{37}}",
+                "suitable stretches of water",
+                "massive increase in urban population"
+              ],
+              [
+                "Hedgehogs",
+                "safer from {{38}} when in cities",
+                "easy to {{39}} them accurately"
+              ],
+              [
+                "Song thrushes",
+                "– a variety of {{40}} to eat\n– more nesting places available",
+                "large survey starting soon"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Today I'd like to present the findings of our Year 2 project on wildlife found in gardens throughout our city."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'll start by saying something about the background to the project, then talk a little bit about our research techniques, and then indicate some of our interim findings."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First of all, how did we choose our topic?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, there are four of us in the group and one day while we were discussing a possible focus, two of the group mentioned that they had seen yet more sparrow-hawks — one of Britain's most interesting birds of prey — in their own city centre gardens and wondered why they were turning up in these gardens in great numbers.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We were all very engaged by the idea of why wild animals would choose to inhabit a city garden."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Why is it so popular with wildlife when the countryside itself is becoming less so?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The first thing we did was to establish what proportion of the urban land is taken up by private gardens."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We estimated that it was about one fifth, and this was endorsed by looking at large-scale usage maps in the town land survey office — 24% to be precise.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our own informal discussions with neighbours and friends led us to believe that many garden owners had interesting experiences to relate regarding wild animal sightings so we decided to survey garden owners from different areas of the city."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Just over 100 of them completed a survey once every two weeks for twelve months — ticking off species they had seen from a pro forma list — and adding the names of any rarer ones.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Meanwhile, we were doing our own observations in selected gardens throughout the city."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We deliberately chose smaller ones because they were by far the most typical in the city.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The whole point of the project was to look at the norm not the exception."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Alongside this primary research on urban gardens, we were studying a lot of books about the decline of wild animals in the countryside and thinking of possible causes for this.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So what did we find?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, so much that I just won't have time to tell you about here."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you're interested in reading our more comprehensive findings, we've produced detailed graphic representations on the college web-site and of course any of the group would be happy to talk to you about them."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Just email us."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What we've decided to present today is information about just three species - because we felt these gave a good indication of the processes at work in rural and urban settings as a whole.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The first species to generate a lot of interesting information was frogs."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And there was a clear pattern here — they proliferate where there is suitable water.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Garden ponds are on the increase, rural ponds are disappearing, leading to massive migration to the towns."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Hedgehogs are also finding it easier to live in urban areas — this time because their predators are not finding it quite so attractive to leave their rural environment, so hedgehogs have a better survival rate in cities.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We had lots of sightings, so all in all we had no difficulties with our efforts to count their numbers precisely.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our final species is the finest of bird singers, the song thrush."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On the decline in the countryside, they are experiencing a resurgence in urban gardens because these days gardeners are buying lots of different plants which means there's an extensive range of seeds around, which is what they feed on.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another factor is the provision of nesting places — which is actually better in gardens than the countryside."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Hard to believe it, but it's true."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Incidentally, we discovered that a massive new survey on song thrushes is about to be launched, so you should keep an eye open for that."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, I'd be happy to answer any questions you may have ..."
+        }
+      ]
+    }
+  ]
+}
