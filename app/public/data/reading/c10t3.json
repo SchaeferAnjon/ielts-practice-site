@@ -1,0 +1,927 @@
+{
+  "id": "c10t3",
+  "book": "剑桥雅思10",
+  "test": 3,
+  "title": "剑10 Test 3 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "ii"
+    ],
+    "2": [
+      "i"
+    ],
+    "3": [
+      "v"
+    ],
+    "4": [
+      "vii"
+    ],
+    "5": [
+      "TRUE"
+    ],
+    "6": [
+      "NOT GIVEN"
+    ],
+    "7": [
+      "NOT GIVEN"
+    ],
+    "8": [
+      "TRUE"
+    ],
+    "9": [
+      "NOT GIVEN"
+    ],
+    "10": [
+      "FALSE"
+    ],
+    "11": [
+      "source of income",
+      "industry"
+    ],
+    "12": [
+      "employer"
+    ],
+    "13": [
+      "domestic tourism"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "H"
+    ],
+    "17": [
+      "B"
+    ],
+    "18": [
+      "E"
+    ],
+    "19": [
+      "sun",
+      "sunlight"
+    ],
+    "20": [
+      "upper"
+    ],
+    "21": [
+      "dry"
+    ],
+    "22": [
+      "north"
+    ],
+    "23": [
+      "FALSE"
+    ],
+    "24": [
+      "TRUE"
+    ],
+    "25": [
+      "NOT GIVEN"
+    ],
+    "26": [
+      "B"
+    ],
+    "27": [
+      "B"
+    ],
+    "28": [
+      "F"
+    ],
+    "29": [
+      "I"
+    ],
+    "30": [
+      "G"
+    ],
+    "31": [
+      "D"
+    ],
+    "32": [
+      "C"
+    ],
+    "33": [
+      "A"
+    ],
+    "34": [
+      "D"
+    ],
+    "35": [
+      "C"
+    ],
+    "36": [
+      "NO"
+    ],
+    "37": [
+      "YES"
+    ],
+    "38": [
+      "NOT GIVEN"
+    ],
+    "39": [
+      "YES"
+    ],
+    "40": [
+      "NOT GIVEN"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "B",
+      "why": "该段讲述英国工业革命时期大众旅游的兴起，对应标题 ii『大众旅游的发展』。",
+      "key": "Historians suggest that the advent of mass tourism began in England during the industrial revolution with the rise of the middle class and the availability of relatively inexpensive transportation."
+    },
+    "2": {
+      "loc": "C",
+      "why": "该段说明旅游业在经济和社会两方面的重要性，对应标题 i『旅游业的经济和社会意义』。",
+      "key": "Tourism today has grown significantly in both economic and social importance."
+    },
+    "3": {
+      "loc": "D",
+      "why": "该段解释行业的多样性和分散性使人们难以认清其经济影响，对应标题 v『难以认清旅游业的经济影响』。",
+      "key": "However, the major problems of the travel and tourism industry that have hidden, or obscured, its economic impact are the diversity and fragmentation of the industry itself."
+    },
+    "4": {
+      "loc": "E",
+      "why": "该段列举多国旅游业的世界性影响，对应标题 vii『旅游业的世界性影响』。",
+      "key": "In fact, McIntosh and Goeldner (1990) suggest that tourism has become the largest commodity in international trade for many nations and, for a significant number of other countries, it ranks second or third."
+    },
+    "5": {
+      "loc": "C",
+      "why": "题干 largest employment figures = 原文 world's largest employer，与事实相符，为 TRUE。",
+      "key": "The travel and tourism industry is the world's largest employer with almost 130 million jobs, or almost 7 per cent of all employees."
+    },
+    "6": {
+      "loc": "C",
+      "why": "原文说的是全世界 GNP 的 6%，并未特指澳大利亚，故为 NOT GIVEN。",
+      "key": "This industry is the world's leading industrial contributor, producing over 6 per cent of the world's gross national product and accounting for capital investment in excess of $422 billion in direct, indirect and personal taxes each year."
+    },
+    "7": {
+      "loc": "C",
+      "why": "原文提到社会影响来自旅行的教育作用和就业效应，并未提及『促进娱乐』，故为 NOT GIVEN。",
+      "key": "Thus, tourism has a profound impact both on the world economy and, because of the educative effect of travel and the effects on employment, on society itself."
+    },
+    "8": {
+      "loc": "D",
+      "why": "题干 two main features = 原文 diversity and fragmentation（多样性和分散性）两个特征，为 TRUE。",
+      "key": "However, the major problems of the travel and tourism industry that have hidden, or obscured, its economic impact are the diversity and fragmentation of the industry itself."
+    },
+    "9": {
+      "loc": "D",
+      "why": "原文只说游客消费容易被忽视，并未比较游客与本地居民消费孰高孰低，故为 NOT GIVEN。",
+      "key": "Since many of these businesses also serve local residents, the impact of spending by visitors can easily be overlooked or underestimated."
+    },
+    "10": {
+      "loc": "D",
+      "why": "原文说难以建立可靠的信息库来估算旅游业贡献，与题干『容易用统计说明』相反，为 FALSE。",
+      "key": "Moreover, in all nations this problem has made it difficult for the industry to develop any type of reliable or credible tourism information base in order to estimate the contribution it makes to regional, national and global economies."
+    },
+    "11": {
+      "loc": "E",
+      "why": "题干 most important = 原文 major source of income，答案为 source of income/industry。",
+      "key": "For example, tourism is the major source of income in Bermuda, Greece, Italy, Spain, Switzerland and most Caribbean countries."
+    },
+    "12": {
+      "loc": "E",
+      "why": "题干 major = 原文 number one ranked employer，答案为 employer。",
+      "key": "In addition, Hawkins and Ritchie, quoting from data published by the American Express Company, suggest that the travel and tourism industry is the number one ranked employer in the Bahamas, Brazil, Canada, France, (the former) West Germany, Hong Kong, Italy, Jamaica, Japan, Singapore, the United Kingdom and the United States."
+    },
+    "13": {
+      "loc": "E",
+      "why": "原文末句直接提到测量国内旅游（domestic tourism）时也存在同样的困难。",
+      "key": "In many cases, similar difficulties arise when attempts are made to measure domestic tourism."
+    },
+    "14": {
+      "loc": "C",
+      "why": "该段描述红色来自花青素（anthocyanins）这种水溶性植物色素，正是造成红色的物质说明。",
+      "key": "The source of the red is widely known: it is created by anthocyanins, water-soluble plant pigments reflecting the red to blue range of the visible spectrum."
+    },
+    "15": {
+      "loc": "B",
+      "why": "该段解释树木在秋天放弃光合作用、抛弃叶片以节省资源，说明了落叶的原因。",
+      "key": "For many trees - evergreen conifers being an exception - the best strategy is to abandon photosynthesis* until the spring."
+    },
+    "16": {
+      "loc": "H",
+      "why": "该段列举向阳面叶片更红、干燥晴朗天气红色更浓等证据，证实『光屏』假说。",
+      "key": "One is straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun."
+    },
+    "17": {
+      "loc": "B",
+      "why": "该段说明叶绿素捕获阳光并将能量转化为营养物质，即叶绿素的功能。",
+      "key": "Summer leaves are green because they are full of chlorophyll, the molecule that captures sunlight and converts that energy into new building materials for the tree."
+    },
+    "18": {
+      "loc": "E",
+      "why": "该段提出红色可能是向昆虫发出『健康强壮』的警示信号这一假说。",
+      "key": "It has also been proposed that trees may produce vivid red colours to convince herbivorous insects that they are healthy and robust and would be easily able to mount chemical defences against infestation."
+    },
+    "19": {
+      "loc": "H",
+      "why": "题干 side facing = 原文 side of the tree which gets most sun，答案为 sun/sunlight。",
+      "key": "One is straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun."
+    },
+    "20": {
+      "loc": "H",
+      "why": "原文明确指出叶片上表面（upper side）红色更亮，答案为 upper。",
+      "key": "Not only that, but the red is brighter on the upper side of the leaf."
+    },
+    "21": {
+      "loc": "H",
+      "why": "原文指出干燥晴朗（dry, sunny）的白天条件最利于红色形成，答案为 dry。",
+      "key": "It has also been recognised for decades that the best conditions for intense red colours are dry, sunny days and cool nights, conditions that nicely match those that make leaves susceptible to excess light."
+    },
+    "22": {
+      "loc": "H",
+      "why": "原文说越往北红色越浓，答案为 north。",
+      "key": "And finally, trees such as maples usually get much redder the more north you travel in the northern hemisphere."
+    },
+    "23": {
+      "loc": "D",
+      "why": "原文只是列出『可能增加抗寒能力』这一未被证实的理论，并未确认，故为 NOT GIVEN。",
+      "key": "Some theories about anthocyanins have argued that they might act as a chemical defence against attacks by insects or fungi, or that they might attract fruit-eating birds or increase a leaf's tolerance to freezing."
+    },
+    "24": {
+      "loc": "F",
+      "why": "原文用 paradoxical（自相矛盾）形容『光屏』假说，说明它起初似乎与叶绿素的常识相悖，为 TRUE。",
+      "key": "It sounds paradoxical, because the idea behind this hypothesis is that the red pigment is made in autumn leaves to protect chlorophyll, the light-absorbing chemical, from too much light."
+    },
+    "25": {
+      "loc": "I",
+      "why": "原文只是提出疑问，未确认变黄变橙的叶片是否更易被阳光损伤，故为 NOT GIVEN。",
+      "key": "Do these trees have other means at their disposal to prevent overexposure to light in autumn?"
+    },
+    "26": {
+      "loc": "B",
+      "why": "文章解释了黄橙色是叶绿素褪去后显现的颜色，对应选项 B；其余选项文中均未给出确切解释。",
+      "key": "This unmasking explains the autumn colours of yellow and orange, but not the brilliant reds and purples of trees such as the maple or sumac."
+    },
+    "27": {
+      "loc": "p1",
+      "why": "题干 abandoned ___ = 原文 derelict plantation（废弃的种植园），答案为 B plantation。",
+      "key": "An agricultural worker, digging in the grounds of a derelict plantation, scraped open a grave - the first of dozens in a burial ground some 3,000 years old."
+    },
+    "28": {
+      "loc": "p1",
+      "why": "题干 significant ___ = 这是太平洋地区已知最古老的墓地，属于重大『考古发现』，答案为 F archaeological discovery。",
+      "key": "It is the oldest cemetery ever found in the Pacific islands, and it harbors the remains of an ancient people archaeologists call the Lapita."
+    },
+    "29": {
+      "loc": "p2",
+      "why": "题干 including ___ and tools = 原文 livestock（牲畜），答案为 I animals。",
+      "key": "They were also pioneers who carried with them everything they would need to build new lives —their livestock, taro seedlings and stone tools."
+    },
+    "30": {
+      "loc": "p3",
+      "why": "题干 the ___ which was found at the site = 原文提到的 burial urn（骨灰瓮），答案为 G burial urn。",
+      "key": "Other items included a Lapita burial urn with modeled birds arranged on the rim as though peering down at the human remains sealed inside. ‘It’s an important discovery,’ says Matthew Spriggs, professor of archaeology at the Australian National University and head of the international team digging up the site, for it conclusively identifies the remains as Lapita.’"
+    },
+    "31": {
+      "loc": "p3",
+      "why": "题干 the ___ found inside = 骨灰瓮内密封的人类遗骸（remains），答案为 D bones。",
+      "key": "Other items included a Lapita burial urn with modeled birds arranged on the rim as though peering down at the human remains sealed inside. ‘It’s an important discovery,’ says Matthew Spriggs, professor of archaeology at the Australian National University and head of the international team digging up the site, for it conclusively identifies the remains as Lapita.’"
+    },
+    "32": {
+      "loc": "p5",
+      "why": "原文指出没有发现独木舟或索具实物，因此难以确定证据的准确性，对应选项 C。",
+      "key": "No-one has found one of their canoes or any rigging, which could reveal how the canoes were sailed."
+    },
+    "33": {
+      "loc": "p6",
+      "why": "第六段提到 Lapita 后代驶出视野之外、四周空无一物，这是真正的冒险，对应选项 A『驶向看不见陆地的地方』。",
+      "key": "The real adventure didn’t begin, however, until their Lapita descendants sailed out of sight of land, with empty horizons on every side."
+    },
+    "34": {
+      "loc": "p7",
+      "why": "『This』指代前文描述的航海策略——利用信风出海探测再顺风返回的技能，对应选项 A『Lapita 的航海才能』。",
+      "key": "This is what would have made the whole thing work.’ Once out there, skilled seafarers would have detected abundant leads to follow to land: seabirds, coconuts and twigs carried out to sea by the tides, and the afternoon pile-up of clouds on the horizon which often indicates an island in the distance."
+    },
+    "35": {
+      "loc": "p8",
+      "why": "第八段说明群岛地形为返航的水手提供了『安全网』和方向参照，对应选项 C『为 Lapita 提供了导航辅助』。",
+      "key": "Vanuatu, for example, stretches more than 500 miles in a northwest-southeast trend, its scores of intervisible islands forming a backstop for mariners riding the trade winds home."
+    },
+    "36": {
+      "loc": "p9",
+      "why": "Anderson 明确表示没有证据证明 Lapita 能逆风航行，与题干说法相反，为 NO。",
+      "key": "All this presupposes one essential detail, says Atholl Anderson, professor of prehistory at the Australian National University: the Lapita had mastered the advanced art of sailing against the wind. ‘And there’s no proof they could do any such thing,’ Anderson says. ‘There has been this assumption they did, and people have built canoes to re-create those early voyages based on that assumption."
+    },
+    "37": {
+      "loc": "p10",
+      "why": "原文提出厄尔尼诺等极端气候现象可能促成了 Lapita 的迁徙扩散，与题干一致，为 YES。",
+      "key": "El Niño, the same climate disruption that affects the Pacific today, may have helped scatter the Lapita, Anderson suggests."
+    },
+    "38": {
+      "loc": "p10",
+      "why": "原文只说当时厄尔尼诺现象异常频繁，并未提及 Lapita 能预测其持续时间，为 NOT GIVEN。",
+      "key": "He points out that climate data obtained from slow-growing corals around the Pacific indicate a series of unusually frequent El Niños around the time of the Lapita expansion."
+    },
+    "39": {
+      "loc": "p11",
+      "why": "原文明确说 Lapita 停止扩张的原因『只有他们自己知道』，即原因不明，为 YES。",
+      "key": "However they did it, the Lapita spread themselves a third of the way across the Pacific, then called it quits for reasons known only to them."
+    },
+    "40": {
+      "loc": "p11",
+      "why": "原文只说 Lapita 在斐济遇到了 300 多个岛屿，并未说明大多数 Lapita 定居于斐济，为 NOT GIVEN。",
+      "key": "They probably never numbered more than a few thousand in total, and in their rapid migration eastward they encountered hundreds of islands —more than 300 in Fiji alone."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "The Context, Meaning and Scope of Tourism",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 on the following pages.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Travel has existed since the beginning of time, when primitive man set out, often traversing great distances in search of game, which provided the food and clothing necessary for his survival. Throughout the course of history, people have travelled for purposes of trade, religious conviction, economic gain, war, migration and other equally compelling motivations. In the Roman era, wealthy aristocrats and high government officials also travelled for pleasure. Seaside resorts located at Pompeii and Herculaneum afforded citizens the opportunity to escape to their vacation villas in order to avoid the summer heat of Rome. Travel, except during the Dark Ages, has continued to grow and, throughout recorded history, has played a vital role in the development of civilisations and their economies."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Tourism in the mass form as we know it today is a distinctly twentieth-century phenomenon. Historians suggest that the advent of mass tourism began in England during the industrial revolution with the rise of the middle class and the availability of relatively inexpensive transportation. The creation of the commercial airline industry following the Second World War and the subsequent development of the jet aircraft in the 1950s signalled the rapid growth and expansion of international travel. This growth led to the development of a major new industry: tourism. In turn, international tourism became the concern of a number of world governments since it not only provided new employment opportunities but also produced a means of earning foreign exchange."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Tourism today has grown significantly in both economic and social importance. In most industrialised countries over the past few years the fastest growth has been seen in the area of services. One of the largest segments of the service industry, although largely unrecognised as an entity in some of these countries, is travel and tourism. According to the World Travel and Tourism Council (1992), 'Travel and tourism is the largest industry in the world on virtually any economic measure including value-added capital investment, employment and tax contributions'. In 1992, the industry's gross output was estimated to be $3.5 trillion, over 12 per cent of all consumer spending. The travel and tourism industry is the world's largest employer with almost 130 million jobs, or almost 7 per cent of all employees. This industry is the world's leading industrial contributor, producing over 6 per cent of the world's gross national product and accounting for capital investment in excess of $422 billion in direct, indirect and personal taxes each year. Thus, tourism has a profound impact both on the world economy and, because of the educative effect of travel and the effects on employment, on society itself."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "However, the major problems of the travel and tourism industry that have hidden, or obscured, its economic impact are the diversity and fragmentation of the industry itself. The travel industry includes: hotels, motels and other types of accommodation; restaurants and other food services; transportation services and facilities; amusements, attractions and other leisure facilities; gift shops and a large number of other enterprises. Since many of these businesses also serve local residents, the impact of spending by visitors can easily be overlooked or underestimated. In addition, Meis (1992) points out that the tourism industry involves concepts that have remained amorphous to both analysts and decision makers. Moreover, in all nations this problem has made it difficult for the industry to develop any type of reliable or credible tourism information base in order to estimate the contribution it makes to regional, national and global economies. However, the nature of this very diversity makes travel and tourism ideal vehicles for economic development in a wide variety of countries, regions or communities."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Once the exclusive province of the wealthy, travel and tourism have become an institutionalised way of life for most of the population. In fact, McIntosh and Goeldner (1990) suggest that tourism has become the largest commodity in international trade for many nations and, for a significant number of other countries, it ranks second or third. For example, tourism is the major source of income in Bermuda, Greece, Italy, Spain, Switzerland and most Caribbean countries. In addition, Hawkins and Ritchie, quoting from data published by the American Express Company, suggest that the travel and tourism industry is the number one ranked employer in the Bahamas, Brazil, Canada, France, (the former) West Germany, Hong Kong, Italy, Jamaica, Japan, Singapore, the United Kingdom and the United States. However, because of problems of definition, which directly affect statistical measurement, it is not possible with any degree of certainty to provide precise, valid or reliable data about the extent of world-wide tourism participation or its economic impact. In many cases, similar difficulties arise when attempts are made to measure domestic tourism."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            4
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 1 has five paragraphs, A-E. Choose the correct heading for paragraphs B-E from the list of headings below.",
+          "limit": "Write the correct number, i-viii, in boxes 1-4 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "Economic and social significance of tourism"
+            },
+            {
+              "k": "ii",
+              "text": "The development of mass tourism"
+            },
+            {
+              "k": "iii",
+              "text": "Travel for the wealthy"
+            },
+            {
+              "k": "iv",
+              "text": "Earning foreign exchange through tourism"
+            },
+            {
+              "k": "v",
+              "text": "Difficulty in recognising the economic effects of tourism"
+            },
+            {
+              "k": "vi",
+              "text": "The contribution of air travel to tourism"
+            },
+            {
+              "k": "vii",
+              "text": "The world impact of tourism"
+            },
+            {
+              "k": "viii",
+              "text": "The history of travel"
+            }
+          ],
+          "itemsTitle": "Paragraphs",
+          "items": [
+            {
+              "n": 1,
+              "text": "Paragraph B"
+            },
+            {
+              "n": 2,
+              "text": "Paragraph C"
+            },
+            {
+              "n": 3,
+              "text": "Paragraph D"
+            },
+            {
+              "n": 4,
+              "text": "Paragraph E"
+            }
+          ]
+        },
+        {
+          "range": [
+            5,
+            10
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 5,
+              "text": "The largest employment figures in the world are found in the travel and tourism industry."
+            },
+            {
+              "n": 6,
+              "text": "Tourism contributes over six per cent of the Australian gross national product."
+            },
+            {
+              "n": 7,
+              "text": "Tourism has a social impact because it promotes recreation."
+            },
+            {
+              "n": 8,
+              "text": "Two main features of the travel and tourism industry make its economic significance difficult to ascertain."
+            },
+            {
+              "n": 9,
+              "text": "Visitor spending is always greater than the spending of residents in tourist areas."
+            },
+            {
+              "n": 10,
+              "text": "It is easy to show statistically how tourism affects individual economies."
+            }
+          ]
+        },
+        {
+          "range": [
+            11,
+            13
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+          "lines": [
+            "In Greece, tourism is the most important {{11}}.",
+            "The travel and tourism industry in Jamaica is the major {{12}}.",
+            "The problems associated with measuring international tourism are often reflected in the measurement of {{13}}."
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Autumn leaves",
+      "subtitle": "Canadian writer Jay Ingram investigates the mystery of why leaves turn red in the fall",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "One of the most captivating natural events of the year in many areas throughout North America is the turning of the leaves in the fall. The colours are magnificent, but the question of exactly why some trees turn yellow or orange, and others red or purple, is something which has long puzzled scientists."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Summer leaves are green because they are full of chlorophyll, the molecule that captures sunlight and converts that energy into new building materials for the tree. As fall approaches in the northern hemisphere, the amount of solar energy available declines considerably. For many trees - evergreen conifers being an exception - the best strategy is to abandon photosynthesis* until the spring. So rather than maintaining the now redundant leaves throughout the winter, the tree saves its precious resources and discards them. But before letting its leaves go, the tree dismantles their chlorophyll molecules and ships their valuable nitrogen back into the twigs. As chlorophyll is depleted, other colours that have been dominated by it throughout the summer begin to be revealed. This unmasking explains the autumn colours of yellow and orange, but not the brilliant reds and purples of trees such as the maple or sumac."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "The source of the red is widely known: it is created by anthocyanins, water-soluble plant pigments reflecting the red to blue range of the visible spectrum. They belong to a class of sugar-based chemical compounds also known as flavonoids. What's puzzling is that anthocyanins are actually newly minted, made in the leaves at the same time as the tree is preparing to drop them. But it is hard to make sense of the manufacture of anthocyanins - why should a tree bother making new chemicals in its leaves when it's already scrambling to withdraw and preserve the ones already there?"
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Some theories about anthocyanins have argued that they might act as a chemical defence against attacks by insects or fungi, or that they might attract fruit-eating birds or increase a leaf's tolerance to freezing. However there are problems with each of these theories, including the fact that leaves are red for such a relatively short period that the expense of energy needed to manufacture the anthocyanins would outweigh any anti-fungal or anti-herbivore activity achieved."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "It has also been proposed that trees may produce vivid red colours to convince herbivorous insects that they are healthy and robust and would be easily able to mount chemical defences against infestation. If insects paid attention to such advertisements, they might be prompted to lay their eggs on a duller, and presumably less resistant host. The flaw in this theory lies in the lack of proof to support it. No one has as yet ascertained whether more robust trees sport the brightest leaves, or whether insects make choices according to colour intensity."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Perhaps the most plausible suggestion as to why leaves would go to the trouble of making anthocyanins when they're busy packing up for the winter is the theory known as the 'light screen' hypothesis. It sounds paradoxical, because the idea behind this hypothesis is that the red pigment is made in autumn leaves to protect chlorophyll, the light-absorbing chemical, from too much light. Why does chlorophyll need protection when it is the natural world's supreme light absorber? Why protect chlorophyll at a time when the tree is breaking it down to salvage as much of it as possible?"
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "Chlorophyll, although exquisitely evolved to capture the energy of sunlight, can sometimes be overwhelmed by it, especially in situations of drought, low temperatures, or nutrient deficiency. Moreover, the problem of oversensitivity to light is even more acute in the fall, when the leaf is busy preparing for winter by dismantling its internal machinery. The energy absorbed by the chlorophyll molecules of the unstable autumn leaf is not immediately channelled into useful products and processes, as it would be in an intact summer leaf. The weakened fall leaf then becomes vulnerable to the highly destructive effects of the oxygen created by the excited chlorophyll molecules."
+        },
+        {
+          "id": "H",
+          "label": "H",
+          "text": "Even if you had never suspected that this is what was going on when leaves turn red, there are clues out there. One is straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun. Not only that, but the red is brighter on the upper side of the leaf. It has also been recognised for decades that the best conditions for intense red colours are dry, sunny days and cool nights, conditions that nicely match those that make leaves susceptible to excess light. And finally, trees such as maples usually get much redder the more north you travel in the northern hemisphere. It's colder there, they're more stressed, their chlorophyll is more sensitive and it needs more sunblock."
+        },
+        {
+          "id": "I",
+          "label": "I",
+          "text": "What is still not fully understood, however, is why some trees resort to producing red pigments while others don't bother, and simply reveal their orange or yellow hues. Do these trees have other means at their disposal to prevent overexposure to light in autumn? Their story, though not as spectacular to the eye, will surely turn out to be as subtle and as complex."
+        }
+      ],
+      "footnotes": [
+        "* photosynthesis: the production of new material from sunlight, water and carbon dioxide"
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            18
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has nine paragraphs, A-I. Which paragraph contains the following information? NB You may use any letter more than once.",
+          "limit": "Write the correct letter, A-I, in boxes 14-18 on your answer sheet.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "a description of the substance responsible for the red colouration of leaves"
+            },
+            {
+              "n": 15,
+              "text": "the reason why trees drop their leaves in autumn"
+            },
+            {
+              "n": 16,
+              "text": "some evidence to confirm a theory about the purpose of the red leaves"
+            },
+            {
+              "n": 17,
+              "text": "an explanation of the function of chlorophyll"
+            },
+            {
+              "n": 18,
+              "text": "a suggestion that the red colouration in leaves could serve as a warning signal"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            22
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Why believe the 'light screen' hypothesis?",
+          "lines": [
+            "The most vividly coloured red leaves are found on the side of the tree facing the {{19}}.",
+            "The {{20}} surfaces of leaves contain the most red pigment.",
+            "Red leaves are most abundant when daytime weather conditions are {{21}} and sunny.",
+            "The intensity of the red colour of leaves increases as you go further {{22}}."
+          ]
+        },
+        {
+          "range": [
+            23,
+            25
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 23,
+              "text": "It is likely that the red pigments help to protect the leaf from freezing temperatures."
+            },
+            {
+              "n": 24,
+              "text": "The 'light screen' hypothesis would initially seem to contradict what is known about chlorophyll."
+            },
+            {
+              "n": 25,
+              "text": "Leaves which turn colours other than red are more likely to be damaged by sunlight."
+            }
+          ]
+        },
+        {
+          "range": [
+            26,
+            26
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter A, B, C or D. Write the correct letter in box 26 on your answer sheet.",
+          "questions": [
+            {
+              "n": 26,
+              "text": "For which of the following questions does the writer offer an explanation?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "why conifers remain green in winter"
+                },
+                {
+                  "k": "B",
+                  "text": "how leaves turn orange and yellow in autumn"
+                },
+                {
+                  "k": "C",
+                  "text": "how herbivorous insects choose which trees to lay their eggs in"
+                },
+                {
+                  "k": "D",
+                  "text": "why anthocyanins are restricted to certain trees"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Beyond the blue horizon",
+      "subtitle": "Ancient voyagers who settled the far-flung islands of the Pacific Ocean",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "An important archaeological discovery on the island of Éfaté in the Pacific archipelago of Vanuatu has revealed traces of an ancient seafaring people, the distant ancestors of today's Polynesians. The site came to light only by chance. An agricultural worker, digging in the grounds of a derelict plantation, scraped open a grave - the first of dozens in a burial ground some 3,000 years old. It is the oldest cemetery ever found in the Pacific islands, and it harbors the remains of an ancient people archaeologists call the Lapita."
+        },
+        {
+          "id": "p2",
+          "text": "They were daring blue-water adventurers who used basic canoes to rove across the ocean. But they were not just explorers. They were also pioneers who carried with them everything they would need to build new lives —their livestock, taro seedlings and stone tools. Within the span of several centuries, the Lapita stretched the boundaries of their world from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga."
+        },
+        {
+          "id": "p3",
+          "text": "The Lapita left precious few clues about themselves, but Éfaté expands the volume of data available to researchers dramatically. The remains of 62 individuals have been uncovered so far, and archaeologists were also thrilled to find six complete Lapita pots. Other items included a Lapita burial urn with modeled birds arranged on the rim as though peering down at the human remains sealed inside. ‘It’s an important discovery,’ says Matthew Spriggs, professor of archaeology at the Australian National University and head of the international team digging up the site, for it conclusively identifies the remains as Lapita.’"
+        },
+        {
+          "id": "p4",
+          "text": "DNA teased from these human remains may help answer one of the most puzzling questions in Pacific anthropology: did all Pacific islanders spring from one source or many? Was there only one outward migration from a single point in Asia, or several from different points? ‘This represents the best opportunity we’ve had yet,’ says Spriggs, ‘to find out who the Lapita actually were, where they came from, and who their closest descendants are today.’"
+        },
+        {
+          "id": "p5",
+          "text": "There is one stubborn question for which archaeology has yet to provide any answers: how did the Lapita accomplish the ancient equivalent of a moon landing, many times over? No-one has found one of their canoes or any rigging, which could reveal how the canoes were sailed. Nor do the oral histories and traditions of later Polynesians offer any insights, for they turn into myths long before they reach as far back in time as the Lapita."
+        },
+        {
+          "id": "p6",
+          "text": "‘All we can say for certain is that the Lapita had canoes that were capable of ocean voyages, and they had the ability to sail them,’ says Geoff Irwin, a professor of archaeology at the University of Auckland. Those sailing skills, he says, were developed and passed down over thousands of years by earlier mariners who worked their way through the archipelagoes of the western Pacific, making short crossings to nearby islands. The real adventure didn’t begin, however, until their Lapita descendants sailed out of sight of land, with empty horizons on every side. This must have been as difficult for them as landing on the moon is for us today. Certainly it distinguished them from their ancestors, but what gave them the courage to launch out on such risky voyages?"
+        },
+        {
+          "id": "p7",
+          "text": "The Lapitas thrust into the Pacific was eastward, against the prevailing trade winds, Irwin notes. Those nagging headwinds, he argues, may have been the key to their success. ‘They could sail out for days into the unknown and assess the area, secure in the knowledge that if they didn’t find anything, they could turn about and catch a swift ride back on the trade winds. This is what would have made the whole thing work.’ Once out there, skilled seafarers would have detected abundant leads to follow to land: seabirds, coconuts and twigs carried out to sea by the tides, and the afternoon pile-up of clouds on the horizon which often indicates an island in the distance."
+        },
+        {
+          "id": "p8",
+          "text": "For returning explorers, successful or not, the geography of their own archipelagoes would have provided a safety net. Without this to go by, overshooting their home ports, getting lost and sailing off into eternity would have been all too easy. Vanuatu, for example, stretches more than 500 miles in a northwest-southeast trend, its scores of intervisible islands forming a backstop for mariners riding the trade winds home."
+        },
+        {
+          "id": "p9",
+          "text": "All this presupposes one essential detail, says Atholl Anderson, professor of prehistory at the Australian National University: the Lapita had mastered the advanced art of sailing against the wind. ‘And there’s no proof they could do any such thing,’ Anderson says. ‘There has been this assumption they did, and people have built canoes to re-create those early voyages based on that assumption. But nobody has any idea what their canoes looked like or how they were rigged.’"
+        },
+        {
+          "id": "p10",
+          "text": "Rather than give all the credit to human skill, Anderson invokes the winds of chance. El Niño, the same climate disruption that affects the Pacific today, may have helped scatter the Lapita, Anderson suggests. He points out that climate data obtained from slow-growing corals around the Pacific indicate a series of unusually frequent El Niños around the time of the Lapita expansion. By reversing the regular east-to-west flow of the trade winds for weeks at a time, these ‘super El Niños’ might have taken the Lapita on long unplanned voyages."
+        },
+        {
+          "id": "p11",
+          "text": "However they did it, the Lapita spread themselves a third of the way across the Pacific, then called it quits for reasons known only to them. Ahead lay the vast emptiness of the central Pacific and perhaps they were too thinly stretched to venture farther. They probably never numbered more than a few thousand in total, and in their rapid migration eastward they encountered hundreds of islands —more than 300 in Fiji alone."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            31
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words and phrases, A-J, below.",
+          "limit": "Write the correct letter, A-J, in boxes 27-31 on your answer sheet.",
+          "title": "The Efate burial site",
+          "text": "A 3,000-year-old burial ground of a seafaring people called the Lapita has been found on an abandoned {{27}} on the Pacific island of Efate. The cemetery, which is a significant {{28}}, was uncovered accidentally by an agricultural worker.\n\nThe Lapita explored and colonised many Pacific islands over several centuries. They took many things with them on their voyages including {{29}} and tools.\n\nThe burial ground increases the amount of information about the Lapita available to scientists. A team of researchers, led by Matthew Spriggs from the Australian National University, are helping with the excavation of the site. Spriggs believes the {{30}} which was found at the site is very important since it confirms that the {{31}} found inside are Lapita.",
+          "options": [
+            {
+              "k": "A",
+              "text": "proof"
+            },
+            {
+              "k": "B",
+              "text": "plantation"
+            },
+            {
+              "k": "C",
+              "text": "harbour"
+            },
+            {
+              "k": "D",
+              "text": "bones"
+            },
+            {
+              "k": "E",
+              "text": "data"
+            },
+            {
+              "k": "F",
+              "text": "archaeological discovery"
+            },
+            {
+              "k": "G",
+              "text": "burial urn"
+            },
+            {
+              "k": "H",
+              "text": "source"
+            },
+            {
+              "k": "I",
+              "text": "animals"
+            },
+            {
+              "k": "J",
+              "text": "maps"
+            }
+          ]
+        },
+        {
+          "range": [
+            32,
+            35
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 32-35 on your answer sheet.",
+          "questions": [
+            {
+              "n": 32,
+              "text": "According to the writer, there are difficulties explaining how the Lapita accomplished their journeys because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the canoes that have been discovered offer relatively few clues."
+                },
+                {
+                  "k": "B",
+                  "text": "archaeologists have shown limited interest in this area of research."
+                },
+                {
+                  "k": "C",
+                  "text": "little information relating to this period can be relied upon for accuracy."
+                },
+                {
+                  "k": "D",
+                  "text": "technological advances have altered the way such achievements are viewed."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "According to the sixth paragraph, what was extraordinary about the Lapita?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "They sailed beyond the point where land was visible."
+                },
+                {
+                  "k": "B",
+                  "text": "Their cultural heritage discouraged the expression of fear."
+                },
+                {
+                  "k": "C",
+                  "text": "They were able to build canoes that withstood ocean voyages."
+                },
+                {
+                  "k": "D",
+                  "text": "Their navigational skills were passed on from one generation to the next."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "What does 'This' refer to in the seventh paragraph?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the Lapita's seafaring talent"
+                },
+                {
+                  "k": "B",
+                  "text": "the Lapita's ability to detect signs of land"
+                },
+                {
+                  "k": "C",
+                  "text": "the Lapita's extensive knowledge of the region"
+                },
+                {
+                  "k": "D",
+                  "text": "the Lapita's belief they would be able to return home"
+                }
+              ]
+            },
+            {
+              "n": 35,
+              "text": "According to the eighth paragraph, how was the geography of the region significant?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It played an important role in Lapita culture."
+                },
+                {
+                  "k": "B",
+                  "text": "It meant there were relatively few storms at sea."
+                },
+                {
+                  "k": "C",
+                  "text": "It provided a navigational aid for the Lapita."
+                },
+                {
+                  "k": "D",
+                  "text": "It made a large number of islands habitable."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            36,
+            40
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the views of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the views of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 36,
+              "text": "It is now clear that the Lapita could sail into a prevailing wind."
+            },
+            {
+              "n": 37,
+              "text": "Extreme climate conditions may have played a role in Lapita migration."
+            },
+            {
+              "n": 38,
+              "text": "The Lapita learnt to predict the duration of El Ninos."
+            },
+            {
+              "n": 39,
+              "text": "It remains unclear why the Lapita halted their expansion across the Pacific."
+            },
+            {
+              "n": 40,
+              "text": "It is likely that the majority of Lapita settled on Fiji."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

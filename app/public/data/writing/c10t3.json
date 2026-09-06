@@ -1,0 +1,76 @@
+{
+  "id": "c10t3",
+  "book": "剑桥雅思10",
+  "test": 3,
+  "title": "剑10 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "bar-chart",
+      "kindZh": "柱状图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The charts below show what UK graduate and postgraduate students who did not go into full-time work did after leaving college in 2008.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c10t3-task1.webp",
+      "imageCaption": "Destination of UK graduates and postgraduates (excluding full-time work), 2008",
+      "data": {
+        "unit": "Number of students",
+        "years": [
+          2008
+        ],
+        "series": {
+          "Graduates - Part-time work": [
+            17735
+          ],
+          "Graduates - Voluntary work": [
+            3500
+          ],
+          "Graduates - Further study": [
+            29665
+          ],
+          "Graduates - Unemployment": [
+            16235
+          ],
+          "Postgraduates - Part-time work": [
+            2535
+          ],
+          "Postgraduates - Voluntary work": [
+            345
+          ],
+          "Postgraduates - Further study": [
+            2725
+          ],
+          "Postgraduates - Unemployment": [
+            1625
+          ]
+        }
+      },
+      "sample": {
+        "band": 6.5,
+        "text": "The graphs represents what UK graduates and postgraduates did after leaving college in 2008.\n\nOn the first graph, it shows that 17,735 graduate students sought part-time employment in 2008 while 3,500 did voluntary work and 29,665 decided to seek further study. According to the graph, 16,235 graduate students were unemployed after college, which is roughly almost the same amount as those who sought part-time work.\n\nOn the second graph, we see that 2,535 UK postgraduates did part-time work while only 345 did voluntary work. 2,725 UK postgraduates decided to study further which is slightly more than those who decided to take part-time employment. Lastly, 1,625 UK postgraduate students were not in the work force. The overall trend shows that most of the students, graduates and postgraduates alike, sought out further education while only a small number of students in both groups did voluntary work after leaving college. We will also notice that about a third in each group were unemployed. Lastly, the only difference that we will notice between the two groups is the percentage on the amount of students who went on to do part-time work with only one-third of the total amount in the graduate students and almost one-half with the postgraduate students.",
+        "comment": "This response reports the data on the bar charts accurately and gives an extended overview at the end. Information is logically organised and there is a clear progression throughout. The message can be followed with ease as a range of cohesive devices are used flexibly. Referencing and substitution are also well managed, however there are lapses in paragraphing. A range of vocabulary is used with no spelling errors, though word choice is not always appropriate (to seek further study, roughly almost, the percentage on the amount of, overuse of sought). These errors do not detract from overall clarity but they do reduce the communicative effect. A range of complex structures is also used accurately. Error-free sentences are frequent and only a few mistakes occur (The graphs represents, we will notice), so grammar and punctuation are generally well controlled."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Countries are becoming more and more similar because people are able to buy the same products anywhere in the world.",
+        "Do you think this is a positive or negative development?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "It is said that countries are becoming similar to each other because of the global spread of the same products, which are now available for purchase almost anywhere. I strongly believe that this modern development is largely detrimental to culture and traditions worldwide.\n\nA country's history, language and ethos are all inextricably bound up in its manufactured artefacts. If the relentless advance of international brands into every corner of the world continues, these bland packages might one day completely oust the traditional objects of a nation, which would be a loss of richness and diversity in the world, as well as the sad disappearance of the manifestations of a place's character. What would a Japanese tea ceremony be without its specially crafted teapot, or a Fijian kava ritual without its bowl made from a certain type of tree bark?\n\nLet us not forget either that traditional products, whether these be medicines, cosmetics, toys, clothes, utensils or food, provide employment for local people. The spread of multinational products can often bring in its wake a loss of jobs, as people turn to buying the new brand, perhaps thinking it more glamorous than the one they are used to. This eventually puts old-school craftspeople out of work.\n\nFinally, tourism numbers may also be affected, as travellers become disillusioned with finding every place just the same as the one they visited previously. To see the same products in shops the world over is boring, and does not impel visitors to open their wallets in the same way that trinkets or souvenirs unique to the particular area do.\n\nSome may argue that all people are entitled to have access to the same products, but I say that local objects suit local conditions best, and that faceless uniformity worldwide is an unwelcome and dreary prospect.",
+        "comment": "本书原文说明：此篇 Task 2 范文标注为 MODEL ANSWER，由考官撰写，作为该题众多可能写法中的一种示范（\"This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches.\"），与其余各套 Task 1/Task 2 的 SAMPLE ANSWER（真实考生答卷）不同，书中并未给出针对这篇范文的具体考官评语或分项评分。"
+      }
+    }
+  ]
+}

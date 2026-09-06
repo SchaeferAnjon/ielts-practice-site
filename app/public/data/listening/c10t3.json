@@ -1,0 +1,1663 @@
+{
+  "id": "c10t3",
+  "book": "剑桥雅思10",
+  "test": 3,
+  "title": "剑10 Test 3 · Listening",
+  "source": "剑桥雅思10",
+  "answers": {
+    "1": [
+      "4"
+    ],
+    "2": [
+      "46 Wombat"
+    ],
+    "3": [
+      "Thursday"
+    ],
+    "4": [
+      "8.30"
+    ],
+    "5": [
+      "red"
+    ],
+    "6": [
+      "lunch"
+    ],
+    "7": [
+      "glasses"
+    ],
+    "8": [
+      "Ball"
+    ],
+    "9": [
+      "aunt"
+    ],
+    "10": [
+      "month"
+    ],
+    "11": [
+      "C",
+      "E"
+    ],
+    "12": [
+      "C",
+      "E"
+    ],
+    "13": [
+      "B"
+    ],
+    "14": [
+      "A"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "D"
+    ],
+    "19": [
+      "D"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "E"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "G"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "achievement",
+      "achievements"
+    ],
+    "32": [
+      "personality",
+      "character"
+    ],
+    "33": [
+      "Situational"
+    ],
+    "34": [
+      "friend"
+    ],
+    "35": [
+      "aspirations",
+      "ambitions"
+    ],
+    "36": [
+      "style"
+    ],
+    "37": [
+      "development"
+    ],
+    "38": [
+      "vision"
+    ],
+    "39": [
+      "structures"
+    ],
+    "40": [
+      "innovation",
+      "innovations"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c10/t3p1.mp3",
+      "duration": 0,
+      "title": "SECTION 1",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the form below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Early Learning Childcare Centre Enrolment Form",
+          "table": {
+            "head": [
+              "Personal Details",
+              ""
+            ],
+            "rows": [
+              [
+                "Child's name",
+                "Kate"
+              ],
+              [
+                "Age",
+                "{{1}}"
+              ],
+              [
+                "Address",
+                "{{2}} Road, Woodside, 4032"
+              ],
+              [
+                "Phone",
+                "3345 9865"
+              ],
+              [
+                "Childcare Information",
+                ""
+              ],
+              [
+                "Days enrolled for",
+                "Monday and {{3}}"
+              ],
+              [
+                "Start time",
+                "{{4}} am"
+              ],
+              [
+                "Childcare group",
+                "the {{5}} group"
+              ],
+              [
+                "Which meal/s are required each day?",
+                "{{6}}"
+              ],
+              [
+                "Medical conditions",
+                "needs {{7}}"
+              ],
+              [
+                "Emergency contact",
+                "Jenny {{8}}  Phone: 3346 7523"
+              ],
+              [
+                "Relationship to child",
+                "{{9}}"
+              ],
+              [
+                "Fees",
+                ""
+              ],
+              [
+                "Will pay each",
+                "{{10}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "DIRECTOR",
+          "t": "Good morning."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Welcome to the Early Learning Childcare Centre."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "How may I help you?"
+        },
+        {
+          "s": "CAROL",
+          "t": "Hi."
+        },
+        {
+          "s": "CAROL",
+          "t": "I spoke to you last week about enrolling my daughter for next year."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Oh, yes."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "I'll just get some details from you."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "So, you're her mother?"
+        },
+        {
+          "s": "CAROL",
+          "t": "That's right."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "And, can I have your name?"
+        },
+        {
+          "s": "CAROL",
+          "t": "It's Carol, Carol Smith."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "And your daughter's name?"
+        },
+        {
+          "s": "CAROL",
+          "t": "It's Kate."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Now, we have several groups at the centre and we cater for children from three to five years old."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "How old is your daughter?"
+        },
+        {
+          "s": "CAROL",
+          "t": "She's three now but she turns four next month."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "I'll put four down because that's how old she'll be when she starts.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "CAROL",
+          "t": "Fine, she's so excited about her birthday and coming to the centre."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "That's good to hear."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "And what's your address?"
+        },
+        {
+          "s": "CAROL",
+          "t": "It's 46 Wombat Road, that's W-O-M-B-A-T.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "CAROL",
+          "t": "Woodside 4032."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "And what's the phone number?"
+        },
+        {
+          "s": "CAROL",
+          "t": "Oh ... it's ... 3345 9865."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "So, have you decided on the days you'd like to bring your daughter here?"
+        },
+        {
+          "s": "CAROL",
+          "t": "I'd prefer Monday and Wednesday if possible."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Mmm."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "I'll check, Monday's fine, but I think the centre is already full for Wednesday."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Erm."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Yes."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Sorry."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "It seems to be a very popular day."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "We can offer you a Thursday or a Friday as well."
+        },
+        {
+          "s": "CAROL",
+          "t": "Oh dear."
+        },
+        {
+          "s": "CAROL",
+          "t": "I suppose Thursday would be all right because she has swimming on Friday.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "OK, got that."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Because a lot of parents work, we do offer flexible start and finish times."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "We are open from 7:30 in the morning until 6 o'clock at night."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "What time would you like your daughter to start?"
+        },
+        {
+          "s": "CAROL",
+          "t": "I need to get to work in the city by 9:00 so i'll drop her off at 8:30.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "CAROL",
+          "t": "You're pretty close to the city here so that should give me plenty of time to get there."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "That's fine."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Now, we also need to decide which group she'll be in."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "We have two different groups and they're divided up according to age."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "There's the green group, which is for three- to four-year-olds."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "And then there's the red group which is for four- to five-year-olds."
+        },
+        {
+          "s": "CAROL",
+          "t": "She's quite mature for her age and she can already write her name and read a little."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Well, I'll put her in the red group and we can always change her to the green one if there are any problems.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "CAROL",
+          "t": "That sounds fine."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "OK."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Let's move on to meals."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "We can provide breakfast, lunch and dinner."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "As she's finishing pretty early, she won't need dinner, will you give her breakfast before she comes?"
+        },
+        {
+          "s": "CAROL",
+          "t": "Yes, she'll only need lunch.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Now, does she have any medical conditions we need to know about?"
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Does she have asthma or any hearing problems for example?"
+        },
+        {
+          "s": "CAROL",
+          "t": "No."
+        },
+        {
+          "s": "CAROL",
+          "t": "But she does need to wear glasses.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Oh, I'll make a note of that."
+        },
+        {
+          "s": "CAROL",
+          "t": "Yes, she's pretty good about wearing them, she can't see much without them."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Right."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "OK."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Now, I also need emergency contact details."
+        },
+        {
+          "s": "CAROL",
+          "t": "So what sort of information do you need?"
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Just the name and number of a friend or family member we can contact in case we can't get hold of you at any time."
+        },
+        {
+          "s": "CAROL",
+          "t": "OK."
+        },
+        {
+          "s": "CAROL",
+          "t": "That'd better be my sister..."
+        },
+        {
+          "s": "CAROL",
+          "t": "Jenny Ball.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "CAROL",
+          "t": "That's B-A-double L."
+        },
+        {
+          "s": "CAROL",
+          "t": "Her phone number is 3346 7523."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Great."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "So she is the child's aunt?",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "CAROL",
+          "t": "Yes, that's right."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "I'll make a note of that as well."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Now, is there anything you'd like to ask?"
+        },
+        {
+          "s": "CAROL",
+          "t": "What about payment?"
+        },
+        {
+          "s": "CAROL",
+          "t": "How much are the fees each term?"
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Well, for two days and the hours you've chosen, that will be $450 altogether."
+        },
+        {
+          "s": "CAROL",
+          "t": "OK, and do I have to pay that now?"
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "No, we send out invoices once the children start at the centre."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "You can choose to pay at the end of each term or we do offer a slightly discounted rate if you pay every month."
+        },
+        {
+          "s": "CAROL",
+          "t": "Oh, I'll do that then."
+        },
+        {
+          "s": "CAROL",
+          "t": "I find it easier to budget that way and I'm not used to the term dates just yet.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Good, it makes it a lot simpler for us as well."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Well, that's everything."
+        },
+        {
+          "s": "DIRECTOR",
+          "t": "Would you like me to show you around ?"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c10/t3p2.mp3",
+      "duration": 0,
+      "title": "SECTION 2",
+      "groups": [
+        {
+          "range": [
+            11,
+            12
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO things does Alice say about the Dolphin Conservation Trust?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Children make up most of the membership."
+            },
+            {
+              "k": "B",
+              "text": "It's the country's largest conservation organisation."
+            },
+            {
+              "k": "C",
+              "text": "It helps finance campaigns for changes in fishing practices."
+            },
+            {
+              "k": "D",
+              "text": "It employs several dolphin experts full-time."
+            },
+            {
+              "k": "E",
+              "text": "Volunteers help in various ways."
+            }
+          ]
+        },
+        {
+          "range": [
+            13,
+            15
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, or C.",
+          "questions": [
+            {
+              "n": 13,
+              "text": "Why is Alice so pleased the Trust has won the Charity Commission award?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It has brought in extra money."
+                },
+                {
+                  "k": "B",
+                  "text": "It made the work of the trust better known."
+                },
+                {
+                  "k": "C",
+                  "text": "It has attracted more members."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "Alice says oil exploration causes problems to dolphins because of",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "noise."
+                },
+                {
+                  "k": "B",
+                  "text": "oil leaks."
+                },
+                {
+                  "k": "C",
+                  "text": "movement of ships."
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "Alice became interested in dolphins when",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "she saw one swimming near her home."
+                },
+                {
+                  "k": "B",
+                  "text": "she heard a speaker at her school."
+                },
+                {
+                  "k": "C",
+                  "text": "she read a book about them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            16,
+            20
+          ],
+          "type": "matching",
+          "instruction": "Which dolphin does Alice make each of the following comments about? Write the correct letter, A, B, C or D, next to questions 16-20.",
+          "optionsTitle": "Dolphins",
+          "options": [
+            {
+              "k": "A",
+              "text": "Moondancer"
+            },
+            {
+              "k": "B",
+              "text": "Echo"
+            },
+            {
+              "k": "C",
+              "text": "Kiwi"
+            },
+            {
+              "k": "D",
+              "text": "Samson"
+            }
+          ],
+          "itemsTitle": "Comments",
+          "items": [
+            {
+              "n": 16,
+              "text": "It has not been seen this year."
+            },
+            {
+              "n": 17,
+              "text": "It is photographed more than the others."
+            },
+            {
+              "n": 18,
+              "text": "It is always very energetic."
+            },
+            {
+              "n": 19,
+              "text": "It is the newest one in the scheme."
+            },
+            {
+              "n": 20,
+              "text": "It has an unusual shape."
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "INTERVIEWER",
+          "t": "Today we're pleased to have on the show Alice Bussell from the Dolphin Conservation Trust."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Tell us about the Trust, Alice."
+        },
+        {
+          "s": "ALICE",
+          "t": "Well, obviously its purpose is to protect dolphins in seas all around the world."
+        },
+        {
+          "s": "ALICE",
+          "t": "It tries to raise people's awareness of the problems these marine creatures are suffering because of pollution and other threats."
+        },
+        {
+          "s": "ALICE",
+          "t": "It started ten years ago and it's one of the fastest growing animal charities in the country - although it's still fairly small compared with the big players in animal protection."
+        },
+        {
+          "s": "ALICE",
+          "t": "We are particularly proud of the work we do in education - last year we visited a huge number of schools in different parts of the country, going round to talk to children and young people aged from five to eighteen."
+        },
+        {
+          "s": "ALICE",
+          "t": "In fact, about thirty-five per cent of our members are children."
+        },
+        {
+          "s": "ALICE",
+          "t": "The charity uses its money to support campaigns - for example, for changes in fishing policy and so forth.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "It hopes soon to be able to employ its first full-time biologist - with dolphin expertise - to monitor populations."
+        },
+        {
+          "s": "ALICE",
+          "t": "Of course, many people give their services on a voluntary basis and we now have volunteers working in observation, office work and other things.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "I should also tell you about the award we won from the Charity Commission last year - for our work in education."
+        },
+        {
+          "s": "ALICE",
+          "t": "Although it's not meant an enormous amount of money for us, it has made our activities even more widely publicised and understood.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "In the long term it may not bring in extra members but we're hoping it'll have this effect."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Is it possible to see dolphins in UK waters?"
+        },
+        {
+          "s": "ALICE",
+          "t": "Yes."
+        },
+        {
+          "s": "ALICE",
+          "t": "In several locations."
+        },
+        {
+          "s": "ALICE",
+          "t": "And we have a big project in the east part of Scotland."
+        },
+        {
+          "s": "ALICE",
+          "t": "This has long been a haven for dolphins because it has very little shipping."
+        },
+        {
+          "s": "ALICE",
+          "t": "However, that may be about to change soon because oil companies want to increase exploration there."
+        },
+        {
+          "s": "ALICE",
+          "t": "We're campaigning against this because, although there'll be little pollution from oil, exploration creates a lot of underwater noise.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "It means the dolphins can't rest and socialise."
+        },
+        {
+          "s": "ALICE",
+          "t": "This is how I became interested in dolphin conservation in the first place."
+        },
+        {
+          "s": "ALICE",
+          "t": "I had never seen one and I hadn't been particularly interested in them at school."
+        },
+        {
+          "s": "ALICE",
+          "t": "Then I came across this story about a family of dolphins who had to leave their home in the Moray Firth because of the oil companies and about a child who campaigned to save them.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "I couldn't put the book down - I was hooked."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "I'm sure our listeners will want to find out what they can do to help."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "You mentioned the 'Adopt a Dolphin' scheme."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Can you tell us about that?"
+        },
+        {
+          "s": "ALICE",
+          "t": "Of course!"
+        },
+        {
+          "s": "ALICE",
+          "t": "People can choose one of our dolphins to sponsor."
+        },
+        {
+          "s": "ALICE",
+          "t": "They receive a picture of it and news updates."
+        },
+        {
+          "s": "ALICE",
+          "t": "I'd like to tell you about four which are currently being adopted by our members: Moondancer, Echo, Kiwi and Samson."
+        },
+        {
+          "s": "ALICE",
+          "t": "Unfortunately, Echo is being rather elusive this year and hasn't yet been sighted by our observers but we remain optimistic that he'll be out there soon.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "All the others have been out in force - Samson and Moondancer are often photographed together but it is Kiwi who's our real 'character' as she seems to love coming up close for the cameras and we've captured her on film hundreds of times.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "They all have their own personalities - Moondancer is very elegant and curves out and into the water very smoothly, whereas Samson has a lot of energy - he's always leaping out of the water with great vigour.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "You'd probably expect him to be the youngest - he's not quite - that's Kiwi - but Samson's the latest of our dolphins to be chosen for the scheme.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "Kiwi makes a lot of noise so we can often pick her out straightaway."
+        },
+        {
+          "s": "ALICE",
+          "t": "Echo and Moondancer are noisy too, but Moondancer's easy to find because she has a particularly large fin on her back, which makes her easy to identify.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "ALICE",
+          "t": "So, yes, they're all very different..."
+        },
+        {
+          "s": "INTERVIEWER",
+          "t": "Well, they sound a fascinating group ..."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c10/t3p3.mp3",
+      "duration": 0,
+      "title": "SECTION 3",
+      "groups": [
+        {
+          "range": [
+            21,
+            25
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Theatre Studies Course",
+          "questions": [
+            {
+              "n": 21,
+              "text": "What helped Rob to prepare to play the character of a doctor?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the stories his grandfather told him"
+                },
+                {
+                  "k": "B",
+                  "text": "the times when he watched his grandfather working"
+                },
+                {
+                  "k": "C",
+                  "text": "the way he imagined his grandfather at work"
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "In the play's first scene, the boredom of village life was suggested by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "repetition of words and phrases."
+                },
+                {
+                  "k": "B",
+                  "text": "scenery painted in dull colours."
+                },
+                {
+                  "k": "C",
+                  "text": "long pauses within conversations."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "What has Rob learned about himself through working in a group?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "He likes to have clear guidelines."
+                },
+                {
+                  "k": "B",
+                  "text": "He copes well with stress."
+                },
+                {
+                  "k": "C",
+                  "text": "He thinks he is a good leader."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "To support the production, research material was used which described",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "political developments."
+                },
+                {
+                  "k": "B",
+                  "text": "changing social attitudes."
+                },
+                {
+                  "k": "C",
+                  "text": "economic transformations."
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "What problem did the students overcome in the final rehearsal?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "one person forgetting their words"
+                },
+                {
+                  "k": "B",
+                  "text": "an equipment failure"
+                },
+                {
+                  "k": "C",
+                  "text": "the injury of one character"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            26,
+            30
+          ],
+          "type": "matching",
+          "instruction": "What action is needed for the following stages in doing the 'year abroad' option? Choose FIVE answers from the box and write the correct letter, A-G, next to questions 26-30.",
+          "optionsTitle": "Action",
+          "options": [
+            {
+              "k": "A",
+              "text": "be on time"
+            },
+            {
+              "k": "B",
+              "text": "get a letter of recommendation"
+            },
+            {
+              "k": "C",
+              "text": "plan for the final year"
+            },
+            {
+              "k": "D",
+              "text": "make sure the institution's focus is relevant"
+            },
+            {
+              "k": "E",
+              "text": "show ability in Theatre Studies"
+            },
+            {
+              "k": "F",
+              "text": "make travel arrangements and bookings"
+            },
+            {
+              "k": "G",
+              "text": "ask for help"
+            }
+          ],
+          "itemsTitle": "Stages in doing the 'year abroad' option",
+          "items": [
+            {
+              "n": 26,
+              "text": "in the second year of the course"
+            },
+            {
+              "n": 27,
+              "text": "when first choosing where to go"
+            },
+            {
+              "n": 28,
+              "text": "when sending in your choices"
+            },
+            {
+              "n": 29,
+              "text": "when writing your personal statement"
+            },
+            {
+              "n": 30,
+              "text": "when doing the year abroad"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MIA",
+          "t": "Hi, Rob."
+        },
+        {
+          "s": "MIA",
+          "t": "How's the course going?"
+        },
+        {
+          "s": "ROB",
+          "t": "Oh, hi, Mia."
+        },
+        {
+          "s": "ROB",
+          "t": "Yeah, great."
+        },
+        {
+          "s": "ROB",
+          "t": "I can't believe the first term's nearly over."
+        },
+        {
+          "s": "MIA",
+          "t": "I saw your group's performance last night at the student theatre."
+        },
+        {
+          "s": "MIA",
+          "t": "It was good."
+        },
+        {
+          "s": "ROB",
+          "t": "Really?"
+        },
+        {
+          "s": "ROB",
+          "t": "Yeah ... but now we have to write a report on the whole thing, an in-depth analysis."
+        },
+        {
+          "s": "ROB",
+          "t": "I don't know where to start."
+        },
+        {
+          "s": "ROB",
+          "t": "Like, I have to write about the role I played, the doctor, how I developed the character."
+        },
+        {
+          "s": "MIA",
+          "t": "Well, what was your starting point?"
+        },
+        {
+          "s": "ROB",
+          "t": "Er ... my grandfather was a doctor before he retired, and I just based it on him."
+        },
+        {
+          "s": "MIA",
+          "t": "OK, but how?"
+        },
+        {
+          "s": "MIA",
+          "t": "Did you talk to him about it?"
+        },
+        {
+          "s": "ROB",
+          "t": "He must have all sorts of stories, but he never says much about his work, even now."
+        },
+        {
+          "s": "ROB",
+          "t": "He has a sort of authority though."
+        },
+        {
+          "s": "MIA",
+          "t": "So how did you manage to capture that?"
+        },
+        {
+          "s": "ROB",
+          "t": "I'd ..."
+        },
+        {
+          "s": "ROB",
+          "t": "I'd visualise what he must have been like in the past, when he was sitting in his consulting room listening to his patients.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "MIA",
+          "t": "OK, so that's what you explain in your report."
+        },
+        {
+          "s": "ROB",
+          "t": "Right."
+        },
+        {
+          "s": "MIA",
+          "t": "Then there's the issue of atmosphere - so in the first scene we needed to know how boring life was in the doctor's village in the 1950s, so when the curtain went up on the first scene in the waiting room, there was that long silence before anyone spoke."
+        },
+        {
+          "s": "MIA",
+          "t": "And then people kept saying the same thing over and over, like 'Cold, isn't it?'",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "ROB",
+          "t": "Yes, and everyone wore grey and brown, and just sat in a row."
+        },
+        {
+          "s": "MIA",
+          "t": "Yes, all those details of the production."
+        },
+        {
+          "s": "ROB",
+          "t": "And I have to analyse how I functioned in the group - what I found out about myself."
+        },
+        {
+          "s": "ROB",
+          "t": "I know I was so frustrated at times, when we couldn't agree."
+        },
+        {
+          "s": "MIA",
+          "t": "Yes."
+        },
+        {
+          "s": "MIA",
+          "t": "So did one person emerge as the leader?"
+        },
+        {
+          "s": "ROB",
+          "t": "Sophia did."
+        },
+        {
+          "s": "ROB",
+          "t": "That was OK - she helped us work out exactly what to do, for the production.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "ROB",
+          "t": "And that made me feel better."
+        },
+        {
+          "s": "ROB",
+          "t": "I suppose."
+        },
+        {
+          "s": "MIA",
+          "t": "When you understood what needed doing?"
+        },
+        {
+          "s": "ROB",
+          "t": "Yes."
+        },
+        {
+          "s": "ROB",
+          "t": "And Sophia did some research, too."
+        },
+        {
+          "s": "ROB",
+          "t": "That was useful in developing our approach."
+        },
+        {
+          "s": "MIA",
+          "t": "Like what?"
+        },
+        {
+          "s": "ROB",
+          "t": "Well, she found these articles from the 1950s about how relationships between children and their parents, or between the public and people like bank managers or the police were shifting.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "MIA",
+          "t": "Interesting."
+        },
+        {
+          "s": "MIA",
+          "t": "And did you have any practical problems to overcome?"
+        },
+        {
+          "s": "ROB",
+          "t": "Well, in the final rehearsal everything was going fine until the last scene - that's where the doctor's first patient appears on stage on his own."
+        },
+        {
+          "s": "MIA",
+          "t": "The one in the wheelchair?"
+        },
+        {
+          "s": "ROB",
+          "t": "Yes, and he had this really long speech, with the stage all dark except for one spotlight - and then that stuck somehow so it was shining on the wrong side of the stage ... but anyway we got that fixed, thank goodness.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "MIA",
+          "t": "Yes, it was fine on the night."
+        },
+        {
+          "s": "ROB",
+          "t": "But while you're here, Mia, I wanted to ask you about the year abroad option."
+        },
+        {
+          "s": "ROB",
+          "t": "Would you recommend doing that?"
+        },
+        {
+          "s": "MIA",
+          "t": "Yes, definitely."
+        },
+        {
+          "s": "MIA",
+          "t": "It's a fantastic chance to study in another country for a year."
+        },
+        {
+          "s": "ROB",
+          "t": "I think I'd like to do it, but it looks very competitive - there's only a limited number of places."
+        },
+        {
+          "s": "MIA",
+          "t": "Yes, so next year when you are in the second year of the course, you need to work really hard in all your theatre studies modules.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "MIA",
+          "t": "Only students with good marks get places - you have to prove that you know your subject really well."
+        },
+        {
+          "s": "ROB",
+          "t": "Right."
+        },
+        {
+          "s": "ROB",
+          "t": "So how did you choose where to go?"
+        },
+        {
+          "s": "MIA",
+          "t": "Well."
+        },
+        {
+          "s": "MIA",
+          "t": "I decided I wanted a programme that would fit in with what I wanted to do after I graduate, so I looked for a university with emphasis on acting rather than directing for example.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "MIA",
+          "t": "It depends on you."
+        },
+        {
+          "s": "MIA",
+          "t": "Then about six months before you go, you have to email the scheme coordinator your top three choices."
+        },
+        {
+          "s": "MIA",
+          "t": "I had a friend who missed the deadline and didn't get her first choice, so you do need to get a move on at that stage.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "MIA",
+          "t": "You'll find that certain places are very popular with everyone."
+        },
+        {
+          "s": "ROB",
+          "t": "And don't you have to write a personal statement at that stage?"
+        },
+        {
+          "s": "MIA",
+          "t": "Yes."
+        },
+        {
+          "s": "ROB",
+          "t": "Right."
+        },
+        {
+          "s": "ROB",
+          "t": "I'll get some of the final year students to give me some tips ... maybe see if I can read what they wrote.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "MIA",
+          "t": "I think that's a very good idea."
+        },
+        {
+          "s": "MIA",
+          "t": "I don't mind showing you what I did."
+        },
+        {
+          "s": "MIA",
+          "t": "And while you're abroad don't make the mistake I made."
+        },
+        {
+          "s": "MIA",
+          "t": "I got so involved I forgot all about making arrangements for when I came back here for the final year.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "MIA",
+          "t": "Make sure you stay in touch so they know your choices for the optional modules."
+        },
+        {
+          "s": "MIA",
+          "t": "You don't want to miss out doing your preferred specialisms."
+        },
+        {
+          "s": "ROB",
+          "t": "Right."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c10/t3p4.mp3",
+      "duration": 0,
+      "title": "SECTION 4",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "'Self-regulatory focus theory' and leadership",
+          "lines": [
+            "## Self-regulatory focus theory",
+            "People's focus is to approach pleasure or avoid pain",
+            "Promotion goals focus on {{31}}",
+            "Prevention goals emphasise avoiding punishment",
+            "## Factors that affect people's focus",
+            "The Chronic Factor",
+            "- comes from one's {{32}}",
+            "The {{33}} Factor",
+            "- we are more likely to focus on promotion goals when with a {{34}}",
+            "- we are more likely to focus on prevention goals with our boss",
+            "## How people's focus affects them",
+            "Promotion Focus: People think about an ideal version of themselves, their {{35}} and their gains.",
+            "Prevention Focus: People think about their 'ought' self and their obligations",
+            "## Leaders",
+            "Leadership behaviour and {{36}} affects people's focus",
+            "Transformational Leaders:",
+            "- pay special attention to the {{37}} of their followers",
+            "- passionately communicate a clear {{38}}",
+            "- inspire promotion focus in followers",
+            "Transactional Leaders:",
+            "- create {{39}} to make expectations clear",
+            "- emphasise the results of a mistake",
+            "- inspire prevention focus in followers",
+            "## Conclusion",
+            "Promotion Focus is good for jobs requiring {{40}}",
+            "Prevention Focus is good for work such as a surgeon",
+            "Leaders' actions affect which focus people use"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Today, I want to talk about self-regulatory focus theory and how the actions of leaders can affect the way followers approach different situations."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Self-regulatory focus theory is a theory developed by Tori Higgins."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He says that a person's focus at any given time is to either approach pleasure or avoid pain."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These are two basic motivations that each and every one of us has, and they cause us to have different kinds of goals."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Promotion goals in different life situations emphasise achievement.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Prevention goals are oriented towards the avoidance of punishment."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In a specific situation, our thoughts might focus more on promotion goals or more on prevention goals."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The theory suggests that two factors affect which goals we are focusing on."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First, there is a chronic factor."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This factor is connected to a person's personality and says that each person has a basic tendency to either focus more on promotion goals or focus more on prevention goals as part of his or her personality.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Second, there is a situational factor which means that the context we are in can make us more likely to focus on one set of goals or the other.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example, we are more likely to be thinking about pleasure and to have promotion goals when we are spending time with a friend.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In contrast, if we are working on an important project for our boss, we are more likely to try to avoid making mistakes and therefore have more prevention goals in our mind."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Research has shown that the goals we are focusing on at a given time affect the way we think."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example, when focusing on promotion goals, people consider their ideal self, their aspirations and gains.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They don't think about what they can lose, so they think in a happier mode."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They feel more inspired to change."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When people are focusing on prevention goals, they think about their 'ought' self."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What are they supposed to be?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What are people expecting from them?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They consider their obligations to others."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As a result, they experience more anxiety and try to avoid situations where they could lose."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now that I have talked about the two focuses and how they affect people, I want to look at the idea that the way leaders behave, or their style of leading, can affect the focus that followers adopt in a specific situation.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In talking about leadership, we often mention transformational leaders and transactional leaders."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Transformational leaders, when interacting with their followers, focus on their development.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In their words and actions transformational leaders highlight change."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Their speech is passionate and conveys a definitive vision.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "All of these things can encourage followers to think about what could be."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In other words, they inspire a promotion focus in their followers."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In contrast, transactional leaders focus on developing clear structures that tell their followers exactly what is expected of them.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "While they do explain the rewards people will get for following orders, they emphasise more how a follower will be punished or that a follower won't get rewarded if his or her behaviour doesn't change."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In short, they emphasise the consequences of making a mistake."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This emphasis will clearly lead followers to focus on avoiding punishment and problems."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is clearly a prevention focus."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In conclusion, it is important to understand that one focus is not necessarily better than the other one."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For a designer who works in a field where a lot of innovation is needed, a promotion focus is probably better.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In contrast, a prevention focus which causes people to work more cautiously and produce higher quality work might be very appropriate for a job like a surgeon, for example."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The main point of the research, though, is that the actions of leaders can greatly influence whether people approach a situation with more of a promotion focus or more of a prevention focus."
+        }
+      ]
+    }
+  ]
+}
