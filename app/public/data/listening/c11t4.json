@@ -1,0 +1,1864 @@
+{
+  "id": "c11t4",
+  "book": "剑桥雅思11",
+  "test": 4,
+  "title": "剑11 Test 4 · Listening",
+  "source": "Cambridge IELTS 11 Academic, Test 4（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "secondary"
+    ],
+    "2": [
+      "flute"
+    ],
+    "3": [
+      "cinema"
+    ],
+    "4": [
+      "concert"
+    ],
+    "5": [
+      "market"
+    ],
+    "6": [
+      "Bythwaite"
+    ],
+    "7": [
+      "actor"
+    ],
+    "8": [
+      "A"
+    ],
+    "9": [
+      "B"
+    ],
+    "10": [
+      "C"
+    ],
+    "11": [
+      "E"
+    ],
+    "12": [
+      "D"
+    ],
+    "13": [
+      "G"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "A"
+    ],
+    "17": [
+      "F"
+    ],
+    "18": [
+      "H"
+    ],
+    "19": [
+      "C"
+    ],
+    "20": [
+      "B"
+    ],
+    "21": [
+      "B",
+      "D"
+    ],
+    "22": [
+      "B",
+      "D"
+    ],
+    "23": [
+      "A",
+      "B"
+    ],
+    "24": [
+      "A",
+      "B"
+    ],
+    "25": [
+      "B",
+      "E"
+    ],
+    "26": [
+      "B",
+      "E"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "dry"
+    ],
+    "32": [
+      "hard"
+    ],
+    "33": [
+      "sugar",
+      "sugars"
+    ],
+    "34": [
+      "roots"
+    ],
+    "35": [
+      "moist",
+      "damp",
+      "wet"
+    ],
+    "36": [
+      "variety"
+    ],
+    "37": [
+      "cattle"
+    ],
+    "38": [
+      "gardens",
+      "gardening"
+    ],
+    "39": [
+      "grasses"
+    ],
+    "40": [
+      "payment",
+      "payments",
+      "money"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c11/t4p1.mp3",
+      "duration": 491,
+      "title": "Stretton Festival",
+      "groups": [
+        {
+          "range": [
+            1,
+            7
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "table": {
+            "head": [
+              "Event",
+              "Cost",
+              "Venue",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "Jazz band",
+                "Example\nTickets available for £15",
+                "The {{1}} school",
+                "Also appearing: Carolyn Hart\n(plays the {{2}})"
+              ],
+              [
+                "Duck races",
+                "£1 per duck",
+                "Start behind the {{3}}",
+                "Prize: tickets for {{4}} held at the end of the festival.\nDucks can be bought in the {{5}}"
+              ],
+              [
+                "Flower show",
+                "Free",
+                "{{6}} Hall",
+                "Prizes presented at 5 pm by a well-known {{7}}"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            8,
+            10
+          ],
+          "type": "matching",
+          "instruction": "Who is each play suitable for?",
+          "limit": "Write the correct letter, A, B or C, next to Questions 8-10.",
+          "optionsTitle": "Plays",
+          "options": [
+            {
+              "k": "A",
+              "text": "mainly for children"
+            },
+            {
+              "k": "B",
+              "text": "mainly for adults"
+            },
+            {
+              "k": "C",
+              "text": "suitable for people of all ages"
+            }
+          ],
+          "itemsTitle": "Plays",
+          "items": [
+            {
+              "n": 8,
+              "text": "The Mystery of Muldoon"
+            },
+            {
+              "n": 9,
+              "text": "Fire and Flood"
+            },
+            {
+              "n": 10,
+              "text": "Silly Sailor"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "ROB",
+          "t": "Good morning.",
+          "start": 108.14,
+          "end": 108.58
+        },
+        {
+          "s": "ROB",
+          "t": "Stretton Festival box office.",
+          "start": 109.34,
+          "end": 110.5
+        },
+        {
+          "s": "ROB",
+          "t": "How can I help you?",
+          "start": 110.7,
+          "end": 111.7
+        },
+        {
+          "s": "MELANIE",
+          "t": "Oh, hello.",
+          "start": 111.82,
+          "end": 112.74
+        },
+        {
+          "s": "MELANIE",
+          "t": "My family and I are on holiday in the area, and we've seen some posters about the festival this week.",
+          "start": 113.46,
+          "end": 119.7
+        },
+        {
+          "s": "MELANIE",
+          "t": "Could you tell me about some of the events, please?",
+          "start": 120.45,
+          "end": 122.77
+        },
+        {
+          "s": "ROB",
+          "t": "Of course.",
+          "start": 123.05,
+          "end": 123.73
+        },
+        {
+          "s": "MELANIE",
+          "t": "First of all, are there still tickets available for the jazz band on Saturday?",
+          "start": 124.73,
+          "end": 129.45
+        },
+        {
+          "s": "ROB",
+          "t": "There are, but only £15.",
+          "start": 129.61,
+          "end": 133.04
+        },
+        {
+          "s": "ROB",
+          "t": "The £12 seats have all been sold.",
+          "start": 133.76,
+          "end": 196.19
+        },
+        {
+          "s": "MELANIE",
+          "t": "OK.",
+          "start": 197.11,
+          "end": 197.75
+        },
+        {
+          "s": "MELANIE",
+          "t": "And the venue is the school, isn't it?",
+          "start": 197.75,
+          "end": 200.23
+        },
+        {
+          "s": "ROB",
+          "t": "Yes, that's right, the secondary school.",
+          "q": [
+            1
+          ],
+          "start": 200.35,
+          "end": 203.06
+        },
+        {
+          "s": "ROB",
+          "t": "Make sure you don't go to the primary school by mistake!",
+          "start": 203.58,
+          "end": 206.62
+        },
+        {
+          "s": "ROB",
+          "t": "And there's an additional performer who isn't mentioned on the posters -Carolyn Hart is going to play with the band.",
+          "start": 207.38,
+          "end": 214.56
+        },
+        {
+          "s": "MELANIE",
+          "t": "Oh, I think I've heard her on the radio.",
+          "start": 214.8,
+          "end": 216.88
+        },
+        {
+          "s": "MELANIE",
+          "t": "Doesn't she play the oboe, or flute or something?",
+          "start": 216.96,
+          "end": 219.92
+        },
+        {
+          "s": "ROB",
+          "t": "Yes. the flute.",
+          "q": [
+            2
+          ],
+          "start": 220.6,
+          "end": 221.36
+        },
+        {
+          "s": "ROB",
+          "t": "She usually plays with symphony orchestras, and apparently this is her first time with a jazz band.",
+          "start": 222.14,
+          "end": 227.62
+        },
+        {
+          "s": "MELANIE",
+          "t": "Well, I'd certainly like to hear her.",
+          "start": 227.82,
+          "end": 229.78
+        },
+        {
+          "s": "MELANIE",
+          "t": "Then the next thing I want to ask about is the duck races - I saw a poster beside a river.",
+          "start": 230.58,
+          "end": 236.1
+        },
+        {
+          "s": "MELANIE",
+          "t": "What are they, exactly?",
+          "start": 236.26,
+          "end": 237.26
+        },
+        {
+          "s": "ROB",
+          "t": "Well, you buy a yellow plastic duck - or as many as you like - they're a pound each.",
+          "start": 238.37,
+          "end": 244.41
+        },
+        {
+          "s": "ROB",
+          "t": "And you write your name on each one.",
+          "start": 244.97,
+          "end": 247.17
+        },
+        {
+          "s": "ROB",
+          "t": "There'll be several races, depending on the number of ducks taking part.",
+          "start": 247.95,
+          "end": 251.99
+        },
+        {
+          "s": "ROB",
+          "t": "And John Stevens, a champion swimmer who lives locally, is going to start the races.",
+          "start": 252.63,
+          "end": 258.27
+        },
+        {
+          "s": "ROB",
+          "t": "All the ducks will be launched into the river at the back of the cinema, then they'll float along the river for 500 metres, as far as the railway bridge.",
+          "q": [
+            3
+          ],
+          "start": 259.55,
+          "end": 267.99
+        },
+        {
+          "s": "MELANIE",
+          "t": "And are there any prizes?",
+          "start": 268.15,
+          "end": 269.67
+        },
+        {
+          "s": "ROB",
+          "t": "Yes, the first duck in each race to arrive at the finishing line wins its owner free tickets for the concert on the last night of the festival.",
+          "q": [
+            4
+          ],
+          "start": 270.44,
+          "end": 279.28
+        },
+        {
+          "s": "MELANIE",
+          "t": "You said you can buy a duck?",
+          "start": 280.34,
+          "end": 281.54
+        },
+        {
+          "s": "MELANIE",
+          "t": "I'm sure my children will both want one",
+          "start": 281.7,
+          "end": 283.9
+        },
+        {
+          "s": "ROB",
+          "t": "They're on sale at a stall in the market.",
+          "q": [
+            5
+          ],
+          "start": 284.38,
+          "end": 286.38
+        },
+        {
+          "s": "ROB",
+          "t": "You can't miss it - it's got an enormous sign showing a couple of ducks.",
+          "start": 286.82,
+          "end": 290.54
+        },
+        {
+          "s": "MELANIE",
+          "t": "OK.",
+          "start": 291.06,
+          "end": 291.26
+        },
+        {
+          "s": "MELANIE",
+          "t": "I'll go there this afternoon.",
+          "start": 291.3,
+          "end": 292.94
+        },
+        {
+          "s": "MELANIE",
+          "t": "I remember walking past there yesterday.",
+          "start": 293.86,
+          "end": 295.46
+        },
+        {
+          "s": "MELANIE",
+          "t": "Now could you tell me something about the flower show, please?",
+          "start": 295.46,
+          "end": 299.54
+        },
+        {
+          "s": "ROB",
+          "t": "Well, admission is free, and the show is being held in Bythwaite Hall.",
+          "q": [
+            6
+          ],
+          "start": 299.54,
+          "end": 306.01
+        },
+        {
+          "s": "MELANIE",
+          "t": "Sorry, how do you spell that?",
+          "start": 306.45,
+          "end": 308.13
+        },
+        {
+          "s": "ROB",
+          "t": "B-Y-T-H-W-A-I-T-E.",
+          "start": 308.13,
+          "end": 315.48
+        },
+        {
+          "s": "ROB",
+          "t": "Bythwaite.",
+          "start": 315.48,
+          "end": 315.48,
+          "estimated": true
+        },
+        {
+          "s": "MELANIE",
+          "t": "Is it easy to find?",
+          "start": 317.24,
+          "end": 318.32
+        },
+        {
+          "s": "MELANIE",
+          "t": "I'm not very familiar with the town yet",
+          "start": 318.48,
+          "end": 320.92
+        },
+        {
+          "s": "ROB",
+          "t": "Oh, you won't have any problem.",
+          "start": 321.7,
+          "end": 322.98
+        },
+        {
+          "s": "ROB",
+          "t": "It's right in the centre of Stretton.",
+          "start": 323.78,
+          "end": 325.3
+        },
+        {
+          "s": "ROB",
+          "t": "It's the only old building in the town, so it's easy to recognise.",
+          "start": 326.46,
+          "end": 329.78
+        },
+        {
+          "s": "MELANIE",
+          "t": "I know it.",
+          "start": 330.98,
+          "end": 331.42
+        },
+        {
+          "s": "MELANIE",
+          "t": "I presume it's open all day.",
+          "start": 331.98,
+          "end": 333.38
+        },
+        {
+          "s": "ROB",
+          "t": "Yes, but if you'd like to see the prizes being awarded for the best flowers, you'll need to be there at 5 o'clock.",
+          "start": 334.22,
+          "end": 340.78
+        },
+        {
+          "s": "ROB",
+          "t": "The prizes are being given by a famous actor, Kevin Shapless.",
+          "q": [
+            7
+          ],
+          "start": 341.42,
+          "end": 345.16
+        },
+        {
+          "s": "ROB",
+          "t": "He lives nearby and gets involved in a lot of community events.",
+          "start": 346.56,
+          "end": 349.8
+        },
+        {
+          "s": "MELANIE",
+          "t": "Gosh, I've seen him on TV.",
+          "start": 350.0,
+          "end": 351.84
+        },
+        {
+          "s": "MELANIE",
+          "t": "I'll definitely go to the prize-giving.",
+          "start": 351.88,
+          "end": 353.6
+        },
+        {
+          "s": "ROB",
+          "t": "Right.",
+          "start": 354.08,
+          "end": 354.44
+        },
+        {
+          "s": "MELANIE",
+          "t": "I've seen a list of plays that are being performed this week, and I'd like to know which are suitable for my children, and which ones my husband and I might go to",
+          "start": 388.36,
+          "end": 396.96
+        },
+        {
+          "s": "ROB",
+          "t": "How old are your children?",
+          "start": 397.52,
+          "end": 398.32
+        },
+        {
+          "s": "MELANIE",
+          "t": "Five and seven.",
+          "start": 399.22,
+          "end": 399.42
+        },
+        {
+          "s": "MELANIE",
+          "t": "What about 'The Mystery of Muldoon'?",
+          "start": 400.42,
+          "end": 401.66
+        },
+        {
+          "s": "ROB",
+          "t": "That's aimed at five to ten-year-olds.",
+          "q": [
+            8
+          ],
+          "start": 402.54,
+          "end": 404.62
+        },
+        {
+          "s": "MELANIE",
+          "t": "So if I take my children, I can expect them to enjoy it more than I do?",
+          "start": 405.06,
+          "end": 408.82
+        },
+        {
+          "s": "ROB",
+          "t": "I think so.",
+          "start": 409.45,
+          "end": 410.01
+        },
+        {
+          "s": "ROB",
+          "t": "If you'd like something for yourself and your husband, and leave your children with a babysitter, you might like to see 'Fire and Flood' — it's about events that really happened in Stretton two hundred years ago, and children might find it rather frightening.",
+          "q": [
+            9
+          ],
+          "start": 410.69,
+          "end": 425.54
+        },
+        {
+          "s": "MELANIE",
+          "t": "Oh, thanks for the warning.",
+          "start": 425.7,
+          "end": 427.26
+        },
+        {
+          "s": "MELANIE",
+          "t": "And finally, what about 'Silly Sailor'?",
+          "start": 428.26,
+          "end": 429.74
+        },
+        {
+          "s": "ROB",
+          "t": "That's a comedy, and it's for young and old.",
+          "q": [
+            10
+          ],
+          "start": 431.25,
+          "end": 434.29
+        },
+        {
+          "s": "ROB",
+          "t": "In fact, it won an award in the Stretton Drama Festival a couple of months ago.",
+          "start": 434.77,
+          "end": 438.85
+        },
+        {
+          "s": "MELANIE",
+          "t": "OK.",
+          "start": 439.01,
+          "end": 439.53
+        },
+        {
+          "s": "MELANIE",
+          "t": "Well, goodbye, and thanks for all the information.",
+          "start": 440.45,
+          "end": 442.21
+        },
+        {
+          "s": "MELANIE",
+          "t": "I'm looking forward to the festival!",
+          "start": 442.95,
+          "end": 444.35
+        },
+        {
+          "s": "ROB",
+          "t": "Goodbye.",
+          "start": 444.95,
+          "end": 445.35
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c11/t4p2.mp3",
+      "duration": 363,
+      "title": "Museum tour",
+      "groups": [
+        {
+          "range": [
+            11,
+            16
+          ],
+          "type": "matching",
+          "instruction": "What does the speaker say about each of the following collections?",
+          "limit": "Choose SIX answers from the box and write the correct letter, A-G, next to Questions 11-16.",
+          "optionsTitle": "Comments",
+          "options": [
+            {
+              "k": "A",
+              "text": "was given by one person"
+            },
+            {
+              "k": "B",
+              "text": "was recently publicised in the media"
+            },
+            {
+              "k": "C",
+              "text": "includes some items given by members of the public"
+            },
+            {
+              "k": "D",
+              "text": "includes some items given by the artists"
+            },
+            {
+              "k": "E",
+              "text": "includes the most popular exhibits in the museum"
+            },
+            {
+              "k": "F",
+              "text": "is the largest of its kind in the country"
+            },
+            {
+              "k": "G",
+              "text": "has had some of its contents relocated"
+            }
+          ],
+          "itemsTitle": "Collections",
+          "items": [
+            {
+              "n": 11,
+              "text": "20th- and 21st-century paintings"
+            },
+            {
+              "n": 12,
+              "text": "19th-century paintings"
+            },
+            {
+              "n": 13,
+              "text": "Sculptures"
+            },
+            {
+              "n": 14,
+              "text": "'Around the world' exhibition"
+            },
+            {
+              "n": 15,
+              "text": "Coins"
+            },
+            {
+              "n": 16,
+              "text": "Porcelain and glass"
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            20
+          ],
+          "type": "matching",
+          "instruction": "Label the plan below.",
+          "limit": "Write the correct letter, A-H, next to Questions 17-20. 原题为地图标注题（Basement of museum 平面图），见原书第 83 页；此处以位置描述代替地图图像。",
+          "optionsTitle": "Locations on the plan (A-H)",
+          "options": [
+            {
+              "k": "A",
+              "text": "on the left-hand side, above the toilets and below B"
+            },
+            {
+              "k": "B",
+              "text": "on the left-hand side, above A and below C"
+            },
+            {
+              "k": "C",
+              "text": "on the left-hand side, the top-left corner room, next to D"
+            },
+            {
+              "k": "D",
+              "text": "next to C at the top of the plan, beside the doorway into the sitting area"
+            },
+            {
+              "k": "E",
+              "text": "a large room to the right of C and D, at the top of the plan"
+            },
+            {
+              "k": "F",
+              "text": "to the right of E, separated by a doorway"
+            },
+            {
+              "k": "G",
+              "text": "the room farthest to the right, beyond another doorway past F"
+            },
+            {
+              "k": "H",
+              "text": "at the bottom of the plan, to the right of the stairs and sitting area"
+            }
+          ],
+          "itemsTitle": "Facilities",
+          "items": [
+            {
+              "n": 17,
+              "text": "restaurant"
+            },
+            {
+              "n": 18,
+              "text": "cafe"
+            },
+            {
+              "n": 19,
+              "text": "baby-changing facilities"
+            },
+            {
+              "n": 20,
+              "text": "cloakroom"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning, and welcome to the museum - one with a remarkable range of exhibits, which I'm sure you'll enjoy.",
+          "start": 57.29,
+          "end": 63.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "My name's Greg, and I'll tell you about the various collections as we go round.",
+          "start": 63.97,
+          "end": 67.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But before we go, let me just give you a taste of what we have here.",
+          "start": 68.43,
+          "end": 72.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, for one thing, we have a fine collection of twentieth and twenty-first century paintings, many by very well-known artists.",
+          "start": 72.15,
+          "end": 79.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm sure you'll recognise several of the paintings.",
+          "start": 79.96,
+          "end": 81.92
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is the gallery that attracts the largest number of visitors, so it's best to go in early in the day, before the crowds arrive.",
+          "q": [
+            11
+          ],
+          "start": 81.96,
+          "end": 89.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then there are the nineteenth-century paintings.",
+          "start": 90.33,
+          "end": 92.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The museum was opened in the middle of that century, and several of the artists each donated one work - to get the museum started, as it were.",
+          "q": [
+            12
+          ],
+          "start": 92.73,
+          "end": 100.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So they're of special interest to us - we feel closer to them than to other works.",
+          "start": 101.07,
+          "end": 105.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The sculpture gallery has a number of fine exhibits, but I'm afraid it's currently closed for refurbishment.",
+          "start": 106.35,
+          "end": 111.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll need to come back next year to see it properly, but a number of the sculptures have been moved to other parts of the museum.",
+          "q": [
+            13
+          ],
+          "start": 112.48,
+          "end": 118.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "'Around the world' is a temporary exhibition - you've probably seen something about it on TV or in the newspapers.",
+          "q": [
+            14
+          ],
+          "start": 120.24,
+          "end": 126.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's created a great deal of interest, because it presents objects from every continent and many countries, and provides information about their social context - why they were made, who for, and so on.",
+          "start": 126.96,
+          "end": 139.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then there's the collection of coins.",
+          "start": 139.92,
+          "end": 142.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is what you might call a focused, specialist collection, because all the coins come from this country, and were produced between two thousand and a thousand years ago.",
+          "start": 142.16,
+          "end": 152.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And many of them were discovered by ordinary people digging their gardens, and donated to the museum!",
+          "q": [
+            15
+          ],
+          "start": 153.14,
+          "end": 158.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "All our porcelain and glass was left to the museum by its founder, when he died in 1878.",
+          "q": [
+            16
+          ],
+          "start": 160.41,
+          "end": 165.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And in the terms of his will, we're not allowed to add anything to that collection: he believed it was perfect in itself, and we don't see any reason to disagree!",
+          "start": 165.89,
+          "end": 174.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK, that was something about the collections, and now here's some more practical information, in case you need it.",
+          "start": 213.64,
+          "end": 220.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Most of the museum facilities are downstairs, in the basement, so you go down the stairs here.",
+          "start": 220.12,
+          "end": 227.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When you reach the bottom of the stairs, you'll find yourself in a sitting area, with comfortable chairs and sofas where you can have a rest before continuing your exploration of the museum.",
+          "start": 227.56,
+          "end": 237.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We have a very good restaurant, which serves excellent food all day, in a relaxing atmosphere.",
+          "start": 238.87,
+          "end": 244.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "To reach it when you get to the bottom of the stairs, go straight ahead to the far side of the sitting area, then turn right into the corridor.",
+          "q": [
+            17
+          ],
+          "start": 244.59,
+          "end": 253.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll see the door of the restaurant facing you.",
+          "start": 253.85,
+          "end": 257.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you just want a snack, or if you'd like to eat somewhere with facilities for children, we also have a cafe.",
+          "start": 258.69,
+          "end": 264.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When you reach the bottom of the stairs, you'll need to go straight ahead, turn right into the corridor and the cafe is immediately on the right.",
+          "q": [
+            18
+          ],
+          "start": 265.01,
+          "end": 274.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And talking about children, there are baby-changing facilities downstairs: cross the sitting area, continue straight ahead along the corridor on the left and you and your baby will find the facilities on the left-hand side.",
+          "q": [
+            19
+          ],
+          "start": 275.76,
+          "end": 289.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The cloakroom where you should leave coats, umbrellas and any large bags is on the left hand side of the sitting area.",
+          "q": [
+            20
+          ],
+          "start": 291.67,
+          "end": 298.51
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's through the last door before you come to the corridor.",
+          "start": 299.47,
+          "end": 302.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are toilets on every floor, but in the basement they're the first rooms on the left when you get down there.",
+          "start": 303.81,
+          "end": 310.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK, now if you've got anything to leave in the cloakroom, please do that now, and then we'll start our tour.",
+          "start": 310.29,
+          "end": 317.33
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c11/t4p3.mp3",
+      "duration": 437,
+      "title": "Musicians and clothing research",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO characteristics were shared by the subjects of Joanna's psychology study?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "They had all won prizes for their music."
+            },
+            {
+              "k": "B",
+              "text": "They had all made music recordings."
+            },
+            {
+              "k": "C",
+              "text": "They were all under 27 years old."
+            },
+            {
+              "k": "D",
+              "text": "They had all toured internationally."
+            },
+            {
+              "k": "E",
+              "text": "They all played a string instrument."
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            24
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO points does Joanna make about her use of telephone interviews?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "It meant rich data could be collected."
+            },
+            {
+              "k": "B",
+              "text": "It allowed the involvement of top performers."
+            },
+            {
+              "k": "C",
+              "text": "It led to a stressful atmosphere at times."
+            },
+            {
+              "k": "D",
+              "text": "It meant interview times had to be limited."
+            },
+            {
+              "k": "E",
+              "text": "It caused some technical problems."
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            26
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO topics did Joanna originally intend to investigate in her research?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "regulations concerning concert dress"
+            },
+            {
+              "k": "B",
+              "text": "audience reactions to the dress of performers"
+            },
+            {
+              "k": "C",
+              "text": "changes in performer attitudes to concert dress"
+            },
+            {
+              "k": "D",
+              "text": "how choice of dress relates to performer roles"
+            },
+            {
+              "k": "E",
+              "text": "links between musical instrument and dress choice"
+            }
+          ]
+        },
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 27,
+              "text": "Joanna concentrated on women performers because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "women are more influenced by fashion."
+                },
+                {
+                  "k": "B",
+                  "text": "women's dress has led to more controversy."
+                },
+                {
+                  "k": "C",
+                  "text": "women's code of dress is less strict than men's."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "Mike Frost's article suggests that in popular music, women's dress is affected by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "their wish to be taken seriously."
+                },
+                {
+                  "k": "B",
+                  "text": "their tendency to copy each other."
+                },
+                {
+                  "k": "C",
+                  "text": "their reaction to the masculine nature of the music."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "What did Joanna's subjects say about the audience at a performance?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "The musicians' choice of clothing is linked to respect for the audience."
+                },
+                {
+                  "k": "B",
+                  "text": "The clothing should not distract the audience from the music."
+                },
+                {
+                  "k": "C",
+                  "text": "The audience should make the effort to dress appropriately."
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "According to the speakers, musicians could learn from sports scientists about",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the importance of clothing for physical freedom."
+                },
+                {
+                  "k": "B",
+                  "text": "the part played by clothing in improving performance."
+                },
+                {
+                  "k": "C",
+                  "text": "the way clothing may protect against physical injury."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SUPERVISOR",
+          "t": "Hi, Joanna, good to meet you.",
+          "start": 61.24,
+          "end": 62.76
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "Now, before we discuss your new research project, I'd like to hear something about the psychology study you did last year for your Master's degree.",
+          "start": 63.52,
+          "end": 72.24
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "So how did you choose your subjects for that?",
+          "start": 73.55,
+          "end": 76.31
+        },
+        {
+          "s": "JOANNA",
+          "t": "Well, I had six subjects, all professional musicians, and all female.",
+          "start": 77.27,
+          "end": 82.79
+        },
+        {
+          "s": "JOANNA",
+          "t": "Three were violinists and there was also a cello player and a pianist and a flute player.",
+          "start": 83.82,
+          "end": 90.7
+        },
+        {
+          "s": "JOANNA",
+          "t": "They were all very highly regarded in the music world and they'd done quite extensive tours in different continents, and quite a few had won prizes and competitions as well.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 91.38,
+          "end": 100.46
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "And they were quite young, weren't they?",
+          "start": 100.86,
+          "end": 102.82
+        },
+        {
+          "s": "JOANNA",
+          "t": "Yes, between 25 and 29 - the mean was 27.8.",
+          "start": 102.98,
+          "end": 109.78
+        },
+        {
+          "s": "JOANNA",
+          "t": "I wasn't specifically looking for artists who'd produced recordings but this is something that's just taken for granted these days and they all had.",
+          "q": [
+            21,
+            22
+          ],
+          "start": 110.66,
+          "end": 119.06
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "Right.",
+          "start": 119.18,
+          "end": 119.5
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "Now you collected your data through telephone interviews, didn't you?",
+          "start": 120.58,
+          "end": 124.38
+        },
+        {
+          "s": "JOANNA",
+          "t": "Yes.",
+          "start": 124.9,
+          "end": 124.98
+        },
+        {
+          "s": "JOANNA",
+          "t": "I realised if I was going to interview leading musicians it'd only be possible over the phone because they're so busy.",
+          "q": [
+            23,
+            24
+          ],
+          "start": 126.14,
+          "end": 132.7
+        },
+        {
+          "s": "JOANNA",
+          "t": "I recorded them using a telephone recording adaptor.",
+          "start": 133.76,
+          "end": 136.12
+        },
+        {
+          "s": "JOANNA",
+          "t": "I'd been worried about the quality, but it worked out all right.",
+          "start": 136.92,
+          "end": 141.52
+        },
+        {
+          "s": "JOANNA",
+          "t": "I managed at least a 30-minute interview with each subject, sometimes longer.",
+          "start": 142.32,
+          "end": 147.68
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "Did doing it on the phone make it more stressful?",
+          "start": 147.88,
+          "end": 151.28
+        },
+        {
+          "s": "JOANNA",
+          "t": "I'd thought it might ... it was all quite informal though and in fact they seemed very keen to talk.",
+          "start": 151.6,
+          "end": 159.08
+        },
+        {
+          "s": "JOANNA",
+          "t": "And I don't think using the phone meant I got less rich data, rather the opposite in fact.",
+          "q": [
+            23,
+            24
+          ],
+          "start": 159.86,
+          "end": 165.66
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "Interesting.",
+          "start": 165.82,
+          "end": 166.54
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "And you were looking at how performers dress for concert performances?",
+          "start": 167.3,
+          "end": 171.62
+        },
+        {
+          "s": "JOANNA",
+          "t": "That's right.",
+          "start": 171.86,
+          "end": 172.54
+        },
+        {
+          "s": "JOANNA",
+          "t": "My research investigated the way players see their role as a musician and how this is linked to the type of clothing they decide to wear.",
+          "start": 173.95,
+          "end": 181.95
+        },
+        {
+          "s": "JOANNA",
+          "t": "But that focus didn't emerge immediately.",
+          "start": 181.95,
+          "end": 185.07
+        },
+        {
+          "s": "JOANNA",
+          "t": "When I started I was more interested in trying to investigate the impact of what was worn on those listening, and also whether someone like a violinist might adopt a different style of clothing from, say, someone playing the flute or the trumpet.",
+          "q": [
+            25,
+            26
+          ],
+          "start": 186.31,
+          "end": 201.47
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "It's interesting that the choice of dress is up to the individual, isn't it?",
+          "start": 202.57,
+          "end": 206.45
+        },
+        {
+          "s": "JOANNA",
+          "t": "Yes, you'd expect there to be rules about it in orchestras, but that's quite rare.",
+          "start": 206.57,
+          "end": 211.53
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "You only had women performers in your study.",
+          "start": 251.5,
+          "end": 254.02
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "Was that because male musicians are less worried about fashion?",
+          "start": 254.66,
+          "end": 258.14
+        },
+        {
+          "s": "JOANNA",
+          "t": "I think a lot of the men are very much influenced by fashion, but in social terms the choices they have are more limited ... they'd really upset audiences if they strayed away from quite narrow boundaries.",
+          "q": [
+            27
+          ],
+          "start": 258.5,
+          "end": 271.14
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "Hmm.",
+          "start": 271.14,
+          "end": 271.14,
+          "estimated": true
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "Now, popular music has quite different expectations.",
+          "start": 272.72,
+          "end": 275.6
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "Did you read Mike Frost's article about the dress of women performers in popular music?",
+          "start": 276.92,
+          "end": 281.36
+        },
+        {
+          "s": "JOANNA",
+          "t": "No.",
+          "start": 281.48,
+          "end": 281.84
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "He points out that a lot of female singers and musicians in popular music tend to dress down in performances, and wear less feminine clothes, like jeans instead of skirts, and he suggests this is because otherwise they'd just be discounted as trivial.",
+          "q": [
+            28
+          ],
+          "start": 282.48,
+          "end": 298.24
+        },
+        {
+          "s": "JOANNA",
+          "t": "But you could argue they're just wearing what's practical ...",
+          "start": 298.32,
+          "end": 300.84
+        },
+        {
+          "s": "JOANNA",
+          "t": "I mean, a pop-music concert is usually a pretty energetic affair.",
+          "start": 301.6,
+          "end": 305.2
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "Yes, he doesn't make that point, but I think you're probably right.",
+          "start": 305.44,
+          "end": 308.84
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "I was interested by the effect of the audience at a musical performance when it came to the choice of dress.",
+          "start": 309.8,
+          "end": 315.12
+        },
+        {
+          "s": "JOANNA",
+          "t": "The subjects I interviewed felt this was really important.",
+          "start": 315.79,
+          "end": 318.67
+        },
+        {
+          "s": "JOANNA",
+          "t": "It's all to do with what we understand by performance as a public event.",
+          "start": 319.75,
+          "end": 323.51
+        },
+        {
+          "s": "JOANNA",
+          "t": "They believed the audience had certain expectations and it was up to them as performers to fulfil these expectations to show a kind of esteem ...",
+          "q": [
+            29
+          ],
+          "start": 323.79,
+          "end": 334.58
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": ".. they weren't afraid of looking as if they'd made an effort to look good.",
+          "start": 334.82,
+          "end": 338.22
+        },
+        {
+          "s": "JOANNA",
+          "t": "Mmm.",
+          "start": 338.22,
+          "end": 338.22,
+          "estimated": true
+        },
+        {
+          "s": "JOANNA",
+          "t": "I think in the past the audience would have had those expectations of one another too, but that's not really the case now, not in the UK anyway.",
+          "start": 339.48,
+          "end": 348.16
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "No.",
+          "start": 348.28,
+          "end": 348.56
+        },
+        {
+          "s": "JOANNA",
+          "t": "And I also got interested in what sports scientists are doing too, with regard to clothing.",
+          "start": 348.96,
+          "end": 354.48
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "Musicians are quite vulnerable physically, aren't they, because the movements they carry out are very intensive and repetitive, so I'd imagine some features of sports clothing could safeguard the players from the potentially dangerous effects of this sort of thing.",
+          "q": [
+            30
+          ],
+          "start": 355.02,
+          "end": 371.72
+        },
+        {
+          "s": "JOANNA",
+          "t": "Yes, but musicians don't really consider it.",
+          "start": 372.2,
+          "end": 375.36
+        },
+        {
+          "s": "JOANNA",
+          "t": "They avoid clothing that obviously restricts their movements, but that's as far as they go.",
+          "start": 375.92,
+          "end": 381.08
+        },
+        {
+          "s": "SUPERVISOR",
+          "t": "Anyway, coming back to your own research, do you have any idea where you're going from here?",
+          "start": 381.61,
+          "end": 386.41
+        },
+        {
+          "s": "JOANNA",
+          "t": "I was thinking of doing a study using an audience, including",
+          "start": 387.52,
+          "end": 391.48
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c11/t4p4.mp3",
+      "duration": 502,
+      "title": "The use of soil to reduce carbon dioxide in the atmosphere",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "The use of soil to reduce carbon dioxide (CO2) in the atmosphere",
+          "lines": [
+            "## Rattan Lal:",
+            "Claims that 13% of CO2 in the atmosphere could be absorbed by agricultural soils",
+            "Erosion is more likely in soil that is {{31}}",
+            "Lal found soil in Africa that was very {{32}}",
+            "It was suggested that carbon from soil was entering the atmosphere",
+            "## Soil and carbon:",
+            "plants turn CO2 from the air into carbon-based substances such as {{33}}",
+            "some CO2 moves from the {{34}} of plants to microbes in the soil",
+            "carbon was lost from the soil when agriculture was invented",
+            "## Regenerative agriculture:",
+            "uses established practices to make sure soil remains fertile and {{35}}",
+            "e.g. through year-round planting and increasing the {{36}} of plants that are grown",
+            "## California study:",
+            "taking place on a big {{37}} farm",
+            "uses compost made from waste from agriculture and {{38}}",
+            "## Australia study:",
+            "aims to increase soil carbon by using {{39}} that are always green",
+            "## Future developments may include:",
+            "reducing the amount of fertilizer used in farming",
+            "giving farmers {{40}} for carbon storage, as well as their produce"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "As we saw in the last lecture, a major cause of climate change is the rapid rise in the level of carbon dioxide in the atmosphere over the last century.",
+          "start": 93.65,
+          "end": 103.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If we could reduce the amount of C02, perhaps the rate of climate change could also be slowed down.",
+          "start": 104.59,
+          "end": 110.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One potential method involves enhancing the role of the soil that plants grow in, with regard to absorbing C02.",
+          "start": 111.79,
+          "end": 118.52
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Rattan Lal, a soil scientist from Ohio State University, in the USA, claims that the world's agricultural soils could potentially absorb 13 per cent of the carbon dioxide in the atmosphere - the equivalent of the amount released in the last 30 years.",
+          "start": 119.56,
+          "end": 137.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And research is going on into how this might be achieved.",
+          "start": 138.63,
+          "end": 141.79
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Lal first came to the idea that soil might be valuable in this way not through an interest in climate change, but rather out of concern for the land itself and the people dependent on it.",
+          "start": 143.43,
+          "end": 155.24
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Carbon-rich soil is dark, crumbly and fertile, and retains some water.",
+          "start": 155.24,
+          "end": 161.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But erosion can occur if soil is dry, which is a likely effect if it contains inadequate amounts of carbon.",
+          "q": [
+            31
+          ],
+          "start": 162.71,
+          "end": 170.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Erosion is of course bad for people trying to grow crops or breed animals on that terrain.",
+          "start": 171.72,
+          "end": 177.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the 1970s and ' 80s, Lal was studying soils in Africa so devoid of organic matter that the ground had become extremely hard, like cement.",
+          "q": [
+            32
+          ],
+          "start": 178.32,
+          "end": 189.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There he met a pioneer in the study of global warming, who suggested that carbon from the soil had moved into the atmosphere.",
+          "start": 190.73,
+          "end": 198.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is now looking increasingly likely.",
+          "start": 198.69,
+          "end": 201.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let me explain.",
+          "start": 202.77,
+          "end": 203.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For millions of years, carbon dioxide levels in the atmosphere have been regulated, in part, by a natural partnership between plants and microbes - tiny organisms in the soil.",
+          "start": 204.57,
+          "end": 216.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Plants absorb C02 from the air and transform it into sugars and other carbon-based substances.",
+          "q": [
+            33
+          ],
+          "start": 216.9,
+          "end": 224.82
+        },
+        {
+          "s": "SPEAKER",
+          "t": "While a proportion of these carbon products remain in the plant, some transfer from the roots to fungi and soil microbes, which store the carbon in the soil.",
+          "q": [
+            34
+          ],
+          "start": 226.22,
+          "end": 236.58
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The invention of agriculture some 10,000 years ago disrupted these ancient soil-building processes and led to the loss of carbon from the soil.",
+          "start": 238.27,
+          "end": 248.59
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When humans started draining the natural topsoil, and ploughing it up for planting, they exposed the buried carbon to oxygen.",
+          "start": 249.82,
+          "end": 258.06
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This created carbon dioxide and released it into the air.",
+          "start": 259.73,
+          "end": 263.33
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And in some places, grazing by domesticated animals has removed all vegetation, releasing carbon into the air.",
+          "start": 263.97,
+          "end": 272.05
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Tons of carbon have been stripped from the world's soils - where it's needed - and pumped into the atmosphere.",
+          "start": 273.11,
+          "end": 279.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So what can be done?",
+          "start": 281.27,
+          "end": 282.51
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Researchers are now coming up with evidence that even modest changes to farming can significantly help to reduce the amount of carbon in the atmosphere.",
+          "start": 283.51,
+          "end": 292.67
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some growers have already started using an approach known as regenerative agriculture.",
+          "start": 294.5,
+          "end": 299.34
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This aims to boost the fertility of soil and keep it moist through established practices.",
+          "q": [
+            35
+          ],
+          "start": 300.46,
+          "end": 306.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These include keeping fields planted all year round, and increasing the variety of plants being grown.",
+          "q": [
+            36
+          ],
+          "start": 307.31,
+          "end": 314.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Strategies like these can significantly increase the amount of carbon stored in the soil, so agricultural researchers are now building a case for their use in combating climate change.",
+          "start": 315.43,
+          "end": 326.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One American investigation into the potential for storing C02 on agricultural lands is taking place in California.",
+          "start": 332.24,
+          "end": 340.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Soil scientist Whendee Silver of the University of California, Berkeley, is conducting a first-of-its-kind study on a large cattle farm in the state.",
+          "q": [
+            37
+          ],
+          "start": 340.48,
+          "end": 351.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "She and her students are testing the effects on carbon storage of the compost that is created from waste - both agricultural, including manure and cornstalks, and waste produced in gardens, such as leaves, branches, and lawn trimmings.",
+          "q": [
+            38
+          ],
+          "start": 351.82,
+          "end": 368.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In Australia, soil ecologist Christine Jones is testing another promising soil-enrichment strategy.",
+          "start": 369.72,
+          "end": 376.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Jones and 12 farmers are working to build up soil carbon by cultivating grasses that stay green all year round.",
+          "q": [
+            39
+          ],
+          "start": 377.04,
+          "end": 386.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Like composting, the approach has already been proved experimentally; Jones now hopes to show that it can be applied on working farms and that the resulting carbon capture can be accurately measured.",
+          "start": 386.77,
+          "end": 400.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's hoped in the future that projects such as these will demonstrate the role that farmers and other land managers can play in reducing the harmful effects of greenhouse gases.",
+          "start": 401.97,
+          "end": 412.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example, in countries like the United States, where most farming operations use large applications of fertiliser, changing such long-standing habits will require a change of system.",
+          "start": 412.73,
+          "end": 425.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Rattan Lal argues that farmers should receive payment not just for the corn or beef they produce but also for the carbon they can store in their soil.",
+          "q": [
+            40
+          ],
+          "start": 426.92,
+          "end": 436.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another study being carried out ...",
+          "start": 437.78,
+          "end": 439.86
+        }
+      ]
+    }
+  ]
+}
