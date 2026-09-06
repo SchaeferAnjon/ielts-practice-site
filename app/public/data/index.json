@@ -102,7 +102,10 @@
    "bookNo": 20,
    "test": 2,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "reading",
+    "writing"
+   ],
    "audioParts": []
   },
   {
