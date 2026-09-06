@@ -40,9 +40,7 @@ def ocr_columns(draft: str, a: int, b: int) -> str:
 
     out = []
     for i in range(a, b + 1):
-        png = Path(draft, "pages", f"p-{i:03d}.png")
-        if not png.exists():
-            png = next(Path(draft, "pages").glob(f"p-*{i}.png"), None)
+        png = next((c for c in (Path(draft, "pages", f"p-{i:03d}.png"), Path(draft, "pages", f"p-{i:02d}.png"), Path(draft, "pages", f"p-{i}.png")) if c.exists()), None)
         if not png:
             out.append("")
             continue
