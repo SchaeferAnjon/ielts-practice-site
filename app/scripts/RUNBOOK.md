@@ -22,10 +22,14 @@
 
 ## 素材状态
 
-- 文字层书（drafts/cN/book.txt 已生成）：21、17、15、14、13、12、11、10、8、7、6、5、4
-- OCR 书（drafts/cN/book.txt + pages/*.png）：19、18、16、9。剑20 只有 Test1-3 的单套扫描 PDF（`剑20完整/剑20-TestN.pdf`），要先 `dump_book.py --ocr`。
+- 文字层书（drafts/cN/book.txt 已生成）：21、17、15、14、13、12、11、10、7、6、5、4（剑10 有字母间空格、剑11/13 划线答案词乱码，用 book_text.py 切后修补）
+- OCR 书（drafts/cN/book.txt + pages/*.png，book_text.py 加 --book）：19、18、16、9、8（剑8 文字层没有空格，已重 OCR）。剑20 只有 Test1-3 的单套扫描 PDF（`剑20完整/剑20-TestN.pdf`），要先 `dump_book.py --ocr`。
 - 音频：`../audio/manifest.json`（完整四段的 31 套），已托管在 https://schaeferanjon.github.io/ielts-audio/ 。
 - ASR：豆包（VOLC_ASR_KEY 环境变量），脚本 `~/.claude/skills/video-to-notes/scripts/asr_volc.py`。
+
+## 老书（剑4-8）注意
+
+听力叫 SECTION，原文叫 Tapescripts / Audio Scripts（剑4 从 p131、剑5 p129、剑6 p128、剑7 p134、剑8 p129 起），答案页叫 Answer Key，书末有 General Training 试卷（不做），范文在 Model and Sample Answers（每套常只给一题）。剑9/10 没有音频。
 
 ## 顺序建议
 
