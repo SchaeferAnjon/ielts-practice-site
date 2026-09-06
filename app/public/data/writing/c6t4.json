@@ -1,0 +1,67 @@
+{
+  "id": "c6t4",
+  "book": "剑桥雅思6",
+  "test": 4,
+  "title": "剑6 Test 4 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "mixed",
+      "kindZh": "混合图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The charts below give information about USA marriage and divorce rates between 1970 and 2000, and the marital status of adult Americans in two of the years.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c6t4-task1.webp",
+      "imageCaption": "Number of marriages and divorces in the USA, 1970-2000; Marital status of adult Americans, 1970 and 2000",
+      "data": {
+        "unit": "Millions",
+        "years": [
+          1970,
+          1980,
+          1990,
+          2000
+        ],
+        "series": {
+          "Marriages": [
+            2.5,
+            2.5,
+            2.3,
+            2.0
+          ],
+          "Divorces": [
+            1.0,
+            1.4,
+            1.1,
+            1.0
+          ]
+        }
+      },
+      "sample": {
+        "band": 6.5,
+        "text": "We are given two charts which show us a few sets of data about the marital status of the Americans between 1970 and 2000.\n\nThe first chart compares the number of marriages and divorces in the United States of America between 1970 and 2000. We can see that data is given for each decade; the number of people who are getting married decreased slightly since 1980, as well as the divorces one. Nevertheless, divorces increased between 1970 and 1980.\n\nThe second chart is more precise about the different marital status of the Americans between 1970 and 2000. The number of divorced people has risen more than the double during this two years, and the data for the never married people has also increased significantly. However, less and less people are married, as the first chart showed us; the widowed American number is also decreasing.\n\nAs a conclusion, we can say that the marital status background of the Americans has maybe known the greatest change it had ever seen.",
+        "comment": "The Task Achievement is the weak point in this answer. Some of the data is summarised but the points are not well-selected to convey the key trends shown in the charts. The main features of the first chart are not adequately presented and the overall conclusion does not summarise the main information. No figures are given to illustrate the points made.\n\nThe information is well-organised, however, with clear paragraphing and well-signalled sections. The accurate use of a range of sequencers and other linkers makes it easy to follow the writing. There are examples of errors but they are not frequent and do not cause confusion.\n\nA range of vocabulary is used with flexibility, in spite of some inappropriate collocations and awkward phrasing. Structures are varied and generally accurate, while any mistakes do not make the message unclear."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people prefer to spend their lives doing the same things and avoiding change. Others, however, think that change is always a good thing.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "Over the last half century the pace of change in the life of human beings has increased beyond our wildest expectations. This has been driven by technological and scientific breakthroughs that are changing the whole way we view the world on an almost daily basis. This means that change is not always a personal option, but an inescapable fact of life, and we need to constantly adapt to keep pace with it.\n\nThose people who believe they have achieved some security by doing the same, familiar things are living in denial. Even when people believe they are resisting change themselves, they cannot stop the world around them from changing. Sooner or later they will find that the familiar jobs no longer exist, or that the 'safe' patterns of behaviour are no longer appropriate.\n\nHowever, reaching the conclusion that change is inevitable is not the same as assuming that 'change is always for the better'. Unfortunately, it's not always the case that new things are promoted because they have good impacts for the majority of people. A lot of innovations are made with the aim of making money for a few. This is because it is the rich and powerful people in our society who are able to impose changes (such as in working conditions or property developments) that are in their own interests.\n\nIn conclusion, I would say that change can be stimulating and energising for individuals when they pursue it themselves, but that all change, including that which is imposed on people, does not necessarily have good outcomes.",
+        "comment": "本书原文说明：此篇 Task 2 范文标注为 MODEL ANSWER，由考官撰写，作为该题众多可能写法中的一种示范（\"This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches.\"），未附具体的评分点评或分数，这里按满分示范处理。"
+      }
+    }
+  ]
+}

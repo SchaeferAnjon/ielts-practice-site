@@ -1,0 +1,936 @@
+{
+  "id": "c6t4",
+  "book": "剑桥雅思6",
+  "test": 4,
+  "title": "剑6 Test 4 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "v"
+    ],
+    "2": [
+      "vi"
+    ],
+    "3": [
+      "iii"
+    ],
+    "4": [
+      "ix"
+    ],
+    "5": [
+      "i"
+    ],
+    "6": [
+      "vii"
+    ],
+    "7": [
+      "x"
+    ],
+    "8": [
+      "NO"
+    ],
+    "9": [
+      "YES"
+    ],
+    "10": [
+      "NO"
+    ],
+    "11": [
+      "YES"
+    ],
+    "12": [
+      "NOT GIVEN"
+    ],
+    "13": [
+      "YES"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "F"
+    ],
+    "16": [
+      "C"
+    ],
+    "17": [
+      "J"
+    ],
+    "18": [
+      "F"
+    ],
+    "19": [
+      "NOT GIVEN"
+    ],
+    "20": [
+      "NO"
+    ],
+    "21": [
+      "YES"
+    ],
+    "22": [
+      "YES"
+    ],
+    "23": [
+      "NO"
+    ],
+    "24": [
+      "NOT GIVEN"
+    ],
+    "25": [
+      "C",
+      "E"
+    ],
+    "26": [
+      "C",
+      "E"
+    ],
+    "27": [
+      "iv"
+    ],
+    "28": [
+      "vi"
+    ],
+    "29": [
+      "v"
+    ],
+    "30": [
+      "vii"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "D"
+    ],
+    "33": [
+      "D"
+    ],
+    "34": [
+      "A"
+    ],
+    "35": [
+      "policy",
+      "a policy"
+    ],
+    "36": [
+      "guidelines",
+      "explicit guidelines"
+    ],
+    "37": [
+      "curriculum",
+      "school curriculum",
+      "the curriculum"
+    ],
+    "38": [
+      "victims"
+    ],
+    "39": [
+      "playful fighting"
+    ],
+    "40": [
+      "D"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "why": "段落A中医生开玩笑地问销售代表这次能提供什么礼物，暗示他期待像上次一样收到旅行之类的好处，正是标题v所说的“医生对药企的期待举例”。",
+      "key": "'The last rep offered me a trip to Florida."
+    },
+    "2": {
+      "loc": "p2",
+      "why": "段落B提到可以给医生200美元让其开某种药，还有1000美元的讲座出场费，属于标题vi“礼物包括经济上的好处”。",
+      "key": "But on any given day, what Schaefer can offer is typical for today's drugs rep - a car trunk full of promotional gifts and gadgets, a budget that could buy lunches and dinners for a small country, hundreds of free drug samples and the freedom to give a physician $200 to prescribe her new product to the next six patients who fit the drug's profile."
+    },
+    "3": {
+      "loc": "p3",
+      "why": "段落C提出鸡生蛋的问题：到底是医生的需求还是药企的策略导致促销升级，对应标题iii“谁该为促销增多负责”。",
+      "key": "They work in an industry highly criticized for its sales and marketing practices, but find themselves in the middle of the age-old chicken-or-egg question - businesses won't use strategies that don't work, so are doctors to blame for the escalating extravagance of pharmaceutical marketing?"
+    },
+    "4": {
+      "loc": "p4",
+      "why": "段落D说销售代表为医生提供了急需的信息和教育，是促销带来的正面作用，对应标题ix“药品促销的积极一面”。",
+      "key": "Salespeople provide much-needed information and education to physicians."
+    },
+    "5": {
+      "loc": "p5",
+      "why": "段落E引用一位医生的话，说收到高尔夫球等礼物并不会让他开那家公司的药，说明并非所有医生都被说服，对应标题i。",
+      "key": "'I've been the recipient of golf balls from one company and I use them, but it doesn't make me prescribe their medicine,' says one doctor."
+    },
+    "6": {
+      "loc": "p6",
+      "why": "段落F提到华盛顿大学的研究发现，样品的可获得性确实会影响医生开药的选择，证明促销确实有效，对应标题vii。",
+      "key": "A total of 131 doctors self-reported their prescribing patterns - the conclusion was that the availability of samples led them to dispense and prescribe drugs that differed from their preferred drug choice."
+    },
+    "7": {
+      "loc": "p7",
+      "why": "段落G指出最终是病人通过不断上涨的处方药价格为这些促销买单，对应标题x“到底是谁在为医生的免费礼物付钱”。",
+      "key": "And patients are the ones who pay - in the form of sky-rocketing prescription prices - for every pen that's handed out, every free theatre ticket, and every steak dinner eaten."
+    },
+    "8": {
+      "loc": "p2",
+      "why": "原文说Schaefer的预算大到可以请一个小国吃饭，说明预算并不“非常有限”，与题干矛盾，故选NO。",
+      "key": "But on any given day, what Schaefer can offer is typical for today's drugs rep - a car trunk full of promotional gifts and gadgets, a budget that could buy lunches and dinners for a small country, hundreds of free drug samples and the freedom to give a physician $200 to prescribe her new product to the next six patients who fit the drug's profile."
+    },
+    "9": {
+      "loc": "p3",
+      "why": "原文明确说销售药品每天都是一场伦理判断，游走在请客吃饭和贿赂医生之间，说明确实可能受到道德上的批评，故选YES。",
+      "key": "Selling pharmaceuticals is a daily exercise in ethical judgement."
+    },
+    "10": {
+      "loc": "p4",
+      "why": "原文说药企提供的手册、文章等常常是医护人员获取药物知识的主要来源，说明这些信息很有用，与题干“用处不大”矛盾，故选NO。",
+      "key": "In many cases the glossy brochures, article reprints and prescriptions they deliver are primary sources of drug education for healthcare givers."
+    },
+    "11": {
+      "loc": "p5",
+      "why": "原文描述医生用印有药名的笔、护士用印有药企标志的写字板等，说明促销痕迹在医疗环境中随处可见，故选YES。",
+      "key": "Rarely do patients watch a doctor write with a pen that isn't emblazoned with a drug's name, or see a nurse use a tablet not bearing a pharmaceutical company's logo."
+    },
+    "12": {
+      "loc": "p6",
+      "why": "原文只说销售代表向医生提供大量免费样品，并未提及药企是否会在没有医生处方的情况下直接把样品给病人，故选NOT GIVEN。",
+      "key": "Salespeople hand out hundreds of dollars' worth of samples each week - $7.2 billion worth of them in one year."
+    },
+    "13": {
+      "loc": "p7",
+      "why": "原文明确说药企完全有权利盈利，与题干“药企赚钱是合理的”一致，故选YES。",
+      "key": "In the end the fact remains that pharmaceutical companies have every right to make a profit and will continue to find new ways to increase sales."
+    },
+    "14": {
+      "loc": "p3",
+      "why": "原文说扫盲运动教了全国约30万名文盲成年人读写，对应选项B“men and women”，泛指成年男女。",
+      "key": "By 1985, about 300,000 illiterate adults from all over the country, many of whom had never attended primary school, had learnt how to read, write and use numbers."
+    },
+    "15": {
+      "loc": "p1",
+      "why": "第一段指出母亲会读写时孩子更健康，说明公共卫生专家一直知道儿童健康与母亲识字（maternal literacy）之间有关联，对应F。",
+      "key": "Children in developing countries are healthier and more likely to survive past the age of five when their mothers can read and write."
+    },
+    "16": {
+      "loc": "p4",
+      "why": "这项研究由利物浦热带医学院、尼加拉瓜、哥斯达黎加等多国机构的研究者共同完成，因此对应C“一个国际研究团队”。",
+      "key": "During this period, researchers from the Liverpool School of Tropical Medicine, the Central American Institute of Health in Nicaragua, the National Autonomous University of Nicaragua and the Costa Rican Institute of Health interviewed nearly 3,000 women, some of whom had learnt to read as children, some during the literacy crusade and some who had never learnt at all."
+    },
+    "17": {
+      "loc": "p2",
+      "why": "原文说识字可能只是反映了家庭财富(family wealth)或家庭对孩子的重视，这项研究排除了这些干扰因素，对应J。",
+      "key": "Most literate women learnt to read in primary school, and the fact that a woman has had an education may simply indicate her family's wealth or that it values its children more highly."
+    },
+    "18": {
+      "loc": "p2",
+      "why": "原文说尼加拉瓜的研究证明教贫困成年女性识字本身就能提高孩子的健康和存活率，说明起作用的是母亲的识字能力(maternal literacy)，对应F。",
+      "key": "Now a long-term study carried out in Nicaragua has eliminated these factors by showing that teaching reading to poor adult women, who would otherwise have remained illiterate, has a direct effect on their children's health and survival."
+    },
+    "19": {
+      "loc": "p4",
+      "why": "原文只说被访的近3000名妇女中有一部分是儿童时期学会读写的，并未给出具体人数，因此“约一千人”这个说法在文中找不到依据，为NOT GIVEN。",
+      "key": "During this period, researchers from the Liverpool School of Tropical Medicine, the Central American Institute of Health in Nicaragua, the National Autonomous University of Nicaragua and the Costa Rican Institute of Health interviewed nearly 3,000 women, some of whom had learnt to read as children, some during the literacy crusade and some who had never learnt at all."
+    },
+    "20": {
+      "loc": "p5",
+      "why": "原文显示，在扫盲运动前，未来会学习读写的文盲母亲婴儿死亡率(105)与仍是文盲的母亲(110)相近，但受过小学教育的母亲明显更低(80)，与题干所说“文盲和小学教育者水平相近”矛盾，故选NO。",
+      "key": "For women educated in primary school, however, the infant mortality rate was significantly lower, at 80 per thousand."
+    },
+    "21": {
+      "loc": "p6",
+      "why": "原文说扫盲运动结束后，仍然文盲的妇女的婴儿死亡率“基本保持不变”，与题干所述一致，故选YES。",
+      "key": "In 1985, after the National Literacy Crusade had ended, the infant mortality figures for those who remained illiterate and for those educated in primary school remained more or less unchanged."
+    },
+    "22": {
+      "loc": "p6",
+      "why": "原文说通过扫盲运动学会读写的妇女，其婴儿死亡率比之前下降了21个百分点，这是文中提到的最大变化，故选YES。",
+      "key": "For those women who learnt to read through the campaign, the infant mortality rate was 84 per thousand, an impressive 21 points lower than for those women who were still illiterate."
+    },
+    "23": {
+      "loc": "p6",
+      "why": "通过扫盲运动学会读写的妇女婴儿死亡率是84，而受过小学教育的妇女是80，后者才是最低的，因此题干“扫盲运动妇女死亡率最低”不成立，故选NO。",
+      "key": "For those women who learnt to read through the campaign, the infant mortality rate was 84 per thousand, an impressive 21 points lower than for those women who were still illiterate."
+    },
+    "24": {
+      "loc": "p6",
+      "why": "原文只说新识字母亲的孩子比文盲母亲的孩子营养状况更好，并没有说文盲母亲的孩子“严重营养不良”，故为NOT GIVEN。",
+      "key": "The children of the newly-literate mothers were also better nourished than those of women who could not read."
+    },
+    "25": {
+      "loc": "p9",
+      "why": "原文说人们原以为母亲教育要等一代人才能见效，但尼加拉瓜的研究显示这个过程可以被跳过，说明效果能很快显现，对应选项C。",
+      "key": "The Nicaraguan study suggests we may be able to bypass that.'"
+    },
+    "26": {
+      "loc": "p8",
+      "why": "原文引用世界银行的建议，认为应该增加教育预算以改善儿童健康，对应选项E“投入女性教育的钱将改善儿童健康”。",
+      "key": "The results of the study lend support to the World Bank's recommendation that education budgets in developing countries should be increased, not just to help their economies, but also to improve child health."
+    },
+    "27": {
+      "loc": "p1",
+      "why": "A段引用作者与Irene Whitney所做的调查，给出了英国小学和中学中欺凌发生比例的具体数据，对应标题iv“对英国校园欺凌普遍程度的研究”。",
+      "key": "A survey I conducted with Irene Whitney found that in British primary schools up to a quarter of pupils reported experience of bullying, which in about one in ten cases was persistent."
+    },
+    "28": {
+      "loc": "p2",
+      "why": "B段说被欺凌会让孩子感到自卑、沮丧，甚至可能导致自杀，长大后也更容易有人际关系困难，讲的正是欺凌对相关孩子的影响，对应标题vi。",
+      "key": "Bullying is clearly unpleasant, and can make the child experiencing it feel unworthy and depressed."
+    },
+    "29": {
+      "loc": "p3",
+      "why": "C段说学校过去常常否认存在欺凌问题，声称“我们学校没有欺凌”，这正是学校面对欺凌询问时的反应，对应标题v。",
+      "key": "'There is no bullying at this school' has been a common refrain, almost certainly untrue."
+    },
+    "30": {
+      "loc": "p4",
+      "why": "D段列出了促成学校处理欺凌方式改变的三个因素（意识提高、资源出现、证据支持），对应标题vii“促成学校采取新方法的进展”。",
+      "key": "Three factors are involved in this change."
+    },
+    "31": {
+      "loc": "p1",
+      "why": "A段的调查显示中学里持续欺凌的比例（约1/25）低于小学（约1/10），说明中学欺凌比小学少，对应选项B。",
+      "key": "There was less bullying in secondary schools, with about one in twenty-five suffering persistent bullying, but these cases may be particularly recalcitrant."
+    },
+    "32": {
+      "loc": "p2",
+      "why": "B段说被欺凌的孩子成年后更容易在人际关系上遇到困难，与选项D“成年后可能难以建立人际关系”一致。",
+      "key": "Victimised pupils are more likely to experience difficulties with interpersonal relationships as adults, while children who persistently bully are more likely to grow up to be physically violent, and convicted of anti-social offences."
+    },
+    "33": {
+      "loc": "p3",
+      "why": "C段解释说学校说“没有欺凌”是因为当时人们对这个话题了解不多、能获得的帮助也很少，说明这反映了学校缺乏知识和资源，对应选项D。",
+      "key": "Until recently, not much was known about the topic, and little help was available to teachers to deal with bullying."
+    },
+    "34": {
+      "loc": "p4",
+      "why": "D段提到挪威开展反欺凌运动后，评估显示两年内欺凌现象减少了一半(halved)，对应选项A“欺凌下降了50%”。",
+      "key": "In Norway, after an intervention campaign was introduced nationally, an evaluation of forty-two schools suggested that, over a two-year period, bullying was halved."
+    },
+    "35": {
+      "loc": "p5",
+      "why": "E段开头就说最重要的一步是制定一份关于欺凌的政策(policy)，清楚说明学校对欺凌的态度。",
+      "key": "Evidence suggests that a key step is to develop a policy on bullying, saying clearly what is meant by bullying, and giving explicit guidelines on what will be done if it occurs, what records will be kept, who will be informed, what sanctions will be employed."
+    },
+    "36": {
+      "loc": "p5",
+      "why": "E段说政策中应包含明确的指导方针(explicit guidelines)，说明一旦发生欺凌学校和员工将如何应对。",
+      "key": "Evidence suggests that a key step is to develop a policy on bullying, saying clearly what is meant by bullying, and giving explicit guidelines on what will be done if it occurs, what records will be kept, who will be informed, what sanctions will be employed."
+    },
+    "37": {
+      "loc": "p5",
+      "why": "E段提到还可以通过课程(curriculum)，利用录像、戏剧和文学等方式处理欺凌话题，尤其适合在早期阶段提高意识。",
+      "key": "There are ways of dealing with the topic through the curriculum, using video, drama and literature."
+    },
+    "38": {
+      "loc": "p5",
+      "why": "E段说可以对容易成为受害者(victims)的学生进行自信心训练，帮助他们更加自信。",
+      "key": "Assertiveness training for pupils who are liable to be victims is worthwhile, and certain approaches to group bullying such as 'no blame', can be useful in changing the behaviour of bullying pupils without confronting them directly, although other sanctions may be needed for those who continue with persistent bullying."
+    },
+    "39": {
+      "loc": "p5",
+      "why": "E段说应训练午餐时段的监督员分辨欺凌行为和普通的玩闹打斗(playful fighting)。",
+      "key": "One helpful step is to train lunchtime supervisors to distinguish bullying from playful fighting, and help them break up conflicts."
+    },
+    "40": {
+      "loc": "p6",
+      "why": "全文从描述欺凌现状和危害，逐步转向学校可以采取的具体措施来预防和减少欺凌，主题是“从危机应对走向预防”，对应选项D。",
+      "key": "With these developments, schools can expect that at least the most serious kinds of bullying can largely be prevented."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Sales Pressure: how drug reps promote medicines to doctors",
+      "intro": "",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "label": "A",
+          "text": "A few months ago Kim Schaefer, sales representative of a major global pharmaceutical company, walked into a medical center in New York to bring information and free samples of her company's latest products. That day she was lucky - a doctor was available to see her. 'The last rep offered me a trip to Florida. What do you have?' the physician asked. He was only half joking."
+        },
+        {
+          "id": "p2",
+          "label": "B",
+          "text": "What was on offer that day was a pair of tickets for a New York musical. But on any given day, what Schaefer can offer is typical for today's drugs rep - a car trunk full of promotional gifts and gadgets, a budget that could buy lunches and dinners for a small country, hundreds of free drug samples and the freedom to give a physician $200 to prescribe her new product to the next six patients who fit the drug's profile. And she also has a few $1,000 honoraria to offer in exchange for doctors' attendance at her company's next educational lecture."
+        },
+        {
+          "id": "p3",
+          "label": "C",
+          "text": "Selling pharmaceuticals is a daily exercise in ethical judgement. Salespeople like Schaefer walk the line between the common practice of buying a prospect's time with a free meal, and bribing doctors to prescribe their drugs. They work in an industry highly criticized for its sales and marketing practices, but find themselves in the middle of the age-old chicken-or-egg question - businesses won't use strategies that don't work, so are doctors to blame for the escalating extravagance of pharmaceutical marketing? Or is it the industry's responsibility to decide the boundaries?"
+        },
+        {
+          "id": "p4",
+          "label": "D",
+          "text": "The explosion in the sheer number of salespeople in the field - and the amount of funding used to promote their causes - forces close examination of the pressures, influences and relationships between drug reps and doctors. Salespeople provide much-needed information and education to physicians. In many cases the glossy brochures, article reprints and prescriptions they deliver are primary sources of drug education for healthcare givers. With the huge investment the industry has placed in face-to-face selling, salespeople have essentially become specialists in one drug or group of drugs - a tremendous advantage in getting the attention of busy doctors in need of quick information."
+        },
+        {
+          "id": "p5",
+          "label": "E",
+          "text": "But the sales push rarely stops in the office. The flashy brochures and pamphlets left by the sales reps are often followed up with meals at expensive restaurants, meetings in warm and sunny places, and an inundation of promotional gadgets. Rarely do patients watch a doctor write with a pen that isn't emblazoned with a drug's name, or see a nurse use a tablet not bearing a pharmaceutical company's logo. Millions of dollars are spent by pharmaceutical companies on promotional products like coffee mugs, shirts, umbrellas, and golf balls. Money well spent? It's hard to tell. 'I've been the recipient of golf balls from one company and I use them, but it doesn't make me prescribe their medicine,' says one doctor. 'I tend to think I'm not influenced by what they give me.'"
+        },
+        {
+          "id": "p6",
+          "label": "F",
+          "text": "Free samples of new and expensive drugs might be the single most effective way of getting doctors and patients to become loyal to a product. Salespeople hand out hundreds of dollars' worth of samples each week - $7.2 billion worth of them in one year. Though few comprehensive studies have been conducted, one by the University of Washington investigated how drug sample availability affected what physicians prescribe. A total of 131 doctors self-reported their prescribing patterns - the conclusion was that the availability of samples led them to dispense and prescribe drugs that differed from their preferred drug choice."
+        },
+        {
+          "id": "p7",
+          "label": "G",
+          "text": "The bottom line is that pharmaceutical companies as a whole invest more in marketing than they do in research and development. And patients are the ones who pay - in the form of sky-rocketing prescription prices - for every pen that's handed out, every free theatre ticket, and every steak dinner eaten. In the end the fact remains that pharmaceutical companies have every right to make a profit and will continue to find new ways to increase sales. But as the medical world continues to grapple with what's acceptable and what's not, it is clear that companies must continue to be heavily scrutinized for their sales and marketing strategies."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            7
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below.",
+          "limit": "Write the correct number, i-x, in boxes 1-7 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "Not all doctors are persuaded"
+            },
+            {
+              "k": "ii",
+              "text": "Choosing the best offers"
+            },
+            {
+              "k": "iii",
+              "text": "Who is responsible for the increase in promotions?"
+            },
+            {
+              "k": "iv",
+              "text": "Fighting the drug companies"
+            },
+            {
+              "k": "v",
+              "text": "An example of what doctors expect from drug companies"
+            },
+            {
+              "k": "vi",
+              "text": "Gifts include financial incentives"
+            },
+            {
+              "k": "vii",
+              "text": "Research shows that promotion works"
+            },
+            {
+              "k": "viii",
+              "text": "The high costs of research"
+            },
+            {
+              "k": "ix",
+              "text": "The positive side of drugs promotion"
+            },
+            {
+              "k": "x",
+              "text": "Who really pays for doctors' free gifts?"
+            }
+          ],
+          "itemsTitle": "Paragraphs",
+          "items": [
+            {
+              "n": 1,
+              "text": "Paragraph A"
+            },
+            {
+              "n": 2,
+              "text": "Paragraph B"
+            },
+            {
+              "n": 3,
+              "text": "Paragraph C"
+            },
+            {
+              "n": 4,
+              "text": "Paragraph D"
+            },
+            {
+              "n": 5,
+              "text": "Paragraph E"
+            },
+            {
+              "n": 6,
+              "text": "Paragraph F"
+            },
+            {
+              "n": 7,
+              "text": "Paragraph G"
+            }
+          ]
+        },
+        {
+          "range": [
+            8,
+            13
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 1?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the views of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the views of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 8,
+              "text": "Sales representatives like Kim Schaefer work to a very limited budget."
+            },
+            {
+              "n": 9,
+              "text": "Kim Schaefer's marketing technique may be open to criticism on moral grounds."
+            },
+            {
+              "n": 10,
+              "text": "The information provided by drug companies is of little use to doctors."
+            },
+            {
+              "n": 11,
+              "text": "Evidence of drug promotion is clearly visible in the healthcare environment."
+            },
+            {
+              "n": 12,
+              "text": "The drug companies may give free drug samples to patients without doctors' prescriptions."
+            },
+            {
+              "n": 13,
+              "text": "It is legitimate for drug companies to make money."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Do literate women make better mothers?",
+      "intro": "",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Children in developing countries are healthier and more likely to survive past the age of five when their mothers can read and write. Experts in public health accepted this idea decades ago, but until now no one has been able to show that a woman's ability to read in itself improves her children's chances of survival."
+        },
+        {
+          "id": "p2",
+          "text": "Most literate women learnt to read in primary school, and the fact that a woman has had an education may simply indicate her family's wealth or that it values its children more highly. Now a long-term study carried out in Nicaragua has eliminated these factors by showing that teaching reading to poor adult women, who would otherwise have remained illiterate, has a direct effect on their children's health and survival."
+        },
+        {
+          "id": "p3",
+          "text": "In 1979, the government of Nicaragua established a number of social programmes, including a National Literacy Crusade. By 1985, about 300,000 illiterate adults from all over the country, many of whom had never attended primary school, had learnt how to read, write and use numbers."
+        },
+        {
+          "id": "p4",
+          "text": "During this period, researchers from the Liverpool School of Tropical Medicine, the Central American Institute of Health in Nicaragua, the National Autonomous University of Nicaragua and the Costa Rican Institute of Health interviewed nearly 3,000 women, some of whom had learnt to read as children, some during the literacy crusade and some who had never learnt at all. The women were asked how many children they had given birth to and how many of them had died in infancy. The research teams also examined the surviving children to find out how well-nourished they were."
+        },
+        {
+          "id": "p5",
+          "text": "The investigators' findings were striking. In the late 1970s, the infant mortality rate for the children of illiterate mothers was around 110 deaths per thousand live births. At this point in their lives, those mothers who later went on to learn to read had a similar level of child mortality (105/1000). For women educated in primary school, however, the infant mortality rate was significantly lower, at 80 per thousand."
+        },
+        {
+          "id": "p6",
+          "text": "In 1985, after the National Literacy Crusade had ended, the infant mortality figures for those who remained illiterate and for those educated in primary school remained more or less unchanged. For those women who learnt to read through the campaign, the infant mortality rate was 84 per thousand, an impressive 21 points lower than for those women who were still illiterate. The children of the newly-literate mothers were also better nourished than those of women who could not read."
+        },
+        {
+          "id": "p7",
+          "text": "Why are the children of literate mothers better off? According to Peter Sandiford of the Liverpool School of Tropical Medicine, no one knows for certain. Child health was not on the curriculum during the women's lessons, so he and his colleagues are looking at other factors. They are working with the same group of 3,000 women, to try to find out whether reading mothers make better use of hospitals and clinics, opt for smaller families, exert more control at home, learn modern childcare techniques more quickly, or whether they merely have more respect for themselves and their children."
+        },
+        {
+          "id": "p8",
+          "text": "The Nicaraguan study may have important implications for governments and aid agencies that need to know where to direct their resources. Sandiford says that there is increasing evidence that female education, at any age, is 'an important health intervention in its own right'. The results of the study lend support to the World Bank's recommendation that education budgets in developing countries should be increased, not just to help their economies, but also to improve child health."
+        },
+        {
+          "id": "p9",
+          "text": "'We've known for a long time that maternal education is important,' says John Cleland of the London School of Hygiene and Tropical Medicine. 'But we thought that even if we started educating girls today, we'd have to wait a generation for the pay-off. The Nicaraguan study suggests we may be able to bypass that.'"
+        },
+        {
+          "id": "p10",
+          "text": "Cleland warns that the Nicaraguan crusade was special in many ways, and similar campaigns elsewhere might not work as well. It is notoriously difficult to teach adults skills that do not have an immediate impact on their everyday lives, and many literacy campaigns in other countries have been much less successful. 'The crusade was part of a larger effort to bring a better life to the people,' says Cleland. Replicating these conditions in other countries will be a major challenge for development workers."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            18
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words, A-J, below.",
+          "limit": "Write the correct letter, A-J, in boxes 14-18 on your answer sheet. NB You may use any letter more than once.",
+          "title": "The Nicaraguan National Literacy Crusade",
+          "text": "The Nicaraguan National Literacy Crusade aimed to teach large numbers of illiterate {{14}} to read and write. Public health experts have known for many years that there is a connection between child health and {{15}}. However, it has not previously been known whether these two factors were directly linked or not. This question has been investigated by {{16}} in Nicaragua. As a result, factors such as {{17}} and attitudes to children have been eliminated, and it has been shown that {{18}} can in itself improve infant health and survival.",
+          "options": [
+            {
+              "k": "A",
+              "text": "child literacy"
+            },
+            {
+              "k": "B",
+              "text": "men and women"
+            },
+            {
+              "k": "C",
+              "text": "an international research team"
+            },
+            {
+              "k": "D",
+              "text": "medical care"
+            },
+            {
+              "k": "E",
+              "text": "mortality"
+            },
+            {
+              "k": "F",
+              "text": "maternal literacy"
+            },
+            {
+              "k": "G",
+              "text": "adults and children"
+            },
+            {
+              "k": "H",
+              "text": "paternal literacy"
+            },
+            {
+              "k": "I",
+              "text": "a National Literacy Crusade"
+            },
+            {
+              "k": "J",
+              "text": "family wealth"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            24
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 2?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 19,
+              "text": "About a thousand of the women interviewed by the researchers had learnt to read when they were children."
+            },
+            {
+              "n": 20,
+              "text": "Before the National Literacy Crusade, illiterate women had approximately the same levels of infant mortality as those who had learnt to read in primary school."
+            },
+            {
+              "n": 21,
+              "text": "Before and after the National Literacy Crusade, the child mortality rate for the illiterate women stayed at about 110 deaths for each thousand live births."
+            },
+            {
+              "n": 22,
+              "text": "The women who had learnt to read through the National Literacy Crusade showed the greatest change in infant mortality levels."
+            },
+            {
+              "n": 23,
+              "text": "The women who had learnt to read through the National Literacy Crusade had the lowest rates of child mortality."
+            },
+            {
+              "n": 24,
+              "text": "After the National Literacy Crusade, the children of the women who remained illiterate were found to be severely malnourished."
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            26
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO important implications drawn from the Nicaraguan study are mentioned by the writer of the passage?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "It is better to educate mature women than young girls."
+            },
+            {
+              "k": "B",
+              "text": "Similar campaigns in other countries would be equally successful."
+            },
+            {
+              "k": "C",
+              "text": "The effects of maternal literacy programmes can be seen very quickly."
+            },
+            {
+              "k": "D",
+              "text": "Improving child health can quickly affect a country's economy."
+            },
+            {
+              "k": "E",
+              "text": "Money spent on female education will improve child health."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Persistent bullying is one of the worst experiences a child can face. How can it be prevented?",
+      "subtitle": "Peter Smith, Professor of Psychology at the University of Sheffield, directed the Sheffield Anti-Bullying Intervention Project, funded by the Department for Education. Here he reports on his findings.",
+      "intro": "",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "label": "A",
+          "text": "Bullying can take a variety of forms, from the verbal - being taunted or called hurtful names - to the physical - being kicked or shoved - as well as indirect forms, such as being excluded from social groups. A survey I conducted with Irene Whitney found that in British primary schools up to a quarter of pupils reported experience of bullying, which in about one in ten cases was persistent. There was less bullying in secondary schools, with about one in twenty-five suffering persistent bullying, but these cases may be particularly recalcitrant."
+        },
+        {
+          "id": "p2",
+          "label": "B",
+          "text": "Bullying is clearly unpleasant, and can make the child experiencing it feel unworthy and depressed. In extreme cases it can even lead to suicide, though this is thankfully rare. Victimised pupils are more likely to experience difficulties with interpersonal relationships as adults, while children who persistently bully are more likely to grow up to be physically violent, and convicted of anti-social offences."
+        },
+        {
+          "id": "p3",
+          "label": "C",
+          "text": "Until recently, not much was known about the topic, and little help was available to teachers to deal with bullying. Perhaps as a consequence, schools would often deny the problem. 'There is no bullying at this school' has been a common refrain, almost certainly untrue. Fortunately more schools are now saying: 'There is not much bullying here, but when it occurs we have a clear policy for dealing with it.'"
+        },
+        {
+          "id": "p4",
+          "label": "D",
+          "text": "Three factors are involved in this change. First is an awareness of the severity of the problem. Second, a number of resources to help tackle bullying have become available in Britain. For example, the Scottish Council for Research in Education produced a package of materials, Action Against Bullying, circulated to all schools in England and Wales as well as in Scotland in summer 1992, with a second pack, Supporting Schools Against Bullying, produced the following year. In Ireland, Guidelines on Countering Bullying Behaviour in Post-Primary Schools was published in 1993. Third, there is evidence that these materials work, and that schools can achieve something. This comes from carefully conducted 'before and after' evaluations of interventions in schools, monitored by a research team. In Norway, after an intervention campaign was introduced nationally, an evaluation of forty-two schools suggested that, over a two-year period, bullying was halved. The Sheffield investigation, which involved sixteen primary schools and seven secondary schools, found that most schools succeeded in reducing bullying."
+        },
+        {
+          "id": "p5",
+          "label": "E",
+          "text": "Evidence suggests that a key step is to develop a policy on bullying, saying clearly what is meant by bullying, and giving explicit guidelines on what will be done if it occurs, what records will be kept, who will be informed, what sanctions will be employed. The policy should be developed through consultation, over a period of time - not just imposed from the head teacher's office! Pupils, parents and staff should feel they have been involved in the policy, which needs to be disseminated and implemented effectively. Other actions can be taken to back up the policy. There are ways of dealing with the topic through the curriculum, using video, drama and literature. These are useful for raising awareness, and can best be tied in to early phases of development, while the school is starting to discuss the issue of bullying. They are also useful in renewing the policy for new pupils, or revising it in the light of experience. But curriculum work alone may only have short-term effects; it should be an addition to policy work, not a substitute. There are also ways of working with individual pupils, or in small groups. Assertiveness training for pupils who are liable to be victims is worthwhile, and certain approaches to group bullying such as 'no blame', can be useful in changing the behaviour of bullying pupils without confronting them directly, although other sanctions may be needed for those who continue with persistent bullying. Work in the playground is important, too. One helpful step is to train lunchtime supervisors to distinguish bullying from playful fighting, and help them break up conflicts. Another possibility is to improve the playground environment, so that pupils are less likely to be led into bullying from boredom or frustration."
+        },
+        {
+          "id": "p6",
+          "label": "F",
+          "text": "With these developments, schools can expect that at least the most serious kinds of bullying can largely be prevented. The more effort put in and the wider the whole school involvement, the more substantial the results are likely to be. The reduction in bullying - and the consequent improvement in pupil happiness - is surely a worthwhile objective."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 3 has six sections, A-F. Choose the correct heading for sections A-D from the list of headings below.",
+          "limit": "Write the correct number, i-vii, in boxes 27-30 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "The role of video violence"
+            },
+            {
+              "k": "ii",
+              "text": "The failure of government policy"
+            },
+            {
+              "k": "iii",
+              "text": "Reasons for the increased rate of bullying"
+            },
+            {
+              "k": "iv",
+              "text": "Research into how common bullying is in British schools"
+            },
+            {
+              "k": "v",
+              "text": "The reaction from schools to enquiries about bullying"
+            },
+            {
+              "k": "vi",
+              "text": "The effect of bullying on the children involved"
+            },
+            {
+              "k": "vii",
+              "text": "Developments that have led to a new approach by schools"
+            }
+          ],
+          "itemsTitle": "Sections",
+          "items": [
+            {
+              "n": 27,
+              "text": "Section A"
+            },
+            {
+              "n": 28,
+              "text": "Section B"
+            },
+            {
+              "n": 29,
+              "text": "Section C"
+            },
+            {
+              "n": 30,
+              "text": "Section D"
+            }
+          ]
+        },
+        {
+          "range": [
+            31,
+            34
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 31,
+              "text": "A recent survey found that in British secondary schools",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "there was more bullying than had previously been the case."
+                },
+                {
+                  "k": "B",
+                  "text": "there was less bullying than in primary schools."
+                },
+                {
+                  "k": "C",
+                  "text": "cases of persistent bullying were very common."
+                },
+                {
+                  "k": "D",
+                  "text": "indirect forms of bullying were particularly difficult to deal with."
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "Children who are bullied",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "are twice as likely to commit suicide as the average person."
+                },
+                {
+                  "k": "B",
+                  "text": "find it more difficult to relate to adults."
+                },
+                {
+                  "k": "C",
+                  "text": "are less likely to be violent in later life."
+                },
+                {
+                  "k": "D",
+                  "text": "may have difficulty forming relationships in later life."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "The writer thinks that the declaration 'There is no bullying at this school'",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "is no longer true in many schools."
+                },
+                {
+                  "k": "B",
+                  "text": "was not in fact made by many schools."
+                },
+                {
+                  "k": "C",
+                  "text": "reflected the school's lack of concern."
+                },
+                {
+                  "k": "D",
+                  "text": "reflected a lack of knowledge and resources."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "What were the findings of research carried out in Norway?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Bullying declined by 50% after an anti-bullying campaign."
+                },
+                {
+                  "k": "B",
+                  "text": "Twenty-one schools reduced bullying as a result of an anti-bullying campaign."
+                },
+                {
+                  "k": "C",
+                  "text": "Two years is the optimum length for an anti-bullying campaign."
+                },
+                {
+                  "k": "D",
+                  "text": "Bullying is a less serious problem in Norway than in the UK."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            35,
+            39
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "title": "What steps should schools take to reduce bullying?",
+          "text": "The most important step is for the school authorities to produce a {{35}} which makes the school's attitude towards bullying quite clear. It should include detailed {{36}} as to how the school and its staff will react if bullying occurs.\n\nIn addition, action can be taken through the {{37}}. This is particularly useful in the early part of the process, as a way of raising awareness and encouraging discussion. On its own, however, it is insufficient to bring about a permanent solution.\n\nEffective work can also be done with individual pupils and small groups. For example, potential {{38}} of bullying can be trained to be more self-confident. Or again, in dealing with group bullying, a 'no blame' approach, which avoids confronting the offender too directly, is often effective.\n\nPlayground supervision will be more effective if members of staff are trained to recognise the difference between bullying and mere {{39}}."
+        },
+        {
+          "range": [
+            40,
+            40
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 40,
+              "text": "Which of the following is the most suitable title for Reading Passage 3?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Bullying: what parents can do"
+                },
+                {
+                  "k": "B",
+                  "text": "Bullying: are the media to blame?"
+                },
+                {
+                  "k": "C",
+                  "text": "Bullying: the link with academic failure"
+                },
+                {
+                  "k": "D",
+                  "text": "Bullying: from crisis management to prevention"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

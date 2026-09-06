@@ -1,0 +1,1600 @@
+{
+  "id": "c6t4",
+  "book": "剑桥雅思6",
+  "test": 4,
+  "title": "剑6 Test 4 · Listening",
+  "source": "Cambridge IELTS 6, Test 4（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "75",
+      "£75"
+    ],
+    "2": [
+      "cheque",
+      "check",
+      "a cheque",
+      "by cheque"
+    ],
+    "3": [
+      "15",
+      "£15"
+    ],
+    "4": [
+      "25",
+      "£25"
+    ],
+    "5": [
+      "10 minutes",
+      "10 minute",
+      "10 min",
+      "10 mins"
+    ],
+    "6": [
+      "conference pack",
+      "a conference pack",
+      "the conference pack"
+    ],
+    "7": [
+      "South",
+      "South Park Road"
+    ],
+    "8": [
+      "library",
+      "the library"
+    ],
+    "9": [
+      "5",
+      "£5"
+    ],
+    "10": [
+      "21A"
+    ],
+    "11": [
+      "D"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "tax",
+      "tax forms"
+    ],
+    "15": [
+      "security"
+    ],
+    "16": [
+      "ground floor",
+      "the ground floor"
+    ],
+    "17": [
+      "lecture room 311",
+      "Lecture Room 311"
+    ],
+    "18": [
+      "Safety at Work"
+    ],
+    "19": [
+      "Main Hall",
+      "the Main Hall"
+    ],
+    "20": [
+      "team leaders",
+      "their team leaders"
+    ],
+    "21": [
+      "reference"
+    ],
+    "22": [
+      "textbooks"
+    ],
+    "23": [
+      "secondary"
+    ],
+    "24": [
+      "primary"
+    ],
+    "25": [
+      "back"
+    ],
+    "26": [
+      "overdue books",
+      "overdue ones"
+    ],
+    "27": [
+      "7 working days"
+    ],
+    "28": [
+      "C",
+      "E",
+      "F"
+    ],
+    "29": [
+      "C",
+      "E",
+      "F"
+    ],
+    "30": [
+      "C",
+      "E",
+      "F"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "A"
+    ],
+    "33": [
+      "B"
+    ],
+    "34": [
+      "C"
+    ],
+    "35": [
+      "1450",
+      "1,450"
+    ],
+    "36": [
+      "disease"
+    ],
+    "37": [
+      "prince",
+      "wealthy prince",
+      "a prince"
+    ],
+    "38": [
+      "diet"
+    ],
+    "39": [
+      "attack humans"
+    ],
+    "40": [
+      "leadership"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c6/t4p1.mp3",
+      "duration": 343,
+      "title": "Conference Centre Reservations",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "Future Directions in Computing Conference",
+          "lines": [
+            "Three day cost: £{{1}}",
+            "Payment by {{2}} or on arrival",
+            "## Accommodation",
+            "## Conference Centre",
+            "£{{3}} per night",
+            "near to conference rooms",
+            "## Guest House",
+            "£{{4}} per night",
+            "approximately {{5}} walk from Conference Centre",
+            "## Further documents to be sent",
+            "{{6}}",
+            "an application form",
+            "## Location",
+            "Conference Centre is on {{7}} Park Road, next to the {{8}}.",
+            "Taxi costs £{{9}} or take bus number {{10}} from station."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "CLERK",
+          "t": "Conference Centre Reservations.",
+          "start": 7.65,
+          "end": 95.08
+        },
+        {
+          "s": "CLERK",
+          "t": "Good morning.",
+          "start": 95.56,
+          "end": 96.08
+        },
+        {
+          "s": "WOMAN",
+          "t": "Hi.",
+          "start": 97.12,
+          "end": 97.88
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm interested in the computing conference next month.",
+          "start": 97.88,
+          "end": 100.68
+        },
+        {
+          "s": "CLERK",
+          "t": "Future Directions in Computing?",
+          "start": 100.88,
+          "end": 102.8
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, that's right.",
+          "start": 103.12,
+          "end": 104.28
+        },
+        {
+          "s": "WOMAN",
+          "t": "Could I ask you a few questions about it?",
+          "start": 105.32,
+          "end": 107.36
+        },
+        {
+          "s": "CLERK",
+          "t": "Of course.",
+          "start": 107.48,
+          "end": 108.4
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK.",
+          "start": 109.2,
+          "end": 110.36
+        },
+        {
+          "s": "WOMAN",
+          "t": "I know the conference is for three days but actually I want to attend on the Friday and Saturday only.",
+          "start": 110.4,
+          "end": 117.08
+        },
+        {
+          "s": "WOMAN",
+          "t": "Will that work out to be any cheaper?",
+          "start": 117.88,
+          "end": 119.4
+        },
+        {
+          "s": "CLERK",
+          "t": "Let me have a look.",
+          "start": 119.48,
+          "end": 120.96
+        },
+        {
+          "s": "CLERK",
+          "t": "Well, you could register for the two days separately, but that wouldn't actually save you very much as it still costs £35 for each day.",
+          "start": 122.75,
+          "end": 131.19
+        },
+        {
+          "s": "CLERK",
+          "t": "In fact, if you could register for the three days, you also get an invitation to a free dinner on the Saturday night, so that's probably the better option.",
+          "start": 131.79,
+          "end": 140.09
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right, I'll do that.",
+          "start": 140.45,
+          "end": 142.13
+        },
+        {
+          "s": "WOMAN",
+          "t": "How much will the fees be in that case?",
+          "start": 143.13,
+          "end": 145.01
+        },
+        {
+          "s": "CLERK",
+          "t": "It's £75.",
+          "q": [
+            1
+          ],
+          "start": 145.29,
+          "end": 146.89
+        },
+        {
+          "s": "WOMAN",
+          "t": "All right.",
+          "start": 146.89,
+          "end": 146.89,
+          "estimated": true
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'd like to register for the full three days.",
+          "start": 148.97,
+          "end": 151.37
+        },
+        {
+          "s": "WOMAN",
+          "t": "Now, can I pay that by credit card?",
+          "start": 152.49,
+          "end": 154.33
+        },
+        {
+          "s": "CLERK",
+          "t": "I'm afraid not.",
+          "start": 154.84,
+          "end": 155.68
+        },
+        {
+          "s": "CLERK",
+          "t": "You'll have to send a cheque to us, or you can pay at the conference office.",
+          "q": [
+            2
+          ],
+          "start": 156.12,
+          "end": 159.8
+        },
+        {
+          "s": "WOMAN",
+          "t": "Fine.",
+          "start": 160.12,
+          "end": 160.76
+        },
+        {
+          "s": "WOMAN",
+          "t": "So it's probably easiest if I pay by cheque.",
+          "start": 161.44,
+          "end": 163.76
+        },
+        {
+          "s": "WOMAN",
+          "t": "Now then, what else do I need to arrange?",
+          "start": 165.17,
+          "end": 167.85
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right.",
+          "start": 168.29,
+          "end": 169.01
+        },
+        {
+          "s": "WOMAN",
+          "t": "How about accommodation?",
+          "start": 169.57,
+          "end": 170.89
+        },
+        {
+          "s": "WOMAN",
+          "t": "I guess that's not included in the price?",
+          "start": 171.69,
+          "end": 173.81
+        },
+        {
+          "s": "CLERK",
+          "t": "No, I'm sorry, it's not, but we do have a few rooms available for delegates at the conference centre if you'd like.",
+          "start": 174.09,
+          "end": 180.36
+        },
+        {
+          "s": "CLERK",
+          "t": "Those are very cheap but if you're interested you'll need to book soon, because there's always a heavy demand for them.",
+          "start": 181.2,
+          "end": 186.56
+        },
+        {
+          "s": "CLERK",
+          "t": "They are only £15 per night, but they are very basic and you'd have to get your own breakfast, because they don't provide you with that.",
+          "q": [
+            3
+          ],
+          "start": 187.8,
+          "end": 195.44
+        },
+        {
+          "s": "CLERK",
+          "t": "But it's very convenient, because it's in the same building as the conference rooms.",
+          "start": 195.52,
+          "end": 200.05
+        },
+        {
+          "s": "WOMAN",
+          "t": "Uhuh.",
+          "start": 200.05,
+          "end": 200.05,
+          "estimated": true
+        },
+        {
+          "s": "CLERK",
+          "t": "Or there's a very reasonable guest house which is £25 per night.",
+          "q": [
+            4
+          ],
+          "start": 201.41,
+          "end": 205.13
+        },
+        {
+          "s": "CLERK",
+          "t": "And I think that includes your breakfast.",
+          "start": 205.85,
+          "end": 207.57
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is it close to the conference centre?",
+          "start": 208.38,
+          "end": 209.82
+        },
+        {
+          "s": "CLERK",
+          "t": "It would be about a ten-minute walk away from here.",
+          "q": [
+            5
+          ],
+          "start": 210.3,
+          "end": 213.98
+        },
+        {
+          "s": "WOMAN",
+          "t": "I see.",
+          "start": 214.62,
+          "end": 215.1
+        },
+        {
+          "s": "WOMAN",
+          "t": "That sounds quite reasonable.",
+          "start": 215.86,
+          "end": 217.34
+        },
+        {
+          "s": "CLERK",
+          "t": "The details are all in our conference pack, which I'll send you.",
+          "q": [
+            6
+          ],
+          "start": 255.04,
+          "end": 258.08
+        },
+        {
+          "s": "WOMAN",
+          "t": "Great, thanks.",
+          "start": 258.32,
+          "end": 259.56
+        },
+        {
+          "s": "WOMAN",
+          "t": "That'll be very useful.",
+          "start": 260.2,
+          "end": 261.28
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, and can you also send me an application form?",
+          "start": 262.0,
+          "end": 264.96
+        },
+        {
+          "s": "CLERK",
+          "t": "Of course.",
+          "start": 265.58,
+          "end": 265.9
+        },
+        {
+          "s": "CLERK",
+          "t": "I'll get that in the post to you straight away.",
+          "start": 266.14,
+          "end": 268.34
+        },
+        {
+          "s": "CLERK",
+          "t": "Is there anything else?",
+          "start": 269.02,
+          "end": 269.9
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, actually.",
+          "start": 270.22,
+          "end": 271.5
+        },
+        {
+          "s": "WOMAN",
+          "t": "Can you tell me where exactly the conference centre is?",
+          "start": 272.38,
+          "end": 275.78
+        },
+        {
+          "s": "CLERK",
+          "t": "Well, it's on South Park Road and it's right at the end of the road next to the library.",
+          "q": [
+            7,
+            8
+          ],
+          "start": 276.72,
+          "end": 280.96
+        },
+        {
+          "s": "CLERK",
+          "t": "It's a ten-minute taxi ride from the station and will cost you £5.",
+          "q": [
+            9
+          ],
+          "start": 281.72,
+          "end": 285.6
+        },
+        {
+          "s": "CLERK",
+          "t": "Otherwise, you can take the bus which runs every half an hour from the station - that's the 21A - and it brings you straight to the conference centre.",
+          "q": [
+            10
+          ],
+          "start": 286.52,
+          "end": 293.96
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right, got that.",
+          "start": 294.6,
+          "end": 296.28
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c6/t4p2.mp3",
+      "duration": 0,
+      "title": "Travel Exhibition Staff Orientation",
+      "groups": [
+        {
+          "range": [
+            11,
+            13
+          ],
+          "type": "matching",
+          "instruction": "Which team will do each of the following jobs?",
+          "limit": "Choose THREE answers from the box and write the correct letter, A-D, next to Questions 11-13.",
+          "optionsTitle": "Teams",
+          "options": [
+            {
+              "k": "A",
+              "text": "the blue team"
+            },
+            {
+              "k": "B",
+              "text": "the yellow team"
+            },
+            {
+              "k": "C",
+              "text": "the green team"
+            },
+            {
+              "k": "D",
+              "text": "the red team"
+            }
+          ],
+          "itemsTitle": "Jobs",
+          "items": [
+            {
+              "n": 11,
+              "text": "checking entrance tickets"
+            },
+            {
+              "n": 12,
+              "text": "preparing refreshments"
+            },
+            {
+              "n": 13,
+              "text": "directing car-park traffic"
+            }
+          ]
+        },
+        {
+          "range": [
+            14,
+            20
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Travel Expo",
+          "table": {
+            "head": [
+              "Time",
+              "Event",
+              "Details"
+            ],
+            "rows": [
+              [
+                "9.30 am",
+                "Talk by Anne Smith",
+                "information about pay\nwill give out the {{14}} forms"
+              ],
+              [
+                "10.00 am",
+                "Talk by Peter Chen",
+                "will discuss Conference Centre plan\nwill explain about arrangements for {{15}} and fire exits"
+              ],
+              [
+                "10.30 am",
+                "Coffee Break",
+                "go to Staff Canteen on the {{16}}"
+              ],
+              [
+                "11.00 am",
+                "Video Presentation",
+                "go to {{17}}\nvideo title: {{18}}"
+              ],
+              [
+                "12.00",
+                "Buffet Lunch",
+                "go to the {{19}} on 1st floor"
+              ],
+              [
+                "1.00 pm",
+                "Meet the {{20}}",
+                ""
+              ],
+              [
+                "3.00 pm",
+                "Finish",
+                ""
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning and welcome, everybody."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm Jenny Stewart and I'm the Staff Manager here at the exhibition centre."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We're expecting this year's International Travel Exhibition to attract over 10,000 visitors a day, ladies and gentlemen, and you are among the two hundred extra staff recruited to help look after them."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, to help things run smoothly, we have divided you into four teams - the blue team, the green team, the red team, and the yellow team."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So first I'll explain how the teams are divided up, and then we'll be giving you colour-coded T-shirts so we can identify you more easily."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First of all, those who will be looking after the phones and handling all calls regarding the exhibition, you will be on the red team."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, we've also put the entrance staff on the red team and you'll be stamping the entrance tickets and giving out publicity leaflets, OK?",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Those of you involved in distributing entrance tickets will be on the yellow team and we've also put those of you who'll be staffing the information booths around the conference centre on the yellow team, so you'll be getting a yellow T-shirt."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, most of the hospitality staff have been put in the blue team, so the chefs among you and the kitchen hands will all need a blue T-shirt, but, because of the sheer numbers, all waiting staff will be on the yellow team, and this includes the bar staff among you.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Those who will be monitoring and directing the traffic in the car parks are on the green team, so you'll need to get a green T-shirt.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This year we've also employed a considerable number of attendants to direct the human traffic around the conference centre."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, you'll be working in the exhibition hall at all times, giving directions and generally helping people whenever you can, and you will be in the red team, so please collect a red T-shirt."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Right, now that everyone knows what team they're in, we'll get on with the orientation and training programme and first I'll run through the rest of today's programme, which you should have in front of you, so that you can get a general idea of what else is in store today."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This introduction finishes at 9.30 and then you 'll be hearing from Anne Smith."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Anne works in the accounts department on level two and she looks after all temporary staff, and so she is the person to see if you have any problems regarding pay."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Anne will be explaining when and how you get this."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "She will also be handing out your tax forms.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And I will just stress that all tax forms must be completed and returned to Anne before your pay can be processed."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Following Anne's talk you'll hear from Peter Chen, our Conference Manager, and he will be going over a plan of the conference centre with you, which will help you to orient yourselves."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He will also go through the security arrangements with you and show you the fire exits.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then at 10.30, there will be a coffee break in the staff canteen, which is located down on the ground floor.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, after the break we'll be moving to a different location for a video presentation, so instead of coming back here, we'd like you all to go to Lecture Room three-one-one.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll find it on this same level, just down the hall, and there you will be shown a video about important safety issues in the workplace, called Safety at Work.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We'll finish off the morning with lunch, which should give everyone a chance to meet and get to know each other, and we'll be serving you a buffet lunch in the Main Hall, which is on the first floor, from 12.00 o'clock.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "After lunch you'll be divided up into your teams to meet your team leaders and we're hoping to be all finished by 3.00 so I won't delay you any longer, and I'll hand over to ...",
+          "q": [
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c6/t4p3.mp3",
+      "duration": 369,
+      "title": "School of Education Libraries",
+      "groups": [
+        {
+          "range": [
+            21,
+            25
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "The School of Education Libraries",
+          "text": "The libraries on both sites provide internet access and have a variety of {{21}} materials on education.\n\nThe Castle Road library has books on sociology, together with {{22}} and other resources relevant to the majority of {{23}} school subjects.\n\nThe Fordham library includes resources for teaching in {{24}} education and special needs.\n\nCurrent issues of periodicals are available at both libraries, although {{25}} issues are only available at Fordham."
+        },
+        {
+          "range": [
+            26,
+            27
+          ],
+          "type": "notes",
+          "instruction": "Answer the questions below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "lines": [
+            "Which books cannot be renewed by telephone or email? {{26}}",
+            "How much time is allowed to return recalled books? {{27}}"
+          ]
+        },
+        {
+          "range": [
+            28,
+            30
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose THREE letters, A-G.",
+          "text": "Which THREE topics do this term's study skills workshops cover?",
+          "count": 3,
+          "options": [
+            {
+              "k": "A",
+              "text": "An introduction to the Internet"
+            },
+            {
+              "k": "B",
+              "text": "How to carry out research for a dissertation"
+            },
+            {
+              "k": "C",
+              "text": "Making good use of the whole range of library services"
+            },
+            {
+              "k": "D",
+              "text": "Planning a dissertation"
+            },
+            {
+              "k": "E",
+              "text": "Standard requirements when writing a dissertation"
+            },
+            {
+              "k": "F",
+              "text": "Using the Internet when doing research"
+            },
+            {
+              "k": "G",
+              "text": "What books and technical resources are available in the library"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LIBRARIAN",
+          "t": "Good afternoon.",
+          "start": 51.81,
+          "end": 52.17
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Can I help you?",
+          "start": 52.57,
+          "end": 53.29
+        },
+        {
+          "s": "STUDENT",
+          "t": "Good afternoon.",
+          "start": 53.41,
+          "end": 54.01
+        },
+        {
+          "s": "STUDENT",
+          "t": "Yes, I've just transferred to the School of Education, and I'd like information about joining the library.",
+          "start": 54.73,
+          "end": 61.77
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Well, the School of Education has libraries on two sites, as I'm sure you know.",
+          "start": 62.01,
+          "end": 66.61
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "This one here is the Fordham Site, and the other is on Castle Road.",
+          "start": 67.11,
+          "end": 71.43
+        },
+        {
+          "s": "STUDENT",
+          "t": "And is there any difference between the two libraries?",
+          "start": 71.67,
+          "end": 75.39
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Not in terms of their facilities.",
+          "start": 75.95,
+          "end": 77.63
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Access to online databases and the Internet is available at both sites and each site has a range of reference materials on education.",
+          "q": [
+            21
+          ],
+          "start": 78.37,
+          "end": 87.25
+        },
+        {
+          "s": "STUDENT",
+          "t": "Oh yes.",
+          "start": 87.61,
+          "end": 88.53
+        },
+        {
+          "s": "STUDENT",
+          "t": "I see.",
+          "start": 88.81,
+          "end": 89.41
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "But the Castle Road site has books on the sociology of education and a collection of textbooks and teaching resources covering most of the subjects taught in secondary schools.",
+          "q": [
+            22,
+            23
+          ],
+          "start": 89.95,
+          "end": 101.63
+        },
+        {
+          "s": "STUDENT",
+          "t": "Ah, right, but I'm training to be a primary teacher so I need to look at materials for the five to eleven age group.",
+          "start": 103.52,
+          "end": 110.92
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Then you've come to the right place.",
+          "start": 111.04,
+          "end": 112.8
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "At Fordham we hold material relating to primary education, as well as special needs, but of course you'll need to familiarise yourself with both sites to make the most of our resources.",
+          "q": [
+            24
+          ],
+          "start": 113.28,
+          "end": 124.28
+        },
+        {
+          "s": "STUDENT",
+          "t": "You haven't mentioned periodicals.",
+          "start": 125.56,
+          "end": 127.96
+        },
+        {
+          "s": "STUDENT",
+          "t": "Are they held at both sites?",
+          "start": 128.56,
+          "end": 130.04
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Current issues, yes but if you want to look at back issues you'll need to use the CD-ROM databases which are held here at Fordham.",
+          "q": [
+            25
+          ],
+          "start": 130.36,
+          "end": 138.32
+        },
+        {
+          "s": "STUDENT",
+          "t": "I see.",
+          "start": 138.96,
+          "end": 139.4
+        },
+        {
+          "s": "STUDENT",
+          "t": "Now, about borrowing books.",
+          "start": 140.16,
+          "end": 142.24
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'm living out of town, so I'm hoping I can borrow quite a few items, and cut down on the number of trips I have to make.",
+          "start": 143.0,
+          "end": 151.16
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Right, well, members can borrow two books at a time from each site.",
+          "start": 151.32,
+          "end": 155.32
+        },
+        {
+          "s": "STUDENT",
+          "t": "Only two books?",
+          "start": 156.02,
+          "end": 156.98
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Only two from each site, but that's four altogether.",
+          "start": 157.42,
+          "end": 160.46
+        },
+        {
+          "s": "STUDENT",
+          "t": "Oh I see, and now long can I hang on to them for?",
+          "start": 160.7,
+          "end": 164.62
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "The borrowing period is one month, but of course books can be renewed.",
+          "start": 164.94,
+          "end": 169.1
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "You can renew any item a maximum of three times.",
+          "start": 169.78,
+          "end": 172.54
+        },
+        {
+          "s": "STUDENT",
+          "t": "Do I have to come to the library to do that?",
+          "start": 173.5,
+          "end": 175.66
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "No, you can do it by telephone or email, but you can't renew overdue books this way, only before or on the due date stamped in the book.",
+          "q": [
+            26
+          ],
+          "start": 175.78,
+          "end": 185.14
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "We'll need your full name, your borrower number and the name of the site library you borrowed the items from .",
+          "start": 186.02,
+          "end": 192.22
+        },
+        {
+          "s": "STUDENT",
+          "t": "So theoretically I can borrow books for up to three months- is that what you're saying?",
+          "start": 193.33,
+          "end": 198.53
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Yes, provided they're not recalled.",
+          "start": 198.69,
+          "end": 200.57
+        },
+        {
+          "s": "STUDENT",
+          "t": "So, what happens then?",
+          "start": 201.61,
+          "end": 203.25
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Well, sometimes an item is requested by another borrower, in which case we'd send you a letter, and you'd have to return the book within seven working days.",
+          "start": 203.83,
+          "end": 212.07
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Don't forget we're closed on Sundays.",
+          "q": [
+            27
+          ],
+          "start": 212.71,
+          "end": 214.59
+        },
+        {
+          "s": "STUDENT",
+          "t": "OK.",
+          "start": 215.22,
+          "end": 215.62
+        },
+        {
+          "s": "STUDENT",
+          "t": "I expect it'll take me a while to find what I need.",
+          "start": 253.18,
+          "end": 255.94
+        },
+        {
+          "s": "STUDENT",
+          "t": "There's such a lot here.",
+          "start": 256.58,
+          "end": 257.74
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Yes there is, but if you need help getting started, this term we're running three study skills workshops.",
+          "start": 257.86,
+          "end": 264.58
+        },
+        {
+          "s": "STUDENT",
+          "t": "Oh?",
+          "start": 264.86,
+          "end": 265.22
+        },
+        {
+          "s": "STUDENT",
+          "t": "What are they on?",
+          "start": 266.01,
+          "end": 267.05
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Er, let me see.",
+          "start": 268.21,
+          "end": 268.85
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "The first one's on resources- yes, here it is.",
+          "start": 269.49,
+          "end": 273.81
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "How to use the library's resources.",
+          "start": 273.89,
+          "end": 276.13
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "That includes everything, not just the print and technical resources.",
+          "q": [
+            28,
+            29,
+            30
+          ],
+          "start": 277.01,
+          "end": 280.09
+        },
+        {
+          "s": "STUDENT",
+          "t": "That sounds useful.",
+          "start": 280.77,
+          "end": 281.69
+        },
+        {
+          "s": "STUDENT",
+          "t": "Is there anything on using the Internet?",
+          "start": 282.73,
+          "end": 284.69
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Er, let's see.",
+          "start": 286.21,
+          "end": 286.85
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "The one on the Internet for beginners was last term.",
+          "start": 287.71,
+          "end": 290.87
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "This term it's finding research materials online.",
+          "q": [
+            28,
+            29,
+            30
+          ],
+          "start": 291.43,
+          "end": 294.59
+        },
+        {
+          "s": "STUDENT",
+          "t": "That sounds interesting too, hm, what's the last one?",
+          "start": 295.27,
+          "end": 299.76
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "It's a workshop on dissertations.",
+          "q": [
+            28,
+            29,
+            30
+          ],
+          "start": 300.44,
+          "end": 302.08
+        },
+        {
+          "s": "STUDENT",
+          "t": "What do you mean - how to write one?",
+          "start": 302.28,
+          "end": 305.76
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Er, no, it's more to do with academic writing conventions, you know- writing a bibliography and how to refer to sources in your text.",
+          "start": 306.24,
+          "end": 314.24
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "That sort of thing.",
+          "start": 314.72,
+          "end": 315.36
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Anyway, here's a leaflet with information about all three.",
+          "start": 315.56,
+          "end": 319.08
+        },
+        {
+          "s": "STUDENT",
+          "t": "Thanks a lot.",
+          "start": 319.72,
+          "end": 320.36
+        },
+        {
+          "s": "STUDENT",
+          "t": "That'll be very useful.",
+          "start": 321.12,
+          "end": 322.16
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "You're welcome.",
+          "start": 322.32,
+          "end": 322.84
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c6/t4p4.mp3",
+      "duration": 364,
+      "title": "Asiatic Lions and the Gir Sanctuary",
+      "groups": [
+        {
+          "range": [
+            31,
+            34
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 31,
+              "text": "When did Asiatic lions develop as a separate sub-species?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "about 10,000 years ago"
+                },
+                {
+                  "k": "B",
+                  "text": "about 100,000 years ago"
+                },
+                {
+                  "k": "C",
+                  "text": "about 1,000,000 years ago"
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "Pictures of Asiatic lions can be seen on ancient coins from",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Greece."
+                },
+                {
+                  "k": "B",
+                  "text": "The Middle East."
+                },
+                {
+                  "k": "C",
+                  "text": "India."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "Asiatic lions disappeared from Europe",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "2,500 years ago."
+                },
+                {
+                  "k": "B",
+                  "text": "2,000 years ago."
+                },
+                {
+                  "k": "C",
+                  "text": "1,900 years ago."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "Very few African lions have",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a long mane."
+                },
+                {
+                  "k": "B",
+                  "text": "a coat with varied colours."
+                },
+                {
+                  "k": "C",
+                  "text": "a fold of skin on their stomach."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            35,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "THE GIR SANCTUARY",
+          "lines": [
+            "The sanctuary has an area of approximately {{35}} square kilometres.",
+            "One threat to the lions in the sanctuary is {{36}}.",
+            "The ancestors of the Gir Sanctuary lions were protected by a {{37}}.",
+            "A large part of the lions' {{38}} consists of animals belonging to local farmers.",
+            "The lions sometimes {{39}}, especially when water is short.",
+            "In ancient India a man would fight a lion as a test of {{40}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Well, most people think that lions only come from Africa.",
+          "start": 61.93,
+          "end": 65.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And you would be forgiven for thinking this, because in fact most lions do come from Africa.",
+          "start": 66.09,
+          "end": 70.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But this hasn't always been the case.",
+          "start": 71.73,
+          "end": 73.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If we go back ten thousand years we would find that there were lions roaming vast sections of the globe.",
+          "start": 74.53,
+          "end": 79.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But now, unfortunately, only very small sections of the lions' former habitat remain.",
+          "start": 80.09,
+          "end": 86.33
+        },
+        {
+          "s": "SPEAKER",
+          "t": "My particular interest is Asiatic lions, which are a sub-species of African lions.",
+          "start": 88.25,
+          "end": 93.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's almost a hundred thousand years since the Asiatic lions split off and developed as a sub-species.",
+          "q": [
+            31
+          ],
+          "start": 94.25,
+          "end": 98.61
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At one time the Asiatic lion was living as far west as Greece and they were found from there, in a band that spread east through various countries of the Middle East, all the way to India.",
+          "start": 100.33,
+          "end": 110.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In museums, you can now see Greek coins that have clear images of the Asiatic lion on them.",
+          "q": [
+            32
+          ],
+          "start": 111.57,
+          "end": 117.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Most of them are dated at around 500 B.C.",
+          "start": 118.13,
+          "end": 121.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, Europe saw its last Asiatic lion roaming free two thousand years ago.",
+          "q": [
+            33
+          ],
+          "start": 122.66,
+          "end": 127.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Over the next nineteen hundred years the numbers of Asiatic lions in the other areas declined steadily, but it was only in the nineteenth century that they disappeared from everywhere but India.",
+          "start": 127.54,
+          "end": 139.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, how can you tell an Asiatic lion from an African lion, with which you're probably more familiar?",
+          "start": 140.97,
+          "end": 146.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, in general, Asiatic lions are not as big as African lions.",
+          "start": 148.22,
+          "end": 152.86
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The colour is more or less the same, but the appearance of the mane is different- that's the hair around the lion's face and neck.",
+          "start": 153.62,
+          "end": 160.52
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Asiatic lion's mane is noticeably shorter than the African lion's.",
+          "start": 161.71,
+          "end": 165.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Asiatic lions also have a long fold of skin on their undersides, whereas not many African lions have this.",
+          "q": [
+            34
+          ],
+          "start": 165.83,
+          "end": 173.27
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, I'd like to talk to you now about the Gir Sanctuary in India.",
+          "start": 178.83,
+          "end": 182.67
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's where I've just come back from.",
+          "start": 183.27,
+          "end": 184.79
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The sanctuary was established specifically to protect the Asiatic lion.",
+          "start": 185.83,
+          "end": 189.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's 1,450 square kilometres in area and most of it is forest.",
+          "q": [
+            35
+          ],
+          "start": 190.57,
+          "end": 194.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are now around three hundred Asiatic lions in India and almost all of them are in this sanctuary.",
+          "start": 196.41,
+          "end": 202.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But despite living in a sanctuary, which makes them safe from hunters, they still face a number of problems that threaten their survival.",
+          "start": 203.98,
+          "end": 210.9
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One of these is the ever-present danger of disease.",
+          "q": [
+            36
+          ],
+          "start": 212.1,
+          "end": 214.58
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is what killed more than a third of Africa's Serengeti lions in 1994, and people are fearful that something similar could happen in the Gir Sanctuary and kill off many of the Asiatic lions there.",
+          "start": 216.05,
+          "end": 227.81
+        },
+        {
+          "s": "SPEAKER",
+          "t": "India's lions are particularly vulnerable because they have a limited gene pool.",
+          "start": 230.18,
+          "end": 234.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The reason for this is interesting- it's because all of them are descended from a few dozen lions that were saved by a prince who took a particular interest in them.",
+          "start": 235.99,
+          "end": 245.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He was very wealthy, and he managed to protect them - otherwise they'd probably have died out completely.",
+          "q": [
+            37
+          ],
+          "start": 245.95,
+          "end": 251.67
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When you see the Asiatic lion in India, what you sense is enormous vitality.",
+          "start": 253.47,
+          "end": 257.99
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They're very impressive beasts and you would never guess that they had this vulnerability when you look at them.",
+          "start": 258.47,
+          "end": 264.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Asiatic lions don't have the Gir Sanctuary to themselves, I should add.",
+          "start": 265.75,
+          "end": 269.31
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They actually share it with about two thousand farmers.",
+          "start": 270.15,
+          "end": 273.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A significant proportion of the lions' diet is made up of the livestock of these farmers -goats, chickens and so on - as much as a third, in fact.",
+          "q": [
+            38
+          ],
+          "start": 274.19,
+          "end": 282.67
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And they've even been known to attack humans, especially in times of drought.",
+          "q": [
+            39
+          ],
+          "start": 283.92,
+          "end": 287.64
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One final piece of interesting information - in ancient India one of the greatest tests of leadership for a man was to fight a lion.",
+          "start": 289.88,
+          "end": 297.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now it seems, in modern India it will be a great test to see if the lion can be saved.",
+          "q": [
+            40
+          ],
+          "start": 297.56,
+          "end": 303.52
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm sure this is something that all of you will share concern for too.",
+          "start": 305.06,
+          "end": 308.5
+        }
+      ]
+    }
+  ]
+}
