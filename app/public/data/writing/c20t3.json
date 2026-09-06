@@ -1,0 +1,75 @@
+{
+  "id": "c20t3",
+  "book": "剑桥雅思20",
+  "test": 3,
+  "title": "剑20 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "mixed",
+      "kindZh": "混合",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The charts below give information about a public library in a town called Little Chalfont.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c20t3-task1.webp",
+      "imageCaption": "Little Chalfont Library: age of members, loans by category and total loans 2007-2016",
+      "data": {
+        "unit": "% / number of loans",
+        "years": [
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016
+        ],
+        "series": {
+          "Total loans": [
+            15700,
+            19000,
+            19100,
+            20600,
+            21000,
+            20700,
+            19600,
+            20700,
+            21200,
+            21600
+          ]
+        }
+      },
+      "sample": {
+        "band": 5.0,
+        "text": "The illustration show information about a public library in a city which called Little Charfont. The member of library is mostly compose by Adults. It is around in half, the rawest is adults 65 and over.\n\nFiction is the most popular category either children or adults. Both of them are recorded by 38%. Wheras, nonfiction is less popular than fiction. It is 13% and 6% for children. The visualisation's categories, such as DVDs and audio books are lowest in the same binding which is total number of loans.\n\nThe bar is starting as the lowest in 2007. It is about 15,000. However, It has been slowly rised up until 2011. Unfortunately, It is likely to decrease as 2009 during 2012 to 2013. Nevertheless, It has been surprisingly increased by 2016. In 2016, It break new record In the chart. It could be about 21,000!",
+        "comment": "This response does present data for each of the charts, and generally answers the question. There is limited detail though, for example, when describing the pie chart for the age of library members, we are told that the members are mostly adults, and those 65 and over are the [rawest]. There is no mention of children and young adults, and no reporting of the data in the pie chart itself. This means that only limited details are presented.\n\nIdeas are organised, and there is an underlying sense of meaning but some lack of progression. Sentences are not fluently linked to each other. Cohesive devices tend to be overused [which | Both | such as | However | Unfortunately | Nevertheless], and some are faulty [Wheras / Whereas]. There is some reference [It], but this is used repetitively, especially in the last paragraph.\n\nThere is an attempt to use a range of vocabulary [less popular | visualisation's | break new record]; however, overall, the frequency of error, and the mistakes in word choice [rawest / lowest | binding /?] limit the score for vocabulary. The range of grammatical structures is also limited. The response should be written using past tenses, as the data covers 2007 to 2016, but is mostly written in the present tense. Sentences are generally short, and the level of error is noticeable for the reader.\n\nThis response could be improved by including an appropriate overview, and providing greater accuracy across vocabulary and grammatical structures.",
+        "exampleOverview": "In Little Chalfont Library, 2016, the majority of members were adults, with the most loans in the fiction category. Overall, from 2007 to 2016, loans increased to their highest level across the 10-year period shown."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "advantage-disadvantage",
+      "kindZh": "利弊",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people have decided to reduce the number of times they fly every year or to stop flying altogether.",
+        "Do you think the environmental benefits of this development outweigh the disadvantages for individuals and businesses?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+        "Write at least 250 words."
+      ],
+      "sample": {
+        "band": 7.5,
+        "text": "Many people nowadays have decided to stop flying or to limit the amount of times they use this form of transport. This will undoubtedly have great benefits for the environment, but it may mean that for individuals or businesses this can translate to higher expenses. I believe the disadvantages for individuals and businesses would be greater than the effects on the environment. This essay will discuss advantages and disadvantages of this.\n\nEnvironmental benefits of reduced air travel would have a direct effect in the amount of pollution in the air, which would mean a greener planet. However, this would also mean a rise in the use of other types of transportation. For example, if the amount of cars, buses or trucks on the road increases this also means greenhouse gas emissions increase too.\n\nOn the other hand, for individuals or businesses this could mean higher travelling costs, as well as lengthy trips and possible delays in reaching their destinations. All of this can affect the companies resources and even possibly cause them to lose business deals, or not even commence them due to restricted trading times. Higher costs for companies can cause job cuts which can have devastating effects for families.\n\nIn conclusion, I believe the disadvantages on individuals and businesses caused by a reduction in air travel are far greater. The potential implications for companies of higher travel and shipping costs, could reflect losses that can eventuate in job cuts. The effects on the environment would not be enough to merit such a drastic culture change and possibly pollution levels could rise as a result of the increase on other contaminants.",
+        "comment": "This is a strong, detailed and well-developed response. There are several appropriate ideas; the position is presented in the first paragraph and it is evidenced consistently. To improve this response, there could be more detail on the impact on 'individuals' as most of the examples refer to 'businesses'.\n\nThe ideas are organised logically and the paragraphs support overall coherence. Cohesion is used well throughout, and the message can be followed easily.\n\nVocabulary is fluently and flexibly used [translate to higher expenses | devastating effects | potential implications] with accurate spelling and only occasional errors in word choice [commence them / start them | eventuate in / result in]. Similarly, the range of grammatical structures is wide. There are frequent multi-clause sentences and the response is mostly error free."
+      }
+    }
+  ]
+}
