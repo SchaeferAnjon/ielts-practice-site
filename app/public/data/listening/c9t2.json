@@ -1,0 +1,1391 @@
+{
+  "id": "c9t2",
+  "book": "剑桥雅思9",
+  "test": 2,
+  "title": "剑9 Test 2 · Listening",
+  "source": "Cambridge IELTS 9, Test 2（扫描件 OCR + 图片核对）",
+  "answers": {
+    "1": [
+      "Bhatt"
+    ],
+    "2": [
+      "31 March",
+      "31st March"
+    ],
+    "3": [
+      "nursing"
+    ],
+    "4": [
+      "2",
+      "two"
+    ],
+    "5": [
+      "meat"
+    ],
+    "6": [
+      "bedsit"
+    ],
+    "7": [
+      "theatre",
+      "theater"
+    ],
+    "8": [
+      "mature",
+      "older"
+    ],
+    "9": [
+      "town"
+    ],
+    "10": [
+      "shared"
+    ],
+    "11": [
+      "trees"
+    ],
+    "12": [
+      "Friday and Sunday",
+      "Friday, Sunday",
+      "Friday Sunday",
+      "Friday/Sunday"
+    ],
+    "13": [
+      "farm"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "A"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "I"
+    ],
+    "19": [
+      "F"
+    ],
+    "20": [
+      "E"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "B"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "C"
+    ],
+    "25": [
+      "reading"
+    ],
+    "26": [
+      "CD"
+    ],
+    "27": [
+      "workbooks"
+    ],
+    "28": [
+      "timetable",
+      "schedule"
+    ],
+    "29": [
+      "alarm"
+    ],
+    "30": [
+      "email",
+      "emails"
+    ],
+    "31": [
+      "central"
+    ],
+    "32": [
+      "conversation",
+      "conversations"
+    ],
+    "33": [
+      "effectively"
+    ],
+    "34": [
+      "risk",
+      "risks"
+    ],
+    "35": [
+      "levels"
+    ],
+    "36": [
+      "description",
+      "descriptions"
+    ],
+    "37": [
+      "technical"
+    ],
+    "38": [
+      "change"
+    ],
+    "39": [
+      "responsibility"
+    ],
+    "40": [
+      "flexible"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c9/t2p1.mp3",
+      "duration": 0,
+      "title": "Accommodation Form",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the form below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Accommodation Form - Student Information",
+          "table": {
+            "head": [
+              "Accommodation Form - Student Information",
+              ""
+            ],
+            "rows": [
+              [
+                "Type of accommodation (Example)",
+                "hall of residence"
+              ],
+              [
+                "Name",
+                "Anu {{1}}"
+              ],
+              [
+                "Date of birth",
+                "{{2}}"
+              ],
+              [
+                "Country of origin",
+                "India"
+              ],
+              [
+                "Course of study",
+                "{{3}}"
+              ],
+              [
+                "Number of years planned in hall",
+                "{{4}}"
+              ],
+              [
+                "Preferred catering arrangement",
+                "half board"
+              ],
+              [
+                "Special dietary requirements",
+                "no {{5}} (red)"
+              ],
+              [
+                "Preferred room type",
+                "a single {{6}}"
+              ],
+              [
+                "Interests",
+                "the {{7}}\nbadminton"
+              ],
+              [
+                "Priorities in choice of hall",
+                "to be with other students who are {{8}}\nto live outside the {{9}}\nto have a {{10}} area for socialising"
+              ],
+              [
+                "Contact phone number",
+                "667549"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MAN",
+          "t": "Good morning."
+        },
+        {
+          "s": "MAN",
+          "t": "Can I help you?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I've just been accepted on a course at the university and I'd like to try and arrange accommodation in the hall of residence."
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, certainly."
+        },
+        {
+          "s": "MAN",
+          "t": "Please sit down."
+        },
+        {
+          "s": "MAN",
+          "t": "What I'll do is fill in a form with you to find out a little more about your preferences and so forth."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Thank you."
+        },
+        {
+          "s": "MAN",
+          "t": "So first of all, can I take your name?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's Anu Bhatt.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Could you spell your name please?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes."
+        },
+        {
+          "s": "WOMAN",
+          "t": "A-N-U ..."
+        },
+        {
+          "s": "WOMAN",
+          "t": "B-H-A double T."
+        },
+        {
+          "s": "MAN",
+          "t": "Thanks, and could I ask your date of birth?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "31st March 1972.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Thank you."
+        },
+        {
+          "s": "MAN",
+          "t": "And where are you from?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "India."
+        },
+        {
+          "s": "MAN",
+          "t": "Oh right."
+        },
+        {
+          "s": "MAN",
+          "t": "And what will you be studying?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm doing a course in nursing.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Right, thank you."
+        },
+        {
+          "s": "MAN",
+          "t": "And how long would you want to stay in hall, do you think?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, it'll take three years but I'd only like to stay in hall for two."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'd like to think about living outside for the third year.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Fine."
+        },
+        {
+          "s": "MAN",
+          "t": "And what did you have in mind for catering?"
+        },
+        {
+          "s": "MAN",
+          "t": "Do you want to cook for yourself or have all your meals provided, that's full board?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is there something in between?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes."
+        },
+        {
+          "s": "MAN",
+          "t": "You can just have evening meal provided, which is half board."
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's what I'd prefer."
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, a lot of students opt for that."
+        },
+        {
+          "s": "MAN",
+          "t": "Now, with that in mind, do you have any special diet, anything we should know about?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, I don't take red meat.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "No red meat."
+        },
+        {
+          "s": "MAN",
+          "t": "Now, thinking about the room itself, we have a number of options."
+        },
+        {
+          "s": "MAN",
+          "t": "You can have a single study bedroom or you can have a shared one."
+        },
+        {
+          "s": "MAN",
+          "t": "These are both what we call simple rooms."
+        },
+        {
+          "s": "MAN",
+          "t": "The other alternative is to opt for a single bedsit which actually has more space and better facilities."
+        },
+        {
+          "s": "MAN",
+          "t": "There's about £20 a week difference between them."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, actually my grant is quite generous and I think the bedsit sounds the best option.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Lovely."
+        },
+        {
+          "s": "MAN",
+          "t": "I'll put you down for that and we'll see what availability is like."
+        },
+        {
+          "s": "MAN",
+          "t": "Now can I ask some other personal details which we like to have on record?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, of course."
+        },
+        {
+          "s": "MAN",
+          "t": "I wonder if you could let us know what your interests are."
+        },
+        {
+          "s": "MAN",
+          "t": "This might help us get a closer match for placing you in a particular hall."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Ummm."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, I love the theatre.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Right."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And I enjoy sports, particularly badminton."
+        },
+        {
+          "s": "MAN",
+          "t": "That's worth knowing."
+        },
+        {
+          "s": "MAN",
+          "t": "Now, what we finish with on the form is really a list from you of what your priorities are in choosing a hall and we'll do our best to take these into account."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, the first thing is I'd prefer a hall where there are other mature students, if possible.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, we do have halls which tend to cater for slightly older students."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Ummm and I'd prefer to be out of town.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "That's actually very good for you because we tend to have more vacancies in out-of-town halls."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Lucky!"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes."
+        },
+        {
+          "s": "MAN",
+          "t": "Anything else?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, I would like somewhere with a shared area, a TV room for example, or something like that."
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's a good way to socialise.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "It certainly is."
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's it."
+        },
+        {
+          "s": "MAN",
+          "t": "Now, we just need a contact telephone number for you."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Sure, I'll just find it."
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's double 67549."
+        },
+        {
+          "s": "MAN",
+          "t": "Great, so we'll be in contact with you as soon as possible ..."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c9/t2p2.mp3",
+      "duration": 0,
+      "title": "Wildlife Club Talk",
+      "groups": [
+        {
+          "range": [
+            11,
+            13
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS for each answer.",
+          "title": "Parks and open spaces",
+          "table": {
+            "head": [
+              "Name of place",
+              "Of particular interest",
+              "Open"
+            ],
+            "rows": [
+              [
+                "Halland Common",
+                "source of River Ouse",
+                "24 hours"
+              ],
+              [
+                "Holt Island",
+                "many different {{11}}",
+                "between {{12}} (两个空都填，用 and 连接)"
+              ],
+              [
+                "Longfield Country Park",
+                "reconstruction of a 2,000-year-old {{13}} with activities for children",
+                "daylight hours"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            14,
+            16
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Longfield Park",
+          "questions": [
+            {
+              "n": 14,
+              "text": "As part of Monday's activity, visitors will",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "prepare food with herbs."
+                },
+                {
+                  "k": "B",
+                  "text": "meet a well-known herbalist."
+                },
+                {
+                  "k": "C",
+                  "text": "dye cloth with herbs."
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "For the activity on Wednesday,",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "only group bookings are accepted."
+                },
+                {
+                  "k": "B",
+                  "text": "visitors should book in advance."
+                },
+                {
+                  "k": "C",
+                  "text": "attendance is free."
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "For the activity on Saturday, visitors should",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "come in suitable clothing."
+                },
+                {
+                  "k": "B",
+                  "text": "make sure they are able to stay for the whole day."
+                },
+                {
+                  "k": "C",
+                  "text": "tell the rangers before the event what they wish to do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            20
+          ],
+          "type": "matching",
+          "instruction": "Label the map below. Write the correct letter, A-I, next to Questions 17-20. 原题为地图标注，见原书。",
+          "title": "Hinchingbrooke Park",
+          "optionsTitle": "Map letters",
+          "options": [
+            {
+              "k": "A",
+              "text": "A - near the lake, close to the West gate path"
+            },
+            {
+              "k": "B",
+              "text": "B - on the path beside the lake"
+            },
+            {
+              "k": "C",
+              "text": "C - beside the lake, to the north"
+            },
+            {
+              "k": "D",
+              "text": "D - near the East gate"
+            },
+            {
+              "k": "E",
+              "text": "E - west side, between two paths"
+            },
+            {
+              "k": "F",
+              "text": "F - the circular path junction in the middle"
+            },
+            {
+              "k": "G",
+              "text": "G - east side, open area"
+            },
+            {
+              "k": "H",
+              "text": "H - near the West gate, south-west corner"
+            },
+            {
+              "k": "I",
+              "text": "I - next to the Refreshments hut"
+            }
+          ],
+          "itemsTitle": "Locations",
+          "items": [
+            {
+              "n": 17,
+              "text": "bird hide"
+            },
+            {
+              "n": 18,
+              "text": "dog-walking area"
+            },
+            {
+              "n": 19,
+              "text": "flower garden"
+            },
+            {
+              "n": 20,
+              "text": "wooded area"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Hello, I'm delighted to welcome you to our Wildlife Club, and very pleased that you're interested in the countryside and the plants and creatures of this area."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I think you'll be surprised at the variety we have here, even though we're not far from London."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'll start by telling you about some of the parks and open spaces nearby."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One very pleasant place is Halland Common."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This has been public land for hundreds of years, and what you'll find interesting is that the River Ouse, which flows into the sea eighty kilometres away, has its source in the common."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's an information board about the plants and animals you can see here, and by the way, the common is accessible 24 hours a day."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then there's Holt Island, which is noted for its great range of trees.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the past willows were grown here commercially for basket-making, and this ancient craft has recently been reintroduced."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The island is only open to the public from Friday to Sunday, because it's quite small, and if there were people around every day, much of the wildlife would keep away.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "From there it's just a short walk across the bridge to Longfield Country Park."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Longfield has a modern replica of a farm from over two thousand years ago.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Children's activities are often arranged there, like bread-making and face-painting."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The park is only open during daylight hours, so bear that in mind if you decide to go there."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Longfield Park has a programme of activities throughout the year, and to give you a sample, this is what's happening in the next few days."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On Monday you can learn about herbs, and how they've been used over the centuries."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll start with a tour of our herb garden, practise the technique of using them as colour dyes for cloth, and listen to an illustrated talk about their use in cooking and medicine.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then on Wednesday you can join local experts to discover the variety of insects and birds that appear in the evening."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We keep to a small number of people in the group, so if you want to go you'll need to phone the park ranger a few days ahead.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's a small charge, which you should pay when you turn up."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm sure you're all keen to help with the practical task of looking after the park, so on Saturday you can join a working party."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll have a choice of all sorts of activities, from planting hedges to picking up litter, so you'll be able to change from one to another when you feel like it."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The rangers will be hard at work all day, but do come and join in, even for just a short while."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One thing, though, is to make sure you're wearing something that you don't mind getting dirty or torn.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And finally I'd like to tell you about our new wildlife area, Hinchingbrooke Park, which will be opened to the public next month."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This slide doesn't really indicate how big it is, but anyway, you can see the two gates into the park, and the main paths."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As you can see, there's a lake in the north west of the park, with a bird hide to the west of it, at the end of a path.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So it'll be a nice quiet place for watching the birds on the lake."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Fairly close to where refreshments are available, there's a dog-walking area in the southern part of the park, leading off from the path.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And if you just want to sit and relax, you can go to the flower garden: that's the circular area on the map surrounded by paths.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And finally, there's a wooded area in the western section of the park, between two paths.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Okay, that's enough from me, so let's go on to ..."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c9/t2p3.mp3",
+      "duration": 0,
+      "title": "Self-Access Centre Discussion",
+      "groups": [
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Self-Access Centre",
+          "questions": [
+            {
+              "n": 21,
+              "text": "Students want to keep the Self-Access Centre because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "they enjoy the variety of equipment."
+                },
+                {
+                  "k": "B",
+                  "text": "they like being able to work on their own."
+                },
+                {
+                  "k": "C",
+                  "text": "it is an important part of their studies."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "Some teachers would prefer to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "close the Self-Access Centre."
+                },
+                {
+                  "k": "B",
+                  "text": "move the Self-Access Centre elsewhere."
+                },
+                {
+                  "k": "C",
+                  "text": "restrict access to the Self-Access Centre."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "The students' main concern about using the library would be",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the size of the library."
+                },
+                {
+                  "k": "B",
+                  "text": "difficulty in getting help."
+                },
+                {
+                  "k": "C",
+                  "text": "the lack of materials."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "The Director of Studies is concerned about",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the cost of upgrading the centre."
+                },
+                {
+                  "k": "B",
+                  "text": "the lack of space in the centre."
+                },
+                {
+                  "k": "C",
+                  "text": "the difficulty in supervising the centre."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            30
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Necessary improvements to the existing Self-Access Centre",
+          "lines": [
+            "## Equipment",
+            "Replace computers to create more space.",
+            "## Resources",
+            "The level of the {{25}} materials, in particular, should be more clearly shown.",
+            "Update the {{26}} collection.",
+            "Buy some {{27}} and divide them up.",
+            "## Use of the room",
+            "Speak to the teachers and organise a {{28}} for supervising the centre.",
+            "Install an {{29}}.",
+            "Restrict personal use of {{30}} on computers."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "PAM",
+          "t": "Hi Jun."
+        },
+        {
+          "s": "PAM",
+          "t": "As you know, I've asked you here today to discuss the future of our Self-Access Centre."
+        },
+        {
+          "s": "PAM",
+          "t": "We have to decide what we want to do about this very important resource for our English language students."
+        },
+        {
+          "s": "PAM",
+          "t": "So, can you tell me what the students think about this?"
+        },
+        {
+          "s": "JUN",
+          "t": "Well, from the students' point of view, we would like to keep it."
+        },
+        {
+          "s": "JUN",
+          "t": "The majority of students say that they enjoy using it because it provides a variation on the classroom routine and they see it as a pretty major component of their course, but we would like to see some improvements to the equipment, particularly the computers; there aren't enough for one each at the moment and we always have to share.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "PAM",
+          "t": "Well yes, the teachers agree that it is a very valuable resource but one thing we have noticed is that a lot of the students are using it to check their personal emails."
+        },
+        {
+          "s": "PAM",
+          "t": "We don't want to stop you students using it, but we think the computers should be used as a learning resource, not for emails."
+        },
+        {
+          "s": "PAM",
+          "t": "Some of us also think that we could benefit a lot more by relocating the Self-Access Centre to the main University library building.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "PAM",
+          "t": "How do you think the students would feel about that, Jun?"
+        },
+        {
+          "s": "JUN",
+          "t": "Well, the library is big enough to incorporate the Self-Access Centre, but it wouldn't be like a class activity anymore."
+        },
+        {
+          "s": "JUN",
+          "t": "Our main worry would be not being able to go to a teacher for advice.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "JUN",
+          "t": "I'm sure there would be plenty of things to do but we really need teachers to help us choose the best activities."
+        },
+        {
+          "s": "PAM",
+          "t": "Well, there would still be a teacher present and he or she would guide the activities of the students, we wouldn't just leave them to get on with it."
+        },
+        {
+          "s": "JUN",
+          "t": "Yes, but I think the students would be much happier keeping the existing set-up; they really like going to the Self-Access Centre with their teacher and staying together as a group to do activities."
+        },
+        {
+          "s": "JUN",
+          "t": "If we could just improve the resources and facilities, I think it would be fine."
+        },
+        {
+          "s": "JUN",
+          "t": "Is the cost going to be a problem?"
+        },
+        {
+          "s": "PAM",
+          "t": "It's not so much the expense that I'm worried about, and we've certainly got room to do it, but it's the problem of timetabling a teacher to be in there outside class hours.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "PAM",
+          "t": "If we're going to spend a lot of money on equipment and resources, we really need to make sure that everything is looked after properly."
+        },
+        {
+          "s": "PAM",
+          "t": "Anyway, let's make some notes to see just what needs doing to improve the Centre."
+        },
+        {
+          "s": "PAM",
+          "t": "Now, what about the computers?"
+        },
+        {
+          "s": "PAM",
+          "t": "I think it might be a good idea to install some new models."
+        },
+        {
+          "s": "PAM",
+          "t": "They would take up a lot less room and so that would increase the work space for text books and so on."
+        },
+        {
+          "s": "JUN",
+          "t": "That would be great."
+        },
+        {
+          "s": "JUN",
+          "t": "It is a bit cramped in there at times."
+        },
+        {
+          "s": "PAM",
+          "t": "What about other resources?"
+        },
+        {
+          "s": "PAM",
+          "t": "Do you have a list of things that the students would like to see improved?"
+        },
+        {
+          "s": "JUN",
+          "t": "Yes, one of the comments that students frequently make is that they find it difficult to find materials that are appropriate for their level, especially reading resources, so I think we need to label them more clearly.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "PAM",
+          "t": "Well that's easy enough, we can get that organised very quickly."
+        },
+        {
+          "s": "PAM",
+          "t": "In fact I think we should review all of the study resources as some of them are looking a bit out-of-date."
+        },
+        {
+          "s": "JUN",
+          "t": "Definitely."
+        },
+        {
+          "s": "JUN",
+          "t": "The CD section especially needs to be more current.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "JUN",
+          "t": "I think we should get some of the ones that go with our latest course books and also make multiple copies."
+        },
+        {
+          "s": "PAM",
+          "t": "Good, now I was also thinking about some different materials that we haven't got in there at all."
+        },
+        {
+          "s": "PAM",
+          "t": "What do you think of the idea of introducing some workbooks?",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "PAM",
+          "t": "If we break them up into separate pages and laminate them, they'd be a great resource."
+        },
+        {
+          "s": "PAM",
+          "t": "The students could study the main course book in class and then do follow-up practice in the Self-Access Centre."
+        },
+        {
+          "s": "JUN",
+          "t": "That sounds good."
+        },
+        {
+          "s": "PAM",
+          "t": "Okay, now finally we need to think about how the room is used."
+        },
+        {
+          "s": "PAM",
+          "t": "I'll have to talk to the teachers and make sure we can all reach some agreement on a timetable to supervise the centre after class.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "PAM",
+          "t": "But we also need to think about security, too."
+        },
+        {
+          "s": "PAM",
+          "t": "Especially if we're going to invest in some new equipment."
+        },
+        {
+          "s": "JUN",
+          "t": "What about putting in an alarm?",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "PAM",
+          "t": "Good idea."
+        },
+        {
+          "s": "PAM",
+          "t": "The other thing I'd like to do is talk to our technicians and see whether we could somehow limit the access to email.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "PAM",
+          "t": "I really don't want to see that resource misused."
+        },
+        {
+          "s": "JUN",
+          "t": "What about if we agree to only use it before and after class?"
+        },
+        {
+          "s": "PAM",
+          "t": "Yes, that would be fine."
+        },
+        {
+          "s": "PAM",
+          "t": "OK, anyway ... that's great for now."
+        },
+        {
+          "s": "PAM",
+          "t": "We'll discuss it further when we've managed to ..."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c9/t2p4.mp3",
+      "duration": 0,
+      "title": "Business Cultures",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Business Cultures",
+          "lines": [
+            "## Power culture",
+            "Characteristics of organisation: small; {{31}} power source; few rules and procedures; communication by {{32}}",
+            "Advantage: can act quickly",
+            "Disadvantage: might not act {{33}}",
+            "Suitable employee: not afraid of {{34}}; doesn't need job security",
+            "## Role culture",
+            "Characteristics of organisation: large, many {{35}}; specialised departments; rules and procedure, e.g. job {{36}} and rules for discipline",
+            "Advantages: economies of scale; successful when {{37}} ability is important",
+            "Disadvantages: slow to see when {{38}} is needed; slow to react",
+            "Suitable employee: values security; doesn't want {{39}}",
+            "## Task culture",
+            "Characteristics of organisation: project orientated; in competitive market or making product with short life; a lot of delegation",
+            "Advantage: {{40}}",
+            "Disadvantages: no economies of scale or special expertise",
+            "Suitable employee: likes to work in groups"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning everyone."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now whether you're going to university to study business or some other subject, many of you will eventually end up working for a company of some kind."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, when you first start working somewhere you will realise that the organisation you've joined has certain characteristics."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And we often refer to these social characteristics as the culture of the organisation — this includes its unwritten ideas, beliefs, values and things like that."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One well known writer has classified company cultures by identifying four major types."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The first type is called the Power Culture, and it's usually found in small organisations."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's the type of culture that needs a central source of power to be effective, and because control is in the hands of just one or two people there aren't many rules or procedures.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another characteristic is that communication usually takes the form of conversations rather than, say, formal meetings or written memos.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now one of the benefits of this culture is that the organisation has the ability to act quickly, so it responds well to threat, or danger on the one hand, and opportunity on the other."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But on the negative side, this type of organisation doesn't always act effectively, because it depends too much on one or two people at the top, and when these people make poor decisions there's no-one else who can influence them.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the kind of person who does well in this type of business culture is one who is happy to take risks, and for whom job security is a low priority.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The next type is known as Role Culture — that's R-O-L-E, not R-O-double L, by the way, and this type is usually found in large companies, which have lots of different levels in them.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These organisations usually have separate departments that specialise in things like finance, or sales, or maintenance, or whatever."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Each one is co-ordinated at the top by a small group of senior managers, and typically everyone's job is controlled by sets of rules and procedures — for example, there are specific job descriptions, rules for discipline, and so on.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What are the benefits of this kind of culture?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well firstly, because it's found in large organisations, its fixed costs, or overheads as they're known, are low in relation to its output, or what it produces."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In other words it can achieve economies of scale."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And secondly, it is particularly successful in business markets where technical expertise is important.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On the other hand, this culture is often very slow to recognise the need for change, and even slower to react.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What kind of person does this type of culture suit?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well it suits employees who value security, and who don't particularly want to have responsibility.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Moving on now to Task Cultures — this type is found in organisations that are project- oriented."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You usually find it where the market for the company's product is extremely competitive, or where the products themselves have a short life-span."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Usually top management delegates the projects, the people and other resources."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And once these have been allocated, little day-to-day control is exercised from the top, because this would seem like 'breaking the rules'."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now one of the major benefits of this culture is that it's flexible.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But it does have some major disadvantages too."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For instance, it can't produce economies of scale or great depth of expertise."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "People who like working in groups or teams prefer this type of culture."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And finally, the fourth category is called the Person Culture ..."
+        }
+      ]
+    }
+  ]
+}

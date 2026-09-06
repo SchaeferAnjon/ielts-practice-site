@@ -1,0 +1,91 @@
+{
+  "id": "c9t2",
+  "book": "剑桥雅思9",
+  "test": 2,
+  "title": "剑9 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "bar-chart",
+      "kindZh": "柱状图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The chart below shows the total number of minutes (in billions) of telephone calls in the UK, divided into three categories, from 1995-2002.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "Write at least 150 words."
+      ],
+      "image": "/img/c9t2-task1.webp",
+      "imageCaption": "UK telephone calls, by category, 1995-2002",
+      "data": {
+        "unit": "Minutes (billions)",
+        "years": [
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002
+        ],
+        "series": {
+          "Local - fixed line": [
+            72,
+            79,
+            85,
+            89,
+            90,
+            85,
+            79,
+            72
+          ],
+          "National and international - fixed line": [
+            37,
+            41,
+            45,
+            48,
+            50,
+            56,
+            60,
+            61
+          ],
+          "Mobiles (all calls)": [
+            3,
+            5,
+            7,
+            9,
+            13,
+            24,
+            39,
+            46
+          ]
+        }
+      },
+      "sample": {
+        "band": 9,
+        "text": "The chart shows the time spent by UK residents on different types of telephone calls between 1995 and 2002.\n\nLocal fixed line calls were the highest throughout the period, rising from 72 billion minutes in 1995 to just under 90 billion in 1998. After peaking at 90 billion the following year, these calls had fallen back to the 1995 figure by 2002.\n\nNational and international fixed line calls grew steadily from 38 billion to 61 billion at the end of the period in question, though the growth slowed over the last two years.\n\nThere was a dramatic increase in mobile calls from 2 billion to 46 billion minutes. This rise was particularly noticeable between 1999 and 2002, during which time the use of mobile phones tripled.\n\nTo sum up, although local fixed line calls were still the most popular in 2002, the gap between the three categories had narrowed considerably over the second half of the period in question.",
+        "comment": "本书原文说明：此篇 Task 1 范文标注为 MODEL ANSWER，由考官撰写，作为该题众多可能写法中的一种示范（\"This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches.\"），未附具体的评分点评或分数，这里按满分示范处理。"
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people believe that unpaid community service should be a compulsory part of high school programmes (for example working for a charity, improving the neighbourhood or teaching sports to younger children).",
+        "To what extent do you agree or disagree?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+        "Write at least 250 words."
+      ],
+      "sample": {
+        "band": 8,
+        "text": "It has been suggested that high school students should be involved in unpaid community services as a compulsory part of high school programmes. Most of the colleges are already providing opportunities to gain work experience, however these are not compulsory. In my opinion, sending students to work in community services is a good idea as it can provide them with many lots of valuable skills.\n\nLife skills are very important and by doing voluntary work, students can learn how to communicate with others and work in a team but also how to manage their time and improve their organisational skills. Nowadays, unfortunately, teenagers do not have many after-school activities. After-school clubs are no longer that popular and students mostly go home and sit in front of the TV, browse internet or play video games.\n\nBy giving them compulsory work activities with charitable or community organisations, they will be encouraged to do something more creative. Skills gained through compulsory work will not only be an asset on their CV but also increase their employability. Students will also gain more respect towards work and money as they will realise that it is not that easy to earn them and hopefully will learn to spend them in a more practical way.\n\nHealthy life balance and exercise are strongly promoted by the NHS, and therefore any kind of spare time charity work will prevent from sitting and doing nothing. It could also possibly reduce the crime level in the high school age group. If students have activities to do, they will not be bored and come up with silly ideas which can be dangerous for them or their surroundings.\n\nIn conclusion, I think this is a very good idea, and I hope this programme will be put into action for high schools/colleges shortly.",
+        "comment": "The answer addresses all parts of the prompt sufficiently, focusing on the benefits for students rather than society. A number of relevant, extended and supported ideas are used to produce a well-developed response to the question. However, some ideas, for example the reference to the crime level, are not fully extended. The ideas are logically ordered and cohesion is consistently well managed. Paragraphing is used appropriately, and progression between paragraphs is managed with some sophistication. A wide range of vocabulary is used to articulate meanings precisely, with skilful use of uncommon lexis, and very few inappropriacies. The range of grammatical structures used is also wide, with only occasional minor errors."
+      }
+    }
+  ]
+}
