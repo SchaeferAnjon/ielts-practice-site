@@ -1,0 +1,1669 @@
+{
+  "id": "c4t3",
+  "book": "剑桥雅思4",
+  "test": 3,
+  "title": "剑4 Test 3 · Listening",
+  "source": "Cambridge IELTS 4, Test 3（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "1½ years",
+      "1 1/2 years",
+      "one and a half years",
+      "1.5 years"
+    ],
+    "2": [
+      "Forest",
+      "Forrest"
+    ],
+    "3": [
+      "Academic"
+    ],
+    "4": [
+      "Thursday"
+    ],
+    "5": [
+      "B"
+    ],
+    "6": [
+      "B"
+    ],
+    "7": [
+      "A"
+    ],
+    "8": [
+      "deposit"
+    ],
+    "9": [
+      "monthly"
+    ],
+    "10": [
+      "telephone",
+      "phone"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "lighting",
+      "lights",
+      "light"
+    ],
+    "16": [
+      "adult",
+      "adults"
+    ],
+    "17": [
+      "at Studio Theatre",
+      "the Studio Theatre",
+      "Studio Theatre",
+      "at Studio Theater",
+      "the Studio Theater",
+      "Studio Theater"
+    ],
+    "18": [
+      "the whole family",
+      "all the family",
+      "families"
+    ],
+    "19": [
+      "in City Gardens",
+      "the City Gardens",
+      "City Gardens",
+      "outdoors"
+    ],
+    "20": [
+      "young children",
+      "younger children",
+      "children"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "B"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "A"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "B"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "questionnaire"
+    ],
+    "32": [
+      "approximately 2,000",
+      "about 2,000"
+    ],
+    "33": [
+      "Education"
+    ],
+    "34": [
+      "halls of residence",
+      "living quarters"
+    ],
+    "35": [
+      "traffic and parking",
+      "parking and traffic"
+    ],
+    "36": [
+      "lecture rooms",
+      "most lecture rooms",
+      "lecture halls",
+      "lecture theatres",
+      "lecture theaters"
+    ],
+    "37": [
+      "facilities",
+      "choice of facilities",
+      "room for facilities"
+    ],
+    "38": [
+      "D",
+      "F"
+    ],
+    "39": [
+      "B"
+    ],
+    "40": [
+      "A",
+      "C"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c4/t3p1.mp3",
+      "duration": 0,
+      "title": "Accommodation Request",
+      "groups": [
+        {
+          "range": [
+            1,
+            4
+          ],
+          "type": "table",
+          "instruction": "Complete the form below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR NUMBERS for each answer.",
+          "title": "Accommodation Request Form",
+          "table": {
+            "head": [
+              "",
+              "Answer"
+            ],
+            "rows": [
+              [
+                "Name:",
+                "Sara Lim (example)"
+              ],
+              [
+                "Age:",
+                "23"
+              ],
+              [
+                "Length of time in Australia:",
+                "{{1}}"
+              ],
+              [
+                "Present address:",
+                "Flat 1,\n539, {{2}} Road\nCanterbury 2036"
+              ],
+              [
+                "Present course:",
+                "{{3}} English"
+              ],
+              [
+                "Accommodation required from:",
+                "{{4}}, September"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            5,
+            7
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 5,
+              "text": "Sara requires a",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "single room."
+                },
+                {
+                  "k": "B",
+                  "text": "twin room."
+                },
+                {
+                  "k": "C",
+                  "text": "triple room."
+                }
+              ]
+            },
+            {
+              "n": 6,
+              "text": "She would prefer to live with a",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "family."
+                },
+                {
+                  "k": "B",
+                  "text": "single person."
+                },
+                {
+                  "k": "C",
+                  "text": "couple."
+                }
+              ]
+            },
+            {
+              "n": 7,
+              "text": "She would like to live in a",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "flat."
+                },
+                {
+                  "k": "B",
+                  "text": "house."
+                },
+                {
+                  "k": "C",
+                  "text": "studio apartment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            8,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN ONE WORD for each answer.",
+          "lines": [
+            "The {{8}} will be $320.",
+            "She needs to pay the rent by cash or cheque on a {{9}} basis.",
+            "She needs to pay her part of the {{10}} bill."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LYNDA",
+          "t": "Sara, I've heard that you want to move into a homestay family."
+        },
+        {
+          "s": "LYNDA",
+          "t": "Is that correct?"
+        },
+        {
+          "s": "SARA",
+          "t": "Yes, that's right."
+        },
+        {
+          "s": "SARA",
+          "t": "I've been staying with my aunt and now my cousin is arriving from Singapore and my aunt needs the room for him."
+        },
+        {
+          "s": "LYNDA",
+          "t": "Oh, that's bad luck."
+        },
+        {
+          "s": "LYNDA",
+          "t": "Well, I'll need to get some particulars first."
+        },
+        {
+          "s": "LYNDA",
+          "t": "Sara, what's your full name?"
+        },
+        {
+          "s": "SARA",
+          "t": "Sara Lim, and that's Sara without the 'h' at the end."
+        },
+        {
+          "s": "LYNDA",
+          "t": "Mmm."
+        },
+        {
+          "s": "LYNDA",
+          "t": "How old are you, Sara?"
+        },
+        {
+          "s": "SARA",
+          "t": "Twenty-three, only just."
+        },
+        {
+          "s": "SARA",
+          "t": "It was my birthday on the twenty-first of August."
+        },
+        {
+          "s": "LYNDA",
+          "t": "Happy birthday for yesterday."
+        },
+        {
+          "s": "LYNDA",
+          "t": "How long have you been in Australia?"
+        },
+        {
+          "s": "SARA",
+          "t": "A year in Adelaide and six months in Sydney.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "SARA",
+          "t": "I prefer Sydney, I've got more friends here."
+        },
+        {
+          "s": "LYNDA",
+          "t": "What's your address at your aunt's house?"
+        },
+        {
+          "s": "SARA",
+          "t": "Flat one, five three nine Forest Road, Canterbury."
+        },
+        {
+          "s": "SARA",
+          "t": "And the post code is two, o, three, six.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "LYNDA",
+          "t": "OK."
+        },
+        {
+          "s": "LYNDA",
+          "t": "What are you studying now?"
+        },
+        {
+          "s": "SARA",
+          "t": "I was studying General English in Adelaide and now I'm doing Academic English, because I'm trying to get into Medicine next year.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "LYNDA",
+          "t": "That sounds good. but it'll take you a long time."
+        },
+        {
+          "s": "LYNDA",
+          "t": "When would you like to move out from your aunt's?"
+        },
+        {
+          "s": "SARA",
+          "t": "My cousin arrives on Friday morning, so I'd better be out on Thursday.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "LYNDA",
+          "t": "What, the seventh of September?"
+        },
+        {
+          "s": "SARA",
+          "t": "Yes, that's right."
+        },
+        {
+          "s": "LYNDA",
+          "t": "That doesn't leave us much time."
+        },
+        {
+          "s": "LYNDA",
+          "t": "Right."
+        },
+        {
+          "s": "LYNDA",
+          "t": "OK."
+        },
+        {
+          "s": "LYNDA",
+          "t": "I need to know what kind of accommodation you'd like, so I can get you something suitable."
+        },
+        {
+          "s": "SARA",
+          "t": "Can I share a room with someone else?"
+        },
+        {
+          "s": "SARA",
+          "t": "I've been alone in my room at my aunt's and I've always shared with my sister and I like that.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "LYNDA",
+          "t": "Yes, fine."
+        },
+        {
+          "s": "LYNDA",
+          "t": "That'll save you money too."
+        },
+        {
+          "s": "LYNDA",
+          "t": "Would you like to live with a family or do you think that a single person would be better for you?"
+        },
+        {
+          "s": "LYNDA",
+          "t": "I have lots of very nice single people on my books.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "SARA",
+          "t": "Do you have any women living alone, retired women?"
+        },
+        {
+          "s": "LYNDA",
+          "t": "Yes, I have quite a few whose children have grown up and left home."
+        },
+        {
+          "s": "LYNDA",
+          "t": "In fact."
+        },
+        {
+          "s": "LYNDA",
+          "t": "I have some really lovely retired ladies. living by themselves. who just love the company of students."
+        },
+        {
+          "s": "LYNDA",
+          "t": "Most of them live in flats, but that's not a problem for you, is it?",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "SARA",
+          "t": "Not at all."
+        },
+        {
+          "s": "SARA",
+          "t": "I'm used to that."
+        },
+        {
+          "s": "SARA",
+          "t": "My aunt lives in a flat too. remember."
+        },
+        {
+          "s": "SARA",
+          "t": "I'm not used to a big house with a garden, swimming pool, pets and all that."
+        },
+        {
+          "s": "LYNDA",
+          "t": "OK, fine."
+        },
+        {
+          "s": "LYNDA",
+          "t": "I know quite a bit about what you want now."
+        },
+        {
+          "s": "LYNDA",
+          "t": "I should let you know that your rent will be a hundred and sixty dollars per week."
+        },
+        {
+          "s": "LYNDA",
+          "t": "You'll have to pay me three hundred and twenty dollars as a deposit before you move in."
+        },
+        {
+          "s": "LYNDA",
+          "t": "The deposit is as insurance, in case you break something.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "LYNDA",
+          "t": "You'll need to pay monthly to me, by cash or cheque, I don't mind.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "LYNDA",
+          "t": "You don't need to pay for gas, electricity or water, but you will need to pay your proportion of the phone bill.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "LYNDA",
+          "t": "Most families do that on an honour system, but you'll have to wait and see."
+        },
+        {
+          "s": "SARA",
+          "t": "Mmm."
+        },
+        {
+          "s": "LYNDA",
+          "t": "Have you got any more questions for me?"
+        },
+        {
+          "s": "SARA",
+          "t": "When will you know where I can go?"
+        },
+        {
+          "s": "LYNDA",
+          "t": "I'll work on it now. so come and see me tomorrow and I should have some news for you then."
+        },
+        {
+          "s": "SARA",
+          "t": "Thanks a lot."
+        },
+        {
+          "s": "LYNDA",
+          "t": "Goodbye."
+        },
+        {
+          "s": "LYNDA",
+          "t": "See you tomorrow- after lunch would be better for me."
+        },
+        {
+          "s": "SARA",
+          "t": "OK, see you then."
+        },
+        {
+          "s": "SARA",
+          "t": "Bye."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c4/t3p2.mp3",
+      "duration": 0,
+      "title": "Focus on the Arts: Summer Festival",
+      "groups": [
+        {
+          "range": [
+            11,
+            14
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 11,
+              "text": "When is this year's festival being held?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "1-13 January"
+                },
+                {
+                  "k": "B",
+                  "text": "5-17 January"
+                },
+                {
+                  "k": "C",
+                  "text": "25-31 January"
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "What will the reviewer concentrate on today?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "theatre"
+                },
+                {
+                  "k": "B",
+                  "text": "dance"
+                },
+                {
+                  "k": "C",
+                  "text": "exhibitions"
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "How many circuses are there in the festival?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "one"
+                },
+                {
+                  "k": "B",
+                  "text": "two"
+                },
+                {
+                  "k": "C",
+                  "text": "several"
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "Where does Circus Romano perform?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "in a theatre"
+                },
+                {
+                  "k": "B",
+                  "text": "in a tent"
+                },
+                {
+                  "k": "C",
+                  "text": "in a stadium"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            20
+          ],
+          "type": "table",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS for each answer.",
+          "title": "Festival circus and puppet performances",
+          "table": {
+            "head": [
+              "",
+              "Where",
+              "Type of performance",
+              "Highlights",
+              "Type of audience"
+            ],
+            "rows": [
+              [
+                "Circus Romano",
+                "",
+                "Clowns and acrobats",
+                "Music and {{15}}",
+                "{{16}}"
+              ],
+              [
+                "Circus Electrica",
+                "{{17}}",
+                "Dancers and magicians",
+                "Aerial displays",
+                "{{18}}"
+              ],
+              [
+                "Mekong Water Puppets",
+                "{{19}}",
+                "Puppets",
+                "Seeing the puppeteers at the end",
+                "{{20}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "GEOFFREY",
+          "t": "Good evening, and in this week's edition of 'Focus on the Arts'."
+        },
+        {
+          "s": "GEOFFREY",
+          "t": "Jane Hemmington is going to fill us in on what's in store for us at this year's Summer Festival."
+        },
+        {
+          "s": "GEOFFREY",
+          "t": "Over to you, Jane."
+        },
+        {
+          "s": "JANE",
+          "t": "Thank you, Geoffrey."
+        },
+        {
+          "s": "JANE",
+          "t": "This year, the Summer Festival is the biggest we've ever seen, so there should be something for everybody."
+        },
+        {
+          "s": "JANE",
+          "t": "This is the third year they 've run it and the timing's slightly different: for the last couple of years it's been around the fifth to seventeenth, but this year they wanted to allow everyone enough time to recover from the first of January celebrations and they've put it at the end of the month.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "The programme has sensational theatre, dance and also a large number of art exhibitions, but the thing the Festival is most famous for is its great street music."
+        },
+        {
+          "s": "JANE",
+          "t": "For today 's report though, Geoffrey, I'm looking at some of . the theatrical events that you might like to see; in particular, at this year's theme-- circuses.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "I'm going to tell you about two circus performances, but there are several others in the programme.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "I've chosen these because they represent distinct movements within Circus performance."
+        },
+        {
+          "s": "JANE",
+          "t": "The first is the Circus Romano from Italy."
+        },
+        {
+          "s": "JANE",
+          "t": "As this is a travelling circus, it follows a long tradition by performing in a marquee - which is really like a canvas portable building, usually put up in a green space or car park, rather than in a theatre or stadium.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "In spite of this, Circus Romano isn't at all like the traditional circuses I grew up with."
+        },
+        {
+          "s": "JANE",
+          "t": "There are no animals -just very talented clowning and acrobatic routines."
+        },
+        {
+          "s": "JANE",
+          "t": "The show has a lot of very funny moments, especially at the beginning, but the best part is the music and lighting."
+        },
+        {
+          "s": "JANE",
+          "t": "They're magical."
+        },
+        {
+          "s": "JANE",
+          "t": "At forty-five dollars it's very expensive anyway- it's really for adult tastes.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "In fact, much of it would be wasted on children - so I suggest you leave them at home.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "The second circus performance is Circus Electrica at the Studio Theatre.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "The purists are suggesting that this isn't a circus at all."
+        },
+        {
+          "s": "JANE",
+          "t": "It's a showcase for skills in dance and magic, rather than the usual ones you expect in a circus."
+        },
+        {
+          "s": "JANE",
+          "t": "With only six performers it's a small production, which suits the venue well - the Studio only seats about two hundred people."
+        },
+        {
+          "s": "JANE",
+          "t": "For my money it's the aerial displays which are outstanding as well as the magical tricks - features which are missing from Circus Romano ."
+        },
+        {
+          "s": "JANE",
+          "t": "An interesting feature of the show is that the performers are so young - the youngest is only fourteen."
+        },
+        {
+          "s": "JANE",
+          "t": "But it's still well worth seeing: a good one for the whole family.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "And finally, as it's summer, you may wish to see some of the Festival performances that are being presented outdoors."
+        },
+        {
+          "s": "JANE",
+          "t": "Like the famous Mekong Water Puppet Troupe, performing in the City Gardens this week.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "Now, water puppetry is amazing!"
+        },
+        {
+          "s": "JANE",
+          "t": "It's large puppets on long sticks, controlled by puppeteers standing waist deep in the lake."
+        },
+        {
+          "s": "JANE",
+          "t": "The puppets do comedy routines and there is some terrific formation dancing."
+        },
+        {
+          "s": "JANE",
+          "t": "This is a fantastic show and the best moment comes at the end - seeing the puppeteers."
+        },
+        {
+          "s": "JANE",
+          "t": "When the troupe walks up out of the water, you get this amazing feeling ."
+        },
+        {
+          "s": "JANE",
+          "t": "It's really hard to believe that what you've been watching is lifeless wood and cloth."
+        },
+        {
+          "s": "JANE",
+          "t": "As an adult, I had a great time, but I did note that other older people in the audience weren't quite as taken with it as I was."
+        },
+        {
+          "s": "JANE",
+          "t": "It's a must for young children though, and that's the audience it's really aimed at.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "Well, that's all I've time for today, but I'll be back next week with more news of what's worth seeing and what it's best to miss."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c4/t3p3.mp3",
+      "duration": 0,
+      "title": "Student Learning Support Courses",
+      "groups": [
+        {
+          "range": [
+            21,
+            25
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 21,
+              "text": "The man wants information on courses for",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "people going back to college."
+                },
+                {
+                  "k": "B",
+                  "text": "postgraduate students."
+                },
+                {
+                  "k": "C",
+                  "text": "business executives."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "The 'Study for Success' seminar lasts for",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "one day."
+                },
+                {
+                  "k": "B",
+                  "text": "two days."
+                },
+                {
+                  "k": "C",
+                  "text": "three days."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "In the seminar the work on writing aims to improve",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "confidence."
+                },
+                {
+                  "k": "B",
+                  "text": "speed."
+                },
+                {
+                  "k": "C",
+                  "text": "clarity."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "Reading sessions help students to read",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "analytically."
+                },
+                {
+                  "k": "B",
+                  "text": "as fast as possible."
+                },
+                {
+                  "k": "C",
+                  "text": "thoroughly."
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "The seminar tries to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "prepare learners physically."
+                },
+                {
+                  "k": "B",
+                  "text": "encourage interest in learning."
+                },
+                {
+                  "k": "C",
+                  "text": "develop literacy skills."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            26,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 26,
+              "text": "A key component of the course is learning how to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "use time effectively."
+                },
+                {
+                  "k": "B",
+                  "text": "stay healthy."
+                },
+                {
+                  "k": "C",
+                  "text": "select appropriate materials."
+                }
+              ]
+            },
+            {
+              "n": 27,
+              "text": "Students who want to do the 'Study for Success' seminar should",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "register with the Faculty Office."
+                },
+                {
+                  "k": "B",
+                  "text": "contact their Course Convenor."
+                },
+                {
+                  "k": "C",
+                  "text": "reserve a place in advance."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "The 'Learning Skills for University Study' course takes place on",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Monday, Wednesday and Friday."
+                },
+                {
+                  "k": "B",
+                  "text": "Monday, Tuesday and Wednesday."
+                },
+                {
+                  "k": "C",
+                  "text": "Monday, Thursday and Friday."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "A feature of this course is",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a physical training component."
+                },
+                {
+                  "k": "B",
+                  "text": "advice on coping with stress."
+                },
+                {
+                  "k": "C",
+                  "text": "a detailed weekly planner."
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "The man chooses the 'Study for Success' seminar because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "he is over forty."
+                },
+                {
+                  "k": "B",
+                  "text": "he wants to start at the beginning."
+                },
+                {
+                  "k": "C",
+                  "text": "he seeks to revise his skills."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "OFFICER",
+          "t": "Hello."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Er, I'm Dawn Matthews."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Yes, hello."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I've been referred to you because I'm enquiring about the refresher courses that you run."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'd like to find out a bit more about them."
+        },
+        {
+          "s": "OFFICER",
+          "t": "OK."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Well, we run quite a few different short courses for students who are either returning to study or studying part-time."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Urn, tell me about your situation.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "Well, I think that I really need some help in preparing for the coming semester, especially to build up my confidence a bit and help me study effectively because, you see, I've been out in the work-force for nearly twelve years now, so it really is a long time since I was last a student."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Yes, it can seem like a long time, can't it?"
+        },
+        {
+          "s": "OFFICER",
+          "t": "Urn, well, let me start by telling you what courses we have that might suit you."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Are you an undergraduate or a postgraduate?"
+        },
+        {
+          "s": "OFFICER",
+          "t": "Arts or Sciences?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Undergraduate, and I'm in the Business faculty."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Right then."
+        },
+        {
+          "s": "OFFICER",
+          "t": "First of all, there's our intensive 'Study for Success' seminar on the first and second of February."
+        },
+        {
+          "s": "OFFICER",
+          "t": "It's aimed at students like you who are uncertain about what to expect at college, and looks at a fairly wide range of approaches to university learning, to motivate you to begin your study and build on your own learning strategies.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "Mm, that sounds good."
+        },
+        {
+          "s": "STUDENT",
+          "t": "What are some of the strategies that are presented?"
+        },
+        {
+          "s": "OFFICER",
+          "t": "Well, we try to cover all aspects of study."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Some of the strategies in writing, for example, would be improving your planning for writing, organising your thinking and building some techniques to help you write more clearly."
+        },
+        {
+          "s": "OFFICER",
+          "t": "With reading, there'll be sessions aimed at getting into the habit of analysing material as you read it, and tips to help you record and remember what you have read.",
+          "q": [
+            23,
+            24
+          ]
+        },
+        {
+          "s": "OFFICER",
+          "t": "It really is very important to begin reading confidently right from the beginning."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Mm."
+        },
+        {
+          "s": "OFFICER",
+          "t": "There's also advice on how to get the most from your lectures and practice in giving confident presentations, as well as how to prepare for exams."
+        },
+        {
+          "s": "STUDENT",
+          "t": "What about the motivational side of things?"
+        },
+        {
+          "s": "OFFICER",
+          "t": "Ah."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Well, there's a range of motivational exercises that we do to help the students feel positive and enthusiastic about their study."
+        },
+        {
+          "s": "OFFICER",
+          "t": "The process of learning and exploring a subject can lead to a whole new way of looking at the world, and the study skills and techniques that you build up can be applied in all sorts of different ways.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "Actually, I ..."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'm very excited about the whole thing of taking up studying again but, you know, I'm a little nervous about whether I'll manage to get everything done."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I suppose it's the same for all mature students?"
+        },
+        {
+          "s": "OFFICER",
+          "t": "Of course it is."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Two of the key components of the course are time management and overcoming procrastination.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "OFFICER",
+          "t": "People discover that, once they learn to plan their days, all the work can be accomplished and there'll still be time for leisure."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Is there an enrolment fee?"
+        },
+        {
+          "s": "OFFICER",
+          "t": "Well, er. oh. just a minute, let's see .. ."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Ah, the cost is thirty pounds, which includes all course materials and morning tea."
+        },
+        {
+          "s": "OFFICER",
+          "t": "You have to arrange your own lunch."
+        },
+        {
+          "s": "STUDENT",
+          "t": "That wouldn't be a problem."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I already make sandwiches for my three kids and my wife and myself every day."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I won't have to change my routine."
+        },
+        {
+          "s": "OFFICER",
+          "t": "No."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Now, I need to tell you that this is a very popular course and it's essential that you book well ahead of time."
+        },
+        {
+          "s": "OFFICER",
+          "t": "In fact. the Course Convenor tells me that there are only five places left.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "What other course might be good for me?"
+        },
+        {
+          "s": "OFFICER",
+          "t": "There is one other that you could benefit from."
+        },
+        {
+          "s": "OFFICER",
+          "t": "It's simply called 'Learning Skills for University Study' and is on three consecutive mornings starting on a Monday. from nine to twelve, and costs twenty-five pounds.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "OFFICER",
+          "t": "This is aimed at upgrading the study skills most school-leavers have and help them cope with the increased demands of university study."
+        },
+        {
+          "s": "OFFICER",
+          "t": "It focuses mainly on making students more responsible for their own success."
+        },
+        {
+          "s": "STUDENT",
+          "t": "What sort of things are covered in this course?"
+        },
+        {
+          "s": "OFFICER",
+          "t": "Well, basically it's more advanced thinking, note-taking. reading and writing strategies, but also some input about stress management.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "I think I'd be better off starting from the basics and looking at all the strategies, don't you?",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "OFFICER",
+          "t": "Yes, from what you've told me, I think that's more in line with your situation."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Alright then, urn, can I book a place on the 'Study for Success' seminar course now?"
+        },
+        {
+          "s": "OFFICER",
+          "t": "Yes."
+        },
+        {
+          "s": "OFFICER",
+          "t": "Let me just get out a registration form and take down your details."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c4/t3p4.mp3",
+      "duration": 0,
+      "title": "New Union Building: Student Suggestions",
+      "groups": [
+        {
+          "range": [
+            31,
+            32
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "New Union Building",
+          "lines": [
+            "Procedures to establish student opinion:",
+            "students were asked to give written suggestions on the building's design",
+            "these points informed the design of a {{31}}",
+            "(there were {{32}} respondents)",
+            "results collated and report produced by Union Committee"
+          ]
+        },
+        {
+          "range": [
+            33,
+            37
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS for each answer.",
+          "title": "Choice of Site",
+          "table": {
+            "head": [
+              "",
+              "Site One",
+              "Site Two",
+              "Site Three"
+            ],
+            "rows": [
+              [
+                "Location",
+                "City centre near Faculty of {{33}}",
+                "Outskirts near park",
+                "Out of town near the {{34}}"
+              ],
+              [
+                "Advantages and/or disadvantages",
+                "Problems with {{35}}",
+                "Close to {{36}}",
+                "Access to living quarters. Larger site, so more {{37}}"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            38,
+            38
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters A-G.",
+          "text": "Which TWO facilities did the students request in the new Union building?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "a library"
+            },
+            {
+              "k": "B",
+              "text": "a games room"
+            },
+            {
+              "k": "C",
+              "text": "a student health centre"
+            },
+            {
+              "k": "D",
+              "text": "a mini fitness centre"
+            },
+            {
+              "k": "E",
+              "text": "a large swimming pool"
+            },
+            {
+              "k": "F",
+              "text": "a travel agency"
+            },
+            {
+              "k": "G",
+              "text": "a lecture theatre"
+            }
+          ]
+        },
+        {
+          "range": [
+            39,
+            39
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 39,
+              "text": "Which argument was used AGAINST having a drama theatre?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It would be expensive and no students would use it."
+                },
+                {
+                  "k": "B",
+                  "text": "It would be a poor use of resources because only a minority would use it."
+                },
+                {
+                  "k": "C",
+                  "text": "It could not accommodate large productions of plays."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            40,
+            40
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters A-E.",
+          "text": "Which TWO security measures have been requested?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "closed-circuit TV"
+            },
+            {
+              "k": "B",
+              "text": "show Union Card on entering the building"
+            },
+            {
+              "k": "C",
+              "text": "show Union Card when asked"
+            },
+            {
+              "k": "D",
+              "text": "spot searches of bags"
+            },
+            {
+              "k": "E",
+              "text": "permanent Security Office on site"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "We're very grateful that the Committee has agreed that a representative for the Students' Union can present students' suggestions about the design for the proposed new Union building."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We appreciate that some of our ideas may not be feasible in the circumstances, but we do feel that it is important that the ultimate beneficiaries of the facilities should have some say in its design."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If I could start by briefly explaining what steps were taken to find out student opinion and how we have arrived at conclusions."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Firstly. a meeting was held in the current Union for our SU Committee to explain the options."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "T hen we invited all students to submit written suggestions for the design, placing cards in a suggestion box."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These suggestions then provided the basis for the design of a questionnaire. which was completed by approximately two thousand of the College students over a period of three weeks.",
+          "q": [
+            31,
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Finally, the SU Committee collated the results and drew up a report."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If I can just hand around a copy of that report."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This presentation is essentially a summary and discussion of the key points of this report."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, in broad terms, the consensus was as follows."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Firstly. regarding the crucial matter of the site, we presented the three options that you have proposed."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One: in the city centre, near the Faculty of Education: two: on the outskirts of the city, near the park, and three: out of town, near the halls of residence.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We asked students to cite reasons for and against these sites and, and there was remarkable agreement on all three.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Site One was unpopular because of traffic and parking problems."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Site Two had a number of supporters, mainly because it was close to most lecture rooms.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And Site Three, out of town , near the halls of residence. was clearly the most popular because of access from living quarters.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It was clear that the Union was mainly to be used after lectures."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It was also felt that the larger site would allow more room for a choice of facilities.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our second area of interest was obviously the facilities: there was minimal interest in having a library on the premises, but one option seemed to be a reading room instead - more useful."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We would like the current table games room to be replaced with a small gym.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And, if possible, a small swimming pool - not. of course, Olympic-sized!"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There was a large number of respondents in favour of a travel agent's and insurance centre.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We also request that there be the offices of the Student Counselling Centre, moving this from the Refectory."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There was, however, much disagreement about whether to build a drama theatre."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Just over forty per cent of the respondents were in favour, but a largish minority were strongly against it, claiming that it is elitist and a waste of funds.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Essentially the jury is out on that.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Finally, given the number of unfortunate incidents in the current Union over the past few months, a strong point was repeatedly made about security."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The recommendations would be at least video surveillance and security personnel who would check Student Union cards on request.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We doubt if it would be feasible to have a check at reception of all people coming in."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, this is the summary of the views of the student population."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As I say. fuller details are given in our report but I'm happy to take any questions if you have them . . ."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "(fade out)"
+        }
+      ]
+    }
+  ]
+}

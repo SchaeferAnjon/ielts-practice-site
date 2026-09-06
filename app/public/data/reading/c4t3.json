@@ -1,0 +1,846 @@
+{
+  "id": "c4t3",
+  "book": "剑桥雅思4",
+  "test": 3,
+  "title": "剑4 Test 3 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "A"
+    ],
+    "2": [
+      "D"
+    ],
+    "3": [
+      "C"
+    ],
+    "4": [
+      "C"
+    ],
+    "5": [
+      "Sudan and India",
+      "India and Sudan"
+    ],
+    "6": [
+      "bicycles"
+    ],
+    "7": [
+      "Shoe Shine",
+      "Shoe Shine Collective",
+      "the Shoe Shine Collective"
+    ],
+    "8": [
+      "life skills"
+    ],
+    "9": [
+      "NO"
+    ],
+    "10": [
+      "NOT GIVEN"
+    ],
+    "11": [
+      "NO"
+    ],
+    "12": [
+      "YES"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "iii"
+    ],
+    "15": [
+      "i"
+    ],
+    "16": [
+      "iv"
+    ],
+    "17": [
+      "vi"
+    ],
+    "18": [
+      "plates",
+      "the plates",
+      "the tectonic plates"
+    ],
+    "19": [
+      "magma"
+    ],
+    "20": [
+      "ring of fire",
+      "the ring of fire"
+    ],
+    "21": [
+      "600",
+      "600 years",
+      "for 600 years"
+    ],
+    "22": [
+      "water",
+      "the water",
+      "oceans",
+      "the oceans"
+    ],
+    "23": [
+      "lava",
+      "magma",
+      "molten rock"
+    ],
+    "24": [
+      "India",
+      "western India"
+    ],
+    "25": [
+      "explodes"
+    ],
+    "26": [
+      "gases",
+      "the gases",
+      "trapped gases"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "E"
+    ],
+    "29": [
+      "C"
+    ],
+    "30": [
+      "D"
+    ],
+    "31": [
+      "F"
+    ],
+    "32": [
+      "linguist",
+      "the linguist",
+      "linguist acts",
+      "the linguist acts",
+      "linguists",
+      "linguists act"
+    ],
+    "33": [
+      "foreign languages"
+    ],
+    "34": [
+      "quality",
+      "the quality",
+      "the poor quality"
+    ],
+    "35": [
+      "non-verbal behaviour",
+      "non-verbal behavior",
+      "facial expression",
+      "facial expressions"
+    ],
+    "36": [
+      "camera",
+      "video camera",
+      "recording",
+      "video recording"
+    ],
+    "37": [
+      "frequency of usage",
+      "usage frequency"
+    ],
+    "38": [
+      "particular linguistic feature"
+    ],
+    "39": [
+      "size"
+    ],
+    "40": [
+      "intuitions"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "why": "开头引言展示了参与者因加入 S.K.I. 项目而获得的具体好处（买早餐、买衣服、学理财等），这些都是 S.K.I. 项目效果的例证，对应 A exemplify the effects of S.K.I.。",
+      "key": "Ever since I joined the Street Kids International program I have been able to buy my family sugar and buns for breakfast."
+    },
+    "2": {
+      "loc": "p2",
+      "why": "背景段说明 S.K.I. 是通过商业培训和信贷来支持街头儿童的经济生活，对应 D give business training and loans to street children。",
+      "key": "Over the past nine years, Street Kids International (S.K.I.) has been working with partner organisations in Africa, Latin America and India to support the economic lives of street children."
+    },
+    "3": {
+      "loc": "p3",
+      "why": "原文列出的致因中 “the demand for income at home” 指向贫困，对应 C poverty。",
+      "key": "Typically, children do not end up on the streets due to a single cause, but to a combination of factors: a dearth of adequately funded schools, the demand for income at home, family breakdown and violence."
+    },
+    "4": {
+      "loc": "p3",
+      "why": "原文提到从事个体经营能让孩子更独立，对应 C set up their own businesses。",
+      "key": "Many children may choose entrepreneurship because it allows them a degree of independence, is less exploitative than many forms of paid employment, and is flexible enough to allow them to participate in other activities such as education and domestic tasks."
+    },
+    "5": {
+      "loc": "p4",
+      "why": "原文说该项目最先在苏丹启动，后来在印度班加罗尔也推行了类似项目，两个国家都符合，故写 Sudan and India。",
+      "key": "Bicycle Courier Service first started in the Sudan."
+    },
+    "6": {
+      "loc": "p4",
+      "why": "原文提到参与者获得的支持是 “supplied with bicycles”，对应 provision of bicycles。",
+      "key": "Participants in this enterprise were supplied with bicycles, which they used to deliver parcels and messages, and which they were required to pay for gradually from their wages."
+    },
+    "7": {
+      "loc": "p4",
+      "why": "原文明确该项目名称为 the Shoe Shine Collective。",
+      "key": "Another successful project, the Shoe Shine Collective, was a partnership program with the Y.W.C.A. in the Dominican Republic."
+    },
+    "8": {
+      "loc": "p4",
+      "why": "原文提到赞比亚项目提供 “business training, life skills training and access to credit”，第8空对应 life skills。",
+      "key": "Street youths are supported to start their own small business through business training, life skills training and access to credit."
+    },
+    "9": {
+      "loc": "p5",
+      "why": "原文说做企业家并非人人皆宜，与题干“任何街头儿童都可以”矛盾，故为 NO。",
+      "key": "Being an entrepreneur is not for everyone, nor for every street child."
+    },
+    "10": {
+      "loc": "p5",
+      "why": "原文提到让家长参与项目有好处，但未提及家庭本身是否需要经济支持，故为 NOT GIVEN。",
+      "key": "There are tremendous advantages to involving parents or guardians in the program, where such relationships exist."
+    },
+    "11": {
+      "loc": "p5",
+      "why": "原文提到贷款金额可随经验增加而提高，说明并非只给一次固定贷款，故为 NO。",
+      "key": "As the entrepreneurs gain experience, the enterprises can be gradually expanded and consideration can be given to increasing loan amounts."
+    },
+    "12": {
+      "loc": "p5",
+      "why": "原文提到所有项目都对贷款收取利息，意味着孩子们要还的钱比借的多，故为 YES。",
+      "key": "All S.K.I. programs have charged interest on the loans, primarily to get the entrepreneurs used to the concept of paying interest on borrowed money."
+    },
+    "13": {
+      "loc": "p6",
+      "why": "结论段提到信贷必须与其他类型的支持结合提供，对应 A as part of a wider program of aid。",
+      "key": "However, we believe that credit must be extended in association with other types of support that help participants develop critical life skills as well as productive businesses."
+    },
+    "14": {
+      "loc": "p1",
+      "why": "A 段描述火山如何塑造大陆、山脉和大气，对应标题 iii Volcanoes and the features of our planet。",
+      "key": "Vulcanism, the name given to volcanic processes, really has shaped the world."
+    },
+    "15": {
+      "loc": "p2",
+      "why": "B 段解释地壳板块运动和断裂带如何引发火山，对应标题 i Causes of volcanic eruption。",
+      "key": "These fracture zones, where the collisions occur, are where earthquakes happen."
+    },
+    "16": {
+      "loc": "p3",
+      "why": "C 段描述了缓慢、较快和极快三种不同的岩浆喷发方式，对应标题 iv Different types of volcanic eruption。",
+      "key": "Sometimes it is slow: vast bubbles of magma - molten rock from the mantle - inch towards the surface, cooling slowly, to show through as granite extrusions (as on Skye, or the Great Whin Sill, the lava dyke squeezed out like toothpaste that carries part of Hadrian's Wall in northern England)."
+    },
+    "17": {
+      "loc": "p4",
+      "why": "D 段强调火山喷发难以预测，对应标题 vi The unpredictability of volcanic eruptions。",
+      "key": "But volcanoes are not very predictable."
+    },
+    "18": {
+      "loc": "p2",
+      "why": "原文提到地壳破裂成 plates（板块），即答案。",
+      "key": "The flow, thought to be in the form of convection currents, is powerful enough to fracture the 'eggshell' of the crust into plates, and keep them bumping and grinding against each other, or even overlapping, at the rate of a few centimetres a year."
+    },
+    "19": {
+      "loc": "p3",
+      "why": "原文明确 “molten rock from the mantle” 被称为 magma。",
+      "key": "Sometimes it is slow: vast bubbles of magma - molten rock from the mantle - inch towards the surface, cooling slowly, to show through as granite extrusions (as on Skye, or the Great Whin Sill, the lava dyke squeezed out like toothpaste that carries part of Hadrian's Wall in northern England)."
+    },
+    "20": {
+      "loc": "p3",
+      "why": "原文提到太平洋地震带被称为 ring of fire。",
+      "key": "The most dramatic of these is the Pacific 'ring of fire' where there have been the most violent explosions - Mount Pinatubo near Manila, Mount St Helen's in the Rockies and El Chichón in Mexico about a decade ago, not to mention world-shaking blasts like Krakatoa in the Sunda Straits in 1883."
+    },
+    "21": {
+      "loc": "p4",
+      "why": "原文提到皮纳图博火山沉寂了 600 years。",
+      "key": "In the case of Mount Pinatubo, this took 600 years."
+    },
+    "22": {
+      "loc": "p1",
+      "why": "原文提到火山提供了海洋的水，对应空 22 water/oceans。",
+      "key": "Volcanoes have not only made the continents, they are also thought to have made the world's first stable atmosphere and provided all the water for the oceans, rivers and ice-caps."
+    },
+    "23": {
+      "loc": "p3",
+      "why": "原文描述缓慢移动的是岩浆 magma/lava，对应空 23。",
+      "key": "Sometimes it is slow: vast bubbles of magma - molten rock from the mantle - inch towards the surface, cooling slowly, to show through as granite extrusions (as on Skye, or the Great Whin Sill, the lava dyke squeezed out like toothpaste that carries part of Hadrian's Wall in northern England)."
+    },
+    "24": {
+      "loc": "p3",
+      "why": "原文提到印度西部德干高原也有类似厚层熔岩，对应答案 India。",
+      "key": "In the Deccan plateau in western India, there are more than two million cubic kilometres of lava, some of it 2,400 metres thick, formed over 500,000 years of slurping eruption."
+    },
+    "25": {
+      "loc": "p3",
+      "why": "原文描述岩浆快速喷发时 explodes with tremendous force，对应空 25。",
+      "key": "The gases trapped inside the boiling rock expand suddenly, the lava glows with heat, it begins to froth, and it explodes with tremendous force."
+    },
+    "26": {
+      "loc": "p3",
+      "why": "原文提到岩浆内部困住的气体（gases）突然膨胀导致爆炸，对应空 26。",
+      "key": "The gases trapped inside the boiling rock expand suddenly, the lava glows with heat, it begins to froth, and it explodes with tremendous force."
+    },
+    "27": {
+      "loc": "p4",
+      "why": "D 段提到人们知道被录音时说话方式会不自然，对应录音对说话方式的影响。",
+      "key": "People talk abnormally when they know they are being recorded, and sound quality can be poor."
+    },
+    "28": {
+      "loc": "p5",
+      "why": "E 段强调需要用文字记录说明非语言行为（如面部表情）的重要性，对应做笔记记录肢体语言。",
+      "key": "Where possible, therefore, the recording has to be supplemented by the observer's written comments on the non-verbal behaviour of the participants, and about the context in general."
+    },
+    "29": {
+      "loc": "p3",
+      "why": "C 段提到社交场合的特征（如正式程度）会影响所使用的语言，对应语言受社会情境影响。",
+      "key": "The topic of conversation and the characteristics of the social setting (e.g. the level of formality) are also highly relevant, as are the personal qualities of the informants (e.g. their fluency and consistency)."
+    },
+    "30": {
+      "loc": "p4",
+      "why": "D 段描述了让说话者忘记被录音的技巧（如把录音机藏起来），对应帮助 informants 减少拘谨感的方法。",
+      "key": "Alternatively, attempts can be made to make the speaker forget about the recording, such as keeping the tape recorder out of sight, or using radio microphones."
+    },
+    "31": {
+      "loc": "p6",
+      "why": "F 段列举了多种可用于获取特定语言数据的方法（翻译技巧、填空练习等），对应“生成特定数据的多种方法”。",
+      "key": "Often, the researcher wishes to obtain information about just a single variable, in which case a restricted set of questions may be used: a particular feature of pronunciation, for example, can be elicited by asking the informant to say a restricted set of words."
+    },
+    "32": {
+      "loc": "p2",
+      "why": "原文提到语言学家常常以自己作为语料提供者（act as their own informants），对应表格中的 linguist。",
+      "key": "Often, when studying their mother tongue, linguists act as their own informants, judging the ambiguity, acceptability, or other properties of utterances against their own intuitions."
+    },
+    "33": {
+      "loc": "p2",
+      "why": "原文提到使用非语言学家作为语料提供者，在研究外语（foreign languages）或儿童语言时是不可避免的。",
+      "key": "The latter procedure is unavoidable when working on foreign languages, or child speech."
+    },
+    "34": {
+      "loc": "p4",
+      "why": "原文提到录音的缺点是 sound quality can be poor，对应表格中的 disadvantage。",
+      "key": "People talk abnormally when they know they are being recorded, and sound quality can be poor."
+    },
+    "35": {
+      "loc": "p5",
+      "why": "原文提到录像的优点是可以观察说话者的非语言行为（non-verbal behaviour）。",
+      "key": "Where possible, therefore, the recording has to be supplemented by the observer's written comments on the non-verbal behaviour of the participants, and about the context in general."
+    },
+    "36": {
+      "loc": "p5",
+      "why": "原文提到录像的局限是摄像机不能面面俱到，对应答案 camera。",
+      "key": "Video recordings avoid these problems to a large extent, but even they have limitations (the camera cannot be everywhere), and transcriptions always benefit from any additional commentary provided by an observer."
+    },
+    "37": {
+      "loc": "p7",
+      "why": "原文提到语料库能让语言学家客观陈述使用频率（frequency of usage）。",
+      "key": "A corpus enables the linguist to make unbiased statements about frequency of usage, and it provides accessible data for the use of different researchers."
+    },
+    "38": {
+      "loc": "p7",
+      "why": "原文提到有些语料库很有选择性，只涉及某个特定的语言特征（particular linguistic feature）。",
+      "key": "Some corpora attempt to cover the language as a whole, taking extracts from many kinds of text; others are extremely selective, providing a collection of material that deals only with a particular linguistic feature."
+    },
+    "39": {
+      "loc": "p7",
+      "why": "原文提到语料库的大小（size）取决于收集、处理和存储数据所需的时间等实际因素。",
+      "key": "The size of the corpus depends on practical factors, such as the time available to collect, process and store the data: it can take up to several hours to provide an accurate transcription of a few minutes of speech."
+    },
+    "40": {
+      "loc": "p7",
+      "why": "原文提到语料库总需要依靠母语者的直觉（intuitions）来补充。",
+      "key": "An important principle is that all corpora, whatever their size, are inevitably limited in their coverage, and always need to be supplemented by data derived from the intuitions of native speakers of the language, through either introspection or experimentation."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Micro-Enterprise Credit for Street Youth",
+      "intro": "You should spend about 20 minutes on Questions 1-13 which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "'I am from a large, poor family and for many years we have done without breakfast. Ever since I joined the Street Kids International program I have been able to buy my family sugar and buns for breakfast. I have also bought myself decent second-hand clothes and shoes.'\nDoreen Soko\n\n'We've had business experience. Now I'm confident to expand what we've been doing. I've learnt cash management, and the way of keeping money so we save for re-investment. Now business is a part of our lives. As well, we didn't know each other before - now we've made new friends.'\nFan Kaoma\n\nParticipants in the Youth Skills Enterprise Initiative Program, Zambia"
+        },
+        {
+          "id": "p2",
+          "text": "Although small-scale business training and credit programs have become more common throughout the world, relatively little attention has been paid to the need to direct such opportunities to young people. Even less attention has been paid to children living on the streets or in difficult circumstances.\n\nOver the past nine years, Street Kids International (S.K.I.) has been working with partner organisations in Africa, Latin America and India to support the economic lives of street children. The purpose of this paper is to share some of the lessons S.K.I. and our partners have learned."
+        },
+        {
+          "id": "p3",
+          "text": "Typically, children do not end up on the streets due to a single cause, but to a combination of factors: a dearth of adequately funded schools, the demand for income at home, family breakdown and violence. The street may be attractive to children as a place to find adventurous play and money. However, it is also a place where some children are exposed, with little or no protection, to exploitative employment, urban crime, and abuse.\n\nChildren who work on the streets are generally involved in unskilled, labour-intensive tasks which require long hours, such as shining shoes, carrying goods, guarding or washing cars, and informal trading. Some may also earn income through begging, or through theft and other illegal activities. At the same time, there are street children who take pride in supporting themselves and their families and who often enjoy their work. Many children may choose entrepreneurship because it allows them a degree of independence, is less exploitative than many forms of paid employment, and is flexible enough to allow them to participate in other activities such as education and domestic tasks."
+        },
+        {
+          "id": "p4",
+          "text": "S.K.I. has worked with partner organisations in Latin America, Africa and India to develop innovative opportunities for street children to earn income.\n\nThe S.K.I. Bicycle Courier Service first started in the Sudan. Participants in this enterprise were supplied with bicycles, which they used to deliver parcels and messages, and which they were required to pay for gradually from their wages. A similar program was taken up in Bangalore, India.\n\nAnother successful project, the Shoe Shine Collective, was a partnership program with the Y.W.C.A. in the Dominican Republic. In this project, participants were lent money to purchase shoe shine boxes. They were also given a safe place to store their equipment, and facilities for individual savings plans.\n\nThe Youth Skills Enterprise Initiative in Zambia is a joint program with the Red Cross Society and the Y.W.C.A. Street youths are supported to start their own small business through business training, life skills training and access to credit."
+        },
+        {
+          "id": "p5",
+          "text": "The following lessons have emerged from the programs that S.K.I. and partner organisations have created.\n\nBeing an entrepreneur is not for everyone, nor for every street child. Ideally, potential participants will have been involved in the organisation's programs for at least six months, and trust and relationship-building will have already been established.\n\nThe involvement of the participants has been essential to the development of relevant programs. When children have had a major role in determining procedures, they are more likely to abide by and enforce them.\n\nIt is critical for all loans to be linked to training programs that include the development of basic business and life skills.\n\nThere are tremendous advantages to involving parents or guardians in the program, where such relationships exist. Home visits allow staff the opportunity to know where the participants live, and to understand more about each individual's situation.\n\nSmall loans are provided initially for purchasing fixed assets such as bicycles, shoe shine kits and basic building materials for a market stall. As the entrepreneurs gain experience, the enterprises can be gradually expanded and consideration can be given to increasing loan amounts. The loan amounts in S.K.I. programs have generally ranged from US$30-100.\n\nAll S.K.I. programs have charged interest on the loans, primarily to get the entrepreneurs used to the concept of paying interest on borrowed money. Generally the rates have been modest (lower than bank rates)."
+        },
+        {
+          "id": "p6",
+          "text": "There is a need to recognise the importance of access to credit for impoverished young people seeking to fulfil economic needs. The provision of small loans to support the entrepreneurial dreams and ambitions of youth can be an effective means to help them change their lives. However, we believe that credit must be extended in association with other types of support that help participants develop critical life skills as well as productive businesses."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            4
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 1,
+              "text": "The quotations in the box at the beginning of the article",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "exemplify the effects of S.K.I."
+                },
+                {
+                  "k": "B",
+                  "text": "explain why S.K.I. was set up."
+                },
+                {
+                  "k": "C",
+                  "text": "outline the problems of street children."
+                },
+                {
+                  "k": "D",
+                  "text": "highlight the benefits to society of S.K.I."
+                }
+              ]
+            },
+            {
+              "n": 2,
+              "text": "The main purpose of S.K.I. is to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "draw the attention of governments to the problem of street children."
+                },
+                {
+                  "k": "B",
+                  "text": "provide schools and social support for street children."
+                },
+                {
+                  "k": "C",
+                  "text": "encourage the public to give money to street children."
+                },
+                {
+                  "k": "D",
+                  "text": "give business training and loans to street children."
+                }
+              ]
+            },
+            {
+              "n": 3,
+              "text": "Which of the following is mentioned by the writer as a reason why children end up living on the streets?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "unemployment"
+                },
+                {
+                  "k": "B",
+                  "text": "war"
+                },
+                {
+                  "k": "C",
+                  "text": "poverty"
+                },
+                {
+                  "k": "D",
+                  "text": "crime"
+                }
+              ]
+            },
+            {
+              "n": 4,
+              "text": "In order to become more independent, street children may",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "reject paid employment."
+                },
+                {
+                  "k": "B",
+                  "text": "leave their families."
+                },
+                {
+                  "k": "C",
+                  "text": "set up their own businesses."
+                },
+                {
+                  "k": "D",
+                  "text": "employ other children."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            5,
+            8
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Choose NO MORE THAN THREE WORDS from Reading Passage 1 for each answer.",
+          "title": "Street Business Partnerships",
+          "table": {
+            "head": [
+              "Country",
+              "Organisations Involved",
+              "Type of Project",
+              "Support Provided"
+            ],
+            "rows": [
+              [
+                "{{5}}",
+                "S.K.I.",
+                "courier service",
+                "provision of {{6}}"
+              ],
+              [
+                "Dominican Republic",
+                "S.K.I.\nY.W.C.A.",
+                "{{7}}",
+                "loans\nstorage facilities\nsavings plans"
+              ],
+              [
+                "Zambia",
+                "S.K.I.\nThe Red Cross\nY.W.C.A.",
+                "setting up small businesses",
+                "business training\n{{8}} training\naccess to credit"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            9,
+            12
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 1?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 9,
+              "text": "Any street child can set up their own small business if given enough support."
+            },
+            {
+              "n": 10,
+              "text": "In some cases, the families of street children may need financial support from S.K.I."
+            },
+            {
+              "n": 11,
+              "text": "Only one fixed loan should be given to each child."
+            },
+            {
+              "n": 12,
+              "text": "The children have to pay back slightly more money than they borrowed."
+            }
+          ]
+        },
+        {
+          "range": [
+            13,
+            13
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 13,
+              "text": "The writers conclude that money should only be lent to street children",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "as part of a wider program of aid."
+                },
+                {
+                  "k": "B",
+                  "text": "for programs that are not too ambitious."
+                },
+                {
+                  "k": "C",
+                  "text": "when programs are supported by local businesses."
+                },
+                {
+                  "k": "D",
+                  "text": "if the projects planned are realistic and useful."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Volcanoes - earth-shattering news",
+      "subtitle": "When Mount Pinatubo suddenly erupted on 9 June 1991, the power of volcanoes past and present again hit the headlines",
+      "intro": "You should spend about 20 minutes on Questions 14-26 which are based on Reading Passage 2 on the following pages.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "label": "A",
+          "text": "Volcanoes are the ultimate earth-moving machinery. A violent eruption can blow the top few kilometres off a mountain, scatter fine ash practically all over the globe and hurl rock fragments into the stratosphere to darken the skies a continent away.\n\nBut the classic eruption - cone-shaped mountain, big bang, mushroom cloud and surges of molten lava - is only a tiny part of a global story. Vulcanism, the name given to volcanic processes, really has shaped the world. Eruptions have rifted continents, raised mountain chains, constructed islands and shaped the topography of the earth. The entire ocean floor has a basement of volcanic basalt.\n\nVolcanoes have not only made the continents, they are also thought to have made the world's first stable atmosphere and provided all the water for the oceans, rivers and ice-caps. There are now about 600 active volcanoes. Every year they add two or three cubic kilometres of rock to the continents. Imagine a similar number of volcanoes smoking away for the last 3,500 million years. That is enough rock to explain the continental crust.\n\nWhat comes out of volcanic craters is mostly gas. More than 90% of this gas is water vapour from the deep earth: enough to explain, over 3,500 million years, the water in the oceans. The rest of the gas is nitrogen, carbon dioxide, sulphur dioxide, methane, ammonia and hydrogen. The quantity of these gases, again multiplied over 3,500 million years, is enough to explain the mass of the world's atmosphere. We are alive because volcanoes provided the soil, air and water we need."
+        },
+        {
+          "id": "p2",
+          "label": "B",
+          "text": "Geologists consider the earth as having a molten core, surrounded by a semi-molten mantle and a brittle, outer skin. It helps to think of a soft-boiled egg with a runny yolk, a firm but squishy white and a hard shell. If the shell is even slightly cracked during boiling, the white material bubbles out and sets like a tiny mountain chain over the crack - like an archipelago of volcanic islands such as the Hawaiian Islands. But the earth is so much bigger and the mantle below is so much hotter.\n\nEven though the mantle rocks are kept solid by overlying pressure, they can still slowly 'flow' like thick treacle. The flow, thought to be in the form of convection currents, is powerful enough to fracture the 'eggshell' of the crust into plates, and keep them bumping and grinding against each other, or even overlapping, at the rate of a few centimetres a year. These fracture zones, where the collisions occur, are where earthquakes happen. And, very often, volcanoes."
+        },
+        {
+          "id": "p3",
+          "label": "C",
+          "text": "These zones are lines of weakness, or hot spots. Every eruption is different, but put at its simplest, where there are weaknesses, rocks deep in the mantle, heated to 1,350°C, will start to expand and rise. As they do so, the pressure drops, and they expand and become liquid and rise more swiftly.\n\nSometimes it is slow: vast bubbles of magma - molten rock from the mantle - inch towards the surface, cooling slowly, to show through as granite extrusions (as on Skye, or the Great Whin Sill, the lava dyke squeezed out like toothpaste that carries part of Hadrian's Wall in northern England). Sometimes - as in Northern Ireland, Wales and the Karoo in South Africa - the magma rose faster, and then flowed out horizontally on to the surface in vast thick sheets. In the Deccan plateau in western India, there are more than two million cubic kilometres of lava, some of it 2,400 metres thick, formed over 500,000 years of slurping eruption.\n\nSometimes the magma moves very swiftly indeed. It does not have time to cool as it surges upwards. The gases trapped inside the boiling rock expand suddenly, the lava glows with heat, it begins to froth, and it explodes with tremendous force. Then the slightly cooler lava following it begins to flow over the lip of the crater. It happens on Mars, it happened on the moon, it even happens on some of the moons of Jupiter and Uranus. By studying the evidence, vulcanologists can read the force of the great blasts of the past. Is the pumice light and full of holes? The explosion was tremendous. Are the rocks heavy, with huge crystalline basalt shapes, like the Giant's Causeway in Northern Ireland? It was a slow, gentle eruption.\n\nThe biggest eruptions are deep on the mid-ocean floor, where new lava is forcing the continents apart and widening the Atlantic by perhaps five centimetres a year. Look at maps of volcanoes, earthquakes and island chains like the Philippines and Japan, and you can see the rough outlines of what are called tectonic plates - the plates which make up the earth's crust and mantle. The most dramatic of these is the Pacific 'ring of fire' where there have been the most violent explosions - Mount Pinatubo near Manila, Mount St Helen's in the Rockies and El Chichón in Mexico about a decade ago, not to mention world-shaking blasts like Krakatoa in the Sunda Straits in 1883."
+        },
+        {
+          "id": "p4",
+          "label": "D",
+          "text": "But volcanoes are not very predictable. That is because geological time is not like human time. During quiet periods, volcanoes cap themselves with their own lava by forming a powerful cone from the molten rocks slopping over the rim of the crater; later the lava cools slowly into a huge, hard, stable plug which blocks any further eruption until the pressure below becomes irresistible. In the case of Mount Pinatubo, this took 600 years.\n\nThen, sometimes, with only a small warning, the mountain blows its top. It did this at Mont Pelee in Martinique at 7.49 a.m. on 8 May, 1902. Of a town of 28,000, only two people survived. In 1815, a sudden blast removed the top 1,280 metres of Mount Tambora in Indonesia. The eruption was so fierce that dust thrown into the stratosphere darkened the skies, cancelling the following summer in Europe and North America. Thousands starved as the harvests failed, after snow in June and frosts in August. Volcanoes are potentially world news, especially the quiet ones."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            17
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 2 has four sections A-D. Choose the correct heading for each section from the list of headings below.",
+          "limit": "Write the correct number i-vi in boxes 14-17 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "Causes of volcanic eruption"
+            },
+            {
+              "k": "ii",
+              "text": "Efforts to predict volcanic eruption"
+            },
+            {
+              "k": "iii",
+              "text": "Volcanoes and the features of our planet"
+            },
+            {
+              "k": "iv",
+              "text": "Different types of volcanic eruption"
+            },
+            {
+              "k": "v",
+              "text": "International relief efforts"
+            },
+            {
+              "k": "vi",
+              "text": "The unpredictability of volcanic eruptions"
+            }
+          ],
+          "items": [
+            {
+              "n": 14,
+              "text": "Section A"
+            },
+            {
+              "n": 15,
+              "text": "Section B"
+            },
+            {
+              "n": 16,
+              "text": "Section C"
+            },
+            {
+              "n": 17,
+              "text": "Section D"
+            }
+          ]
+        },
+        {
+          "range": [
+            18,
+            21
+          ],
+          "type": "notes",
+          "instruction": "Answer the questions below.",
+          "limit": "Use NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+          "lines": [
+            "What are the sections of the earth's crust, often associated with volcanic activity, called? {{18}}",
+            "What is the name given to molten rock from the mantle? {{19}}",
+            "What is the earthquake zone on the Pacific Ocean called? {{20}}",
+            "For how many years did Mount Pinatubo remain inactive? {{21}}"
+          ]
+        },
+        {
+          "range": [
+            22,
+            26
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "text": "Volcanic eruptions have shaped the earth's land surface. They may also have produced the world's atmosphere and {{22}}. Eruptions occur when molten rocks from the earth's mantle rise and expand. When they become liquid, they move more quickly through cracks in the surface. There are different types of eruption. Sometimes the {{23}} moves slowly and forms outcrops of granite on the earth's surface. When it moves more quickly it may flow out in thick horizontal sheets. Examples of this type of eruption can be found in Northern Ireland, Wales, South Africa and {{24}}. A third type of eruption occurs when the lava emerges very quickly and {{25}} violently. This happens because the magma moves so suddenly that {{26}} are emitted."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Obtaining Linguistic Data",
+      "intro": "You should spend about 20 minutes on Questions 27-40 which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "label": "A",
+          "text": "M.any procedures are available for obtaining data about a language. They range from a carefully planned, intensive field investigation in a foreign country to a casual introspection about one's mother tongue carried out in an armchair at home."
+        },
+        {
+          "id": "p2",
+          "label": "B",
+          "text": "In all cases, someone has to act as a source of language data - an informant. Informants are (ideally) native speakers of a language, who provide utterances for analysis and other kinds of information about the language (e.g. translations, comments about correctness, or judgements on usage). Often, when studying their mother tongue, linguists act as their own informants, judging the ambiguity, acceptability, or other properties of utterances against their own intuitions. The convenience of this approach makes it widely used, and it is considered the norm in the generative approach to linguistics. But a linguist's personal judgements are often uncertain, or disagree with the judgements of other linguists, at which point recourse is needed to more objective methods of enquiry, using non-linguists as informants. The latter procedure is unavoidable when working on foreign languages, or child speech."
+        },
+        {
+          "id": "p3",
+          "label": "C",
+          "text": "Many factors must be considered when selecting informants - whether one is working with single speakers (a common situation when languages have not been described before), two people interacting, small groups or large-scale samples. Age, sex, social background and other aspects of identity are important, as these factors are known to influence the kind of language used. The topic of conversation and the characteristics of the social setting (e.g. the level of formality) are also highly relevant, as are the personal qualities of the informants (e.g. their fluency and consistency). For larger studies, scrupulous attention has been paid to the sampling theory employed, and in all cases, decisions have to be made about the best investigative techniques to use."
+        },
+        {
+          "id": "p4",
+          "label": "D",
+          "text": "Today, researchers often tape-record informants. This enables the linguist's claims about the language to be checked, and provides a way of making those claims more accurate ('difficult' pieces of speech can be listened to repeatedly). But obtaining naturalistic, good-quality data is never easy. People talk abnormally when they know they are being recorded, and sound quality can be poor. A variety of tape-recording procedures have thus been devised to minimise the 'observer's paradox' (how to observe the way people behave when they are not being observed). Some recordings are made without the speakers being aware of the fact - a procedure that obtains very natural data, though ethical objections must be anticipated. Alternatively, attempts can be made to make the speaker forget about the recording, such as keeping the tape recorder out of sight, or using radio microphones. A useful technique is to introduce a topic that quickly involves the speaker, and stimulates a natural language style (e.g. asking older informants about how times have changed in their locality)."
+        },
+        {
+          "id": "p5",
+          "label": "E",
+          "text": "An audio tape recording does not solve all the linguist's problems, however. Speech is often unclear and ambiguous. Where possible, therefore, the recording has to be supplemented by the observer's written comments on the non-verbal behaviour of the participants, and about the context in general. A facial expression, for example, can dramatically alter the meaning of what is said. Video recordings avoid these problems to a large extent, but even they have limitations (the camera cannot be everywhere), and transcriptions always benefit from any additional commentary provided by an observer."
+        },
+        {
+          "id": "p6",
+          "label": "F",
+          "text": "Linguists also make great use of structured sessions, in which they systematically ask their informants for utterances that describe certain actions, objects or behaviour. With a bilingual informant, or through use of an interpreter, it is possible to use translation techniques ('How do you say table in your language?'). A large number of points can be covered in a short time, using interview worksheets and questionnaires. Often, the researcher wishes to obtain information about just a single variable, in which case a restricted set of questions may be used: a particular feature of pronunciation, for example, can be elicited by asking the informant to say a restricted set of words. There are also several direct methods of elicitation, such as asking informants to fill in the blanks in a substitution frame (e.g. I _ see a car), or feeding them the wrong stimulus for correction ('Is it possible to say I no can see?')."
+        },
+        {
+          "id": "p7",
+          "label": "G",
+          "text": "A representative sample of language, compiled for the purpose of linguistic analysis, is known as a corpus. A corpus enables the linguist to make unbiased statements about frequency of usage, and it provides accessible data for the use of different researchers. Its range and size are variable. Some corpora attempt to cover the language as a whole, taking extracts from many kinds of text; others are extremely selective, providing a collection of material that deals only with a particular linguistic feature. The size of the corpus depends on practical factors, such as the time available to collect, process and store the data: it can take up to several hours to provide an accurate transcription of a few minutes of speech. Sometimes a small sample of data will be enough to decide a linguistic hypothesis; by contrast, corpora in major research projects can total millions of words. An important principle is that all corpora, whatever their size, are inevitably limited in their coverage, and always need to be supplemented by data derived from the intuitions of native speakers of the language, through either introspection or experimentation."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            31
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 3 has seven paragraphs labelled A-G. Which paragraph contains the following information?",
+          "limit": "Write the correct letter A-G in boxes 27-31 on your answer sheet. NB You may use any letter more than once.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "questions": [
+            {
+              "n": 27,
+              "text": "the effect of recording on the way people talk"
+            },
+            {
+              "n": 28,
+              "text": "the importance of taking notes on body language"
+            },
+            {
+              "n": 29,
+              "text": "the fact that language is influenced by social situation"
+            },
+            {
+              "n": 30,
+              "text": "how informants can be helped to be less self-conscious"
+            },
+            {
+              "n": 31,
+              "text": "various methods that can be used to generate specific data"
+            }
+          ]
+        },
+        {
+          "range": [
+            32,
+            36
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+          "title": "Methods of Obtaining Linguistic Data",
+          "table": {
+            "head": [
+              "Method",
+              "Advantages",
+              "Disadvantages"
+            ],
+            "rows": [
+              [
+                "{{32}} as informant",
+                "convenient",
+                "method of enquiry not objective enough"
+              ],
+              [
+                "non-linguist as informant",
+                "necessary with {{33}} and child speech",
+                "the number of factors to be considered"
+              ],
+              [
+                "recording an informant",
+                "allows linguists' claims to be checked",
+                "{{34}} of sound"
+              ],
+              [
+                "videoing an informant",
+                "allows speakers' {{35}} to be observed",
+                "{{36}} might miss certain things"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            37,
+            40
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary of paragraph G below.",
+          "limit": "Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+          "text": "A linguist can use a corpus to comment objectively on {{37}}. Some corpora include a wide range of language while others are used to focus on a {{38}}. The length of time the process takes will affect the {{39}} of the corpus. No corpus can ever cover the whole language and so linguists often find themselves relying on the additional information that can be gained from the {{40}} of those who speak the language concerned."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "c4t3",
+  "book": "剑桥雅思4",
+  "test": 3,
+  "title": "剑4 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "bar-chart",
+      "kindZh": "柱状图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The chart below shows the different levels of post-school qualifications in Australia and the proportion of men and women who held them in 1999.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c4t3-task1.webp",
+      "imageCaption": "Post-school qualifications in Australia according to gender 1999",
+      "data": {
+        "unit": "Percentage (%)",
+        "years": [
+          "Skilled vocational diploma",
+          "Undergraduate diploma",
+          "Bachelor's degree",
+          "Postgraduate diploma",
+          "Master's degree"
+        ],
+        "series": {
+          "Females": [
+            9,
+            70,
+            52,
+            29,
+            40
+          ],
+          "Males": [
+            90,
+            36,
+            46,
+            70,
+            60
+          ]
+        }
+      },
+      "sample": {
+        "band": 9,
+        "text": "The chart gives information about post-school qualifications in terms of the different levels of further education reached by men and women in Australia in 1999.\n\nWe can see immediately that there were substantial differences in the proportion of men and women at different levels. The biggest gender difference is at the lowest post-school level, where 90% of those who held a skilled vocational diploma were men, compared with only 10% of women. By contrast, more women held undergraduate diplomas (70%) and marginally more women reached degree level (55%).\n\nAt the higher levels of education, men with postgraduate diplomas clearly outnumbered their female counterparts (70% and 30%, respectively), and also constituted 60% of Master's graduates.\n\nThus we can see that more men than women hold qualifications at the lower and higher levels of education, while more women reach undergraduate diploma level than men. The gender difference is smallest at the level of Bachelor's degree, however.",
+        "comment": "This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Creative artists should always be given the freedom to express their own ideas (in words, pictures, music or film) in whichever way they wish.",
+        "There should be no government restrictions on what they do.",
+        "To what extent do you agree or disagree with this opinion?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 7,
+        "text": "I agree with the statement that there should be no government restriction on creative artists who express themselves in the way they do and that they must be given freedom for the same. Expression has always been the keynote in a person's life. It is the result of mere expression of our thoughts that we are able to communicate. Restrictions on how we present our thoughts is senseless.\n\nCreative artists play a major role in our society, be it the government, old people, the youth or the children. Their works enlighten our minds, no matter if is factual or entertainment based. It is diserving that after a days work when we want to take some time off for ourselves, we look out for some leisure. For instance: either pleasant music or a family movie which soothes the mind. Entertainment give us an overview of a new side of life which every individual respects. There is almost everything good in what is given to us through the media world which is made up of artists.\n\nOn the contrary sometimes these artists tend to be unscrupulous. They convert rumours into facts and present them before us. This might impair the reputation of some illustrious people in today's society. On such occasions, certain restrictions are understandable. Nevertheless we all do know what is right or wrong. Rules and regulations not always are the solution to how artists present their own ideas. Hence it is doltish to be impetuous and the government should enforce alternative ways to control the media.\n\nRespect for ones ideas is not only hypothetical but must be practised. It is through respect that each one of us can be recognised as a unique person in the world. This can be achieved by looking at the bright side of what media i.e. the creative artists display for us. Not a day can go by when we dont look out for colourful dreams and a beautiful life which we can find either through music, poetry, films, pictures; everything that the creative artists offer us.",
+        "comment": "This answer considers the main issues raised by the question and presents a definite opinion about the statement. However, the response tends to over-generalise and sometimes the examples used to support ideas seem rather confusing. Ideas are generally clearly organised, and paragraphing is clear but the argument is difficult to follow in places. A range of linking words and expressions is used, but there are occasional mistakes. The candidate uses an ambitious range of vocabulary and sentence patterns, but has some problems with word choice and collocations. There are very few spelling errors and only minor grammar mistakes, but there are many examples of expressions used inappropriately."
+      }
+    }
+  ]
+}
