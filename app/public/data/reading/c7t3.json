@@ -1,0 +1,955 @@
+{
+  "id": "c7t3",
+  "book": "剑桥雅思7",
+  "test": 3,
+  "title": "剑7 Test 3 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "FALSE"
+    ],
+    "2": [
+      "TRUE"
+    ],
+    "3": [
+      "NOT GIVEN"
+    ],
+    "4": [
+      "TRUE"
+    ],
+    "5": [
+      "FALSE"
+    ],
+    "6": [
+      "NOT GIVEN"
+    ],
+    "7": [
+      "C"
+    ],
+    "8": [
+      "M"
+    ],
+    "9": [
+      "F"
+    ],
+    "10": [
+      "D"
+    ],
+    "11": [
+      "N"
+    ],
+    "12": [
+      "O"
+    ],
+    "13": [
+      "E"
+    ],
+    "14": [
+      "iv"
+    ],
+    "15": [
+      "vii"
+    ],
+    "16": [
+      "x"
+    ],
+    "17": [
+      "i"
+    ],
+    "18": [
+      "vi"
+    ],
+    "19": [
+      "ii"
+    ],
+    "20": [
+      "E"
+    ],
+    "21": [
+      "D"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "A"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "NOT GIVEN"
+    ],
+    "28": [
+      "FALSE"
+    ],
+    "29": [
+      "TRUE"
+    ],
+    "30": [
+      "FALSE"
+    ],
+    "31": [
+      "FALSE"
+    ],
+    "32": [
+      "FALSE"
+    ],
+    "33": [
+      "TRUE"
+    ],
+    "34": [
+      "J"
+    ],
+    "35": [
+      "A"
+    ],
+    "36": [
+      "E"
+    ],
+    "37": [
+      "B"
+    ],
+    "38": [
+      "G"
+    ],
+    "39": [
+      "D"
+    ],
+    "40": [
+      "B"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p2",
+      "why": "题干说蚂蚁使用的交流渠道和人类相同,原文只说化学信号交流'可以与'人类的视听渠道相比较(compared to),并非相同渠道,FALSE。",
+      "key": "Such chemical communication can be compared to the human use of visual and auditory channels (as in religious chants, advertising images and jingles, political slogans and martial music) to arouse and propagate moods and attitudes."
+    },
+    "2": {
+      "loc": "p7",
+      "why": "题干说城市生活促进智力发展,原文称城市生活方式是智力的孕育温床(forcing house of intelligence),一致,TRUE。",
+      "key": "Whereas prehistoric man had no exposure to urban lifestyles- the forcing house of intelligence -the evidence suggests that ants have lived in urban settings for close on a hundred million years, developing and maintaining underground cities of specialised chambers and tunnels."
+    },
+    "3": {
+      "loc": "p7",
+      "why": "原文只说蚂蚁建造地下城市已近一亿年,没有比较蚂蚁和人类建城速度快慢,NOT GIVEN。",
+      "key": "Whereas prehistoric man had no exposure to urban lifestyles- the forcing house of intelligence -the evidence suggests that ants have lived in urban settings for close on a hundred million years, developing and maintaining underground cities of specialised chambers and tunnels."
+    },
+    "4": {
+      "loc": "p10",
+      "why": "题干说部分蚂蚁能通过计算距离和方位找路,原文说沙漠蚂蚁通过整合方位与距离来导航,一致,TRUE。",
+      "key": "Research conducted at Oxford, Sussex and Zurich Universities has shown that when desert ants return from a foraging trip, they navigate by integrating bearings and distances, which they continuously update in their heads."
+    },
+    "5": {
+      "loc": "p11",
+      "why": "题干说觅食队伍能靠嗅觉找到食物,原文说实验特意防止觅食队伍使用气味线索,矛盾,FALSE。",
+      "key": "Elaborate precautions were taken to prevent the foraging team using odour clues."
+    },
+    "6": {
+      "loc": "p12",
+      "why": "原文只引用了该文章中关于善待厨房蚂蚁的一句话,并未提到这篇文章探讨蚂蚁的交流方式,NOT GIVEN。",
+      "key": "It's no surprise that Edward Wilson, in his essay, 'In the company of ants', advises readers who ask what to do with the ants in their kitchen to: 'Watch where you step."
+    },
+    "7": {
+      "loc": "p6",
+      "why": "蚂蚁自己不能消化树叶中的纤维素(cellulose),需要真菌转化,对应真菌\"转化\"的对象,选C。",
+      "key": "Ants can't digest the cellulose in leaves- but some fungi can."
+    },
+    "8": {
+      "loc": "p5",
+      "why": "farmer ants分泌(secrete)抗生素来控制杂草真菌,对应\"natural secretions\"(天然分泌物)当除草剂,选M。",
+      "key": "Farmer ants secrete antibiotics to control other fungi that might act as 'weeds', and spread waste to fertilise the crop."
+    },
+    "9": {
+      "loc": "p5",
+      "why": "蚂蚁把废物撒开给作物施肥(fertilise),对应\"fertilizers\"(肥料),选F。",
+      "key": "Farmer ants secrete antibiotics to control other fungi that might act as 'weeds', and spread waste to fertilise the crop."
+    },
+    "10": {
+      "loc": "p6",
+      "why": "蚂蚁通过与邻近蚁群交换(swapping/exchanging)真菌菌株来改良真菌,选D exchanging。",
+      "key": "Even more impressively, DNA analysis of the fungi suggests that the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies."
+    },
+    "11": {
+      "loc": "p4",
+      "why": "原文直接说蚂蚁的耕作方法至少是可持续的(sustainable),选N。",
+      "key": "The farming methods of ants are at least sustainable."
+    },
+    "12": {
+      "loc": "p4",
+      "why": "原文说蚂蚁的耕作不会破坏环境(environments),对应\"do not affect the environment\",选O。",
+      "key": "They do not ruin environments or use enormous amounts of energy."
+    },
+    "13": {
+      "loc": "p4",
+      "why": "原文说蚂蚁耕作不使用大量能源(energy),对应\"do not waste energy\",选E。",
+      "key": "They do not ruin environments or use enormous amounts of energy."
+    },
+    "14": {
+      "loc": "A",
+      "why": "A段讲述研究早期人类迁徙的方法(如遗传学)有了新发展,对应标题iv\"研究方法的发展\"。",
+      "key": "A number of techniques developed since the 1950s, however, have placed the study of these subjects on a sounder and more objective footing."
+    },
+    "15": {
+      "loc": "B",
+      "why": "B段提出长期悬而未决的问题:是一次还是多次跨白令海峡的迁徙,对应标题vii\"关于史前迁徙美洲的老问题\"。",
+      "key": "But was there one major wave of migration across the Bering Strait into the Americas, or several?"
+    },
+    "16": {
+      "loc": "C",
+      "why": "C段说明通过比较不同人群的Gm血型变异可推算出两群体的\"基因距离\",对应标题x\"血型变异分析如何衡量亲缘关系\"。",
+      "key": "Thus, by comparing the Gm allotypes of two different populations (e.g. two Indian tribes), one can establish their genetic 'distance', which itself can be calibrated to give an indication of the length of time since these populations last interbred."
+    },
+    "17": {
+      "loc": "D",
+      "why": "D段讲述Williams对5000多名美洲印第安人验血的研究结果,对应标题i\"血型变异研究的结果\"。",
+      "key": "Williams and his colleagues sampled the blood of over 5,000 American Indians in western North America during a twenty-year period."
+    },
+    "18": {
+      "loc": "E",
+      "why": "E段介绍Wallace对线粒体DNA的研究支持三波迁徙理论,对应标题vi\"支持三波理论的further genetic evidence\"。",
+      "key": "Geneticist Douglas Wallace has studied mitochondrial DNA in blood samples from three widely separated Native American groups: Pima-Papago Indians in Arizona, Mayo Indians on the Yucatán peninsula, Mexico, and Ticuna Indians in the Upper Amazon region of Brazil."
+    },
+    "19": {
+      "loc": "F",
+      "why": "F段讲述牙齿分析专家Turner的研究,对应标题ii\"牙齿证据(Dental evidence)\"。",
+      "key": "The biological anthropologist Christy Turner is an expert in the analysis of changing physical characteristics in human teeth."
+    },
+    "20": {
+      "loc": "D",
+      "why": "该路线对应最早的第一波迁徙(超过15000年前),地图上标为E路线(见原书地图),答案E。",
+      "key": "The first, Paleo-Indian, wave more than 15,000 years ago was ancestral to all Central and South American Indians."
+    },
+    "21": {
+      "loc": "D",
+      "why": "该路线对应Na-Dene后裔(纳瓦霍人和阿帕奇人)600-700年前从加拿大南迁,地图上标为D路线(见原书地图),答案D。",
+      "key": "The second wave, about 14,000-12,000 years ago, brought Na-Dene hunters, ancestors of the Navajo and Apache (who only migrated south from Canada about 600 or 700 years ago)."
+    },
+    "22": {
+      "loc": "D",
+      "why": "因纽特人(Inuit/Eskimo)属于第三组,对应第三波迁徙,选C the third wave。",
+      "key": "Other tests showed that the Inuit (or Eskimo) and Aleut formed a third group."
+    },
+    "23": {
+      "loc": "D",
+      "why": "阿帕奇人(Apache)是Na-Dene猎人的后裔,属于第二波迁徙,选B the second wave。",
+      "key": "The second wave, about 14,000-12,000 years ago, brought Na-Dene hunters, ancestors of the Navajo and Apache (who only migrated south from Canada about 600 or 700 years ago)."
+    },
+    "24": {
+      "loc": "E",
+      "why": "Pima-Papago印第安人与另外两组一样,被证实源自同一支最早的Paleo-Indian祖先群体,属于第一波,选A。",
+      "key": "Geneticist Douglas Wallace has studied mitochondrial DNA in blood samples from three widely separated Native American groups: Pima-Papago Indians in Arizona, Mayo Indians on the Yucatán peninsula, Mexico, and Ticuna Indians in the Upper Amazon region of Brazil."
+    },
+    "25": {
+      "loc": "E",
+      "why": "Ticuna印第安人同样被证实源自最早的Paleo-Indian祖先群体,属于第一波,选A。",
+      "key": "Geneticist Douglas Wallace has studied mitochondrial DNA in blood samples from three widely separated Native American groups: Pima-Papago Indians in Arizona, Mayo Indians on the Yucatán peninsula, Mexico, and Ticuna Indians in the Upper Amazon region of Brazil."
+    },
+    "26": {
+      "loc": "F",
+      "why": "Turner的研究检验了数千件新旧大陆(美洲和亚洲)、古代和现代的牙齿标本,对应选项A。",
+      "key": "Studies carried out by Turner of many thousands of New and Old World specimens, both ancient and modern, suggest that the majority of prehistoric Americans are linked to Northern Asian populations by crown and root traits such as incisor shoveling (a scooping out on one or both surfaces of the tooth), single-rooted upper first premolars and triple-rooted lower first molars."
+    },
+    "27": {
+      "loc": "p1",
+      "why": "原文只说地中海国家的问题被搁置(discarded),并说未来不会被忽视,但没提\"下次专家会议会讨论\",NOT GIVEN。",
+      "key": "However, this does not mean that in future they will be ignored."
+    },
+    "28": {
+      "loc": "p1",
+      "why": "原文给出的排除理由是这些问题局限于特定地理区域,并非因为在欧共体之外,FALSE。",
+      "key": "Those confined to particular geographical areas, such as countries bordering the Mediterranean or the Nordic countries therefore had to be discarded."
+    },
+    "29": {
+      "loc": "p2",
+      "why": "原文说森林不断更新木材生产(constantly renewed),即可再生原材料来源,TRUE。",
+      "key": "At the same time, forests provide raw materials for human activities through their constantly renewed production of wood."
+    },
+    "30": {
+      "loc": "p2",
+      "why": "原文说生物等功能只是近几个世纪才被认识到,并非specifically 20世纪,FALSE。",
+      "key": "The other aspects have been recognised only for a few centuries but they are becoming more and more important."
+    },
+    "31": {
+      "loc": "p3",
+      "why": "原文明确说欧洲已没有原始/天然森林留存,与题干矛盾,FALSE。",
+      "key": "The myth of the 'natural' forest has survived, yet there are effectively no remaining 'primary' forests in Europe."
+    },
+    "32": {
+      "loc": "p3",
+      "why": "原文说森林政策必须超越国界(transcend national frontiers),而非局限于国界,FALSE。",
+      "key": "This means that a forest policy is vital, that it must transcend national frontiers and generations of people, and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy."
+    },
+    "33": {
+      "loc": "p3",
+      "why": "原文说政策必须考虑到不可避免的变化,与题干一致,TRUE。",
+      "key": "This means that a forest policy is vital, that it must transcend national frontiers and generations of people, and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy."
+    },
+    "34": {
+      "loc": "p4",
+      "why": "第一个决议是扩大监测点以监测森林衰退情况,对应选项J\"系统性收集森林衰退状况的信息\"。",
+      "key": "The first proposes the extension and systematisation of surveillance sites to monitor forest decline."
+    },
+    "35": {
+      "loc": "p4",
+      "why": "第二个决议是保护欧洲森林的基因多样性,对应选项A\"各种树种都应被保护\"。",
+      "key": "The second resolution concentrates on the need to preserve the genetic diversity of European forests."
+    },
+    "36": {
+      "loc": "p4",
+      "why": "第三个决议是建立欧洲森林火灾数据库,对应选项E\"有关森林火灾的信息应被收集和共享\"。",
+      "key": "Although forest fires do not affect all of Europe to the same extent, the amount of damage caused the experts to propose as the third resolution that the Strasbourg conference consider the establishment of a European databank on the subject."
+    },
+    "37": {
+      "loc": "p4",
+      "why": "第四个决议关注山地森林,提出优先研究项目,对应选项B\"脆弱的山地森林应在研究项目中被优先考虑\"。",
+      "key": "Proposed developments include a preferential research program on mountain forests."
+    },
+    "38": {
+      "loc": "p4",
+      "why": "第五个决议(Eurosilva)支持对树木疾病的联合研究,对应选项G\"资源应被用于研究树木疾病\"。",
+      "key": "Eurosilva should support joint European research on tree diseases and their physiological and biochemical aspects."
+    },
+    "39": {
+      "loc": "p4",
+      "why": "第六个决议建立欧洲森林生态系统研究网络,协调各国活动,对应选项D\"整个欧洲的研究应更好地协调\"。",
+      "key": "This would also involve harmonising activities in individual countries as well as identifying a number of priority research topics relating to the protection of forests."
+    },
+    "40": {
+      "loc": "p4",
+      "why": "全文围绕Strasbourg会议为保护欧洲森林制定的六项决议展开,最佳标题是选项B\"保护欧洲森林的计划\"。",
+      "key": "The Strasbourg conference's main concern was to provide for the future."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Ant Intelligence",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "When we think of intelligent members of the animal kingdom, the creatures that spring immediately to mind are apes and monkeys. But in fact the social lives of some members of the insect kingdom are sufficiently complex to suggest more than a hint of intelligence. Among these, the world of the ant has come in for considerable scrutiny lately, and the idea that ants demonstrate sparks of cognition has certainly not been rejected by those involved in these investigations."
+        },
+        {
+          "id": "p2",
+          "text": "Ants store food, repel attackers and use chemical signals to contact one another in case of attack. Such chemical communication can be compared to the human use of visual and auditory channels (as in religious chants, advertising images and jingles, political slogans and martial music) to arouse and propagate moods and attitudes. The biologist Lewis Thomas wrote, 'Ants are so much like human beings as to be an embarrassment. They farm fungi, raise aphids* as livestock, launch armies to war, use chemical sprays to alarm and confuse enemies, capture slaves, engage in child labour, exchange information ceaselessly. They do everything but watch television.'"
+        },
+        {
+          "id": "p3",
+          "text": "However, in ants there is no cultural transmission - everything must be encoded in the genes - whereas in humans the opposite is true. Only basic instincts are carried in the genes of a newborn baby, other skills being learned from others in the community as the child grows up. It may seem that this cultural continuity gives us a huge advantage over ants. They have never mastered fire nor progressed. Their fungus farming and aphid herding crafts are sophisticated when compared to the agricultural skills of humans five thousand years ago but have been totally overtaken by modern human agribusiness."
+        },
+        {
+          "id": "p4",
+          "text": "Or have they? The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy. Moreover, recent evidence suggests that the crop farming of ants may be more sophisticated and adaptable than was thought."
+        },
+        {
+          "id": "p5",
+          "text": "Ants were farmers fifty million years before humans were. Ants can't digest the cellulose in leaves- but some fungi can. The ants therefore cultivate these fungi in their nests, bringing them leaves to feed on, and then use them as a source of food. Farmer ants secrete antibiotics to control other fungi that might act as 'weeds', and spread waste to fertilise the crop."
+        },
+        {
+          "id": "p6",
+          "text": "It was once thought that the fungus that ants cultivate was a single type that they had propagated, essentially unchanged from the distant past. Not so. Ulrich Mueller of Maryland and his colleagues genetically screened 862 different types of fungi taken from ants' nests. These turned out to be highly diverse: it seems that ants are continually domesticating new species. Even more impressively, DNA analysis of the fungi suggests that the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies."
+        },
+        {
+          "id": "p7",
+          "text": "Whereas prehistoric man had no exposure to urban lifestyles- the forcing house of intelligence -the evidence suggests that ants have lived in urban settings for close on a hundred million years, developing and maintaining underground cities of specialised chambers and tunnels."
+        },
+        {
+          "id": "p8",
+          "text": "When we survey Mexico City, Tokyo, Los Angeles, we are amazed at what has been accomplished by humans. Yet Hoelldobler and Wilson's magnificent work for ant lovers, The Ants, describes a supercolony of the ant Formica yessensis on the Ishikari Coast of Hokkaido. This 'megalopolis' was reported to be composed of 360 million workers and a million queens living in 4,500 interconnected nests across a territory of 2.7 square kilometres."
+        },
+        {
+          "id": "p9",
+          "text": "Such enduring and intricately meshed levels of technical achievement outstrip by far anything achieved by our distant ancestors. We hail as masterpieces the cave paintings in southern France and elsewhere, dating back some 20,000 years. Ant societies existed in something like their present form more than seventy million years ago. Beside this, prehistoric man looks technologically primitive. Is this then some kind of intelligence, albeit of a different kind?"
+        },
+        {
+          "id": "p10",
+          "text": "Research conducted at Oxford, Sussex and Zurich Universities has shown that when desert ants return from a foraging trip, they navigate by integrating bearings and distances, which they continuously update in their heads. They combine the evidence of visual landmarks with a mental library of local directions, all within a framework which is consulted and updated. So ants can learn too."
+        },
+        {
+          "id": "p11",
+          "text": "And in a twelve-year programme of work, Ryabko and Reznikova have found evidence that ants can transmit very complex messages. Scouts who had located food in a maze returned to mobilise their foraging teams. They engaged in contact sessions, at the end of which the scout was removed in order to observe what her team might do. Often the foragers proceeded to the exact spot in the maze where the food had been. Elaborate precautions were taken to prevent the foraging team using odour clues. Discussion now centres on whether the route through the maze is communicated as a 'left-right' sequence of turns or as a 'compass bearing and distance' message."
+        },
+        {
+          "id": "p12",
+          "text": "During the course of this exhaustive study, Reznikova has grown so attached to her laboratory ants that she feels she knows them as individuals - even without the paint spots used to mark them. It's no surprise that Edward Wilson, in his essay, 'In the company of ants', advises readers who ask what to do with the ants in their kitchen to: 'Watch where you step. Be careful of little lives.'"
+        }
+      ],
+      "footnotes": [
+        "* aphids: small insects of a different species from ants"
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            6
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "Ants use the same channels of communication as humans do."
+            },
+            {
+              "n": 2,
+              "text": "City life is one factor that encourages the development of intelligence."
+            },
+            {
+              "n": 3,
+              "text": "Ants can build large cities more quickly than humans do."
+            },
+            {
+              "n": 4,
+              "text": "Some ants can find their way by making calculations based on distance and position."
+            },
+            {
+              "n": 5,
+              "text": "In one experiment, foraging teams were able to use their sense of smell to find food."
+            },
+            {
+              "n": 6,
+              "text": "The essay, 'In the company of ants', explores ant communication."
+            }
+          ]
+        },
+        {
+          "range": [
+            7,
+            13
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words, A-O, below.",
+          "limit": "Write the correct letter, A-O, in boxes 7-13 on your answer sheet.",
+          "title": "Ants as farmers",
+          "text": "Ants have sophisticated methods of farming, including herding livestock and growing crops, which are in many ways similar to those used in human agriculture. The ants cultivate a large number of different species of edible fungi which convert {{7}} into a form which they can digest. They use their own natural {{8}} as weed-killers and also use unwanted materials as {{9}}.\n\nGenetic analysis shows they constantly upgrade these fungi by developing new species and by {{10}} species with neighbouring ant colonies. In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use {{11}} methods, they do not affect the {{12}} and do not waste {{13}}.",
+          "options": [
+            {
+              "k": "A",
+              "text": "aphids"
+            },
+            {
+              "k": "B",
+              "text": "agricultural"
+            },
+            {
+              "k": "C",
+              "text": "cellulose"
+            },
+            {
+              "k": "D",
+              "text": "exchanging"
+            },
+            {
+              "k": "E",
+              "text": "energy"
+            },
+            {
+              "k": "F",
+              "text": "fertilizers"
+            },
+            {
+              "k": "G",
+              "text": "food"
+            },
+            {
+              "k": "H",
+              "text": "fungi"
+            },
+            {
+              "k": "I",
+              "text": "growing"
+            },
+            {
+              "k": "J",
+              "text": "interbreeding"
+            },
+            {
+              "k": "K",
+              "text": "natural"
+            },
+            {
+              "k": "L",
+              "text": "other species"
+            },
+            {
+              "k": "M",
+              "text": "secretions"
+            },
+            {
+              "k": "N",
+              "text": "sustainable"
+            },
+            {
+              "k": "O",
+              "text": "environment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Population movements and genetics",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 on the following pages.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Study of the origins and distribution of human populations used to be based on archaeological and fossil evidence. A number of techniques developed since the 1950s, however, have placed the study of these subjects on a sounder and more objective footing. The best information on early population movements is now being obtained from the 'archaeology of the living body', the clues to be found in genetic material."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Recent work on the problem of when people first entered the Americas is an example of the value of these new techniques. North-east Asia and Siberia have long been accepted as the launching ground for the first human colonisers of the New World. But was there one major wave of migration across the Bering Strait into the Americas, or several? And when did this event, or events, take place? In recent years, new clues have come from research into genetics, including the distribution of genetic markers in modern Native Americans."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "An important project, led by the biological anthropologist Robert Williams, focused on the variants (called Gm allotypes) of one particular protein — immunoglobin G — found in the fluid portion of human blood. All proteins 'drift', or produce variants, over the generations, and members of an interbreeding human population will share a set of such variants. Thus, by comparing the Gm allotypes of two different populations (e.g. two Indian tribes), one can establish their genetic 'distance', which itself can be calibrated to give an indication of the length of time since these populations last interbred."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Williams and his colleagues sampled the blood of over 5,000 American Indians in western North America during a twenty-year period. They found that their Gm allotypes could be divided into two groups, one of which also corresponded to the genetic typing of Central and South American Indians. Other tests showed that the Inuit (or Eskimo) and Aleut formed a third group. From this evidence it was deduced that there had been three major waves of migration across the Bering Strait. The first, Paleo-Indian, wave more than 15,000 years ago was ancestral to all Central and South American Indians. The second wave, about 14,000-12,000 years ago, brought Na-Dene hunters, ancestors of the Navajo and Apache (who only migrated south from Canada about 600 or 700 years ago). The third wave, perhaps 10,000 or 9,000 years ago, saw the migration from North-east Asia of groups ancestral to the modern Eskimo and Aleut."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "How far does other research support these conclusions? Geneticist Douglas Wallace has studied mitochondrial DNA in blood samples from three widely separated Native American groups: Pima-Papago Indians in Arizona, Mayo Indians on the Yucatán peninsula, Mexico, and Ticuna Indians in the Upper Amazon region of Brazil. As would have been predicted by Robert Williams's work, all three groups appear to be descended from the same ancestral (Paleo-Indian) population."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "There are two other kinds of research that have thrown some light on the origins of the Native American population; they involve the study of teeth and of languages. The biological anthropologist Christy Turner is an expert in the analysis of changing physical characteristics in human teeth. He argues that tooth crowns and roots have a high genetic component, minimally affected by environmental and other factors. Studies carried out by Turner of many thousands of New and Old World specimens, both ancient and modern, suggest that the majority of prehistoric Americans are linked to Northern Asian populations by crown and root traits such as incisor shoveling (a scooping out on one or both surfaces of the tooth), single-rooted upper first premolars and triple-rooted lower first molars. According to Turner, this ties in with the idea of a single Paleo-Indian migration out of North Asia, which he sets at before 14,000 years ago by calibrating rates of dental micro-evolution. Tooth analyses also suggest that there were two later migrations of Na-Denes and Eskimo-Aleut."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "The linguist Joseph Greenberg has, since the 1950s, argued that all Native American languages belong to a single 'Amerind' family, except for Na-Dene and Eskimo-Aleut — a view that gives credence to the idea of three main migrations. Greenberg is in a minority among fellow linguists, most of whom favour the notion of a great many waves of migration to account for the more than 1,000 languages spoken at one time by American Indians. But there is no doubt that the new genetic and dental evidence provides strong backing for Greenberg's view. Dates given for the migrations should nevertheless be treated with caution, except where supported by hard archaeological evidence."
+        }
+      ],
+      "footnotes": [
+        "1 New World: the American continent, as opposed to the so-called Old World of Europe, Asia and Africa",
+        "2 modern Native American: an American descended from the groups that were native to America",
+        "3 Inuit and Aleut: two of the ethnic groups native to the northern regions of North America (i.e. northern Canada and Greenland)",
+        "4 DNA: the substance in which genetic information is stored",
+        "5 crown/root: parts of the tooth",
+        "6 incisor/premolar/molar: kinds of teeth"
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            19
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 2 has seven sections, A-G. Choose the correct headings for sections A-F from the list of headings below.",
+          "limit": "Write the correct number, i-x, in boxes 14-19 on your answer sheet. (Example: Section G — viii)",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "The results of the research into blood-variants"
+            },
+            {
+              "k": "ii",
+              "text": "Dental evidence"
+            },
+            {
+              "k": "iii",
+              "text": "Greenberg's analysis of the dental and linguistic evidence"
+            },
+            {
+              "k": "iv",
+              "text": "Developments in the methods used to study early population movements"
+            },
+            {
+              "k": "v",
+              "text": "Indian migration from Canada to the U.S.A."
+            },
+            {
+              "k": "vi",
+              "text": "Further genetic evidence relating to the three-wave theory"
+            },
+            {
+              "k": "vii",
+              "text": "Long-standing questions about prehistoric migration to America"
+            },
+            {
+              "k": "viii",
+              "text": "Conflicting views of the three-wave theory, based on non-genetic evidence"
+            },
+            {
+              "k": "ix",
+              "text": "Questions about the causes of prehistoric migration to America"
+            },
+            {
+              "k": "x",
+              "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+            }
+          ],
+          "itemsTitle": "Sections",
+          "items": [
+            {
+              "n": 14,
+              "text": "Section A"
+            },
+            {
+              "n": 15,
+              "text": "Section B"
+            },
+            {
+              "n": 16,
+              "text": "Section C"
+            },
+            {
+              "n": 17,
+              "text": "Section D"
+            },
+            {
+              "n": 18,
+              "text": "Section E"
+            },
+            {
+              "n": 19,
+              "text": "Section F"
+            }
+          ]
+        },
+        {
+          "range": [
+            20,
+            21
+          ],
+          "type": "matching",
+          "instruction": "The discussion of Williams's research indicates the periods at which early people are thought to have migrated along certain routes. There are six routes, A-F, marked on the map 'Early Population Movement to the Americas' in the book (原题为地图标注题，见原书地图；此处按题干描述的迁徙时间对应到路线). Complete the table below.",
+          "limit": "Write the correct letter, A-F, in boxes 20 and 21 on your answer sheet.",
+          "optionsTitle": "Routes (as marked on the map)",
+          "options": [
+            {
+              "k": "A",
+              "text": "route A on the map"
+            },
+            {
+              "k": "B",
+              "text": "route B on the map"
+            },
+            {
+              "k": "C",
+              "text": "route C on the map"
+            },
+            {
+              "k": "D",
+              "text": "route D on the map"
+            },
+            {
+              "k": "E",
+              "text": "route E on the map"
+            },
+            {
+              "k": "F",
+              "text": "route F on the map"
+            }
+          ],
+          "itemsTitle": "Route — Period (number of years ago)",
+          "items": [
+            {
+              "n": 20,
+              "text": "15,000 or more years ago (the earliest wave, ancestral to all Central and South American Indians)"
+            },
+            {
+              "n": 21,
+              "text": "600 to 700 years ago (Na-Dene descendants — the Navajo and Apache — migrating south from Canada)"
+            }
+          ]
+        },
+        {
+          "range": [
+            22,
+            25
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 2 refers to the three-wave theory of early migration to the Americas. Classify the groups named in the table below as originating from the first, second or third wave.",
+          "limit": "Write the correct letter, A, B or C, in boxes 22-25 on your answer sheet.",
+          "optionsTitle": "Wave number",
+          "options": [
+            {
+              "k": "A",
+              "text": "the first wave"
+            },
+            {
+              "k": "B",
+              "text": "the second wave"
+            },
+            {
+              "k": "C",
+              "text": "the third wave"
+            }
+          ],
+          "itemsTitle": "Name of group",
+          "items": [
+            {
+              "n": 22,
+              "text": "Inuit"
+            },
+            {
+              "n": 23,
+              "text": "Apache"
+            },
+            {
+              "n": 24,
+              "text": "Pima-Papago"
+            },
+            {
+              "n": 25,
+              "text": "Ticuna"
+            }
+          ]
+        },
+        {
+          "range": [
+            26,
+            26
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 26,
+              "text": "Christy Turner's research involved the examination of",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "teeth from both prehistoric and modern Americans and Asians."
+                },
+                {
+                  "k": "B",
+                  "text": "thousands of people who live in either the New or the Old World."
+                },
+                {
+                  "k": "C",
+                  "text": "dental specimens from the majority of prehistoric Americans."
+                },
+                {
+                  "k": "D",
+                  "text": "the eating habits of American and Asian populations."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Reading Passage 3",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Forests are one of the main elements of our natural heritage. The decline of Europe's forests over the last decade and a half has led to an increasing awareness and understanding of the serious imbalances which threaten them. European countries are becoming increasingly concerned by major threats to European forests, threats which know no frontiers other than those of geography or climate: air pollution, soil deterioration, the increasing number of forest fires and sometimes even the mismanagement of our woodland and forest heritage. There has been a growing awareness of the need for countries to get together to co-ordinate their policies. In December 1990, Strasbourg hosted the first Ministerial Conference on the protection of Europe's forests. The conference brought together 31 countries from both Western and Eastern Europe. The topics discussed included the co-ordinated study of the destruction of forests, as well as how to combat forest fires and the extension of European research programs on the forest ecosystem. The preparatory work for the conference had been undertaken at two meetings of experts. Their initial task was to decide which of the many forest problems of concern to Europe involved the largest number of countries and might be the subject of joint action. Those confined to particular geographical areas, such as countries bordering the Mediterranean or the Nordic countries therefore had to be discarded. However, this does not mean that in future they will be ignored."
+        },
+        {
+          "id": "p2",
+          "text": "As a whole, European countries see forests as performing a triple function: biological, economic and recreational. The first is to act as a 'green lung' for our planet; by means of photosynthesis, forests produce oxygen through the transformation of solar energy, thus fulfilling what for humans is the essential role of an immense, non-polluting power plant. At the same time, forests provide raw materials for human activities through their constantly renewed production of wood. Finally, they offer those condemned to spend five days a week in an urban environment an unrivalled area of freedom to unwind and take part in a range of leisure activities, such as hunting, riding and hiking. The economic importance of forests has been understood since the dawn of man - wood was the first fuel. The other aspects have been recognised only for a few centuries but they are becoming more and more important. Hence, there is a real concern throughout Europe about the damage to the forest environment which threatens these three basic roles."
+        },
+        {
+          "id": "p3",
+          "text": "The myth of the 'natural' forest has survived, yet there are effectively no remaining 'primary' forests in Europe. All European forests are artificial, having been adapted and exploited by man for thousands of years. This means that a forest policy is vital, that it must transcend national frontiers and generations of people, and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy. The Strasbourg conference was one of the first events on such a scale to reach this conclusion. A general declaration was made that 'a central place in any ecologically coherent forest policy must be given to continuity over time and to the possible effects of unforeseen events, to ensure that the full potential of these forests is maintained'."
+        },
+        {
+          "id": "p4",
+          "text": "That general declaration was accompanied by six detailed resolutions to assist national policy-making. The first proposes the extension and systematisation of surveillance sites to monitor forest decline. Forest decline is still poorly understood but leads to the loss of a high proportion of a tree's needles or leaves. The entire continent and the majority of species are now affected: between 30% and 50% of the tree population. The condition appears to result from the cumulative effect of a number of factors, with atmospheric pollutants the principal culprits. Compounds of nitrogen and sulphur dioxide should be particularly closely watched. However, their effects are probably accentuated by climatic factors, such as drought and hard winters, or soil imbalances such as soil acidification, which damages the roots. The second resolution concentrates on the need to preserve the genetic diversity of European forests. The aim is to reverse the decline in the number of tree species or at least to preserve the 'genetic material' of all of them. Although forest fires do not affect all of Europe to the same extent, the amount of damage caused the experts to propose as the third resolution that the Strasbourg conference consider the establishment of a European databank on the subject. All information used in the development of national preventative policies would become generally available. The subject of the fourth resolution discussed by the ministers was mountain forests. In Europe, it is undoubtedly the mountain ecosystem which has changed most rapidly and is most at risk. A thinly scattered permanent population and development of leisure activities, particularly skiing, have resulted in significant long-term changes to the local ecosystems. Proposed developments include a preferential research program on mountain forests. The fifth resolution relaunched the European research network on the physiology of trees, called Eurosilva. Eurosilva should support joint European research on tree diseases and their physiological and biochemical aspects. Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area. Finally, the conference established the framework for a European research network on forest ecosystems. This would also involve harmonising activities in individual countries as well as identifying a number of priority research topics relating to the protection of forests. The Strasbourg conference's main concern was to provide for the future. This was the initial motivation, one now shared by all 31 participants representing 31 European countries. Their final text commits them to on-going discussion between government representatives with responsibility for forests."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            33
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 27,
+              "text": "Forest problems of Mediterranean countries are to be discussed at the next meeting of experts."
+            },
+            {
+              "n": 28,
+              "text": "Problems in Nordic countries were excluded because they are outside the European Economic Community."
+            },
+            {
+              "n": 29,
+              "text": "Forests are a renewable source of raw material."
+            },
+            {
+              "n": 30,
+              "text": "The biological functions of forests were recognised only in the twentieth century."
+            },
+            {
+              "n": 31,
+              "text": "Natural forests still exist in parts of Europe."
+            },
+            {
+              "n": 32,
+              "text": "Forest policy should be limited by national boundaries."
+            },
+            {
+              "n": 33,
+              "text": "The Strasbourg conference decided that a forest policy must allow for the possibility of change."
+            }
+          ]
+        },
+        {
+          "range": [
+            34,
+            39
+          ],
+          "type": "matching",
+          "instruction": "Look at the following statements issued by the conference. Which six of the following statements, A-J, refer to the resolutions that were issued? Match the statements with the appropriate resolutions.",
+          "limit": "Write the correct letter, A-J, in boxes 34-39 on your answer sheet.",
+          "optionsTitle": "Statements",
+          "options": [
+            {
+              "k": "A",
+              "text": "All kinds of species of trees should be preserved."
+            },
+            {
+              "k": "B",
+              "text": "Fragile mountain forests should be given priority in research programs."
+            },
+            {
+              "k": "C",
+              "text": "The surviving natural forests of Europe do not need priority treatment."
+            },
+            {
+              "k": "D",
+              "text": "Research is to be better co-ordinated throughout Europe."
+            },
+            {
+              "k": "E",
+              "text": "Information on forest fires should be collected and shared."
+            },
+            {
+              "k": "F",
+              "text": "Loss of leaves from trees should be more extensively and carefully monitored."
+            },
+            {
+              "k": "G",
+              "text": "Resources should be allocated to research into tree diseases."
+            },
+            {
+              "k": "H",
+              "text": "Skiing should be encouraged in thinly populated areas."
+            },
+            {
+              "k": "I",
+              "text": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur."
+            },
+            {
+              "k": "J",
+              "text": "Information is to be systematically gathered on any decline in the condition of forests."
+            }
+          ],
+          "itemsTitle": "Resolutions",
+          "items": [
+            {
+              "n": 34,
+              "text": "Resolution 1"
+            },
+            {
+              "n": 35,
+              "text": "Resolution 2"
+            },
+            {
+              "n": 36,
+              "text": "Resolution 3"
+            },
+            {
+              "n": 37,
+              "text": "Resolution 4"
+            },
+            {
+              "n": 38,
+              "text": "Resolution 5"
+            },
+            {
+              "n": 39,
+              "text": "Resolution 6"
+            }
+          ]
+        },
+        {
+          "range": [
+            40,
+            40
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 40,
+              "text": "What is the best title for Reading Passage 3?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "The biological, economic and recreational role of forests"
+                },
+                {
+                  "k": "B",
+                  "text": "Plans to protect the forests of Europe"
+                },
+                {
+                  "k": "C",
+                  "text": "The priority of European research into ecosystems"
+                },
+                {
+                  "k": "D",
+                  "text": "Proposals for a world-wide policy on forest management"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "c7t3",
+  "book": "剑桥雅思7",
+  "test": 3,
+  "title": "剑7 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "bar-chart",
+      "kindZh": "柱状图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The chart below shows information about changes in average house prices in five different cities between 1990 and 2002 compared with the average house prices in 1989.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c7t3-task1.webp",
+      "imageCaption": "Percentage change in average house prices in five cities, 1990-2002 compared with 1989",
+      "data": {
+        "unit": "% change from 1989 prices",
+        "years": [
+          1990,
+          1996
+        ],
+        "series": {
+          "New York (USA)": [
+            -5,
+            5
+          ],
+          "Madrid (Spain)": [
+            1.5,
+            4
+          ],
+          "Tokyo (Japan)": [
+            -7.5,
+            -5
+          ],
+          "Frankfurt (Germany)": [
+            2,
+            1.5
+          ],
+          "London (UK)": [
+            -7.5,
+            11.5
+          ]
+        }
+      },
+      "sample": {
+        "band": 6.5,
+        "text": "The chart gives information about the percentage change in average house prices in five different cities located in five different countries over 12 year period between 1990 and 2002 compared with the average house prices in 1989.\n\nAccording to the chart, during the period from 1990 to 1995 the average prices of houses in three cities decreased significantly by five percent in New York (U.S.A) and about 7.5 percent in both Tokyo (Japan) and London (UK). While the average house prices increased slightly in two cities Madrid (Spain) and Frankfurt (Germany) by about 1.5 percent and 2 percent respectively.\n\nAs far as the next period (1996-2002) is concerned, it is clear that the average house prices decreased only in Tokyo (Japan) by 5 percent. In contrast the average house prices increased in the rest of cities. In New York it increased considerably by 5 percent, in Madrid it increased slightly by 4 percent, in Frankfurt it increased by 2 percent.\n\nLondon has the largest increase in the average house price over the 6-year period from 1996 to 2002 as it increased dramatically by 11 percent.\n\nAll in all, there are a wide differences in house prices between the five cities which illustrated in this chart. These differences may be a result of the number of population or the number of houses required in a certain city.",
+        "comment": "This answer clearly presents and illustrates the key points of the information. The writer groups the data effectively and draws clear comparisons, although these could be more appropriately extended in the overview. Information is well organised across the response and a range of linking devices is used.\n\nThe opening paragraph, however, is an inadequate paraphrase of language given in the task, and although there are some appropriate collocations in the response, overall the range of vocabulary is rather restricted. Control is good, however, with few examples of error.\n\nA variety of structures is used with some fluency. There are occasional errors in punctuation and there are also some omissions and errors in grammar, but these tend to be minor and do not reduce communication."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "two-part",
+      "kindZh": "双问题",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "As most people spend a major part of their adult life at work, job satisfaction is an important element of individual wellbeing.",
+        "What factors contribute to job satisfaction?",
+        "How realistic is the expectation of job satisfaction for all workers?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "Nowadays many adults have full-time jobs and the proportion of their lives spent doing such jobs is very high. So feelings about one's job must reflect how an individual feels about his or her life as a whole, and because of this, job satisfaction is indeed very important for the wellbeing of that person.\n\nEmployees get job satisfaction in a number of ways. Firstly, a person needs to feel that they are doing valued and valuable work, so positive feedback from superiors is very important in this respect. A sense of fulfilment is also encouraged if a worker feels the job is worth doing because it contributes to the society or the economy as a whole. Secondly, when someone feels they are improving or developing their skills through training opportunities, for example, then there is a sense of progression and purpose that rewards a worker. The sense of belonging to a team or a working community also contributes to job satisfaction because colleagues help each other to enjoy their working lives. Satisfaction is also increased by a sense of responsibility for and loyalty to a team.\n\nOf course not everyone enjoys their work. Hard economic realities mean that many people have little choice in the kind of job they can get. In some cases an employee is working in a job that suits neither their skills nor their personality. Some jobs are repetitive and boring, and labour relations may be poor and lead to resentment and insecurity rather than to job satisfaction.\n\nHowever, even though it is unlikely that all workers do feel happy in their work, I think it is not unrealistic to promote more job satisfaction in any job. If the factors identified above are implemented, then any job can be improved and more workers can feel greater degrees of job satisfaction.",
+        "comment": "This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches. (本书未提供逐条式的考官评语，只注明这是考官撰写的高分范文示例之一。)"
+      }
+    }
+  ]
+}

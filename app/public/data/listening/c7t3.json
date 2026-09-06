@@ -1,0 +1,1458 @@
+{
+  "id": "c7t3",
+  "book": "剑桥雅思7",
+  "test": 3,
+  "title": "剑7 Test 3 · Listening",
+  "source": "Cambridge IELTS 7, Test 3（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "business",
+      "Business Studies"
+    ],
+    "2": [
+      "third",
+      "3rd"
+    ],
+    "3": [
+      "Sports Centre",
+      "Sport Centre",
+      "Sport's Centre"
+    ],
+    "4": [
+      "cleaner",
+      "a cleaner"
+    ],
+    "5": [
+      "Library",
+      "the Library"
+    ],
+    "6": [
+      "International House"
+    ],
+    "7": [
+      "B659"
+    ],
+    "8": [
+      "office assistant",
+      "an office assistant"
+    ],
+    "9": [
+      "answer the phone",
+      "answer (the) phone"
+    ],
+    "10": [
+      "11.30",
+      "11:30",
+      "eleven thirty"
+    ],
+    "11": [
+      "B"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "A"
+    ],
+    "17": [
+      "forest"
+    ],
+    "18": [
+      "temple"
+    ],
+    "19": [
+      "waterfall"
+    ],
+    "20": [
+      "village"
+    ],
+    "21": [
+      "cigar"
+    ],
+    "22": [
+      "13 different countries",
+      "13 countries",
+      "thirteen countries",
+      "thirteen different countries"
+    ],
+    "23": [
+      "activated"
+    ],
+    "24": [
+      "50 km",
+      "50 kms",
+      "50 kilometres",
+      "50 kilometers"
+    ],
+    "25": [
+      "temperature"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "A"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "B"
+    ],
+    "33": [
+      "A"
+    ],
+    "34": [
+      "C"
+    ],
+    "35": [
+      "business"
+    ],
+    "36": [
+      "kitchen"
+    ],
+    "37": [
+      "world"
+    ],
+    "38": [
+      "escape"
+    ],
+    "39": [
+      "baby"
+    ],
+    "40": [
+      "chocolate"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c7/t3p1.mp3",
+      "duration": 0,
+      "title": "Student Job Centre enquiry",
+      "groups": [
+        {
+          "range": [
+            1,
+            2
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "lines": [
+            "Student is studying {{1}}.",
+            "Student is in the {{2}} year of the course."
+          ]
+        },
+        {
+          "range": [
+            3,
+            5
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Position Available",
+          "table": {
+            "head": [
+              "Position Available",
+              "Where",
+              "Problem"
+            ],
+            "rows": [
+              [
+                "Receptionist",
+                "in the {{3}}",
+                "evening lectures"
+              ],
+              [
+                "{{4}}",
+                "in the Child Care Centre",
+                "too early"
+              ],
+              [
+                "Clerical Assistant",
+                "in the {{5}}",
+                "evening lectures"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            6,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the form below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Student Details",
+          "lines": [
+            "Name: Anita Newman",
+            "Address: {{6}}",
+            "Room No. {{7}}",
+            "Other skills: Speaks some Japanese",
+            "Position available: {{8}} at the English Language Centre",
+            "Duties: Respond to enquiries and {{9}}",
+            "Time of interview: Friday at {{10}} a.m."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "AGENT",
+          "t": "Good morning."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Oh, good morning."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Is this ... er ... room number 26?"
+        },
+        {
+          "s": "AGENT",
+          "t": "Yes, that's right."
+        },
+        {
+          "s": "STUDENT",
+          "t": "So is this the Student Job Centre?"
+        },
+        {
+          "s": "AGENT",
+          "t": "It certainly is."
+        },
+        {
+          "s": "AGENT",
+          "t": "How can I help you?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Well, actually I'm looking for a job- a part-time job."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Do you have anything available at the moment?"
+        },
+        {
+          "s": "AGENT",
+          "t": "Ah, yes . . ."
+        },
+        {
+          "s": "AGENT",
+          "t": "Are you a registered student?"
+        },
+        {
+          "s": "AGENT",
+          "t": "I'm afraid this service is only available to full-time students."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Yes ..."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I am."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'm doing a degree in Business Studies."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Here's my student card.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "AGENT",
+          "t": "Which year are you in?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Well ..."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I've been at uni for four years but I'm in the Third Year because I took last year off.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "AGENT",
+          "t": "Right ... well, let's just have a look at what positions are available at the moment."
+        },
+        {
+          "s": "AGENT",
+          "t": "There's a job working at the reception desk at the Sports Centre, for three evenings a week- that's Wednesdays, Thursdays and Fridays.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "That sounds like fun but unfortunately I have evening lectures- so that's not possible, I'm afraid."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Is there anything during the day?"
+        },
+        {
+          "s": "AGENT",
+          "t": "OK, that's no good then."
+        },
+        {
+          "s": "AGENT",
+          "t": "Um."
+        },
+        {
+          "s": "AGENT",
+          "t": "What about cleaning?"
+        },
+        {
+          "s": "AGENT",
+          "t": "There's a position for a cleaner at the Child Care Centre.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "Right ..."
+        },
+        {
+          "s": "AGENT",
+          "t": "But you'd need to be there at 6 am."
+        },
+        {
+          "s": "AGENT",
+          "t": "Does that appeal?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Six o'clock in the morning!"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Oh, that's far too early for me, I'm afraid."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'd never make it that early in the morning."
+        },
+        {
+          "s": "AGENT",
+          "t": "Mmm ..."
+        },
+        {
+          "s": "AGENT",
+          "t": "Well - there was a position going in the Computer Lab. for three days a week that might be OK."
+        },
+        {
+          "s": "AGENT",
+          "t": "Ah, here it is!"
+        },
+        {
+          "s": "AGENT",
+          "t": "No, it's in the Library, not the Lab., Clerical Assistant required- I think it mostly involves putting the books back on the shelves.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "AGENT",
+          "t": "Oh no- hang on."
+        },
+        {
+          "s": "AGENT",
+          "t": "It's for Wednesday and Friday evenings again."
+        },
+        {
+          "s": "STUDENT",
+          "t": "No- I can't manage that because of the lectures."
+        },
+        {
+          "s": "AGENT",
+          "t": "OK, I'm getting the idea."
+        },
+        {
+          "s": "AGENT",
+          "t": "Look, I'll just get a few details from you anyway, and then we can check through the list and see what comes up."
+        },
+        {
+          "s": "AGENT",
+          "t": "We'll fill in the personal details on this application form first, if that's OK?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Yes, that's fine."
+        },
+        {
+          "s": "AGENT",
+          "t": "Now, what's your name again?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Anita Newman- that's N-E-W-M-A-N."
+        },
+        {
+          "s": "AGENT",
+          "t": "And your address, Anita?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'm in one of the Halls of Residence for post-graduate students, you know, International House.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "AGENT",
+          "t": "OK- that's easy."
+        },
+        {
+          "s": "AGENT",
+          "t": "What's your room number there?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Room B569- no sorry B659."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I always get that wrong."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I haven't been living there very long.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "AGENT",
+          "t": "Do you have any other skills?"
+        },
+        {
+          "s": "AGENT",
+          "t": "Typing, languages, that sort of thing?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Well, I speak some Japanese."
+        },
+        {
+          "s": "AGENT",
+          "t": "Right, I'll make a note of that."
+        },
+        {
+          "s": "AGENT",
+          "t": "Now - let's see what else is available."
+        },
+        {
+          "s": "AGENT",
+          "t": "What do you think of administrative work?"
+        },
+        {
+          "s": "AGENT",
+          "t": "There is a position for an Office Assistant at the English Language Centre.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "That sounds interesting."
+        },
+        {
+          "s": "AGENT",
+          "t": "It's for 3 days a week- Monday, Friday and Saturday mornings."
+        },
+        {
+          "s": "AGENT",
+          "t": "Interested?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Mmm."
+        },
+        {
+          "s": "STUDENT",
+          "t": "I was hoping to have Saturdays free."
+        },
+        {
+          "s": "STUDENT",
+          "t": "But I need the work so ... can you tell me what the job involves?"
+        },
+        {
+          "s": "AGENT",
+          "t": "Yes, sure."
+        },
+        {
+          "s": "AGENT",
+          "t": "It says here that you'll be required to deal with student enquiries and answer the phone.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "I'm sure I can handle all that without a problem."
+        },
+        {
+          "s": "AGENT",
+          "t": "Great."
+        },
+        {
+          "s": "AGENT",
+          "t": "Well, would you like me to arrange an interview for you?"
+        },
+        {
+          "s": "AGENT",
+          "t": "Say, Friday morning, around ten?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Could we make it a bit later?"
+        },
+        {
+          "s": "STUDENT",
+          "t": "Unfortunately, I've got something to do at ten."
+        },
+        {
+          "s": "STUDENT",
+          "t": "Would that be OK?"
+        },
+        {
+          "s": "AGENT",
+          "t": "Not a problem."
+        },
+        {
+          "s": "AGENT",
+          "t": "How about eleven thirty?"
+        },
+        {
+          "s": "AGENT",
+          "t": "Hope it works out for you Anita.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "STUDENT",
+          "t": "Me too."
+        },
+        {
+          "s": "STUDENT",
+          "t": "And thanks for all your help."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c7/t3p2.mp3",
+      "duration": 0,
+      "title": "Sponsored Walking Holiday",
+      "groups": [
+        {
+          "range": [
+            11,
+            16
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Sponsored Walking Holiday",
+          "questions": [
+            {
+              "n": 11,
+              "text": "On the holiday, you will be walking for",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "6 days."
+                },
+                {
+                  "k": "B",
+                  "text": "8 days."
+                },
+                {
+                  "k": "C",
+                  "text": "10 days."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "What proportion of the sponsorship money goes to charity? (原题为三张饼图，分别标 A/B/C，阴影部分代表 'Money going to charity'，此处按阴影比例描述)",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "饼图 A：阴影（捐给慈善的部分）约占四分之一到三分之一"
+                },
+                {
+                  "k": "B",
+                  "text": "饼图 B：阴影部分正好占一半"
+                },
+                {
+                  "k": "C",
+                  "text": "饼图 C：阴影部分约占三分之二，是最大的一块"
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "Each walker's sponsorship money goes to one",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "student."
+                },
+                {
+                  "k": "B",
+                  "text": "teacher."
+                },
+                {
+                  "k": "C",
+                  "text": "school."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "When you start the trek you must be",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "interested in getting fit."
+                },
+                {
+                  "k": "B",
+                  "text": "already quite fit."
+                },
+                {
+                  "k": "C",
+                  "text": "already very fit."
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "As you walk you will carry",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "all of your belongings."
+                },
+                {
+                  "k": "B",
+                  "text": "some of your belongings."
+                },
+                {
+                  "k": "C",
+                  "text": "none of your belongings."
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "The Semira Region has a long tradition of",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "making carpets."
+                },
+                {
+                  "k": "B",
+                  "text": "weaving blankets."
+                },
+                {
+                  "k": "C",
+                  "text": "carving wood."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            20
+          ],
+          "type": "notes",
+          "instruction": "Complete the form below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Itinerary",
+          "lines": [
+            "Day 1: arrive in Kishba",
+            "Day 2: rest day",
+            "Day 3: spend all day in a {{17}}",
+            "Day 4: visit a school",
+            "Day 5: rest day",
+            "Day 6: see a {{18}} with old carvings",
+            "Day 7: rest day",
+            "Day 8: swim in a {{19}}",
+            "Day 9: visit a {{20}}",
+            "Day 10: depart from Kishba"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm very pleased to have been invited along to your club to talk about our Charity Sponsored Walking Holiday for Education Aid."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'll start by giving you a brief overview of what it entails."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First of all let me explain what we mean by 'sponsored' here."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is where people promise to donate money to the charity if you achieve your goal, in this case to walk a certain number of miles."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Basically we are organizing a ten-day holiday, from the sixth to the sixteenth of November, with eight days actual walking, trekking in the Semira Mountains.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's have a look at some of the details."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We require you to raise sponsorship money of at least $3,200, paying $250 of it up front as a deposit and the rest in stages throughout the year."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Out of this about thirty-five per cent will go on your expenses, and that leaves sixty-five per cent guaranteed to go to the charity.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Which brings me to the most important part."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This trek is being specifically organized to help education in the Semira region."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Last year we helped train teachers for the disabled, and this year we're focusing on the pupils."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Each of the walkers' sponsorship money will go to help an individual special needs pupil in one of the mountain schools.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the second part of the talk I'll be giving you a lot more details, but back to the basic information."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Age limits."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is the second time we have run this kind of holiday and um, on the first we even had an eighty-year old, but we found it was wise to establish limits this time."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You have to be at least eighteen and the top limit is now seventy, though you need to obtain a health certificate from your doctor if you are over sixty years old."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, the Semira Mountains are among the highest in the world but you mustn't be too daunted, we will mainly be trekking in the foothills only, although there will be spectacular views even in the foothills."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, you will need to be extremely fit if you aren't now and you're interested in coming with us.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You have plenty of time to get into shape."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You will be sleeping in tents so you must have quite a bit of equipment with you but you will be helped by local assistants."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Your bedding and so forth will be carried by them."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We ask that you only walk with a small rucksack with needs for the day.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I don't think I've really said enough about the marvellous area you'll be walking in."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's have a look at some of the sights you'll be seeing."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Apart from these spectacular snow-covered peaks and valleys, there are marvellous historic villages."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The area has been famous for centuries for making beautiful carpets, although recently there has been a trend to move into weaving blankets and wood carving.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The people are extremely friendly and welcoming."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We deliberately keep the parties small in size to minimize disruption to people and landscape."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I hope that there are still some people interested."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I will be distributing leaflets at the end where you can find out more information, but just for the moment I'll outline the itinerary, the main high points of the holiday."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Obviously, you'll start by flying out to Kishba, the capital city, on Day One."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "After a couple of days to acclimatize yourself, you'll start the trek . on Day Three walking through the enormous Katiba Forest which will take the whole of the day.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Day Four takes us higher up, going through the foothills past a number of villages and visiting a school for the disabled in Sohan."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then you have a rest day, that's Day Five, before going to the spectacular Kurni Temple with twelfth-century carvings, set in a small forest by a lake and that's Day Six, the highlight for many.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We stay near there for Day Seven because then comes the hardest day, walking through very mountainous country, but culminating in a swim in the Parteh Falls."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is the highest waterfall in the region.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Day Nine is much easier, with part of the day spent in a village where they make some of the gorgeous red blankets.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then back down to Kishba and the journey home."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So you can see it's a pretty packed timetable ..."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c7/t3p3.mp3",
+      "duration": 0,
+      "title": "The Robotic Float Project",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Ocean Research — The Robotic Float Project",
+          "lines": [
+            "Float is shaped like a {{21}}.",
+            "Scientists from {{22}} have worked on the project so far."
+          ]
+        },
+        {
+          "range": [
+            23,
+            25
+          ],
+          "type": "notes",
+          "instruction": "Complete the diagram below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "The Operational Cycle",
+          "lines": [
+            "Boat: float dropped into ocean and {{23}} by satellite (Global Satellite).",
+            "Float sinks, drifts with the currents, then rises to the surface.",
+            "Average distance travelled: {{24}}",
+            "Float records changes in salinity and {{25}}.",
+            "Data is beamed to the satellite, then to the Meteorological station, where information is analysed."
+          ]
+        },
+        {
+          "range": [
+            26,
+            30
+          ],
+          "type": "matching",
+          "instruction": "In what time period can data from the float projects help with the following things?",
+          "limit": "Write the correct letter, A, B or C, next to Questions 26-30.",
+          "options": [
+            {
+              "k": "A",
+              "text": "At present"
+            },
+            {
+              "k": "B",
+              "text": "In the near future"
+            },
+            {
+              "k": "C",
+              "text": "In the long-term future"
+            }
+          ],
+          "itemsTitle": "Uses of float data",
+          "items": [
+            {
+              "n": 26,
+              "text": "understanding of El Niño"
+            },
+            {
+              "n": 27,
+              "text": "understanding of climate change"
+            },
+            {
+              "n": 28,
+              "text": "naval rescues"
+            },
+            {
+              "n": 29,
+              "text": "sustainable fishing practices"
+            },
+            {
+              "n": 30,
+              "text": "crop selection"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SIMON",
+          "t": "Thanks to all of you for coming along today to hear about how the robotic float project is helping with ocean research."
+        },
+        {
+          "s": "SIMON",
+          "t": "Well, first of all we'll look at what a robotic float does and its use."
+        },
+        {
+          "s": "SIMON",
+          "t": "So let's start with the device itself."
+        },
+        {
+          "s": "SIMON",
+          "t": "It looks a bit like a cigar and it's about one and a half metres long.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "SIMON",
+          "t": "More importantly it's full of equipment that's designed to collect data."
+        },
+        {
+          "s": "SIMON",
+          "t": "So, it can help us in building up a profile of different factors which work together within the world's oceans."
+        },
+        {
+          "s": "STUDENT 1",
+          "t": "Sounds like a big project- isn't it too big for one country to undertake?"
+        },
+        {
+          "s": "SIMON",
+          "t": "That's quite true but this project is a really good example of international co-operation."
+        },
+        {
+          "s": "SIMON",
+          "t": "Over the last five years scientists from thirteen countries have been taking part in the project and launching floats in their area of ocean control.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "SIMON",
+          "t": "And next year this number will rise to fourteen when Indonesia joins the project."
+        },
+        {
+          "s": "STUDENT 2",
+          "t": "That's impressive."
+        },
+        {
+          "s": "SIMON",
+          "t": "But let's move onto how floats work."
+        },
+        {
+          "s": "SIMON",
+          "t": "The operational cycle goes like this."
+        },
+        {
+          "s": "SIMON",
+          "t": "Each of the floats is dropped in the ocean from a boat at a set point and activated from a satellite.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "SIMON",
+          "t": "Then the float immediately sinks about 2,000 metres. . . that's two whole kilometres down in the water."
+        },
+        {
+          "s": "SIMON",
+          "t": "It stays at this depth for about 10 days and is carried around by the currents which operate in the ocean at this level."
+        },
+        {
+          "s": "SIMON",
+          "t": "During this time it's possible for it to cover quite large distances but the average is fifty kilometres.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "STUDENT 2",
+          "t": "So what is it actually recording?"
+        },
+        {
+          "s": "SIMON",
+          "t": "Well at this stage nothing, but as it rises to the surface it collects all sorts of data, most importantly variations in salinity, that's salt levels, and the changes in temperature, a bit like underwater weather balloons.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "SIMON",
+          "t": "Then when it gets back to the surface all the data it's collected is beamed up to the satellite."
+        },
+        {
+          "s": "SIMON",
+          "t": "After about five hours on the surface the float automatically sinks, beginning the whole process again."
+        },
+        {
+          "s": "STUDENT 1",
+          "t": "What happens to the data?"
+        },
+        {
+          "s": "SIMON",
+          "t": "Well the information is transferred direct to onshore meteorological stations... like our one in Hobart. .. and within four hours the findings can be on computers and they can be mapped and analysed."
+        },
+        {
+          "s": "STUDENT 2",
+          "t": "You say you're building models of the world's ocean systems but how're they going to be used, and more importantly, when?"
+        },
+        {
+          "s": "SIMON",
+          "t": "Some of the data has already helped in completing projects."
+        },
+        {
+          "s": "SIMON",
+          "t": "For example, our understanding of the underlying causes of El Niño events is being confirmed by float data.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "SIMON",
+          "t": "Another way we're using float data is to help us to understand the mechanics of climate change, like global warming and ozone depletion.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "SIMON",
+          "t": "That's part of an ongoing variability study but the results are still a long way off."
+        },
+        {
+          "s": "SIMON",
+          "t": "However, this is not the case with our ocean weather forecasting."
+        },
+        {
+          "s": "SIMON",
+          "t": "Because we know from the floats what the prevailing weather conditions will be in certain parts of the ocean, we can advise the navy on search and rescue missions."
+        },
+        {
+          "s": "SIMON",
+          "t": "That's happening right now and many yachtsmen owe their lives to the success of this project.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "SIMON",
+          "t": "In addition, the float data can help us to look at the biological implications of ocean processes."
+        },
+        {
+          "s": "STUDENT 1",
+          "t": "Would that help with preserving fish stocks?",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "SIMON",
+          "t": "Yes, and advising governments on fisheries legislation."
+        },
+        {
+          "s": "SIMON",
+          "t": "We're well on the way to completing a project on this."
+        },
+        {
+          "s": "SIMON",
+          "t": "We hope it will help to bring about more sustainable fishing practices."
+        },
+        {
+          "s": "SIMON",
+          "t": "We'll be seeing the results of that quite soon."
+        },
+        {
+          "s": "STUDENT 2",
+          "t": "It sounds like the data from floats has lots of applications."
+        },
+        {
+          "s": "SIMON",
+          "t": "Yes it does."
+        },
+        {
+          "s": "SIMON",
+          "t": "It's also a powerful agricultural tool."
+        },
+        {
+          "s": "SIMON",
+          "t": "If we were aware of what the weather would be like, say, next year, we could make sure that the farmers planted appropriate grain varieties to produce the best yield from the available rainfall."
+        },
+        {
+          "s": "STUDENT 1",
+          "t": "That sounds a bit like science fiction, especially when now we can't even tell them when a drought will break."
+        },
+        {
+          "s": "SIMON",
+          "t": "I agree that this concept is still a long way in the future, but it will come eventually and the float data will have made a contribution.",
+          "q": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c7/t3p4.mp3",
+      "duration": 0,
+      "title": "Hotels and the tourist industry",
+      "groups": [
+        {
+          "range": [
+            31,
+            34
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Hotels and the tourist industry",
+          "questions": [
+            {
+              "n": 31,
+              "text": "According to the speaker, how might a guest feel when staying in a luxury hotel?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "impressed with the facilities"
+                },
+                {
+                  "k": "B",
+                  "text": "depressed by the experience"
+                },
+                {
+                  "k": "C",
+                  "text": "concerned at the high costs"
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "According to recent research, luxury hotels overlook the need to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "provide for the demands of important guests."
+                },
+                {
+                  "k": "B",
+                  "text": "create a comfortable environment."
+                },
+                {
+                  "k": "C",
+                  "text": "offer an individual and personal welcome."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "The company focused their research on",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a wide variety of hotels."
+                },
+                {
+                  "k": "B",
+                  "text": "large, luxury hotel chains."
+                },
+                {
+                  "k": "C",
+                  "text": "exotic holiday hotels."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "What is the impact of the outside environment on a hotel guest?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It has a considerable effect."
+                },
+                {
+                  "k": "B",
+                  "text": "It has a very limited effect."
+                },
+                {
+                  "k": "C",
+                  "text": "It has no effect whatsoever."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            35,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Hotels and the tourist industry",
+          "lines": [
+            "## A company providing luxury serviced apartments aims to:",
+            "cater specifically for {{35}} travellers",
+            "provide a stylish {{36}} for guests to use",
+            "set a trend throughout the {{37}} which becomes permanent",
+            "## Traditional holiday hotels attract people by:",
+            "offering the chance to {{38}} their ordinary routine life",
+            "making sure that they are cared for in all respects — like a {{39}}",
+            "leaving small treats in their rooms — e.g. cosmetics or {{40}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning everyone."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Today's lecture forms part of the Hospitality and Tourism module."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Last week I looked at the economy end of the hotel business; this week I'm going to discuss the luxury end of the market."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's consider the following scenario ..."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You wake up in the middle of the night in a strange hotel miles away from home, disoriented most probably from jet lag, when even the most expensive surroundings can seem empty and dispiriting.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You have paid a great deal of money to stay in this first-class hotel with its contemporary technology, but according to recent research carried out by an international travel and public relations company, all is not well."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The research suggests that even the most opulent, luxurious hotels seem to have underestimated the most basic needs of their customers - be they travelling for work or pleasure: the need to feel at home in surroundings which are both familiar and inviting.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Do these findings, however, apply only to hotels situated in particular areas?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Is it possible that the external environment can affect a guest's well-being?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The company's research covered a whole range of different hotel types, both independent hotels and those which are part of large chains.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They investigated chic so-called boutique hotels in the heart of downtown business districts, stately mansions located in the depths of beautiful countryside, and plush hotels built at the edge of tropical beaches surrounded by palm trees and idyllic blue ocean."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the research concluded that what was outside the hotel building simply didn't matter.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is a fascinating revelation and those of you hoping to move into careers in the travel and leisure industry would be well advised to look at the findings in more detail."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But back to the main point of this lecture ... the need to feel at home."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What can the hotel industry do about it?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And is the very idea so subjective that it's impossible to do anything about it on a global basis?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, nothing stands still in this world."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One company has come up with the slogan 'Take Your Home With You', and aims to provide clients with luxury serviced apartments."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Those in the business travel industry maintain that these serviced apartments dispense with all the unwanted and expensive hotel services that business travellers don't want, while maximising the facilities they do want.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example, not only sleeping and living accommodation, but also a sleek modern kitchen that allows guests to cook and entertain if they wish, at no additional cost.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The attractions of such facilities are obvious and it'll be interesting to see whether the company manages to establish a trend all over the world and make a lasting impact on the luxury accommodation market.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, finally I want to consider the psychology underpinning the traditional holiday hotel industry."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As a hotelier, how do you go about attracting people to give up the security of their own home and entrust themselves to staying in a completely strange place and sleeping in an unfamiliar bed?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Firstly, hotels exploit people's need to escape the predictability of their everyday lives.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For a few days people can pretend they are free of responsibilities and can indulge themselves."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Secondly, there is something very powerful in our need to be pampered and looked after, it's almost as if we return to being a baby, when everything was done for us and we felt safe and secure.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And not far removed from this is the pleasure in being spoilt and given little treats -like the miniscule bottles of shampoo and tiny bars of soap, the chocolate on your pillow at night- and we actually forget that we are paying for it all!",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Next week, I'm going to look at eco-hotels, a fairly new phenomenon but increasingly popular . .."
+        }
+      ]
+    }
+  ]
+}
