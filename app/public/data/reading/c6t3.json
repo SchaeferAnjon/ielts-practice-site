@@ -1,0 +1,928 @@
+{
+  "id": "c6t3",
+  "book": "剑桥雅思6",
+  "test": 3,
+  "title": "剑6 Test 3 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "A"
+    ],
+    "2": [
+      "I"
+    ],
+    "3": [
+      "J"
+    ],
+    "4": [
+      "E"
+    ],
+    "5": [
+      "G"
+    ],
+    "6": [
+      "YES"
+    ],
+    "7": [
+      "NOT GIVEN"
+    ],
+    "8": [
+      "NOT GIVEN"
+    ],
+    "9": [
+      "NO"
+    ],
+    "10": [
+      "B"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "D"
+    ],
+    "13": [
+      "D"
+    ],
+    "14": [
+      "vii"
+    ],
+    "15": [
+      "iii"
+    ],
+    "16": [
+      "ii"
+    ],
+    "17": [
+      "iv"
+    ],
+    "18": [
+      "i"
+    ],
+    "19": [
+      "NO"
+    ],
+    "20": [
+      "NOT GIVEN"
+    ],
+    "21": [
+      "NO"
+    ],
+    "22": [
+      "YES"
+    ],
+    "23": [
+      "NOT GIVEN"
+    ],
+    "24": [
+      "YES"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "C"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "NO"
+    ],
+    "29": [
+      "YES"
+    ],
+    "30": [
+      "YES"
+    ],
+    "31": [
+      "NOT GIVEN"
+    ],
+    "32": [
+      "YES"
+    ],
+    "33": [
+      "A"
+    ],
+    "34": [
+      "B"
+    ],
+    "35": [
+      "C"
+    ],
+    "36": [
+      "A"
+    ],
+    "37": [
+      "B"
+    ],
+    "38": [
+      "glucose"
+    ],
+    "39": [
+      "free radicals"
+    ],
+    "40": [
+      "preservation"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "A",
+      "why": "题干 location of the first cinema，原文A段交代卢米埃兄弟在巴黎 14 Boulevard des Capucines 首映电影。",
+      "key": "The Lumiere Brothers opened their Cinematographe, at 14 Boulevard des Capucines in Paris, to 100 paying customers over 100 years ago, on December 8, 1895."
+    },
+    "2": {
+      "loc": "I",
+      "why": "I段说明电影最终成为讲故事的媒介 (a medium for telling stories)，对应题干 focus on stories。",
+      "key": "But what happened was that it became, overwhelmingly, a medium for telling stories."
+    },
+    "3": {
+      "loc": "J",
+      "why": "J段开头 \"it has all happened so quickly\" 直接对应题干 speed with which cinema has changed。",
+      "key": "And it has all happened so quickly."
+    },
+    "4": {
+      "loc": "E",
+      "why": "E段讲电影让观众了解其他地方/文化 (\"they knew what other places looked like\")，对应 teaches us about other cultures。",
+      "key": "Long before people travelled to America or anywhere else, they knew what other places looked like; they knew how other people worked and lived."
+    },
+    "5": {
+      "loc": "G",
+      "why": "G段讨论明星效应，\"they appear more real to us than we do ourselves\"，对应 attraction of actors。",
+      "key": "Because we watch them so closely and because everybody in the world seems to know who they are, they appear more real to us than we do ourselves."
+    },
+    "6": {
+      "loc": "B",
+      "why": "B段强调要理解最初观众的震惊反应才能理解电影的魔力，与作者观点一致 → YES。",
+      "key": "But it is worth trying, for to understand the initial shock of those images is to understand the extraordinary power and magic of cinema, the unique, hypnotic quality that has made film the most dynamic, effective art form of the 20th century."
+    },
+    "7": {
+      "loc": "C",
+      "why": "原文只说塔可夫斯基称此片为\"work of genius\"，并非作者本人断言这是史上最伟大的影片之一，文中未给出评判 → NOT GIVEN。",
+      "key": "Yet the Russian director Andrei Tarkovsky, one of the greatest of all film artists, described the film as a 'work of genius'."
+    },
+    "8": {
+      "loc": "E",
+      "why": "文章提到美国意象主导了世界电影市场，但并未说这种呈现是\"biased/有偏见的\" → NOT GIVEN。",
+      "key": "American imagery - the cars, the cities, the cowboys - became the primary imagery of film."
+    },
+    "9": {
+      "loc": "H",
+      "why": "H段说早期电影观众只关注movement本身的奇观，故事情节是后来才重要起来的 → NO。",
+      "key": "All that mattered at first was the wonder of movement."
+    },
+    "10": {
+      "loc": "C",
+      "why": "观众因火车画面而恐慌逃跑，说明这段影片展示了早期电影带来的强烈冲击 → B impact of early films。",
+      "key": "That was the moment when cinema was born."
+    },
+    "11": {
+      "loc": "D",
+      "why": "塔可夫斯基认为电影的魅力在于呈现真实的时间流动 (\"dynamic image of the real flow of events\") → C illustrates the passing of time。",
+      "key": "For Tarkovsky, the key to that magic was the way in which cinema created a dynamic image of the real flow of events."
+    },
+    "12": {
+      "loc": "H",
+      "why": "H段提到当时有人认为电影只是一时的noveltly/gimmick，说明其未来并不确定 → D its future was uncertain。",
+      "key": "It was no more than a passing gimmick, a fairground attraction."
+    },
+    "13": {
+      "loc": "D",
+      "why": "全文围绕电影独特的\"魔力/power\"展开，最贴切的标题是 D The power of the big screen（此题答案与D段主旨呼应）。",
+      "key": "Film has never lost its unique power to embrace its audiences and transport them to a different world."
+    },
+    "14": {
+      "loc": "kp2",
+      "why": "Key Point Two讲设定具体目标并给予反馈，对应标题 vii Establish targets and give feedback。",
+      "key": "KEY POINT TWO The literature on goal-setting theory suggests that managers should ensure that all employees have specific goals and receive comments on how well they are doing in those goals."
+    },
+    "15": {
+      "loc": "kp3",
+      "why": "Key Point Three指出如果员工认为目标不现实/无法达成就会降低努力，对应标题 iii Ensure targets are realistic。",
+      "key": "KEY POINT THREE Regardless of whether goals are achievable or well within management's perceptions of the employee's ability, if employees see them as unachievable they will reduce their effort."
+    },
+    "16": {
+      "loc": "kp4",
+      "why": "Key Point Four讲根据员工不同需求个性化奖励，对应标题 ii Match rewards to individuals。",
+      "key": "Managers could use their knowledge of each employee to personalise the rewards over which they have control."
+    },
+    "17": {
+      "loc": "kp5",
+      "why": "Key Point Five强调奖励要与业绩挂钩，对应标题 iv Link rewards to achievement。",
+      "key": "KEY POINT FIVE Managers need to make rewards contingent on performance."
+    },
+    "18": {
+      "loc": "kp6",
+      "why": "Key Point Six讨论奖励分配要公平透明，对应标题 i Ensure the reward system is fair。",
+      "key": "KEY POINT SIX The way rewards are distributed should be transparent so that employees perceive that rewards or outcomes are equitable and equal to the inputs given."
+    },
+    "19": {
+      "loc": "challenge1",
+      "why": "原文说组织收缩时流失的正是技能最高的员工，留下的是能力较弱的员工，与题干相反 → NO。",
+      "key": "Unfortunately, they are the ones the organisation can least afford to lose -those with the highest skills and experience."
+    },
+    "20": {
+      "loc": "kp1",
+      "why": "原文只是说不同规模的岗位需要不同类型的员工，并未比较管理小企业和大企业哪个更容易 → NOT GIVEN。",
+      "key": "For example, if the job is running a small business or an autonomous unit within a larger business, high achievers should be sought."
+    },
+    "21": {
+      "loc": "kp1",
+      "why": "文中说管理岗位需要\"低亲和需求\"的人选，暗示高成就者更看重独立性而非团队合作 → NO。",
+      "key": "However, if the job to be filled is a managerial post in a large bureaucratic organisation, a candidate who has a high need for power and a low need for affiliation should be selected."
+    },
+    "22": {
+      "loc": "kp2",
+      "why": "原文明确提到员工可能把参与目标设定的过程视为一种操纵 → YES。",
+      "key": "If participation and the culture are incongruous, employees are likely to perceive the participation process as manipulative and be negatively affected by it."
+    },
+    "23": {
+      "loc": "kp3",
+      "why": "原文只提到员工需要认为考核过程是有效的，并未说考核流程应由员工设计 → NOT GIVEN。",
+      "key": "For managers, this means that employees must have the capability of doing the job and must regard the appraisal process as valid."
+    },
+    "24": {
+      "loc": "kp5",
+      "why": "原文建议公开每个人的薪酬信息以消除保密带来的负面影响 → YES。",
+      "key": "Eliminating the secrecy surrounding pay by openly communicating everyone's remuneration, publicising performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards more visible and potentially more motivating."
+    },
+    "25": {
+      "loc": "kp2",
+      "why": "高成就者本身就有内在动机，对外部目标依赖较少，对应描述 B they have less need of external goals。",
+      "key": "For those with high achievement needs, typically a minority in any organisation, the existence of external goals is less important because high achievers are already internally motivated."
+    },
+    "26": {
+      "loc": "kp6",
+      "why": "文员最看重工作质量和专业知识，对应描述 C think the quality of their work is important。",
+      "key": "The clerical workers considered factors such as quality of work performed and job knowledge near the top of their list, but these were at the bottom of the production workers' list."
+    },
+    "27": {
+      "loc": "kp6",
+      "why": "生产工人把晋升排在很高的位置，对应描述 A they judge promotion to be important。",
+      "key": "For example, production workers rated advancement very highly, whereas clerical workers rated advancement in the lower third of their list."
+    },
+    "28": {
+      "loc": "p1",
+      "why": "原文明确说目前市面上没有药物被证实能延缓人类衰老，与题干相反 → NO。",
+      "key": "As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging - the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grow older."
+    },
+    "29": {
+      "loc": "p1",
+      "why": "原文说热量限制的研究结果提示它也可能延缓衰老、延长人类寿命 → YES。",
+      "key": "Those findings suggest that caloric restriction could delay aging and increase longevity in humans, too."
+    },
+    "30": {
+      "loc": "p2",
+      "why": "原文说很少有人能坚持这种严苛的低热量饮食，说明这种饮食并不吸引人 → YES。",
+      "key": "Few mortals could stick to that harsh a regimen, especially for years on end."
+    },
+    "31": {
+      "loc": "p2",
+      "why": "原文只列举了一些\"与年龄相关\"的疾病，并未说这些疾病是\"与饮食相关\"且在老年人中常见 → NOT GIVEN。",
+      "key": "Could such a 'caloric-restriction mimetic', as we call it, enable people to stay healthy longer, postponing age-related disorders (such as diabetes, arteriosclerosis, heart disease and cancer) until very late in life?"
+    },
+    "32": {
+      "loc": "p3",
+      "why": "原文实验显示自由进食（吃自己想吃的）大鼠平均寿命反而更短，低热量饮食大鼠活得更久 → YES。",
+      "key": "Scientists first recognized the value of the practice more than 60 years ago, when they found that rats fed a low-calorie diet lived longer on average than free-feeding rats and also had a reduced incidence of conditions that become increasingly common in old age."
+    },
+    "33": {
+      "loc": "p6",
+      "why": "受限热量猴子血糖水平更正常，糖尿病风险更低，对应 A caloric-restricted monkeys。",
+      "key": "For example, they have lower blood pressure and triglyceride levels (signifying a decreased likelihood of heart disease), and they have more normal blood glucose levels (pointing to a reduced risk for diabetes, which is marked by unusually high blood glucose levels)."
+    },
+    "34": {
+      "loc": "p6",
+      "why": "文中说热量受限的猴子慢性病更少，相较之下正常喂养的对照组猴子慢性病更多，对应 B control monkeys。",
+      "key": "Further, it has recently been shown that rhesus monkeys kept on caloric-restricted diets for an extended time (nearly I 5 years) have less chronic disease."
+    },
+    "35": {
+      "loc": "p6",
+      "why": "原文说还需要更长时间追踪才能确认两组猴子寿命是否延长，目前两组都尚未被证实寿命更长 → C neither。",
+      "key": "They and the other monkeys must be followed still longer, however, to know whether low-calorie intake can increase both average and maximum lifespans in monkeys."
+    },
+    "36": {
+      "loc": "p6",
+      "why": "受限热量猴子血压和甘油三酯更低，患心脏病风险更低，对应 A caloric-restricted monkeys。",
+      "key": "For example, they have lower blood pressure and triglyceride levels (signifying a decreased likelihood of heart disease), and they have more normal blood glucose levels (pointing to a reduced risk for diabetes, which is marked by unusually high blood glucose levels)."
+    },
+    "37": {
+      "loc": "p5",
+      "why": "受限热量猴子胰岛素水平更低，说明对照组（正常喂养）猴子的胰岛素水平相对更高，对应 B control monkeys。",
+      "key": "The monkey projects demonstrate that, compared with control animals that eat normally, caloric-restricted monkeys have lower body temperatures and levels of the pancreatic hormone insulin, and they retain more youthful levels of certain hormones that tend to fall with age."
+    },
+    "38": {
+      "loc": "p8",
+      "why": "细胞处理的糖（glucose）减少，ATP合成随之下降，填空应为 glucose。",
+      "key": "By limiting food intake, caloric restriction minimizes the amount of glucose entering cells and decreases ATP generation."
+    },
+    "39": {
+      "loc": "p8",
+      "why": "理论一认为减少了自由基（free radicals）的产生，从而减少细胞损伤。",
+      "key": "One possibility relates to the ATP-making machinery's emission of free radicals, which are thought to contribute to aging and to such age-related diseases as cancer by damaging cells."
+    },
+    "40": {
+      "loc": "p8",
+      "why": "理论二认为细胞误以为食物匮乏，从而转向以\"保存/preservation\"自身为重的抗衰老模式。",
+      "key": "Another hypothesis suggests that decreased processing of glucose could indicate to cells that food is scarce (even if it isn't) and induce them to shift into an anti-aging mode that emphasizes preservation of the organism over such 'luxuries' as growth and reproduction."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "The power of the big screen",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "The Lumiere Brothers opened their Cinematographe, at 14 Boulevard des Capucines in Paris, to 100 paying customers over 100 years ago, on December 8, 1895. Before the eyes of the stunned, thrilled audience, photographs come to life and moved across a flat screen."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "So ordinary and routine has this become to us that it takes a determined leap of the imagination to grasp the impact of those first moving images. But it is worth trying, for to understand the initial shock of those images is to understand the extraordinary power and magic of cinema, the unique, hypnotic quality that has made film the most dynamic, effective art form of the 20th century."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "One of the Lumiere Brothers' earliest films was a 30-second piece which showed a section of a railway platform flooded with sunshine. A train appears and heads straight for the camera. And that is all that happens. Yet the Russian director Andrei Tarkovsky, one of the greatest of all film artists, described the film as a 'work of genius'. 'As the train approached,' wrote Tarkovsky, 'panic started in the theatre: people jumped and ran away. That was the moment when cinema was born. The frightened audience could not accept that they were watching a mere picture. Pictures were still, only reality moved; this must, therefore, be reality. In their confusion, they feared that a real train was about to crush them.'"
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Early cinema audiences often experienced the same confusion. In time, the idea of film became familiar, the magic was accepted - but it never stopped being magic. Film has never lost its unique power to embrace its audiences and transport them to a different world. For Tarkovsky, the key to that magic was the way in which cinema created a dynamic image of the real flow of events. A still picture could only imply the existence of time, while time in a novel passed at the whim of the reader. But in cinema, the real, objective flow of time was captured."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "One effect of this realism was to educate the world about itself. For cinema makes the world smaller. Long before people travelled to America or anywhere else, they knew what other places looked like; they knew how other people worked and lived. Overwhelmingly, the lives recorded - at least in film fiction - have been American. From the earliest days of the industry, Hollywood has dominated the world film market. American imagery - the cars, the cities, the cowboys - became the primary imagery of film. Film carried American life and values around the globe."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "And, thanks to film, future generations will know the 20th century more intimately than any other period. We can only imagine what life was like in the 14th century or in classical Greece. But the life of the modern world has been recorded on film in massive, encyclopaedic detail. We shall be known better than any preceding generations."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "The 'star' was another natural consequence of cinema. The cinema star was effectively born in 1910. Film personalities have such an immediate presence that, inevitably, they become super-real. Because we watch them so closely and because everybody in the world seems to know who they are, they appear more real to us than we do ourselves. The star as magnified human self is one of cinema's most strange and enduring legacies."
+        },
+        {
+          "id": "H",
+          "label": "H",
+          "text": "Cinema has also given a new lease of life to the idea of the story. When the Lumiere Brothers and other pioneers began showing off this new invention, it was by no means obvious how it would be used. All that mattered at first was the wonder of movement. Indeed, some said that, once this novelty had worn off, cinema would fade away. It was no more than a passing gimmick, a fairground attraction."
+        },
+        {
+          "id": "I",
+          "label": "I",
+          "text": "Cinema might, for example, have become primarily a documentary form. Or it might have developed like television - as a strange, noisy transfer of music, information and narrative. But what happened was that it became, overwhelmingly, a medium for telling stories. Originally these were conceived as short stories - early producers doubted the ability of audiences to concentrate for more than the length of a reel. Then, in 1912, an Italian 2-hour film was hugely successful, and Hollywood settled upon the novel-length narrative that remains the dominant cinematic convention of today."
+        },
+        {
+          "id": "J",
+          "label": "J",
+          "text": "And it has all happened so quickly. Almost unbelievably, it is a mere 100 years since that train arrived and the audience screamed and fled, convinced by the dangerous reality of what they saw, and, perhaps, suddenly aware that the world could never be the same again - that, maybe, it could be better, brighter, more astonishing, more real than reality."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            5
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 1 has ten paragraphs, A-J. Which paragraph contains the following information? Write the correct letter, A-J, in boxes 1-5 on your answer sheet.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "the location of the first cinema"
+            },
+            {
+              "n": 2,
+              "text": "how cinema came to focus on stories"
+            },
+            {
+              "n": 3,
+              "text": "the speed with which cinema has changed"
+            },
+            {
+              "n": 4,
+              "text": "how cinema teaches us about other cultures"
+            },
+            {
+              "n": 5,
+              "text": "the attraction of actors in films"
+            }
+          ]
+        },
+        {
+          "range": [
+            6,
+            9
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 1? In boxes 6-9 on your answer sheet, write",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the views of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the views of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 6,
+              "text": "It is important to understand how the first audiences reacted to the cinema."
+            },
+            {
+              "n": 7,
+              "text": "The Lumiere Brothers' film about the train was one of the greatest films ever made."
+            },
+            {
+              "n": 8,
+              "text": "Cinema presents a biased view of other countries."
+            },
+            {
+              "n": 9,
+              "text": "Storylines were important in very early cinema."
+            }
+          ]
+        },
+        {
+          "range": [
+            10,
+            13
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 10-13 on your answer sheet.",
+          "questions": [
+            {
+              "n": 10,
+              "text": "The writer refers to the film of the train in order to demonstrate",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the simplicity of early films."
+                },
+                {
+                  "k": "B",
+                  "text": "the impact of early films."
+                },
+                {
+                  "k": "C",
+                  "text": "how short early films were."
+                },
+                {
+                  "k": "D",
+                  "text": "how imaginative early films were."
+                }
+              ]
+            },
+            {
+              "n": 11,
+              "text": "In Tarkovsky's opinion, the attraction of the cinema is that it",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "aims to impress its audience."
+                },
+                {
+                  "k": "B",
+                  "text": "tells stories better than books."
+                },
+                {
+                  "k": "C",
+                  "text": "illustrates the passing of time."
+                },
+                {
+                  "k": "D",
+                  "text": "describes familiar events."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "When cinema first began, people thought that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "it would always tell stories."
+                },
+                {
+                  "k": "B",
+                  "text": "it should be used in fairgrounds."
+                },
+                {
+                  "k": "C",
+                  "text": "its audiences were unappreciative."
+                },
+                {
+                  "k": "D",
+                  "text": "its future was uncertain."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "What is the best title for this passage?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "The rise of the cinema star"
+                },
+                {
+                  "k": "B",
+                  "text": "Cinema and novels compared"
+                },
+                {
+                  "k": "C",
+                  "text": "The domination of Hollywood"
+                },
+                {
+                  "k": "D",
+                  "text": "The power of the big screen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Motivating Employees under Adverse Conditions",
+      "intro": "You should spend about 20 minutes on Questions 14-27, which are based on Reading Passage 2 on the following pages.",
+      "paragraphs": [
+        {
+          "id": "challenge1",
+          "text": "THE CHALLENGE It is a great deal easier to motivate employees in a growing organisation than a declining one. When organisations are expanding and adding personnel, promotional opportunities, pay rises, and the excitement of being associated with a dynamic organisation create feelings of optimism . Management is able to use the growth to entice and encourage employees. When an organisation is shrinking, the best and most mobile workers are prone to leave voluntarily. Unfortunately, they are the ones the organisation can least afford to lose -those with the highest skills and experience. The minor employees remain because their job options are limited."
+        },
+        {
+          "id": "challenge2",
+          "text": "Morale also suffers during decline. People fear they may be the next to be made redundant. Productivity often suffers, as employees spend their time sharing rumours and providing one another with moral support rather than focusing on their jobs. For those whose jobs are secure, pay increases are rarely possible. Pay cuts, unheard of during times of growth, may even be imposed. The challenge to management is how to motivate employees under such retrenchment conditions . The ways of meeting this challenge can be broadly divided into six Key Points, which are outlined below."
+        },
+        {
+          "id": "kp1",
+          "text": "KEY POINT ONE There is an abundance of evidence to support the motivational benefits that result from carefully matching people to jobs. For example, if the job is running a small business or an autonomous unit within a larger business, high achievers should be sought. However, if the job to be filled is a managerial post in a large bureaucratic organisation, a candidate who has a high need for power and a low need for affiliation should be selected. Accordingly, high achievers should not be put into jobs that are inconsistent with their needs. High achievers will do best when the job provides moderately challenging goals and where there is independence and feedback. However, it should be remembered that not everybody is motivated by jobs that are high in independence, variety and responsibility."
+        },
+        {
+          "id": "kp2",
+          "text": "KEY POINT TWO The literature on goal-setting theory suggests that managers should ensure that all employees have specific goals and receive comments on how well they are doing in those goals. For those with high achievement needs, typically a minority in any organisation, the existence of external goals is less important because high achievers are already internally motivated. The next factor to be determined is whether the goals should be assigned by a manager or collectively set in conjunction with the employees . The answer to that depends on perceptions of goal acceptance and the organisation's culture. If resistance to goals is expected, the use of participation in goal-setting should increase acceptance. If participation is inconsistent with the culture, however, goals should be assigned. If participation and the culture are incongruous, employees are likely to perceive the participation process as manipulative and be negatively affected by it."
+        },
+        {
+          "id": "kp3",
+          "text": "KEY POINT THREE Regardless of whether goals are achievable or well within management's perceptions of the employee's ability, if employees see them as unachievable they will reduce their effort. Managers must be sure, therefore, that employees feel confident that their efforts can lead to performance goals. For managers, this means that employees must have the capability of doing the job and must regard the appraisal process as valid."
+        },
+        {
+          "id": "kp4",
+          "text": "KEY POINT FOUR Since employees have different needs, what acts as a reinforcement for one may not for another. Managers could use their knowledge of each employee to personalise the rewards over which they have control. Some of the more obvious rewards that managers allocate include pay, promotions, autonomy, job scope and depth, and the opportunity to participate in goal-setting and decision-making."
+        },
+        {
+          "id": "kp5",
+          "text": "KEY POINT FIVE Managers need to make rewards contingent on performance. To reward factors other than performance will only reinforce those other factors. Key rewards such as pay increases and promotions or advancements should be allocated for the attainment of the employee's specific goals. Consistent with maximising the impact of rewards, managers should look for ways to increase their visibility. Eliminating the secrecy surrounding pay by openly communicating everyone's remuneration, publicising performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards more visible and potentially more motivating."
+        },
+        {
+          "id": "kp6",
+          "text": "KEY POINT SIX The way rewards are distributed should be transparent so that employees perceive that rewards or outcomes are equitable and equal to the inputs given. On a simplistic level, experience, abilities, effort and other obvious inputs should explain differences in pay, responsibility and other obvious outcomes. The problem, however, is complicated by the existence of dozens of inputs and outcomes and by the fact that employee groups place different degrees of importance on them. For instance, a study comparing clerical and production workers identified nearly twenty inputs and outcomes. The clerical workers considered factors such as quality of work performed and job knowledge near the top of their list, but these were at the bottom of the production workers' list. Similarly, production workers thought that the most important inputs were intelligence and personal involvement with task accomplishment, two factors that were quite low in the importance ratings of the clerks. There were also important, though less dramatic, differences on the outcome side. For example, production workers rated advancement very highly, whereas clerical workers rated advancement in the lower third of their list. Such findings suggest that one person's equity is another's inequity, so an ideal should probably weigh different inputs and outcomes according to employee group."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            18
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 2 contains six Key Points. Choose the correct heading for Key Points TWO to SIX from the list of headings below.",
+          "limit": "Write the correct number, i-viii, in boxes 14-18 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "Ensure the reward system is fair"
+            },
+            {
+              "k": "ii",
+              "text": "Match rewards to individuals"
+            },
+            {
+              "k": "iii",
+              "text": "Ensure targets are realistic"
+            },
+            {
+              "k": "iv",
+              "text": "Link rewards to achievement"
+            },
+            {
+              "k": "v",
+              "text": "Encourage managers to take more responsibility"
+            },
+            {
+              "k": "vi",
+              "text": "Recognise changes in employees' performance over time"
+            },
+            {
+              "k": "vii",
+              "text": "Establish targets and give feedback"
+            },
+            {
+              "k": "viii",
+              "text": "Ensure employees are suited to their jobs"
+            }
+          ],
+          "itemsTitle": "Key Points",
+          "items": [
+            {
+              "n": 14,
+              "text": "Key Point Two"
+            },
+            {
+              "n": 15,
+              "text": "Key Point Three"
+            },
+            {
+              "n": 16,
+              "text": "Key Point Four"
+            },
+            {
+              "n": 17,
+              "text": "Key Point Five"
+            },
+            {
+              "n": 18,
+              "text": "Key Point Six"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            24
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 2? In boxes 19-24 on your answer sheet, write",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the views of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the views of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 19,
+              "text": "A shrinking organisation tends to lose its less skilled employees rather than its more skilled employees."
+            },
+            {
+              "n": 20,
+              "text": "It is easier to manage a small business than a large business."
+            },
+            {
+              "n": 21,
+              "text": "High achievers are well suited to team work."
+            },
+            {
+              "n": 22,
+              "text": "Some employees can feel manipulated when asked to participate in goal-setting."
+            },
+            {
+              "n": 23,
+              "text": "The staff appraisal process should be designed by employees."
+            },
+            {
+              "n": 24,
+              "text": "Employees' earnings should be disclosed to everyone within the organisation."
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            27
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following groups of workers (Questions 25-27) and the list of descriptions below. Match each group with the correct description, A-E. Write the correct letter, A-E, in boxes 25-27 on your answer sheet.",
+          "optionsTitle": "List of Descriptions",
+          "options": [
+            {
+              "k": "A",
+              "text": "They judge promotion to be important."
+            },
+            {
+              "k": "B",
+              "text": "They have less need of external goals."
+            },
+            {
+              "k": "C",
+              "text": "They think that the quality of their work is important."
+            },
+            {
+              "k": "D",
+              "text": "They resist goals which are imposed."
+            },
+            {
+              "k": "E",
+              "text": "They have limited job options."
+            }
+          ],
+          "questions": [
+            {
+              "n": 25,
+              "text": "high achievers"
+            },
+            {
+              "n": 26,
+              "text": "clerical workers"
+            },
+            {
+              "n": 27,
+              "text": "production workers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "The Search for the Anti-aging Pill",
+      "subtitle": "In government laboratories and elsewhere, scientists are seeking a drug able to prolong life and youthful vigor. Studies of caloric restriction are showing the way",
+      "intro": "You should spend about 20 minutes on Questions 28-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging - the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grow older. But one intervention, consumption of a low-calorie* yet nutritionally balanced diet, works incredibly well in a broad range of animals, increasing longevity and prolonging good health. Those findings suggest that caloric restriction could delay aging and increase longevity in humans, too."
+        },
+        {
+          "id": "p2",
+          "text": "Unfortunately, for maximum benefit, people would probably have to reduce their caloric intake by roughly thirty per cent, equivalent to dropping from 2,500 calories a day to 1,750. Few mortals could stick to that harsh a regimen, especially for years on end. But what if someone could create a pill that mimicked the physiological effects of eating less without actually forcing people to eat less? Could such a 'caloric-restriction mimetic', as we call it, enable people to stay healthy longer, postponing age-related disorders (such as diabetes, arteriosclerosis, heart disease and cancer) until very late in life? Scientists first posed this question in the mid-1990s, after researchers came upon a chemical agent that in rodents seemed to reproduce many of caloric restriction's benefits. No compound that would safely achieve the same feat in people has been found yet, but the search has been informative and has fanned hope that caloric-restriction (CR) mimetics can indeed be developed eventually."
+        },
+        {
+          "id": "p3",
+          "text": "The benefits of caloric restriction The hunt for CR mimetics grew out of a desire to better understand caloric restriction's many effects on the body. Scientists first recognized the value of the practice more than 60 years ago, when they found that rats fed a low-calorie diet lived longer on average than free-feeding rats and also had a reduced incidence of conditions that become increasingly common in old age. What is more, some of the treated animals survived longer than the oldest-living animals in the control group, which means that the maximum lifespan (the oldest attainable age), not merely the normal lifespan, increased. Various interventions, such as infection-fighting drugs, can increase a population's average survival time, but only approaches that slow the body's rate of aging will increase the maximum lifespan."
+        },
+        {
+          "id": "p4",
+          "text": "The rat findings have been replicated many times and extended to creatures ranging from yeast to fruit flies, worms, fish, spiders, mice and hamsters. Until fairly recently, the studies were limited to short-lived creatures genetically distant from humans. But caloric-restriction projects underway in two species more closely related to humans - rhesus and squirrel monkeys - have made scientists optimistic that CR mimetics could help people."
+        },
+        {
+          "id": "p5",
+          "text": "The monkey projects demonstrate that, compared with control animals that eat normally, caloric-restricted monkeys have lower body temperatures and levels of the pancreatic hormone insulin, and they retain more youthful levels of certain hormones that tend to fall with age."
+        },
+        {
+          "id": "p6",
+          "text": "The caloric-restricted animals also look better on indicators of risk for age-related diseases. For example, they have lower blood pressure and triglyceride levels (signifying a decreased likelihood of heart disease), and they have more normal blood glucose levels (pointing to a reduced risk for diabetes, which is marked by unusually high blood glucose levels). Further, it has recently been shown that rhesus monkeys kept on caloric-restricted diets for an extended time (nearly I 5 years) have less chronic disease. They and the other monkeys must be followed still longer, however, to know whether low-calorie intake can increase both average and maximum lifespans in monkeys. Unlike the multitude of elixirs being touted as the latest anti-aging cure, CR mimetics would alter fundamental processes that underlie aging. We aim to develop compounds that fool cells into activating maintenance and repair."
+        },
+        {
+          "id": "p7",
+          "text": "How a prototype caloric-restriction mimetic works The best-studied candidate for a caloric-restriction mimetic, 2DG (2-deoxy-D-glucose), works by interfering with the way cells process glucose. It has proved toxic at some doses in animals and so cannot be used in humans. But it has demonstrated that chemicals can replicate the effects of caloric restriction; the trick is finding the right one."
+        },
+        {
+          "id": "p8",
+          "text": "Cells use the glucose from food to generate ATP (adenosine triphosphate), the molecule that powers many activities in the body. By limiting food intake, caloric restriction minimizes the amount of glucose entering cells and decreases ATP generation. When 2DG is administered to animals that eat normally, glucose reaches cells in abundance but the drug prevents most of it from being processed and thus reduces ATP synthesis. Researchers have proposed several explanations for why interruption of glucose processing and ATP production might retard aging. One possibility relates to the ATP-making machinery's emission of free radicals, which are thought to contribute to aging and to such age-related diseases as cancer by damaging cells. Reduced operation of the machinery should limit their production and thereby constrain the damage. Another hypothesis suggests that decreased processing of glucose could indicate to cells that food is scarce (even if it isn't) and induce them to shift into an anti-aging mode that emphasizes preservation of the organism over such 'luxuries' as growth and reproduction."
+        }
+      ],
+      "footnotes": [
+        "calorie: a measure of the energy value of food"
+      ],
+      "groups": [
+        {
+          "range": [
+            28,
+            32
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? In boxes 28-32 on your answer sheet, write",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 28,
+              "text": "Studies show drugs available today can delay the process of growing old."
+            },
+            {
+              "n": 29,
+              "text": "There is scientific evidence that eating fewer calories may extend human life."
+            },
+            {
+              "n": 30,
+              "text": "Not many people are likely to find a caloric-restricted diet attractive."
+            },
+            {
+              "n": 31,
+              "text": "Diet-related diseases are common in older people."
+            },
+            {
+              "n": 32,
+              "text": "In experiments, rats who ate what they wanted led shorter lives than rats on a low-calorie diet."
+            }
+          ]
+        },
+        {
+          "range": [
+            33,
+            37
+          ],
+          "type": "matching",
+          "instruction": "Classify the following descriptions as relating to A caloric-restricted monkeys, B control monkeys, C neither caloric-restricted monkeys nor control monkeys. Write the correct letter, A, B or C, in boxes 33-37 on your answer sheet.",
+          "optionsTitle": "Classification",
+          "options": [
+            {
+              "k": "A",
+              "text": "caloric-restricted monkeys"
+            },
+            {
+              "k": "B",
+              "text": "control monkeys"
+            },
+            {
+              "k": "C",
+              "text": "neither caloric-restricted monkeys nor control monkeys"
+            }
+          ],
+          "itemsTitle": "Statements",
+          "items": [
+            {
+              "n": 33,
+              "text": "Monkeys were less likely to become diabetic."
+            },
+            {
+              "n": 34,
+              "text": "Monkeys experienced more chronic disease."
+            },
+            {
+              "n": 35,
+              "text": "Monkeys have been shown to experience a longer than average life span."
+            },
+            {
+              "n": 36,
+              "text": "Monkeys enjoyed a reduced chance of heart disease."
+            },
+            {
+              "n": 37,
+              "text": "Monkeys produced greater quantities of insulin."
+            }
+          ]
+        },
+        {
+          "range": [
+            38,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the flow-chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 38-40 on your answer sheet.",
+          "title": "How a caloric-restriction mimetic works",
+          "lines": [
+            "CR mimetic",
+            "↓",
+            "less {{38}} is processed",
+            "↓",
+            "production of ATP is decreased",
+            "## Theory 1",
+            "cells are less damaged by disease because fewer {{39}} are emitted",
+            "## Theory 2",
+            "cells focus on {{40}} because food is in short supply"
+          ]
+        }
+      ]
+    }
+  ]
+}

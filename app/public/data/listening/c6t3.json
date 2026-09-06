@@ -1,0 +1,2284 @@
+{
+  "id": "c6t3",
+  "book": "剑桥雅思6",
+  "test": 3,
+  "title": "剑6 Test 3 · Listening",
+  "source": "Cambridge IELTS 6, Test 3（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "Select"
+    ],
+    "2": [
+      "27.01.1973",
+      "27/01/1973",
+      "27th January 1973"
+    ],
+    "3": [
+      "15 Riverside"
+    ],
+    "4": [
+      "2 weeks",
+      "two weeks"
+    ],
+    "5": [
+      "616295"
+    ],
+    "6": [
+      "engineer"
+    ],
+    "7": [
+      "mother"
+    ],
+    "8": [
+      "2000",
+      "2,000",
+      "€2,000"
+    ],
+    "9": [
+      "month",
+      "once a month"
+    ],
+    "10": [
+      "internet"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "H"
+    ],
+    "15": [
+      "F"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "D"
+    ],
+    "18": [
+      "field"
+    ],
+    "19": [
+      "footbridge"
+    ],
+    "20": [
+      "viewpoint"
+    ],
+    "21": [
+      "entertainment industry"
+    ],
+    "22": [
+      "telephone interviews"
+    ],
+    "23": [
+      "30",
+      "thirty"
+    ],
+    "24": [
+      "male and female"
+    ],
+    "25": [
+      "Jazz",
+      "jazz"
+    ],
+    "26": [
+      "classical"
+    ],
+    "27": [
+      "concerts"
+    ],
+    "28": [
+      "department stores"
+    ],
+    "29": [
+      "club"
+    ],
+    "30": [
+      "opera house"
+    ],
+    "31": [
+      "C"
+    ],
+    "32": [
+      "A"
+    ],
+    "33": [
+      "A"
+    ],
+    "34": [
+      "B"
+    ],
+    "35": [
+      "people"
+    ],
+    "36": [
+      "water and sand",
+      "sand and water"
+    ],
+    "37": [
+      "Scotland"
+    ],
+    "38": [
+      "outside"
+    ],
+    "39": [
+      "local"
+    ],
+    "40": [
+      "tops"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c6/t3p1.mp3",
+      "duration": 405,
+      "title": "Opening a Bank Account",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the form below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "OPENING A BANK ACCOUNT",
+          "table": {
+            "head": [
+              "Field",
+              "Details"
+            ],
+            "rows": [
+              [
+                "Application for a",
+                "Current bank account (Example)"
+              ],
+              [
+                "Type of current account",
+                "The {{1}} account"
+              ],
+              [
+                "Full name of applicant",
+                "Pieter Henes"
+              ],
+              [
+                "Date of birth",
+                "{{2}}"
+              ],
+              [
+                "Joint account holder(s)",
+                "No"
+              ],
+              [
+                "Current address",
+                "{{3}}, Exeter"
+              ],
+              [
+                "Time at current address",
+                "{{4}}"
+              ],
+              [
+                "Previous address",
+                "Rielsdorf 2, Utrecht, Holland"
+              ],
+              [
+                "Telephone",
+                "work {{5}}\nhome 796431"
+              ],
+              [
+                "Occupation",
+                "{{6}}"
+              ],
+              [
+                "Identity (security)",
+                "Name of his {{7}}: Siti"
+              ],
+              [
+                "Opening sum",
+                "€{{8}} to be transferred from Fransen Bank, Utrecht"
+              ],
+              [
+                "Statements",
+                "Every {{9}}"
+              ],
+              [
+                "Requests",
+                "Supply information about the bank's {{10}} service"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "PIETER",
+          "t": "Good morning.",
+          "start": 91.1,
+          "end": 91.42
+        },
+        {
+          "s": "PIETER",
+          "t": "I'd like to open a bank account, please.",
+          "start": 91.94,
+          "end": 93.66
+        },
+        {
+          "s": "WOMAN",
+          "t": "Certainly.",
+          "start": 93.82,
+          "end": 94.46
+        },
+        {
+          "s": "WOMAN",
+          "t": "If you'd like to take a seat, I'll just get some details from you.",
+          "start": 94.66,
+          "end": 97.9
+        },
+        {
+          "s": "WOMAN",
+          "t": "It won't take long.",
+          "start": 98.34,
+          "end": 99.22
+        },
+        {
+          "s": "PIETER",
+          "t": "Thanks.",
+          "start": 99.38,
+          "end": 99.98
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is it a current account or a deposit account you wanted?",
+          "start": 100.66,
+          "end": 103.98
+        },
+        {
+          "s": "PIETER",
+          "t": "A current account.",
+          "start": 104.69,
+          "end": 105.33
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right.",
+          "start": 105.97,
+          "end": 106.09
+        },
+        {
+          "s": "WOMAN",
+          "t": "I've got the application form here then.",
+          "start": 106.09,
+          "end": 109.77
+        },
+        {
+          "s": "WOMAN",
+          "t": "We have different types- I see you've got our leaflet there.",
+          "start": 110.45,
+          "end": 113.81
+        },
+        {
+          "s": "PIETER",
+          "t": "I've decided on the one called 'Select'.",
+          "q": [
+            1
+          ],
+          "start": 114.61,
+          "end": 115.61
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right, that's fine, so, first of all, can I have your full name please?",
+          "start": 116.93,
+          "end": 120.73
+        },
+        {
+          "s": "PIETER",
+          "t": "Yes, it's Pieter Henes.",
+          "start": 121.29,
+          "end": 121.93
+        },
+        {
+          "s": "PIETER",
+          "t": "That's P-I-E-T-E-R.",
+          "start": 122.85,
+          "end": 126.01
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is it H- E-double N-E-S?",
+          "start": 126.77,
+          "end": 128.73
+        },
+        {
+          "s": "PIETER",
+          "t": "Uh, only one N actually.",
+          "start": 129.29,
+          "end": 130.85
+        },
+        {
+          "s": "PIETER",
+          "t": "It's a less common spelling of the name.",
+          "start": 131.09,
+          "end": 132.97
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, right.",
+          "start": 132.97,
+          "end": 132.97,
+          "estimated": true
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK.",
+          "start": 134.49,
+          "end": 135.49
+        },
+        {
+          "s": "WOMAN",
+          "t": "And what's your date of birth please?",
+          "start": 135.49,
+          "end": 137.21
+        },
+        {
+          "s": "PIETER",
+          "t": "The twenty-seventh of the first. nineteen seventy-three.",
+          "q": [
+            2
+          ],
+          "start": 137.77,
+          "end": 139.29
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right.",
+          "start": 141.77,
+          "end": 141.93
+        },
+        {
+          "s": "WOMAN",
+          "t": "And will this be a joint account?",
+          "start": 142.65,
+          "end": 144.45
+        },
+        {
+          "s": "PIETER",
+          "t": "No, just myself.",
+          "start": 145.17,
+          "end": 145.97
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK, fine.",
+          "start": 146.37,
+          "end": 147.93
+        },
+        {
+          "s": "WOMAN",
+          "t": "And where are you living, Mr Henes?",
+          "start": 148.21,
+          "end": 149.53
+        },
+        {
+          "s": "PIETER",
+          "t": "15.",
+          "start": 150.74,
+          "end": 150.86
+        },
+        {
+          "s": "PIETER",
+          "t": "Riverside.",
+          "q": [
+            3
+          ],
+          "start": 150.94,
+          "end": 151.98
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is that all one word?",
+          "start": 152.54,
+          "end": 153.7
+        },
+        {
+          "s": "PIETER",
+          "t": "Yes.",
+          "start": 153.82,
+          "end": 154.14
+        },
+        {
+          "s": "WOMAN",
+          "t": "Exeter?",
+          "start": 154.14,
+          "end": 154.14,
+          "estimated": true
+        },
+        {
+          "s": "PIETER",
+          "t": "Yes.",
+          "start": 156.02,
+          "end": 156.1
+        },
+        {
+          "s": "WOMAN",
+          "t": "How long have you been at your present address?",
+          "start": 156.38,
+          "end": 159.18
+        },
+        {
+          "s": "WOMAN",
+          "t": "Er, is it more than two years?",
+          "start": 160.02,
+          "end": 161.46
+        },
+        {
+          "s": "PIETER",
+          "t": "Ah, just two weeks actually.",
+          "start": 162.34,
+          "end": 163.58
+        },
+        {
+          "s": "PIETER",
+          "t": "I only arrived in the country a month ago.",
+          "q": [
+            4
+          ],
+          "start": 164.29,
+          "end": 166.13
+        },
+        {
+          "s": "PIETER",
+          "t": "I'm from Holland.",
+          "start": 166.53,
+          "end": 167.25
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, that's fine.",
+          "start": 167.65,
+          "end": 168.41
+        },
+        {
+          "s": "WOMAN",
+          "t": "But we normally ask for a previous address in that case.",
+          "start": 168.89,
+          "end": 171.69
+        },
+        {
+          "s": "PIETER",
+          "t": "Oh yes, well, it's Rielsdorf 2.",
+          "start": 172.17,
+          "end": 173.33
+        },
+        {
+          "s": "PIETER",
+          "t": "That's R-I-E-L-S-D-O-R-F 2, Utrecht.",
+          "start": 175.3,
+          "end": 179.74
+        },
+        {
+          "s": "WOMAN",
+          "t": "Holland.",
+          "start": 183.57,
+          "end": 184.09
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK.",
+          "start": 185.13,
+          "end": 186.09
+        },
+        {
+          "s": "WOMAN",
+          "t": "Thank you.",
+          "start": 186.09,
+          "end": 186.57
+        },
+        {
+          "s": "WOMAN",
+          "t": "Do you have a daytime telephone number?",
+          "start": 186.97,
+          "end": 188.73
+        },
+        {
+          "s": "PIETER",
+          "t": "Yes, I think the number at my office is six--oh-six-two-nine-five.",
+          "start": 188.97,
+          "end": 192.21
+        },
+        {
+          "s": "PIETER",
+          "t": "Um, just a minute.",
+          "q": [
+            5
+          ],
+          "start": 195.51,
+          "end": 196.55
+        },
+        {
+          "s": "PIETER",
+          "t": "I'd better check.",
+          "start": 197.07,
+          "end": 197.67
+        },
+        {
+          "s": "PIETER",
+          "t": "Oh. no sorry. six--one-six.",
+          "start": 198.67,
+          "end": 199.59
+        },
+        {
+          "s": "PIETER",
+          "t": "I'm not used to it yet.",
+          "start": 201.23,
+          "end": 202.71
+        },
+        {
+          "s": "PIETER",
+          "t": "Would you like my home number too?",
+          "start": 203.71,
+          "end": 205.31
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes please.",
+          "start": 205.43,
+          "end": 206.07
+        },
+        {
+          "s": "PIETER",
+          "t": "It's seven- nine- six- four- three-one.",
+          "start": 206.72,
+          "end": 206.96
+        },
+        {
+          "s": "WOMAN",
+          "t": "Are they both local numbers?",
+          "start": 210.52,
+          "end": 212.12
+        },
+        {
+          "s": "PIETER",
+          "t": "Yes.",
+          "start": 212.28,
+          "end": 213.12
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right.",
+          "start": 251.51,
+          "end": 251.59
+        },
+        {
+          "s": "WOMAN",
+          "t": "And your occupation?",
+          "start": 251.95,
+          "end": 254.11
+        },
+        {
+          "s": "PIETER",
+          "t": "Well, I'm in Britain as a project manager, but that's not my main job.",
+          "start": 254.51,
+          "end": 258.91
+        },
+        {
+          "s": "PIETER",
+          "t": "I'm an engineer by profession.",
+          "q": [
+            6
+          ],
+          "start": 259.07,
+          "end": 260.95
+        },
+        {
+          "s": "WOMAN",
+          "t": "I see.",
+          "start": 261.35,
+          "end": 261.67
+        },
+        {
+          "s": "WOMAN",
+          "t": "I think I'll put that then.",
+          "start": 262.26,
+          "end": 263.34
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's shorter!",
+          "start": 263.78,
+          "end": 264.38
+        },
+        {
+          "s": "WOMAN",
+          "t": "Now we usually ask for a piece of information which we can use to check your identity, for security reasons.",
+          "start": 264.5,
+          "end": 271.02
+        },
+        {
+          "s": "WOMAN",
+          "t": "You know, if you phone us.",
+          "start": 272.02,
+          "end": 273.18
+        },
+        {
+          "s": "PIETER",
+          "t": "Like, erm, my wife's first name?",
+          "start": 273.58,
+          "end": 275.62
+        },
+        {
+          "s": "WOMAN",
+          "t": "Mother's might be better.",
+          "start": 276.86,
+          "end": 277.5
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's less likely to be known.",
+          "q": [
+            7
+          ],
+          "start": 277.74,
+          "end": 279.1
+        },
+        {
+          "s": "PIETER",
+          "t": "OK.",
+          "start": 279.74,
+          "end": 280.06
+        },
+        {
+          "s": "PIETER",
+          "t": "Hers is Siti.",
+          "start": 280.38,
+          "end": 281.22
+        },
+        {
+          "s": "WOMAN",
+          "t": "Siti?",
+          "start": 281.42,
+          "end": 282.1
+        },
+        {
+          "s": "PIETER",
+          "t": "Yes, S-I-T-I.",
+          "start": 282.66,
+          "end": 284.7
+        },
+        {
+          "s": "PIETER",
+          "t": "It's Indonesian.",
+          "start": 285.45,
+          "end": 286.37
+        },
+        {
+          "s": "WOMAN",
+          "t": "Fine.",
+          "start": 286.89,
+          "end": 287.01
+        },
+        {
+          "s": "WOMAN",
+          "t": "And how much would you like to open your account with?",
+          "start": 287.81,
+          "end": 290.17
+        },
+        {
+          "s": "WOMAN",
+          "t": "We usually ask for a minimum sum of £50.",
+          "start": 290.37,
+          "end": 292.93
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's about €75.",
+          "start": 293.25,
+          "end": 294.53
+        },
+        {
+          "s": "PIETER",
+          "t": "Well, I'm going to transfer €2.000 from my Dutch account, just till I get paid.",
+          "q": [
+            8
+          ],
+          "start": 295.52,
+          "end": 300.84
+        },
+        {
+          "s": "PIETER",
+          "t": "In fact, I wanted to ask you about that.",
+          "start": 301.84,
+          "end": 303.88
+        },
+        {
+          "s": "PIETER",
+          "t": "What's the best way to do it?",
+          "start": 304.44,
+          "end": 305.76
+        },
+        {
+          "s": "WOMAN",
+          "t": "It depends which bank you're with.",
+          "start": 306.22,
+          "end": 307.78
+        },
+        {
+          "s": "PIETER",
+          "t": "It's the Fransen Bank in Utrecht.",
+          "start": 308.42,
+          "end": 310.38
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK, fine.",
+          "start": 310.46,
+          "end": 311.42
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'll check that in a minute.",
+          "start": 311.42,
+          "end": 312.58
+        },
+        {
+          "s": "WOMAN",
+          "t": "If we have links with them we can do a direct transfer.",
+          "start": 313.26,
+          "end": 315.7
+        },
+        {
+          "s": "WOMAN",
+          "t": "But it's not a big problem either way.",
+          "start": 315.94,
+          "end": 317.58
+        },
+        {
+          "s": "WOMAN",
+          "t": "Um, let's see.",
+          "start": 318.41,
+          "end": 319.81
+        },
+        {
+          "s": "WOMAN",
+          "t": "How often would you like to receive statements?",
+          "start": 320.37,
+          "end": 322.17
+        },
+        {
+          "s": "PIETER",
+          "t": "I haven't really thought.",
+          "start": 323.41,
+          "end": 324.25
+        },
+        {
+          "s": "PIETER",
+          "t": "Um, what's the usual thing?",
+          "start": 325.29,
+          "end": 326.29
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's up to you.",
+          "start": 326.37,
+          "end": 327.17
+        },
+        {
+          "s": "WOMAN",
+          "t": "Some people like them weekly.",
+          "start": 327.41,
+          "end": 328.49
+        },
+        {
+          "s": "PIETER",
+          "t": "Oh, no, that's too often.",
+          "start": 329.13,
+          "end": 330.41
+        },
+        {
+          "s": "PIETER",
+          "t": "Can I have them sent, um, once a month?",
+          "q": [
+            9
+          ],
+          "start": 331.3,
+          "end": 333.5
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, that's fine.",
+          "start": 333.66,
+          "end": 334.62
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is there anything else?",
+          "start": 335.42,
+          "end": 336.34
+        },
+        {
+          "s": "PIETER",
+          "t": "I was thinking of registering for your internet service at some stage.",
+          "q": [
+            10
+          ],
+          "start": 337.1,
+          "end": 340.5
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, yes.",
+          "start": 340.7,
+          "end": 341.26
+        },
+        {
+          "s": "WOMAN",
+          "t": "Would you like me to send you information about that?",
+          "start": 341.66,
+          "end": 344.14
+        },
+        {
+          "s": "PIETER",
+          "t": "Please, yes.",
+          "start": 344.8,
+          "end": 345.32
+        },
+        {
+          "s": "WOMAN",
+          "t": "And would you like to receive information about the bank's other services - insurance, loans, anything like that?",
+          "start": 345.52,
+          "end": 351.92
+        },
+        {
+          "s": "PIETER",
+          "t": "Hmm, I don't think so, thanks.",
+          "start": 352.28,
+          "end": 353.96
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's OK then.",
+          "start": 353.96,
+          "end": 355.32
+        },
+        {
+          "s": "WOMAN",
+          "t": "And one last thing, if you agree . ..",
+          "start": 355.99,
+          "end": 358.27
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c6/t3p2.mp3",
+      "duration": 404,
+      "title": "The History of Rosewood House",
+      "groups": [
+        {
+          "range": [
+            11,
+            13
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "THE HISTORY OF ROSEWOOD HOUSE",
+          "questions": [
+            {
+              "n": 11,
+              "text": "When the writer Sebastian George first saw Rosewood House, he",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "thought he might rent it."
+                },
+                {
+                  "k": "B",
+                  "text": "felt it was too expensive for him."
+                },
+                {
+                  "k": "C",
+                  "text": "was unsure whether to buy it."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "Before buying the house, George had",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "experienced severe family problems."
+                },
+                {
+                  "k": "B",
+                  "text": "struggled to become a successful author."
+                },
+                {
+                  "k": "C",
+                  "text": "suffered a serious illness."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "According to the speaker, George viewed Rosewood House as",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a rich source of material for his books."
+                },
+                {
+                  "k": "B",
+                  "text": "a way to escape from his work."
+                },
+                {
+                  "k": "C",
+                  "text": "a typical building of the region."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            14,
+            17
+          ],
+          "type": "matching",
+          "instruction": "Label the map below. 原题为地图标注题，见原书第 59 页地图；此处以位置描述代替地图图像。",
+          "limit": "Write the correct letter, A-J, next to questions 14-17.",
+          "optionsTitle": "Locations on the map (A-J)",
+          "options": [
+            {
+              "k": "A",
+              "text": "at the top of the map, directly above the House"
+            },
+            {
+              "k": "B",
+              "text": "in the row of boxes to the right of the House, closest to the House"
+            },
+            {
+              "k": "C",
+              "text": "in the row of boxes to the right of the House, in the middle position"
+            },
+            {
+              "k": "D",
+              "text": "in the row of boxes to the right of the House, furthest to the right"
+            },
+            {
+              "k": "E",
+              "text": "to the left of the path, just below the House"
+            },
+            {
+              "k": "F",
+              "text": "to the right of the path, next to the House, joined to it by a short fence"
+            },
+            {
+              "k": "G",
+              "text": "to the left of the path, below E"
+            },
+            {
+              "k": "H",
+              "text": "on the path itself, at the first bend as the path curves up from the Information Centre"
+            },
+            {
+              "k": "I",
+              "text": "to the right of the path, below F"
+            },
+            {
+              "k": "J",
+              "text": "to the left of the path, near the bottom, close to the Information Centre"
+            }
+          ],
+          "itemsTitle": "ROSEWOOD HOUSE AND GARDENS",
+          "items": [
+            {
+              "n": 14,
+              "text": "Pear Alley"
+            },
+            {
+              "n": 15,
+              "text": "Mulberry Garden"
+            },
+            {
+              "n": 16,
+              "text": "Shop"
+            },
+            {
+              "n": 17,
+              "text": "Tea Room"
+            }
+          ]
+        },
+        {
+          "range": [
+            18,
+            20
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "RIVER WALK",
+          "lines": [
+            "You can walk through the {{18}} that goes along the river bank.",
+            "You can go over the {{19}} and then into a wooded area.",
+            "On your way back, you could also go up to the {{20}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Welcome, everybody, to the lovely house and gardens of Rosewood, once the home of the famous writer, Sebastian George.",
+          "start": 47.6,
+          "end": 55.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He bought the house in 1902 although he had first seen it two years earlier.",
+          "start": 55.84,
+          "end": 61.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At that time the owners let it out to a tenant because George was too slow making up his mind to buy it.",
+          "q": [
+            11
+          ],
+          "start": 62.04,
+          "end": 67.92
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When it came back on the market, there was no hesitation and he bought it immediately, for £9,300, even though the house had no bathroom, no running water upstairs, and no electricity.",
+          "start": 67.92,
+          "end": 82.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When he came here, he'd been married for ten years.",
+          "start": 83.99,
+          "end": 86.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "During that time, he'd become one of the most famous writers in the English-speaking world.",
+          "start": 86.95,
+          "end": 92.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "His professional success was enormous, but his personal life wasn't as successful.",
+          "start": 92.87,
+          "end": 98.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He was no longer on speaking terms with his brother and had been devastated by the death at the age of seven of his elder daughter, Josephine.",
+          "q": [
+            12
+          ],
+          "start": 98.87,
+          "end": 107.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Moving to Rosewood allowed the family to start a new life.",
+          "start": 109.19,
+          "end": 112.79
+        },
+        {
+          "s": "SPEAKER",
+          "t": "George regarded Rosewood as a pure example of a traditional country house of this part of England and did some of his most successful writing here.",
+          "q": [
+            13
+          ],
+          "start": 113.11,
+          "end": 122.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The house and its grounds became the family haven and their escape to privacy and quiet.",
+          "start": 123.85,
+          "end": 129.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The walls, and the mullioned windows were built of the local sandstone, the tiles on the roofs and the bricks of the chimney stack were baked -from local clay, and the wooden structures inside came from oak trees which grow around here.",
+          "start": 130.49,
+          "end": 145.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, please look at the map I've given you of the house and gardens.",
+          "start": 194.01,
+          "end": 197.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We're here at the Information Centre.",
+          "start": 198.97,
+          "end": 201.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Follow the path marked with the arrow and the first area you come to is the orchard on your left.",
+          "start": 202.53,
+          "end": 209.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As you go further down the path, there's the kitchen garden on the right and as you go round the first sharp corner you will find, to your left, an area where different types of pear tree have been planted as well as some lovely flowers, and this is known as Pear Alley - designed by George himself.",
+          "q": [
+            14
+          ],
+          "start": 210.87,
+          "end": 230.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Next to this is the greenhouse where some exotic plants and fruits are grown.",
+          "start": 232.62,
+          "end": 237.34
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Follow the path round the second corner and on your right you will see the entrance to the Mulberry Garden with its 500-year-old tree.",
+          "q": [
+            15
+          ],
+          "start": 237.58,
+          "end": 247.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Past the Mulberry Garden, follow the path until you reach the front of the house.",
+          "start": 249.0,
+          "end": 253.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I suggest you spend a good hour wandering around this lovely building.",
+          "start": 254.28,
+          "end": 257.92
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A guide takes visitor groups round every two hours.",
+          "start": 258.76,
+          "end": 261.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you would like to purchase any of George's books or other souvenirs, then leave the house by the side entrance, where you will find our shop, which is situated between the house and the garage which contains the magnificent old Rolls-Royce car which used to belong to George.",
+          "q": [
+            16
+          ],
+          "start": 263.08,
+          "end": 280.22
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I expect by this time you may also be in need of a rest and some refreshment.",
+          "start": 281.46,
+          "end": 286.3
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Most visitors are, so why don't you visit the tea room on the far side of the garage?",
+          "q": [
+            17
+          ],
+          "start": 286.92,
+          "end": 292.88
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you have time, there is a lovely walk down towards the River Dudwell.",
+          "start": 294.95,
+          "end": 299.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For me, this is the best part of the estate.",
+          "start": 299.15,
+          "end": 302.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This isn't on the map but it is all clearly signposted.",
+          "start": 303.43,
+          "end": 307.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You cross the field which spreads along the banks of the river.",
+          "q": [
+            18
+          ],
+          "start": 307.89,
+          "end": 311.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In spring, this area is well worth a visit.",
+          "start": 312.25,
+          "end": 314.81
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Spend a minute or two watching the water pass by underneath as you cross the footbridge, and then continue along the River Walk through the woodland.",
+          "q": [
+            19
+          ],
+          "start": 315.66,
+          "end": 324.06
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On a hot summer's day the trees along this path provide welcome shade.",
+          "start": 325.06,
+          "end": 329.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Eventually you come to the water mill which used to provide the electricity for the house- only about four hours every evening - in George's time.",
+          "start": 329.85,
+          "end": 338.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And , finally, for those of you who would like to see stunning views of the surrounding countryside and who are a little bit more energetic, when you return from the mill take the first turning on your left and climb up to the viewpoint.",
+          "q": [
+            20
+          ],
+          "start": 339.93,
+          "end": 353.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You won't regret it.",
+          "start": 354.14,
+          "end": 355.22
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Enjoy your visit!",
+          "start": 355.34,
+          "end": 356.94
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c6/t3p3.mp3",
+      "duration": 340,
+      "title": "Marketing Assignment: Music Preferences",
+      "groups": [
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "MARKETING ASSIGNMENT",
+          "lines": [
+            "For their assignment, the students must investigate one part of the {{21}}.",
+            "The method the students must use to collect data is {{22}}.",
+            "In total, the students must interview {{23}} people.",
+            "Jack thinks the music preferences of {{24}} listeners are similar."
+          ]
+        },
+        {
+          "range": [
+            25,
+            30
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Marketing Survey: Music Preferences",
+          "lines": [
+            "## Age group of interviewee",
+            "25 or under",
+            "45 or over",
+            "## Music preferences",
+            "Pop",
+            "{{25}}",
+            "Folk",
+            "Easy listening",
+            "{{26}}",
+            "## Medium for listening to music",
+            "Radio",
+            "CD",
+            "TV",
+            "{{27}}",
+            "## Source of music",
+            "Music shops",
+            "{{28}}",
+            "Internet",
+            "## Places for listening to music",
+            "Disco",
+            "Pub",
+            "{{29}}",
+            "Concert hall",
+            "{{30}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "JACK",
+          "t": "Lucy, we really need to get working on this marketing assignment.",
+          "start": 39.03,
+          "end": 42.51
+        },
+        {
+          "s": "JACK",
+          "t": "We've only got five weeks left to the end of term to design it, carry it out, and then write up the results.",
+          "start": 42.91,
+          "end": 48.51
+        },
+        {
+          "s": "LUCY",
+          "t": "Sure.",
+          "start": 48.75,
+          "end": 49.07
+        },
+        {
+          "s": "LUCY",
+          "t": "Well, let's get started right now.",
+          "start": 49.27,
+          "end": 50.71
+        },
+        {
+          "s": "LUCY",
+          "t": "Let's go over the instructions.",
+          "start": 51.29,
+          "end": 52.33
+        },
+        {
+          "s": "LUCY",
+          "t": "What exactly do we have to do?",
+          "start": 52.49,
+          "end": 54.93
+        },
+        {
+          "s": "JACK",
+          "t": "Well, it says here we have to look at one area of the entertainment industry.",
+          "q": [
+            21
+          ],
+          "start": 55.05,
+          "end": 59.45
+        },
+        {
+          "s": "JACK",
+          "t": "There's a list of the different types.",
+          "start": 60.13,
+          "end": 61.45
+        },
+        {
+          "s": "LUCY",
+          "t": "What are they?",
+          "start": 61.65,
+          "end": 62.29
+        },
+        {
+          "s": "JACK",
+          "t": "Music, cinema, theatre, sport, and eating out.",
+          "start": 63.0,
+          "end": 66.28
+        },
+        {
+          "s": "LUCY",
+          "t": "Is that all?",
+          "start": 66.72,
+          "end": 67.36
+        },
+        {
+          "s": "JACK",
+          "t": "Looks like it.",
+          "start": 67.48,
+          "end": 68.44
+        },
+        {
+          "s": "LUCY",
+          "t": "So we choose one branch of the industry and then we look at how two different groups of people use it?",
+          "start": 68.52,
+          "end": 73.92
+        },
+        {
+          "s": "LUCY",
+          "t": "Is·that right?",
+          "start": 74.16,
+          "end": 74.72
+        },
+        {
+          "s": "JACK",
+          "t": "Yes.",
+          "start": 74.8,
+          "end": 75.08
+        },
+        {
+          "s": "LUCY",
+          "t": "And do we have to use any particular method to get our data?",
+          "start": 76.01,
+          "end": 79.13
+        },
+        {
+          "s": "LUCY",
+          "t": "Can we mail out a questionnaire, or do face-to-face interviews, or maybe even observations?",
+          "start": 79.57,
+          "end": 84.21
+        },
+        {
+          "s": "JACK",
+          "t": "Well actually, it looks like we don't have a choice.",
+          "start": 84.57,
+          "end": 87.53
+        },
+        {
+          "s": "JACK",
+          "t": "We have to do telephone interviews.",
+          "q": [
+            22
+          ],
+          "start": 88.18,
+          "end": 89.62
+        },
+        {
+          "s": "LUCY",
+          "t": "OK, so at least we don't have to waste time deciding between the different methods.",
+          "start": 89.9,
+          "end": 94.62
+        },
+        {
+          "s": "JACK",
+          "t": "Yeah, that's right.",
+          "start": 94.86,
+          "end": 95.86
+        },
+        {
+          "s": "JACK",
+          "t": "Oh, and the other requirement is the number of interviewees.",
+          "start": 96.54,
+          "end": 99.34
+        },
+        {
+          "s": "LUCY",
+          "t": "· Not too many, I hope.",
+          "start": 99.9,
+          "end": 100.98
+        },
+        {
+          "s": "LUCY",
+          "t": "Ten?",
+          "start": 101.62,
+          "end": 101.78
+        },
+        {
+          "s": "LUCY",
+          "t": "Twenty?",
+          "start": 102.34,
+          "end": 102.54
+        },
+        {
+          "s": "JACK",
+          "t": "Well, we have to do two groups, remember, and it looks like we have to interview fifteen for each group.",
+          "start": 102.86,
+          "end": 109.62
+        },
+        {
+          "s": "LUCY",
+          "t": "That's thirty altogether then.",
+          "start": 109.86,
+          "end": 112.34
+        },
+        {
+          "s": "LUCY",
+          "t": "It's going to take ages.",
+          "q": [
+            23
+          ],
+          "start": 112.42,
+          "end": 113.74
+        },
+        {
+          "s": "JACK",
+          "t": "Yes, but remember we're working on this together, so we'll only have to do fifteen each.",
+          "start": 114.46,
+          "end": 119.02
+        },
+        {
+          "s": "LUCY",
+          "t": "OK, so those are all the requirements?",
+          "start": 119.59,
+          "end": 121.91
+        },
+        {
+          "s": "JACK",
+          "t": "Yes, looks like it.",
+          "start": 122.79,
+          "end": 124.07
+        },
+        {
+          "s": "LUCY",
+          "t": "So, first, which area are we going to choose?",
+          "start": 124.55,
+          "end": 128.03
+        },
+        {
+          "s": "LUCY",
+          "t": "My preference would be cinema, since that's where I spend most of my money.",
+          "start": 128.63,
+          "end": 131.71
+        },
+        {
+          "s": "JACK",
+          "t": "Hmm, I don't think that's such a good idea.",
+          "start": 131.99,
+          "end": 134.39
+        },
+        {
+          "s": "JACK",
+          "t": "I don't think there are huge differences in the market there.",
+          "start": 135.33,
+          "end": 138.13
+        },
+        {
+          "s": "JACK",
+          "t": "I mean you get young and old, male and female, rich and poor all going to the same movies.",
+          "start": 138.61,
+          "end": 143.97
+        },
+        {
+          "s": "LUCY",
+          "t": "Yeah, maybe you're right.",
+          "start": 144.01,
+          "end": 145.45
+        },
+        {
+          "s": "LUCY",
+          "t": "Let's make it music then.",
+          "start": 146.13,
+          "end": 147.29
+        },
+        {
+          "s": "JACK",
+          "t": "Right.",
+          "start": 148.17,
+          "end": 148.29
+        },
+        {
+          "s": "JACK",
+          "t": "So, what two groups will we compare and contrast?",
+          "start": 149.21,
+          "end": 152.09
+        },
+        {
+          "s": "LUCY",
+          "t": "Male and female?",
+          "q": [
+            24
+          ],
+          "start": 152.41,
+          "end": 154.09
+        },
+        {
+          "s": "JACK",
+          "t": "No.",
+          "start": 154.09,
+          "end": 154.29
+        },
+        {
+          "s": "JACK",
+          "t": "Most of my female friends like the same music as me.",
+          "start": 155.73,
+          "end": 158.29
+        },
+        {
+          "s": "JACK",
+          "t": "Different age groups would be much more likely to show up differences, I think.",
+          "start": 159.0,
+          "end": 162.32
+        },
+        {
+          "s": "LUCY",
+          "t": "Yeah, I suppose you're right again.",
+          "start": 205.46,
+          "end": 207.06
+        },
+        {
+          "s": "LUCY",
+          "t": "I'll take some notes, shall I?",
+          "start": 207.18,
+          "end": 208.38
+        },
+        {
+          "s": "LUCY",
+          "t": "So.. .",
+          "start": 209.22,
+          "end": 209.54
+        },
+        {
+          "s": "LUCY",
+          "t": "Age Groups.",
+          "start": 210.78,
+          "end": 211.58
+        },
+        {
+          "s": "LUCY",
+          "t": "Well.",
+          "start": 211.66,
+          "end": 213.06
+        },
+        {
+          "s": "LUCY",
+          "t": "What do you think?",
+          "start": 213.78,
+          "end": 214.38
+        },
+        {
+          "s": "LUCY",
+          "t": "Maybe twenty-five or under for one group, and forty-five or over for the other group?",
+          "start": 214.38,
+          "end": 219.38
+        },
+        {
+          "s": "LUCY",
+          "t": "That should show up differences.",
+          "start": 220.22,
+          "end": 221.22
+        },
+        {
+          "s": "JACK",
+          "t": "Right.",
+          "start": 221.66,
+          "end": 222.06
+        },
+        {
+          "s": "LUCY",
+          "t": "OK.",
+          "start": 222.06,
+          "end": 223.1
+        },
+        {
+          "s": "LUCY",
+          "t": "Next.",
+          "start": 223.74,
+          "end": 224.02
+        },
+        {
+          "s": "LUCY",
+          "t": "How about the kind of music they like - let's give them some choices and then we can just tick boxes.",
+          "start": 224.02,
+          "end": 229.78
+        },
+        {
+          "s": "JACK",
+          "t": "OK. Let's have pop, jazz, folk, easy listening ...",
+          "start": 229.98,
+          "end": 234.7
+        },
+        {
+          "s": "JACK",
+          "t": "What else?",
+          "q": [
+            25
+          ],
+          "start": 235.86,
+          "end": 236.26
+        },
+        {
+          "s": "LUCY",
+          "t": "Well, we should include classical.",
+          "start": 236.42,
+          "end": 239.1
+        },
+        {
+          "s": "LUCY",
+          "t": "Some people like it, you know.",
+          "q": [
+            26
+          ],
+          "start": 239.62,
+          "end": 240.9
+        },
+        {
+          "s": "JACK",
+          "t": "OK.",
+          "start": 240.98,
+          "end": 241.3
+        },
+        {
+          "s": "JACK",
+          "t": "OK.",
+          "start": 242.35,
+          "end": 242.91
+        },
+        {
+          "s": "JACK",
+          "t": "And then we should have how they listen to music.",
+          "start": 242.91,
+          "end": 245.67
+        },
+        {
+          "s": "LUCY",
+          "t": "The medium.",
+          "start": 246.03,
+          "end": 246.71
+        },
+        {
+          "s": "LUCY",
+          "t": "Right.",
+          "start": 246.91,
+          "end": 247.11
+        },
+        {
+          "s": "LUCY",
+          "t": "Let's include radio, CD- and then I guess there's TV.",
+          "start": 247.31,
+          "end": 252.19
+        },
+        {
+          "s": "JACK",
+          "t": "What about concerts?",
+          "start": 252.39,
+          "end": 253.19
+        },
+        {
+          "s": "JACK",
+          "t": "You know, in pubs and halls.",
+          "q": [
+            27
+          ],
+          "start": 253.73,
+          "end": 254.77
+        },
+        {
+          "s": "LUCY",
+          "t": "Oh yeah, we should include live music of course.",
+          "start": 254.93,
+          "end": 257.13
+        },
+        {
+          "s": "JACK",
+          "t": "OK, we're on a roll now!",
+          "start": 257.29,
+          "end": 258.45
+        },
+        {
+          "s": "JACK",
+          "t": "Next point could be about where they actually get their music.",
+          "start": 258.45,
+          "end": 261.97
+        },
+        {
+          "s": "LUCY",
+          "t": "You mean like, do they buy it in music shops, or department stores?",
+          "q": [
+            28
+          ],
+          "start": 262.29,
+          "end": 266.21
+        },
+        {
+          "s": "JACK",
+          "t": "Yes, or download it from the Internet.",
+          "start": 266.33,
+          "end": 268.21
+        },
+        {
+          "s": "LUCY",
+          "t": "Right.",
+          "start": 268.33,
+          "end": 268.69
+        },
+        {
+          "s": "LUCY",
+          "t": "That could be for recorded music.",
+          "start": 269.29,
+          "end": 270.69
+        },
+        {
+          "s": "LUCY",
+          "t": "Then we need another section for live music.",
+          "start": 271.13,
+          "end": 273.13
+        },
+        {
+          "s": "LUCY",
+          "t": "Where do they go for that?",
+          "start": 273.71,
+          "end": 274.67
+        },
+        {
+          "s": "JACK",
+          "t": "OK.",
+          "start": 274.87,
+          "end": 275.19
+        },
+        {
+          "s": "JACK",
+          "t": "Let's say disco, pub, club, concert hall . . .",
+          "q": [
+            29
+          ],
+          "start": 275.55,
+          "end": 278.55
+        },
+        {
+          "s": "LUCY",
+          "t": "Or opera house! And I guess we should include karaoke bars.",
+          "q": [
+            30
+          ],
+          "start": 278.75,
+          "end": 282.71
+        },
+        {
+          "s": "JACK",
+          "t": "Not many of them in this city!",
+          "start": 282.87,
+          "end": 284.19
+        },
+        {
+          "s": "LUCY",
+          "t": "OK. We'll leave that out then. So, what's left to do?",
+          "start": 284.39,
+          "end": 288.49
+        },
+        {
+          "s": "JACK",
+          "t": "That's it. Well, now we can make a time-scale for doing it.",
+          "start": 289.21,
+          "end": 293.17
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c6/t3p4.mp3",
+      "duration": 457,
+      "title": "Ireland in the Neolithic Period",
+      "groups": [
+        {
+          "range": [
+            31,
+            34
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "IRELAND IN THE NEOLITHIC PERIOD",
+          "questions": [
+            {
+              "n": 31,
+              "text": "According to the speaker, it is not clear",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "when the farming economy was introduced to Ireland."
+                },
+                {
+                  "k": "B",
+                  "text": "why people began to farm in Ireland."
+                },
+                {
+                  "k": "C",
+                  "text": "where the early Irish farmers came from."
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "What point does the speaker make about breeding animals in Neolithic Ireland?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Their numbers must have been above a certain level."
+                },
+                {
+                  "k": "B",
+                  "text": "They were under threat from wild animals."
+                },
+                {
+                  "k": "C",
+                  "text": "Some species died out during this period."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "What does the speaker say about the transportation of animals?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Livestock would have limited the distance the farmers could sail."
+                },
+                {
+                  "k": "B",
+                  "text": "Neolithic boats were too primitive to have been used."
+                },
+                {
+                  "k": "C",
+                  "text": "Probably only a few breeding animals were imported."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "What is the main evidence for cereal crops in Neolithic Ireland?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the remains of burnt grain in pots"
+                },
+                {
+                  "k": "B",
+                  "text": "the marks left on pots by grains"
+                },
+                {
+                  "k": "C",
+                  "text": "the patterns painted on the surface of pots"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            35,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "STONE TOOLS",
+          "lines": [
+            "Ploughs could either have been pulled by {{35}} or by cattle. The farmers needed homes which were permanent dwellings.",
+            "In the final stages of axe-making, {{36}} were necessary for grinding and polishing.",
+            "Irish axes were exported from Ireland to {{37}} and England.",
+            "## POTTERY MAKING",
+            "The colonisers used clay to make pots.",
+            "The {{38}} of the pots was often polished to make them watertight.",
+            "Clay from {{39}} areas was generally used.",
+            "Decoration was only put around the {{40}} of the earliest pots."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning everyone.",
+          "start": 60.81,
+          "end": 61.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Last week we were looking at the hunter-gatherers in Ireland, across the Irish Sea from England.",
+          "start": 62.37,
+          "end": 67.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Today, we're going to move on to the period between four and six thousand years ago, known as the Neolithic period, which is when a total farming economy was introduced in Ireland.",
+          "start": 67.65,
+          "end": 79.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, there are several hypotheses about the origins of the first Neolithic settlers in Ireland, but most of these contain problems.",
+          "q": [
+            31
+          ],
+          "start": 80.97,
+          "end": 88.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For instance, there are considerable archaeological difficulties about the theory that they came from England.",
+          "start": 88.7,
+          "end": 95.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The evidence doesn't really add up.",
+          "start": 96.02,
+          "end": 98.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But there are even greater practical problems about the theory that they came directly from continental Europe.",
+          "start": 99.15,
+          "end": 104.79
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For one thing, it's not clear just how sufficient numbers of men and women could have been transported to Ireland to establish a viable population.",
+          "start": 105.07,
+          "end": 115.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As you know, the hunter-gatherer economy which existed beforehand was based on small scattered groups.",
+          "start": 115.61,
+          "end": 123.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The farming economy would almost certainly have required much larger communities to do all the work needed to plant and tend sufficient crops to sustain them through the year.",
+          "start": 123.47,
+          "end": 133.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The early farmers kept various animals, including cattle and sheep.",
+          "start": 135.71,
+          "end": 139.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's also evidence of pigs, but it is possible that these could have been descended from the native wild species.",
+          "start": 140.39,
+          "end": 146.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, we know from modern farming that if the level of breeding stock falls below about three hundred females, the future of the species locally is at risk.",
+          "start": 147.8,
+          "end": 157.92
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So we must assume that from the beginnings of Neolithic farming the number of breeding sheep would have considerably exceeded three hundred, and the national cattle herd must have been of a similar size.",
+          "q": [
+            32
+          ],
+          "start": 158.73,
+          "end": 170.33
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The question is how these were brought to the area and where they came from.",
+          "start": 171.4,
+          "end": 175.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's usually suggested that the Neolithic settlers used skin-covered boats to transport livestock.",
+          "q": [
+            33
+          ],
+          "start": 177.18,
+          "end": 182.58
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But this method would have severely restricted the range of the colonising fleets.",
+          "start": 183.34,
+          "end": 187.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The sheer volume of animal transport necessary means it's unlikely that this livestock could have been brought from anywhere further than England.",
+          "start": 188.36,
+          "end": 196.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What about crops?",
+          "start": 198.0,
+          "end": 198.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, two main cereal crops were introduced to Ireland during this time: wheat and barley, both in several varieties.",
+          "start": 199.56,
+          "end": 207.64
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The main evidence for their presence consists of impressions on pottery, where a cereal grain accidentally became embedded in the surface of a pot before it was fired.",
+          "q": [
+            34
+          ],
+          "start": 208.94,
+          "end": 219.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The grain itself was destroyed by the firing, but it left an impression on the pot which could be studied and identified by botanists.",
+          "start": 220.06,
+          "end": 227.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's turn our attention now to the farming technology available at that time.",
+          "start": 233.72,
+          "end": 237.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Before the cereal crops could be planted, it would have been necessary to clear the forest and to break the ground by ploughing.",
+          "start": 238.04,
+          "end": 245.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The stone blade of a plough has been discovered during excavation in County Mayo in western Ireland.",
+          "start": 246.55,
+          "end": 252.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The body of the plough would have been of wood and could have been drawn by people, but it's also likely that cattle were used.",
+          "q": [
+            35
+          ],
+          "start": 253.23,
+          "end": 260.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, the cultivation of crops and the husbandry of livestock brought about changes in people's lifestyle such as the type of shelters they made.",
+          "start": 261.84,
+          "end": 270.64
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For one thing, instead of moving from place to place they needed permanent dwellings.",
+          "start": 271.68,
+          "end": 276.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The stone axes used to chop down trees to make these dwellings were far superior to any that the Stone Age hunter-gatherers used.",
+          "start": 276.84,
+          "end": 285.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "To make the axes, sources of suitable stone had to be found and systematically exploited.",
+          "start": 287.31,
+          "end": 292.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These so-called 'axe factories' were really quarries rather than factories, as the manufacture of the axes wasn't regularly performed on the quarry site.",
+          "start": 294.19,
+          "end": 302.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, after the axe had been chipped into shape, they needed water and sand for grinding and polishing, so a high mountainside wouldn't have been an appropriate place for this.",
+          "q": [
+            36
+          ],
+          "start": 303.31,
+          "end": 314.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So this final stage of the manufacture must have been carried out close to water and sure enough, there's ample evidence of this at coastal sites.",
+          "start": 315.78,
+          "end": 324.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now it's clear that these Neolithic axes were transported all over Ireland, as well as to Scotland and the south of England.",
+          "start": 326.33,
+          "end": 333.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's not really surprising that axes from 'axe factories' in England have also been found in Ireland.",
+          "q": [
+            37
+          ],
+          "start": 334.37,
+          "end": 340.05
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At the very least, this indicates that there was a link between the two islands during that period.",
+          "start": 340.92,
+          "end": 345.88
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One of the most useful innovations of the colonisers was pottery making, which was quite unknown to Irish hunter-gatherers.",
+          "start": 347.63,
+          "end": 353.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The pottery was probably made by shaping clay into a ball with the hand, and then hollowing it until the walls were the right thickness.",
+          "start": 354.71,
+          "end": 361.9
+        },
+        {
+          "s": "SPEAKER",
+          "t": "After firing, the outside was often polished.",
+          "q": [
+            38
+          ],
+          "start": 362.34,
+          "end": 365.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This would have helped the pots to retain water, as they weren't glazed.",
+          "start": 365.9,
+          "end": 369.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now we know that the clay used usually came from local sources, which suggests that manufacture was on a fairly small scale, even though thousands of fragments are usually found at Neolithic sites.",
+          "q": [
+            39
+          ],
+          "start": 370.68,
+          "end": 382.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the course of time decoration began to appear.",
+          "start": 384.08,
+          "end": 386.52
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At first this looked like a series of stitches and was just around the tops of the pots.",
+          "start": 387.32,
+          "end": 391.88
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This could have been an imitation of earlier vessels which were made of leather sewn onto wood.",
+          "q": [
+            40
+          ],
+          "start": 391.92,
+          "end": 397.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then eventually pots with decoration all over ...",
+          "start": 398.27,
+          "end": 401.27
+        }
+      ]
+    }
+  ]
+}
