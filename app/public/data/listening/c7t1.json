@@ -1,0 +1,1656 @@
+{
+  "id": "c7t1",
+  "book": "剑桥雅思7",
+  "test": 1,
+  "title": "剑7 Test 1 · Listening",
+  "answers": {
+    "1": [
+      "taxi",
+      "a taxi",
+      "cab",
+      "a cab"
+    ],
+    "2": [
+      "city centre",
+      "city center"
+    ],
+    "3": [
+      "wait"
+    ],
+    "4": [
+      "door-to-door"
+    ],
+    "5": [
+      "reserve",
+      "reserve a seat"
+    ],
+    "6": [
+      "17th October",
+      "the 17th October",
+      "17th of October",
+      "the 17th of October"
+    ],
+    "7": [
+      "12.30"
+    ],
+    "8": [
+      "Thomson"
+    ],
+    "9": [
+      "AC936",
+      "AC 936"
+    ],
+    "10": [
+      "3303 8450 2045 6837"
+    ],
+    "11": [
+      "B"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "B"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "A"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "A"
+    ],
+    "19": [
+      "C"
+    ],
+    "20": [
+      "B"
+    ],
+    "21": [
+      "attitude",
+      "attitudes"
+    ],
+    "22": [
+      "gender",
+      "sex"
+    ],
+    "23": [
+      "creativity",
+      "creativeness"
+    ],
+    "24": [
+      "A"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "A"
+    ],
+    "27": [
+      "B"
+    ],
+    "28": [
+      "culture"
+    ],
+    "29": [
+      "profit",
+      "profits"
+    ],
+    "30": [
+      "stress",
+      "strain"
+    ],
+    "31": [
+      "April"
+    ],
+    "32": [
+      "children"
+    ],
+    "33": [
+      "repeated"
+    ],
+    "34": [
+      "human"
+    ],
+    "35": [
+      "magic"
+    ],
+    "36": [
+      "distance"
+    ],
+    "37": [
+      "culture"
+    ],
+    "38": [
+      "fire",
+      "fires"
+    ],
+    "39": [
+      "touching"
+    ],
+    "40": [
+      "intact"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c7/t1p1.mp3",
+      "duration": 0,
+      "title": "Transport from Airport to Milton",
+      "groups": [
+        {
+          "range": [
+            1,
+            5
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS for each answer.",
+          "title": "Transport from Airport to Milton",
+          "lines": [
+            "Example: Distance: 147 miles",
+            "## Options",
+            "- Car hire",
+            "  don't want to drive",
+            "- {{1}}",
+            "  expensive",
+            "- Greyhound bus",
+            "  $15 single, $27.50 return",
+            "  direct to the {{2}}",
+            "  long {{3}}",
+            "- Airport Shuttle",
+            "  {{4}} service",
+            "  every 2 hours",
+            "  $35 single, $65 return",
+            "  need to {{5}}"
+          ]
+        },
+        {
+          "range": [
+            6,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the booking form below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Airport Shuttle Booking Form",
+          "table": {
+            "head": [
+              "Airport Shuttle Booking Form",
+              ""
+            ],
+            "rows": [
+              [
+                "To",
+                "Milton"
+              ],
+              [
+                "Date",
+                "{{6}}"
+              ],
+              [
+                "No. of passengers",
+                "One"
+              ],
+              [
+                "Bus Time",
+                "{{7}} pm"
+              ],
+              [
+                "Type of ticket",
+                "Single"
+              ],
+              [
+                "Name",
+                "Janet {{8}}"
+              ],
+              [
+                "Flight No",
+                "{{9}}"
+              ],
+              [
+                "From",
+                "London Heathrow"
+              ],
+              [
+                "Address in Milton",
+                "Vacation Motel,\n24, Kitchener Street"
+              ],
+              [
+                "Fare",
+                "$35"
+              ],
+              [
+                "Credit Card No",
+                "(Visa) {{10}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MAN",
+          "t": "Hello, this is Land Transport Information at Toronto Airport."
+        },
+        {
+          "s": "MAN",
+          "t": "How may I help you?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, good morning."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Urn, I'm flying to Toronto Airport next week, and I need to get to a town called urn, Milton."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Could you tell me how I can get there?"
+        },
+        {
+          "s": "MAN",
+          "t": "Milton, did you say?"
+        },
+        {
+          "s": "MAN",
+          "t": "Let me see."
+        },
+        {
+          "s": "MAN",
+          "t": "I think that's about 150 miles south- west of here."
+        },
+        {
+          "s": "MAN",
+          "t": "In fact it's 147 miles to be exact, so it'll take you at least -say, three to four hours by road."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Wow!"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is it as far as that?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, I'm afraid so."
+        },
+        {
+          "s": "MAN",
+          "t": "But you have a number of options to get you there and you can always rent a car right here at the airport, of course."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, I don't really want to drive myself, so I'd like more information about public transport."
+        },
+        {
+          "s": "MAN",
+          "t": "OK."
+        },
+        {
+          "s": "MAN",
+          "t": "In that case the quickest and most comfortable is a cab and of course there are always plenty available.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "But it'll cost you."
+        },
+        {
+          "s": "MAN",
+          "t": "You can also take a Greyhound bus or there's an Airport Shuttle Service to Milton."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Hmmm, I think for that kind of distance a cab would be way beyond my budget."
+        },
+        {
+          "s": "WOMAN",
+          "t": "But the bus sounds OK."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Can you tell me how much that would cost?"
+        },
+        {
+          "s": "MAN",
+          "t": "Sure."
+        },
+        {
+          "s": "MAN",
+          "t": "Let's see, that would be $15 one way, or $27.50 return .. . that 's on the Greyhound."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, that's quite cheap- great!"
+        },
+        {
+          "s": "WOMAN",
+          "t": "But whereabouts does it stop in Milton?"
+        },
+        {
+          "s": "MAN",
+          "t": "It goes directly from the airport here to the City Centre and it's pretty fast.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "But you have to bear in mind that there is only one departure a day, so it depends what time your flight gets in."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, of course."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Hang on, we're due to get there at 11.30 am."
+        },
+        {
+          "s": "MAN",
+          "t": "Hmmm, too bad, the bus leaves at 3.45, so you would have quite a wait- more than 4 hours.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, I see."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, what about the Shuttle you mentioned?"
+        },
+        {
+          "s": "MAN",
+          "t": "OK."
+        },
+        {
+          "s": "MAN",
+          "t": "That's the Airport Shuttle that will take you from the airport right to your hotel or private address."
+        },
+        {
+          "s": "MAN",
+          "t": "It's a door-to-door service and it would suit you much better, because there's one every two hours.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "So how much does that cost?"
+        },
+        {
+          "s": "MAN",
+          "t": "Let's see."
+        },
+        {
+          "s": "MAN",
+          "t": "Yeah, that's $35 one way, $65 return, so I guess it's a bit more expensive than the Greyhound."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, that doesn't sound too bad, especially if it'll take me straight to the hotel."
+        },
+        {
+          "s": "MAN",
+          "t": "But you do need to reserve a seat.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK, is it possible to make a booking right now?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Through you?"
+        },
+        {
+          "s": "MAN",
+          "t": "Sure."
+        },
+        {
+          "s": "MAN",
+          "t": "OK, I just have to fill this form out for you."
+        },
+        {
+          "s": "MAN",
+          "t": "So what date do you want to book this for?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "The 16th of October- oh, no, sorry, that's my departure date."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I arrive on the 17th, so book it for then, please.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "So, that's the Toronto Airport Shuttle to Milton."
+        },
+        {
+          "s": "MAN",
+          "t": "And this is for just one person or . .. ?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, just me, please."
+        },
+        {
+          "s": "MAN",
+          "t": "Right."
+        },
+        {
+          "s": "MAN",
+          "t": "And you said your expected time of arrival was 11.30?"
+        },
+        {
+          "s": "MAN",
+          "t": "So if I book your Shuttle for after 12.00 -let's say, 12.30: that should give you plenty of time to, you know, collect your baggage, maybe grab a coffee?",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yeah, that sounds fine, as long as we land on time!"
+        },
+        {
+          "s": "MAN",
+          "t": "Well, we'll take your flight details so you don't need to worry too much about that."
+        },
+        {
+          "s": "MAN",
+          "t": "Now, what about the fare?"
+        },
+        {
+          "s": "MAN",
+          "t": "What sort of ticket do you want?"
+        },
+        {
+          "s": "MAN",
+          "t": "One way or .. .?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, that'll be fine, provided I can book the return trip once I'm there."
+        },
+        {
+          "s": "MAN",
+          "t": "No problem- just allow a couple of days in advance to make sure you get a seat."
+        },
+        {
+          "s": "MAN",
+          "t": "And what's your name, please?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Janet, Janet Thomson."
+        },
+        {
+          "s": "MAN",
+          "t": "Is that Thompson spelt with a 'p'?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "No, it's T-H-O-M-S-O-N.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "OK."
+        },
+        {
+          "s": "MAN",
+          "t": "And you'll be coming from the UK?"
+        },
+        {
+          "s": "MAN",
+          "t": "What flight will you be travelling on?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, it's Air Canada flight number AC936, from London Heathrow.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Right."
+        },
+        {
+          "s": "MAN",
+          "t": "Now, do you know where you'll be staying?"
+        },
+        {
+          "s": "MAN",
+          "t": "We need to give the driver an address."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, it's called the Vacation Motel- and I think it's near the town centre."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Anyway, the address is 24, Kitchener Street- that's KITCHENER Street."
+        },
+        {
+          "s": "MAN",
+          "t": "That's fine."
+        },
+        {
+          "s": "MAN",
+          "t": "Right, so that's $35 to pay please."
+        },
+        {
+          "s": "MAN",
+          "t": "Have you got your credit card number there?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, it's a VISA card, and the number is 3303 8450 2045 6837.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "OK."
+        },
+        {
+          "s": "MAN",
+          "t": "Well, that seems to be everything."
+        },
+        {
+          "s": "MAN",
+          "t": "Have a good trip and we'll see you in Toronto next week!"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, bye - oh, thanks for your help!"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c7/t1p2.mp3",
+      "duration": 407,
+      "title": "PS Camping Holidays",
+      "groups": [
+        {
+          "range": [
+            11,
+            16
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 11,
+              "text": "PS Camping has been organising holidays for",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "15 years."
+                },
+                {
+                  "k": "B",
+                  "text": "20 years."
+                },
+                {
+                  "k": "C",
+                  "text": "25 years."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "The company has most camping sites in",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "France."
+                },
+                {
+                  "k": "B",
+                  "text": "Italy."
+                },
+                {
+                  "k": "C",
+                  "text": "Switzerland."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "Which organised activity can children do every day of the week?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "football"
+                },
+                {
+                  "k": "B",
+                  "text": "drama"
+                },
+                {
+                  "k": "C",
+                  "text": "model making"
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "Some areas of the sites have a 'no noise' rule after",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "9.30 p.m."
+                },
+                {
+                  "k": "B",
+                  "text": "10.00 p.m."
+                },
+                {
+                  "k": "C",
+                  "text": "10.30 p.m."
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "The holiday insurance that is offered by PS Camping",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "can be charged on an annual basis."
+                },
+                {
+                  "k": "B",
+                  "text": "is included in the price of the holiday."
+                },
+                {
+                  "k": "C",
+                  "text": "must be taken out at the time of booking."
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "Customers who recommend PS Camping to friends will receive",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a free gift."
+                },
+                {
+                  "k": "B",
+                  "text": "an upgrade to a luxury tent."
+                },
+                {
+                  "k": "C",
+                  "text": "a discount."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            20
+          ],
+          "type": "matching",
+          "instruction": "What does the speaker say about the following items? Write the correct letter, A, B or C, next to questions 17-20.",
+          "options": [
+            {
+              "k": "A",
+              "text": "They are provided in all tents."
+            },
+            {
+              "k": "B",
+              "text": "They are found in central areas of the campsite."
+            },
+            {
+              "k": "C",
+              "text": "They are available on request."
+            }
+          ],
+          "items": [
+            {
+              "n": 17,
+              "text": "barbecues"
+            },
+            {
+              "n": 18,
+              "text": "toys"
+            },
+            {
+              "n": 19,
+              "text": "cool boxes"
+            },
+            {
+              "n": 20,
+              "text": "mops and buckets"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Thank you all for coming to my talk this evening.",
+          "start": 69.92,
+          "end": 72.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's nice to see so many people in the audience.",
+          "start": 72.64,
+          "end": 74.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For those of you who don't know very much about PS Camping, let me start by giving you some background information about the company.",
+          "start": 75.88,
+          "end": 83.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The company started twenty-five years ago.",
+          "start": 84.89,
+          "end": 87.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It actually opened as a retail chain selling camping equipment, and then twenty years ago, it bought a small number of campsites in the UK, and began offering camping holidays.",
+          "q": [
+            11
+          ],
+          "start": 87.97,
+          "end": 99.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The company grew rapidly and has been providing holidays in continental Europe for the last fifteen years.",
+          "start": 99.22,
+          "end": 106.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you book a camping holiday with us, you'll have a choice of over three hundred sites.",
+          "start": 108.35,
+          "end": 113.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In Italy we now have some 64 sites that we either own, or have exclusive use of.",
+          "start": 113.87,
+          "end": 120.88
+        },
+        {
+          "s": "SPEAKER",
+          "t": "France is where we have the majority of sites, and we currently have a project to expand into Switzerland.",
+          "q": [
+            12
+          ],
+          "start": 120.96,
+          "end": 128.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We also have a number of sites in Northern Spain, particularly in the mountainous region of Picos de Europa.",
+          "start": 129.96,
+          "end": 136.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We've upgraded all these Spanish sites, and improved them considerably from their original three-star rating.",
+          "start": 137.84,
+          "end": 144.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We believe our holidays offer superb facilities for the whole family.",
+          "start": 144.52,
+          "end": 149.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Parents who want their children to be fully occupied for all or part of the day can take advantage of our children's activities.",
+          "start": 149.4,
+          "end": 158.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These are organised by our well-qualified and enthusiastic staff.",
+          "start": 158.52,
+          "end": 163.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Each day kicks off with a sports match, perhaps football, or volleyball, followed by an hour of drama for everyone.",
+          "q": [
+            13
+          ],
+          "start": 164.68,
+          "end": 172.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This may include singing or dancing, mime or other activities.",
+          "start": 172.26,
+          "end": 176.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the afternoon , there's a different art activity for each day of the week including a poster competition or model making.",
+          "start": 179.03,
+          "end": 186.31
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What's more, our sites are truly child-friendly, and, with this in mind, we operate a no-noise rule in the evenings.",
+          "start": 188.14,
+          "end": 196.22
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Children's evening activities usually finish at 9.30, or occasionally 10, and from 10.30 holiday-makers are expected to be quiet in the areas where there are tents.",
+          "q": [
+            14
+          ],
+          "start": 197.95,
+          "end": 209.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We want nothing to go wrong on a PS Camping holiday, but if it does, we also want all customers to be insured.",
+          "start": 211.66,
+          "end": 219.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you haven't organised an annual insurance policy of your own you'll need to take out the low-cost cover we offer and we require that you arrange this when you make your holiday reservation.",
+          "q": [
+            15
+          ],
+          "start": 219.78,
+          "end": 231.12
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are many advantages to choosing PS Camping, and to recommending it to others.",
+          "start": 231.44,
+          "end": 237.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As a regular customer, you'll be kept informed of special offers, and your friends can benefit from ten per cent off their holiday, or book a luxury tent for the price of a standard one.",
+          "start": 237.72,
+          "end": 249.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In return, we'll send you a thank-you present, which you can choose from a list of high-quality items.",
+          "q": [
+            16
+          ],
+          "start": 250.39,
+          "end": 256.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When it comes to our tents, these are equipped to the highest standard.",
+          "start": 294.44,
+          "end": 298.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We really do think of every essential detail, from an oven and cooking rings fuelled by bottled gas, to mirrors in the bedroom areas.",
+          "start": 299.04,
+          "end": 307.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you don't want to cook indoors, you can borrow a barbecue if you ask in advance for one to be made available, and there's even a picnic blanket to sit on outside your tent.",
+          "q": [
+            17
+          ],
+          "start": 309.65,
+          "end": 319.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Inside, a box of games and toys can be found , and children's tents can be hired if required.",
+          "q": [
+            18
+          ],
+          "start": 320.87,
+          "end": 326.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "All tents have a fridge, and if you want to spend the day on the beach, for example, ask for a specially designed PS Camping cool box, which will keep your food and drinks chilled.",
+          "q": [
+            19
+          ],
+          "start": 327.43,
+          "end": 339.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are excellent washing facilities at all our sites, with washing machines and clothes lines in the central areas, along with mops and buckets in case your tent needs cleaning during your stay.",
+          "q": [
+            20
+          ],
+          "start": 340.64,
+          "end": 352.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "All sites have a cafe and/or a shop for those who'd rather 'eat in' than dine at a local restaurant.",
+          "start": 352.34,
+          "end": 359.89
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c7/t1p3.mp3",
+      "duration": 0,
+      "title": "Differences Between Individuals in the Workplace",
+      "groups": [
+        {
+          "range": [
+            21,
+            23
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Differences Between Individuals in the Workplace",
+          "lines": [
+            "## Individuals bring different",
+            "- ideas",
+            "- {{21}}",
+            "- learning experiences",
+            "## Work behaviour differences are due to",
+            "- personality",
+            "- {{22}}",
+            "## Effects of diversity on companies",
+            "Advantage: diversity develops {{23}}",
+            "Disadvantage: diversity can cause conflict"
+          ]
+        },
+        {
+          "range": [
+            24,
+            27
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 24,
+              "text": "Janice thinks that employers should encourage workers who are",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "potential leaders."
+                },
+                {
+                  "k": "B",
+                  "text": "open to new ideas."
+                },
+                {
+                  "k": "C",
+                  "text": "good at teamwork."
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "Janice suggests that managers may find it difficult to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "form successful groups."
+                },
+                {
+                  "k": "B",
+                  "text": "balance conflicting needs."
+                },
+                {
+                  "k": "C",
+                  "text": "deal with uncooperative workers."
+                }
+              ]
+            },
+            {
+              "n": 26,
+              "text": "Janice believes employers should look for job applicants who",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "can think independently."
+                },
+                {
+                  "k": "B",
+                  "text": "will obey the system."
+                },
+                {
+                  "k": "C",
+                  "text": "can solve problems."
+                }
+              ]
+            },
+            {
+              "n": 27,
+              "text": "Janice believes managers should",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "demonstrate good behaviour."
+                },
+                {
+                  "k": "B",
+                  "text": "encourage co-operation early on."
+                },
+                {
+                  "k": "C",
+                  "text": "increase financial incentives."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            28,
+            30
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "lines": [
+            "All managers need to understand their employees and recognise their company's {{28}}.",
+            "When managing change, increasing the company's {{29}} may be more important than employee satisfaction.",
+            "During periods of change, managers may have to cope with increased amounts of {{30}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TUTOR",
+          "t": "Well, you've both been looking at different styles of managing individuals in companies and the workplace."
+        },
+        {
+          "s": "TUTOR",
+          "t": "How's the research going, Philip?"
+        },
+        {
+          "s": "PHILIP",
+          "t": "Well, I've been looking at why individualism, I mean individual differences, are such an important area of management studies."
+        },
+        {
+          "s": "PHILIP",
+          "t": "When you think about any organization, be it a family business or a multinational company, they are all fundamentally a group of people working together."
+        },
+        {
+          "s": "PHILIP",
+          "t": "But it's what these individuals contribute to their places of work that makes you realize how important they are."
+        },
+        {
+          "s": "PHILIP",
+          "t": "Of course they bring different ideas, but it's also their attitudes and their experiences of learning.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "PHILIP",
+          "t": "Diversity is important in these areas too."
+        },
+        {
+          "s": "TUTOR",
+          "t": "So why do people behave so differently from one another at work?"
+        },
+        {
+          "s": "PHILIP",
+          "t": "There are lots of reasons but research has shown a lot of it comes down to personality."
+        },
+        {
+          "s": "PHILIP",
+          "t": "And the other factor is gender."
+        },
+        {
+          "s": "PHILIP",
+          "t": "It 's a well known fact that men and women do lots of things in different ways, and the workplace is no different.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "Did you look at the effects of this variation on companies?"
+        },
+        {
+          "s": "PHILIP",
+          "t": "Yes, I did."
+        },
+        {
+          "s": "PHILIP",
+          "t": "On the positive side, exposure to such diversity helps encourage creativity which is generally an asset to a company."
+        },
+        {
+          "s": "PHILIP",
+          "t": "But unfortunately individual differences are also the root of conflict between staff and they can lead to difficulties for management, which can sometimes be serious.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "Thanks, Philip."
+        },
+        {
+          "s": "TUTOR",
+          "t": "So now I guess the two main things to remember here are to identify individual talent and then to utilize it."
+        },
+        {
+          "s": "TUTOR",
+          "t": "So Janice, you were looking at identifying different talents in workers."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Do you think this is easy for managers to do?"
+        },
+        {
+          "s": "JANICE",
+          "t": "Well, currently teamwork is in fashion in the workplace and in my opinion the importance of the individual is generally neglected ."
+        },
+        {
+          "s": "JANICE",
+          "t": "What managers should be targeting is those employees who can take the lead in a situation and are not afraid to accept the idea of responsibility.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "That's true Janice but unfortunately many managers think the entire notion of encouraging individuality amongst their staff is fa r too hard."
+        },
+        {
+          "s": "JANICE",
+          "t": "Yes, that may be true but I think one of the most important tasks of managers is to consider the needs of the individual on one hand and group co-operation and conformity on the other.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "JANICE",
+          "t": "It requires creative thinking on the part of management to avoid tension."
+        },
+        {
+          "s": "TUTOR",
+          "t": "So Janice, what kind of people do you think companies should be looking for?"
+        },
+        {
+          "s": "JANICE",
+          "t": "Well, it has to start from the very beginning when companies are looking for new employees: When the personnel department is choosing between applicants they need to look for someone who's broken the mould and can think for themselves."
+        },
+        {
+          "s": "JANICE",
+          "t": "Instead, people making these decisions often use a range of psychological tests to see if a person is a problem solver, or will do as they're told.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "JANICE",
+          "t": "I'm not convinced these qualities are actually the most important."
+        },
+        {
+          "s": "TUTOR",
+          "t": "So do you think being a good team player is overrated?"
+        },
+        {
+          "s": "JANICE",
+          "t": "No, it's not overrated."
+        },
+        {
+          "s": "JANICE",
+          "t": "You do need to learn the rules and learn them fast."
+        },
+        {
+          "s": "JANICE",
+          "t": "No individual can get around this if you're working in an organization."
+        },
+        {
+          "s": "TUTOR",
+          "t": "So how should managers deal with this?"
+        },
+        {
+          "s": "JANICE",
+          "t": "Rewards."
+        },
+        {
+          "s": "JANICE",
+          "t": "When an individual demonstrates the behaviour the organisation expects, some kind of incentive can be given."
+        },
+        {
+          "s": "JANICE",
+          "t": "What's important here is that this happens right at the beginning so new recruits learn the rules of the system immediately.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "JANICE",
+          "t": "Also the incentive should be something the individual actually wants, and this isn't always just money."
+        },
+        {
+          "s": "TUTOR",
+          "t": "To come back to you, Philip."
+        },
+        {
+          "s": "TUTOR",
+          "t": "You were saying that recognition of good performers is essential."
+        },
+        {
+          "s": "TUTOR",
+          "t": "What else should managers be looking for?"
+        },
+        {
+          "s": "PHILIP",
+          "t": "Well, managing people means you not only have an understanding of your employees, but you also recognise the culture of the organization.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "PHILIP",
+          "t": "In fact , for some organizations creativity and individuality may be the last thing they want to see during working hours!"
+        },
+        {
+          "s": "TUTOR",
+          "t": "Very true."
+        },
+        {
+          "s": "PHILIP",
+          "t": "Yes, but managing people isn't as easy as it looks."
+        },
+        {
+          "s": "PHILIP",
+          "t": "For example, change in the workplace can be quite tricky, especially if there's a need to increase profit."
+        },
+        {
+          "s": "PHILIP",
+          "t": "And at times like these managers may have to give priority to profit rather than individual staff needs.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, and that creates difficult situations for people."
+        },
+        {
+          "s": "PHILIP",
+          "t": "Yes but what's important is that managers are able to deal with quite high levels of personal stress."
+        },
+        {
+          "s": "PHILIP",
+          "t": "During times of change they should be thinking not only about the strain on their staff but take time out to think of themselves.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "Absolutely."
+        },
+        {
+          "s": "TUTOR",
+          "t": "So what are the implications of that for .. ."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c7/t1p4.mp3",
+      "duration": 407,
+      "title": "Seminar on Rock Art",
+      "groups": [
+        {
+          "range": [
+            31,
+            35
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Seminar on Rock Art",
+          "lines": [
+            "Preparation for fieldwork trip to Namibia in {{31}}.",
+            "Rock art in Namibia may be paintings or engravings.",
+            "## Earliest explanation of engravings of animal footprints",
+            "They were used to help {{32}} learn about tracking.",
+            "## But",
+            "- Why are the tracks usually {{33}}?",
+            "- Why are some engravings realistic and others unrealistic?",
+            "- Why are the unrealistic animals sometimes half {{34}}?",
+            "## More recent explanation",
+            "Wise men may have been trying to control wild animals with {{35}}.",
+            "## Comment",
+            "Earlier explanation was due to scholars over-generalising from their experience of a different culture."
+          ]
+        },
+        {
+          "range": [
+            36,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "lines": [
+            "If you look at a site from a {{36}}, you reduce visitor pressure.",
+            "To camp on a site may be disrespectful to people from that {{37}}.",
+            "Undiscovered material may be damaged by {{38}}.",
+            "You should avoid {{39}} or tracing rock art as it is so fragile.",
+            "In general, your aim is to leave the site {{40}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good afternoon, everyone!",
+          "start": 61.64,
+          "end": 62.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is the first seminar in preparation for our archaeological fieldwork in Namibia; we are fantastically lucky to have received partial research funding for this trip from our Institute, so I shall expect 200% attention and participation from you all.",
+          "start": 62.96,
+          "end": 79.26
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First in this seminar, I'm going to give a brief introduction to contemporary research on rock art, and in the second part I'm going to give you some do's and don'ts for our fieldwork trip in April - so please listen very carefully.",
+          "q": [
+            31
+          ],
+          "start": 80.91,
+          "end": 95.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm first going to focus on the interpretation of rock art in Namibia.",
+          "start": 95.75,
+          "end": 100.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We are very fortunate to be going to an area where you can find some of the most important sites in the entire world .",
+          "start": 101.43,
+          "end": 106.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And I hope to show you how easy it is for everyone to make mista kes in looking at cultures which are different from our own - the first and most important lesson we have to learn .",
+          "start": 107.66,
+          "end": 116.66
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In Namibia there are both paintings and engravings - that's where the surface of the rock is cut out.",
+          "start": 118.0,
+          "end": 123.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Many of the engravings show footprints of animals and most scholars used to think that the purpose of these was simple and obvious: this rock art was like a school book with pictures to teach children about tracks: which track belonged to which animal - giraffe, lion and so on.",
+          "q": [
+            32
+          ],
+          "start": 123.96,
+          "end": 141.66
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But there were some mysteries.",
+          "start": 142.48,
+          "end": 143.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First, when you look at a typical Namibian painting or engraving, you see the tracks are repeated, there are dozens of tracks for the same animal.",
+          "q": [
+            33
+          ],
+          "start": 143.8,
+          "end": 152.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'd expect just one clear illustration if the reason -the aim- was to teach tracking.",
+          "start": 154.08,
+          "end": 159.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now there were two more problems.",
+          "start": 159.96,
+          "end": 162.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Why are some of the engravings of animals very accurate as you 'd expect- all clearly identifiable- and others quite unrealistic?",
+          "start": 163.56,
+          "end": 171.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And another mystery - some of these unrealistic animals - that 's in the engravings - seem to be half human.",
+          "start": 173.14,
+          "end": 180.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some, for example, have got human faces.",
+          "start": 181.02,
+          "end": 182.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Many researchers now think that these were pictures the wise men engraved of themselves.",
+          "q": [
+            34
+          ],
+          "start": 184.25,
+          "end": 188.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They believed they could use magic to control the animals they had drawn, so the hunters could then catch them for food.",
+          "q": [
+            35
+          ],
+          "start": 189.93,
+          "end": 196.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This shows you some of the dangers of coming from one culture to another, as we'll be doing, without understanding it fully.",
+          "start": 197.21,
+          "end": 203.97
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Scholars imagined that children looked at rock art pictures to learn to track- just because they themselves had learnt skills from pictures; many researchers now believe that rock art had a much more complex purpose.",
+          "start": 204.33,
+          "end": 217.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And we'll talk more about it next week!",
+          "start": 217.92,
+          "end": 219.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now before I invite you to ]oin in a discussion in this second part of the seminar, I'd like to make some very important points about our fieldwork - and in fact any field trip to look at rock art.",
+          "start": 225.39,
+          "end": 235.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We're going to a number of sites, and we won't always be together.",
+          "start": 236.9,
+          "end": 240.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The single largest problem faced by people who manage the sites is- yes, I'm sure you've guessed - damage caused by visitors, even though it's usually unintentional.",
+          "start": 241.14,
+          "end": 250.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Whenever you do go to a site, don't forget you can learn many things from observing at a distance instead of walking all over it.",
+          "q": [
+            36
+          ],
+          "start": 252.3,
+          "end": 259.66
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This can really help to reduce visitor pressure.",
+          "start": 259.9,
+          "end": 262.82
+        },
+        {
+          "s": "SPEAKER",
+          "t": "People often say, 'Well, there's only two of us and just this one time', but maybe thousands of people are saying the same thing.",
+          "start": 263.73,
+          "end": 271.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And then some basic rules to guide you -we'll have our own camp near a village, but remember never to camp on a site if you go on your own.",
+          "start": 273.17,
+          "end": 281.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It may be disrespectful to the people of that culture, and certainly don't make fires, however romantic it may seem.",
+          "q": [
+            37
+          ],
+          "start": 282.73,
+          "end": 289.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's really dangerous in dry areas, and you can easily burn priceless undiscovered material by doing so.",
+          "q": [
+            38
+          ],
+          "start": 290.57,
+          "end": 296.61
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, how are we going to enjoy the rock art on our field trip?",
+          "start": 298.07,
+          "end": 301.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "By looking at it, drawing it and photographing it- NEVER by touching it or even tracing it.",
+          "start": 301.27,
+          "end": 308.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Rock art is fragile and precious.",
+          "q": [
+            39
+          ],
+          "start": 308.95,
+          "end": 311.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Remember that climbing on rocks and in caves can destroy in a moment what has lasted for centuries.",
+          "start": 313.02,
+          "end": 318.58
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So no heroics in Namibia, please!",
+          "start": 319.22,
+          "end": 321.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Try to be extra careful and help others to be too.",
+          "start": 321.98,
+          "end": 324.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And lastly please don't even move rocks or branches to take photographs - you should leave the site intact- I'm sure I can rely on you to do that.",
+          "q": [
+            40
+          ],
+          "start": 326.15,
+          "end": 335.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, that's about all I want to say before today's first discussion , but if you have any questions please ask them now- and don't forget you'll find some fascinating information about world-wide sites on the Internet.",
+          "start": 337.09,
+          "end": 349.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Right, first question then?",
+          "start": 350.55,
+          "end": 352.31
+        }
+      ]
+    }
+  ]
+}

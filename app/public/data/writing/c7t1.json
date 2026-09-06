@@ -1,0 +1,97 @@
+{
+  "id": "c7t1",
+  "book": "剑桥雅思7",
+  "test": 1,
+  "title": "剑7 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "table",
+      "kindZh": "表格",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The table below gives information on consumer spending on different items in five different countries in 2002.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c7t1-task1.webp",
+      "imageCaption": "Percentage of national consumer expenditure by category, 2002",
+      "data": {
+        "unit": "% of national consumer expenditure",
+        "years": [
+          2002
+        ],
+        "series": {
+          "Ireland Food/Drinks/Tobacco": [
+            28.91
+          ],
+          "Ireland Clothing/Footwear": [
+            6.43
+          ],
+          "Ireland Leisure/Education": [
+            2.21
+          ],
+          "Italy Food/Drinks/Tobacco": [
+            16.36
+          ],
+          "Italy Clothing/Footwear": [
+            9.0
+          ],
+          "Italy Leisure/Education": [
+            3.2
+          ],
+          "Spain Food/Drinks/Tobacco": [
+            18.8
+          ],
+          "Spain Clothing/Footwear": [
+            6.51
+          ],
+          "Spain Leisure/Education": [
+            1.98
+          ],
+          "Sweden Food/Drinks/Tobacco": [
+            15.77
+          ],
+          "Sweden Clothing/Footwear": [
+            5.4
+          ],
+          "Sweden Leisure/Education": [
+            3.22
+          ],
+          "Turkey Food/Drinks/Tobacco": [
+            32.14
+          ],
+          "Turkey Clothing/Footwear": [
+            6.63
+          ],
+          "Turkey Leisure/Education": [
+            4.35
+          ]
+        }
+      },
+      "sample": {
+        "band": 5.5,
+        "text": "Different countries' consumer spendings are quite different. The table shows the vary consumer spending on a seires of intems in the five countries, namely, the Ireland, Italy, Span, Sweden and Turkey in 2002.\n\nFood, drinks and tobacco were in the most important position on consumer spending in all of the five countries, and in a different percentage. In Ireland and turkey. they were near 30%, while in the other three countries they are under 20%.\n\nClothing and footwear were the second important consumer spending in these countries. In Italy, they got 9%, and in Sweden, they were 5.4%. In the other three countries, the figure were very similar, all were near 6.5%.\n\nThe last consumer spending were leisure and education. In Turkey, they were 4.35%, and in the other four countries the figure were under 4%.\n\nIn conclusion, it can be said that in 2002, food, drinks and tabacoo were the most important consumer spending in the five countries, and the different countries' consumer spending were quite different.",
+        "comment": "This answer focuses on the key features of the information, clearly grouping the countries, using supporting figures and presenting an overview. However, there is no clear reference to what the percentages represent and key comparisons need more expansion.\n\nInformation is organised with clear signalling and some effective referencing and linking, although not all ideas are clearly linked and the overall progression is achieved by repetition in the final section.\n\nThe range of vocabulary is rather narrow and just sufficient for the task. The attempt to paraphrase the rubric shows limited flexibility. There are several spelling and word form errors, and quite a lot of repetition. Similarly, the range of sentence forms is not wide, with few examples of complex structures. However, apart from one or two errors in basic grammar, simple structures are accurate and easily understood."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "It is generally believed that some people are born with certain talents, for instance for sport or music, and others are not. However, it is sometimes claimed that any child can be taught to become a good sports person or musician.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "The relative importance of natural talent and training is a frequent topic of discussion when people try to explain different levels of ability in, for example, sport, art or music.\n\nObviously, education systems are based on the belief that all children can effectively be taught to acquire different skills, including those associated with sport, art or music. So from our own school experience, we can find plenty of evidence to support the view that a child can acquire these skills with continued teaching and guided practice.\n\nHowever, some people believe that innate talent is what differentiates a person who has been trained to play a sport or an instrument, from those who become good players. In other words, there is more to the skill than a learned technique, and this extra talent cannot be taught, no matter how good the teacher or how frequently a child practices.\n\nI personally think that some people do have talents that are probably inherited via their genes. Such talents can give individuals a facility for certain skills that allow them to excel, while more hard-working students never manage to reach a comparable level. But, as with all questions of nature versus nurture, they are not mutually exclusive. Good musicians or artists and exceptional sports stars have probably succeeded because of both good training and natural talent. Without the natural talent, continuous training would be neither attractive nor productive, and without the training, the child would not learn how to exploit and develop their talent.\n\nIn conclusion, I agree that any child can be taught particular skills, but to be really good in areas such as music, art or sport, then some natural talent is required.",
+        "comment": "本书原文说明：此篇 Task 2 范文标注为 MODEL ANSWER，由考官撰写，作为该题众多可能写法中的一种示范（\"This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches.\"），与其余各套 Task 1/Task 2 的 SAMPLE ANSWER（真实考生答卷）不同，书中并未给出针对这篇范文的具体考官评语或分项评分。"
+      }
+    }
+  ]
+}
