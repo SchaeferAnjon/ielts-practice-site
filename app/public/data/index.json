@@ -1225,7 +1225,11 @@
    "bookNo": 4,
    "test": 4,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
    "audioParts": []
   }
  ]

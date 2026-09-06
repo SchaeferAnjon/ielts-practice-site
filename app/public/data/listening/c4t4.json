@@ -1,0 +1,1664 @@
+{
+  "id": "c4t4",
+  "book": "剑桥雅思4",
+  "test": 4,
+  "title": "剑4 Test 4 · Listening",
+  "source": "Cambridge IELTS 4, Test 4（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "College Dining Room"
+    ],
+    "2": [
+      "office staff"
+    ],
+    "3": [
+      "students"
+    ],
+    "4": [
+      "10th December",
+      "10 December",
+      "December 10th"
+    ],
+    "5": [
+      "coffee break",
+      "coffee breaks"
+    ],
+    "6": [
+      "six",
+      "6"
+    ],
+    "7": [
+      "set of dictionaries",
+      "dictionaries",
+      "a good dictionary"
+    ],
+    "8": [
+      "music",
+      "some music",
+      "music tapes",
+      "some music tapes",
+      "tapes"
+    ],
+    "9": [
+      "photos",
+      "photographs"
+    ],
+    "10": [
+      "speech"
+    ],
+    "11": [
+      "B"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "A"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "180"
+    ],
+    "17": [
+      "nearest station"
+    ],
+    "18": [
+      "local history"
+    ],
+    "19": [
+      "690"
+    ],
+    "20": [
+      "walking club",
+      "local walking club"
+    ],
+    "21": [
+      "20 balloons"
+    ],
+    "22": [
+      "units of measurement",
+      "measurements",
+      "measurement units"
+    ],
+    "23": [
+      "rock salt",
+      "salt"
+    ],
+    "24": [
+      "crystals"
+    ],
+    "25": [
+      "string",
+      "piece of string"
+    ],
+    "26": [
+      "ordinary light",
+      "white light",
+      "ordinary white light"
+    ],
+    "27": [
+      "H"
+    ],
+    "28": [
+      "B"
+    ],
+    "29": [
+      "E"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "795"
+    ],
+    "32": [
+      "tail"
+    ],
+    "33": [
+      "floor",
+      "bed",
+      "bottom"
+    ],
+    "34": [
+      "sense of smell"
+    ],
+    "35": [
+      "A"
+    ],
+    "36": [
+      "A"
+    ],
+    "37": [
+      "B"
+    ],
+    "38": [
+      "B"
+    ],
+    "39": [
+      "B",
+      "E"
+    ],
+    "40": [
+      "B",
+      "E"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c4/t4p1.mp3",
+      "duration": 0,
+      "title": "Goodbye Party for John",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "GOODBYE PARTY FOR JOHN",
+          "lines": [
+            "Date: 22nd December (example)",
+            "Venue: {{1}}",
+            "## Invitations (Tony)",
+            "Who to invite:",
+            "- John and his wife",
+            "- Director",
+            "- the {{2}}",
+            "- all the teachers",
+            "- all the {{3}}",
+            "Date for sending invitations: {{4}}",
+            "## Present (Lisa)",
+            "Collect money during the {{5}}",
+            "Suggested amount per person: {{6}} dollars",
+            "Check prices for:",
+            "- CD players",
+            "- {{7}}",
+            "- coffee maker",
+            "Ask guests to bring:",
+            "- snacks",
+            "- {{8}}",
+            "- {{9}}",
+            "Ask student representative to prepare a {{10}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LISA",
+          "t": "Hi Tony, thanks ever so much for coming."
+        },
+        {
+          "s": "LISA",
+          "t": "You know we've been asked to organise something for John's farewell?"
+        },
+        {
+          "s": "TONY",
+          "t": "Yeah, sure, it's about time we started working out details."
+        },
+        {
+          "s": "LISA",
+          "t": "Exactly."
+        },
+        {
+          "s": "LISA",
+          "t": "We don't want to leave it so late that it's double the work."
+        },
+        {
+          "s": "TONY",
+          "t": "Mmm, mm, right, do you want me to take notes?"
+        },
+        {
+          "s": "LISA",
+          "t": "That'd be great, thanks."
+        },
+        {
+          "s": "TONY",
+          "t": "Right, first thing is, when is the best time to hold it?"
+        },
+        {
+          "s": "LISA",
+          "t": "Well, he leaves on the twenty-fourth of December."
+        },
+        {
+          "s": "TONY",
+          "t": "So what about the twenty-second?"
+        },
+        {
+          "s": "LISA",
+          "t": "Yeah, I think that's about right."
+        },
+        {
+          "s": "LISA",
+          "t": "We want it quite near the time, don't we?"
+        },
+        {
+          "s": "TONY",
+          "t": "Sure. and what about a venue?"
+        },
+        {
+          "s": "TONY",
+          "t": "In college?"
+        },
+        {
+          "s": "TONY",
+          "t": "A hotel?"
+        },
+        {
+          "s": "LISA",
+          "t": "I think a hotel will probably work out rather expensive, and I've been looking at the College Dining Room; that seems pretty reasonable.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "TONY",
+          "t": "Fine, yeah, why not?"
+        },
+        {
+          "s": "LISA",
+          "t": "And then we ought to be thinking about invitations..."
+        },
+        {
+          "s": "LISA",
+          "t": "Who mustn't we forget to invite?"
+        },
+        {
+          "s": "TONY",
+          "t": "Well, obviously John and his wife."
+        },
+        {
+          "s": "LISA",
+          "t": "Right."
+        },
+        {
+          "s": "TONY",
+          "t": "And the Director."
+        },
+        {
+          "s": "LISA",
+          "t": "Ahha."
+        },
+        {
+          "s": "TONY",
+          "t": "The office staff.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "LISA",
+          "t": "Yep, and all the teachers and all the students.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "TONY",
+          "t": "Anyone else?"
+        },
+        {
+          "s": "LISA",
+          "t": "Faculty Heads?"
+        },
+        {
+          "s": "TONY",
+          "t": "No, better draw the line, I don't think it's necessary."
+        },
+        {
+          "s": "LISA",
+          "t": "Yeah, you're right."
+        },
+        {
+          "s": "TONY",
+          "t": "I don't mind writing the invitations."
+        },
+        {
+          "s": "TONY",
+          "t": "When shall we get them out for?"
+        },
+        {
+          "s": "LISA",
+          "t": "Enough time but not too early."
+        },
+        {
+          "s": "LISA",
+          "t": "What about the fifteenth of December?"
+        },
+        {
+          "s": "TONY",
+          "t": "Well, there are exams on the sixteenth - better avoid them."
+        },
+        {
+          "s": "LISA",
+          "t": "Tenth?",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "TONY",
+          "t": "Yeah, that should do it."
+        },
+        {
+          "s": "LISA",
+          "t": "So what does that leave?"
+        },
+        {
+          "s": "LISA",
+          "t": "Oh yes, a present."
+        },
+        {
+          "s": "TONY",
+          "t": "Would you mind doing that?"
+        },
+        {
+          "s": "LISA",
+          "t": "No, not at all; we usually go round with an envelope during coffee break, don't we?",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "TONY",
+          "t": "Yeah, coffee break's always the best time, 'cos people have got their money handy."
+        },
+        {
+          "s": "LISA",
+          "t": "Yeah, exactly."
+        },
+        {
+          "s": "LISA",
+          "t": "Do we suggest an amount?"
+        },
+        {
+          "s": "LISA",
+          "t": "Or does it seem a bit unfair?"
+        },
+        {
+          "s": "TONY",
+          "t": "No, I think people welcome it."
+        },
+        {
+          "s": "TONY",
+          "t": "We suggested six dollars last time, is that OK?",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "LISA",
+          "t": "Yeah, plenty I would have thought, which should leave us with about ninety dollars."
+        },
+        {
+          "s": "TONY",
+          "t": "Have you any ideas for presents?"
+        },
+        {
+          "s": "LISA",
+          "t": "Well, I've been having a little think."
+        },
+        {
+          "s": "LISA",
+          "t": "I thought, you know, he loves music."
+        },
+        {
+          "s": "TONY",
+          "t": "Yeah, and books."
+        },
+        {
+          "s": "LISA",
+          "t": "So, I thought I'd check on prices for, well, perhaps CD players."
+        },
+        {
+          "s": "TONY",
+          "t": "Yeah, that's a, that's a good idea, and also I thought maybe, you know, a set of dictionaries.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "TONY",
+          "t": "I heard him say he needed a good one."
+        },
+        {
+          "s": "LISA",
+          "t": "The other thing he was saying last week was that his computer printer had broken."
+        },
+        {
+          "s": "TONY",
+          "t": "Umm."
+        },
+        {
+          "s": "TONY",
+          "t": "No, I'd be really frightened about getting the wrong type."
+        },
+        {
+          "s": "LISA",
+          "t": "OK, yeah."
+        },
+        {
+          "s": "TONY",
+          "t": "The other thing is something for the home - Jill suggested a coffee maker."
+        },
+        {
+          "s": "LISA",
+          "t": "Oh yeah."
+        },
+        {
+          "s": "LISA",
+          "t": "I'll certainly find out what they cost."
+        },
+        {
+          "s": "LISA",
+          "t": "OK. have you got all that down?"
+        },
+        {
+          "s": "TONY",
+          "t": "Yes."
+        },
+        {
+          "s": "LISA",
+          "t": "Now we need to think a little more about the money."
+        },
+        {
+          "s": "LISA",
+          "t": "I know we've got a set amount from the Social Fund."
+        },
+        {
+          "s": "TONY",
+          "t": "Right, what does that cover?"
+        },
+        {
+          "s": "LISA",
+          "t": "It's meant to cover the cost of the room."
+        },
+        {
+          "s": "TONY",
+          "t": "Yeah."
+        },
+        {
+          "s": "LISA",
+          "t": "And a certain amount for food."
+        },
+        {
+          "s": "TONY",
+          "t": "And also drinks?"
+        },
+        {
+          "s": "LISA",
+          "t": "Oh yeah, certainly."
+        },
+        {
+          "s": "TONY",
+          "t": "But will it be enough?"
+        },
+        {
+          "s": "LISA",
+          "t": "What we 've done in the past is to ask guests to bring some snacks."
+        },
+        {
+          "s": "TONY",
+          "t": "Right."
+        },
+        {
+          "s": "LISA",
+          "t": "We don't ask them to bring more drinks because we figure that's... that should come from the Social Fund."
+        },
+        {
+          "s": "TONY",
+          "t": "OK."
+        },
+        {
+          "s": "TONY",
+          "t": "Anything else for the guests to bring?"
+        },
+        {
+          "s": "LISA",
+          "t": "Well, some music, because there'll be a tape deck there in the room, and we can have some dancing later on.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "TONY",
+          "t": "Anything else?"
+        },
+        {
+          "s": "LISA",
+          "t": "Well, it's just a thought, but a couple of years ago we had a really good party where we set up, you know, some simple games."
+        },
+        {
+          "s": "TONY",
+          "t": "Yeah, great."
+        },
+        {
+          "s": "TONY",
+          "t": "Wasn't it based on photos from the students and teachers?"
+        },
+        {
+          "s": "LISA",
+          "t": "That's right."
+        },
+        {
+          "s": "TONY",
+          "t": "So we should ask the guests to bring photos. OK.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "TONY",
+          "t": "I'll put it on the invitations."
+        },
+        {
+          "s": "LISA",
+          "t": "Now the last thing is, who shall we ask to do the speech?",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "TONY",
+          "t": "Don't you think it might be nice to have one of the students?"
+        },
+        {
+          "s": "LISA",
+          "t": "Well then, the Student Leader?"
+        },
+        {
+          "s": "TONY",
+          "t": "Yeah, much better than the Director giving speeches again."
+        },
+        {
+          "s": "LISA",
+          "t": "OK then, I'll ask her."
+        },
+        {
+          "s": "LISA",
+          "t": "Lovely!"
+        },
+        {
+          "s": "LISA",
+          "t": "So, is that all?"
+        },
+        {
+          "s": "TONY",
+          "t": "Looks like it."
+        },
+        {
+          "s": "LISA",
+          "t": "Great."
+        },
+        {
+          "s": "LISA",
+          "t": "Thanks ever so much..."
+        },
+        {
+          "s": "LISA",
+          "t": "(fade out)"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c4/t4p2.mp3",
+      "duration": 0,
+      "title": "Travelite Walking Holidays",
+      "groups": [
+        {
+          "range": [
+            11,
+            15
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 11,
+              "text": "To find out how much holidays cost, you should press button",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "one."
+                },
+                {
+                  "k": "B",
+                  "text": "two."
+                },
+                {
+                  "k": "C",
+                  "text": "three."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "Travelite currently offer walking holidays",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "only in Western Europe."
+                },
+                {
+                  "k": "B",
+                  "text": "all over Europe."
+                },
+                {
+                  "k": "C",
+                  "text": "outside Europe."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "The walks offered by Travelite",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "cater for a range of walking abilities."
+                },
+                {
+                  "k": "B",
+                  "text": "are planned by guides from the local area."
+                },
+                {
+                  "k": "C",
+                  "text": "are for people with good fitness levels."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "On Travelite holidays, people holidaying alone pay",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the same as other clients."
+                },
+                {
+                  "k": "B",
+                  "text": "only a little more than other clients."
+                },
+                {
+                  "k": "C",
+                  "text": "extra only if they stay in a large room."
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "Entertainment is provided",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "when guests request it."
+                },
+                {
+                  "k": "B",
+                  "text": "most nights."
+                },
+                {
+                  "k": "C",
+                  "text": "every night."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            16,
+            20
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "table": {
+            "head": [
+              "Length of holiday",
+              "Cost per person (including all accommodation costs)",
+              "Special offers included in price"
+            ],
+            "rows": [
+              [
+                "3 days",
+                "{{16}} $",
+                "Pick up from the {{17}}"
+              ],
+              [
+                "7 days",
+                "$350",
+                "As above plus\n- book of {{18}}\n- maps"
+              ],
+              [
+                "14 days",
+                "{{19}} $",
+                "As above plus membership of a {{20}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER 1",
+          "t": "Thank you for calling the free Travelite Travel Agency Information Line."
+        },
+        {
+          "s": "SPEAKER 1",
+          "t": "You will not be charged for this call."
+        },
+        {
+          "s": "SPEAKER 1",
+          "t": "In order to deal with all calls effectively, we offer you a number of options."
+        },
+        {
+          "s": "SPEAKER 1",
+          "t": "Please listen carefully and press your required number at the appropriate time, or dial a new number."
+        },
+        {
+          "s": "SPEAKER 1",
+          "t": "If you want to hear about special offers, please press one."
+        },
+        {
+          "s": "SPEAKER 1",
+          "t": "If you want to hear our latest price lists, please press two.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "SPEAKER 1",
+          "t": "If you want to make a complaint, please press three."
+        },
+        {
+          "s": "SPEAKER 1",
+          "t": "If you want information about our new walking holidays. please press four now."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "Thank you for calling our Travelite Walking Holidays Line."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "We have been offering a wide variety of walking holidays to suit all tastes for just three years, but already we have won two awards for excellence in this field."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "We offer guided walking tours to suit the discerning traveller in twelve different centres throughout the whole of Western Europe.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "We are planning to open our first centre outside this area in the coming year, so watch out for developments."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "But the pride of Travelite is the level of guidance and support we offer on our walks."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "All are planned in detail by our highly trained guides, who all work in a variety of different Travelite locations, so we can guarantee standards."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "Each day we offer three separate walks catering for all skills and fitness levels.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "We also pride ourselves on our friendly service, particularly important for the increasing numbers of people who choose to holiday alone."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "Unlike almost all travel operators who happily charge large supplements for single rooms, we guarantee that no single client will pay more, even when only double rooms are available for them.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "And the day doesn't end with the return to base... after our dinner at communal tables designed to make all our guests feel part of a family atmosphere..."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "Entertainment is laid on nearly every night with tour leaders on hand to organise lectures, games, quizzes and respond to any special requests from guests.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "The following is a summary of costs and special inclusive offers on holidays for the coming summer."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "We have three lengths of holiday: three-day, seven- day and fourteen-day."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "The three-day holiday costs one hundred and eighty dollars for all accommodation, food and walking, and for the first time this year we are including in that price the cost of picking you up from the nearest station.",
+          "q": [
+            16,
+            17
+          ]
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "The seven-day holiday costs three hundred and fifty dollars per person and, as well as including the offers of the three-day holiday, also includes a magnificent book giving the local history.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "On top of that, we are able to include free maps for you to better enjoy the walking and even plan in advance, if you wish."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "For the fourteen-day holiday, our special price is six hundred and ninety dollars per person and that includes all the offers for the three- and seven-day holidays plus membership of a local walking club so you can better enjoy the full flavour of the local life.",
+          "q": [
+            19,
+            20
+          ]
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "For further information, please contact your local travel agent."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "Thank you for calling the Travelite Travel Agency Information Line..."
+        },
+        {
+          "s": "SPEAKER 2",
+          "t": "(fade out)"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c4/t4p3.mp3",
+      "duration": 0,
+      "title": "Science Experiments for Children",
+      "groups": [
+        {
+          "range": [
+            21,
+            26
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "table": {
+            "head": [
+              "Experiment number",
+              "Equipment",
+              "Purpose"
+            ],
+            "rows": [
+              [
+                "Experiment 1",
+                "{{21}} and a table",
+                "To show how things move on a cushion of air"
+              ],
+              [
+                "Experiment 2",
+                "Lots of paperclips",
+                "To show why we need standard {{22}}"
+              ],
+              [
+                "Experiment 3",
+                "{{23}} and a jar of water",
+                "To show how {{24}} grow"
+              ],
+              [
+                "Experiment 4",
+                "Cardboard, coloured pens and a {{25}}",
+                "To teach children about how {{26}} is made up"
+              ],
+              [
+                "Experiment 5",
+                "A drill, an old record, a pin/needle, paper, a bolt",
+                "To make a record player in order to learn about recording sound"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "matching",
+          "instruction": "What problems do the speakers identify for each experiment? Choose your answers from the box and write the letters A-H next to questions 27-30.",
+          "optionsTitle": "Problems",
+          "options": [
+            {
+              "k": "A",
+              "text": "too messy"
+            },
+            {
+              "k": "B",
+              "text": "too boring"
+            },
+            {
+              "k": "C",
+              "text": "too difficult"
+            },
+            {
+              "k": "D",
+              "text": "too much equipment"
+            },
+            {
+              "k": "E",
+              "text": "too long"
+            },
+            {
+              "k": "F",
+              "text": "too easy"
+            },
+            {
+              "k": "G",
+              "text": "too noisy"
+            },
+            {
+              "k": "H",
+              "text": "too dangerous"
+            }
+          ],
+          "itemsTitle": "Experiments",
+          "items": [
+            {
+              "n": 27,
+              "text": "Experiment 1"
+            },
+            {
+              "n": 28,
+              "text": "Experiment 2"
+            },
+            {
+              "n": 29,
+              "text": "Experiment 3"
+            },
+            {
+              "n": 30,
+              "text": "Experiment 5"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MIKE",
+          "t": "Hi Sue."
+        },
+        {
+          "s": "SUE",
+          "t": "Hi Mike, so what happened to you last week?"
+        },
+        {
+          "s": "MIKE",
+          "t": "Oh, I was sick with the flu."
+        },
+        {
+          "s": "MIKE",
+          "t": "What's this I hear about a big assignment we've got to do?"
+        },
+        {
+          "s": "SUE",
+          "t": "Well, basically, we've got to find two science experiments to do with a group of eight-year-old children at the local primary school, and we've got to complete it by the end of the week."
+        },
+        {
+          "s": "MIKE",
+          "t": "Oh, that sounds like hard work."
+        },
+        {
+          "s": "MIKE",
+          "t": "Where are we supposed to get the ideas for these experiments from?"
+        },
+        {
+          "s": "SUE",
+          "t": "Well, I managed to get hold of two books from the library."
+        },
+        {
+          "s": "MIKE",
+          "t": "Oh, well done!"
+        },
+        {
+          "s": "SUE",
+          "t": "How about if we take a look at the experiments in this book first and see if anything looks suitable?"
+        },
+        {
+          "s": "SUE",
+          "t": "I can make notes as we go, about equipment and the purpose of the experiments."
+        },
+        {
+          "s": "MIKE",
+          "t": "OK. let's see, um, the first experiment is called 'Make your own hovercraft'. which sounds very ambitious!"
+        },
+        {
+          "s": "MIKE",
+          "t": "Mind you, you only need twenty balloons and a table -you don't need any special engines or anything like that!",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "SUE",
+          "t": "What do you do with it all?"
+        },
+        {
+          "s": "MIKE",
+          "t": "Er, you blow up the balloons and you balance the table on them, upside down of course. and the kids get to ride around on it."
+        },
+        {
+          "s": "MIKE",
+          "t": "You know, the other kids sort of push them around the room."
+        },
+        {
+          "s": "MIKE",
+          "t": "The main purpose is to show how hovercrafts work, and how things hover around on just a cushion of air."
+        },
+        {
+          "s": "SUE",
+          "t": "OK. that doesn't sound too bad."
+        },
+        {
+          "s": "MIKE",
+          "t": "OK. ready for number two?"
+        },
+        {
+          "s": "SUE",
+          "t": "Uh- huh."
+        },
+        {
+          "s": "MIKE",
+          "t": "Now this one is called 'Unusual Measures of Lengths', and you basically use lots of paperclips."
+        },
+        {
+          "s": "MIKE",
+          "t": "The kids go around the class measuring things -you know, how long the desk is, and that sort of thing, um, and then they all compare their answers."
+        },
+        {
+          "s": "MIKE",
+          "t": "Er, and, basically, because not all paperclips are the same lengths. they should come up with some strange answers."
+        },
+        {
+          "s": "MIKE",
+          "t": "It's supposed to demonstrate the importance of having fixed units of measurement.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "SUE",
+          "t": "Hmm, yes, that's not bad."
+        },
+        {
+          "s": "MIKE",
+          "t": "OK. now for number three you need rock salt or copper sulphate.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "SUE",
+          "t": "Oh, I'm not sure about that!"
+        },
+        {
+          "s": "MIKE",
+          "t": "Well, just put down the rock salt then, um, apart from that you only need a jar of water."
+        },
+        {
+          "s": "MIKE",
+          "t": "Um, and basically you dissolve lots of salt into the water and watch the crystals form, so it basically teaches the kids about growing crystals.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "SUE",
+          "t": "I suppose it would be nice to grow something."
+        },
+        {
+          "s": "SUE",
+          "t": "Hmm,let's move on and have a look at number four."
+        },
+        {
+          "s": "MIKE",
+          "t": "OK. this one is called 'Spinning colour wheel'."
+        },
+        {
+          "s": "MIKE",
+          "t": "It looks like you get some cardboard and draw a circle on it, divide it into six equal segments and colour each one in using different colours, then you thread a piece of string through the middle.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "SUE",
+          "t": "So we'd need some string as well."
+        },
+        {
+          "s": "MIKE",
+          "t": "Yes, sorry... um... and you spin the wheel around and if you can get it spinning fast enough, hopefully the colours all merge and show up as white."
+        },
+        {
+          "s": "SUE",
+          "t": "Oh, I didn't know that."
+        },
+        {
+          "s": "SUE",
+          "t": "What's the principle behind it?"
+        },
+        {
+          "s": "MIKE",
+          "t": "Well it's pretty elementary physics, really."
+        },
+        {
+          "s": "MIKE",
+          "t": "It teaches them about how white light or ordinary light is made up.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "SUE",
+          "t": "Hmm, well that doesn't sound too bad."
+        },
+        {
+          "s": "SUE",
+          "t": "Now there's only one more left in this book isn't there?"
+        },
+        {
+          "s": "SUE",
+          "t": "What does that one say?"
+        },
+        {
+          "s": "MIKE",
+          "t": "Um, well it's another one where they'd get to make something."
+        },
+        {
+          "s": "SUE",
+          "t": "Sounds very interesting."
+        },
+        {
+          "s": "MIKE",
+          "t": "You need quite a lot of equipment actually - a hand drill, an old record, a pin or needle, some paper and a bolt."
+        },
+        {
+          "s": "SUE",
+          "t": "Hmm, go on, what do they have to do?"
+        },
+        {
+          "s": "MIKE",
+          "t": "Well, they basically make a record player."
+        },
+        {
+          "s": "MIKE",
+          "t": "The main idea is to teach them about recording sound. but hopefully they'd also see that you need motion and an amplifier to make the sound heard."
+        },
+        {
+          "s": "SUE",
+          "t": "OK, well it does sound interesting."
+        },
+        {
+          "s": "SUE",
+          "t": "Shall we go through all of those again and decide if any of them are going to be suitable?"
+        },
+        {
+          "s": "MIKE",
+          "t": "Right, number one."
+        },
+        {
+          "s": "MIKE",
+          "t": "I thought this one sounded nice: there'd be lots of activity and it doesn't need too much in the way of equipment."
+        },
+        {
+          "s": "SUE",
+          "t": "Yes, that's true, but don't you think it's a bit risky to get a group of eight-year-olds pushing each other around a classroom like that?",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "SUE",
+          "t": "Someone could get hurt."
+        },
+        {
+          "s": "SUE",
+          "t": "No, I don't like the sound of that one at all!"
+        },
+        {
+          "s": "MIKE",
+          "t": "Maybe you 're right."
+        },
+        {
+          "s": "SUE",
+          "t": "What about number two, with the paperclips?"
+        },
+        {
+          "s": "SUE",
+          "t": "It sounds tame enough."
+        },
+        {
+          "s": "MIKE",
+          "t": "Yes. a bit too tame if you ask me."
+        },
+        {
+          "s": "MIKE",
+          "t": "I think it needs to be something a bit more active and interesting than that, don't you?",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "SUE",
+          "t": "Yes, I suppose you're right."
+        },
+        {
+          "s": "SUE",
+          "t": "We won't get a very good mark if the children don't actually enjoy the experiments. and I suppose we could turn them off science for good!"
+        },
+        {
+          "s": "SUE",
+          "t": "Well, what about the next one. number three?"
+        },
+        {
+          "s": "MIKE",
+          "t": "Now, I quite like the idea of this one."
+        },
+        {
+          "s": "SUE",
+          "t": "Yes, so do I. but I seem to remember when we did it at high school we had to wait up to a fortnight before we saw any halfway decent results.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "MIKE",
+          "t": "Oh, yes well. that won't be any good then."
+        },
+        {
+          "s": "MIKE",
+          "t": "We'll only see the kids for one or two hours at the most."
+        },
+        {
+          "s": "SUE",
+          "t": "Yes, and we have to do the experiments and write up our results within a week. so that one won't do at all."
+        },
+        {
+          "s": "MIKE",
+          "t": "OK, well, what did you think of number four?"
+        },
+        {
+          "s": "SUE",
+          "t": "I like the idea of it, but do you think it will be a bit elementary for them?"
+        },
+        {
+          "s": "MIKE",
+          "t": "Well they are only eight you know!"
+        },
+        {
+          "s": "SUE",
+          "t": "I know, but you know what I mean."
+        },
+        {
+          "s": "SUE",
+          "t": "Don't you think the activity itself is a bit babyish?"
+        },
+        {
+          "s": "MIKE",
+          "t": "Hmm, maybe you're right."
+        },
+        {
+          "s": "SUE",
+          "t": "They might have fun but, I mean, cutting out a circle and colouring it in?"
+        },
+        {
+          "s": "MIKE",
+          "t": "OK, well, what about number five?"
+        },
+        {
+          "s": "SUE",
+          "t": "I thought this one sounded a bit too good to be true- great equipment!"
+        },
+        {
+          "s": "MIKE",
+          "t": "Yeah."
+        },
+        {
+          "s": "SUE",
+          "t": "But don't you think it's a bit ambitious for this age group?"
+        },
+        {
+          "s": "SUE",
+          "t": "I mean, I don't want to start off something and then have to abandon it if they just can't cope with it.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "SUE",
+          "t": "I could see us ending up doing just about all of the work for them."
+        },
+        {
+          "s": "MIKE",
+          "t": "I guess you're right."
+        },
+        {
+          "s": "MIKE",
+          "t": "Oh well, maybe we could store that idea away for later."
+        },
+        {
+          "s": "SUE",
+          "t": "Yep, let's hope this second book has something better!"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c4/t4p4.mp3",
+      "duration": 0,
+      "title": "Sharks in Australia",
+      "groups": [
+        {
+          "range": [
+            31,
+            34
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Sharks in Australia",
+          "lines": [
+            "Length: largest caught: 16 metres",
+            "Weight: heaviest: {{31}} kg",
+            "Skeleton: cartilage",
+            "Skin texture: rough barbs",
+            "Swimming aids: fins and {{32}}",
+            "Food: gathered from the ocean {{33}}",
+            "sharks locate food by using their {{34}}"
+          ]
+        },
+        {
+          "range": [
+            35,
+            38
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 35,
+              "text": "Shark meshing uses nets laid",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "along the coastline."
+                },
+                {
+                  "k": "B",
+                  "text": "at an angle to the beach."
+                },
+                {
+                  "k": "C",
+                  "text": "from the beach to the sea."
+                }
+              ]
+            },
+            {
+              "n": 36,
+              "text": "Other places that have taken up shark meshing include",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "South Africa."
+                },
+                {
+                  "k": "B",
+                  "text": "New Zealand."
+                },
+                {
+                  "k": "C",
+                  "text": "Tahiti."
+                }
+              ]
+            },
+            {
+              "n": 37,
+              "text": "The average number of sharks caught in nets each year is",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "15."
+                },
+                {
+                  "k": "B",
+                  "text": "150."
+                },
+                {
+                  "k": "C",
+                  "text": "1,500."
+                }
+              ]
+            },
+            {
+              "n": 38,
+              "text": "Most sharks are caught in",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "spring."
+                },
+                {
+                  "k": "B",
+                  "text": "summer."
+                },
+                {
+                  "k": "C",
+                  "text": "winter."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            39,
+            40
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-G.",
+          "text": "Which TWO factors reduce the benefits of shark nets?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "nets wrongly positioned"
+            },
+            {
+              "k": "B",
+              "text": "strong waves and currents"
+            },
+            {
+              "k": "C",
+              "text": "too many fish"
+            },
+            {
+              "k": "D",
+              "text": "sharks eat holes in nets"
+            },
+            {
+              "k": "E",
+              "text": "moving sands"
+            },
+            {
+              "k": "F",
+              "text": "nets too short"
+            },
+            {
+              "k": "G",
+              "text": "holes in nets scare sharks"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Today we're going to look at one of my favourite fish- the shark."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As you know, sharks have a reputation for being very dangerous creatures capable of injuring or killing humans, and I'd like to talk about sharks in Australia."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Sharks are rather large fish, often growing to over ten metres and the longest sharks caught in Australia have reached sixteen metres."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Sharks vary in weight with size and breed, of course, but the heaviest shark caught in Australia was a White Pointer - that weighed seven hundred and ninety-five kilograms- quite a size!"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Sharks have a different structure to most fish: instead of a skeleton made of bone, they have a tough elastic skeleton of cartilage.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Unlike bone, this firm, pliable material is rather like your nose, and allows the shark to bend easily as it swims."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The shark's skin isn't covered with scales, like other fish: instead the skin's covered with barbs, giving it a rough texture like sandpaper."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As you know, sharks are very quick swimmers."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is made possible by their fins, one set at the side and another set underneath the body, and the tail also helps the shark move forward quickly.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Unlike other fish, sharks have to keep swimming if they want to stay at a particular depth, and they rarely swim at the surface."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Mostly, they swim at the bottom of the ocean, scavenging and picking up food that's lying on the ocean floor.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "While most other animals, including fish, hunt their prey by means of their eyesight, sharks hunt essentially by smell."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They have a very acute sense of smell- and can sense the presence of food long before they can see it.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In Australia, where people spend a lot of time at the beach, the government has realised that it must prevent sharks from swimming near its beaches."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As a result, they've introduced a beach-netting program."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Beach-netting, or meshing. involves setting large nets parallel to the shore; this means that the nets on New South Wales beaches are set on one day, and then lifted and taken out to sea on the next day.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When shark-netting first began in 1939, only the Sydney metropolitan beaches were meshed - these beaches were chosen because beaches near the city are usually the most crowded with swimmers."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Ten years later, in 1949, systematic meshing was extended to include the beaches to the south of Sydney."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As a result of the general success of the program in Sydney, shark-meshing was introduced to the state of Queensland around 1970."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The New Zealand authorities also looked at it, but considered meshing uneconomical - as did Tahiti in the Pacific."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At around the same time, South Africa introduced meshing to some of its most popular swimming beaches.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When meshing began, approximately fifteen hundred sharks were caught in the first year."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, this declined in the years that followed, and since that time, the average annual catch has been only about a hundred and fifty a year.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The majority of sharks are caught during the warmest months. from November to February, when sharks are most active and when both the air and the ocean are at their maximum temperature.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Despite quite large catches, some people believe that shark meshing is not the best way to catch sharks."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's not that they think sharks are afraid of nets, or because they eat holes in them, because neither of these is true."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But meshing does appear to be less effective than some other methods, especially when there are big seas with high rolling waves and strong currents and anything that lets the sand move - the sand that's holding the nets down.",
+          "q": [
+            39,
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When this moves the nets will also become less effective."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "c4t4",
+  "book": "剑桥雅思4",
+  "test": 4,
+  "title": "剑4 Test 4 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "mixed",
+      "kindZh": "混合图表",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The charts below give information about travel to and from the UK, and about the most popular countries for UK residents to visit.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c4t4-task1.webp",
+      "imageCaption": "Visits to and from the UK (1979-1999); most popular countries visited by UK residents, 1999",
+      "data": {
+        "unit": "millions of visits",
+        "years": [
+          1979,
+          1984,
+          1989,
+          1994,
+          1999
+        ],
+        "series": {
+          "visits abroad by UK residents": [
+            13,
+            18,
+            31,
+            40,
+            54
+          ],
+          "visits to the UK by overseas residents": [
+            9,
+            12,
+            20,
+            24,
+            27
+          ]
+        }
+      },
+      "sample": {
+        "band": 5,
+        "text": "The graphs reveal an information about overseas residents travel to UK and UK residents travel to other countries, and where they visited more.\n\nAccording to the chart of visits to and from UK, UK residents had visited abroad more than overseas residents visited UK. UK residents traveling were increased slightly till 1986, after that, there was a dramatic rise from $20 millions to $54 millions till 1999. In contrast, overseas residents were increased gradually in traveling to UK from $10 million to $28 millions between 1979 and 1999.\n\nFrom the information shown, we can see that France was the most popular country visited by UK residents, accounting for $11 millions. And the others countries visited by UK residents were Turkey, Greece and USA, which were $3, $4 and $5 millions.",
+        "comment": "The response is under-length (138 words). The candidate reports the key information in the first graph i.e. that visits to and from the UK increased and that the increase in visits from the UK was more marked than that of visits to the country. In the bar chart the information is also reported accurately. However, the references to $ are confusing, suggesting that the candidate has not fully understood the information given, and there is little attempt to relate the two diagrams or to make comparisons across the information given.\n\nThere is a brief introduction to the topic, with an attempt to paraphrase the rubric; the overall structure of the writing is clear, with some use of basic discourse markers. There is very little use of reference, however, resulting in a considerable amount of repetition of key vocabulary.\n\nThere is a fairly narrow range of sentence types and errors occur in verb formation and in the use of tenses."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "problem-solution",
+      "kindZh": "问题解决",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "In many countries schools have severe problems with student behaviour.",
+        "What do you think are the causes of this?",
+        "What solutions can you suggest?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "Poor student behaviour seems to be an increasingly widespread problem and I think that modern lifestyles are probably responsible for this.\n\nIn many countries, the birth rate is decreasing so that families are smaller with fewer children. These children are often spoilt, not in terms of love and attention because working parents do not have the time for this, but in more material ways. They are allowed to have whatever they want, regardless of price, and to behave as they please. This means that the children grow up without consideration for others and without any understanding of where their standard of living comes from.\n\nWhen they get to school age they have not learnt any self control or discipline. They have less respect for their teachers and refuse to obey school rules in the way that their parents did.\n\nTeachers continually complain about this problem and measures should be taken to combat the situation. But I think the solution to the problem lies with the families, who need to be more aware of the future consequences of spoiling their children. If they could raise them to be considerate of others and to be social, responsible individuals, the whole community would benefit.\n\nPerhaps parenting classes are needed to help them to do this, and high quality nursery schools could be established that would support families more in terms of raising the next generation. The government should fund this kind of parental support, because this is no longer a problem for individual families, but for society as a whole.",
+        "comment": "This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches. The book does not give this answer a band score; by convention such examiner model answers are treated as Band 9."
+      }
+    }
+  ]
+}
