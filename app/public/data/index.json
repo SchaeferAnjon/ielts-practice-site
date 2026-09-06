@@ -1127,7 +1127,11 @@
    "bookNo": 5,
    "test": 2,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
    "audioParts": [
     2,
     3,

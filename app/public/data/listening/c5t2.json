@@ -1,0 +1,1739 @@
+{
+  "id": "c5t2",
+  "book": "剑桥雅思5",
+  "test": 2,
+  "title": "剑5 Test 2 · Listening",
+  "source": "Cambridge IELTS 5, Test 2（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "photos",
+      "passport photos",
+      "photographs",
+      "passport photographs"
+    ],
+    "2": [
+      "bank statement",
+      "a bank statement"
+    ],
+    "3": [
+      "125",
+      "£125"
+    ],
+    "4": [
+      "8",
+      "eight"
+    ],
+    "5": [
+      "1.50",
+      "£1.50"
+    ],
+    "6": [
+      "48",
+      "forty-eight"
+    ],
+    "7": [
+      "local papers",
+      "local newspapers"
+    ],
+    "8": [
+      "a card",
+      "card",
+      "cards"
+    ],
+    "9": [
+      "Grantingham"
+    ],
+    "10": [
+      "Friday"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "C"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "A"
+    ],
+    "16": [
+      "75,000",
+      "£75,000",
+      "75000"
+    ],
+    "17": [
+      "computers",
+      "a computer"
+    ],
+    "18": [
+      "C",
+      "E",
+      "F"
+    ],
+    "19": [
+      "C",
+      "E",
+      "F"
+    ],
+    "20": [
+      "C",
+      "E",
+      "F"
+    ],
+    "21": [
+      "home",
+      "student's home"
+    ],
+    "22": [
+      "dinner",
+      "have dinner",
+      "come to dinner",
+      "go to dinner"
+    ],
+    "23": [
+      "technical"
+    ],
+    "24": [
+      "slang"
+    ],
+    "25": [
+      "cooperating",
+      "cooperation"
+    ],
+    "26": [
+      "persuading"
+    ],
+    "27": [
+      "editing"
+    ],
+    "28": [
+      "complete"
+    ],
+    "29": [
+      "experiment"
+    ],
+    "30": [
+      "long"
+    ],
+    "31": [
+      "58",
+      "fifty-eight"
+    ],
+    "32": [
+      "desert"
+    ],
+    "33": [
+      "science"
+    ],
+    "34": [
+      "hospital",
+      "small hospital"
+    ],
+    "35": [
+      "ship"
+    ],
+    "36": [
+      "platforms",
+      "platform"
+    ],
+    "37": [
+      "3,500",
+      "3500",
+      "3.500"
+    ],
+    "38": [
+      "currents",
+      "ocean currents"
+    ],
+    "39": [
+      "pollution",
+      "the pollution"
+    ],
+    "40": [
+      "young"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c5/t2p1.mp3",
+      "duration": 0,
+      "title": "North College Library Membership",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Library Membership",
+          "lines": [
+            "## Example",
+            "Minimum joining age: 18",
+            "For registration, must take",
+            "two {{1}} and",
+            "two forms of I.D. e.g. driving licence, {{2}}",
+            "Cost to join per year (without current student card): £{{3}}",
+            "Number of items allowed: (members of public) {{4}}",
+            "Loan times: four weeks",
+            "Fines start at £{{5}}",
+            "Computers can be booked up to {{6}} hours in advance",
+            "Library holds most national papers, all {{7}}, and magazines",
+            "Need {{8}} to use photocopier",
+            "## Creative Writing class",
+            "tutor is John {{9}}",
+            "held on {{10}} evenings"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LIBRARIAN",
+          "t": "Good morning, North College Library."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "How can I help you?"
+        },
+        {
+          "s": "MAN",
+          "t": "I was wondering if it was possible to join the library."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Are you a student at North College?"
+        },
+        {
+          "s": "MAN",
+          "t": "No, I'm not, but someone told me it was possible to join, even if I wasn't."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "That's right, it is."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Are you over 18.?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "That's our minimum joining age."
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, I am."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "That's no problem then."
+        },
+        {
+          "s": "MAN",
+          "t": "Could you tell me what I have to do to join?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Well, you'll need to come in to the library and fill out some forms."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "You'll also need to bring two passport photos with you."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "We also need two documents for ID, so a driving licence would be fine.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "I've got that and what else?"
+        },
+        {
+          "s": "MAN",
+          "t": "A credit card?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "No, it needs to have your address on it."
+        },
+        {
+          "s": "MAN",
+          "t": "Shall I bring a bank statement, would that do?",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "That'll be fine."
+        },
+        {
+          "s": "MAN",
+          "t": "Good."
+        },
+        {
+          "s": "MAN",
+          "t": "Does it cost anything to join?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Well, it's free for students here but otherwise it's £125 per year or £25 if you've got a current student card from another college.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "I was at Westerley College until last year but now I've got a job at Jefferson's steel factory."
+        },
+        {
+          "s": "MAN",
+          "t": "Er, it's more expensive than I thought."
+        },
+        {
+          "s": "MAN",
+          "t": "My local library is free."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "But you'll find they don't have the range of reference books or facilities which we buy for our students."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "That's why you have to pay to be an external member."
+        },
+        {
+          "s": "MAN",
+          "t": "I see."
+        },
+        {
+          "s": "MAN",
+          "t": "How many books can I borrow?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "We allow twelve items borrowed at any one time if you're a student, and that includes COs, DVDs and videos."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "However, it's only eight items for members of the public.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Fine."
+        },
+        {
+          "s": "MAN",
+          "t": "And how long can I have them for?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Well, you can have both fiction and reference books for four weeks which isn't bad really."
+        },
+        {
+          "s": "MAN",
+          "t": "And what happens if I return them late?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Like all libraries there's a fine system in place."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "The minimum fine is £1.50 but it can be much higher for some items -up to £5 per week.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "We'll give you a booklet with all the details when you join."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "You can always renew items if they're not required by anyone else by telephoning or logging on to our website."
+        },
+        {
+          "s": "MAN",
+          "t": "What about the computers?"
+        },
+        {
+          "s": "MAN",
+          "t": "Can I use them free of charge?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "For college students it's free, but for external members like yourself, the first hour is free and then we make a nominal charge of £1 per hour thereafter."
+        },
+        {
+          "s": "MAN",
+          "t": "Do I have to book in advance for them?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Oh, yes, it's advisable."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Most people tend to book twenty-four hours in advance although sometimes you can get one with only six hours' notice."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "However, the earliest you can book a computer is forty-eight hours before you need it, and you can only book one hour at a time.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "If no-one else has booked the computer out, then you may be able to have another hour if you want."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "We have a wide range of databases, so the computers are in great demand."
+        },
+        {
+          "s": "MAN",
+          "t": "I'm thinking of doing some writing and I might need to access national newspapers."
+        },
+        {
+          "s": "MAN",
+          "t": "Do you have them on these databases?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "We do indeed."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "We've got all the big nationals, The Guardian and The Observer, The Independent and The Times and Sunday Times."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "We've also got all the local papers and a wide selection of magazines.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Excellent."
+        },
+        {
+          "s": "MAN",
+          "t": "I assume you have photocopying facilities?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Of course. 5p a sheet for both A4 and A3 black-and-white copies and 40p a sheet for colour."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "You can get a card from the counter here- it doesn't take coins.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "OK."
+        },
+        {
+          "s": "MAN",
+          "t": "Oh by the way, another thing I was wondering about was if you ran any writing classes through the library?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "We do, but you'll have to speak to John Grantingham about that. ·He's our resident author."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "He runs the creative writing classes."
+        },
+        {
+          "s": "MAN",
+          "t": "John .. ."
+        },
+        {
+          "s": "MAN",
+          "t": "Grant . ..."
+        },
+        {
+          "s": "MAN",
+          "t": "Could you spell that for me please?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Certainly."
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "G-R-A-N -T-I-N- G- H-A- M.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Are the classes here at the library?"
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "Yes- he's here on Thursday evenings, oh no sorry, Friday- he's just changed it.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "LIBRARIAN",
+          "t": "You can contact him by emailing the library."
+        },
+        {
+          "s": "MAN",
+          "t": "Okay."
+        },
+        {
+          "s": "MAN",
+          "t": "Right, well that's about all I need to know."
+        },
+        {
+          "s": "MAN",
+          "t": "Thank you."
+        },
+        {
+          "s": "MAN",
+          "t": "I'll be along later this week to join."
+        },
+        {
+          "s": "MAN",
+          "t": "Thanks."
+        },
+        {
+          "s": "MAN",
+          "t": "Bye."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c5/t2p2.mp3",
+      "duration": 412,
+      "title": "Bicycles for the World",
+      "groups": [
+        {
+          "range": [
+            11,
+            15
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Bicycles for the World",
+          "questions": [
+            {
+              "n": 11,
+              "text": "In 1993 Dan Pearman went to Ecuador",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "as a tourist guide."
+                },
+                {
+                  "k": "B",
+                  "text": "as part of his studies."
+                },
+                {
+                  "k": "C",
+                  "text": "as a voluntary worker."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "Dan's neighbour was successful in business because he",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "employed carpenters from the area."
+                },
+                {
+                  "k": "B",
+                  "text": "was the most skilled craftsman in the town."
+                },
+                {
+                  "k": "C",
+                  "text": "found it easy to reach customers."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "Dan says the charity relies on",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "getting enough bicycles to send regularly."
+                },
+                {
+                  "k": "B",
+                  "text": "finding new areas which need the bicycles."
+                },
+                {
+                  "k": "C",
+                  "text": "charging for the bicycles it sends abroad."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "What does Dan say about the town of Rivas?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It has received the greatest number of bikes."
+                },
+                {
+                  "k": "B",
+                  "text": "It has almost as many bikes as Amsterdam."
+                },
+                {
+                  "k": "C",
+                  "text": "Its economy has been totally transformed."
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "What problem did the charity face in August 2000?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It couldn't meet its overheads."
+                },
+                {
+                  "k": "B",
+                  "text": "It had to delay sending the bikes."
+                },
+                {
+                  "k": "C",
+                  "text": "It was criticised in the British media."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            16,
+            17
+          ],
+          "type": "notes",
+          "instruction": "Answer the questions below.",
+          "limit": "Write NO MORE THAN ONE WORD OR A NUMBER for each answer.",
+          "lines": [
+            "How much money did the charity receive when it won an award? {{16}}",
+            "What is the charity currently hoping to buy? {{17}}"
+          ]
+        },
+        {
+          "range": [
+            18,
+            20
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose THREE letters, A-G.",
+          "text": "Which THREE things can the general public do to help the charity Pedal Power?",
+          "count": 3,
+          "options": [
+            {
+              "k": "A",
+              "text": "organise a bicycle collection"
+            },
+            {
+              "k": "B",
+              "text": "repair the donated bikes"
+            },
+            {
+              "k": "C",
+              "text": "donate their unwanted tools"
+            },
+            {
+              "k": "D",
+              "text": "do voluntary work in its office"
+            },
+            {
+              "k": "E",
+              "text": "hold an event to raise money"
+            },
+            {
+              "k": "F",
+              "text": "identify areas that need bikes"
+            },
+            {
+              "k": "G",
+              "text": "write to the government"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "My name's Dan Pearman and I'd like to talk about the work of Pedal Power, a small charity based mainly in the UK.",
+          "start": 3.56,
+          "end": 53.66
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'll be giving our contact details at the end, if anyone would like to find out more about how to support us.",
+          "start": 54.38,
+          "end": 59.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But first, how the charity began.",
+          "start": 60.75,
+          "end": 62.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I got the idea of exporting bicycles to developing countries while I was in Ecuador.",
+          "start": 63.87,
+          "end": 68.59
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I went there in 1993 just after graduating from university.",
+          "start": 69.35,
+          "end": 73.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "After three years of studying, I wanted adventure.",
+          "start": 74.6,
+          "end": 77.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I loved travelling, so I decided to join a voluntary organisation and was sent to Ecuador to carry out land surveys.",
+          "q": [
+            11
+          ],
+          "start": 78.0,
+          "end": 85.24
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The project came to an end after five years and when I returned to the UK in 1998, I started planning Pedal Power.",
+          "start": 86.4,
+          "end": 94.12
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Where I lived in Ecuador was a very rural area.",
+          "start": 95.92,
+          "end": 98.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "My neighbour had the only bicycle in the village, whereas everyone else walked everywhere.",
+          "start": 99.44,
+          "end": 104.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "My neighbour's business was unusually successful, and for years I couldn't understand why.",
+          "start": 104.24,
+          "end": 110.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then I realised having a bike meant he could get where he wanted to go without much trouble.",
+          "q": [
+            12
+          ],
+          "start": 111.73,
+          "end": 116.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Other local carpenters could only accept jobs in a three-kilometre radius, so no matter how skilled they were, they could never do as many jobs as my neighbour.",
+          "start": 116.37,
+          "end": 125.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At Pedal Power, we collect second-hand bikes in the UK and send them to some of the poorest regions in the world.",
+          "start": 127.36,
+          "end": 133.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When we distribute bikes overseas we don't give them away for free.",
+          "start": 134.98,
+          "end": 138.46
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We'd like to, but long term that doesn't really help the local economy.",
+          "start": 139.14,
+          "end": 142.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The demand for bikes is enormous, which makes them very expensive locally.",
+          "start": 143.66,
+          "end": 147.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So we sell them for 5% of the normal price.",
+          "start": 148.68,
+          "end": 151.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But in order to continue operating we need to have a constant supply of bikes which we send out every six months.",
+          "q": [
+            13
+          ],
+          "start": 152.56,
+          "end": 158.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One example of a town that's received bicycles from Pedal Power is Rivas.",
+          "start": 160.33,
+          "end": 163.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It was the first place I sent a full container of bicycles to.",
+          "start": 165.05,
+          "end": 168.13
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Most people there now own a bicycle.",
+          "start": 168.41,
+          "end": 170.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The local economy has developed so much, you wouldn't recognise it as the same place.",
+          "q": [
+            14
+          ],
+          "start": 171.76,
+          "end": 176.12
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In fact, there are more bikes than on the streets of Amsterdam, if you've ever been there.",
+          "start": 177.08,
+          "end": 181.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But Pedal Power still needs your help.",
+          "start": 182.63,
+          "end": 184.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You may have read about some of our recent problems in the British media.",
+          "start": 185.63,
+          "end": 188.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In August 2000, we simply ran out of money.",
+          "start": 189.63,
+          "end": 192.75
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We had containers of bikes ready to send, but no money to pay the bills.",
+          "start": 193.59,
+          "end": 197.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It was a terrible situation.",
+          "q": [
+            15
+          ],
+          "start": 198.43,
+          "end": 199.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We managed to ensure the bikes went out on time, but the other problems carried on for several months.",
+          "start": 200.79,
+          "end": 205.89
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Fortunately in October 2001 we won an Enterprise Award which helped us enormously.",
+          "start": 243.37,
+          "end": 248.97
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We invested fifteen of the seventy-five-thousand-pound prize money to help secure our future.",
+          "q": [
+            16
+          ],
+          "start": 250.21,
+          "end": 255.59
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Winning the award helped raise our profile, and the money enabled us to pay all our shipping costs, which represent our greatest expense.",
+          "start": 257.03,
+          "end": 264.31
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Pedal Power changes lives - when someone gets a bicycle from us, they see a 14% increase in their income.",
+          "start": 264.55,
+          "end": 272.54
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We're currently looking to invest in computers so that our office staff can do an even better job.",
+          "start": 274.01,
+          "end": 278.97
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Because of our work, people in a number of countries now have a better standard of living- so far we've provided 46,000 people with bikes.",
+          "q": [
+            17
+          ],
+          "start": 280.18,
+          "end": 288.9
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But we'd like to send more, at least 50,000 by the end of the year.",
+          "start": 289.78,
+          "end": 293.67
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now there are many ways in which you can support the work of Pedal Power, not just by taking a bike to a collection in your area.",
+          "start": 295.01,
+          "end": 301.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I should also like to say if you do have a bike to donate, it doesn't matter what condition it's in - if we can't repair it, we'll strip it down for spare parts.",
+          "start": 302.25,
+          "end": 311.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Of course, to do that we always need tools, which are expensive to buy, so we welcome any that you can give.",
+          "q": [
+            18
+          ],
+          "start": 311.71,
+          "end": 318.63
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Also, you could help by contacting the voluntary staff at our offices, they'll be able to suggest activities you could organise to bring in funds for us.",
+          "q": [
+            19
+          ],
+          "start": 318.79,
+          "end": 327.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "People do all kinds of things - including, of course, sponsored bike rides.",
+          "start": 328.93,
+          "end": 332.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Also, we're always interested to hear of other places that would benefit from receiving a consignment of bikes, and welcome suggestions from people who've been to developing regions on their travels.",
+          "q": [
+            20
+          ],
+          "start": 334.12,
+          "end": 344.12
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We hope that by talking on radio programmes like this, we will be able to raise public awareness, which will lead to government organisations also giving us regular financial support, something that we really need.",
+          "start": 345.36,
+          "end": 357.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you'd like some more information about where to donate an old bicycle or offer help in other ways please contact us on ...",
+          "start": 357.84,
+          "end": 364.52
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c5/t2p3.mp3",
+      "duration": 376,
+      "title": "Student Life video project",
+      "groups": [
+        {
+          "range": [
+            21,
+            30
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "'Student Life' video project",
+          "table": {
+            "head": [
+              "",
+              "Cristina",
+              "Ibrahim"
+            ],
+            "rows": [
+              [
+                "Enjoyed",
+                "using the camera\ngoing to a British {{21}}",
+                "contact with students doing other courses (has asked some to {{22}} with him)"
+              ],
+              [
+                "Most useful language practice",
+                "listening to instructions\nlearning {{23}} vocabulary",
+                "listening to British students' language because of:\n- normal speed\n- large amount of {{24}}"
+              ],
+              [
+                "General usefulness",
+                "operating video camera\nworking with other people:\n- learning about {{25}}\n- {{26}} people who have different views",
+                "the importance of {{27}}"
+              ],
+              [
+                "Things to do differently in future",
+                "decide when to {{28}} each stage at the beginning\nmake more effort to {{29}} with the camera",
+                "don't make the film too {{30}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TUTOR",
+          "t": "First of all I'd just like to say, Cristina and Ibrahim, that I really enjoyed watching your video about student life last week, and I could see that the rest of the group did too.",
+          "start": 43.85,
+          "end": 54.41
+        },
+        {
+          "s": "TUTOR",
+          "t": "You did really well, and I hope that you got a lot out of it.",
+          "start": 55.06,
+          "end": 58.34
+        },
+        {
+          "s": "TUTOR",
+          "t": "I'd like to use this tutorial as a feedback session, where you reflect on the experience of doing the project.",
+          "start": 58.46,
+          "end": 65.18
+        },
+        {
+          "s": "TUTOR",
+          "t": "So Cristina, I was wondering, what did you enjoy most about making the video?",
+          "start": 66.5,
+          "end": 72.1
+        },
+        {
+          "s": "CRISTINA",
+          "t": "I liked using the camera.",
+          "start": 73.18,
+          "end": 74.86
+        },
+        {
+          "s": "TUTOR",
+          "t": "Is it the first time you've operated one like that?",
+          "start": 75.38,
+          "end": 77.74
+        },
+        {
+          "s": "CRISTINA",
+          "t": "Yes, it is.",
+          "start": 77.74,
+          "end": 78.62
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well the results were very good!",
+          "start": 78.82,
+          "end": 80.42
+        },
+        {
+          "s": "TUTOR",
+          "t": "Anything else?",
+          "start": 80.81,
+          "end": 81.69
+        },
+        {
+          "s": "CRISTINA",
+          "t": "I also enjoyed visiting one of the British students we filmed.",
+          "start": 82.61,
+          "end": 86.25
+        },
+        {
+          "s": "CRISTINA",
+          "t": "I'd never been inside a British home before.",
+          "q": [
+            21
+          ],
+          "start": 86.53,
+          "end": 89.17
+        },
+        {
+          "s": "TUTOR",
+          "t": "OK Cristina, thanks.",
+          "start": 89.29,
+          "end": 90.69
+        },
+        {
+          "s": "TUTOR",
+          "t": "What about you, Ibrahim?",
+          "start": 91.33,
+          "end": 92.49
+        },
+        {
+          "s": "TUTOR",
+          "t": "What did you enjoy?",
+          "start": 92.89,
+          "end": 93.65
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "Well for me it was a very good chance to get to know students who are on other courses, because everyone in our group is studying English, and we don't usually have much to do with the rest of the college.",
+          "start": 93.85,
+          "end": 104.53
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, good.",
+          "start": 104.93,
+          "end": 105.49
+        },
+        {
+          "s": "TUTOR",
+          "t": "Do you think you'll maintain the contact now?",
+          "start": 106.27,
+          "end": 108.59
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "I hope so.",
+          "start": 108.75,
+          "end": 109.43
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "I've invited three of them to have dinner with me next week.",
+          "q": [
+            22
+          ],
+          "start": 109.59,
+          "end": 112.11
+        },
+        {
+          "s": "TUTOR",
+          "t": "Great!",
+          "start": 112.27,
+          "end": 112.63
+        },
+        {
+          "s": "TUTOR",
+          "t": "If you haven't decided what to make yet I can tell you they'll love trying Arab dishes.",
+          "start": 113.27,
+          "end": 117.79
+        },
+        {
+          "s": "TUTOR",
+          "t": "And of course, it's good for your English too.",
+          "start": 118.4,
+          "end": 121.24
+        },
+        {
+          "s": "TUTOR",
+          "t": "Cristina, what did you find?",
+          "start": 122.56,
+          "end": 123.32
+        },
+        {
+          "s": "TUTOR",
+          "t": "What was the most useful aspect of the project from the point of view of the English practice?",
+          "start": 123.6,
+          "end": 128.28
+        },
+        {
+          "s": "CRISTINA",
+          "t": "I think, when we were being shown how to edit the film, we had to follow the instructions.",
+          "start": 129.45,
+          "end": 135.05
+        },
+        {
+          "s": "CRISTINA",
+          "t": "And that was very good practice for me.",
+          "start": 135.73,
+          "end": 138.05
+        },
+        {
+          "s": "CRISTINA",
+          "t": "And I also learned some technical words that I hadn't heard before.",
+          "q": [
+            23
+          ],
+          "start": 138.49,
+          "end": 141.85
+        },
+        {
+          "s": "TUTOR",
+          "t": "What about you Ibrahim?",
+          "start": 143.15,
+          "end": 143.59
+        },
+        {
+          "s": "TUTOR",
+          "t": "What was the most useful for your English?",
+          "start": 144.31,
+          "end": 146.15
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "It was listening to the British students, because they don't speak as slowly as most of the tutors on our course.",
+          "start": 146.95,
+          "end": 152.79
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "I think they speak at natural speed, so it forces me to get used to it.",
+          "start": 153.39,
+          "end": 157.39
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "And they use a lot of slang.",
+          "q": [
+            24
+          ],
+          "start": 157.71,
+          "end": 159.15
+        },
+        {
+          "s": "TUTOR",
+          "t": "So you learned some new words which will be useful?",
+          "start": 159.23,
+          "end": 161.91
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "Yes.",
+          "start": 162.39,
+          "end": 162.47
+        },
+        {
+          "s": "TUTOR",
+          "t": "Good.",
+          "start": 163.49,
+          "end": 163.69
+        },
+        {
+          "s": "TUTOR",
+          "t": "I'm glad it helped.",
+          "start": 163.85,
+          "end": 165.05
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, we've talked a little bit about enjoyment, and about language practice.",
+          "start": 166.35,
+          "end": 170.59
+        },
+        {
+          "s": "TUTOR",
+          "t": "Were there any other benefits?",
+          "start": 171.15,
+          "end": 172.91
+        },
+        {
+          "s": "TUTOR",
+          "t": "What else did you feel you'd learnt from the project?",
+          "start": 173.55,
+          "end": 175.79
+        },
+        {
+          "s": "TUTOR",
+          "t": "Was it useful in other ways?",
+          "start": 176.35,
+          "end": 177.87
+        },
+        {
+          "s": "CRISTINA",
+          "t": "Yes, well firstly, I learned how to use a video camera.",
+          "start": 178.59,
+          "end": 182.67
+        },
+        {
+          "s": "CRISTINA",
+          "t": "And also, I think I really learned a lot about working together with other people.",
+          "start": 183.43,
+          "end": 188.03
+        },
+        {
+          "s": "CRISTINA",
+          "t": "I've never done anything with a group before, and we had to find ways of cooperating, erm, and compromising, and sometimes persuading people, when they don't agree with you.",
+          "q": [
+            25,
+            26
+          ],
+          "start": 188.9,
+          "end": 201.5
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, that is a very useful experience, I know.",
+          "start": 201.62,
+          "end": 204.42
+        },
+        {
+          "s": "TUTOR",
+          "t": "What about you, Ibrahim?",
+          "start": 242.42,
+          "end": 242.94
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "Well, I think I learnt a lot about how important editing is.",
+          "start": 244.22,
+          "end": 247.3
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "When you're filming you think that everything's going to be interesting, but in fact we cut around half of it in the end, and then it was much better.",
+          "q": [
+            27
+          ],
+          "start": 247.78,
+          "end": 255.02
+        },
+        {
+          "s": "TUTOR",
+          "t": "Good.",
+          "start": 255.22,
+          "end": 255.74
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, one last thing I'd like to ask.",
+          "start": 256.45,
+          "end": 259.13
+        },
+        {
+          "s": "TUTOR",
+          "t": "What mistakes do you think you, as a group that is, made?",
+          "start": 260.21,
+          "end": 264.13
+        },
+        {
+          "s": "TUTOR",
+          "t": "I mean, to put it another way, if you had to do it all over again, is there anything you'd do differently?",
+          "start": 264.69,
+          "end": 270.35
+        },
+        {
+          "s": "CRISTINA",
+          "t": "We didn't plan very well.",
+          "start": 271.31,
+          "end": 272.87
+        },
+        {
+          "s": "CRISTINA",
+          "t": "For example, we didn't decide on dates when we'd complete each separate step of the project, and we should have agreed about that in the beginning, because we were always late with everything!",
+          "q": [
+            28
+          ],
+          "start": 273.11,
+          "end": 284.56
+        },
+        {
+          "s": "TUTOR",
+          "t": "Right.",
+          "start": 284.8,
+          "end": 285.16
+        },
+        {
+          "s": "TUTOR",
+          "t": "Anything else?",
+          "start": 285.16,
+          "end": 286.52
+        },
+        {
+          "s": "CRISTINA",
+          "t": "I think we should have tried to experiment more with the camera.",
+          "start": 287.56,
+          "end": 291.08
+        },
+        {
+          "s": "CRISTINA",
+          "t": "I mean with angles, and the focus and that kind of thing.",
+          "q": [
+            29
+          ],
+          "start": 291.73,
+          "end": 295.33
+        },
+        {
+          "s": "TUTOR",
+          "t": "So you should have been more ambitious?",
+          "start": 295.41,
+          "end": 297.09
+        },
+        {
+          "s": "TUTOR",
+          "t": "Do you agree, Ibrahim?",
+          "start": 297.61,
+          "end": 298.25
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "Not really.",
+          "start": 299.25,
+          "end": 299.89
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "In fact, I think we were too ambitious.",
+          "start": 300.41,
+          "end": 302.53
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "We were inexperienced, and we didn't have a lot of time, and we tried to do too much, to make a long film.",
+          "start": 303.3,
+          "end": 309.78
+        },
+        {
+          "s": "IBRAHIM",
+          "t": "Next time I would make a shorter one and try to get the quality better.",
+          "q": [
+            30
+          ],
+          "start": 310.42,
+          "end": 313.86
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, that's very interesting.",
+          "start": 314.7,
+          "end": 315.94
+        },
+        {
+          "s": "TUTOR",
+          "t": "Next semester we will be doing another video project- with a different content, of course - but you'll have an opportunity to put into practice what you've learnt this time.",
+          "start": 317.1,
+          "end": 326.62
+        },
+        {
+          "s": "TUTOR",
+          "t": "Do you have any ideas about . . .",
+          "start": 327.27,
+          "end": 328.91
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c5/t2p4.mp3",
+      "duration": 469,
+      "title": "Antarctica",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "ANTARCTICA",
+          "lines": [
+            "## Geography",
+            "world's highest, coldest and windiest continent",
+            "more than {{31}} times as big as the UK",
+            "most of the area is classified as {{32}}",
+            "## Research stations",
+            "international teams work together",
+            "{{33}} is integrated with technical support",
+            "stations contain accommodation, work areas, a kitchen, a {{34}} and a gym",
+            "supplies were brought to Zero One station by sledge from a {{35}} at the edge of the ice 15 km away",
+            "problem of snow build-ups solved by building stations on {{36}} with adjustable legs",
+            "## Food and diet",
+            "average daily requirement for an adult in Antarctica is approximately {{37}} kilocalories",
+            "rations for field work prepared by process of freeze-drying",
+            "## Research",
+            "The most important research focuses on climate change, including",
+            "- measuring changes in the ice-cap (because of effects on sea levels and {{38}})",
+            "- monitoring the hole in the ozone layer",
+            "- analysing air from bubbles in ice to measure {{39}} caused by human activity",
+            "## Work opportunities",
+            "Many openings for {{40}} people including",
+            "- research assistants",
+            "- administrative and technical positions"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Tonight I'm going to talk to you about that remarkable continent Antarctica - remote, hostile and at present uninhabited on a permanent basis.",
+          "start": 61.16,
+          "end": 70.24
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For early explorers, it was the ultimate survival contest; for researchers like me, it remains a place of great intellectual challenge; while for the modern tourist, it's simply a wilderness of great beauty.",
+          "start": 71.49,
+          "end": 85.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First, some facts and figures.",
+          "start": 87.09,
+          "end": 88.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Antarctica is a place of extremes - the highest, coldest and windiest continent and over fifty-eight times the size of the UK.",
+          "start": 88.25,
+          "end": 98.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The ice-cap contains almost 70% of the world's fresh water and 90% of its ice, but with very low snowfall, most of the continent technically falls unbelievably into the category of 'desert'!",
+          "q": [
+            31
+          ],
+          "start": 99.78,
+          "end": 113.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Huge icebergs break off the continent each year, while in winter half the surrounding ocean freezes over, which means its size almost doubles.",
+          "q": [
+            32
+          ],
+          "start": 114.96,
+          "end": 124.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Research and exploration has been going on in Antarctica for more than two hundred years, and has involved scientists from many different countries, who work together on research stations.",
+          "start": 126.53,
+          "end": 137.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Here science and technical support have been integrated in a very cost-effective way - our Antarctic research programme has several summers-only stations and two all-year-round ones; I was based on one of the all-year-round ones.",
+          "q": [
+            33
+          ],
+          "start": 139.07,
+          "end": 155.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The research stations are really self-contained communities of about twenty people.",
+          "start": 158.24,
+          "end": 162.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's living and working space, a kitchen with a huge food store, a small hospital and a well-equipped gym to ensure everyone keeps fit in their spare time.",
+          "q": [
+            34
+          ],
+          "start": 162.84,
+          "end": 174.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The station generates its own electricity and communicates with the outside world using a satellite link.",
+          "start": 176.13,
+          "end": 182.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our station - Zero One - had some special features.",
+          "start": 183.68,
+          "end": 187.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It wasn't built on land but on an ice-shelf, hundreds of metres thick.",
+          "start": 188.8,
+          "end": 193.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Supplies were brought to us on large sledges from a ship fifteen kilometres away at the ice edge.",
+          "q": [
+            35
+          ],
+          "start": 194.81,
+          "end": 200.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Living in the Antarctic hasn't always been so comfortable.",
+          "start": 202.64,
+          "end": 205.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Snow build-ups caused enormous problems for four previous stations on the same site, which were buried and finally crushed by the weight.",
+          "start": 206.2,
+          "end": 215.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Fortunately no-one was hurt, but these buildings became a huge challenge to architects who finally came up with a remarkable solution - the buildings are placed on platforms which can be raised above the changing snow level on legs which are extendable.",
+          "q": [
+            36
+          ],
+          "start": 216.01,
+          "end": 234.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Food is one of the most important aspects of survival in a polar climate.",
+          "start": 239.65,
+          "end": 244.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "People living there need to obtain a lot more energy from their food, both to keep warm and to undertake heavy physical work.",
+          "start": 245.86,
+          "end": 253.86
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Maybe you know that an adult in the UK will probably need about 1,700 kilocalories a day on average; someone in Antarctica will need about 3.500 - just over double!",
+          "q": [
+            37
+          ],
+          "start": 255.11,
+          "end": 269.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This energy is provided by foods which are high in carbohydrate and fat.",
+          "start": 270.7,
+          "end": 275.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Rations for fieldwork present an additional problem.",
+          "start": 278.32,
+          "end": 281.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They need to provide maximum energy, but they must also be compact and light for easy transport.",
+          "start": 282.28,
+          "end": 288.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Special boxes are prepared, each containing enough food for one person for twenty days.",
+          "start": 290.68,
+          "end": 296.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You may be familiar with coffee processed by freeze-drying, which preserves the quality of the food product while making a large saving in weight- well, this type of presentation is ideal in our situation.",
+          "start": 297.72,
+          "end": 311.59
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It wasn't available to earlier polar explorers, whose diet was commonly insufficient for their health.",
+          "start": 313.34,
+          "end": 319.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I think that being at the cutting edge of science has a special appeal for everyone working in Antarctica, in whatever capacity.",
+          "start": 321.29,
+          "end": 328.09
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As a marine biologist, my own research was fascinating; but it's perhaps climate change research that is the most crucial field of study.",
+          "start": 329.45,
+          "end": 339.3
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Within this general field, surveying changes in the volume and stability of the ice-cap is vital, since these may have profound effects on world sea levels and on ocean currents.",
+          "q": [
+            38
+          ],
+          "start": 341.64,
+          "end": 353.72
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A second important area is monitoring the size of the hole in the ozone layer above Antarctica, since this is an indicator of global ultra-violet radiation levels.",
+          "start": 355.4,
+          "end": 366.12
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Thirdly, bubbles in the ice-sheet itself provide an index of pollution because frozen inside them are samples of previous atmospheres over the past 500,000 years, and these provide us with evidence for the effects of such human activities as agriculture and industry.",
+          "q": [
+            39
+          ],
+          "start": 367.55,
+          "end": 386.25
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are an increasing number of opportunities for young people to work for a period in Antarctica - not only as research assistants in projects like mine, but also in a wide range of junior administrative and technical positions including vacancies for map-makers.",
+          "q": [
+            40
+          ],
+          "start": 389.09,
+          "end": 405.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I hope that the insights I've provided will encourage you to take up these opportunities in this fascinating continent.",
+          "start": 408.32,
+          "end": 415.72
+        }
+      ]
+    }
+  ]
+}

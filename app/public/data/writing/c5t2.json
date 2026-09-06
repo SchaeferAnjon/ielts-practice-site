@@ -1,0 +1,76 @@
+{
+  "id": "c5t2",
+  "book": "剑桥雅思5",
+  "test": 2,
+  "title": "剑5 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "bar-chart",
+      "kindZh": "柱状图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The charts below show the main reasons for study among students of different age groups and the amount of support they received from employers.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c5t2-task1.webp",
+      "imageCaption": "Reasons for study according to age of student; Employer support, by age group (Time off and help with fees)",
+      "data": {
+        "unit": "%",
+        "years": [
+          26,
+          29,
+          39,
+          49,
+          50
+        ],
+        "series": {
+          "For career": [
+            80,
+            68,
+            58,
+            40,
+            18
+          ],
+          "For interest": [
+            8,
+            15,
+            24,
+            40,
+            70
+          ],
+          "Employer support": [
+            63,
+            52,
+            33,
+            37,
+            45
+          ]
+        }
+      },
+      "sample": {
+        "band": 8,
+        "text": "The first graph shows that there is a gradual decrease in study for career reasons with age. Nearly 80% of students under 26 years, study for their career. This percentage gradually declines by 10-20% every decade. Only 40% of 40-49yr olds and 18% of over 49yr olds are studying for career reasons in late adulthood.\n\nConversely, the first graph also shows that study stemming from interest increases with age. There are only 10% of under 26yr olds studying out of interest. The percentage increases slowly till the beginning of the fourth decade, and increases dramatically in late adulthood. Nearly same number of 40-49yr olds study for career and interest. However 70% of over 49yr olds study for interest in comparison to 18% studying for career reasons in that age group.\n\nThe second graph shows that employer support is maximum (approximately 60%) for the under 26yr students. It drops rapidly to 32% up to the third decade of life, and then increases in late adulthood up to about 44%. It is unclear whether employer support is only for career-focused study, but the highest level is for those students who mainly study for career purposes.",
+        "comment": "This answer summarises the key features of both charts and integrates them well. Clear trends are identified and supported with appropriately-selected figures. The answer could only be improved by adding an introduction to the general topic of the charts.\n\nThe information is well organised, with a clearly-signalled progression. Linking words are used accurately and precisely, although there is occasional omission. Paragraphing is used well initially, but lapses in the later section.\n\nA very good range of vocabulary is used to convey the information concisely and accurately with only occasional inappropriacy. Words are used precisely and there are no errors in spelling or word form.\n\nA wide range of structures is used and most sentences in this answer are accurate. Errors are rare and do not affect communication in this answer."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "advantage-disadvantage",
+      "kindZh": "利弊",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "In some countries young people are encouraged to work or travel for a year between finishing high school and starting university studies.",
+        "Discuss the advantages and disadvantages for young people who decide to do this.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "It is quite common these days for young people in many countries to have a break from studying after graduating from high school. The trend is not restricted to rich students who have the money to travel, but is also evident among poorer students who choose to work and become economically independent for a period of time.\n\nThe reasons for this trend may involve the recognition that a young adult who passes directly from school to university is rather restricted in terms of general knowledge and experience of the world. By contrast, those who have spent some time earning a living or travelling to other places, have a broader view of life and better personal resources to draw on. They tend to be more independent, which is a very important factor in academic study and research, as well as giving them an advantage in terms of coping with the challenges of student life.\n\nHowever, there are certainly dangers in taking time off at that important age. Young adults may end up never returning to their studies or finding it difficult to readapt to an academic environment. They may think that it is better to continue in a particular job, or to do something completely different from a university course. But overall, I think this is less likely today, when academic qualifications are essential for getting a reasonable career.\n\nMy view is that young people should be encouraged to broaden their horizons. That is the best way for them to get a clear perspective of what they are hoping to do with their lives and why. Students with such a perspective are usually the most effective and motivated ones and taking a year off may be the best way to gain this.",
+        "comment": "本文是《剑桥雅思5》书末为 Test 2 Writing Task 2 提供的 Model Answer（考官撰写的范文示例），书中未给出具体分数（band）和逐条评语，仅说明这是众多合理写法中的一种参考范例。"
+      }
+    }
+  ]
+}
