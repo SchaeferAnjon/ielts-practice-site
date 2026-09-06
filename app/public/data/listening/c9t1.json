@@ -1,0 +1,1443 @@
+{
+  "id": "c9t1",
+  "book": "剑桥雅思9",
+  "test": 1,
+  "title": "剑9 Test 1 · Listening",
+  "source": "Cambridge IELTS 9, Test 1（OCR 文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "answer the phone",
+      "answering the phone",
+      "answer phone",
+      "answering phone"
+    ],
+    "2": [
+      "Hillsdunne Road"
+    ],
+    "3": [
+      "library",
+      "the library"
+    ],
+    "4": [
+      "4.45",
+      "£4.45"
+    ],
+    "5": [
+      "national holidays"
+    ],
+    "6": [
+      "after 11 o'clock",
+      "after 11"
+    ],
+    "7": [
+      "clear voice"
+    ],
+    "8": [
+      "think quickly"
+    ],
+    "9": [
+      "22 October",
+      "22nd October"
+    ],
+    "10": [
+      "Manuja"
+    ],
+    "11": [
+      "branch"
+    ],
+    "12": [
+      "west"
+    ],
+    "13": [
+      "clothing"
+    ],
+    "14": [
+      "10",
+      "ten"
+    ],
+    "15": [
+      "running"
+    ],
+    "16": [
+      "bags"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "A"
+    ],
+    "19": [
+      "A",
+      "E"
+    ],
+    "20": [
+      "A",
+      "E"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "B"
+    ],
+    "24": [
+      "A"
+    ],
+    "25": [
+      "C"
+    ],
+    "26": [
+      "B"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "B"
+    ],
+    "29": [
+      "C"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "tide",
+      "tides"
+    ],
+    "32": [
+      "hearing",
+      "ear",
+      "ears"
+    ],
+    "33": [
+      "plants and animals",
+      "animals and plants",
+      "plants and fish",
+      "fish and plants",
+      "plants and fishes",
+      "fishes and plants"
+    ],
+    "34": [
+      "feeding"
+    ],
+    "35": [
+      "noise",
+      "noises"
+    ],
+    "36": [
+      "healthy"
+    ],
+    "37": [
+      "group"
+    ],
+    "38": [
+      "social"
+    ],
+    "39": [
+      "leader"
+    ],
+    "40": [
+      "network",
+      "networks"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c9/t1p1.mp3",
+      "duration": 0,
+      "title": "Job Enquiry",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Job Enquiry",
+          "lines": [
+            "## Example",
+            "Work at: a restaurant",
+            "Type of work: {{1}}",
+            "Number of hours per week: 12 hours",
+            "Would need work permit",
+            "Work in the: {{2}} branch",
+            "Nearest bus stop: next to {{3}}",
+            "Pay: £{{4}} an hour",
+            "Extra benefits:",
+            "a free dinner",
+            "extra pay when you work on {{5}}",
+            "transport home when you work {{6}}",
+            "Qualities required:",
+            "{{7}}",
+            "ability to {{8}}",
+            "Interview arranged for: Thursday {{9}} at 6 p.m.",
+            "Bring the names of two referees",
+            "Ask for: Samira {{10}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "WOMAN",
+          "t": "Good evening."
+        },
+        {
+          "s": "WOMAN",
+          "t": "King's Restaurant."
+        },
+        {
+          "s": "MAN",
+          "t": "Good evening."
+        },
+        {
+          "s": "MAN",
+          "t": "I'm ringing about the job I understand you have vacant."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh yes."
+        },
+        {
+          "s": "MAN",
+          "t": "I'd like to find out a few more details, if I may."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, of course."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Can I take your name?"
+        },
+        {
+          "s": "MAN",
+          "t": "It's Peter Chin."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Okay Peter."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, if you want to ask about the job and then if we're both still interested, we could arrange for you to come for an interview."
+        },
+        {
+          "s": "MAN",
+          "t": "Great, thanks."
+        },
+        {
+          "s": "MAN",
+          "t": "I'm afraid I missed the advert for the job but heard about it from a friend."
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's no problem at all."
+        },
+        {
+          "s": "WOMAN",
+          "t": "What would you like to know?"
+        },
+        {
+          "s": "MAN",
+          "t": "Well, um, what sort of work is it —- washing up?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's answering the phone.",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Oh right, fine."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And not waiting at table."
+        },
+        {
+          "s": "MAN",
+          "t": "That'd be good."
+        },
+        {
+          "s": "MAN",
+          "t": "And how many nights a week would it be?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, we're really only busy at the weekend."
+        },
+        {
+          "s": "MAN",
+          "t": "So two nights?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Three actually, so it would work out at twelve hours a week."
+        },
+        {
+          "s": "MAN",
+          "t": "That'd be fine."
+        },
+        {
+          "s": "MAN",
+          "t": "It wouldn't interfere with my studies."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Are you at the university?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes."
+        },
+        {
+          "s": "MAN",
+          "t": "First year Physics student."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, right."
+        },
+        {
+          "s": "MAN",
+          "t": "Um, and because I'm not an EU national would I need a work permit?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes you would."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Just get your tutor to sign it."
+        },
+        {
+          "s": "MAN",
+          "t": "That wouldn't be a problem, if I were to get the job."
+        },
+        {
+          "s": "MAN",
+          "t": "Um, where exactly is the restaurant?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, we have two branches — the one we're recruiting for is in Hillsdunne Road.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "I don't know that."
+        },
+        {
+          "s": "MAN",
+          "t": "How do you spell it please?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's H-I-double L-S-D-U-double N-E Road."
+        },
+        {
+          "s": "MAN",
+          "t": "Got that."
+        },
+        {
+          "s": "MAN",
+          "t": "Thanks."
+        },
+        {
+          "s": "MAN",
+          "t": "Is it near a bus stop?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes."
+        },
+        {
+          "s": "WOMAN",
+          "t": "The nearest one would probably be just beside the Library.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Oh yes, I know it."
+        },
+        {
+          "s": "MAN",
+          "t": "That'd be fine for me."
+        },
+        {
+          "s": "MAN",
+          "t": "And could I ask about the pay?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "We're offering £4.45 an hour.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "That's very good."
+        },
+        {
+          "s": "MAN",
+          "t": "My last job was £3.95 an hour."
+        },
+        {
+          "s": "WOMAN",
+          "t": "We feel it's pretty good and we also offer some good fringe benefits."
+        },
+        {
+          "s": "MAN",
+          "t": "Really?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, we give you a free dinner, so you eat well."
+        },
+        {
+          "s": "MAN",
+          "t": "Right, better than hostel food!"
+        },
+        {
+          "s": "WOMAN",
+          "t": "We certainly hope so!"
+        },
+        {
+          "s": "WOMAN",
+          "t": "And we also offer extra pay for working on national holidays.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Oh, that's a really good perk, isn't it?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, we think so."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And then because of the difficulties of getting public transport, if you're working after 11 o'clock we drive you home.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Oh, that's good to know."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, we'd certainly be interested in inviting you for an interview, if you're still interested?"
+        },
+        {
+          "s": "MAN",
+          "t": "Oh yes, certainly."
+        },
+        {
+          "s": "MAN",
+          "t": "Could I just also ask what qualities you're looking for?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, for this particular job we want a clear voice, which you obviously do have!",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Thanks."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And you must be able to think quickly, you know.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Well, I hope I'd ..."
+        },
+        {
+          "s": "WOMAN",
+          "t": "So, when could you come in for an interview?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "We're actually quite quiet tonight?"
+        },
+        {
+          "s": "MAN",
+          "t": "Sorry, I couldn't come tonight."
+        },
+        {
+          "s": "MAN",
+          "t": "Or tomorrow, I'm afraid."
+        },
+        {
+          "s": "MAN",
+          "t": "Thursday's okay — that'd be 22nd of October.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "Fine, after 5 p.m.?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, fine."
+        },
+        {
+          "s": "MAN",
+          "t": "Would 6 o'clock be okay?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Perfect."
+        },
+        {
+          "s": "WOMAN",
+          "t": "And could you bring along the names of two referees?"
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, that's fine, no problem."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Good."
+        },
+        {
+          "s": "WOMAN",
+          "t": "I look forward to seeing you."
+        },
+        {
+          "s": "MAN",
+          "t": "Oh, by the way, who should I ask for?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh yes, of course, sorry."
+        },
+        {
+          "s": "WOMAN",
+          "t": "My name is Samira Manuja.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Can you spell that, please?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "M-A-N-U-J-A."
+        },
+        {
+          "s": "MAN",
+          "t": "Okay, I've got that."
+        },
+        {
+          "s": "MAN",
+          "t": "Thanks very much."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Look forward to seeing you ..."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c9/t1p2.mp3",
+      "duration": 0,
+      "title": "Sports World",
+      "groups": [
+        {
+          "range": [
+            11,
+            16
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Sports World",
+          "lines": [
+            "a new {{11}} of an international sports goods company",
+            "located in the shopping centre to the {{12}} of Bradcaster",
+            "has sports {{13}} and equipment on floors 1 - 3",
+            "can get you any item within {{14}} days",
+            "shop specialises in equipment for {{15}}",
+            "has a special section which just sells {{16}}"
+          ]
+        },
+        {
+          "range": [
+            17,
+            18
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 17,
+              "text": "A champion athlete will be in the shop",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "on Saturday morning only."
+                },
+                {
+                  "k": "B",
+                  "text": "all day Saturday."
+                },
+                {
+                  "k": "C",
+                  "text": "for the whole weekend."
+                }
+              ]
+            },
+            {
+              "n": 18,
+              "text": "The first person to answer 20 quiz questions correctly will win",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "gym membership."
+                },
+                {
+                  "k": "B",
+                  "text": "a video."
+                },
+                {
+                  "k": "C",
+                  "text": "a calendar."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO pieces of information does the speaker give about the fitness test?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "You need to reserve a place."
+            },
+            {
+              "k": "B",
+              "text": "It is free to account holders."
+            },
+            {
+              "k": "C",
+              "text": "You get advice on how to improve your health."
+            },
+            {
+              "k": "D",
+              "text": "It takes place in a special clinic."
+            },
+            {
+              "k": "E",
+              "text": "It is cheaper this month."
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "ANDREW",
+          "t": "Now we go to Jane who is going to tell us about what's happening in town this weekend."
+        },
+        {
+          "s": "JANE",
+          "t": "Right, thanks Andrew, and now on to what's new, and do we really need yet another sports shop in Bradcaster?"
+        },
+        {
+          "s": "JANE",
+          "t": "Well, most of you probably know Sports World — the branch of a Danish sports goods company that opened a few years ago - it's attracted a lot of custom, and so the company has now decided to open another branch in the area.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "It's going to be in the shopping centre to the west of Bradcaster, so that will be good news for all of you who've found the original shop in the north of the town hard to get to.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "I was invited to a special preview and I can promise you, this is the ultimate in sports retailing."
+        },
+        {
+          "s": "JANE",
+          "t": "The whole place has been given a new minimalist look with the company's signature colours of black and red."
+        },
+        {
+          "s": "JANE",
+          "t": "The first three floors have a huge range of sports clothing as well as equipment, and on the top floor there's a café and a book and DVD section.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "You'll find all the well-known names as well as some less well-known ones."
+        },
+        {
+          "s": "JANE",
+          "t": "If they haven't got exactly what you want in stock they promise to get it for you in ten days.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "Unlike the other store, where it can take up to fourteen days."
+        },
+        {
+          "s": "JANE",
+          "t": "They cover all the major sports, including football, tennis and swimming, but they particularly focus on running, and they claim to have the widest range of equipment in the country.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "As well as that, a whole section of the third floor is devoted to sports bags, including the latest designs from the States — if you can't find what you want here, it doesn't exist!",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "The shop will be open from 9.00 am this Saturday and if you go along to the opening then you'll have the chance to meet the national 400 metres running champion Paul King, who's coming along to open the shop, and he will be staying around until about midday to chat to any fans who want to meet him and sign autographs.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "Then there will be a whole range of special attractions all weekend."
+        },
+        {
+          "s": "JANE",
+          "t": "There will be free tickets for local sporting events for the first 50 customers, and also a special competition open to all."
+        },
+        {
+          "s": "JANE",
+          "t": "Just answer fifteen out of twenty sports questions correctly to win a signed copy of Paul King's DVD 'Spring Tips', while the first person to get all the questions correct gets a year's free membership of the Bradcaster Gym.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "All entrants will receive a special Sports calendar with details of all Bradcaster fixtures in the coming year."
+        },
+        {
+          "s": "JANE",
+          "t": "One of the special opening offers is a fitness test - a complete review of your cardiac fitness and muscle tone, actually done in the shop by qualified staff."
+        },
+        {
+          "s": "JANE",
+          "t": "This would normally cost £30.00 but is available at half price for this month only.",
+          "q": [
+            19,
+            20
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "There are only a limited number of places available for this, so to make a booking phone 560341.",
+          "q": [
+            19,
+            20
+          ]
+        },
+        {
+          "s": "JANE",
+          "t": "In addition, if you open an account you get lots more special offers including the chance to try out equipment at special open evenings ..."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c9/t1p3.mp3",
+      "duration": 0,
+      "title": "Course Feedback",
+      "groups": [
+        {
+          "range": [
+            21,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Course Feedback",
+          "questions": [
+            {
+              "n": 21,
+              "text": "One reason why Spiros felt happy about his marketing presentation was that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "he was not nervous."
+                },
+                {
+                  "k": "B",
+                  "text": "his style was good."
+                },
+                {
+                  "k": "C",
+                  "text": "the presentation was the best in his group."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "What surprised Hiroko about the other students' presentations?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Their presentations were not interesting."
+                },
+                {
+                  "k": "B",
+                  "text": "They found their presentations stressful."
+                },
+                {
+                  "k": "C",
+                  "text": "They didn't look at the audience enough."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "After she gave her presentation, Hiroko felt",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "delighted."
+                },
+                {
+                  "k": "B",
+                  "text": "dissatisfied."
+                },
+                {
+                  "k": "C",
+                  "text": "embarrassed."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "How does Spiros feel about his performance in tutorials?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "not very happy"
+                },
+                {
+                  "k": "B",
+                  "text": "really pleased"
+                },
+                {
+                  "k": "C",
+                  "text": "fairly confident"
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "Why can the other students participate so easily in discussions?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "They are polite to each other."
+                },
+                {
+                  "k": "B",
+                  "text": "They agree to take turns in speaking."
+                },
+                {
+                  "k": "C",
+                  "text": "They know each other well."
+                }
+              ]
+            },
+            {
+              "n": 26,
+              "text": "Why is Hiroko feeling more positive about tutorials now?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "She finds the other students' opinions more interesting."
+                },
+                {
+                  "k": "B",
+                  "text": "She is making more of a contribution."
+                },
+                {
+                  "k": "C",
+                  "text": "The tutor includes her in the discussion."
+                }
+              ]
+            },
+            {
+              "n": 27,
+              "text": "To help her understand lectures, Hiroko",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "consulted reference materials."
+                },
+                {
+                  "k": "B",
+                  "text": "had extra tutorials with her lecturers."
+                },
+                {
+                  "k": "C",
+                  "text": "borrowed lecture notes from other students."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "What does Spiros think of his reading skills?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "He reads faster than he used to."
+                },
+                {
+                  "k": "B",
+                  "text": "It still takes him a long time to read."
+                },
+                {
+                  "k": "C",
+                  "text": "He tends to struggle with new vocabulary."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "What is Hiroko's subject area?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "environmental studies"
+                },
+                {
+                  "k": "B",
+                  "text": "health education"
+                },
+                {
+                  "k": "C",
+                  "text": "engineering"
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "Hiroko thinks that in the reading classes the students should",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "learn more vocabulary."
+                },
+                {
+                  "k": "B",
+                  "text": "read more in their own subject areas."
+                },
+                {
+                  "k": "C",
+                  "text": "develop better reading strategies."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TEACHER",
+          "t": "Before we start, Spiros and Hiroko, thanks for coming in today to talk about your recent study experiences and congratulations to you both in doing so well in your first semester exams!"
+        },
+        {
+          "s": "TEACHER",
+          "t": "I'd like to discuss with you the value of the English for Academic Purposes course you did here last year before starting your university course."
+        },
+        {
+          "s": "TEACHER",
+          "t": "Spiros, if I could start with you, what parts of the programme have now proved to be particularly valuable to you?"
+        },
+        {
+          "s": "SPIROS",
+          "t": "I think that having to do a seminar presentation really helped me."
+        },
+        {
+          "s": "SPIROS",
+          "t": "For example, a couple of weeks ago in our marketing subject, when it was my turn to give a presentation I felt quite confident."
+        },
+        {
+          "s": "SPIROS",
+          "t": "Of course, I was still nervous but because I had done one before, I knew what to expect."
+        },
+        {
+          "s": "SPIROS",
+          "t": "Also, I know I was well-prepared and I had practised my timing."
+        },
+        {
+          "s": "SPIROS",
+          "t": "In fact, I think that in relation to some of the other people in my group, I did quite a good job because my overall style was quite professional."
+        },
+        {
+          "s": "SPIROS",
+          "t": "What about you, Hiroko?",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "HIROKO",
+          "t": "Mmm, that's interesting."
+        },
+        {
+          "s": "HIROKO",
+          "t": "In my group, I was really surprised by the way the students did their presentations — they just read their notes aloud!"
+        },
+        {
+          "s": "HIROKO",
+          "t": "Can you believe that?"
+        },
+        {
+          "s": "HIROKO",
+          "t": "They didn't worry about their presentation style or keeping eye contact with their audience — and I remember that these things were really stressed to us in the course here.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "TEACHER",
+          "t": "So, how did you approach your presentation, Hiroko?"
+        },
+        {
+          "s": "HIROKO",
+          "t": "Well, to speak frankly, I read my notes too!"
+        },
+        {
+          "s": "HIROKO",
+          "t": "At the time, it was a relief to do it this way, but actually when I had finished, I didn't feel any real sense of satisfaction."
+        },
+        {
+          "s": "HIROKO",
+          "t": "I didn't feel positive about the experience at all.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "SPIROS",
+          "t": "That's a pity."
+        },
+        {
+          "s": "SPIROS",
+          "t": "You know, although I was pleased with my presentation, I am not so pleased with my actual performance right now in the tutorials — during the whole semester I've not said anything in our tutorial discussions."
+        },
+        {
+          "s": "SPIROS",
+          "t": "Not a word."
+        },
+        {
+          "s": "HIROKO",
+          "t": "Really, Spiros?"
+        },
+        {
+          "s": "HIROKO",
+          "t": "Why's that?"
+        },
+        {
+          "s": "HIROKO",
+          "t": "Do the other students talk too much?",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "SPIROS",
+          "t": "It's partly that, but it's mostly because I have had no confidence to speak out."
+        },
+        {
+          "s": "SPIROS",
+          "t": "Their style of speaking is so different — it's not the style we were used to during the course."
+        },
+        {
+          "s": "SPIROS",
+          "t": "They use so many colloquialisms, they're not very polite and sometimes there seems to be no order in their discussion."
+        },
+        {
+          "s": "SPIROS",
+          "t": "Also, they are very familiar with each other, so because they know each other's habits, they can let each other into the discussion.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "HIROKO",
+          "t": "You're right, Spiros, I've experienced that too."
+        },
+        {
+          "s": "HIROKO",
+          "t": "For most of this semester, I've said absolutely nothing in tutorials."
+        },
+        {
+          "s": "HIROKO",
+          "t": "But recently, I've been trying to speak up more and I just jump in, and I've noticed an interesting thing, I've noticed that if they thought my point was interesting or new, then the next time they actually asked for my opinion, and then it was much easier for me to be part of the discussion.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "SPIROS",
+          "t": "That's great, Hiroko!"
+        },
+        {
+          "s": "SPIROS",
+          "t": "I hope that happens for me next semester — I'll have to work hard to find some interesting points."
+        },
+        {
+          "s": "SPIROS",
+          "t": "What helped you to find these ideas?"
+        },
+        {
+          "s": "HIROKO",
+          "t": "I think that one thing that helped me with this was the reading."
+        },
+        {
+          "s": "HIROKO",
+          "t": "I've had to do so much reading this semester just to help me make sense of the lectures."
+        },
+        {
+          "s": "HIROKO",
+          "t": "At first I couldn't understand what the lecturers were talking about, so I had to turn to the books and journals."
+        },
+        {
+          "s": "HIROKO",
+          "t": "Every night I read for hours, using the lists of references that were given, and I made pages of notes."
+        },
+        {
+          "s": "HIROKO",
+          "t": "At breakfast, I read and read my notes again."
+        },
+        {
+          "s": "HIROKO",
+          "t": "This habit has helped me to follow the ideas in the lectures, and it's also given me some ideas to use in the tutorials.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "SPIROS",
+          "t": "But I did so much reading anyway — I don't think there's any time left over for anything extra."
+        },
+        {
+          "s": "SPIROS",
+          "t": "My reading speed is still quite slow, though I'm much better at dealing with vocabulary than I used to be.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "TEACHER",
+          "t": "What else do you think we could add to the course program to help with this reading problem?"
+        },
+        {
+          "s": "SPIROS",
+          "t": "There's not really anything because it's my problem."
+        },
+        {
+          "s": "SPIROS",
+          "t": "I remember we were given long articles to read."
+        },
+        {
+          "s": "SPIROS",
+          "t": "We didn't like that but now I realise that reading those long articles was good preparation for the things I need to read now."
+        },
+        {
+          "s": "SPIROS",
+          "t": "Also, in class we regularly had speed-reading tasks to do, and we kept a record of our reading speed, so the teachers were encouraging us to work on that."
+        },
+        {
+          "s": "HIROKO",
+          "t": "That's true Spiros, but what we read could have been different."
+        },
+        {
+          "s": "HIROKO",
+          "t": "Sometimes in the English class I felt frustrated when I had to read articles about the environment or health or education, because I wanted to concentrate on my own field, but we didn't read anything about engineering."
+        },
+        {
+          "s": "HIROKO",
+          "t": "So, I think I wasted some time learning vocabulary I didn't need.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "TEACHER",
+          "t": "But surely the strategies you were taught for dealing with that vocabulary were helpful."
+        },
+        {
+          "s": "HIROKO",
+          "t": "Yes, but psychologically speaking, I would have felt much better working on reading from my own field."
+        },
+        {
+          "s": "HIROKO",
+          "t": "What do you think Spiros?"
+        },
+        {
+          "s": "SPIROS",
+          "t": "I agree; that would have helped my confidence too and I would have been more motivated."
+        },
+        {
+          "s": "SPIROS",
+          "t": "It was good though that we could work on our own topics when we wrote the research assignments.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "TEACHER",
+          "t": "Okay, let's move on to writing now ..."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c9/t1p4.mp3",
+      "duration": 0,
+      "title": "Mass Strandings of Whales and Dolphins",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Mass Strandings of Whales and Dolphins",
+          "lines": [
+            "Mass strandings: situations where groups of whales, dolphins, etc. swim onto the beach and die",
+            "Common in areas where the {{31}} can change quickly",
+            "Several other theories:",
+            "## Parasites",
+            "e.g. some parasites can affect marine animals' {{32}}, which they depend on for navigation",
+            "## Toxins",
+            "Poisons from {{33}} are commonly consumed by whales",
+            "e.g. Cape Cod (1988) - whales were killed by saxitoxin",
+            "## Accidental Strandings",
+            "Animals may follow prey ashore, e.g. Thurston (1995)",
+            "Unlikely because the majority of animals were not {{34}} when they stranded",
+            "## Human Activity",
+            "{{35}} from military tests are linked to some recent strandings",
+            "The Bahamas (2000) stranding was unusual because the whales",
+            "were all {{36}}",
+            "were not in a {{37}}",
+            "## Group Behaviour",
+            "More strandings in the most {{38}} species of whales",
+            "1994 dolphin stranding - only the {{39}} was ill",
+            "## Further Reading",
+            "Marine Mammals Ashore (Connor) - gives information about stranding {{40}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good afternoon everyone."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, with some of you about to go out on field work it's timely that in this afternoon's session I'll be sharing some ideas about the reasons why groups of whales and dolphins sometimes swim ashore from the sea right onto the beach and, most often, die in what are known as 'mass strandings'."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Unfortunately, this type of event is a frequent occurrence in some of the locations that you'll be travelling to, where sometimes the tide goes out suddenly, confusing the animals.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, there are many other theories about the causes of mass strandings."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The first is that the behaviour is linked to parasites."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's often found that stranded animals were infested with large numbers of parasites."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For instance, a type of worm is commonly found in the ears of dead whales."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Since marine animals rely heavily on their hearing to navigate, this type of infestation has the potential to be very harmful.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Another theory is related to toxins, or poisons."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These have also been found to contribute to the death of many marine animals."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Many toxins, as I'm sure you're aware, originate from plants, or animals.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The whale ingests these toxins in its normal feeding behaviour but whether these poisons directly or indirectly lead to stranding and death, seems to depend upon the toxin involved."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In 1988, for example, fourteen humpback whales examined after stranding along the beaches of Cape Cod were found to have been poisoned after eating tuna that contained saxitoxin, the same toxin that can be fatal in humans."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Alternatively, it has also been suggested that some animals strand accidentally by following their prey ashore in the confusion of the chase."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In 1995 David Thurston monitored pilot whales that beached after following squid ashore."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, this idea does not seem to hold true for the majority of mass strandings because examination of the animals' stomach contents reveal that most had not been feeding as they stranded.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are also some new theories which link strandings to humans."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A growing concern is that loud noises in the ocean cause strandings."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Noises such as those caused by military exercises are of particular concern and have been pinpointed as the cause of some strandings of late.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One of these, a mass stranding of whales in 2000 in the Bahamas coincided closely with experiments using a new submarine detection system."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There were several factors that made this stranding stand out as different from previous strandings."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This led researchers to look for a new cause."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For one, all the stranded animals were healthy.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In addition, the animals were spread out along 38 kilometres of coast, whereas it's more common for the animals to be found in a group when mass strandings occur.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A final theory is related to group behaviour, and suggests that sea mammals cannot distinguish between sick and healthy leaders and will follow sick leaders, even to an inevitable death."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This is a particularly interesting theory since the whales that are thought to be most social — the toothed whales — are the group that strand the most frequently.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The theory is also supported by evidence from a dolphin stranding in 1994."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Examination of the dead animals revealed that apart from the leader, all the others had been healthy at the time of their death.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Without one consistent theory however it is very hard for us to do anything about this phenomenon except to assist animals where and when we can."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Stranding networks have been established around the world to aid in rescuing animals and collecting samples from those that could not be helped."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I recommend John Connor's Marine Mammals Ashore as an excellent starting point if you're interested in finding out more about these networks, or establishing one yourself.",
+          "q": [
+            40
+          ]
+        }
+      ]
+    }
+  ]
+}

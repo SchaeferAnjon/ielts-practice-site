@@ -1,0 +1,44 @@
+{
+  "id": "c9t1",
+  "book": "剑桥雅思9",
+  "test": 1,
+  "title": "剑9 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "map",
+      "kindZh": "地图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The two maps below show an island, before and after the construction of some tourist facilities.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c9t1-task1.webp",
+      "imageCaption": "An island, before and after the construction of tourist facilities",
+      "sample": {
+        "band": 7,
+        "text": "The two maps show the same island while first one is before and the second one is after the construction for tourism.\n\nLooking first at the one before construction, we can see a huge island with a beach in the west. The total length of the island is approximately 250 metres.\n\nMoving on to the second map, we can see that there are lots of buildings on the island. There are two areas of accommodation. One is in the west near the beach while the other one is in the centre of the island. Between them, there is a restaurant in the north and a central reception block, which is surrounded by a vehicle track. This track also goes down to the pier where people can go sailing in the south sea of the island. Furthermore, tourists can swim near the beach in the west. A footpath connecting the western accommodation units also leads to the beach.\n\nOverall, comparing the two maps, there are significant changes after this development. Not only lots of facilities are built on the island, but also the sea is used for activities. The new island has become a good place for tourism.",
+        "comment": "This answer clearly presents the key features of the diagrams, and although the first map is described only briefly, this is acceptable for this particular task. The description is accurate though some aspects, such as the section on the accommodation, could have been more fully extended. The final paragraph summarises the main points effectively. The information is logically organised and can be easily followed throughout the response. A range of cohesive devices including reference and substitution is used appropriately, with only occasional inaccuracies. Some less common vocabulary and collocations are used appropriately, e.g. central reception block; western accommodation units, and there are no spelling errors. There is a variety of grammatical structures and many sentences contain no inaccuracies. Where errors do occur, they do not affect understanding."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "advantage-disadvantage",
+      "kindZh": "利弊",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some experts believe that it is better for children to begin learning a foreign language at primary school rather than secondary school.",
+        "Do the advantages of this outweigh the disadvantages?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "Traditionally, children have begun studying foreign languages at secondary school, but introducing them earlier is recommended by some educationalists. This policy has been adopted by some educational authorities or individual schools, with both positive and negative outcomes.\n\nThe obvious argument in its favour is that young children pick up languages much more easily than teenagers. Their brains are still programmed to acquire their mother tongue, which facilitates learning another language, and unlike adolescents, they are not inhibited by self-consciousness.\n\nThe greater flexibility of the primary timetable allows for more frequent, shorter sessions and for a play-centred approach, thus maintaining learners' enthusiasm and progress. Their command of the language in later life will benefit from this early exposure, while learning other languages subsequently will be easier for them. They may also gain a better understanding of other cultures.\n\nThere are, however, some disadvantages. Primary school teachers are generalists, and may not have the necessary language skills themselves. If specialists have to be brought in to deliver these sessions, the flexibility referred to above is diminished. If primary language teaching is not standardised, secondary schools could be faced with a great variety of levels in different languages within their intake, resulting in a classroom experience which undoes the earlier gains. There is no advantage if enthusiastic primary pupils become demotivated as soon as they change schools. However, these issues can be addressed strategically within the policy adopted.\n\nAnything which encourages language learning benefits society culturally and economically, and early exposure to language learning contributes to this. Young children's innate abilities should be harnessed to make these benefits more achievable.",
+        "comment": "本书原文说明：此篇 Task 2 范文标注为 MODEL ANSWER，由考官撰写，作为该题众多可能写法中的一种示范（\"This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches.\"），未附具体的评分点评或分数，这里按满分示范处理。"
+      }
+    }
+  ]
+}
