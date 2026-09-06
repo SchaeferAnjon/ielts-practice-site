@@ -1,0 +1,46 @@
+{
+  "id": "c6t1",
+  "book": "剑桥雅思6",
+  "test": 1,
+  "title": "剑6 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "mixed",
+      "kindZh": "混合",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The graph and table below give information about water use worldwide and water consumption in two different countries.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "Write at least 150 words."
+      ],
+      "image": "/img/c6t1-task1.webp",
+      "imageCaption": "Global water use by sector (1900-2000); water consumption in Brazil and the Democratic Republic of Congo in 2000",
+      "sample": {
+        "band": 9,
+        "text": "The graph shows how the amount of water used worldwide changed between 1900 and 2000.\n\nThroughout the century, the largest quantity of water was used for agricultural purposes, and this increased dramatically from about 500 km3 to around 3,000 km3 in the year 2000. Water used in the industrial and domestic sectors also increased, but consumption was minimal until mid-century. From 1950 onwards, industrial use grew steadily to just over 1,000 km3, while domestic use rose more slowly to only 300 km3, both far below the levels of consumption by agriculture.\n\nThe table illustrates the differences in agricultural consumption in some areas of the world by contrasting the amount of irrigated land in Brazil (26,500 km2) with that in the D.R.C. (100 km2). This means that a huge amount of water is used in agriculture in Brazil, and this is reflected in the figures for water consumption per person: 359 m3 compared with only 8 m3 in the Congo. With a population of 176 million, the figures for Brazil indicate how high agricultural water consumption can be in some countries.",
+        "comment": "本书原文说明：此篇 Task 1 范文标注为 MODEL ANSWER，由考官撰写，作为该题众多可能写法中的一种示范（\"This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches.\"），未附具体的评分点评或分数，这里按满分示范处理。"
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Today, the high sales of popular consumer goods reflect the power of advertising and not the real needs of the society in which they are sold.",
+        "To what extent do you agree or disagree?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+        "Write at least 250 words."
+      ],
+      "sample": {
+        "band": 7.5,
+        "text": "Nowadays, there are lots of advertisements on television or on the streets. Some people think that the advertising boosts the sales of goods and it encourages people to buy things unnecessarily. This arguments may be true. In my country, many advertising companies produce advertisements with famous and popular actors or singers. People, especially youngsters, buy goods that their favourite singer advertise, although they do not really need the products.\n\nAlso, on the television screen, a product may look gorgeous and good quality. As a result of it, people often buy goods without enough consideration. Consumers may not actually need it but they buy goods impulsively soon after they watch the advertising. Furthermore, as many customers buy a particular product due to its advertising campaign, the other people may be affected by the trend, even if the product is not of the real needs of the society.\n\nOn the other hand, there are various aspects against these arguments. Moreover, it is people's choice to make a decision to buy goods. Advertising may be not a cause of customers' buying habits. Individuals have their own spending habits. If they have got enough disposable income, then the right to make a decision is given to them. No one actually can judge whether the goods sold are the real needs of the society or not.\n\nIn addition, as there should be a limited amount of disposable income consumers are able to spend, people try to allocate their budgets. They cannot be simply swayed by those advertisements.\n\nIn conclusion, as customers have their own strong opinions and standard of good quality goods, it is better to leave them to make their own decision in buy goods. It is fairly difficult to say everyone is swayed by advertising and buy good impulsively. However, in sensitive area of businesses such as toy industries, it may be necessary to band advertising to those children as children have not got enough ability to control themselves or to know what they need.",
+        "comment": "The way in which the candidate has responded to the task is a strong point of this script. It is a well-developed answer that addresses the issues relevantly and at length. The writer introduces the topic, examines both sides of the argument and expresses a clear position. Points are well-argued and supported with examples.\n\nThe answer is well-organised and the message is easy to follow with clear paragraphing and linking of ideas. There are too many errors in cohesion, however, and some linkers are not always fully appropriate, so this limits the rating for this criterion.\n\nA wide range of vocabulary is used accurately and precisely, in spite of one or two awkward expressions and some rare errors. Similarly, a sophisticated range of structures is used but there are too many minor errors and omissions (such as in the use of prepositions and basic subject/verb agreement) to reach Band 8. Nevertheless these mistakes do not reduce the clarity of the answer and overall a wide range of language is used with a high level of proficiency."
+      }
+    }
+  ]
+}

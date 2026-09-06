@@ -1,0 +1,1689 @@
+{
+  "id": "c6t1",
+  "book": "剑桥雅思6",
+  "test": 1,
+  "title": "剑6 Test 1 · Listening",
+  "source": "Cambridge IELTS 6, Test 1（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "keep-fit",
+      "keep-fit studio",
+      "a keep-fit studio",
+      "the keep-fit studio"
+    ],
+    "2": [
+      "swimming"
+    ],
+    "3": [
+      "yoga",
+      "yoga classes"
+    ],
+    "4": [
+      "salad bar",
+      "a salad bar",
+      "the salad bar"
+    ],
+    "5": [
+      "500",
+      "£500"
+    ],
+    "6": [
+      "1",
+      "£1"
+    ],
+    "7": [
+      "10am and 4.30pm",
+      "10 and 4.30",
+      "10am to 4.30pm",
+      "10 to 4.30"
+    ],
+    "8": [
+      "180",
+      "£180"
+    ],
+    "9": [
+      "assessment",
+      "an assessment"
+    ],
+    "10": [
+      "Kynchley",
+      "kynchley"
+    ],
+    "11": [
+      "B"
+    ],
+    "12": [
+      "G"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "A"
+    ],
+    "15": [
+      "E"
+    ],
+    "16": [
+      "D"
+    ],
+    "17": [
+      "19th",
+      "the 19th",
+      "October 19th",
+      "the 19th October"
+    ],
+    "18": [
+      "7",
+      "7pm",
+      "7 pm"
+    ],
+    "19": [
+      "Monday and Thursday",
+      "Monday, Thursday"
+    ],
+    "20": [
+      "18",
+      "£18"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "in advance"
+    ],
+    "23": [
+      "nursery",
+      "the nursery"
+    ],
+    "24": [
+      "annual fee",
+      "the annual fee"
+    ],
+    "25": [
+      "tutor",
+      "your tutor"
+    ],
+    "26": [
+      "laptops",
+      "printers"
+    ],
+    "27": [
+      "laptops",
+      "printers"
+    ],
+    "28": [
+      "report writing"
+    ],
+    "29": [
+      "marketing"
+    ],
+    "30": [
+      "individual",
+      "an individual"
+    ],
+    "31": [
+      "feed"
+    ],
+    "32": [
+      "metal and leather",
+      "leather and metal"
+    ],
+    "33": [
+      "restrictions"
+    ],
+    "34": [
+      "sea mammals",
+      "fish"
+    ],
+    "35": [
+      "sea mammals",
+      "fish"
+    ],
+    "36": [
+      "built"
+    ],
+    "37": [
+      "poverty"
+    ],
+    "38": [
+      "C",
+      "E",
+      "F"
+    ],
+    "39": [
+      "C",
+      "E",
+      "F"
+    ],
+    "40": [
+      "C",
+      "E",
+      "F"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c6/t1p1.mp3",
+      "duration": 0,
+      "title": "Kingswell Sports Club membership",
+      "groups": [
+        {
+          "range": [
+            1,
+            4
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS for each answer.",
+          "title": "Notes on sports club",
+          "lines": [
+            "Name of club: Kingswell (example)",
+            "## Facilities available",
+            "- Golf",
+            "- {{1}}",
+            "- {{2}}",
+            "## Classes available",
+            "- Kick-boxing",
+            "- {{3}}",
+            "Additional facility: {{4}} (restaurant opening soon)"
+          ]
+        },
+        {
+          "range": [
+            5,
+            8
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO NUMBERS for each answer.",
+          "title": "Membership schemes",
+          "table": {
+            "head": [
+              "Type",
+              "Use of facilities",
+              "Cost of classes",
+              "Times",
+              "Joining fee",
+              "Annual subscription fee"
+            ],
+            "rows": [
+              [
+                "GOLD",
+                "All",
+                "Free",
+                "Any time",
+                "£250",
+                "£{{5}}"
+              ],
+              [
+                "SILVER",
+                "All",
+                "£{{6}}",
+                "from {{7}}",
+                "£225",
+                "£300"
+              ],
+              [
+                "BRONZE",
+                "Restricted",
+                "£3",
+                "from 10.30 to 3.30 weekdays only",
+                "£50",
+                "£{{8}}"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            9,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "lines": [
+            "To join the centre, you need to book an instructor's {{9}}.",
+            "To book a trial session, speak to David {{10}} (0458 95311)."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "WOMAN",
+          "t": "Good morning, oh sorry, it's gone 12, I'll start again, good afternoon, Kingswell Sports Club, how can I help you?"
+        },
+        {
+          "s": "MAN",
+          "t": "Oh, good afternoon."
+        },
+        {
+          "s": "MAN",
+          "t": "I was wondering if you could give me some information about membership and facilities."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Of course."
+        },
+        {
+          "s": "WOMAN",
+          "t": "What would you like to know?"
+        },
+        {
+          "s": "MAN",
+          "t": "Do you have tennis courts, for example?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "No, I'm afraid we don't."
+        },
+        {
+          "s": "WOMAN",
+          "t": "We're primarily a golf club."
+        },
+        {
+          "s": "MAN",
+          "t": "What about football?"
+        },
+        {
+          "s": "MAN",
+          "t": "I heard you had a team."
+        },
+        {
+          "s": "WOMAN",
+          "t": "No, I'm sorry."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Perhaps you're thinking about Fresham Sports Centre."
+        },
+        {
+          "s": "MAN",
+          "t": "Oh, right."
+        },
+        {
+          "s": "MAN",
+          "t": "I know it."
+        },
+        {
+          "s": "MAN",
+          "t": "I've played badminton there."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Have you?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "They've got a lot of facilities we don't have and vice versa."
+        },
+        {
+          "s": "WOMAN",
+          "t": "We do have a keep-fit studio, which is very popular with members,",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "and then as well as that there's swimming, of course.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "That's good."
+        },
+        {
+          "s": "MAN",
+          "t": "I like to swim every day."
+        },
+        {
+          "s": "WOMAN",
+          "t": "We have a range of classes too."
+        },
+        {
+          "s": "MAN",
+          "t": "Do you have judo classes?"
+        },
+        {
+          "s": "MAN",
+          "t": "I'm keen to learn."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, at the moment we offer kick-boxing."
+        },
+        {
+          "s": "WOMAN",
+          "t": "We're planning to add judo and stretch classes soon."
+        },
+        {
+          "s": "WOMAN",
+          "t": "We're currently running a range of yoga classes, too.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "What about relaxing after exercise?"
+        },
+        {
+          "s": "MAN",
+          "t": "I assume you have a restaurant or something."
+        },
+        {
+          "s": "WOMAN",
+          "t": "At the moment, we've got a salad bar which is very popular."
+        },
+        {
+          "s": "WOMAN",
+          "t": "We'll also have a fully-licensed restaurant by the end of the year.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Sounds good!"
+        },
+        {
+          "s": "WOMAN",
+          "t": "What kind of membership are you interested in?"
+        },
+        {
+          "s": "MAN",
+          "t": "Um, I'm not really sure."
+        },
+        {
+          "s": "MAN",
+          "t": "What are the options?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, there are three different membership schemes."
+        },
+        {
+          "s": "MAN",
+          "t": "I see."
+        },
+        {
+          "s": "MAN",
+          "t": "What's the difference?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, the first one's called Gold, and you can use all the facilities at any time of the day or week."
+        },
+        {
+          "s": "WOMAN",
+          "t": "You can also join in as many classes as you like for free."
+        },
+        {
+          "s": "MAN",
+          "t": "That sounds good."
+        },
+        {
+          "s": "MAN",
+          "t": "Is it very expensive?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, you pay a £250 joining fee and then it's £450 – oh no, I'm sorry, it's just gone up by £50, sorry about that – it's now £500 for the annual subscription fee.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Right, got that."
+        },
+        {
+          "s": "MAN",
+          "t": "And what's the next type?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, that's Silver – it's the same as Gold except you have to pay a small fee of £1.00 per lesson for any you do and you can only use the centre at certain times.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "I see."
+        },
+        {
+          "s": "MAN",
+          "t": "So when exactly?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "You can only use the facilities between 10 am and 4.30 pm.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "So I couldn't use the pool at 8 in the morning or evening, then?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's right."
+        },
+        {
+          "s": "MAN",
+          "t": "OK."
+        },
+        {
+          "s": "MAN",
+          "t": "And the price for that?"
+        },
+        {
+          "s": "MAN",
+          "t": "Is the joining fee the same as for Gold?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Actually, it's slightly less than the £250 – it's £225, but the annual fee is only £300."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Does that sound more like what you want?"
+        },
+        {
+          "s": "MAN",
+          "t": "Well, it's still rather more expensive than I thought."
+        },
+        {
+          "s": "MAN",
+          "t": "I'm a student here in England and I'm only here for six months."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Ah, then the Bronze scheme would probably suit you best."
+        },
+        {
+          "s": "MAN",
+          "t": "How is that different?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, some of the facilities have restricted use."
+        },
+        {
+          "s": "MAN",
+          "t": "And do I have to pay for classes?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, it's £3 for each class you join."
+        },
+        {
+          "s": "MAN",
+          "t": "I see."
+        },
+        {
+          "s": "MAN",
+          "t": "And what are the hours then?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Between 10.30 and 3.30 weekdays only and you pay a £50 joining fee."
+        },
+        {
+          "s": "WOMAN",
+          "t": "The annual fee is £180 – it works out at £15 a month, so that would be quite a lot cheaper.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Oh, that should be all right."
+        },
+        {
+          "s": "MAN",
+          "t": "I could come in my free periods."
+        },
+        {
+          "s": "MAN",
+          "t": "What do I have to do if I want to join?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, we book you in for an assessment with an instructor, who will show you how to use all the equipment.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "If you want to organise a trial session and look around the centre, you'll need to speak to David Kynchley."
+        },
+        {
+          "s": "MAN",
+          "t": "Hmm."
+        },
+        {
+          "s": "MAN",
+          "t": "Could you spell that please?"
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, David K-Y-N-C-H-L-E-Y.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'll give you his direct line number."
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's oh-four-five-eight-nine-five-three-double one."
+        },
+        {
+          "s": "MAN",
+          "t": "Thanks."
+        },
+        {
+          "s": "WOMAN",
+          "t": "Thank you for calling Kingswell Sports Club."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c6/t1p2.mp3",
+      "duration": 0,
+      "title": "Rivenden City Theatre redevelopment",
+      "groups": [
+        {
+          "range": [
+            11,
+            16
+          ],
+          "type": "matching",
+          "instruction": "What change has been made to each part of the theatre? Choose SIX answers from the box and write the correct letter, A-G, next to questions 11-16.",
+          "optionsTitle": "Rivenden City Theatre",
+          "options": [
+            {
+              "k": "A",
+              "text": "doubled in number"
+            },
+            {
+              "k": "B",
+              "text": "given separate entrance"
+            },
+            {
+              "k": "C",
+              "text": "reduced in number"
+            },
+            {
+              "k": "D",
+              "text": "increased in size"
+            },
+            {
+              "k": "E",
+              "text": "replaced"
+            },
+            {
+              "k": "F",
+              "text": "strengthened"
+            },
+            {
+              "k": "G",
+              "text": "temporarily closed"
+            }
+          ],
+          "itemsTitle": "Part of the theatre",
+          "items": [
+            {
+              "n": 11,
+              "text": "box office"
+            },
+            {
+              "n": 12,
+              "text": "shop"
+            },
+            {
+              "n": 13,
+              "text": "ordinary seats"
+            },
+            {
+              "n": 14,
+              "text": "seats for wheelchair users"
+            },
+            {
+              "n": 15,
+              "text": "lifts"
+            },
+            {
+              "n": 16,
+              "text": "dressing rooms"
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            20
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "table": {
+            "head": [
+              "Play",
+              "Dates",
+              "Starting time",
+              "Tickets available for",
+              "Price"
+            ],
+            "rows": [
+              [
+                "Royal Hunt of the Sun",
+                "October 13th to {{17}}",
+                "{{18}} pm",
+                "for {{19}}",
+                "£{{20}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MAN",
+          "t": "And here on Radio Rivenden we have Lynne Rawley, the Public Relations Officer of our own Rivenden City Theatre."
+        },
+        {
+          "s": "MAN",
+          "t": "Hello, Lynne."
+        },
+        {
+          "s": "LYNNE",
+          "t": "Hello."
+        },
+        {
+          "s": "MAN",
+          "t": "Now, the theatre is reopening soon after its three-year redevelopment programme, isn't it?"
+        },
+        {
+          "s": "LYNNE",
+          "t": "That's right, and there are a lot of improvements."
+        },
+        {
+          "s": "LYNNE",
+          "t": "The first thing people will see when they go in is that the foyer has been repainted in the original green and gold."
+        },
+        {
+          "s": "LYNNE",
+          "t": "Then the box office has been reoriented, with its own access from the side of the building instead of through the foyer, which means it can be open longer hours, and has more space, too.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "LYNNE",
+          "t": "The shop that used to be in the foyer, which sold books and CDs, is the one part of the redevelopment which isn't yet complete."
+        },
+        {
+          "s": "LYNNE",
+          "t": "The plan is to find new premises for it near the theatre, and we've had difficulty finding somewhere suitable."
+        },
+        {
+          "s": "LYNNE",
+          "t": "We hope to reopen the shop in the next few months.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Will audiences find any difference in the auditorium?"
+        },
+        {
+          "s": "LYNNE",
+          "t": "Yes, we've increased the leg-room between the rows."
+        },
+        {
+          "s": "LYNNE",
+          "t": "This means that there are now fewer seats but we're sure audiences will be much happier.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "LYNNE",
+          "t": "And we've installed air conditioning, so it won't get so hot and stuffy."
+        },
+        {
+          "s": "LYNNE",
+          "t": "We already had a few seats which were suitable for wheelchair users, and now there are twice as many, which we hope will meet demand.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "LYNNE",
+          "t": "Something else that will benefit audiences is the new lifts."
+        },
+        {
+          "s": "LYNNE",
+          "t": "The two we used to have were very small and slow."
+        },
+        {
+          "s": "LYNNE",
+          "t": "They've now gone, and we've got much more efficient ones.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "Anything for the performers?"
+        },
+        {
+          "s": "LYNNE",
+          "t": "Yes, we've made a number of improvements backstage."
+        },
+        {
+          "s": "LYNNE",
+          "t": "The small, dark dressing rooms we used to have have been converted into two large airy rooms, so they're much more comfortable now.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "LYNNE",
+          "t": "And the state-of-the-art electronic sound and lighting systems have been installed."
+        },
+        {
+          "s": "MAN",
+          "t": "OK, so what's the first play that audiences can see when the theatre reopens?"
+        },
+        {
+          "s": "LYNNE",
+          "t": "We've got a very exciting production of Peter Shaffer's Royal Hunt of the Sun, which is currently touring the country."
+        },
+        {
+          "s": "LYNNE",
+          "t": "That starts on October the 13th and runs till the 19th.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "LYNNE",
+          "t": "We're experimenting a bit with the time the curtain goes up."
+        },
+        {
+          "s": "LYNNE",
+          "t": "We used to start all our performances at 7.30, but that made it difficult for people to go home by public transport, so instead we're beginning at 7, because at 9.45, when it finishes, there are still buses running.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "LYNNE",
+          "t": "Tickets are already selling fast."
+        },
+        {
+          "s": "LYNNE",
+          "t": "The Friday and Saturday performances sold out almost immediately and, in fact, now there are only tickets for Monday and Thursday.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "MAN",
+          "t": "How much are they?"
+        },
+        {
+          "s": "LYNNE",
+          "t": "We've introduced a simpler price structure."
+        },
+        {
+          "s": "LYNNE",
+          "t": "Ticket prices used to range from £6 to £30 but now they're all £18.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "LYNNE",
+          "t": "They're available from the box office, in person, by phone, fax or post, or online."
+        },
+        {
+          "s": "MAN",
+          "t": "OK, Lynne, now if you'd like to give the contact details for the theatre..."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c6/t1p3.mp3",
+      "duration": 340,
+      "title": "Enrolling on a part-time management course",
+      "groups": [
+        {
+          "range": [
+            21,
+            21
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 21,
+              "text": "What is Brian going to do before the course starts?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "attend a class"
+                },
+                {
+                  "k": "B",
+                  "text": "write a report"
+                },
+                {
+                  "k": "C",
+                  "text": "read a book"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            22,
+            25
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "College facilities",
+          "table": {
+            "head": [
+              "College Facility",
+              "Information"
+            ],
+            "rows": [
+              [
+                "Refectory",
+                "inform them {{22}} about special dietary requirements"
+              ],
+              [
+                "{{23}}",
+                "long waiting list, apply now"
+              ],
+              [
+                "Careers advice",
+                "drop-in centre for information"
+              ],
+              [
+                "Fitness centre",
+                "reduced {{24}} for students"
+              ],
+              [
+                "Library",
+                "includes books, journals, equipment room containing audio-visual materials"
+              ],
+              [
+                "Computers",
+                "ask your {{25}} to arrange a password with the technical support team"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            26,
+            30
+          ],
+          "type": "notes",
+          "instruction": "Complete the summary below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "The Business Centre",
+          "lines": [
+            "The Business Resource Centre contains materials such as books and manuals to be used for training.",
+            "It is possible to hire {{26}} and {{27}}.",
+            "There are materials for working on study skills (e.g. {{28}}) and other subjects include finance and {{29}}.",
+            "{{30}} membership costs £50 per year."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TUTOR",
+          "t": "Hello, can I help you?",
+          "start": 45.15,
+          "end": 46.27
+        },
+        {
+          "s": "BRIAN",
+          "t": "I was told to come here, because I'd like to talk to someone about taking a management course.",
+          "start": 46.91,
+          "end": 51.15
+        },
+        {
+          "s": "TUTOR",
+          "t": "Right.",
+          "start": 51.35,
+          "end": 51.75
+        },
+        {
+          "s": "TUTOR",
+          "t": "I'm one of the tutors, so I should be able to help you.",
+          "start": 51.75,
+          "end": 54.83
+        },
+        {
+          "s": "BRIAN",
+          "t": "Oh, good.",
+          "start": 54.99,
+          "end": 55.39
+        },
+        {
+          "s": "BRIAN",
+          "t": "My name's Brian Ardley.",
+          "start": 55.91,
+          "end": 57.31
+        },
+        {
+          "s": "BRIAN",
+          "t": "I've decided to enrol on a part-time management course.",
+          "start": 57.82,
+          "end": 60.7
+        },
+        {
+          "s": "BRIAN",
+          "t": "A friend of mine took one last year, and recommended it to me.",
+          "start": 61.18,
+          "end": 64.58
+        },
+        {
+          "s": "TUTOR",
+          "t": "Right.",
+          "start": 64.66,
+          "end": 65.06
+        },
+        {
+          "s": "BRIAN",
+          "t": "Is there anything I should do before the course, like reading or anything?",
+          "start": 65.58,
+          "end": 69.18
+        },
+        {
+          "s": "TUTOR",
+          "t": "We prefer to integrate reading with the course, so we don't give out a reading list in advance.",
+          "start": 69.46,
+          "end": 74.58
+        },
+        {
+          "s": "TUTOR",
+          "t": "But we like people to write a case study, describing an organisation they know.",
+          "start": 75.22,
+          "end": 79.66
+        },
+        {
+          "s": "BRIAN",
+          "t": "I've already done that, as my friends told me you wanted one.",
+          "start": 80.28,
+          "end": 83.44
+        },
+        {
+          "s": "BRIAN",
+          "t": "But would it be possible to sit in on a teaching session, to see what it's like?",
+          "q": [
+            21
+          ],
+          "start": 83.44,
+          "end": 87.76
+        },
+        {
+          "s": "BRIAN",
+          "t": "I haven't been a student for quite a while.",
+          "start": 88.48,
+          "end": 90.16
+        },
+        {
+          "s": "TUTOR",
+          "t": "Fine.",
+          "start": 90.7,
+          "end": 91.02
+        },
+        {
+          "s": "TUTOR",
+          "t": "Just let me know which date, and I'll arrange it with the tutor.",
+          "start": 91.46,
+          "end": 94.22
+        },
+        {
+          "s": "BRIAN",
+          "t": "Now, could I ask you about the college facilities, please?",
+          "start": 94.38,
+          "end": 97.58
+        },
+        {
+          "s": "TUTOR",
+          "t": "Anything in particular?",
+          "start": 97.78,
+          "end": 99.06
+        },
+        {
+          "s": "BRIAN",
+          "t": "Well, the course is one day a week, all day, isn't it?",
+          "start": 99.34,
+          "end": 102.78
+        },
+        {
+          "s": "BRIAN",
+          "t": "So presumably it's possible to buy food?",
+          "start": 103.25,
+          "end": 105.61
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, the refectory's open all day.",
+          "start": 105.81,
+          "end": 108.01
+        },
+        {
+          "s": "BRIAN",
+          "t": "Does it cater for special diets?",
+          "start": 108.45,
+          "end": 110.09
+        },
+        {
+          "s": "BRIAN",
+          "t": "I have some food allergies.",
+          "start": 110.49,
+          "end": 111.77
+        },
+        {
+          "s": "TUTOR",
+          "t": "Provided you warn the refectory in advance, it won't be a problem.",
+          "q": [
+            22
+          ],
+          "start": 111.93,
+          "end": 115.17
+        },
+        {
+          "s": "BRIAN",
+          "t": "Good.",
+          "start": 115.29,
+          "end": 115.69
+        },
+        {
+          "s": "BRIAN",
+          "t": "What about facilities for young children?",
+          "start": 116.45,
+          "end": 118.29
+        },
+        {
+          "s": "BRIAN",
+          "t": "I'd like to bring my daughter here while I'm studying.",
+          "start": 119.09,
+          "end": 121.17
+        },
+        {
+          "s": "TUTOR",
+          "t": "How old is she?",
+          "start": 121.73,
+          "end": 122.37
+        },
+        {
+          "s": "BRIAN",
+          "t": "Three.",
+          "start": 122.37,
+          "end": 122.37,
+          "estimated": true
+        },
+        {
+          "s": "TUTOR",
+          "t": "Then she's eligible to join the nursery, which is supervised by a qualified Nursery Nurse.",
+          "q": [
+            23
+          ],
+          "start": 123.13,
+          "end": 128.17
+        },
+        {
+          "s": "TUTOR",
+          "t": "The waiting list for a place is quite long though, so you ought to apply now.",
+          "start": 128.95,
+          "end": 132.47
+        },
+        {
+          "s": "BRIAN",
+          "t": "OK.",
+          "start": 132.59,
+          "end": 132.91
+        },
+        {
+          "s": "TUTOR",
+          "t": "I don't know if our careers advice service would be of any interest to you?",
+          "start": 133.67,
+          "end": 136.87
+        },
+        {
+          "s": "BRIAN",
+          "t": "Yes, it might help me decide how to develop my career after the course.",
+          "start": 137.03,
+          "end": 141.31
+        },
+        {
+          "s": "TUTOR",
+          "t": "The centre has a lot of reference materials, and staff qualified to give guidance on a one-to-one basis.",
+          "start": 141.51,
+          "end": 147.27
+        },
+        {
+          "s": "BRIAN",
+          "t": "I noticed a fitness centre next to the college.",
+          "start": 147.82,
+          "end": 150.26
+        },
+        {
+          "s": "BRIAN",
+          "t": "Is that for students?",
+          "start": 150.82,
+          "end": 151.54
+        },
+        {
+          "s": "TUTOR",
+          "t": "It's open to everyone, but students pay an annual fee that's much less than the general public pay.",
+          "q": [
+            24
+          ],
+          "start": 151.78,
+          "end": 156.58
+        },
+        {
+          "s": "BRIAN",
+          "t": "And presumably the college library stocks newspapers and journals, as well as books?",
+          "start": 157.34,
+          "end": 162.06
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, and there's also an audio-visual room, for viewing and listening to videos, cassettes, and so on.",
+          "start": 162.3,
+          "end": 168.26
+        },
+        {
+          "s": "BRIAN",
+          "t": "Is there also access to computers?",
+          "start": 168.76,
+          "end": 170.52
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, your tutor will need to arrange with the technical support team for you to get a password, so ask him or her about it when you start the course.",
+          "q": [
+            25
+          ],
+          "start": 170.72,
+          "end": 178.24
+        },
+        {
+          "s": "BRIAN",
+          "t": "OK.",
+          "start": 178.36,
+          "end": 178.68
+        },
+        {
+          "s": "TUTOR",
+          "t": "By the way, do you know about our Business Centre?",
+          "start": 216.68,
+          "end": 218.24
+        },
+        {
+          "s": "BRIAN",
+          "t": "No.",
+          "start": 219.48,
+          "end": 219.64
+        },
+        {
+          "s": "BRIAN",
+          "t": "What's that?",
+          "start": 219.96,
+          "end": 220.48
+        },
+        {
+          "s": "TUTOR",
+          "t": "It's a training resource – a collection of materials for people to study on their own, or use in their own organisations.",
+          "start": 221.08,
+          "end": 226.12
+        },
+        {
+          "s": "BRIAN",
+          "t": "Uhuh.",
+          "start": 226.12,
+          "end": 226.12,
+          "estimated": true
+        },
+        {
+          "s": "BRIAN",
+          "t": "You mean books and videos?",
+          "start": 227.96,
+          "end": 229.2
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, and manuals for self-study.",
+          "start": 229.48,
+          "end": 231.48
+        },
+        {
+          "s": "TUTOR",
+          "t": "Plus a lot of computer-based materials, so people can work through them at their own speed, and repeat anything they aren't sure about.",
+          "start": 232.2,
+          "end": 238.8
+        },
+        {
+          "s": "TUTOR",
+          "t": "And you can hire laptops to use in your own home or workplace as well as printers that you can take away.",
+          "q": [
+            26,
+            27
+          ],
+          "start": 239.49,
+          "end": 245.97
+        },
+        {
+          "s": "BRIAN",
+          "t": "Does it have anything that I could use to improve my study skills?",
+          "start": 246.57,
+          "end": 249.61
+        },
+        {
+          "s": "BRIAN",
+          "t": "I don't have much idea about report writing, and I'm sure I'll need it on the course.",
+          "q": [
+            28
+          ],
+          "start": 250.49,
+          "end": 255.29
+        },
+        {
+          "s": "TUTOR",
+          "t": "Oh yes, there's plenty of useful material.",
+          "start": 255.49,
+          "end": 257.81
+        },
+        {
+          "s": "TUTOR",
+          "t": "Just ask one of the staff.",
+          "start": 258.01,
+          "end": 259.45
+        },
+        {
+          "s": "BRIAN",
+          "t": "Does the centre cover all the main areas of business?",
+          "start": 260.31,
+          "end": 262.59
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, topics like finance, and of course marketing – that's a popular one.",
+          "q": [
+            29
+          ],
+          "start": 262.83,
+          "end": 267.11
+        },
+        {
+          "s": "TUTOR",
+          "t": "Local managers seem to queue up to borrow the videos!",
+          "start": 267.11,
+          "end": 269.87
+        },
+        {
+          "s": "BRIAN",
+          "t": "So it isn't just for students, then?",
+          "start": 270.38,
+          "end": 272.14
+        },
+        {
+          "s": "TUTOR",
+          "t": "No, it's for members only, but anyone can join.",
+          "start": 273.5,
+          "end": 275.9
+        },
+        {
+          "s": "BRIAN",
+          "t": "How much does it cost?",
+          "start": 276.18,
+          "end": 277.38
+        },
+        {
+          "s": "TUTOR",
+          "t": "£100 a year for a company, and £50 for an individual, with no discount for students, I'm afraid.",
+          "q": [
+            30
+          ],
+          "start": 278.02,
+          "end": 283.9
+        },
+        {
+          "s": "BRIAN",
+          "t": "That's very helpful.",
+          "start": 284.41,
+          "end": 285.33
+        },
+        {
+          "s": "BRIAN",
+          "t": "Well, I think that's all.",
+          "start": 286.21,
+          "end": 287.45
+        },
+        {
+          "s": "BRIAN",
+          "t": "I'd better go home and fill in the enrolment form.",
+          "start": 287.77,
+          "end": 289.85
+        },
+        {
+          "s": "BRIAN",
+          "t": "Thanks for all your help.",
+          "start": 289.97,
+          "end": 291.21
+        },
+        {
+          "s": "TUTOR",
+          "t": "You're welcome.",
+          "start": 291.29,
+          "end": 291.77
+        },
+        {
+          "s": "TUTOR",
+          "t": "Goodbye.",
+          "start": 292.25,
+          "end": 292.57
+        },
+        {
+          "s": "BRIAN",
+          "t": "Goodbye.",
+          "start": 292.69,
+          "end": 293.09
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c6/t1p4.mp3",
+      "duration": 335,
+      "title": "The social history of the East End of London",
+      "groups": [
+        {
+          "range": [
+            31,
+            37
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Social history of the East End of London",
+          "table": {
+            "head": [
+              "Period",
+              "Situation"
+            ],
+            "rows": [
+              [
+                "1st-4th centuries",
+                "Produce from the area was used to {{31}} the people of London."
+              ],
+              [
+                "5th-10th centuries",
+                "New technology allowed the production of goods made of {{32}}."
+              ],
+              [
+                "11th century",
+                "Lack of {{33}} in the East End encouraged the growth of businesses."
+              ],
+              [
+                "16th century",
+                "Construction of facilities for the building of {{34}} stimulated international trade.\nAgricultural workers came from other parts of {{35}} to look for work."
+              ],
+              [
+                "17th century",
+                "Marshes were drained to provide land that could be {{36}} on."
+              ],
+              [
+                "19th century",
+                "Inhabitants lived in conditions of great {{37}}, with very poor sanitation."
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            38,
+            40
+          ],
+          "type": "mc-multi",
+          "count": 3,
+          "instruction": "Choose THREE letters, A-G. Which THREE of the following problems are mentioned in connection with 20th century housing in the East End?",
+          "options": [
+            {
+              "k": "A",
+              "text": "unsympathetic landlords"
+            },
+            {
+              "k": "B",
+              "text": "unclean water"
+            },
+            {
+              "k": "C",
+              "text": "heating problems"
+            },
+            {
+              "k": "D",
+              "text": "high rents"
+            },
+            {
+              "k": "E",
+              "text": "overcrowding"
+            },
+            {
+              "k": "F",
+              "text": "poor standards of building"
+            },
+            {
+              "k": "G",
+              "text": "houses catching fire"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "In the last few weeks, we've been looking at various aspects of the social history of London, and this morning we're continuing with a look at life in the area called the East End.",
+          "start": 60.19,
+          "end": 68.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'll start with a brief history of the district, and then focus on life in the first half of the twentieth century.",
+          "start": 69.39,
+          "end": 74.58
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Back in the first to the fourth centuries AD, when the Romans controlled England, London grew into a town of 45,000 people, and what's now the East End – the area by the river Thames, and along the road heading north-east from London to the coast – consisted of farmland with crops and livestock which helped to feed that population.",
+          "q": [
+            31
+          ],
+          "start": 76.2,
+          "end": 95.64
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The Romans left in 410, at the beginning of the fifth century, and from then onwards the country suffered a series of invasions by tribes from present-day Germany and Denmark, the Angles, Saxons and Jutes, many of whom settled in the East End.",
+          "start": 97.46,
+          "end": 112.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The technology they introduced meant that metal and leather goods were produced there for the first time.",
+          "q": [
+            32
+          ],
+          "start": 113.43,
+          "end": 118.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And as the East End was by the river, ships could transport goods between there and foreign markets.",
+          "start": 119.41,
+          "end": 124.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the eleventh century, in 1066 to be precise, the Normans conquered England, and during the next few centuries London became one of the most powerful and prosperous cities in Europe.",
+          "start": 126.08,
+          "end": 136.88
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The East End benefited from this, and because there were fewer restrictions there than in the city itself, plenty of newcomers settled there from abroad, bringing their skills as workers, merchants or money-lenders during the next few hundred years.",
+          "q": [
+            33
+          ],
+          "start": 138.05,
+          "end": 151.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the sixteenth century the first dock was dug where ships were constructed, eventually making the East End the focus of massive international trade.",
+          "q": [
+            34
+          ],
+          "start": 153.8,
+          "end": 162.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And in the late sixteenth century, when much of the rest of England was suffering economically, a lot of agricultural workers came to the East End to look for alternative work.",
+          "q": [
+            35
+          ],
+          "start": 163.12,
+          "end": 172.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the seventeenth century, the East End was still a series of separate, semi-rural settlements.",
+          "start": 174.03,
+          "end": 178.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There was a shortage of accommodation, so marshland was drained and built on to house the large numbers of people now living there.",
+          "q": [
+            36
+          ],
+          "start": 179.87,
+          "end": 186.79
+        },
+        {
+          "s": "SPEAKER",
+          "t": "By the nineteenth century London was the busiest port in the world, and this became the main source of employment in the East End.",
+          "start": 188.54,
+          "end": 195.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Those who could afford to live in more pleasant surroundings moved out, and the area became one where the vast majority of people lived in extreme poverty, and suffered from appalling sanitary conditions.",
+          "q": [
+            37
+          ],
+          "start": 196.94,
+          "end": 207.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That brief outline takes us to the beginning of the twentieth century, and now we'll turn to housing.",
+          "start": 213.62,
+          "end": 218.7
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At the beginning of the century, living conditions for the majority of working people in East London were very basic indeed.",
+          "start": 220.21,
+          "end": 226.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Houses were crowded closely together and usually very badly built, because there was no regulation.",
+          "q": [
+            38,
+            39,
+            40
+          ],
+          "start": 226.65,
+          "end": 233.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But the poor and needy were attracted by the possibility of work, and they had to be housed.",
+          "start": 234.12,
+          "end": 238.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It was the availability, rather than the condition, of the housing that was the major concern for tenants and landlords alike.",
+          "start": 239.76,
+          "end": 246.06
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Few houses had electricity at this time, so other sources of power were used, like coal for the fires which heated perhaps just one room.",
+          "q": [
+            38,
+            39,
+            40
+          ],
+          "start": 247.83,
+          "end": 255.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Of course, the smoke from these contributed a great deal to the air pollution for which London used to be famous.",
+          "start": 255.43,
+          "end": 261.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A tiny, damp, unhealthy house like this might well be occupied by two full families, possibly including several children, grandparents, aunts and uncles.",
+          "q": [
+            38,
+            39,
+            40
+          ],
+          "start": 263.16,
+          "end": 273.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, before I go on to health implications of this way of life, I'll say something about food and nutrition.",
+          "start": 274.89,
+          "end": 280.49
+        }
+      ]
+    }
+  ]
+}

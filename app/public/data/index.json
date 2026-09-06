@@ -1019,7 +1019,11 @@
    "bookNo": 6,
    "test": 1,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
    "audioParts": [
     3,
     4
