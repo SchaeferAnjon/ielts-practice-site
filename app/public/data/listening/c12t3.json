@@ -1,0 +1,1234 @@
+{
+  "id": "c12t3",
+  "book": "剑桥雅思12",
+  "test": 3,
+  "title": "剑12 Test 3 · Listening",
+  "source": "Cambridge IELTS 12 Academic, Test 7（原书印刷编号为 Test 7，对应本站 Test 3；文字层抽取 + 人工核对）",
+  "answers": {
+    "1": [
+      "travel",
+      "travelling"
+    ],
+    "2": [
+      "history"
+    ],
+    "3": [
+      "study"
+    ],
+    "4": [
+      "teenagers"
+    ],
+    "5": [
+      "kitchen"
+    ],
+    "6": [
+      "crime"
+    ],
+    "7": [
+      "appointment",
+      "booking"
+    ],
+    "8": [
+      "sugar"
+    ],
+    "9": [
+      "stamps"
+    ],
+    "10": [
+      "parking"
+    ],
+    "11": [
+      "D",
+      "E"
+    ],
+    "12": [
+      "D",
+      "E"
+    ],
+    "13": [
+      "A",
+      "C"
+    ],
+    "14": [
+      "A",
+      "C"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "stress"
+    ],
+    "19": [
+      "weight"
+    ],
+    "20": [
+      "families"
+    ],
+    "21": [
+      "C"
+    ],
+    "22": [
+      "E"
+    ],
+    "23": [
+      "H"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "F"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "C"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "B"
+    ],
+    "31": [
+      "insects"
+    ],
+    "32": [
+      "behaviour",
+      "behavior"
+    ],
+    "33": [
+      "father"
+    ],
+    "34": [
+      "complex",
+      "complicated"
+    ],
+    "35": [
+      "reproduction",
+      "breeding"
+    ],
+    "36": [
+      "control"
+    ],
+    "37": [
+      "ducks",
+      "duck"
+    ],
+    "38": [
+      "language"
+    ],
+    "39": [
+      "food"
+    ],
+    "40": [
+      "cost",
+      "costs",
+      "price",
+      "prices",
+      "bill",
+      "bills"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c12/t3p1.mp3",
+      "duration": 547,
+      "title": "Public Library",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "PUBLIC LIBRARY",
+          "lines": [
+            "Example: The library re-opened last month.",
+            "## The library now has",
+            "a seating area with magazines",
+            "an expanded section for books on {{1}}",
+            "a new section on local {{2}}",
+            "a community room for meetings (also possible to {{3}} there)",
+            "a new section of books for {{4}}",
+            "## For younger children",
+            "the next Science Club meeting: experiments using things from your {{5}}",
+            "Reading Challenge: read six books during the holidays",
+            "## For adults",
+            "this Friday: a local author talks about a novel based on a real {{6}}",
+            "IT support is available on Tuesdays - no {{7}} is necessary",
+            "free check of blood {{8}} and cholesterol levels (over 60s only)",
+            "## Other information",
+            "the library shop sells wall-charts, cards and {{9}}",
+            "evenings and weekends: free {{10}} is available"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SUSIE",
+          "t": "Hello?",
+          "start": 0.0,
+          "end": 0.0,
+          "estimated": true
+        },
+        {
+          "s": "PAUL",
+          "t": "Hi, Susie, it's Paul here. How are you? Enjoying your new job? You're working at the library, aren't you?",
+          "start": 123.08,
+          "end": 130.96
+        },
+        {
+          "s": "SUSIE",
+          "t": "Yes. I started when the library re-opened a month ago. It's great.",
+          "start": 131.04,
+          "end": 183.08
+        },
+        {
+          "s": "PAUL",
+          "t": "Actually Carol and I have been meaning to join for a while.",
+          "start": 183.48,
+          "end": 186.92
+        },
+        {
+          "s": "SUSIE",
+          "t": "Oh, you should. It doesn't cost anything, and the new library has all sorts of facilities. It's not just a place where you borrow books. For instance, there's an area with comfortable seats where you can sit and read the magazines they have there. Some people spend the whole morning there.",
+          "start": 187.2,
+          "end": 206.74
+        },
+        {
+          "s": "PAUL",
+          "t": "Mmm. Wish I had that amount of time to spend!",
+          "start": 207.82,
+          "end": 210.18
+        },
+        {
+          "s": "SUSIE",
+          "t": "Yes, you must be pretty busy at present, with the children and everything?",
+          "start": 210.38,
+          "end": 214.82
+        },
+        {
+          "s": "PAUL",
+          "t": "We are, yes. But we're hoping to get away this summer. We're thinking of going to Greece.",
+          "start": 215.51,
+          "end": 221.15
+        },
+        {
+          "s": "SUSIE",
+          "t": "Well, we've got a much larger section of the library devoted to travel books now, so you should come and have a look. I can't remember if there's anything specifically on Greece, but I should think so.",
+          "q": [
+            1
+          ],
+          "start": 222.07,
+          "end": 235.22
+        },
+        {
+          "s": "PAUL",
+          "t": "OK. Now Carol's organising a project for the history class she teaches at school - it's about life in the town a hundred years ago. Do you have anything that might be useful?",
+          "start": 235.42,
+          "end": 247.64
+        },
+        {
+          "s": "SUSIE",
+          "t": "Yes, actually we've now got a new section with materials on the history of the town and surrounding region.",
+          "q": [
+            2
+          ],
+          "start": 248.48,
+          "end": 256.28
+        },
+        {
+          "s": "PAUL",
+          "t": "Right. I'll tell her. You can't always find that sort of thing on the internet. Now in the old library there used to be a separate room with reference books. It was a really nice quiet room.",
+          "start": 256.92,
+          "end": 269.93
+        },
+        {
+          "s": "SUSIE",
+          "t": "Yes. We've put those books in the main part of the library now, but we do have a room called the community room. It can be hired out for meetings, but at other times people can use it to study.",
+          "q": [
+            3
+          ],
+          "start": 270.25,
+          "end": 284.04
+        },
+        {
+          "s": "PAUL",
+          "t": "I might use that. It's hard to find anywhere quiet at home sometimes.",
+          "start": 284.72,
+          "end": 288.72
+        },
+        {
+          "s": "SUSIE",
+          "t": "I can't remember how old your son and daughter are... we've introduced a special section of fiction written specially for teenagers, but they might be a bit young for that?",
+          "q": [
+            4
+          ],
+          "start": 289.67,
+          "end": 300.59
+        },
+        {
+          "s": "PAUL",
+          "t": "Yes, they would be.",
+          "start": 300.75,
+          "end": 302.07
+        },
+        {
+          "s": "SUSIE",
+          "t": "Well, we do have lots of activities for younger children.",
+          "start": 350.17,
+          "end": 353.61
+        },
+        {
+          "s": "PAUL",
+          "t": "Yes?",
+          "start": 354.37,
+          "end": 354.45
+        },
+        {
+          "s": "SUSIE",
+          "t": "For example we have a Science Club. At the next meeting, they're going to be doing experiments with stuff that everyone has in the kitchen - sugar and flour and so on.",
+          "q": [
+            5
+          ],
+          "start": 355.01,
+          "end": 366.94
+        },
+        {
+          "s": "PAUL",
+          "t": "They might be interested, yes.",
+          "start": 367.06,
+          "end": 369.14
+        },
+        {
+          "s": "SUSIE",
+          "t": "And we have a competition for children called Reading Challenge. That doesn't begin until after the end of term. They have to read six books, and they get a certificate if they manage it.",
+          "start": 369.38,
+          "end": 383.32
+        },
+        {
+          "s": "PAUL",
+          "t": "So that gives them something to do while they're on holiday, instead of getting bored.",
+          "start": 383.52,
+          "end": 388.25
+        },
+        {
+          "s": "SUSIE",
+          "t": "That's the idea. And there's special activities for adults too. On Friday we have a local author called Tanya Streep who's going to be talking about her new novel. It's called 'Catch the Mouse' and she based the story on a crime that actually took place here years ago.",
+          "q": [
+            6
+          ],
+          "start": 388.77,
+          "end": 409.07
+        },
+        {
+          "s": "PAUL",
+          "t": "Right. We're not free on Friday, but I'll look out for the book.",
+          "start": 409.73,
+          "end": 413.61
+        },
+        {
+          "s": "SUSIE",
+          "t": "Now this probably isn't for you, but we do have IT support available for members. We get quite a few older people coming along who are wanting to get up to speed with computer technology. It's on Tuesday mornings - they don't need to make an appointment or anything, they just turn up.",
+          "q": [
+            7
+          ],
+          "start": 414.65,
+          "end": 434.65
+        },
+        {
+          "s": "PAUL",
+          "t": "Well, my mother might be interested, I'll let her know.",
+          "start": 434.81,
+          "end": 438.45
+        },
+        {
+          "s": "SUSIE",
+          "t": "OK. And there's another service which you wouldn't expect from a library, which is a free medical check-up. The hospital arranges for someone to come along and measure the level of sugar in your blood, and they check cholesterol levels at the same time.",
+          "q": [
+            8
+          ],
+          "start": 438.69,
+          "end": 456.28
+        },
+        {
+          "s": "PAUL",
+          "t": "Really?",
+          "start": 456.36,
+          "end": 456.96
+        },
+        {
+          "s": "SUSIE",
+          "t": "Yes, but that's only for the over-60s, so you wouldn't qualify.",
+          "start": 457.75,
+          "end": 462.43
+        },
+        {
+          "s": "PAUL",
+          "t": "OK. Well, I'll tell my mother, she might be interested.",
+          "start": 462.75,
+          "end": 466.55
+        },
+        {
+          "s": "SUSIE",
+          "t": "What other information... well, we do have a little shop with things like wallcharts and greetings cards, and also stamps so you can post the cards straightaway, which is really useful.",
+          "q": [
+            9
+          ],
+          "start": 467.69,
+          "end": 481.57
+        },
+        {
+          "s": "PAUL",
+          "t": "Yeah. Well, I'll bring the children round at the weekend and we'll join. Oh, one more thing - I'll be bringing the car, is there parking available?",
+          "q": [
+            10
+          ],
+          "start": 481.69,
+          "end": 491.05
+        },
+        {
+          "s": "SUSIE",
+          "t": "Yes, and it's free in the evening and at weekends.",
+          "start": 491.33,
+          "end": 495.05
+        },
+        {
+          "s": "PAUL",
+          "t": "Perfect. Well, thanks, Susie see you...",
+          "start": 495.29,
+          "end": 498.5
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c12/t3p2.mp3",
+      "duration": 435,
+      "title": "BC Travel activity holidays",
+      "groups": [
+        {
+          "range": [
+            11,
+            12
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO age groups are taking increasing numbers of holidays with BC Travel?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "16-30 years"
+            },
+            {
+              "k": "B",
+              "text": "31-42 years"
+            },
+            {
+              "k": "C",
+              "text": "43-54 years"
+            },
+            {
+              "k": "D",
+              "text": "55-64 years"
+            },
+            {
+              "k": "E",
+              "text": "over 65 years"
+            }
+          ]
+        },
+        {
+          "range": [
+            13,
+            14
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO are the main reasons given for the popularity of activity holidays?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Clients make new friends."
+            },
+            {
+              "k": "B",
+              "text": "Clients learn a useful skill."
+            },
+            {
+              "k": "C",
+              "text": "Clients learn about a different culture."
+            },
+            {
+              "k": "D",
+              "text": "Clients are excited by the risk involved."
+            },
+            {
+              "k": "E",
+              "text": "Clients find them good value for money."
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            17
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 15,
+              "text": "How does BC Travel plan to expand the painting holidays?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "by adding to the number of locations"
+                },
+                {
+                  "k": "B",
+                  "text": "by increasing the range of levels"
+                },
+                {
+                  "k": "C",
+                  "text": "by employing more teachers"
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "Why are BC Travel's cooking holidays unusual?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "They only use organic foods."
+                },
+                {
+                  "k": "B",
+                  "text": "They have an international focus."
+                },
+                {
+                  "k": "C",
+                  "text": "They mainly involve vegetarian dishes."
+                }
+              ]
+            },
+            {
+              "n": 17,
+              "text": "What does the speaker say about the photography holidays?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Clients receive individual tuition."
+                },
+                {
+                  "k": "B",
+                  "text": "The tutors are also trained guides."
+                },
+                {
+                  "k": "C",
+                  "text": "Advice is given on selling photographs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            18,
+            20
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Fitness Holidays",
+          "table": {
+            "head": [
+              "Location",
+              "Main focus",
+              "Other comments"
+            ],
+            "rows": [
+              [
+                "Ireland and Italy",
+                "general fitness",
+                "personally designed programme\nalso reduces {{18}}"
+              ],
+              [
+                "Greece",
+                "{{19}} control",
+                "includes exercise on the beach"
+              ],
+              [
+                "Morocco",
+                "mountain biking",
+                "wide variety of levels\none holiday that is specially designed for {{20}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "In this session in your training day we're going to look at some of the more specialised holidays we offer at BC Travel. Now, the travel business is very competitive and it's important to be aware of how the market's changing and developing.",
+          "start": 59.71,
+          "end": 74.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In terms of age groups, the over-65s are an important market, and one that's increasing steadily year on year.",
+          "q": [
+            11,
+            12
+          ],
+          "start": 75.72,
+          "end": 83.82
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The fewest holidays are taken by the 31 to 42-year-olds, and that figure shows no sign of rising. The biggest market at present is still the youngest group, the 16 to 30s, but this group's also seen the biggest drop over the last few years, whereas there's a noticeable growth in the number of holidays taken by the 55 to 64-year-olds.",
+          "q": [
+            11,
+            12
+          ],
+          "start": 84.9,
+          "end": 109.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As far as the 43 to 54-year-olds are concerned, bookings there are steady, but I have to say we haven't seen the increase we expected.",
+          "start": 111.34,
+          "end": 121.22
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One trend we're noticing with nearly all age groups is the growing popularity of holidays in which clients do some kind of specialised activity. I'm not talking here about adventure holidays, where clients take part in high-risk activities like white water rafting just for the thrill of it. Activity holidays usually involve rather less high-risk sports, or things like art and music. They're not necessarily cheaper than ordinary holidays, often the opposite, in fact.",
+          "start": 123.52,
+          "end": 156.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But they do often take place outside the main tourist centres, which gives an opportunity for clients to find out more about the local people and customs, and many say this is one of the most positive features of these holidays.",
+          "q": [
+            13,
+            14
+          ],
+          "start": 156.47,
+          "end": 170.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Of course, they offer the chance to develop a new skill or talent, but clients often say that more than this, it's the chance to create lasting relationships with other like-minded people that's the main draw.",
+          "q": [
+            13,
+            14
+          ],
+          "start": 170.38,
+          "end": 185.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let me give you some examples of BC Travel activity holidays. Our painting holidays take place in four different centres in France and Italy and they're very popular with clients of all abilities from beginners onwards. We've got an excellent team of artists to lead the classes - some of them have been with us from the start, and five additional ones will be joining us this year so that we can offer a greater number of classes in each centre.",
+          "q": [
+            15
+          ],
+          "start": 187.41,
+          "end": 216.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As far as cooking holidays are concerned, I know a lot of agents offer holidays where clients cook recipes related to one particular country, usually the one they're staying in, but we focus on dishes from a great many different ones.",
+          "q": [
+            16
+          ],
+          "start": 219.37,
+          "end": 234.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Apart from that you'll find the usual emphasis on good quality, organic ingredients - that's more or less a given nowadays - and there are generally some meat-free recipes included.",
+          "start": 234.45,
+          "end": 246.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our photography holidays take place in a wide range of countries from Iceland to Vietnam, and clients have the opportunity to see some stunning scenery. Groups are small, no more than eight, so clients can have one-on-one tuition during the holiday, and excursions are arranged with fully-trained guides.",
+          "q": [
+            17
+          ],
+          "start": 248.87,
+          "end": 269.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At the end of each holiday an exhibition is held of the photographs taken so that clients can see one another's work and receive valuable feedback from the tutor.",
+          "start": 270.54,
+          "end": 280.54
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Finally, let me tell you about our fitness holidays. In Ireland and Italy we run one-week general fitness classes for all ages and levels of fitness. Clients start the course with a consultation with a trainer, and together they draw up an individual programme. As well as improving general fitness, clients find that they end up losing much of the stress they've built up in their daily lives.",
+          "q": [
+            18
+          ],
+          "start": 314.5,
+          "end": 340.63
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In Greece, we have a two-week holiday for clients who want to do something about their weight. This has all the features you'd expect, like a personalised diet programme, but one of its most popular features is that the exercise classes are all held on the beach. People say it's far preferable to being in a gym.",
+          "q": [
+            19
+          ],
+          "start": 342.45,
+          "end": 362.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Finally, we offer several holidays in Morocco. One very popular one is the mountain biking holiday. Bikes are provided and there are different routes according to people's ability. We offer one which is tailored to the needs of families, which is particularly popular.",
+          "q": [
+            20
+          ],
+          "start": 364.37,
+          "end": 380.81
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK, so that's about all the time I have today, so thank you very much...",
+          "start": 382.88,
+          "end": 386.96
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c12/t3p3.mp3",
+      "duration": 510,
+      "title": "Tourism case study on the Horton Castle site",
+      "groups": [
+        {
+          "range": [
+            21,
+            26
+          ],
+          "type": "matching",
+          "instruction": "Complete the flow-chart below.",
+          "limit": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 21-26.",
+          "optionsTitle": "Options",
+          "options": [
+            {
+              "k": "A",
+              "text": "patterns"
+            },
+            {
+              "k": "B",
+              "text": "names"
+            },
+            {
+              "k": "C",
+              "text": "sources"
+            },
+            {
+              "k": "D",
+              "text": "questions"
+            },
+            {
+              "k": "E",
+              "text": "employees"
+            },
+            {
+              "k": "F",
+              "text": "solutions"
+            },
+            {
+              "k": "G",
+              "text": "headings"
+            },
+            {
+              "k": "H",
+              "text": "officials"
+            }
+          ],
+          "itemsTitle": "Stages in doing a tourism case study",
+          "items": [
+            {
+              "n": 21,
+              "text": "RESEARCH — Locate and read relevant articles, noting key information and also ______."
+            },
+            {
+              "n": 22,
+              "text": "Identify a problem or need. Select interviewees - these may be site ______,"
+            },
+            {
+              "n": 23,
+              "text": "visitors or city ______."
+            },
+            {
+              "n": 24,
+              "text": "Prepare and carry out interviews. If possible, collect statistics. Check whether ______ of interviewees can be used."
+            },
+            {
+              "n": 25,
+              "text": "ANALYSIS — Select relevant information and try to identify ______."
+            },
+            {
+              "n": 26,
+              "text": "WRITING THE CASE STUDY — Give some background before writing the main sections. Do NOT end with ______."
+            }
+          ]
+        },
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "The Horton Castle site",
+          "questions": [
+            {
+              "n": 27,
+              "text": "Natalie and Dave agree one reason why so few people visit Horton Castle is that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the publicity is poor."
+                },
+                {
+                  "k": "B",
+                  "text": "it is difficult to get to."
+                },
+                {
+                  "k": "C",
+                  "text": "there is little there of interest."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "Natalie and Dave agree that the greatest problem with a visitor centre could be",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "covering the investment costs."
+                },
+                {
+                  "k": "B",
+                  "text": "finding a big enough space for it."
+                },
+                {
+                  "k": "C",
+                  "text": "dealing with planning restrictions."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "What does Dave say about conditions in the town of Horton?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "There is a lot of unemployment."
+                },
+                {
+                  "k": "B",
+                  "text": "There are few people of working age."
+                },
+                {
+                  "k": "C",
+                  "text": "There are opportunities for skilled workers."
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "According to Natalie, one way to prevent damage to the castle site would be to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "insist visitors have a guide."
+                },
+                {
+                  "k": "B",
+                  "text": "make visitors keep to the paths."
+                },
+                {
+                  "k": "C",
+                  "text": "limit visitor numbers."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "NATALIE",
+          "t": "Dave, I'm worried about our case study, I've done a bit of reading, but I'm not sure what's involved in actually writing a case study - I missed the lecture where Dr Baker talked us through it.",
+          "start": 58.74,
+          "end": 71.54
+        },
+        {
+          "s": "DAVE",
+          "t": "OK, well it's quite straightforward. We've got our focus - that's tourism at the Horton Castle site. And you said you'd done some reading about it.",
+          "start": 72.06,
+          "end": 83.56
+        },
+        {
+          "s": "NATALIE",
+          "t": "Yes, I found some articles and made notes of the main points.",
+          "start": 83.64,
+          "end": 87.8
+        },
+        {
+          "s": "DAVE",
+          "t": "Did you remember to keep a record of where you got the information from?",
+          "q": [
+            21
+          ],
+          "start": 88.48,
+          "end": 92.16
+        },
+        {
+          "s": "NATALIE",
+          "t": "Sure. I know what a pain it is when you forget that.",
+          "start": 92.32,
+          "end": 95.47
+        },
+        {
+          "s": "DAVE",
+          "t": "OK, so we can compare what we've read. Then we have to decide on a particular problem or need at our site. And then think about who we're going to interview to get more information.",
+          "start": 95.83,
+          "end": 110.0
+        },
+        {
+          "s": "NATALIE",
+          "t": "OK. So who'd that be? The people who work there? And presumably some of the tourists too?",
+          "q": [
+            22
+          ],
+          "start": 110.96,
+          "end": 118.98
+        },
+        {
+          "s": "DAVE",
+          "t": "Yes, both those groups. So we'll have to go to the site to do that, I suppose. But we might also do some of our interviewing away from the site - we could even contact some people here in the city, like administrators involved in overseeing tourism.",
+          "q": [
+            23
+          ],
+          "start": 119.54,
+          "end": 137.93
+        },
+        {
+          "s": "NATALIE",
+          "t": "OK. So we'll need to think about our interview questions and fix times and places for the meetings. It's all going to take a lot of time.",
+          "start": 138.13,
+          "end": 148.76
+        },
+        {
+          "s": "DAVE",
+          "t": "Mmm. And if we can, we should ask our interviewees if they can bring along some numerical data that we can add to support our findings.",
+          "start": 149.76,
+          "end": 158.48
+        },
+        {
+          "s": "NATALIE",
+          "t": "And photographs?",
+          "start": 159.39,
+          "end": 160.51
+        },
+        {
+          "s": "DAVE",
+          "t": "I think we have plenty of those already. But Dr Baker also said we have to establish with our interviewees whether we can identify them in our case study, or whether they want to be anonymous.",
+          "q": [
+            24
+          ],
+          "start": 160.55,
+          "end": 174.57
+        },
+        {
+          "s": "NATALIE",
+          "t": "Oh, I wouldn't have thought of that. OK, once we've got all this information, I suppose we have to analyse it.",
+          "start": 175.09,
+          "end": 183.78
+        },
+        {
+          "s": "DAVE",
+          "t": "Yes, put it all together and choose what's relevant to the problem we're focusing on, and analyse that carefully to find out if we can identify any trends or regularities there. That's the main thing at this stage, rather than concentrating on details or lots of facts.",
+          "q": [
+            25
+          ],
+          "start": 183.94,
+          "end": 204.58
+        },
+        {
+          "s": "NATALIE",
+          "t": "OK. And then once we've analysed that, what next?",
+          "start": 205.41,
+          "end": 209.21
+        },
+        {
+          "s": "DAVE",
+          "t": "Well, then we need to think about what we do with the data we've selected to make it as clear as possible to our readers. Things like graphs, or tables, or charts...",
+          "start": 209.49,
+          "end": 221.52
+        },
+        {
+          "s": "NATALIE",
+          "t": "Right.",
+          "start": 221.6,
+          "end": 222.12
+        },
+        {
+          "s": "DAVE",
+          "t": "Then the case study itself is mostly quite standard; we begin by presenting the problem, and giving some background, then go through the main sections, but the thing that surprised me is that in a normal report we'd end with some suggestions to deal with the problem or need we identified, but in a case study we end up with a question or a series of questions to our readers, and they decide what ought to be done.",
+          "q": [
+            26
+          ],
+          "start": 222.72,
+          "end": 253.32
+        },
+        {
+          "s": "NATALIE",
+          "t": "Oh, I hadn't realised that.",
+          "start": 253.44,
+          "end": 256.04
+        },
+        {
+          "s": "NATALIE",
+          "t": "So basically, the problem we're addressing in our case study of the Horton Castle site is why so few tourists are visiting it. And we'll find out more from our interviews, but I did find one report on the internet that suggested that one reason might be because as far as transport goes, access is difficult.",
+          "start": 304.67,
+          "end": 326.11
+        },
+        {
+          "s": "DAVE",
+          "t": "I read that too, but that report was actually written ten years ago, when the road there was really bad, but that's been improved now. And I think there's plenty of fascinating stuff there for a really good day out, but you'd never realise it from the castle website - maybe that's the problem.",
+          "q": [
+            27
+          ],
+          "start": 326.43,
+          "end": 347.75
+        },
+        {
+          "s": "NATALIE",
+          "t": "Yes, it's really dry and boring.",
+          "start": 347.91,
+          "end": 350.79
+        },
+        {
+          "s": "DAVE",
+          "t": "I read somewhere a suggestion that what the castle needs is a visitor centre. So we could have a look for some information about that on the internet. What would we need to know?",
+          "start": 351.47,
+          "end": 363.42
+        },
+        {
+          "s": "NATALIE",
+          "t": "Well, who'd use it for a start. It'd be good to know what categories the visitors fell into too, like school parties or retired people, but I think we'd have to talk to staff to get that information.",
+          "start": 364.9,
+          "end": 377.91
+        },
+        {
+          "s": "DAVE",
+          "t": "OK. And as we're thinking of suggesting a visitor centre we'd also have to look at potential problems. I mean, obviously it wouldn't be cheap to set up.",
+          "start": 379.07,
+          "end": 389.11
+        },
+        {
+          "s": "NATALIE",
+          "t": "No, but it could be a really good investment. And as it's on a historical site it'd need to get special planning permission, I expect. That might be hard.",
+          "q": [
+            28
+          ],
+          "start": 389.72,
+          "end": 399.56
+        },
+        {
+          "s": "DAVE",
+          "t": "Right, especially as the only possible place for it would be at the entrance, and that's right in front of the castle.",
+          "start": 400.16,
+          "end": 407.0
+        },
+        {
+          "s": "NATALIE",
+          "t": "Mmm.",
+          "start": 407.0,
+          "end": 407.0,
+          "estimated": true
+        },
+        {
+          "s": "DAVE",
+          "t": "But it could be a good thing for the town of Horton. At present it's a bit of a ghost town. Once they've left school and got any skills or qualifications, the young people all get out as fast as they can to get jobs in the city, and the only people left are children and those who've retired.",
+          "q": [
+            29
+          ],
+          "start": 408.61,
+          "end": 428.68
+        },
+        {
+          "s": "NATALIE",
+          "t": "Right. Something else we could investigate would be the potential damage that tourists might cause to the castle site, I mean their environmental impact. At present the tourists can just wander round wherever they want, but if numbers increase, there might have to be some restrictions, like sticking to marked ways. And there'd need to be guides and wardens around to make sure these were enforced.",
+          "q": [
+            30
+          ],
+          "start": 429.0,
+          "end": 455.63
+        },
+        {
+          "s": "DAVE",
+          "t": "Yes, we could look at that too. OK, well...",
+          "start": 456.32,
+          "end": 460.24
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c12/t3p4.mp3",
+      "duration": 0,
+      "title": "The effects of environmental change on birds",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "The effects of environmental change on birds",
+          "lines": [
+            "## Mercury (Hg)",
+            "Highly toxic",
+            "Released into the atmosphere from coal",
+            "In water it may be consumed by fish",
+            "It has also recently been found to affect birds which feed on {{31}}",
+            "## Research on effects of mercury on birds",
+            "Claire Varian-Ramos is investigating:",
+            "the effects on birds' {{32}} or mental processes, e.g. memory",
+            "the effects on bird song (usually learned from a bird's {{33}})",
+            "Findings:",
+            "songs learned by birds exposed to mercury are less {{34}}",
+            "this may have a negative effect on birds' {{35}}",
+            "Lab-based studies:",
+            "allow more {{36}} for the experimenter",
+            "## Implications for humans",
+            "Migrating birds such as {{37}} containing mercury may be eaten by humans",
+            "Mercury also causes problems in learning {{38}}",
+            "Mercury in a mother's body from {{39}} may affect the unborn child",
+            "New regulations for mercury emissions will affect everyone's energy {{40}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LECTURER",
+          "t": "OK, so we've been looking at how man-made changes in our environment can affect wildlife. Now I'll discuss a particular example. Let's take a look at mercury. Mercury's one of the 120 or so elements that make up all matter, and it has the symbol Hg. It's a shiny, silvery substance. You may have seen it in old-fashioned thermometers, but it's not used much for domestic purposes now because it's highly toxic."
+        },
+        {
+          "s": "LECTURER",
+          "t": "But the problem is that the amount of mercury in the environment's increasing. The main reason for this is the power plants used to produce electricity. The main source of energy that most of them use is still coal, and when it's burned it releases mercury into the atmosphere."
+        },
+        {
+          "s": "LECTURER",
+          "t": "Some of this gets deposited into lakes and rivers, and if it's ingested by a fish it's not excreted, it stays in the fish's body and it enters the food chain. So it's been known for some time that birds which eat fish may be affected, but what wasn't known until quite recently is that those that eat insects can also be affected.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "LECTURER",
+          "t": "So a woman called Claire Varian-Ramos is doing some research on how this is affecting birds."
+        },
+        {
+          "s": "LECTURER",
+          "t": "And rather than looking at how many birds are actually killed by mercury poisoning, she's looking for more subtle sub-effects. And these may be to do with the behaviour of the birds, or with the effect of mercury on the way their brain works, so whether it leads to problems with memory, for example.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "LECTURER",
+          "t": "And she's particularly focusing on the effects of mercury on bird song. Now, the process of song learning happens at a particular stage in the birds' development, and what you may not know is that a young bird seems to acquire this skill by listening to the songs produced by its father, rather than by any other bird.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "LECTURER",
+          "t": "And Varian-Ramos has already found in her research that if young male birds are exposed to mercury, if they eat food contaminated with mercury, then the songs they produce aren't as complex as those produced by other birds.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "LECTURER",
+          "t": "So quite low-level exposure to mercury is likely to have an impact on male birds in a natural situation, because it can mean that they're less attractive to female birds, and so it can affect their chances of reproduction.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "LECTURER",
+          "t": "Now the way she's carrying out this research is worth thinking about. She's using a mixture of studies using birds kept in laboratories, and studies carried out outdoors in the wild. The lab-based studies have the advantage that you don't get all the variables you would in a natural setting, so the experimenter has a much higher level of control, and that means they can be more confident about their results in some ways.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "LECTURER",
+          "t": "And of course they don't have to worry about going out and finding the birds in order to observe them."
+        },
+        {
+          "s": "LECTURER",
+          "t": "So what are the implications here for humans? Well, because many birds are migratory, they may be transporting mercury far from contaminated sites. For example, it's been found that ducks who'd been feeding at a contaminated site were later shot by hunters over a thousand kilometres away, and presumably eaten. But these birds likely had mercury levels high enough to warrant concern for human consumption.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "LECTURER",
+          "t": "In addition, going back to song learning by birds, we saw that this may be affected by mercury contamination. Well, we also know that in humans, mercury causes developmental delays in the acquisition of language, and in fact this process is very similar in the brain regions it involves and even the genes that are involved.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "LECTURER",
+          "t": "But mercury contamination has other important implications for humans as well. It's now known that an unborn child can be affected if the food eaten by its mother contains high levels of mercury, and these effects can be quite substantial.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "LECTURER",
+          "t": "In the end, it comes down to whether more value is placed on human economic wellbeing or environmental wellbeing. It's true there are new regulations for mercury emissions from power plants, but these will need billions of dollars to implement, and increase costs for everyone.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "LECTURER",
+          "t": "Some argue that's too much to pay to protect wildlife. But as we've seen, the issues go beyond that, and I think it's an issue we need to consider very carefully."
+        }
+      ]
+    }
+  ]
+}
