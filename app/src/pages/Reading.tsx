@@ -4,6 +4,7 @@ import AnswerSheet from "../components/AnswerSheet";
 import QuestionGroup from "../components/QuestionGroup";
 import AiPanel from "../components/AiPanel";
 import ErrorBookModal from "../components/ErrorBookModal";
+import IssueModal from "../components/IssueModal";
 import { fmtClock, useTimer } from "../components/useTimer";
 import { paperUrl, useJson } from "../services/data";
 import { grade, toBand } from "../services/scoring";
@@ -30,6 +31,7 @@ export default function Reading() {
   const [analysis, setAnalysis] = useState<{ n: number; data: ReadingAnalysis | null } | null>(null);
   const [locatedPara, setLocatedPara] = useState<string | null>(null);
   const [ebItem, setEbItem] = useState<QuestionResult | null>(null);
+  const [issueItem, setIssueItem] = useState<QuestionResult | null>(null);
   const [toast, setToast] = useState("");
   const [tool, setTool] = useState<"highlight" | "note" | "dict">("highlight");
   const leftRef = useRef<HTMLDivElement>(null);
@@ -208,6 +210,7 @@ export default function Reading() {
                   <span style={{ marginLeft: 10 }}>
                     <button className="btn sm" onClick={() => analyze(n)}>✨ {results.find((r) => r.n === n)?.ok ? "看解析" : "错因分析"}</button>
                     {!results.find((r) => r.n === n)?.ok && <button className="btn sm" style={{ marginLeft: 6 }} onClick={() => setEbItem(results.find((r) => r.n === n)!)}>+ 错题本</button>}
+                    <button className="btn sm" style={{ marginLeft: 6 }} title="题目或答案有误，记下来" onClick={() => setIssueItem(results.find((r) => r.n === n)!)}>⚑ 报错</button>
                   </span>
                 ) : null}
               />
@@ -247,6 +250,13 @@ export default function Reading() {
         </div>
       </div>
 
+      {issueItem && (
+        <IssueModal
+          item={{ id: `reading.${id}.${issueItem.n}`, module: "reading", paperId: id, paperTitle: paper.title, n: issueItem.n, text: qText(issueItem.n), correct: issueItem.correct }}
+          onDone={() => { setIssueItem(null); setToast("已记录报错，可在错题本页复制全部报错"); }}
+          onClose={() => setIssueItem(null)}
+        />
+      )}
       {ebItem && (
         <ErrorBookModal
           item={{ id: `reading.${id}.${ebItem.n}`, module: "reading", paperId: id, paperTitle: paper.title, n: ebItem.n, text: qText(ebItem.n), user: ebItem.user, correct: ebItem.correct }}

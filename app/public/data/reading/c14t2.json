@@ -1,0 +1,755 @@
+{
+  "id": "c14t2",
+  "book": "剑桥雅思14",
+  "test": 2,
+  "title": "剑14 Test 2 · Reading",
+  "minutes": 60,
+  "passages": [
+    {
+      "n": 1,
+      "title": "Alexander Henderson (1831-1913)",
+      "subtitle": "Born in Scotland, Henderson emigrated to Canada in 1855 and became a well-known landscape photographer",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Alexander Henderson was born in Scotland in 1831 and was the son of a successful merchant. His grandfather, also called Alexander, had founded the family business, and later became the first chairman of the National Bank of Scotland. The family had extensive landholdings in Scotland. Besides its residence in Edinburgh, it owned Press Estate, 650 acres of farmland about 35 miles southeast of the city. The family often stayed at Press Castle, the large mansion on the northern edge of the property, and Alexander spent much of his childhood in the area, playing on the beach near Eyemouth or fishing in the streams nearby."
+        },
+        {
+          "id": "p2",
+          "text": "Even after he went to school at Murcheston Academy on the outskirts of Edinburgh, Henderson returned to Press at weekends. In 1849 he began a three-year apprenticeship to become an accountant. Although he never liked the prospect of a business career, he stayed with it to please his family. In October 1855, however, he emigrated to Canada with his wife Agnes Elder Robertson and they settled in Montreal."
+        },
+        {
+          "id": "p3",
+          "text": "Henderson learned photography in Montreal around the year 1857 and quickly took it up as a serious amateur. He became a personal friend and colleague of the Scottish-Canadian photographer William Notman. The two men made a photographic excursion to Niagara Falls in 1860 and they cooperated on experiments with magnesium flares as a source of artificial light in 1865. They belonged to the same societies and were among the founding members of the Art Association of Montreal. Henderson acted as chairman of the association's first meeting, which was held in Notman's studio on 11 January 1860."
+        },
+        {
+          "id": "p4",
+          "text": "In spite of their friendship, their styles of photography were quite different. While Notman's landscapes were noted for their bold realism, Henderson for the first 20 years of his career produced romantic images, showing the strong influence of the British landscape tradition. His artistic and technical progress was rapid and in 1865 he published his first major collection of landscape photographs. The publication had limited circulation (only seven copies have ever been found), and was called Canadian Views and Studies. The contents of each copy vary significantly and have proved a useful source for evaluating Henderson's early work."
+        },
+        {
+          "id": "p5",
+          "text": "In 1866, he gave up his business to open a photographic studio, advertising himself as a portrait and landscape photographer. From about 1870 he dropped portraiture to specialize in landscape photography and other views. His numerous photographs of city life revealed in street scenes, houses, and markets are alive with human activity, and although his favourite subject was landscape he usually composed his scenes around such human pursuits as farming the land, cutting ice on a river, or sailing down a woodland stream. There was sufficient demand for these types of scenes and others he took depicting the lumber trade, steamboats and waterfalls to enable him to make a living. There was little competing hobby or amateur photography before the late 1880s because of the time-consuming techniques involved and the weight of the equipment. People wanted to buy photographs as souvenirs of a trip or as gifts, and catering to this market, Henderson had stock photographs on display at his studio for mounting, framing, or inclusion in albums."
+        },
+        {
+          "id": "p6",
+          "text": "Henderson frequently exhibited his photographs in Montreal and abroad, in London, Edinburgh, Dublin, Paris, New York, and Philadelphia. He met with greater success in 1877 and 1878 in New York when he won first prizes in the exhibition held by E and H T Anthony and Company for landscapes using the Lambertype process. In 1878 his work won second prize at the world exhibition in Paris."
+        },
+        {
+          "id": "p7",
+          "text": "In the 1870s and 1880s Henderson travelled widely throughout Quebec and Ontario, in Canada, documenting the major cities of the two provinces and many of the villages in Quebec. He was especially fond of the wilderness and often travelled by canoe on the Blanche, du Lievre, and other noted eastern rivers. He went on several occasions to the Maritimes and in 1872 he sailed by yacht along the lower north shore of the St Lawrence River. That same year, while in the lower St Lawrence River region, he took some photographs of the construction of the Intercolonial Railway. This undertaking led in 1875 to a commission from the railway to record the principal structures along the almost-completed line connecting Montreal to Halifax. Commissions from other railways followed. In 1876 he photographed bridges on the Quebec, Montreal, Ottawa and Occidental Railway between Montreal and Ottawa. In 1885 he went west along the Canadian Pacific Railway (CPR) as far as Rogers Pass in British Columbia, where he took photographs of the mountains and the progress of construction."
+        },
+        {
+          "id": "p8",
+          "text": "In 1892 Henderson accepted a full-time position with the CPR as manager of a photographic department which he was to set up and administer. His duties included spending four months in the field each year. That summer he made his second trip west, photographing extensively along the railway line as far as Victoria. He continued in this post until 1897, when he retired completely from photography."
+        },
+        {
+          "id": "p9",
+          "text": "When Henderson died in 1913, his huge collection of glass negatives was stored in the basement of his house. Today collections of his work are held at the National Archives of Canada, Ottawa, and the McCord Museum of Canadian History, Montreal."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            8
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "Henderson rarely visited the area around Press estate when he was younger."
+            },
+            {
+              "n": 2,
+              "text": "Henderson pursued a business career because it was what his family wanted."
+            },
+            {
+              "n": 3,
+              "text": "Henderson and Notman were surprised by the results of their 1865 experiment."
+            },
+            {
+              "n": 4,
+              "text": "There were many similarities between Henderson's early landscapes and those of Notman."
+            },
+            {
+              "n": 5,
+              "text": "The studio that Henderson opened in 1866 was close to his home."
+            },
+            {
+              "n": 6,
+              "text": "Henderson gave up portraiture so that he could focus on taking photographs of scenery."
+            },
+            {
+              "n": 7,
+              "text": "When Henderson began work for the Intercolonial Railway, the Montreal to Halifax line had been finished."
+            },
+            {
+              "n": 8,
+              "text": "Henderson's last work as a photographer was with the Canadian Pacific Railway."
+            }
+          ]
+        },
+        {
+          "range": [
+            9,
+            13
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Alexander Henderson",
+          "lines": [
+            "## Early life",
+            "was born in Scotland in 1831 - father was a {{9}}",
+            "trained as an accountant, emigrated to Canada in 1855",
+            "## Start of a photographic career",
+            "opened up a photographic studio in 1866",
+            "took photos of city life, but preferred landscape photography",
+            "people bought Henderson's photos because photography took up considerable time and the {{10}} was heavy",
+            "the photographs Henderson sold were {{11}} or souvenirs",
+            "## Travelling as a professional photographer",
+            "travelled widely in Quebec and Ontario in 1870s and 1880s",
+            "took many trips along eastern rivers in a {{12}}",
+            "worked for Canadian railways between 1875 and 1897",
+            "worked for CPR in 1885 and photographed the {{13}} and the railway at Rogers Pass"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Back to the future of skyscraper design",
+      "subtitle": "Answers to the problem of excessive electricity use by skyscrapers and large public buildings can be found in ingenious but forgotten architectural designs of the 19th and early-20th centuries",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "label": "A",
+          "text": "The Recovery of Natural Environments in Architecture by Professor Alan Short is the culmination of 30 years of research and award-winning green building design by Short and colleagues in Architecture, Engineering, Applied Maths and Earth Sciences at the University of Cambridge.\n'The crisis in building design is already here,' said Short. 'Policy makers think you can solve energy and building problems with gadgets. You can't. As global temperatures continue to rise, we are going to continue to squander more and more energy on keeping our buildings mechanically cool until we have run out of capacity.'"
+        },
+        {
+          "id": "p2",
+          "label": "B",
+          "text": "Short is calling for a sweeping reinvention of how skyscrapers and major public buildings are designed - to end the reliance on sealed buildings which exist solely via the 'life support' system of vast air conditioning units.\nInstead, he shows it is entirely possible to accommodate natural ventilation and cooling in large buildings by looking into the past, before the widespread introduction of air conditioning systems, which were 'relentlessly and aggressively marketed' by their inventors."
+        },
+        {
+          "id": "p3",
+          "label": "C",
+          "text": "Short points out that to make most contemporary buildings habitable, they have to be sealed and air conditioned. The energy use and carbon emissions this generates is spectacular and largely unnecessary. Buildings in the West account for 40-50% of electricity usage, generating substantial carbon emissions, and the rest of the world is catching up at a frightening rate. Short regards glass, steel and air-conditioned skyscrapers as symbols of status, rather than practical ways of meeting our requirements."
+        },
+        {
+          "id": "p4",
+          "label": "D",
+          "text": "Short's book highlights a developing and sophisticated art and science of ventilating buildings through the 19th and earlier-20th centuries, including the design of ingeniously ventilated hospitals. Of particular interest were those built to the designs of John Shaw Billings, including the first Johns Hopkins Hospital in the US city of Baltimore (1873-1889).\n'We spent three years digitally modelling Billings' final designs,' says Short. 'We put pathogens in the airstreams, modelled for someone with tuberculosis (TB) coughing in the wards and we found the ventilation systems in the room would have kept other patients safe from harm."
+        },
+        {
+          "id": "p5",
+          "label": "E",
+          "text": "'We discovered that 19th-century hospital wards could generate up to 24 air changes an hour - that's similar to the performance of a modern-day, computer-controlled operating theatre. We believe you could build wards based on these principles now. Single rooms are not appropriate for all patients. Communal wards appropriate for certain patients - older people with dementia, for example - would work just as well in today's hospitals, at a fraction of the energy cost.'\nProfessor Short contends the mindset and skill-sets behind these designs have been completely lost, lamenting the disappearance of expertly designed theatres, opera houses, and other buildings where up to half the volume of the building was given over to ensuring everyone got fresh air."
+        },
+        {
+          "id": "p6",
+          "label": "F",
+          "text": "Much of the ingenuity present in 19th-century hospital and building design was driven by a panicked public clamouring for buildings that could protect against what was thought to be the lethal threat of miasmas - toxic air that spread disease.\nMiasmas were feared as the principal agents of disease and epidemics for centuries, and were used to explain the spread of infection from the Middle Ages right through to the cholera outbreaks in London and Paris during the 1850s. Foul air, rather than germs, was believed to be the main driver of 'hospital fever', leading to disease and frequent death. The prosperous steered clear of hospitals.\nWhile miasma theory has been long since disproved, Short has for the last 30 years advocated a return to some of the building design principles produced in its wake."
+        },
+        {
+          "id": "p7",
+          "label": "G",
+          "text": "Today, huge amounts of a building's space and construction cost are given over to air conditioning. 'But I have designed and built a series of buildings over the past three decades which have tried to reinvent some of these ideas and then measure what happens.\nTo go forward into our new low-energy, low-carbon future, we would be well advised to look back at design before our high-energy, high-carbon present appeared. What is surprising is what a rich legacy we have abandoned.'"
+        },
+        {
+          "id": "p8",
+          "label": "H",
+          "text": "Successful examples of Short's approach include the Queen's Building at De Montfort University in Leicester. Containing as many as 2,000 staff and students, the entire building is naturally ventilated, passively cooled and naturally lit, including the two largest auditoria, each seating more than 150 people. The award-winning building uses a fraction of the electricity of comparable buildings in the UK.\nShort contends that glass skyscrapers in London and around the world will become a liability over the next 20 or 30 years if climate modelling predictions and energy price rises come to pass as expected."
+        },
+        {
+          "id": "p9",
+          "label": "I",
+          "text": "He is convinced that sufficiently cooled skyscrapers using the natural environment can be produced in almost any climate. He and his team have worked on hybrid buildings in the harsh climates of Beijing and Chicago - built with natural ventilation assisted by back-up air conditioning - which, surprisingly perhaps, can be switched off more than half the time on milder days and during the spring and autumn.\nShort looks at how we might reimagine the cities, offices and homes of the future. Maybe it's time we changed our outlook."
+        }
+      ],
+      "footnotes": [
+        "* pathogens: microorganisms that can cause disease"
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            18
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has nine sections, A-I. Which section contains the following information?",
+          "limit": "Write the correct letter, A-I, in boxes 14-18 on your answer sheet.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "why some people avoided hospitals in the 19th century"
+            },
+            {
+              "n": 15,
+              "text": "a suggestion that the popularity of tall buildings is linked to prestige"
+            },
+            {
+              "n": 16,
+              "text": "a comparison between the circulation of air in a 19th-century building and modern standards"
+            },
+            {
+              "n": 17,
+              "text": "how Short tested the circulation of air in a 19th-century building"
+            },
+            {
+              "n": 18,
+              "text": "an implication that advertising led to the large increase in the use of air conditioning"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            26
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Ventilation in 19th-century hospital wards",
+          "text": "Professor Alan Short examined the work of John Shaw Billings, who influenced the architectural {{19}} of hospitals to ensure they had good ventilation. He calculated that {{20}} in the air coming from patients suffering from {{21}} would not have harmed other patients. He also found that the air in {{22}} in hospitals could change as often as in a modern operating theatre. He suggests that energy use could be reduced by locating more patients in {{23}} areas.\n\nA major reason for improving ventilation in 19th-century hospitals was the demand from the {{24}} for protection against bad air, known as {{25}}. These were blamed for the spread of disease for hundreds of years, including epidemics of {{26}} in London and Paris in the middle of the 19th century."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Why companies should welcome disorder",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 on pages 47 and 48.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "label": "A",
+          "text": "Organisation is big business. Whether it is of our lives - all those inboxes and calendars - or how companies are structured, a multi-billion dollar industry helps to meet this need. We have more strategies for time management, project management and self-organisation than at any other time in human history. We are told that we ought to organise our company, our home life, our week, our day and even our sleep, all as a means to becoming more productive. Every week, countless seminars and workshops take place around the world to tell a paying public that they ought to structure their lives in order to achieve this.\nThis rhetoric has also crept into the thinking of business leaders and entrepreneurs, much to the delight of self-proclaimed perfectionists with the need to get everything right. The number of business schools and graduates has massively increased over the past 50 years, essentially teaching people how to organise well."
+        },
+        {
+          "id": "p2",
+          "label": "B",
+          "text": "Ironically, however, the number of businesses that fail has also steadily increased. Work-related stress has increased. A large proportion of workers from all demographics claim to be dissatisfied with the way their work is structured and the way they are managed. This begs the question: what has gone wrong? Why is it that on paper the drive for organisation seems a sure shot for increasing productivity, but in reality falls well short of what is expected?"
+        },
+        {
+          "id": "p3",
+          "label": "C",
+          "text": "This has been a problem for a while now. Frederick Taylor was one of the forefathers of scientific management. Writing in the first half of the 20th century, he designed a number of principles to improve the efficiency of the work process, which have since become widespread in modern companies. So the approach has been around for a while."
+        },
+        {
+          "id": "p4",
+          "label": "D",
+          "text": "New research suggests that this obsession with efficiency is misguided. The problem is not necessarily the management theories or strategies we use to organise our work; it's the basic assumptions we hold in approaching how we work. Here it's the assumption that order is a necessary condition for productivity. This assumption has also fostered the idea that disorder must be detrimental to organisational productivity. The result is that businesses and people spend time and money organising themselves for the sake of organising, rather than actually looking at the end goal and usefulness of such an effort."
+        },
+        {
+          "id": "p5",
+          "label": "E",
+          "text": "What's more, recent studies show that order actually has diminishing returns. Order does increase productivity to a certain extent, but eventually the usefulness of the process of organisation, and the benefit it yields, reduce until the point where any further increase in order reduces productivity. Some argue that in a business, if the cost of formally structuring something outweighs the benefit of doing it, then that thing ought not to be formally structured. Instead, the resources involved can be better used elsewhere."
+        },
+        {
+          "id": "p6",
+          "label": "F",
+          "text": "In fact, research shows that, when innovating, the best approach is to create an environment devoid of structure and hierarchy and enable everyone involved to engage as one organic group. These environments can lead to new solutions that, under conventionally structured environments (filled with bottlenecks in terms of information flow, power structures, rules, and routines) would never be reached."
+        },
+        {
+          "id": "p7",
+          "label": "G",
+          "text": "In recent times companies have slowly started to embrace this disorganisation. Many of them embrace it in terms of perception (embracing the idea of disorder, as opposed to fearing it) and in terms of process (putting mechanisms in place to reduce structure). For example, Oticon, a large Danish manufacturer of hearing aids, used what it called a 'spaghetti' structure in order to reduce the organisation's rigid hierarchies. This involved scrapping formal job titles and giving staff huge amounts of ownership over their own time and projects. This approach proved to be highly successful initially, with clear improvements in worker productivity in all facets of the business.\nIn similar fashion, the former chairman of General Electric embraced disorganisation, putting forward the idea of the 'boundaryless' organisation. Again, it involves breaking down the barriers between different parts of a company and encouraging virtual collaboration and flexible working. Google and a number of other tech companies have embraced (at least in part) these kinds of flexible structures, facilitated by technology and strong company values which glue people together."
+        },
+        {
+          "id": "p8",
+          "label": "H",
+          "text": "A word of warning to others thinking of jumping on this bandwagon: the evidence so far suggests disorder, much like order, also seems to have diminishing utility, and can also have detrimental effects on performance if overused. Like order, disorder should be embraced only so far as it is useful. But we should not fear it - nor venerate one over the other.\nThis research also shows that we should continually question whether or not our existing assumptions work."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            34
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 3 has eight sections, A-H. Choose the correct heading for each section from the list of headings below.",
+          "limit": "Write the correct number, i-ix, in boxes 27-34 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "Complaints about the impact of a certain approach"
+            },
+            {
+              "k": "ii",
+              "text": "Fundamental beliefs that are in fact incorrect"
+            },
+            {
+              "k": "iii",
+              "text": "Early recommendations concerning business activities"
+            },
+            {
+              "k": "iv",
+              "text": "Organisations that put a new approach into practice"
+            },
+            {
+              "k": "v",
+              "text": "Companies that have suffered from changing their approach"
+            },
+            {
+              "k": "vi",
+              "text": "What people are increasingly expected to do"
+            },
+            {
+              "k": "vii",
+              "text": "How to achieve outcomes that are currently impossible"
+            },
+            {
+              "k": "viii",
+              "text": "Neither approach guarantees continuous improvement"
+            },
+            {
+              "k": "ix",
+              "text": "Evidence that a certain approach can have more disadvantages than advantages"
+            }
+          ],
+          "itemsTitle": "Sections",
+          "items": [
+            {
+              "n": 27,
+              "text": "Section A"
+            },
+            {
+              "n": 28,
+              "text": "Section B"
+            },
+            {
+              "n": 29,
+              "text": "Section C"
+            },
+            {
+              "n": 30,
+              "text": "Section D"
+            },
+            {
+              "n": 31,
+              "text": "Section E"
+            },
+            {
+              "n": 32,
+              "text": "Section F"
+            },
+            {
+              "n": 33,
+              "text": "Section G"
+            },
+            {
+              "n": 34,
+              "text": "Section H"
+            }
+          ]
+        },
+        {
+          "range": [
+            35,
+            37
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "lines": [
+            "Numerous training sessions are aimed at people who feel they are not {{35}} enough.",
+            "Being organised appeals to people who regard themselves as {{36}}.",
+            "Many people feel {{37}} with aspects of their work."
+          ]
+        },
+        {
+          "range": [
+            38,
+            40
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 38,
+              "text": "Both businesses and people aim at order without really considering its value."
+            },
+            {
+              "n": 39,
+              "text": "Innovation is most successful if the people involved have distinct roles."
+            },
+            {
+              "n": 40,
+              "text": "Google was inspired to adopt flexibility by the success of General Electric."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "FALSE"
+    ],
+    "2": [
+      "TRUE"
+    ],
+    "3": [
+      "NOT GIVEN"
+    ],
+    "4": [
+      "FALSE"
+    ],
+    "5": [
+      "NOT GIVEN"
+    ],
+    "6": [
+      "TRUE"
+    ],
+    "7": [
+      "FALSE"
+    ],
+    "8": [
+      "TRUE"
+    ],
+    "9": [
+      "merchant"
+    ],
+    "10": [
+      "equipment"
+    ],
+    "11": [
+      "gifts"
+    ],
+    "12": [
+      "canoe"
+    ],
+    "13": [
+      "mountains"
+    ],
+    "14": [
+      "F"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "E"
+    ],
+    "17": [
+      "D"
+    ],
+    "18": [
+      "B"
+    ],
+    "19": [
+      "design(s)",
+      "design",
+      "designs"
+    ],
+    "20": [
+      "pathogens"
+    ],
+    "21": [
+      "tuberculosis"
+    ],
+    "22": [
+      "wards"
+    ],
+    "23": [
+      "communal"
+    ],
+    "24": [
+      "public"
+    ],
+    "25": [
+      "miasmas"
+    ],
+    "26": [
+      "cholera"
+    ],
+    "27": [
+      "vi"
+    ],
+    "28": [
+      "i"
+    ],
+    "29": [
+      "iii"
+    ],
+    "30": [
+      "ii"
+    ],
+    "31": [
+      "ix"
+    ],
+    "32": [
+      "vii"
+    ],
+    "33": [
+      "iv"
+    ],
+    "34": [
+      "viii"
+    ],
+    "35": [
+      "productive"
+    ],
+    "36": [
+      "perfectionists"
+    ],
+    "37": [
+      "dissatisfied"
+    ],
+    "38": [
+      "TRUE"
+    ],
+    "39": [
+      "FALSE"
+    ],
+    "40": [
+      "NOT GIVEN"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p2",
+      "key": "Henderson returned to Press at weekends.",
+      "why": "题干说他年轻时很少去 Press，但原文说他上学后仍每个周末回 Press，与题干矛盾，故为 FALSE。"
+    },
+    "2": {
+      "loc": "p2",
+      "key": "Although he never liked the prospect of a business career, he stayed with it to please his family.",
+      "why": "原文明确说他为了取悦家人才留在会计行业，与题干一致，故为 TRUE。"
+    },
+    "3": {
+      "loc": "p3",
+      "key": "they cooperated on experiments with magnesium flares as a source of artificial light in 1865",
+      "why": "原文只提到两人合作做了镁光灯实验，没有说他们对结果是否感到惊讶，故为 NOT GIVEN。"
+    },
+    "4": {
+      "loc": "p4",
+      "key": "their styles of photography were quite different",
+      "why": "原文说两人风格差异很大，与题干说的“很多相似之处”矛盾，故为 FALSE。"
+    },
+    "5": {
+      "loc": "p5",
+      "key": "In 1866, he gave up his business to open a photographic studio",
+      "why": "原文只说 1866 年他开了照相馆，没有提到照相馆是否离家近，故为 NOT GIVEN。"
+    },
+    "6": {
+      "loc": "p5",
+      "key": "From about 1870 he dropped portraiture to specialize in landscape photography",
+      "why": "原文说他放弃肖像摄影专攻风景摄影，与题干一致，故为 TRUE。"
+    },
+    "7": {
+      "loc": "p7",
+      "key": "a commission from the railway to record the principal structures along the almost-completed line connecting Montreal to Halifax",
+      "why": "原文说铁路线当时“接近完工”（almost-completed），并非已经完工，与题干矛盾，故为 FALSE。"
+    },
+    "8": {
+      "loc": "p8",
+      "key": "He continued in this post until 1897, when he retired completely from photography.",
+      "why": "原文说他在 CPR 的职位一直做到 1897 年才彻底退休，说明 CPR 工作是他摄影生涯的最后阶段，与题干一致，故为 TRUE。"
+    },
+    "9": {
+      "loc": "p1",
+      "key": "was the son of a successful merchant",
+      "why": "题干 father 对应原文 son of a successful merchant，空格填 merchant。"
+    },
+    "10": {
+      "loc": "p5",
+      "key": "the weight of the equipment",
+      "why": "题干 heavy 对应原文 the weight of the equipment，空格填 equipment。"
+    },
+    "11": {
+      "loc": "p5",
+      "key": "People wanted to buy photographs as souvenirs of a trip or as gifts",
+      "why": "题干后半句已给出 souvenirs，原文并列的另一项是 gifts，空格填 gifts。"
+    },
+    "12": {
+      "loc": "p7",
+      "key": "often travelled by canoe on the Blanche, du Lievre, and other noted eastern rivers",
+      "why": "原文明确说他乘独木舟（canoe）在东部河流旅行，空格填 canoe。"
+    },
+    "13": {
+      "loc": "p7",
+      "key": "he took photographs of the mountains and the progress of construction",
+      "why": "原文说他在 Rogers Pass 拍摄了山脉（mountains）和铁路施工进度，空格填 mountains。"
+    },
+    "14": {
+      "loc": "p6",
+      "key": "The prosperous steered clear of hospitals.",
+      "why": "F 段提到富裕阶层因惧怕“瘴气”而远离医院，对应题干“为什么有人在19世纪回避医院”。"
+    },
+    "15": {
+      "loc": "p3",
+      "key": "Short regards glass, steel and air-conditioned skyscrapers as symbols of status, rather than practical ways of meeting our requirements.",
+      "why": "C 段指出高楼被当作地位（status）的象征，对应题干“高楼的流行与身份地位有关”。"
+    },
+    "16": {
+      "loc": "p5",
+      "key": "19th-century hospital wards could generate up to 24 air changes an hour - that's similar to the performance of a modern-day, computer-controlled operating theatre",
+      "why": "E 段把19世纪病房的换气次数与现代手术室相比较，对应题干“19世纪建筑与现代标准的空气流通对比”。"
+    },
+    "17": {
+      "loc": "p4",
+      "key": "We spent three years digitally modelling Billings' final designs",
+      "why": "D 段说明 Short 团队用三年时间对 Billings 的设计进行数字建模测试通风效果，对应题干“Short 如何测试19世纪建筑的空气流通”。"
+    },
+    "18": {
+      "loc": "p2",
+      "key": "air conditioning systems, which were 'relentlessly and aggressively marketed' by their inventors",
+      "why": "B 段指出空调系统被发明者“大力营销”，暗示广告推动了空调的普及，对应题干。"
+    },
+    "19": {
+      "loc": "p4",
+      "key": "highlights a developing and sophisticated art and science of ventilating buildings ... including the design of ingeniously ventilated hospitals",
+      "why": "题干 architectural design(s) 对应原文 the design of ingeniously ventilated hospitals，空格填 design(s)。"
+    },
+    "20": {
+      "loc": "p4",
+      "key": "We put pathogens in the airstreams",
+      "why": "原文提到把病原体（pathogens）放入气流中做模拟实验，空格填 pathogens。"
+    },
+    "21": {
+      "loc": "p4",
+      "key": "modelled for someone with tuberculosis (TB) coughing in the wards",
+      "why": "原文提到模拟患有肺结核（tuberculosis）的病人咳嗽，空格填 tuberculosis。"
+    },
+    "22": {
+      "loc": "p5",
+      "key": "19th-century hospital wards could generate up to 24 air changes an hour",
+      "why": "题干“wards 中的空气”对应原文 hospital wards，空格填 wards。"
+    },
+    "23": {
+      "loc": "p5",
+      "key": "Communal wards appropriate for certain patients ... would work just as well in today's hospitals, at a fraction of the energy cost",
+      "why": "原文建议把更多病人安置在公共（communal）病房以降低能耗，空格填 communal。"
+    },
+    "24": {
+      "loc": "p6",
+      "key": "driven by a panicked public clamouring for buildings",
+      "why": "原文说改善通风的动力来自惊慌的公众（public）的诉求，空格填 public。"
+    },
+    "25": {
+      "loc": "p6",
+      "key": "protect against what was thought to be the lethal threat of miasmas",
+      "why": "原文明确提到被称为 miasmas 的“毒气”，空格填 miasmas。"
+    },
+    "26": {
+      "loc": "p6",
+      "key": "the cholera outbreaks in London and Paris during the 1850s",
+      "why": "原文提到伦敦和巴黎19世纪中叶的霍乱（cholera）疫情，空格填 cholera。"
+    },
+    "27": {
+      "loc": "p1",
+      "key": "we ought to organise our company, our home life, our week, our day and even our sleep, all as a means to becoming more productive",
+      "why": "A 段描述人们被要求不断组织生活以提高效率，对应标题 vi“人们被期望做得越来越多”。"
+    },
+    "28": {
+      "loc": "p2",
+      "key": "the number of businesses that fail has also steadily increased ... A large proportion of workers ... claim to be dissatisfied",
+      "why": "B 段列举了组织化带来的负面后果（失败率上升、员工不满），对应标题 i“对某种做法影响的抱怨”。"
+    },
+    "29": {
+      "loc": "p3",
+      "key": "Frederick Taylor was one of the forefathers of scientific management ... he designed a number of principles to improve the efficiency of the work process",
+      "why": "C 段介绍泰勒早期提出的科学管理原则，对应标题 iii“关于商业活动的早期建议”。"
+    },
+    "30": {
+      "loc": "p4",
+      "key": "This assumption has also fostered the idea that disorder must be detrimental to organisational productivity",
+      "why": "D 段指出“秩序才能带来效率”这一假设其实是错误的，对应标题 ii“实际上是错误的基本信念”。"
+    },
+    "31": {
+      "loc": "p5",
+      "key": "order actually has diminishing returns",
+      "why": "E 段提供证据说明秩序过度反而会降低效率，对应标题 ix“某种做法弊大于利的证据”。"
+    },
+    "32": {
+      "loc": "p6",
+      "key": "the best approach is to create an environment devoid of structure and hierarchy",
+      "why": "F 段说明要实现创新（此前不可能达到的成果），最好的办法是取消结构和层级，对应标题 vii“如何实现目前无法达成的结果”。"
+    },
+    "33": {
+      "loc": "p7",
+      "key": "Oticon ... used what it called a 'spaghetti' structure ... the former chairman of General Electric embraced disorganisation",
+      "why": "G 段列举了 Oticon、通用电气、谷歌等实际采用无序管理的公司，对应标题 iv“将新方法付诸实践的组织”。"
+    },
+    "34": {
+      "loc": "p8",
+      "key": "disorder, much like order, also seems to have diminishing utility, and can also have detrimental effects on performance if overused",
+      "why": "H 段指出无序和有序一样都不能保证持续改善，对应标题 viii“两种方法都不能保证持续改进”。"
+    },
+    "35": {
+      "loc": "p1",
+      "key": "Every week, countless seminars and workshops take place around the world to tell a paying public that they ought to structure their lives",
+      "why": "题干“感觉自己不够 ___ 的人”对应 A 段“becoming more productive”，空格填 productive。"
+    },
+    "36": {
+      "loc": "p1",
+      "key": "much to the delight of self-proclaimed perfectionists with the need to get everything right",
+      "why": "原文说组织化的说法尤其受“完美主义者”（perfectionists）欢迎，空格填 perfectionists。"
+    },
+    "37": {
+      "loc": "p2",
+      "key": "A large proportion of workers from all demographics claim to be dissatisfied with the way their work is structured",
+      "why": "原文说很多员工对工作方式感到不满（dissatisfied），空格填 dissatisfied。"
+    },
+    "38": {
+      "loc": "p4",
+      "key": "businesses and people spend time and money organising themselves for the sake of organising, rather than actually looking at the end goal and usefulness of such an effort",
+      "why": "原文说企业和个人为组织而组织，没有真正考虑其价值，与题干一致，故为 TRUE。"
+    },
+    "39": {
+      "loc": "p6",
+      "key": "the best approach is to create an environment devoid of structure and hierarchy and enable everyone involved to engage as one organic group",
+      "why": "原文说创新最好的环境是没有结构和层级、大家作为一个整体参与，而不是各自有明确角色，与题干矛盾，故为 FALSE。"
+    },
+    "40": {
+      "loc": "p7",
+      "key": "Google and a number of other tech companies have embraced (at least in part) these kinds of flexible structures",
+      "why": "原文只是分别提到通用电气和谷歌都采用了灵活结构，并未说谷歌是受通用电气的成功启发，故为 NOT GIVEN。"
+    }
+  }
+}

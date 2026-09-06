@@ -5,6 +5,7 @@ import AnswerSheet from "../components/AnswerSheet";
 import QuestionGroup from "../components/QuestionGroup";
 import AiPanel from "../components/AiPanel";
 import ErrorBookModal from "../components/ErrorBookModal";
+import IssueModal from "../components/IssueModal";
 import { fmtClock, useTimer } from "../components/useTimer";
 import { audioUrl, paperUrl, useIndex, useJson } from "../services/data";
 import { grade, toBand } from "../services/scoring";
@@ -26,6 +27,7 @@ export default function Listening() {
   const [locate, setLocate] = useState<{ n: number; data: ListeningLocate | null } | null>(null);
   const [showScript, setShowScript] = useState(false);
   const [ebItem, setEbItem] = useState<QuestionResult | null>(null);
+  const [issueItem, setIssueItem] = useState<QuestionResult | null>(null);
   const [toast, setToast] = useState("");
   const player = useRef<AudioHandle>(null);
   const attemptId = useRef<string>("");
@@ -142,6 +144,7 @@ export default function Listening() {
                     {!results.find((r) => r.n === n)?.ok && (
                       <button className="btn sm" style={{ marginLeft: 6 }} onClick={() => setEbItem(results.find((r) => r.n === n)!)}>+ 错题本</button>
                     )}
+                    <button className="btn sm" style={{ marginLeft: 6 }} title="题目或答案有误，记下来" onClick={() => setIssueItem(results.find((r) => r.n === n)!)}>⚑ 报错</button>
                   </span>
                 ) : null}
               />
@@ -203,6 +206,13 @@ export default function Listening() {
         </div>
       </div>
 
+      {issueItem && (
+        <IssueModal
+          item={{ id: `listening.${id}.${issueItem.n}`, module: "listening", paperId: id, paperTitle: paper.title, n: issueItem.n, text: qText(issueItem.n), correct: issueItem.correct }}
+          onDone={() => { setIssueItem(null); setToast("已记录报错，可在错题本页复制全部报错"); }}
+          onClose={() => setIssueItem(null)}
+        />
+      )}
       {ebItem && (
         <ErrorBookModal
           item={{ id: `listening.${id}.${ebItem.n}`, module: "listening", paperId: id, paperTitle: paper.title, n: ebItem.n, text: qText(ebItem.n), user: ebItem.user, correct: ebItem.correct }}

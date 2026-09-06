@@ -119,4 +119,16 @@ export type ErrorItem = {
   at: number;
 };
 
+export type Issue = {
+  id: string;
+  module: Attempt["module"];
+  paperId: string;
+  paperTitle: string;
+  n: number;
+  text: string;
+  correct: string[];
+  note: string;
+  at: number;
+};
+
 export type ExamMode = "paper" | "cbt" | "cbt-old";

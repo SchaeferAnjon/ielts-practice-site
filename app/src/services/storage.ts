@@ -1,9 +1,10 @@
-import type { Answers, Attempt, ErrorItem, ExamMode } from "../data/types";
+import type { Answers, Attempt, ErrorItem, ExamMode, Issue } from "../data/types";
 
 const K = {
   mode: "ielts.examMode",
   attempts: "ielts.attempts",
   errors: "ielts.errorBook",
+  issues: "ielts.issues",
   progress: (id: string) => `ielts.progress.${id}`,
   notes: (id: string) => `ielts.notes.${id}`,
   highlights: (id: string) => `ielts.highlights.${id}`,
@@ -58,6 +59,29 @@ export const storage = {
   },
   removeError: (id: string) => write(K.errors, storage.errors().filter((x) => x.id !== id)),
   hasError: (id: string) => storage.errors().some((x) => x.id === id),
+
+  issues: (): Issue[] => read<Issue[]>(K.issues, []),
+  addIssue: (i: Issue) => write(K.issues, [i, ...storage.issues().filter((x) => x.id !== i.id)]),
+  removeIssue: (id: string) => write(K.issues, storage.issues().filter((x) => x.id !== id)),
+  clearIssues: () => write(K.issues, []),
+
+  /** 导出所有本站数据（练习记录、错题本、进度、草稿、笔记、报错）为 JSON 字符串 */
+  exportAll: (): string => {
+    const out: Record<string, unknown> = {};
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (k && k.startsWith("ielts.")) out[k] = read(k, null);
+    }
+    return JSON.stringify({ app: "ielts-practice", version: 1, exportedAt: new Date().toISOString(), data: out }, null, 1);
+  },
+  /** 导入 exportAll 的结果；同名键覆盖，其余保留。返回导入的键数 */
+  importAll: (json: string): number => {
+    const obj = JSON.parse(json);
+    const data = (obj && obj.app === "ielts-practice" && obj.data) || obj;
+    let n = 0;
+    for (const [k, v] of Object.entries(data)) if (k.startsWith("ielts.")) { write(k, v); n++; }
+    return n;
+  },
 };
 
 export function uid(): string {

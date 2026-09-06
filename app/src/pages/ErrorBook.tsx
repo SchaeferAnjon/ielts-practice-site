@@ -1,7 +1,7 @@
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { Link } from "react-router-dom";
 import { storage } from "../services/storage";
-import type { ErrorItem } from "../data/types";
+import type { ErrorItem, Issue } from "../data/types";
 
 const MOD: Record<string, string> = { listening: "听力", reading: "阅读", writing: "写作", speaking: "口语" };
 
@@ -9,7 +9,26 @@ export default function ErrorBook() {
   const [items, setItems] = useState<ErrorItem[]>(() => storage.errors());
   const [mod, setMod] = useState("all");
   const [open, setOpen] = useState<ErrorItem | null>(null);
+  const [issues, setIssues] = useState<Issue[]>(() => storage.issues());
+  const [msg, setMsg] = useState("");
+  const fileRef = useRef<HTMLInputElement>(null);
   const list = items.filter((i) => mod === "all" || i.module === mod);
+  const issueText = () => issues.map((i) => `[${i.paperId} ${MOD[i.module]} Q${i.n}] 现答案 ${i.correct.join("/")}：${i.note}`).join("\n");
+  const copyIssues = async () => {
+    try { await navigator.clipboard.writeText(issueText()); setMsg("已复制全部报错，贴给维护者即可"); } catch { setMsg("复制失败，请手动选中下面的文字"); }
+  };
+  const exportData = () => {
+    const blob = new Blob([storage.exportAll()], { type: "application/json" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `ielts-data-${new Date().toISOString().slice(0, 10)}.json`;
+    a.click();
+    URL.revokeObjectURL(a.href);
+  };
+  const importData = async (f: File | undefined) => {
+    if (!f) return;
+    try { const n = storage.importAll(await f.text()); setItems(storage.errors()); setIssues(storage.issues()); setMsg(`已导入 ${n} 项数据`); } catch { setMsg("文件格式不对"); }
+  };
   return (
     <div className="wrap" style={{ paddingTop: 20 }}>
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 14 }}>
@@ -27,6 +46,36 @@ export default function ErrorBook() {
             <div className="foot"><span>{it.paperTitle}</span><span>{new Date(it.at).toLocaleDateString()}</span></div>
           </div>
         ))}
+      </div>
+      <div className="card" style={{ marginTop: 28, padding: 16 }}>
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 8 }}>
+          <h3 style={{ margin: 0 }}>题目报错 <span className="muted small">{issues.length} 条</span></h3>
+          <div style={{ display: "flex", gap: 8 }}>
+            <button className="btn sm" disabled={!issues.length} onClick={copyIssues}>复制全部报错</button>
+            <button className="btn sm" disabled={!issues.length} onClick={() => { storage.clearIssues(); setIssues([]); }}>清空</button>
+          </div>
+        </div>
+        {issues.length === 0 ? <div className="small muted" style={{ marginTop: 8 }}>做题提交后，发现题目或答案有误就点题旁的「⚑ 报错」，这里汇总，复制后发给维护者批量修。</div> : (
+          <ul style={{ margin: "10px 0 0", paddingLeft: 18, lineHeight: 1.8, fontSize: 13 }}>
+            {issues.map((i) => (
+              <li key={i.id}><b>{i.paperId}</b> {MOD[i.module]} 第 {i.n} 题 · 现答案 {i.correct.join(" / ")}：{i.note} <button className="review-btn" onClick={() => { storage.removeIssue(i.id); setIssues(storage.issues()); }}>删除</button></li>
+            ))}
+          </ul>
+        )}
+      </div>
+      <div className="card" style={{ marginTop: 16, padding: 16 }}>
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 8 }}>
+          <div>
+            <h3 style={{ margin: 0 }}>数据备份</h3>
+            <div className="small muted" style={{ marginTop: 4 }}>练习记录、错题本、做题进度、写作草稿、笔记都只存在这个浏览器里。换电脑或清缓存前先导出，在新设备导入即可续用。</div>
+          </div>
+          <div style={{ display: "flex", gap: 8 }}>
+            <button className="btn sm" onClick={exportData}>导出 JSON</button>
+            <button className="btn sm" onClick={() => fileRef.current?.click()}>导入 JSON</button>
+            <input ref={fileRef} type="file" accept="application/json" hidden onChange={(e) => { importData(e.target.files?.[0]); e.target.value = ""; }} />
+          </div>
+        </div>
+        {msg && <div className="small" style={{ marginTop: 8, color: "var(--ok)" }}>{msg}</div>}
       </div>
       {open && (
         <div className="mask" onClick={() => setOpen(null)}>
