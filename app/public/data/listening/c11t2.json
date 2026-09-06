@@ -1,0 +1,1775 @@
+{
+  "id": "c11t2",
+  "book": "剑桥雅思11",
+  "test": 2,
+  "title": "剑11 Test 2 · Listening",
+  "answers": {
+    "1": [
+      "hostel"
+    ],
+    "2": [
+      "Buckleigh"
+    ],
+    "3": [
+      "PE9 7QT"
+    ],
+    "4": [
+      "waiter"
+    ],
+    "5": [
+      "politics"
+    ],
+    "6": [
+      "cycling"
+    ],
+    "7": [
+      "cinema"
+    ],
+    "8": [
+      "disabled"
+    ],
+    "9": [
+      "4.30",
+      "4.30pm",
+      "4.30 pm",
+      "half past four"
+    ],
+    "10": [
+      "07788136711",
+      "07788 136711"
+    ],
+    "11": [
+      "A",
+      "B"
+    ],
+    "12": [
+      "A",
+      "B"
+    ],
+    "13": [
+      "B",
+      "D"
+    ],
+    "14": [
+      "B",
+      "D"
+    ],
+    "15": [
+      "C",
+      "E"
+    ],
+    "16": [
+      "C",
+      "E"
+    ],
+    "17": [
+      "G"
+    ],
+    "18": [
+      "D"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "F"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "B"
+    ],
+    "26": [
+      "B"
+    ],
+    "27": [
+      "A",
+      "D"
+    ],
+    "28": [
+      "A",
+      "D"
+    ],
+    "29": [
+      "C",
+      "E"
+    ],
+    "30": [
+      "C",
+      "E"
+    ],
+    "31": [
+      "social"
+    ],
+    "32": [
+      "factory"
+    ],
+    "33": [
+      "canal"
+    ],
+    "34": [
+      "bridge"
+    ],
+    "35": [
+      "box"
+    ],
+    "36": [
+      "screen"
+    ],
+    "37": [
+      "rubber"
+    ],
+    "38": [
+      "curved"
+    ],
+    "39": [
+      "curtains"
+    ],
+    "40": [
+      "international"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c11/t2p1.mp3",
+      "duration": 504,
+      "title": "Enquiry about joining Youth Council",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Enquiry about joining Youth Council",
+          "lines": [
+            "Example: Name: Roger Brown",
+            "Age: 18",
+            "Currently staying in a {{1}} during the week",
+            "Postal address: 17, {{2}} Street, Stamford, Lincs",
+            "Postcode: {{3}}",
+            "Occupation: student and part-time job as a {{4}}",
+            "Studying {{5}} (major subject) and history (minor subject)",
+            "Hobbies: does a lot of {{6}}, and is interested in the {{7}}",
+            "On Youth Council, wants to work with young people who are {{8}}",
+            "Will come to talk to the Elections Officer next Monday at {{9}} pm",
+            "Mobile number: {{10}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "CAROLINE",
+          "t": "Good Morning.",
+          "start": 144.14,
+          "end": 144.54
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Youth Council.",
+          "start": 144.74,
+          "end": 145.38
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Caroline speaking.",
+          "start": 145.66,
+          "end": 146.5
+        },
+        {
+          "s": "ROGER",
+          "t": "Oh, hello, I'm interested in standing for election to the Youth Council, and I was told to give you a call.",
+          "start": 146.82,
+          "end": 153.26
+        },
+        {
+          "s": "CAROLINE",
+          "t": "That's good.",
+          "start": 153.46,
+          "end": 154.26
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Could I have your name, please?",
+          "start": 154.74,
+          "end": 156.34
+        },
+        {
+          "s": "ROGER",
+          "t": "Yes, it's Roger Brown",
+          "start": 156.62,
+          "end": 158.42
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Thank you.",
+          "start": 159.21,
+          "end": 159.57
+        },
+        {
+          "s": "CAROLINE",
+          "t": "I'm Caroline, the Youth Council administrator So do you know much about what the Council does, Roger?",
+          "start": 160.41,
+          "end": 166.93
+        },
+        {
+          "s": "ROGER",
+          "t": "I've talked to Stephanie - I think she's the chair of the Council.",
+          "start": 167.45,
+          "end": 171.29
+        },
+        {
+          "s": "CAROLINE",
+          "t": "That's right.",
+          "start": 171.65,
+          "end": 172.33
+        },
+        {
+          "s": "ROGER",
+          "t": "And she told me a lot about it.",
+          "start": 172.57,
+          "end": 174.45
+        },
+        {
+          "s": "ROGER",
+          "t": "How it's a way for young people to discuss local issues, for example, and make suggestions to the town council.",
+          "start": 174.93,
+          "end": 181.15
+        },
+        {
+          "s": "ROGER",
+          "t": "That's what made me interested.",
+          "start": 181.71,
+          "end": 182.79
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Fine.",
+          "start": 183.27,
+          "end": 184.03
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Well let me take down some of your details.",
+          "start": 184.51,
+          "end": 186.87
+        },
+        {
+          "s": "CAROLINE",
+          "t": "First of all, how old are you?",
+          "start": 187.19,
+          "end": 189.79
+        },
+        {
+          "s": "CAROLINE",
+          "t": "You know the Council is for young people aged from 13 to 18?",
+          "start": 190.46,
+          "end": 194.3
+        },
+        {
+          "s": "ROGER",
+          "t": "I've just turned 18.",
+          "start": 194.58,
+          "end": 196.02
+        },
+        {
+          "s": "CAROLINE",
+          "t": "And where do you live, Roger?",
+          "start": 196.34,
+          "end": 198.18
+        },
+        {
+          "s": "ROGER",
+          "t": "Well, that's a bit complicated.",
+          "start": 198.94,
+          "end": 200.86
+        },
+        {
+          "s": "ROGER",
+          "t": "At the moment ｜'m looking for a flat to rent here, so I'm in a hostel from Monday to Friday.",
+          "q": [
+            1
+          ],
+          "start": 201.72,
+          "end": 207.84
+        },
+        {
+          "s": "ROGER",
+          "t": "I go back to my parents' place at the weekend.",
+          "start": 208.4,
+          "end": 210.52
+        },
+        {
+          "s": "CAROLINE",
+          "t": "OK, so where's the best place to send you some information about the Council?",
+          "start": 211.28,
+          "end": 215.84
+        },
+        {
+          "s": "ROGER",
+          "t": "Oh, to my parents' address, please.",
+          "start": 216.43,
+          "end": 218.11
+        },
+        {
+          "s": "ROGER",
+          "t": "That's 17, Buckleigh Street - B-U-C-K-L-E-I-G-H Street, Stamford, Lincolnshire, though you don't really need the county.",
+          "q": [
+            2
+          ],
+          "start": 218.75,
+          "end": 233.98
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Oh, I know Stamford - it's a lovely town.And what's the postcode?",
+          "start": 234.3,
+          "end": 239.52
+        },
+        {
+          "s": "ROGER",
+          "t": "PE9 7QT",
+          "q": [
+            3
+          ],
+          "start": 239.52,
+          "end": 239.52,
+          "estimated": true
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Right, thank you.",
+          "start": 244.28,
+          "end": 245.92
+        },
+        {
+          "s": "CAROLINE",
+          "t": "So are you working here, or are you a student?",
+          "start": 246.76,
+          "end": 249.56
+        },
+        {
+          "s": "ROGER",
+          "t": "I started studying at the university a couple of weeks ago, and I've got a part-time job for a few hours a week.",
+          "start": 250.25,
+          "end": 256.49
+        },
+        {
+          "s": "CAROLINE",
+          "t": "What do you do?",
+          "start": 256.97,
+          "end": 257.57
+        },
+        {
+          "s": "ROGER",
+          "t": "Well, I've done several different things.",
+          "start": 257.81,
+          "end": 259.77
+        },
+        {
+          "s": "ROGER",
+          "t": "I've just finished a short-term contract as a courier, and now I'm working as a waiter in one of the big hotels.",
+          "q": [
+            4
+          ],
+          "start": 260.4,
+          "end": 267.08
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Uhuh.That can't leave you much time for studying!",
+          "start": 268.48,
+          "end": 270.04
+        },
+        {
+          "s": "ROGER",
+          "t": "Oh, it's not too bad.",
+          "start": 270.64,
+          "end": 271.68
+        },
+        {
+          "s": "ROGER",
+          "t": "I manage to fit it all in.",
+          "start": 272.08,
+          "end": 273.36
+        },
+        {
+          "s": "CAROLINE",
+          "t": "What are you studying?",
+          "start": 273.52,
+          "end": 274.76
+        },
+        {
+          "s": "ROGER",
+          "t": "My ambition is to go into parliament eventually, so my major subject is politics.",
+          "q": [
+            5
+          ],
+          "start": 275.2,
+          "end": 280.48
+        },
+        {
+          "s": "ROGER",
+          "t": "That's partly why I think the Youth Council is important and want to be a part of it.",
+          "start": 281.4,
+          "end": 286.0
+        },
+        {
+          "s": "CAROLINE",
+          "t": "And I suppose you're also taking a minor subject, aren't you?",
+          "start": 286.44,
+          "end": 289.96
+        },
+        {
+          "s": "CAROLINE",
+          "t": "I know a lot of people study economics too.",
+          "start": 290.4,
+          "end": 293.0
+        },
+        {
+          "s": "ROGER",
+          "t": "I chose history.",
+          "start": 293.55,
+          "end": 294.39
+        },
+        {
+          "s": "ROGER",
+          "t": "To be honest, I'm not finding it as interesting as I expected!",
+          "start": 295.03,
+          "end": 298.19
+        },
+        {
+          "s": "CAROLINE",
+          "t": "OK, so with your studying and your part-time job, do you have time for any other interests or hobbies?",
+          "start": 342.41,
+          "end": 348.93
+        },
+        {
+          "s": "ROGER",
+          "t": "Well, I spend quite a lot of time cycling - both around town to get to university and to work, and also long-distance, from here to London, for instance.",
+          "q": [
+            6
+          ],
+          "start": 349.29,
+          "end": 359.08
+        },
+        {
+          "s": "CAROLINE",
+          "t": "That's pretty impressive!",
+          "start": 359.48,
+          "end": 360.84
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Anything else?",
+          "start": 361.44,
+          "end": 362.36
+        },
+        {
+          "s": "ROGER",
+          "t": "For relaxation I'm also keen on the cinema - I used to go at least once a week, but I can't manage to go so often now.",
+          "q": [
+            7
+          ],
+          "start": 362.94,
+          "end": 370.66
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Right. Are you sure you'll have enough time for the Youth Council?",
+          "start": 371.34,
+          "end": 375.02
+        },
+        {
+          "s": "ROGER",
+          "t": "Yes, I've worked out that I can afford to reduce my hours at work, and that will make the time.",
+          "start": 375.64,
+          "end": 380.32
+        },
+        {
+          "s": "CAROLINE",
+          "t": "So is there any particular aspect of the Youth Council's work that appeals to you, Roger?",
+          "start": 380.44,
+          "end": 385.48
+        },
+        {
+          "s": "ROGER",
+          "t": "Well, my sister is blind, so I'm particularly interested in working with disabled young people, to try and improve the quality of their lives.",
+          "q": [
+            8
+          ],
+          "start": 386.1,
+          "end": 395.94
+        },
+        {
+          "s": "CAROLINE",
+          "t": "That's great.",
+          "start": 396.74,
+          "end": 397.38
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Well, the best way to get involved is to be nominated by some people who you know.",
+          "start": 397.74,
+          "end": 402.62
+        },
+        {
+          "s": "ROGER",
+          "t": "Right.",
+          "start": 402.82,
+          "end": 403.26
+        },
+        {
+          "s": "ROGER",
+          "t": "Can you tell me how to set about organising that?",
+          "start": 403.82,
+          "end": 406.26
+        },
+        {
+          "s": "CAROLINE",
+          "t": "You should talk to Jeffrey, our Elections Officer. I can arrange a meeting in the council office with him, if you like.",
+          "start": 406.94,
+          "end": 413.82
+        },
+        {
+          "s": "ROGER",
+          "t": "Yes, please.",
+          "start": 414.02,
+          "end": 414.86
+        },
+        {
+          "s": "CAROLINE",
+          "t": "He'll be here next Monday, if that suits you.",
+          "start": 415.46,
+          "end": 418.66
+        },
+        {
+          "s": "ROGER",
+          "t": "That's the 14th, isn't it?",
+          "start": 419.19,
+          "end": 421.07
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Yes.",
+          "start": 421.15,
+          "end": 421.51
+        },
+        {
+          "s": "ROGER",
+          "t": "I can manage late afternoon.",
+          "start": 422.35,
+          "end": 423.55
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Would you like to suggest a time?",
+          "start": 424.59,
+          "end": 426.11
+        },
+        {
+          "s": "CAROLINE",
+          "t": "He generally leaves around 5.30.",
+          "start": 426.39,
+          "end": 428.79
+        },
+        {
+          "s": "ROGER",
+          "t": "Well, would 4.30 be OK?",
+          "start": 429.54,
+          "end": 432.9
+        },
+        {
+          "s": "ROGER",
+          "t": "My last class finishes at 4, so I'd have plenty of time to get to your office.",
+          "q": [
+            9
+          ],
+          "start": 433.02,
+          "end": 436.82
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Right, that's fine.",
+          "start": 437.22,
+          "end": 438.66
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Oh, and could I have a phone number we can contact you on?",
+          "start": 439.62,
+          "end": 442.9
+        },
+        {
+          "s": "ROGER",
+          "t": "Yes, my mobile number's 07788 136711.",
+          "q": [
+            10
+          ],
+          "start": 442.94,
+          "end": 451.5
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Thank you.",
+          "start": 452.21,
+          "end": 452.61
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Well, we'll look forward to seeing you next week.",
+          "start": 452.93,
+          "end": 455.49
+        },
+        {
+          "s": "ROGER",
+          "t": "Thanks very much.",
+          "start": 455.73,
+          "end": 456.89
+        },
+        {
+          "s": "ROGER",
+          "t": "Goodbye.",
+          "start": 457.37,
+          "end": 457.77
+        },
+        {
+          "s": "CAROLINE",
+          "t": "Bye.",
+          "start": 457.93,
+          "end": 458.57
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c11/t2p2.mp3",
+      "duration": 431,
+      "title": "New staff at theatre",
+      "groups": [
+        {
+          "range": [
+            11,
+            12
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO changes have been made so far during the refurbishment of the theatre?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "Some rooms now have a different use."
+            },
+            {
+              "k": "B",
+              "text": "A different type of seating has been installed."
+            },
+            {
+              "k": "C",
+              "text": "An elevator has been installed."
+            },
+            {
+              "k": "D",
+              "text": "The outside of the building has been repaired."
+            },
+            {
+              "k": "E",
+              "text": "Extra seats have been added."
+            }
+          ]
+        },
+        {
+          "range": [
+            13,
+            14
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO facilities does the theatre currently offer to the public?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "rooms for hire"
+            },
+            {
+              "k": "B",
+              "text": "backstage tours"
+            },
+            {
+              "k": "C",
+              "text": "hire of costumes"
+            },
+            {
+              "k": "D",
+              "text": "a bookshop"
+            },
+            {
+              "k": "E",
+              "text": "a cafe"
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            16
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO workshops does the theatre currently offer?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "sound"
+            },
+            {
+              "k": "B",
+              "text": "acting"
+            },
+            {
+              "k": "C",
+              "text": "making puppets"
+            },
+            {
+              "k": "D",
+              "text": "make-up"
+            },
+            {
+              "k": "E",
+              "text": "lighting"
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            20
+          ],
+          "type": "matching",
+          "instruction": "Label the plan below. 原题为地图标注（剧院平面图 A-G 房间），见原书 Ground floor plan of theatre。",
+          "limit": "Write the correct letter, A-G, next to Questions 17-20.",
+          "optionsTitle": "Rooms on the plan",
+          "options": [
+            {
+              "k": "A",
+              "text": "平面图左上角两间相邻房间中靠左一间，紧邻上方灰色通道"
+            },
+            {
+              "k": "B",
+              "text": "与 A 相邻，左上角两间房间中靠右一间"
+            },
+            {
+              "k": "C",
+              "text": "双开门（double doors）右侧、F 室上方的小房间"
+            },
+            {
+              "k": "D",
+              "text": "平面图右上角，与 C 相邻的较大房间"
+            },
+            {
+              "k": "E",
+              "text": "饮水机（water cooler）旁、紧邻门厅（foyer）与左侧入口的房间"
+            },
+            {
+              "k": "F",
+              "text": "双开门右侧、C 室下方的房间"
+            },
+            {
+              "k": "G",
+              "text": "平面图右下角，紧邻右侧入口（entrance）的最大房间"
+            }
+          ],
+          "itemsTitle": "Rooms",
+          "items": [
+            {
+              "n": 17,
+              "text": "box office"
+            },
+            {
+              "n": 18,
+              "text": "theatre manager's office"
+            },
+            {
+              "n": 19,
+              "text": "lighting box"
+            },
+            {
+              "n": 20,
+              "text": "artistic director's office"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Hi.",
+          "start": 59.73,
+          "end": 59.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Great to see you. I'm Jody, and I'll be looking after both of you for the first month you're working here at the Amersham Theatre.",
+          "start": 60.33,
+          "end": 68.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'll tell you something about the theatre now, then take you to meet two of the other staff. It's an old building, and it's been modernised several times.",
+          "start": 69.83,
+          "end": 80.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In fact, as you can see, we're carrying out a major refurbishment at the moment.",
+          "start": 81.02,
+          "end": 86.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The interior has just been repainted, and we're about to start on the exterior of the building - that'll be a big job.",
+          "start": 87.27,
+          "end": 94.99
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The work's running over budget, so we've had to postpone installing an elevator.",
+          "start": 96.07,
+          "end": 100.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I hope you're happy running up and down stairs!",
+          "start": 101.88,
+          "end": 103.52
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When the theatre was built, people were generally slimmer and shorter than now, and the seats were very close together.",
+          "start": 105.64,
+          "end": 112.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We've replaced them with larger seats with more legroom.",
+          "q": [
+            11,
+            12
+          ],
+          "start": 113.84,
+          "end": 117.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This means fewer seats in total. but we've taken the opportunity to install seats that can easily be moved, to Create different acting spaces.",
+          "start": 117.52,
+          "end": 127.67
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We've also turned a few storerooms over to other purposes. like using them for meetings.",
+          "q": [
+            11,
+            12
+          ],
+          "start": 129.11,
+          "end": 134.21
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We try hard to involve members of the public in the theatre.",
+          "start": 136.31,
+          "end": 139.63
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One way is by organising backstage tours so people can be shown round the building and learn how a theatre operates.",
+          "q": [
+            13,
+            14
+          ],
+          "start": 140.59,
+          "end": 148.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These are proving very popular.",
+          "start": 148.55,
+          "end": 150.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What we're finding is that people want to have lunch or a cup of coffee while they're here, so we're looking into the possibility of opening a cafe in due course.",
+          "start": 152.75,
+          "end": 162.59
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We have a bookshop which specialises in books about drama. and that attracts plenty of customers.",
+          "q": [
+            13,
+            14
+          ],
+          "start": 163.92,
+          "end": 170.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then there are two large rooms that will be decorated next month, and they'll be available for hire, for conferences and private functions, such as parties.",
+          "start": 171.9,
+          "end": 181.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We're also considering hiring out costumes to amateur drama clubs. Now I want to tell you about our workshops.",
+          "start": 182.62,
+          "end": 190.89
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We recently started a programme of workshops that anyone can join.",
+          "start": 192.37,
+          "end": 196.13
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Eventually we intend to run courses in acting, but we're waiting until we've got the right people in place as trainers.",
+          "start": 196.13,
+          "end": 204.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's proving more difficult than we'd expected!",
+          "start": 206.24,
+          "end": 208.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's a big demand to learn about the technical side of putting on a production, and our lighting workshop has already started. with Great success.",
+          "q": [
+            15,
+            16
+          ],
+          "start": 210.18,
+          "end": 218.66
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We're going to start one on sound next month.A number of people have enquired about workshops on make-up, and that's something we're considering for the future.",
+          "start": 220.1,
+          "end": 229.62
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A surprise success is the workshop on making puppets - we happen to have someone working here who does it as a hobby and she offered to run a workshop.",
+          "q": [
+            15,
+            16
+          ],
+          "start": 231.21,
+          "end": 240.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It was so popular we're now running them every month!",
+          "start": 241.73,
+          "end": 244.81
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, a word about the layout of the building.",
+          "start": 284.27,
+          "end": 286.63
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The auditorium, stage and dressing rooms for the actors are all below ground level.",
+          "start": 287.83,
+          "end": 293.27
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Here on the ground floor we have most of the rooms that the public doesn't see.",
+          "start": 294.49,
+          "end": 298.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The majority are internal, so they have windows in the roof to light them.",
+          "start": 299.77,
+          "end": 304.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Standing here in the foyer, you're probably wondering why the box office isn't here, where the public would expect to find it.",
+          "start": 305.97,
+          "end": 313.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, you might have noticed it on your way in - although it's part of this building it's next door. with a separate entrance from the road.",
+          "q": [
+            17
+          ],
+          "start": 313.73,
+          "end": 323.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For the theatre manager's office. you go across the foyer and through the double doors. turn right. and it's the room at the end of the corridor with the door on the left.",
+          "q": [
+            18
+          ],
+          "start": 325.0,
+          "end": 336.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The lighting box is where the computerised stage lighting is operated and it's at the back of the building.",
+          "q": [
+            19
+          ],
+          "start": 339.06,
+          "end": 345.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When you're through the double doors turn left. turn right at the water cooler and right again at the end.",
+          "start": 346.86,
+          "end": 354.98
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's the second room along that corridor.",
+          "start": 356.22,
+          "end": 358.34
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The lighting box has a window into the auditorium, which of course is below us.",
+          "start": 359.88,
+          "end": 364.76
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The artistic director's office is through the double doors. turn right and it's the first room you come to on the right-hand side.",
+          "q": [
+            20
+          ],
+          "start": 366.4,
+          "end": 375.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And finally, for the moment, the room where I'll take you next - the relaxation room.",
+          "start": 377.2,
+          "end": 382.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So if you'd like to come with me ...",
+          "start": 383.84,
+          "end": 385.8
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c11/t2p3.mp3",
+      "duration": 0,
+      "title": "Rocky Bay field trip",
+      "groups": [
+        {
+          "range": [
+            21,
+            26
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Rocky Bay field trip",
+          "questions": [
+            {
+              "n": 21,
+              "text": "What do the students agree should be included in their aims?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "factors affecting where organisms live"
+                },
+                {
+                  "k": "B",
+                  "text": "the need to preserve endangered species"
+                },
+                {
+                  "k": "C",
+                  "text": "techniques for classifying different organisms"
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "What equipment did they forget to take on the Field Trip?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "string"
+                },
+                {
+                  "k": "B",
+                  "text": "a compass"
+                },
+                {
+                  "k": "C",
+                  "text": "a ruler"
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "In Helen's procedure section, Colin suggests a change in",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the order in which information is given."
+                },
+                {
+                  "k": "B",
+                  "text": "the way the information is divided up."
+                },
+                {
+                  "k": "C",
+                  "text": "the amount of information provided."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "What do they say about the method they used to measure wave speed?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It provided accurate results."
+                },
+                {
+                  "k": "B",
+                  "text": "It was simple to carry out."
+                },
+                {
+                  "k": "C",
+                  "text": "It required special equipment."
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "What mistake did Helen make when first drawing the map?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "She chose the wrong scale."
+                },
+                {
+                  "k": "B",
+                  "text": "She stood in the wrong place."
+                },
+                {
+                  "k": "C",
+                  "text": "She did it at the wrong time."
+                }
+              ]
+            },
+            {
+              "n": 26,
+              "text": "What do they decide to do next with their map?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "scan it onto a computer"
+                },
+                {
+                  "k": "B",
+                  "text": "check it using photographs"
+                },
+                {
+                  "k": "C",
+                  "text": "add information from the internet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            27,
+            28
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO problems affecting organisms in the splash zone are mentioned?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "lack of water"
+            },
+            {
+              "k": "B",
+              "text": "strong winds"
+            },
+            {
+              "k": "C",
+              "text": "lack of food"
+            },
+            {
+              "k": "D",
+              "text": "high temperatures"
+            },
+            {
+              "k": "E",
+              "text": "large waves"
+            }
+          ]
+        },
+        {
+          "range": [
+            29,
+            30
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO reasons for possible error will they include in their report?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "inaccurate records of the habitat of organisms"
+            },
+            {
+              "k": "B",
+              "text": "influence on behaviour of organisms by observer"
+            },
+            {
+              "k": "C",
+              "text": "incorrect identification of some organisms"
+            },
+            {
+              "k": "D",
+              "text": "making generalisations from a small sample"
+            },
+            {
+              "k": "E",
+              "text": "missing some organisms when counting"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "HELEN",
+          "t": "I've brought my notes on our Biology Field Trip to Rocky Bay, Colin, so we can work on our report on the research we did together."
+        },
+        {
+          "s": "COLIN",
+          "t": "OK."
+        },
+        {
+          "s": "COLIN",
+          "t": "I've got mine too."
+        },
+        {
+          "s": "COLIN",
+          "t": "Let's look at the aims of the trip first."
+        },
+        {
+          "s": "HELEN",
+          "t": "Right."
+        },
+        {
+          "s": "HELEN",
+          "t": "What did you have?"
+        },
+        {
+          "s": "COLIN",
+          "t": "I just put something about getting experience of the different sorts of procedures used on a field trip."
+        },
+        {
+          "s": "COLIN",
+          "t": "But we need something about what causes different organisms to choose particular habitats.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "HELEN",
+          "t": "Yes."
+        },
+        {
+          "s": "HELEN",
+          "t": "And something about finding out how to protect organisms in danger of dying out?"
+        },
+        {
+          "s": "COLIN",
+          "t": "In our aims?But we weren't really looking at that"
+        },
+        {
+          "s": "HELEN",
+          "t": "I suppose not."
+        },
+        {
+          "s": "HELEN",
+          "t": "OK, now there's the list of equipment we all had to bring on the field trip."
+        },
+        {
+          "s": "HELEN",
+          "t": "What did they tell us to bring a ruler for?"
+        },
+        {
+          "s": "COLIN",
+          "t": "It was something about measuring the slope of the shore, but of course we didn't need it because we were measuring wind direction, and we'd brought the compass for that ..."
+        },
+        {
+          "s": "HELEN",
+          "t": "But not the piece of string to hold up in the air!"
+        },
+        {
+          "s": "HELEN",
+          "t": "Didn't Mr Blake make a fuss about us leaving that behind.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "COLIN",
+          "t": "Yeah."
+        },
+        {
+          "s": "COLIN",
+          "t": "He does go on. Anyway it was easy to get one from another of the students."
+        },
+        {
+          "s": "HELEN",
+          "t": "Now, the next section's the procedure."
+        },
+        {
+          "s": "HELEN",
+          "t": "I sent you the draft of that."
+        },
+        {
+          "s": "COLIN",
+          "t": "Yeah."
+        },
+        {
+          "s": "COLIN",
+          "t": "It was clear, but I don't think we need all these details of what time we left and what time we got back and how we divided up the different research tasks.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "HELEN",
+          "t": "OK."
+        },
+        {
+          "s": "HELEN",
+          "t": "I'll look at that again."
+        },
+        {
+          "s": "COLIN",
+          "t": "Then we have to describe our method of investigation in detail."
+        },
+        {
+          "s": "COLIN",
+          "t": "So let's begin with how we measured wave speed."
+        },
+        {
+          "s": "COLIN",
+          "t": "I was surprised how straightforward that was.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "HELEN",
+          "t": "I'd expected us to have some sort of high-tech device not just stand there and count the number of waves per minute."
+        },
+        {
+          "s": "HELEN",
+          "t": "Not very precise, but I suppose it was good enough. But the way we measured the amount of salt was interesting."
+        },
+        {
+          "s": "COLIN",
+          "t": "In the water from the rock pools?"
+        },
+        {
+          "s": "HELEN",
+          "t": "Yeah, oh, I wanted to check the chemicals we used in the lab when we analysed those samples - was it potassium chromate and silver nitrate?"
+        },
+        {
+          "s": "COLIN",
+          "t": "That's right."
+        },
+        {
+          "s": "HELEN",
+          "t": "OK. And we need the map of the seashore. You just left that to me. And I had to do it while the tide was low, well that was OK, but the place I started it from was down on the beach then l realised I should have gone up higher to get better visibility, so I had to start all over again. But at least I'd got the squared paper or I'd have had problems drawing it all to scale",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "COLIN",
+          "t": "Yes."
+        },
+        {
+          "s": "COLIN",
+          "t": "It looks good."
+        },
+        {
+          "s": "COLIN",
+          "t": "We could get a map of the region off the internet and see if we need to make any changes."
+        },
+        {
+          "s": "HELEN",
+          "t": "I had a look but I couldn't find anything. But you took some pictures, didn't you?"
+        },
+        {
+          "s": "COLIN",
+          "t": "Yeah. I'll email you them if you want."
+        },
+        {
+          "s": "HELEN",
+          "t": "OK. I'll make my amendments using those, then I can scan it into our report.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "COLIN",
+          "t": "Great."
+        },
+        {
+          "s": "HELEN",
+          "t": "Now when we get to our findings I thought we could divide them up into the different zones we identified on the shore and the problems organisms face in each zone."
+        },
+        {
+          "s": "HELEN",
+          "t": "So for the highest area .."
+        },
+        {
+          "s": "COLIN",
+          "t": "... the splash zone?"
+        },
+        {
+          "s": "HELEN",
+          "t": "Yeah, we found mostly those tiny shellfish that have strong hard shells that act as protection."
+        },
+        {
+          "s": "COLIN",
+          "t": "But not from other organisms that might eat them, predators?"
+        },
+        {
+          "s": "HELEN",
+          "t": "No, that's not the main danger for them. But the shells prevent them from drying out because they're in the open air for most of the time.",
+          "q": [
+            27,
+            28
+          ]
+        },
+        {
+          "s": "COLIN",
+          "t": "Right. And since they're exposed, they need to be able to find some sort of shelter, or cover themselves up, so they don't get too hot.",
+          "q": [
+            27,
+            28
+          ]
+        },
+        {
+          "s": "COLIN",
+          "t": "Then in the middle and lower zones, nearer the sea, we need to discuss the effects of wave action ..."
+        },
+        {
+          "s": "HELEN",
+          "t": "Yes, and how organisms develop structures to prevent themselves from being swept away, or even destroyed by being smashed against the rocks."
+        },
+        {
+          "s": "COLIN",
+          "t": "I haven't done anything on the geological changes."
+        },
+        {
+          "s": "HELEN",
+          "t": "I don't know what to put for that."
+        },
+        {
+          "s": "HELEN",
+          "t": "No, we weren't concentrating on that."
+        },
+        {
+          "s": "HELEN",
+          "t": "Maybe we need to find some websites."
+        },
+        {
+          "s": "COLIN",
+          "t": "Good idea."
+        },
+        {
+          "s": "COLIN",
+          "t": "I've got the lecture notes from Mr Blake's geology course, but they're too general. But we could ask him which books on our Reading List might be most helpful."
+        },
+        {
+          "s": "HELEN",
+          "t": "Right."
+        },
+        {
+          "s": "HELEN",
+          "t": "OK, now I did a draft of the section of sources of possible error in our research, but I don't know if you agree."
+        },
+        {
+          "s": "HELEN",
+          "t": "For example, the size of the sample, and whether it's big enough to make any general conclusions from."
+        },
+        {
+          "s": "HELEN",
+          "t": "But I thought actually we did have quite a big sample."
+        },
+        {
+          "s": "COLIN",
+          "t": "We did."
+        },
+        {
+          "s": "COLIN",
+          "t": "And our general method of observation seemed quite reliable."
+        },
+        {
+          "s": "COLIN",
+          "t": "But we might not be all that accurate as far as the actual numbers go."
+        },
+        {
+          "s": "HELEN",
+          "t": "Yeah, we might have missed some organisms - if they were hiding under a rock, for some reason.",
+          "q": [
+            29,
+            30
+          ]
+        },
+        {
+          "s": "HELEN",
+          "t": "I wasn't sure about the way we described their habitats. I decided it was probably OK."
+        },
+        {
+          "s": "COLIN",
+          "t": "Yeah, and the descriptions we gave of the smaller organisms, they weren't very detailed, but they were adequate in this context."
+        },
+        {
+          "s": "COLIN",
+          "t": "I'm not sure we identified all the species correctly though.",
+          "q": [
+            29,
+            30
+          ]
+        },
+        {
+          "s": "HELEN",
+          "t": "OK, we'd better mention that."
+        },
+        {
+          "s": "HELEN",
+          "t": "Now, how ..."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c11/t2p4.mp3",
+      "duration": 0,
+      "title": "Designing a public building: the Taylor Concert Hall",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Designing a public building: the Taylor Concert Hall",
+          "lines": [
+            "## Introduction",
+            "The designer of a public building may need to consider the building's:",
+            "- function",
+            "- physical and {{31}} context",
+            "- symbolic meaning",
+            "## Location and concept of the Concert Hall",
+            "On the site of a disused {{32}}",
+            "Beside a {{33}}",
+            "The design is based on the concept of a mystery",
+            "## Building design",
+            "It's approached by a {{34}} for pedestrians",
+            "The building is the shape of a {{35}}",
+            "One exterior wall acts as a large {{36}}",
+            "In the auditorium:",
+            "- the floor is built on huge pads made of {{37}}",
+            "- the walls are made of local wood and are {{38}} in shape",
+            "- ceiling panels and {{39}} on walls allow adjustment of acoustics",
+            "## Evaluation",
+            "Some critics say the {{40}} style of the building is inappropriate"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "We've been discussing the factors the architect has to consider when designing domestic buildings."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm going to move on now to consider the design of public buildings, and I'll illustrate this by referring to the new Taylor Concert Hall that's recently been completed here in the city."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, as with a domestic building, when designing a public building, an architect needs to consider the function of the building - for example, is it to be used primarily for entertainment, or for education, or for administration?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The second thing the architect needs to think about is the context of the building, this includes its physical location, obviously, but it also includes the social meaning of the building, how it relates to the people it's built for.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And finally, for important public buildings, the architect may also be looking for a central symbolic idea on which to base the design, a sort of metaphor for the building and the way in which it is used."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's look at the new Taylor Concert Hall in relation to these ideas."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The location chosen was a site in a run-down district that has been ignored in previous redevelopment plans. It was occupied by a factory that had been empty for some years.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The whole area was some distance from the high-rise office blocks of the central business district and shopping centre, but it was only one kilometre from the ring road."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The site itself was bordered to the north by a canal which had once been used by boats bringing in raw materials when the area was used for manufacturing.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The architect chosen for the project was Tom Harrison."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He found the main design challenge was the location of the site in an area that had no neighbouring buildings of any importance."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "To reflect the fact that the significance of the building in this quite run-down location was as yet unknown, he decided to create a building centred around the idea of a mystery - something whose meaning still has to be discovered."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So how was this reflected in the design of the building?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, Harrison decided to create pedestrian access to the building and to make use of the presence of water on the site. As people approach the entrance they therefore have to cross over a bridge.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He wanted to give people a feeling of suspense as they see the building first from a distance, and then close-up, and the initial impression he wanted to create from the shape of the building as a whole was that of a box.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The first side that people see, the southern wall, is just a high, flat wall uninterrupted by any windows."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This might sound off-putting, but it supports Harrison's concept of the building - that the person approaching is intrigued and wonders what will be inside."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And this flat wall also has another purpose. At night-time, projectors are switched on and it functions as a huge screen, onto which images are projected.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The auditorium itself seats 1500 people."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The floor's supported by ten massive pads. These are constructed from rubber, and so are able to absorb any vibrations from outside and prevent them from affecting the auditorium.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The walls are made of several layers of honey-coloured wood, all sourced from local beech trees."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In order to improve the acoustic properties of the auditorium and to amplify the sound, they are not straight, they are curved.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The acoustics are also adjustable according to the size of orchestra and the type of music being played."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In order to achieve this, there are nine movable panels in the ceiling above the orchestra which are all individually motorized, and the walls also have curtains which can be opened or closed to change the acoustics.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The reaction of the public to the new building has generally been positive."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, the evaluation of some critics has been less enthusiastic."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In spite of Harrison's efforts to use local materials they criticise the style of the design as being international rather than local, and say it doesn't reflect features of the landscape or society for which it is built.",
+          "q": [
+            40
+          ]
+        }
+      ]
+    }
+  ]
+}

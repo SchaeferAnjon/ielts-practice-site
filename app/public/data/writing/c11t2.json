@@ -1,0 +1,76 @@
+{
+  "id": "c11t2",
+  "book": "剑桥雅思11",
+  "test": 2,
+  "title": "剑11 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "pie-chart",
+      "kindZh": "饼图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The charts below show the proportions of British students at one university in England who were able to speak other languages in addition to English, in 2000 and 2010.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c11t2-task1.webp",
+      "imageCaption": "% of British Students able to speak languages other than English, 2000 and 2010",
+      "data": {
+        "unit": "%",
+        "years": [
+          2000,
+          2010
+        ],
+        "series": {
+          "No other language": [
+            20,
+            10
+          ],
+          "French only": [
+            15,
+            10
+          ],
+          "German only": [
+            10,
+            10
+          ],
+          "Spanish only": [
+            30,
+            35
+          ],
+          "Another language": [
+            15,
+            20
+          ],
+          "Two other languages": [
+            10,
+            15
+          ]
+        }
+      },
+      "sample": {
+        "band": 6,
+        "text": "The charts show the percentage of the British students, who are able to speak languages other than English, in 2000 and in 2010. In 2000, 20% of the British students were not able to speak another language. But in 2010 the number has decreased to 10%, which is good because it shows that more people have learned other languages well.\n\nThe biggest percentage had Spanish only with 30% in 2000. However it has increased by 5% and is in 2010 still the highest percentage with 35%.\n\nIn 2000, German only and two other languages were the lowest ones, both with 10%. While in 2010 French only, German only and two other languages show the lowest percentage, while all of them got 10%. All in all, the percentage of German only in 2000 and 2010 hasn't changed. The percentage of French only has decreased by 5%. No other languages percentage was reduced by the half: from the 20% in 2000 to 10% in 2010.\n\nThe number of people, who are speaking two other languages has increased by half: In 2000 there were 10% and in 2010 there are 15%.\n\nAnother interesting fact is that the percentage of another language has improved aswell: from 15% to 20%.\n\nBut still, the most common learned language is Spanish only. In 2000 there were 30% of English students, who spoke it fluently, while in 2010 the number has increased further to 35%.",
+        "comment": "The candidate covers all the key features of the task and rounds off the description with an overview. There is some repetition of information and some irrelevant commentary (which is good because it shows that more people have learned other languages well). Information is arranged coherently and there is a clear overall progression, with effective use of cohesive devices, though there is a tendency to rely on dates. The range of vocabulary is adequate for the task, but the writer does not attempt any less common items. There is a mix of simple and complex sentence forms, with a fair degree of accuracy, but the range would need to be wider to achieve a higher score."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Some people claim that not enough of the waste from homes is recycled. They say that the only way to increase recycling is for governments to make it a legal requirement.",
+        "To what extent do you think laws are needed to make people recycle more of their waste?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 5,
+        "text": "Nowadays, more than million tons of wastes have been being produced which from home everyday and some people claim that not enough of the litters is recycled. Therefore, they think the governments should have a policy to increase recycling.\n\nIt is necessary to say that their governments should take action. For example, providing rubblish bag into each family so that seperate a litter and make it to have value. Many waste; paper, box or steel from home can sale to governments or decrease council tax. Either, the government should provide junk bank that the citizen can deposit recycled waste and inverse to be some money.\n\nMoreover, the government should have spot advertisement on television to motivate advantages of recycling. In Thailand, my country, we have \"3R\" advertisement standing For reuse, reduce and recycle and easy example way to do in house such as using less plastics bag (reduce), reuse take away box or sale some paper.\n\nIn school teacher teach children how to recycle waste at home and go back to tell their parent and come back to report their teacher. There is one day a week in order that clean school together which help they have a good attitud in cleaning.\n\nIn conclusion, it should be good that the government make some law about waste tax and make people follow the law by give them back some money. Starting give education at school so that when they growth up the will do easier.\n\nIn my opinion, it is very easy to government to do as I mention above to reduce waste from homes such as \"3R\", junk bank, providing rubblish bins and teaching at school and It will be a good habit and good in long term.",
+        "comment": "The candidate expresses a position, but only partially addresses the prompt (he or she considers ways in which people can be encouraged to recycle, rather than explicitly looking at the extent to which laws are required); however, ideas are relevant and are supported with clear examples. There is a clear overall progression and cohesive devices are used effectively, if somewhat mechanically (apart from Either). Paragraphing is just adequate. Lexical range is adequate for the task and there are attempts to use less common items (policy, junk bank, citizen, deposit), but there are errors in word formation (sale/sell, growth/grow up) and some errors in word choice cause difficulty for the reader (inverse to be some money, motivate advantages of recycling). There are attempts to use complex sentence structures, but grammatical errors are frequent (million tons of wastes have been being produced which from home everyday, easy example way to do in house, There is one day a week in order that clean school together which help they have ..., Starting give education)."
+      }
+    }
+  ]
+}

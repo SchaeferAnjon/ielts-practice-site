@@ -34,13 +34,26 @@
    - 地图/图表标注题如果书里是图片，无法文字化：改成 `matching`，`items` 写题号 + 位置描述，并在 `instruction` 注明"原题为地图标注，见原书"。
 3. `answers`：每题一个数组；斜线/括号表示的可接受写法都拆开写，例如答案 `10/ten` → `["10","ten"]`，`(the) weather` → `["weather","the weather"]`，`cafe/café` → `["cafe","café"]`。判断题写 `TRUE`/`FALSE`/`NOT GIVEN` 或 `YES`/`NO`/`NOT GIVEN` 全大写。多选题两个题号各写一份 `["B","D"]`。
 4. 听力 `transcript`：把 Audioscript 逐句拆成 `{s, t, q?}`。`s` 是说话人（对话按脚本里的名字，独白用 `SPEAKER`），`t` 是原句。**每道题答案所在的那句加 `q: [n]`**（书里脚本旁边有 Q1、Q2 标记，照它标；两道多选题标 `q: [21, 22]`）。40 题都要标到。不要加时间戳字段（后面脚本统一对齐）。`audio` 填 `/audio/c{N}/t{T}p{k}.mp3`，`duration` 先填 0。
-5. 阅读 `explain`：40 题每题 `{loc, key, why}`。`loc` 是段落 `id`（必须是 paragraphs 里存在的 id），`key` 是原文定位句（英文原句），`why` 用中文写为什么是这个答案、题干和原文的同义替换（写法参考 c21t1.json，每条 1-2 句）。这是你唯一需要"写"的东西，其余全是抄。
+5. 阅读 `explain`：40 题每题 `{loc, keyHint, why}`。`loc` 是段落 `id`（必须是 paragraphs 里存在的 id），`keyHint` 是定位句里 3-6 个有辨识度的词（不要抄整句；合并后运行 `python3 scripts/fill_keys.py public/data/reading/c{N}t{T}.json`，脚本会在段落里找到整句填进 `key`），`why` 用中文写为什么是这个答案、题干和原文的同义替换（写法参考 c21t1.json，每条 1-2 句）。这是你唯一需要"写"的东西，其余全是抄。
 6. 写作：`prompt` 逐句抄题干；`kind`/`kindZh` 按题型（line-graph 曲线图 / bar-chart 柱状图 / pie-chart 饼图 / table 表格 / process 流程图 / map 地图 / mixed 混合；Task 2：agree-disagree 是否同意 / discuss-both 双边讨论 / advantage-disadvantage 利弊 / problem-solution 问题解决 / two-part 双问题）。`sample` 抄书末该题的考生范文和考官评语（`band` 是评语里给的分）；如果书里这套题只有一篇范文，另一题的 `sample` 写 `{"band": 0, "text": "本书未提供此题范文。", "comment": ""}`。Task 1 的 `data` 字段：如果图表数据能从图上读出就填，读不出就省略。
 6b. **范文和评语的抄录方式（必须这样做）**：不要把整篇范文直接写进 JSON。先建 `drafts/c{N}/samples/` 目录，把每篇范文按原文段落**逐段**追加到 `drafts/c{N}/samples/t{T}-task1.txt` / `t{T}-task2.txt`（每段一次单独的 Bash `cat >> 文件 <<'EOF'` 追加，段与段之间空一行；考官评语同样逐段追加到 `t{T}-task1-comment.txt` / `t{T}-task2-comment.txt`）。手写体范文文本层是乱码时，用 `pdftoppm -r 110 -png -f <页> -l <页> "$(cat drafts/c{N}/source.txt)" <输出前缀>` 渲染后用 Read 看图逐段抄。JSON 里 `sample.text` 写 `"@file:drafts/c{N}/samples/t{T}-task1.txt"`，`sample.comment` 写 `"@file:drafts/c{N}/samples/t{T}-task1-comment.txt"`，写完 JSON 后运行 `python3 scripts/fill_samples.py public/data/writing/c{N}t{T}.json` 把占位替换成文件内容，再跑校验。每次输出的内容要短（一段范文），这是为了绕开长文本一次性输出的限制。
 7. Task 1 图表：找到 Writing Task 1 那一页的页码，运行
    `python3 scripts/page_image.py "$(cat drafts/c{N}/source.txt)" <页码> public/img/c{N}t{T}-task1.png --crop 0,0.35,1,0.95`
    然后用 Read 工具看一眼生成的 PNG，确认图表完整、没有把题干截掉一半；不合适就调 `--crop` 的四个比例再跑。`image` 字段填 `/img/c{N}t{T}-task1.png`。
 8. 顶层字段：`id: "c{N}t{T}"`，`book: "剑桥雅思{N}"`，`test: {T}`，`title: "剑{N} Test {T} · Listening"`（阅读/写作同理）。阅读加 `minutes: 60`。
+
+## 原文和文章必须用脚本切出来，不要自己重打（硬性要求）
+
+听力 transcript 和阅读 paragraphs 一律先用 `scripts/book_text.py` 从 PDF 文字层切出来，你只做修补：
+
+```bash
+# 听力：按 Audioscript 页码切某个 Section/Part，自动分说话人、分句、识别行尾 Q 标记
+python3 scripts/book_text.py transcript drafts/c{N} <起页>-<止页> --from "SECTION 2" --to "SECTION 3" --out drafts/c{N}/parts/l-t{T}-p2.lines.json
+# 阅读：按文章页码切，自动拆双栏、分段
+python3 scripts/book_text.py passage drafts/c{N} <起页>-<止页> --from "<文章标题前几个词>" --to "Questions 1" --out drafts/c{N}/parts/r-t{T}-p1.paras.json
+```
+
+然后用 Bash 里的 python 读这些文件做**小修补**并写进 Part / Passage 文件：修正个别乱码词（多是划线的答案词，例如 `friahten Or iniure` → `frighten or injure`，用一个 `{错: 对}` 替换表）、补漏掉的 `q` 标记、去掉混进来的页眉/水印、合并被切断的段落、给段落加 `id`/`label`。每次修补的替换表不超过 20 条。**不要把整段原文或整篇文章写进任何一次输出**。先用 Read 看渲染的页面图片核对乱码词，再改。
 
 ## 输出必须分块（硬性要求）
 
@@ -50,7 +63,7 @@
 - 阅读：`r-t{T}-meta.json`（顶层字段 + `answers`）、`r-t{T}-explain.json`（40 题 explain）、`r-t{T}-passage1.json` … `passage3.json`（每个是一个 Passage 对象），然后 `python3 scripts/merge_paper.py reading {N} {T}`。
 - 写作：范文按第 6b 条逐段抄。
 
-合并后再跑校验。这些中间文件放 `drafts/`，不会提交。
+合并后先 `fill_keys.py`（阅读）再跑校验。这些中间文件放 `drafts/`，不会提交。
 
 ## 校验（必须通过才算完成）
 

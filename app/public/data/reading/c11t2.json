@@ -1,0 +1,929 @@
+{
+  "id": "c11t2",
+  "book": "剑桥雅思11",
+  "test": 2,
+  "title": "剑11 Test 2 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "TRUE"
+    ],
+    "2": [
+      "NOT GIVEN"
+    ],
+    "3": [
+      "TRUE"
+    ],
+    "4": [
+      "FALSE"
+    ],
+    "5": [
+      "C"
+    ],
+    "6": [
+      "B"
+    ],
+    "7": [
+      "G"
+    ],
+    "8": [
+      "A"
+    ],
+    "9": [
+      "lifting frame",
+      "frame"
+    ],
+    "10": [
+      "hydraulic jacks"
+    ],
+    "11": [
+      "stabbing guides"
+    ],
+    "12": [
+      "lifting cradle",
+      "cradle"
+    ],
+    "13": [
+      "air bags"
+    ],
+    "14": [
+      "ii"
+    ],
+    "15": [
+      "ix"
+    ],
+    "16": [
+      "viii"
+    ],
+    "17": [
+      "i"
+    ],
+    "18": [
+      "iv"
+    ],
+    "19": [
+      "vii"
+    ],
+    "20": [
+      "vi"
+    ],
+    "21": [
+      "farming"
+    ],
+    "22": [
+      "canoes"
+    ],
+    "23": [
+      "birds"
+    ],
+    "24": [
+      "wood"
+    ],
+    "25": [
+      "B",
+      "C"
+    ],
+    "26": [
+      "B",
+      "C"
+    ],
+    "27": [
+      "C"
+    ],
+    "28": [
+      "D"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "A"
+    ],
+    "31": [
+      "C"
+    ],
+    "32": [
+      "B"
+    ],
+    "33": [
+      "H"
+    ],
+    "34": [
+      "NOT GIVEN"
+    ],
+    "35": [
+      "YES"
+    ],
+    "36": [
+      "NO"
+    ],
+    "37": [
+      "NO"
+    ],
+    "38": [
+      "YES"
+    ],
+    "39": [
+      "NOT GIVEN"
+    ],
+    "40": [
+      "A"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "key": "some maintain that she was outdated, overladen and sailing too low in the water others that she was mishandled by undisciplined crew",
+      "why": "原文列出了多种关于沉船原因的说法（超载、操作不当等）且都未被证实，说明沉船原因存在争议，与题干一致，选 TRUE。"
+    },
+    "2": {
+      "loc": "p1",
+      "key": "the Mary Rose sank into the Solent that day",
+      "why": "原文只说 Mary Rose 沉没，没有提到当天海战中是否有其他船只沉没，属于 NOT GIVEN。"
+    },
+    "3": {
+      "loc": "p2",
+      "key": "nearly all of the starboard half survived intact",
+      "why": "题干 Most of one side...lay undamaged = 原文 nearly all of the starboard half survived intact，选 TRUE。"
+    },
+    "4": {
+      "loc": "p4",
+      "key": "McKee and his team now knew for certain that they had found the wreck, but were as yet unaware that it also housed a treasure trove",
+      "why": "原文明确说 McKee 当时并不知道船上有大量文物，与题干相反，选 FALSE。"
+    },
+    "5": {
+      "loc": "p3",
+      "key": "Then, on 16 June 1836, some fishermen in the Solent found",
+      "why": "题干问搜寻船只开始的年份，对应 D 1967（Edgerton 的声呐系统发现异常物体，正式的搜索技术介入）；1836 是渔民偶然发现，不是有意搜寻。"
+    },
+    "6": {
+      "loc": "p3",
+      "key": "Deane continued diving on the site intermittently until 1840",
+      "why": "Deane 的探索止于 1840 年，对应 B 1840。"
+    },
+    "7": {
+      "loc": "p4",
+      "key": "the operation was not given the go-ahead until January 1982",
+      "why": "打捞船体的决定在 1982 年才被批准，对应 G 1982。"
+    },
+    "8": {
+      "loc": "p3",
+      "key": "some fishermen in the Solent found that their equipment was caught on an underwater obstruction, which turned out to be the Mary Rose",
+      "why": "渔民是偶然发现的，对应 A 1836。"
+    },
+    "9": {
+      "loc": "p6",
+      "key": "The hull was attached to a lifting frame via a network of bolts and lifting wires",
+      "why": "图中标注 9 是与船体通过钢索相连、被吊起的框架，对应原文 lifting frame。"
+    },
+    "10": {
+      "loc": "p6",
+      "key": "The problem of the hull being sucked back downwards into the mud was overcome by using 12 hydraulic jacks",
+      "why": "图中标注 10 是防止船体陷入泥中所用的设备，对应原文 hydraulic jacks。"
+    },
+    "11": {
+      "loc": "p7",
+      "key": "This required precise positioning to locate the legs into the 'stabbing guides'",
+      "why": "图中标注 11 是支架的腿被放入的部位，对应原文 stabbing guides。"
+    },
+    "12": {
+      "loc": "p7",
+      "key": "the hull was lifted completely clear of the seabed and transferred underwater into the lifting cradle",
+      "why": "图中标注 12 是船体被放入的容器，对应原文 lifting cradle。"
+    },
+    "13": {
+      "loc": "p7",
+      "key": "was fitted with air bags to provide additional cushioning for the hull's delicate timber framework",
+      "why": "图中标注 13 是用来额外保护船体的物品，对应原文 air bags。"
+    },
+    "14": {
+      "loc": "A",
+      "key": "Modern science...has definitively proved the moai builders were Polynesians, but not how they moved their creations",
+      "why": "段落 A 讲述了关于摩艾像建造者身份最终有定论（是波利尼西亚人），呼应标题 ii「关于摩艾像的一个无争议的答案」。"
+    },
+    "15": {
+      "loc": "B",
+      "key": "As trees became scarce and they could no longer construct wooden canoes for fishing, they ate birds. Soil erosion decreased their crop yields.",
+      "why": "段落 B 描述森林消失导致食物来源（鱼、鸟、作物）不断减少，对应标题 ix「食物资源的减少」。"
+    },
+    "16": {
+      "loc": "C",
+      "key": "The moai, he thinks, accelerated the self-destruction",
+      "why": "段落 C 说摩艾像的建造加速了自我毁灭，对应标题 viii「雕像使情况变得更糟」。"
+    },
+    "17": {
+      "loc": "D",
+      "key": "the Rapanui went to heroic efforts to protect the resources of their wind-lashed, infertile fields...pioneers of sustainable farming",
+      "why": "段落 D 举例说明拉帕努伊人采取了创新的环境管理措施（防风墙、园艺技术），对应标题 i「创新环境管理措施的证据」。"
+    },
+    "18": {
+      "loc": "E",
+      "key": "archaeological evidence backs up Rapanui folklore",
+      "why": "段落 E 说考古证据支持了当地「雕像自己行走」的传说，对应标题 iv「支持当地传说的一种理论」。"
+    },
+    "19": {
+      "loc": "F",
+      "key": "the settlers were not wholly responsible for the loss of the island's trees...doomed Rapa Nui's forest, even without the settlers' campaign of deforestation",
+      "why": "段落 F 说老鼠、疾病、奴隶贩子等岛民无法控制的因素才是破坏的主因，对应标题 vii「岛民无法控制的破坏」。"
+    },
+    "20": {
+      "loc": "G",
+      "key": "Hunt and Lipo's vision...is one of an island populated by peaceful and ingenious moai builders...rather than by reckless destroyers",
+      "why": "段落 G 总结了 Hunt/Lipo 与 Diamond 两种截然相反的观点，对应标题 vi「关于拉帕努伊人的两种对立观点」。"
+    },
+    "21": {
+      "loc": "B",
+      "key": "When the islanders cleared the forests for firewood and farming",
+      "why": "题干 clearing land for ... = 原文 farming（清地用于耕种）。"
+    },
+    "22": {
+      "loc": "B",
+      "key": "they could no longer construct wooden canoes for fishing",
+      "why": "题干 build the ... they needed to go fishing = 原文 wooden canoes（独木舟）。"
+    },
+    "23": {
+      "loc": "B",
+      "key": "they ate birds",
+      "why": "题干 using the island's ... as a food source = 原文 birds（鸟类）。"
+    },
+    "24": {
+      "loc": "C",
+      "key": "that required both a lot of wood and a lot of people",
+      "why": "题干 a great deal of ... = 原文 wood（搬运雕像需要大量木材）。"
+    },
+    "25": {
+      "loc": "E",
+      "key": "They also believe that moving the moai required few people and no wood, because they were walked upright",
+      "why": "Hunt/Lipo 认为雕像是「走」过去的，与 Diamond 的搬运方式（木橇）相反，属于分歧点 B「雕像如何被搬运」。"
+    },
+    "26": {
+      "loc": "C",
+      "key": "the impact of the building of moai on Rapanui society: Diamond interprets them as power displays...accelerated the self-destruction",
+      "why": "Diamond 认为雕像加速社会自我毁灭，Hunt/Lipo（段落 E）认为雕像建造有助于维持和平，两者对雕像对社会影响的看法相反，对应分歧点 C。"
+    },
+    "27": {
+      "loc": "p2",
+      "key": "When asked to make simple perceptual decisions such as matching a shape to its rotated image...people often choose a definitively wrong answer if they see others doing the same",
+      "why": "这个测试说明人们容易受他人意见影响而给出错误答案，用来论证艺术鉴赏中的从众心理，对应 C「我们受他人观点影响的倾向」。"
+    },
+    "28": {
+      "loc": "p3",
+      "key": "the viewer can sense the artist's vision in paintings, even if they can't explain why",
+      "why": "Hawley-Dolan 的实验说明即使被误导说明信息，人们仍能感知到真正艺术家作品背后的意图，对应 D「能够感知作品背后的意图」。"
+    },
+    "29": {
+      "loc": "p4",
+      "key": "The longer they took to answer these questions, the more highly they rated the piece under scrutiny...the more rewarding is the moment of recognition",
+      "why": "花更长时间理解作品反而评价更高，说明人们能在不完全理解的情况下欣赏作品，并以「解谜」的满足感为乐，对应 A「即使不完全理解也能欣赏一幅画」。"
+    },
+    "30": {
+      "loc": "p5",
+      "key": "eye-tracking studies confirm that they are meticulously composed, and that simply rotating a piece radically changes the way we view it",
+      "why": "眼动实验证明蒙德里安的画作构图远比看起来精心，对应 A「它们比看上去更精心构建」。"
+    },
+    "31": {
+      "loc": "p1",
+      "key": "The blurred imagery of Impressionist paintings seems to stimulate the brain's amygdala...that finding might explain why many people find these pieces so moving",
+      "why": "题干 impact...on our ... = 原文 amygdala 与 feelings（情绪）相关，选项中对应 emotions。"
+    },
+    "32": {
+      "loc": "p7",
+      "key": "many artists use a key level of detail to please the brain. Too little and the work is boring, but too much results in a kind of perceptual overload",
+      "why": "题干 precise degree of ... = 原文 a key level of detail，对应选项 complexity（复杂程度）。"
+    },
+    "33": {
+      "loc": "p7",
+      "key": "appealing pieces both abstract and representational, show signs of fractals - repeated motifs recurring in different scales",
+      "why": "题干 certain repeated ... = 原文 fractals，即反复出现的图案，对应选项 images。"
+    },
+    "34": {
+      "loc": "p7",
+      "key": "It is possible that our visual system, which evolved in the great outdoors, finds it easier to process such patterns",
+      "why": "原文只提到分形图案容易被处理，没有提到 Forsythe 的发现是否与「先前的看法相矛盾」，属于 NOT GIVEN。"
+    },
+    "35": {
+      "loc": "p8",
+      "key": "This may be down to our brain's mirror neurons...The hypothesis will need to be thoroughly tested, however",
+      "why": "原文明确说这个假设还需要被彻底检验，即需要进一步证实，选 YES。"
+    },
+    "36": {
+      "loc": "p8",
+      "key": "While the fashions of the time might shape what is currently popular, works that are best adapted to our visual system may be the most likely to linger",
+      "why": "原文说适应视觉系统的作品更可能长久流传，并未说品味完全取决于当下潮流，与题干相反，选 NO。"
+    },
+    "37": {
+      "loc": "p9",
+      "key": "It would, however, be foolish to reduce art appreciation to a set of scientific laws",
+      "why": "作者明确说把艺术欣赏简化为一套科学规律是愚蠢的，与题干相反，选 NO。"
+    },
+    "38": {
+      "loc": "p9",
+      "key": "We shouldn't underestimate the importance of the style of a particular artist, their place in history and the artistic environment of their time",
+      "why": "作者认为不应低估艺术家所处历史与文化背景的重要性，与题干一致，选 YES。"
+    },
+    "39": {
+      "loc": "p9",
+      "key": "In some ways, it's not so different to science, where we are constantly looking for systems and decoding meaning",
+      "why": "作者认为艺术与科学在寻找意义上类似，并未比较两者「找到意义的难易程度」，属于 NOT GIVEN。"
+    },
+    "40": {
+      "loc": "p9",
+      "key": "It would, however, be foolish to reduce art appreciation to a set of scientific laws",
+      "why": "全文以神经科学视角探讨大脑如何回应抽象艺术，同时提醒不能把艺术简化为纯科学规律，最贴切的副标题是 A「关于大脑如何回应抽象艺术的一些科学见解」。"
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Raising the Mary Rose",
+      "subtitle": "How a sixteenth-century warship was recovered from the seabed",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "On 19 July 1545, English and French fleets were engaged in a sea battle off the coast of southern England in the area of water called the Solent, between Portsmouth and the Isle of Wight. Among the English vessels was a warship by the name of Mary Rose. Built in Portsmouth some 35 years earlier, she had had a long and successful fighting career, and was a favourite of King Henry VIII. Accounts of what happened to the ship vary: while witnesses agree that she was not hit by the French, some maintain that she was outdated, overladen and sailing too low in the water others that she was mishandled by undisciplined crew. What is undisputed, however, is that the Mary Rose sank into the Solent that day, taking at least 500 men with her. After the battle, attempts were made to recover the ship, but these failed."
+        },
+        {
+          "id": "p2",
+          "text": "The Mary Rose came to rest on the seabed, lying on her starboard (right) side at an angle of approximately 60 degrees. The hull (the body of the ship) acted as a trap for the sand and mud carried by Solent currents. As a result, the starboard side filled rapidly, leaving the exposed port (left) side to be eroded by marine organisms and mechanical degradation. Because of the way the ship sank, nearly all of the starboard half survived intact. During the seventeenth and eighteenth centuries, the entire site became covered with a layer of hard grey clay, which minimised further erosion."
+        },
+        {
+          "id": "p3",
+          "text": "Then, on 16 June 1836, some fishermen in the Solent found that their equipment was caught on an underwater obstruction, which turned out to be the Mary Rose. Diver John Deane happened to be exploring another sunken ship nearby, and the fishermen approached him, asking him to free their gear. Deane dived down, and found the equipment caught on a timber protruding slightly from the seabed. Exploring further, he uncovered several other timbers and a bronze gun. Deane continued diving on the site intermittently until 1840, recovering several more guns, two bows, various timbers, part of a pump and various other small finds."
+        },
+        {
+          "id": "p4",
+          "text": "The Mary Rose then faded into obscurity for another hundred years. But in 1965, military historian and amateur diver Alexander McKee, in conjunction with the British Sub-Aqua Club, initiated a project called 'Solent Ships'. While on paper this was a plan to examine a number of known wrecks in the Solent, what McKee really hoped for was to find the Mary Rose. Ordinary search techniques proved unsatisfactory, so McKee entered into collaboration with Harold E. Edgerton, professor of electrical engineering at the Massachusetts Institute of Technology. In 1967, Edgerton's side-scan sonar systems revealed a large, unusually shaped object, which McKee believed was the Mary Rose."
+        },
+        {
+          "id": "p5",
+          "text": "Further excavations revealed stray pieces of timber and an iron gun. But the climax to the operation came when, on 5 May 1971, part of the ship's frame was uncovered. McKee and his team now knew for certain that they had found the wreck, but were as yet unaware that it also housed a treasure trove of beautifully preserved artefacts. Interest in the project grew, and in 1979, The Mary Rose Trust was formed, with Prince Charles as its President and Dr Margaret Rule its Archaeological Director. The decision whether or not to salvage the wreck was not an easy one, although an excavation in 1978 had shown that it might be possible to raise the hull. While the original aim was to raise the hull if at all feasible, the operation was not given the go-ahead until January 1982, when all the necessary information was available."
+        },
+        {
+          "id": "p6",
+          "text": "An important factor in trying to salvage the Mary Rose was that the remaining hull was an open shell. This led to an important decision being taken: namely to carry out the lifting operation in three very distinct stages. The hull was attached to a lifting frame via a network of bolts and lifting wires. The problem of the hull being sucked back downwards into the mud was overcome by using 12 hydraulic jacks."
+        },
+        {
+          "id": "p7",
+          "text": "These raised it a few centimetres over a period of several days, as the lifting frame rose slowly up its four legs. It was only when the hull was hanging freely from the lifting frame, clear of the seabed and the suction effect of the surrounding mud, that the salvage operation progressed to the second stage. In this stage, the lifting frame was fixed to a hook attached to a crane, and the hull was lifted completely clear of the seabed and transferred underwater into the lifting cradle. This required precise positioning to locate the legs into the 'stabbing guides' of the lifting cradle. The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull's delicate timber framework. The third and final stage was to lift the entire structure into the air, by which time the hull was also supported from below. Finally, on 11 October 1982, millions of people around the world held their breath as the timber skeleton of the Mary Rose was lifted clear of the water, ready to be returned home to Portsmouth."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            4
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 1,
+              "text": "There is some doubt about what caused the Mary Rose to sink."
+            },
+            {
+              "n": 2,
+              "text": "The Mary Rose was the only ship to sink in the battle of 19 July 1545."
+            },
+            {
+              "n": 3,
+              "text": "Most of one side of the Mary Rose lay undamaged under the sea."
+            },
+            {
+              "n": 4,
+              "text": "Alexander McKee knew that the wreck would contain many valuable historical objects."
+            }
+          ]
+        },
+        {
+          "range": [
+            5,
+            8
+          ],
+          "type": "matching",
+          "instruction": "Look at the following statements (Questions 5-8) and the list of dates below. Match each statement with the correct date, A-G.",
+          "limit": "Write the correct letter, A-G, in boxes 5-8 on your answer sheet.",
+          "optionsTitle": "List of Dates",
+          "options": [
+            {
+              "k": "A",
+              "text": "1836"
+            },
+            {
+              "k": "B",
+              "text": "1840"
+            },
+            {
+              "k": "C",
+              "text": "1965"
+            },
+            {
+              "k": "D",
+              "text": "1967"
+            },
+            {
+              "k": "E",
+              "text": "1971"
+            },
+            {
+              "k": "F",
+              "text": "1979"
+            },
+            {
+              "k": "G",
+              "text": "1982"
+            }
+          ],
+          "itemsTitle": "Statements",
+          "items": [
+            {
+              "n": 5,
+              "text": "A search for the Mary Rose was launched."
+            },
+            {
+              "n": 6,
+              "text": "One person's exploration of the Mary Rose site stopped."
+            },
+            {
+              "n": 7,
+              "text": "It was agreed that the hull of the Mary Rose should be raised."
+            },
+            {
+              "n": 8,
+              "text": "The site of the Mary Rose was found by chance."
+            }
+          ]
+        },
+        {
+          "range": [
+            9,
+            13
+          ],
+          "type": "notes",
+          "instruction": "Label the diagram below.",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "title": "Raising the hull of the Mary Rose: Stages one and two",
+          "lines": [
+            "## Stage one",
+            "{{9}} attached to hull of ship by wires, held up by legs",
+            "{{10}} used to prevent hull being sucked into mud",
+            "## Stage two",
+            "crane and hook lift the hull, which hangs from the lifting frame",
+            "legs are placed into {{11}}",
+            "hull is lowered into {{12}}",
+            "{{13}} used as extra protection for the hull"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "What destroyed the civilisation of Easter Island?",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 on the following pages.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Easter Island, or Rapu Nui as it is known locally, is home to several hundred ancient human statues - the moai. After this remote Pacific island was settled by the Polynesians, it remained isolated for centuries. All the energy and resources that went into the moai - some of which are ten metres tall and weigh over 7,000 kilos - came from the island itself. Yet when Dutch explorers landed in 1722, they met a Stone Age culture. The moai were carved with stone tools, then transported for many kilometres, without the use of animals or wheels, to massive stone platforms. The identity of the moai builders was in doubt until well into the twentieth century. Thor Heyerdahl, the Norwegian ethnographer and adventurer, thought the statues had been created by pre-Inca peoples from Peru. Bestselling Swiss author Erich von Daniken believed they were built by stranded extraterrestrials. Modern science - linguistic, archaeological and genetic evidence - has definitively proved the moai builders were Polynesians, but not how they moved their creations. Local folklore maintains that the statues walked, while researchers have tended to assume the ancestors dragged the statues somehow, using ropes and logs."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "When the Europeans arrived, Rapa Nui was grassland, with only a few scrawny trees. In the 1970s and 1980s, though, researchers found pollen preserved in lake sediments, which proved the island had been covered in lush palm forests for thousands of years. Only after the Polynesians arrived did those forests disappear. US scientist Jared Diamond believes that the Rapanui people - descendants of Polynesian settlers - wrecked their own environment. They had unfortunately settled on an extremely fragile island - dry, cool, and too remote to be properly fertilised by windblown volcanic ash. When the islanders cleared the forests for firewood and farming, the forests didn't grow back. As trees became scarce and they could no longer construct wooden canoes for fishing, they ate birds. Soil erosion decreased their crop yields. Before Europeans arrived, the Rapanui had descended into civil war and cannibalism, he maintains. The collapse of their isolated civilisation, Diamond writes, is a 'worst-case scenario for what may lie ahead of us in our own future '"
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "The moai, he thinks, accelerated the self-destruction. Diamond interprets them as power displays by rival chieftains who, trapped on a remote little island, lacked other ways of asserting their dominance. They competed by building ever bigger figures. Diamond thinks they laid the moai on wooden sledges, hauled over log rails, but that required both a lot of wood and a lot of people. To feed the people, even more land had to be cleared. When the wood was gone and civil war began, the islanders began toppling the moai. By the nineteenth century none were standing."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Archaeologists Terry Hunt of the University of Hawaii and Carl Lipo of California State University agree that Easter Island lost its lush forests and that it was an 'ecological catastrophe'－ but they believe the islanders themselves weren't to blame. And the moai certainly weren't. Archaeological excavations indicate that the Rapanui went to heroic efforts to protect the resources of their wind-lashed, infertile fields. They built thousands of circular stone windbreaks and gardened inside them, and used broken volcanic rocks to keep the soil moist. In short, Hunt and Lipo argue, the prehistoric Rapanui were pioneers of sustainable farming."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Hunt and Lipo contend that moai-building was an activity that helped keep the peace between islanders. They also believe that moving the moai required few people and no wood, because they were walked upright. On that issue, Hunt and Lipo say, archaeological evidence backs up Rapanui folklore. Recent experiments indicate that as few as 18 people could, with three strong ropes and a bit of practice, easily manoeuvre a 1,000 kg moai replica a few hundred metres. The figures' fat bellies tilted them forward, and a D-shaped base allowed handlers to roll and rock them side to side."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Moreover, Hunt and Lipo are convinced that the settlers were not wholly responsible for the loss of the island's trees. Archaeological finds of nuts from the extinct Easter Island palm show tiny grooves, made by the teeth of Polynesian rats. The rats arrived along with the settlers, and in just a few years, Hunt and Lipo calculate, they would have overrun the island. They would have prevented the reseeding of the slow-growing palm trees and thereby doomed Rapa Nui's forest, even without the settlers' campaign of deforestation. No doubt the rats ate birds' eggs too. Hunt and Lipo also see no evidence that Rapanui civilisation collapsed when the palm forest did. They think its population grew rapidly and then remained more or less stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity. Then in the nineteenth century slave traders decimated the population, which shrivelled to 111 people by 1877."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "Hunt and Lipo's vision, therefore, is one of an island populated by peaceful and ingenious moai builders and careful stewards of the land, rather than by reckless destroyers ruining their own environment and society. 'Rather than a case of abject failure, Rapu Nui is an unlikely story of success', they claim. Whichever is the case, there are surely some valuable lessons which the world at large can learn from the story of Rapa Nui."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            20
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 2 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below.",
+          "limit": "Write the correct number, i-ix, in boxes 14-20 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "Evidence of innovative environment management practices"
+            },
+            {
+              "k": "ii",
+              "text": "An undisputed answer to a question about the moai"
+            },
+            {
+              "k": "iii",
+              "text": "The future of the moai statues"
+            },
+            {
+              "k": "iv",
+              "text": "A theory which supports a local belief"
+            },
+            {
+              "k": "v",
+              "text": "The future of Easter Island"
+            },
+            {
+              "k": "vi",
+              "text": "Two opposing views about the Rapanui people"
+            },
+            {
+              "k": "vii",
+              "text": "Destruction outside the inhabitants' control"
+            },
+            {
+              "k": "viii",
+              "text": "How the statues made a situation worse"
+            },
+            {
+              "k": "ix",
+              "text": "Diminishing food resources"
+            }
+          ],
+          "itemsTitle": "Paragraphs",
+          "items": [
+            {
+              "n": 14,
+              "text": "Paragraph A"
+            },
+            {
+              "n": 15,
+              "text": "Paragraph B"
+            },
+            {
+              "n": 16,
+              "text": "Paragraph C"
+            },
+            {
+              "n": 17,
+              "text": "Paragraph D"
+            },
+            {
+              "n": 18,
+              "text": "Paragraph E"
+            },
+            {
+              "n": 19,
+              "text": "Paragraph F"
+            },
+            {
+              "n": 20,
+              "text": "Paragraph G"
+            }
+          ]
+        },
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Jared Diamond's View",
+          "text": "Diamond believes that the Polynesian settlers on Rapa Nui destroyed its forests, cutting down its trees for fuel and clearing land for {{21}}. Twentieth-century discoveries of pollen prove that Rapa Nui had once been covered in palm forests, which had turned into grassland by the time the Europeans arrived on the island. When the islanders were no longer able to build the {{22}} they needed to go fishing, they began using the island's {{23}} as a food source, according to Diamond. Diamond also claims that the moai were built to show the power of the island's chieftains, and that the methods of transporting the statues needed not only a great number of people, but also a great deal of {{24}}."
+        },
+        {
+          "range": [
+            25,
+            26
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "On what points do Hunt and Lipo disagree with Diamond?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "the period when the moai were created"
+            },
+            {
+              "k": "B",
+              "text": "how the moai were transported"
+            },
+            {
+              "k": "C",
+              "text": "the impact of the moai on Rapanui society"
+            },
+            {
+              "k": "D",
+              "text": "how the moai were carved"
+            },
+            {
+              "k": "E",
+              "text": "the origins of the people who made the moai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Neuroaesthetics",
+      "subtitle": "An emerging discipline called neuroaesthetics is seeking to bring scientific objectivity to the study of art, and has already given us a better understanding of many masterpieces.",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "The blurred imagery of Impressionist paintings seems to stimulate the brain's amygdala, for instance. Since the amygdala plays a crucial role in our feelings, that finding might explain why many people find these pieces so moving."
+        },
+        {
+          "id": "p2",
+          "text": "Could the same approach also shed light on abstract twentieth-century pieces, from Mondrian's geometrical blocks of colour, to Pollock's seemingly haphazard arrangements of splashed paint on canvas? Sceptics believe that people claim to like such works simply because they are famous. We certainly do have an inclination to follow the crowd. When asked to make simple perceptual decisions such as matching a shape to its rotated image, for example, people often choose a definitively wrong answer if they see others doing the same. It is easy to imagine that this mentality would have even more impact on a fuzzy concept like art appreciation, where there is no right or wrong answer."
+        },
+        {
+          "id": "p3",
+          "text": "Angelina Hawley-Dolan, of Boston College, Massachusetts, responded to this debate by asking volunteers to view pairs of paintings - either the creations of famous abstract artists or the doodles of infants, chimps and elephants. They then had to judge which they preferred. A third of the paintings were given no captions, while many were labelled incorrectly - volunteers might think they were viewing a chimp's messy brushstrokes when they were actually seeing an acclaimed masterpiece. In each set of trials, volunteers generally preferred the work of renowned artists, even when they believed it was by an animal or a child. It seems that the viewer can sense the artist's vision in paintings, even if they can't explain why."
+        },
+        {
+          "id": "p4",
+          "text": "Robert Pepperell, an artist based at Cardiff University, creates ambiguous works that are neither entirely abstract nor clearly representational. In one study, Pepperell and his collaborators asked volunteers to decide how 'powerful' they considered an artwork to be, and whether they saw anything familiar in the piece. The longer they took to answer these questions, the more highly they rated the piece under scrutiny, and the greater their neural activity. It would seem that the brain sees these images as puzzles, and the harder it is to decipher the meaning, the more rewarding is the moment of recognition."
+        },
+        {
+          "id": "p5",
+          "text": "And what about artists such as Mondrian, whose paintings consist exclusively of horizontal and vertical lines encasing blocks of colour? Mondrian's works are deceptively simple, but eye-tracking studies confirm that they are meticulously composed, and that simply rotating a piece radically changes the way we view it. With the originals, volunteers' eyes tended to stay longer on certain places in the image, but with the altered versions they would flit across a piece more rapidly. As a result, the volunteers considered the altered versions less pleasurable when they later rated the work."
+        },
+        {
+          "id": "p6",
+          "text": "In a similar study, Oshin Vartanian of Toronto University asked volunteers to compare original paintings with ones which he had altered by moving objects around within the frame. He found that almost everyone preferred the original, whether it was a Van Gogh still life or an abstract by Miro. Vartanian also found that changing the composition of the paintings reduced activation in those brain areas linked with meaning and interpretation."
+        },
+        {
+          "id": "p7",
+          "text": "In another experiment, Alex Forsythe of the University of Liverpool analysed the visual intricacy of different pieces of art, and her results suggest that many artists use a key level of detail to please the brain. Too little and the work is boring, but too much results in a kind of perceptual overload: according to Forsythe. What's more, appealing pieces both abstract and representational, show signs of fractals repeated motifs recurring in different scales. Fractals are common throughout nature, for example in the shapes of mountain peaks or the branches of trees. It is possible that our visual system, which evolved in the great outdoors, finds it easier to process such patterns."
+        },
+        {
+          "id": "p8",
+          "text": "It is also intriguing that the brain appears to process movement when we see a handwritten letter, as if we are replaying the writer's moment of creation. This has led some to wonder whether Pollock's works feel so dynamic because the brain reconstructs the energetic actions the artist used as he painted. This may be down to our brain's mirror neurons: which are known to mimic others' actions. The hypothesis will need to be thoroughly tested, however. It might even be the case that we could use neuroaesthetic studies to understand the longevity of some pieces of artwork. While the fashions of the time might shape what is currently popular, works that are best adapted to our visual system may be the most likely to linger once the trends of previous generations have been forgotten."
+        },
+        {
+          "id": "p9",
+          "text": "It's still early days for the field of neuroaesthetics - and these studies are probably only a taste of what is to come. It would, however, be foolish to reduce art appreciation to a set of scientific laws. We shouldn't underestimate the importance of the style of a particular artist, their place in history and the artistic environment of their time. Abstract art offers both a challenge and the freedom to play with different interpretations. In some ways, it's not so different to science, where we are constantly looking for systems and decoding meaning so that we can view and appreciate the world in a new way."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 27,
+              "text": "In the second paragraph, the writer refers to a shape-matching test in order to illustrate",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the subjective nature of art appreciation."
+                },
+                {
+                  "k": "B",
+                  "text": "the reliance of modern art on abstract forms."
+                },
+                {
+                  "k": "C",
+                  "text": "our tendency to be influenced by the opinions of others."
+                },
+                {
+                  "k": "D",
+                  "text": "a common problem encountered when processing visual data."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "Angelina Hawley-Dolan's findings indicate that people",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "mostly favour works of art which they know well."
+                },
+                {
+                  "k": "B",
+                  "text": "hold fixed ideas about what makes a good work of art."
+                },
+                {
+                  "k": "C",
+                  "text": "are often misled by their initial expectations of a work of art."
+                },
+                {
+                  "k": "D",
+                  "text": "have the ability to perceive the intention behind works of art."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "Results of studies involving Robert Pepperell's pieces suggest that people",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "can appreciate a painting without fully understanding it."
+                },
+                {
+                  "k": "B",
+                  "text": "find it satisfying to work out what a painting represents."
+                },
+                {
+                  "k": "C",
+                  "text": "vary widely in the time they spend looking at paintings."
+                },
+                {
+                  "k": "D",
+                  "text": "generally prefer representational art to abstract art."
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "What do the experiments described in the fifth paragraph suggest about the paintings of Mondrian?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "They are more carefully put together than they appear."
+                },
+                {
+                  "k": "B",
+                  "text": "They can be interpreted in a number of different ways."
+                },
+                {
+                  "k": "C",
+                  "text": "They challenge our assumptions about shape and colour."
+                },
+                {
+                  "k": "D",
+                  "text": "They are easier to appreciate than many other abstract works."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            31,
+            33
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words, A-H, below.",
+          "limit": "Write the correct letters, A-H, in boxes 31-33 on your answer sheet.",
+          "title": "Art and the Brain",
+          "text": "The discipline of neuroaesthetics aims to bring scientific objectivity to the study of art. Neurological studies of the brain, for example, demonstrate the impact which Impressionist paintings have on our {{31}}. Alex Forsythe of the University of Liverpool believes many artists give their works the precise degree of {{32}} which most appeals to the viewer's brain. She also observes that pleasing works of art often contain certain repeated {{33}} which occur frequently in the natural world.",
+          "options": [
+            {
+              "k": "A",
+              "text": "interpretation"
+            },
+            {
+              "k": "B",
+              "text": "complexity"
+            },
+            {
+              "k": "C",
+              "text": "emotions"
+            },
+            {
+              "k": "D",
+              "text": "movements"
+            },
+            {
+              "k": "E",
+              "text": "skill"
+            },
+            {
+              "k": "F",
+              "text": "layout"
+            },
+            {
+              "k": "G",
+              "text": "concern"
+            },
+            {
+              "k": "H",
+              "text": "images"
+            }
+          ]
+        },
+        {
+          "range": [
+            34,
+            39
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the views of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the views of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 34,
+              "text": "Forsythe's findings contradicted previous beliefs on the function of 'fractals' in art."
+            },
+            {
+              "n": 35,
+              "text": "Certain ideas regarding the link between 'mirror neurons' and art appreciation require further verification."
+            },
+            {
+              "n": 36,
+              "text": "People's taste in paintings depends entirely on the current artistic trends of the period."
+            },
+            {
+              "n": 37,
+              "text": "Scientists should seek to define the precise rules which govern people's reactions to works of art."
+            },
+            {
+              "n": 38,
+              "text": "Art appreciation should always involve taking into consideration the cultural context in which an artist worked."
+            },
+            {
+              "n": 39,
+              "text": "It is easier to find meaning in the field of science than in that of art."
+            }
+          ]
+        },
+        {
+          "range": [
+            40,
+            40
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 40,
+              "text": "What would be the most appropriate subtitle for the article?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Some scientific insights into how the brain responds to abstract art"
+                },
+                {
+                  "k": "B",
+                  "text": "Recent studies focusing on the neural activity of abstract artists"
+                },
+                {
+                  "k": "C",
+                  "text": "A comparison of the neurological bases of abstract and representational art"
+                },
+                {
+                  "k": "D",
+                  "text": "How brain research has altered public opinion about abstract art"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
