@@ -1,0 +1,88 @@
+{
+  "id": "c6t2",
+  "book": "剑桥雅思6",
+  "test": 2,
+  "title": "剑6 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "table",
+      "kindZh": "表格",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The table below gives information about changes in modes of travel in England between 1985 and 2000.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c6t2-task1.webp",
+      "imageCaption": "Average distance in miles travelled per person per year, by mode of travel",
+      "data": {
+        "unit": "Miles per person per year",
+        "years": [
+          1985,
+          2000
+        ],
+        "series": {
+          "Walking": [
+            255,
+            237
+          ],
+          "Bicycle": [
+            51,
+            41
+          ],
+          "Car": [
+            3199,
+            4806
+          ],
+          "Local bus": [
+            429,
+            274
+          ],
+          "Long distance bus": [
+            54,
+            124
+          ],
+          "Train": [
+            289,
+            366
+          ],
+          "Taxi": [
+            13,
+            42
+          ],
+          "Other": [
+            450,
+            585
+          ],
+          "All modes": [
+            4740,
+            6475
+          ]
+        }
+      },
+      "sample": {
+        "band": 6,
+        "text": "In 2000 the most preferred mode of travel is by car with 4,806 people. There's a noticable decrease in public transportation locally where it dropped from 429 people in 1985 to 274 people in 2000. However the long distance bus rides is much more preferred by people as its figures are more than doubled in the last 15 years. People who chose to walk or cycle are decreased slightly in 2000, which probably made people to take the take the train more often. There's a significant increase in the numbers of people who travelled by train. It jumped from 289 in 1985 to 366 in 2000. This makes the train second popular mode of transportation. Thi biggest leap in the chart is the increase of taxi users who are tripled in 2000 with 42 people, where it was only 13 in 1985.\n\nApart from all this modes of travel, there are some more different types of travel as well of course. Number of people choosing different modes of travel is rapidly increased from 450 to 585 in 2000.",
+        "comment": "This answer does not introduce the information in the table, nor does it report it accurately. The figures are misinterpreted as representing the number of people rather than the average number of miles travelled per person per year. Consequently the information about the increase in total travel is simply not mentioned, so not all key information is covered. There is an attempt to summarise trends in the figures, but the reader cannot get a clear overall picture of the information because of the fundamental confusion.\n\nNevertheless, the information is organised and the writing flows quite well because of good use of referencing and other connectors, but there are occasional errors in these and the links between ideas are slightly confusing at times.\n\nThe strong feature in this answer is the range of vocabulary which is used with some flexibility and good control. A good range of structures is also used, but there are still some fairly basic mistakes, such as in the choice of tense, subject/verb agreement and inappropriate use of the passive."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Successful sports professionals can earn a great deal more money than people in other important professions. Some people think this is fully justified while others think it is unfair.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "As a result of constant media attention, sports professionals in my country have become stars and celebrities, and those at the top are paid huge salaries. Just like movie stars, they live extravagant lifestyles with huge houses and cars.\n\nMany people find their rewards unfair, especially when comparing these super salaries with those of top surgeons or research scientists, or even leading politicians who have the responsibility of governing the country. However, sports salaries are not determined by considering the contribution to society a person makes, or the level of responsibility he or she holds: Instead, they reflect the public popularity of sport in general and the level of public support that successful stars can generate. So the notion of 'fairness' is not the issue.\n\nThose who feel that sports stars' salaries are justified might argue that the number of professionals with real talent are very few, and the money is a recognition of the skills and dedication a person needs to be successful. Competition is constant and a player is tested every time they perform in their relatively short career. The pressure from the media is intense and there is little privacy out of the spotlight. So all of these factors may justify the huge earnings.\n\nPersonally, I think that the amount of money such sports stars make is more justified than the huge earnings of movie stars, but at the same time, it indicates that our society places more value on sport than on more essential professions and achievements.",
+        "comment": "本书原文说明：此篇 Task 2 范文标注为 MODEL ANSWER，由考官撰写，作为该题众多可能写法中的一种示范（\"This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches.\"），未附具体的评分点评或分数，这里按满分示范处理。"
+      }
+    }
+  ]
+}

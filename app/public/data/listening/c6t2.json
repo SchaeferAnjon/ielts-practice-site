@@ -1,0 +1,2011 @@
+{
+  "id": "c6t2",
+  "book": "剑桥雅思6",
+  "test": 2,
+  "title": "剑6 Test 2 · Listening",
+  "answers": {
+    "1": [
+      "8"
+    ],
+    "2": [
+      "Tamer",
+      "in Tamer",
+      "on Tamer"
+    ],
+    "3": [
+      "green button",
+      "the green button"
+    ],
+    "4": [
+      "library",
+      "the library"
+    ],
+    "5": [
+      "education department",
+      "the education department"
+    ],
+    "6": [
+      "castles",
+      "Castles"
+    ],
+    "7": [
+      "old clothes"
+    ],
+    "8": [
+      "bottle tops"
+    ],
+    "9": [
+      "Undersea Worlds"
+    ],
+    "10": [
+      "silver paper"
+    ],
+    "11": [
+      "King Street"
+    ],
+    "12": [
+      "central",
+      "Central"
+    ],
+    "13": [
+      "half hour",
+      "30 minutes",
+      "half an hour"
+    ],
+    "14": [
+      "refreshments"
+    ],
+    "15": [
+      "10.15"
+    ],
+    "16": [
+      "Advance"
+    ],
+    "17": [
+      "seat reservations",
+      "reservations"
+    ],
+    "18": [
+      "C",
+      "D",
+      "G"
+    ],
+    "19": [
+      "C",
+      "D",
+      "G"
+    ],
+    "20": [
+      "C",
+      "D",
+      "G"
+    ],
+    "21": [
+      "catalogues",
+      "catalogs"
+    ],
+    "22": [
+      "computer centre",
+      "computer center"
+    ],
+    "23": [
+      "checklist"
+    ],
+    "24": [
+      "teaching experience"
+    ],
+    "25": [
+      "classroom"
+    ],
+    "26": [
+      "review",
+      "Review"
+    ],
+    "27": [
+      "schools"
+    ],
+    "28": [
+      "2000",
+      "the year 2000",
+      "year 2000"
+    ],
+    "29": [
+      "end of term"
+    ],
+    "30": [
+      "research"
+    ],
+    "31": [
+      "A"
+    ],
+    "32": [
+      "B"
+    ],
+    "33": [
+      "C"
+    ],
+    "34": [
+      "A"
+    ],
+    "35": [
+      "A"
+    ],
+    "36": [
+      "C"
+    ],
+    "37": [
+      "A"
+    ],
+    "38": [
+      "Great Train Robbery",
+      "The Great Train Robbery"
+    ],
+    "39": [
+      "Sound effects",
+      "sound effects"
+    ],
+    "40": [
+      "poor sound quality",
+      "poor sound"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c6/t2p1.mp3",
+      "duration": 406,
+      "title": "Children's Art and Craft Workshops",
+      "groups": [
+        {
+          "range": [
+            1,
+            5
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "Children's Art and Craft Workshops",
+          "lines": [
+            "## Example",
+            "Workshops organised every: Saturday",
+            "## Notes",
+            "Adults must accompany children under {{1}}",
+            "Cost: £2.50",
+            "Workshops held in: Winter House, {{2}} Street",
+            "Security device: must push the {{3}} to open door",
+            "Should leave car behind the {{4}}",
+            "Book workshops by phoning the {{5}} (on 200765)"
+          ]
+        },
+        {
+          "range": [
+            6,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Next two workshops",
+          "table": {
+            "head": [
+              "Date",
+              "Workshop title",
+              "Children advised to wear",
+              "Please bring (if possible)"
+            ],
+            "rows": [
+              [
+                "16/11",
+                "'Building {{6}}'",
+                "{{7}}",
+                "{{8}}"
+              ],
+              [
+                "23/11",
+                "{{9}}",
+                "(Nothing special)",
+                "{{10}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MAN",
+          "t": "Good morning, Synmouth Museum.",
+          "start": 47.15,
+          "end": 105.0
+        },
+        {
+          "s": "MAN",
+          "t": "Can I help you?",
+          "start": 105.28,
+          "end": 105.96
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh yes.",
+          "start": 107.0,
+          "end": 107.64
+        },
+        {
+          "s": "WOMAN",
+          "t": "Good morning.",
+          "start": 108.12,
+          "end": 108.52
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm interested in the children's workshops and I'd like a little more information, please.",
+          "start": 108.76,
+          "end": 113.28
+        },
+        {
+          "s": "MAN",
+          "t": "Do you mean the Art and Craft workshops?",
+          "start": 113.81,
+          "end": 115.97
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes.",
+          "start": 116.25,
+          "end": 116.69
+        },
+        {
+          "s": "WOMAN",
+          "t": "A friend of a friend mentioned them- the children do painting and make models and so forth.",
+          "start": 117.13,
+          "end": 121.81
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, of course.",
+          "start": 122.77,
+          "end": 123.49
+        },
+        {
+          "s": "MAN",
+          "t": "Um, where to begin?",
+          "start": 124.37,
+          "end": 126.17
+        },
+        {
+          "s": "MAN",
+          "t": "First of all, as you probably know, they run every Saturday.",
+          "start": 126.33,
+          "end": 130.93
+        },
+        {
+          "s": "WOMAN",
+          "t": "Fine.",
+          "start": 131.21,
+          "end": 131.97
+        },
+        {
+          "s": "WOMAN",
+          "t": "And what about ages?",
+          "start": 132.57,
+          "end": 133.61
+        },
+        {
+          "s": "MAN",
+          "t": "Well, all ages from five upwards are welcome, though we do ask that children below eight years of age are accompanied by an adult.",
+          "q": [
+            1
+          ],
+          "start": 134.78,
+          "end": 142.58
+        },
+        {
+          "s": "WOMAN",
+          "t": "Fine.",
+          "start": 143.1,
+          "end": 143.58
+        },
+        {
+          "s": "WOMAN",
+          "t": "That wouldn't be a problem.",
+          "start": 143.98,
+          "end": 145.02
+        },
+        {
+          "s": "WOMAN",
+          "t": "What about cost?",
+          "start": 145.75,
+          "end": 146.47
+        },
+        {
+          "s": "MAN",
+          "t": "Well, I think you'll find them very reasonable.",
+          "start": 147.71,
+          "end": 150.31
+        },
+        {
+          "s": "MAN",
+          "t": "It's £2.50 a child, with 80 pence off for two or more children from the same family.",
+          "start": 151.19,
+          "end": 156.79
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh yes, very reasonable.",
+          "start": 157.6,
+          "end": 159.08
+        },
+        {
+          "s": "WOMAN",
+          "t": "And are they held in the main museum?",
+          "start": 159.76,
+          "end": 161.92
+        },
+        {
+          "s": "MAN",
+          "t": "Not exactly.",
+          "start": 163.0,
+          "end": 163.52
+        },
+        {
+          "s": "MAN",
+          "t": "They're nearby.",
+          "start": 164.08,
+          "end": 164.76
+        },
+        {
+          "s": "WOMAN",
+          "t": "Could you give me the full address?",
+          "start": 165.08,
+          "end": 167.2
+        },
+        {
+          "s": "WOMAN",
+          "t": "I don't know the area very well.",
+          "start": 167.8,
+          "end": 169.32
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, it's Winter House.",
+          "start": 170.04,
+          "end": 172.68
+        },
+        {
+          "s": "WOMAN",
+          "t": "Right.",
+          "start": 173.52,
+          "end": 173.64
+        },
+        {
+          "s": "MAN",
+          "t": "And that's in Tamer Street.",
+          "start": 175.43,
+          "end": 177.55
+        },
+        {
+          "s": "WOMAN",
+          "t": "Could you spell that please?",
+          "start": 178.59,
+          "end": 179.67
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, T-A-M- E- R Street.",
+          "q": [
+            2
+          ],
+          "start": 180.51,
+          "end": 185.83
+        },
+        {
+          "s": "WOMAN",
+          "t": "Lovely.",
+          "start": 186.27,
+          "end": 187.11
+        },
+        {
+          "s": "MAN",
+          "t": "And I do need to tell you that there's a security entrance, so you need to press the green button for someone to let you in.",
+          "start": 188.07,
+          "end": 195.55
+        },
+        {
+          "s": "MAN",
+          "t": "Don't press the red button please, but don't worry, it's all clearly labelled.",
+          "q": [
+            3
+          ],
+          "start": 196.14,
+          "end": 200.22
+        },
+        {
+          "s": "WOMAN",
+          "t": "OK.",
+          "start": 200.94,
+          "end": 201.58
+        },
+        {
+          "s": "WOMAN",
+          "t": "And one more question- is parking available nearby?",
+          "start": 202.42,
+          "end": 205.86
+        },
+        {
+          "s": "WOMAN",
+          "t": "We're driving in from out of town.",
+          "start": 206.42,
+          "end": 207.98
+        },
+        {
+          "s": "MAN",
+          "t": "Your best bet is to leave your car at the back of the library - on a Saturday morning there are plenty of spaces there.",
+          "q": [
+            4
+          ],
+          "start": 209.22,
+          "end": 216.3
+        },
+        {
+          "s": "MAN",
+          "t": "It's right next door to the museum.",
+          "start": 216.84,
+          "end": 218.52
+        },
+        {
+          "s": "WOMAN",
+          "t": "And can I ask about booking places?",
+          "start": 219.48,
+          "end": 221.64
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, and I must tell you, you really should book by calling the education department here.",
+          "q": [
+            5
+          ],
+          "start": 223.12,
+          "end": 228.72
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, I'm sorry, should I have rung them instead of the main museum number?",
+          "start": 229.69,
+          "end": 234.13
+        },
+        {
+          "s": "MAN",
+          "t": "No, that's fine this time, please don't worry.",
+          "start": 234.97,
+          "end": 237.45
+        },
+        {
+          "s": "MAN",
+          "t": "But for future reference, I'll give you the direct number.",
+          "start": 237.85,
+          "end": 240.85
+        },
+        {
+          "s": "MAN",
+          "t": "It's two hundred-seven-six-five.",
+          "start": 241.66,
+          "end": 241.98
+        },
+        {
+          "s": "WOMAN",
+          "t": "Great, I've got that.",
+          "start": 244.82,
+          "end": 246.7
+        },
+        {
+          "s": "MAN",
+          "t": "But I'm very happy to give you information about the next two workshops.",
+          "start": 278.74,
+          "end": 282.7
+        },
+        {
+          "s": "MAN",
+          "t": "On Saturday the 16th there's Building Castles.",
+          "q": [
+            6
+          ],
+          "start": 283.46,
+          "end": 287.74
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, sounds great!",
+          "start": 287.82,
+          "end": 289.69
+        },
+        {
+          "s": "MAN",
+          "t": "This involves quite a bit of glue, so just make sure the kids are in old clothes.",
+          "q": [
+            7
+          ],
+          "start": 289.93,
+          "end": 295.25
+        },
+        {
+          "s": "WOMAN",
+          "t": "I know, ones I don't mind getting mucky.",
+          "start": 295.89,
+          "end": 298.29
+        },
+        {
+          "s": "MAN",
+          "t": "Exactly.",
+          "start": 299.07,
+          "end": 299.59
+        },
+        {
+          "s": "MAN",
+          "t": "And if possible, could you bring along bottle tops which the children might be able to use in the models, you know, as decoration?",
+          "q": [
+            8
+          ],
+          "start": 300.23,
+          "end": 307.55
+        },
+        {
+          "s": "WOMAN",
+          "t": "We'll certainly try to find some for you.",
+          "start": 307.91,
+          "end": 310.19
+        },
+        {
+          "s": "MAN",
+          "t": "Then the following week...",
+          "start": 311.3,
+          "end": 312.54
+        },
+        {
+          "s": "WOMAN",
+          "t": "That'll be the 23rd, won't it?",
+          "start": 313.1,
+          "end": 315.34
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, that's right.",
+          "start": 316.26,
+          "end": 316.98
+        },
+        {
+          "s": "MAN",
+          "t": "On that day, it's what we call Undersea Worlds.",
+          "start": 317.26,
+          "end": 320.98
+        },
+        {
+          "s": "MAN",
+          "t": "This is where they make scenes with fishes, underground caverns and so on.",
+          "q": [
+            9
+          ],
+          "start": 321.98,
+          "end": 326.02
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is that likely to get very dirty?",
+          "start": 326.82,
+          "end": 328.46
+        },
+        {
+          "s": "WOMAN",
+          "t": "Lots of paint splashes?",
+          "start": 328.9,
+          "end": 330.02
+        },
+        {
+          "s": "MAN",
+          "t": "Not really, so we don't recommend any special clothes for that one.",
+          "start": 330.98,
+          "end": 334.78
+        },
+        {
+          "s": "MAN",
+          "t": "But if you could search out some silver paper to bring along to use in the sessions, you know, it's shiny- it looks like water, that'd be great.",
+          "q": [
+            10
+          ],
+          "start": 335.19,
+          "end": 343.35
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, of course.",
+          "start": 343.91,
+          "end": 344.83
+        },
+        {
+          "s": "WOMAN",
+          "t": "We'll see what we can come up with.",
+          "start": 345.35,
+          "end": 346.75
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, thank you ever so much for all your help.",
+          "start": 347.54,
+          "end": 350.1
+        },
+        {
+          "s": "WOMAN",
+          "t": "The sessions sound really good and I'll certainly book up for the next two.",
+          "start": 350.5,
+          "end": 354.66
+        },
+        {
+          "s": "MAN",
+          "t": "Lovely.",
+          "start": 354.86,
+          "end": 355.86
+        },
+        {
+          "s": "MAN",
+          "t": "Thanks very much for ringing.",
+          "start": 356.54,
+          "end": 357.94
+        },
+        {
+          "s": "WOMAN",
+          "t": "Bye.",
+          "start": 358.63,
+          "end": 358.71
+        },
+        {
+          "s": "MAN",
+          "t": "Bye-bye.",
+          "start": 358.71,
+          "end": 359.83
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c6/t2p2.mp3",
+      "duration": 331,
+      "title": "Train services from Trebirch",
+      "groups": [
+        {
+          "range": [
+            11,
+            14
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "Train Information",
+          "lines": [
+            "Local services depart from {{11}} railway station.",
+            "National services depart from the {{12}} railway station.",
+            "Trains for London depart every {{13}} each day during the week.",
+            "The price of a first class ticket includes {{14}}."
+          ]
+        },
+        {
+          "range": [
+            15,
+            17
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "table": {
+            "head": [
+              "Type of ticket",
+              "Details"
+            ],
+            "rows": [
+              [
+                "Standard open",
+                "no restrictions"
+              ],
+              [
+                "Supersave",
+                "travel after 8.45"
+              ],
+              [
+                "Special",
+                "travel after {{15}} and at weekends"
+              ],
+              [
+                "{{16}}",
+                "buy at least six days ahead\nlimited numbers\n{{17}} essential"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            18,
+            20
+          ],
+          "type": "mc-multi",
+          "count": 3,
+          "instruction": "Choose THREE letters, A-G. Which THREE attractions can you visit at present by train from Trebirch?",
+          "options": [
+            {
+              "k": "A",
+              "text": "a science museum"
+            },
+            {
+              "k": "B",
+              "text": "a theme park"
+            },
+            {
+              "k": "C",
+              "text": "a climbing wall"
+            },
+            {
+              "k": "D",
+              "text": "a mining museum"
+            },
+            {
+              "k": "E",
+              "text": "an aquarium"
+            },
+            {
+              "k": "F",
+              "text": "a castle"
+            },
+            {
+              "k": "G",
+              "text": "a zoo"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "CUSTOMER",
+          "t": "Hello.",
+          "start": 55.45,
+          "end": 55.57
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Um my family and I are staying here in Trebirch for a week or two and we wanted to know about the train services.",
+          "start": 56.21,
+          "end": 62.69
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "We're hoping to do a few local trips.",
+          "start": 62.69,
+          "end": 65.21
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "OK.",
+          "start": 65.37,
+          "end": 66.01
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "Well, I can give you lots of details about all the trains going from Trebirch in the South West.",
+          "start": 66.65,
+          "end": 71.41
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "This leaflet will be very helpful but I can tell you some of the main things.",
+          "start": 72.86,
+          "end": 77.26
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "We've got two main train stations in the town.",
+          "start": 78.06,
+          "end": 80.78
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "King Street is for local commuter lines and regional services.",
+          "q": [
+            11
+          ],
+          "start": 81.42,
+          "end": 85.26
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "What about trains to London?",
+          "start": 86.13,
+          "end": 87.73
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "I'll need to go there on business for one day.",
+          "start": 87.93,
+          "end": 90.45
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "Then you need to go to Central Station- that's for all the national services.",
+          "q": [
+            12
+          ],
+          "start": 90.61,
+          "end": 95.41
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "There are regular trains to London.",
+          "start": 96.29,
+          "end": 97.73
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "They leave Trebirch every half hour on weekdays and every hour at weekends.",
+          "q": [
+            13
+          ],
+          "start": 98.37,
+          "end": 103.21
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "It takes about two hours, a bit longer on Sundays.",
+          "start": 103.29,
+          "end": 107.05
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "You've got a choice of first and second class and there's a buffet car- though refreshments are included in the cost of a first class ticket.",
+          "q": [
+            14
+          ],
+          "start": 107.91,
+          "end": 115.95
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Ah right.",
+          "start": 116.11,
+          "end": 116.95
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Um, and have you got any information on different ticket types?",
+          "start": 117.35,
+          "end": 121.51
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "Yes.",
+          "start": 122.11,
+          "end": 122.27
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "There's a range of ticket prices depending on when you travel and when you buy your ticket.",
+          "start": 122.99,
+          "end": 128.47
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "There's a standard open ticket which doesn't have any restrictions.",
+          "start": 129.49,
+          "end": 133.77
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "This can be bought in advance or on the day.",
+          "start": 134.41,
+          "end": 137.41
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "You can also get various discounted tickets.",
+          "start": 138.17,
+          "end": 141.21
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "A popular one is called the Supersave and, er, this is OK for travel after 8.45.",
+          "start": 141.93,
+          "end": 148.43
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "Then there is the Special ticket, which is valid for travel after 10.15.",
+          "q": [
+            15
+          ],
+          "start": 149.27,
+          "end": 154.55
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "The Special tickets are also valid for travel at weekends.",
+          "start": 155.7,
+          "end": 159.02
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "The cheapest tickets are called Advance and you have to buy them at least six days ahead.",
+          "q": [
+            16
+          ],
+          "start": 159.18,
+          "end": 166.46
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "Only a certain number are available and you have to make seat reservations for these.",
+          "q": [
+            17
+          ],
+          "start": 167.38,
+          "end": 172.5
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Thanks.",
+          "start": 205.31,
+          "end": 205.95
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "And are there lots of places to go to around here?",
+          "start": 206.35,
+          "end": 209.71
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "Oh yes.",
+          "start": 210.35,
+          "end": 211.07
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "You can enjoy many days out.",
+          "start": 211.75,
+          "end": 213.63
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "Um there's the Merthyr Mining Museum, which is only half an hour from Trebirch by train.",
+          "q": [
+            18,
+            19,
+            20
+          ],
+          "start": 214.23,
+          "end": 220.57
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "Your children will find it just as fascinating as any theme park and they can ride in the original miners' lifts and on the coal trains.",
+          "start": 221.45,
+          "end": 229.77
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "There are special excursion tickets which include entrance fees.",
+          "start": 231.1,
+          "end": 234.66
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "Mainline trains also offer direct services to Bristol, where you can visit the docks or spend a great day out with the children in the zoo, which is set in the parkland that used to surround the old castle.",
+          "q": [
+            18,
+            19,
+            20
+          ],
+          "start": 234.82,
+          "end": 247.63
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "Er, special family awayday fares are available for this service now during the school holidays.",
+          "start": 248.99,
+          "end": 253.99
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "Er, alternatively, you can be in Birmingham in only an hour and a half, where there's lots to see and do including the new and internationally-acclaimed climbing wall built on the site of the old aquarium.",
+          "q": [
+            18,
+            19,
+            20
+          ],
+          "start": 255.27,
+          "end": 268.34
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "We will also be running a special service to Newport when the new science museum opens next year, as we anticipate a lot of visitors in the opening weeks.",
+          "start": 268.78,
+          "end": 278.82
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "I'd advise you to call early to book your tickets.",
+          "start": 279.51,
+          "end": 282.03
+        },
+        {
+          "s": "RAILPERSON",
+          "t": "Is that OK?",
+          "start": 282.79,
+          "end": 283.67
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Yes, thanks.",
+          "start": 283.99,
+          "end": 284.47
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c6/t2p3.mp3",
+      "duration": 369,
+      "title": "Dissertation Tutorial Record",
+      "groups": [
+        {
+          "range": [
+            21,
+            30
+          ],
+          "type": "table",
+          "instruction": "Complete the tables below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Dissertation Tutorial Record (Education) — Name: Sandy Gibbons",
+          "table": {
+            "head": [
+              "Targets previously agreed",
+              "Work completed",
+              "Further action suggested"
+            ],
+            "rows": [
+              [
+                "Investigate suitable data analysis software",
+                "- Read IT {{21}}\n- Spoken to Jane Prince, Head of the {{22}}",
+                "Sign up for some software practice sessions"
+              ],
+              [
+                "Prepare a {{23}} for survey",
+                "- Completed and sent for review",
+                "Add questions in section three on {{24}}"
+              ],
+              [
+                "Further reading about discipline",
+                "- Read Banerjee\n- N.B. Couldn't find Ericsson's essays on managing the {{25}}",
+                "Obtain from library through special loans service"
+              ],
+              [
+                "New Targets",
+                "",
+                ""
+              ],
+              [
+                "Do further work on Chapter 1 (Give the title: Context {{26}})",
+                "- Add statistics on the {{27}} in various zones\n- Include more references to works dated after {{28}}",
+                "By the {{29}}"
+              ],
+              [
+                "Prepare list of main sections for Chapter 2",
+                "- Use index cards to help in organisation",
+                "Before starting the {{30}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TUTOR",
+          "t": "Hello, Sandy.",
+          "start": 50.54,
+          "end": 51.14
+        },
+        {
+          "s": "TUTOR",
+          "t": "How have you been getting on with your dissertation?",
+          "start": 51.62,
+          "end": 53.14
+        },
+        {
+          "s": "SANDY",
+          "t": "Fine, and I've been working hard on the various action points we agreed on our last tutorial.",
+          "start": 53.42,
+          "end": 58.34
+        },
+        {
+          "s": "TUTOR",
+          "t": "Do you want to talk me through what you've done?",
+          "start": 58.34,
+          "end": 60.62
+        },
+        {
+          "s": "SANDY",
+          "t": "Yeah, sure.",
+          "start": 60.82,
+          "end": 61.54
+        },
+        {
+          "s": "SANDY",
+          "t": "Well, we agreed on three main targets for me to aim for.",
+          "start": 62.25,
+          "end": 65.53
+        },
+        {
+          "s": "SANDY",
+          "t": "The first one was to find out about suitable data analysis software.",
+          "start": 66.21,
+          "end": 69.89
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes.",
+          "start": 69.97,
+          "end": 70.29
+        },
+        {
+          "s": "SANDY",
+          "t": "And what I decided to do was to look through catalogues specialising in IT.",
+          "q": [
+            21
+          ],
+          "start": 70.69,
+          "end": 74.93
+        },
+        {
+          "s": "TUTOR",
+          "t": "That's a good idea.",
+          "start": 74.97,
+          "end": 75.77
+        },
+        {
+          "s": "TUTOR",
+          "t": "What did you come up with?",
+          "start": 76.21,
+          "end": 77.41
+        },
+        {
+          "s": "SANDY",
+          "t": "I found the names of two promising ones.",
+          "start": 77.81,
+          "end": 79.81
+        },
+        {
+          "s": "TUTOR",
+          "t": "Right.",
+          "start": 80.09,
+          "end": 80.37
+        },
+        {
+          "s": "SANDY",
+          "t": "But I also thought it'd be worthwhile talking to a lecturer.",
+          "start": 80.37,
+          "end": 83.93
+        },
+        {
+          "s": "TUTOR",
+          "t": "Oh right.",
+          "start": 84.45,
+          "end": 85.17
+        },
+        {
+          "s": "TUTOR",
+          "t": "Who did you see?",
+          "start": 85.45,
+          "end": 86.53
+        },
+        {
+          "s": "SANDY",
+          "t": "Jane Prince.",
+          "start": 86.65,
+          "end": 87.69
+        },
+        {
+          "s": "SANDY",
+          "t": "Do you know her?",
+          "start": 88.41,
+          "end": 89.05
+        },
+        {
+          "s": "SANDY",
+          "t": "She's in the Computer Centre.",
+          "q": [
+            22
+          ],
+          "start": 89.37,
+          "end": 90.41
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, of course, she's the new Head.",
+          "start": 91.05,
+          "end": 93.09
+        },
+        {
+          "s": "SANDY",
+          "t": "Yes.",
+          "start": 93.25,
+          "end": 93.57
+        },
+        {
+          "s": "SANDY",
+          "t": "Well, she was very helpful.",
+          "start": 93.77,
+          "end": 95.01
+        },
+        {
+          "s": "TUTOR",
+          "t": "Oh, that's good.",
+          "start": 95.25,
+          "end": 96.01
+        },
+        {
+          "s": "TUTOR",
+          "t": "Did she suggest anything in particular?",
+          "start": 96.75,
+          "end": 98.43
+        },
+        {
+          "s": "SANDY",
+          "t": "Yeah.",
+          "start": 98.67,
+          "end": 99.07
+        },
+        {
+          "s": "SANDY",
+          "t": "She recommended software called Vivat and said I should book up for a couple of practice sessions using Vivat.",
+          "start": 99.15,
+          "end": 104.39
+        },
+        {
+          "s": "TUTOR",
+          "t": "Great.",
+          "start": 104.71,
+          "end": 104.95
+        },
+        {
+          "s": "TUTOR",
+          "t": "I'm sure you'll find them useful.",
+          "start": 104.99,
+          "end": 107.15
+        },
+        {
+          "s": "SANDY",
+          "t": "And, of course, the second target was to draw up a survey checklist which I...",
+          "q": [
+            23
+          ],
+          "start": 107.27,
+          "end": 112.17
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes, you emailed me it last week.",
+          "start": 112.57,
+          "end": 114.93
+        },
+        {
+          "s": "SANDY",
+          "t": "Have you had a chance to look...?",
+          "start": 115.01,
+          "end": 116.41
+        },
+        {
+          "s": "TUTOR",
+          "t": "Of course, um I think it's good.",
+          "start": 116.41,
+          "end": 121.06
+        },
+        {
+          "s": "TUTOR",
+          "t": "Very much on the right lines.",
+          "start": 121.74,
+          "end": 123.1
+        },
+        {
+          "s": "TUTOR",
+          "t": "I'd say your first two sections are spot on.",
+          "start": 123.9,
+          "end": 126.62
+        },
+        {
+          "s": "TUTOR",
+          "t": "I wouldn't suggest that you change anything there, but in section three you really do need to have questions on teaching experience.",
+          "q": [
+            24
+          ],
+          "start": 127.14,
+          "end": 134.26
+        },
+        {
+          "s": "SANDY",
+          "t": "Yeah.",
+          "start": 134.58,
+          "end": 135.1
+        },
+        {
+          "s": "SANDY",
+          "t": "I was thinking that section looked a bit short.",
+          "start": 135.34,
+          "end": 137.22
+        },
+        {
+          "s": "TUTOR",
+          "t": "Right.",
+          "start": 137.54,
+          "end": 137.66
+        },
+        {
+          "s": "SANDY",
+          "t": "And my third target was, do further reading on discipline.",
+          "start": 137.86,
+          "end": 142.77
+        },
+        {
+          "s": "TUTOR",
+          "t": "Oh yes.",
+          "start": 142.93,
+          "end": 143.41
+        },
+        {
+          "s": "TUTOR",
+          "t": "I mentioned a couple of writers, didn't I?",
+          "start": 143.61,
+          "end": 145.33
+        },
+        {
+          "s": "SANDY",
+          "t": "Yes, well I got hold of the Banerjee and I thought that was excellent.",
+          "start": 145.41,
+          "end": 148.89
+        },
+        {
+          "s": "SANDY",
+          "t": "But I'm afraid I didn't manage to get hold of the essays about classroom management - you know, the ones by Simon Ericsson.",
+          "start": 149.05,
+          "end": 155.01
+        },
+        {
+          "s": "SANDY",
+          "t": "The bookshop said it was out of print and the library doesn't have a copy.",
+          "q": [
+            25
+          ],
+          "start": 156.24,
+          "end": 159.32
+        },
+        {
+          "s": "TUTOR",
+          "t": "Oh right, and I'm afraid I've lent my copy to another student.",
+          "start": 159.52,
+          "end": 163.16
+        },
+        {
+          "s": "TUTOR",
+          "t": "What I suggest you do is try the library again - this time apply for it through the service called special loans.",
+          "start": 164.96,
+          "end": 171.18
+        },
+        {
+          "s": "TUTOR",
+          "t": "Have you done that before?",
+          "start": 171.34,
+          "end": 172.1
+        },
+        {
+          "s": "TUTOR",
+          "t": "You're entitled to six books a year.",
+          "start": 172.42,
+          "end": 174.86
+        },
+        {
+          "s": "SANDY",
+          "t": "Yes.",
+          "start": 175.02,
+          "end": 175.58
+        },
+        {
+          "s": "SANDY",
+          "t": "No problem.",
+          "start": 176.38,
+          "end": 176.94
+        },
+        {
+          "s": "SANDY",
+          "t": "That's what I'll do.",
+          "start": 176.98,
+          "end": 177.74
+        },
+        {
+          "s": "TUTOR",
+          "t": "So, lots of useful work done.",
+          "start": 177.86,
+          "end": 179.98
+        },
+        {
+          "s": "TUTOR",
+          "t": "So, let's look at some new targets.",
+          "start": 223.37,
+          "end": 225.61
+        },
+        {
+          "s": "TUTOR",
+          "t": "We'll start by having a chat about your Chapter One.",
+          "start": 226.41,
+          "end": 229.29
+        },
+        {
+          "s": "TUTOR",
+          "t": "I very much enjoyed reading it.",
+          "start": 230.01,
+          "end": 231.53
+        },
+        {
+          "s": "TUTOR",
+          "t": "Your written style is very clear and you've included lots of interesting descriptions of education in your target area.",
+          "start": 231.69,
+          "end": 239.41
+        },
+        {
+          "s": "TUTOR",
+          "t": "I've just got a couple of suggestions for some additional work.",
+          "start": 240.41,
+          "end": 244.25
+        },
+        {
+          "s": "SANDY",
+          "t": "Of course.",
+          "start": 244.41,
+          "end": 245.09
+        },
+        {
+          "s": "SANDY",
+          "t": "Could I just ask- what do you think I should call it?",
+          "start": 245.45,
+          "end": 248.37
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, I'd go for something like Context Review.",
+          "start": 248.61,
+          "end": 252.25
+        },
+        {
+          "s": "TUTOR",
+          "t": "What do you think?",
+          "q": [
+            26
+          ],
+          "start": 252.65,
+          "end": 253.17
+        },
+        {
+          "s": "SANDY",
+          "t": "Well, short and to the point.",
+          "start": 253.21,
+          "end": 255.02
+        },
+        {
+          "s": "TUTOR",
+          "t": "Exactly.",
+          "start": 255.38,
+          "end": 255.54
+        },
+        {
+          "s": "TUTOR",
+          "t": "Now, as regards specific areas to work on, I'd be quite interested to have a few more statistics about the schools in the different zones.",
+          "q": [
+            27
+          ],
+          "start": 255.98,
+          "end": 264.02
+        },
+        {
+          "s": "SANDY",
+          "t": "Oh, that wouldn't be a problem.",
+          "start": 264.34,
+          "end": 265.42
+        },
+        {
+          "s": "SANDY",
+          "t": "I can get them from the Internet.",
+          "start": 265.54,
+          "end": 266.78
+        },
+        {
+          "s": "TUTOR",
+          "t": "Great, and although you did make a reference to quite a few different writers, I think you should aim to cite more works written later than 2000.",
+          "q": [
+            28
+          ],
+          "start": 267.14,
+          "end": 275.46
+        },
+        {
+          "s": "SANDY",
+          "t": "OK.",
+          "start": 275.74,
+          "end": 276.1
+        },
+        {
+          "s": "SANDY",
+          "t": "That's more difficult, but I can try.",
+          "start": 276.98,
+          "end": 278.78
+        },
+        {
+          "s": "SANDY",
+          "t": "When do you want that done by?",
+          "start": 279.93,
+          "end": 281.09
+        },
+        {
+          "s": "TUTOR",
+          "t": "Oh, it's not urgent.",
+          "start": 281.25,
+          "end": 282.41
+        },
+        {
+          "s": "TUTOR",
+          "t": "Um I should aim for the end of term.",
+          "start": 282.93,
+          "end": 285.45
+        },
+        {
+          "s": "TUTOR",
+          "t": "But in the meantime, I think you should also be thinking about Chapter Two.",
+          "q": [
+            29
+          ],
+          "start": 285.89,
+          "end": 289.69
+        },
+        {
+          "s": "SANDY",
+          "t": "Should I be drafting it already?",
+          "start": 289.97,
+          "end": 291.65
+        },
+        {
+          "s": "TUTOR",
+          "t": "No, but I think you should note down its main sections.",
+          "start": 291.89,
+          "end": 294.53
+        },
+        {
+          "s": "SANDY",
+          "t": "Yes.",
+          "start": 294.53,
+          "end": 294.77
+        },
+        {
+          "s": "SANDY",
+          "t": "You know, I always find that the hardest part.",
+          "start": 296.12,
+          "end": 298.2
+        },
+        {
+          "s": "TUTOR",
+          "t": "I always find it helpful to put some ideas on index cards.",
+          "start": 298.72,
+          "end": 301.88
+        },
+        {
+          "s": "SANDY",
+          "t": "Yeah.",
+          "start": 301.88,
+          "end": 302.24
+        },
+        {
+          "s": "TUTOR",
+          "t": "Um... and then you can sort them, and even lay them out on the floor.",
+          "start": 302.92,
+          "end": 306.32
+        },
+        {
+          "s": "TUTOR",
+          "t": "It's a real help.",
+          "start": 306.4,
+          "end": 307.48
+        },
+        {
+          "s": "SANDY",
+          "t": "Well, I'll certainly try it!",
+          "start": 307.64,
+          "end": 309.7
+        },
+        {
+          "s": "SANDY",
+          "t": "When would the deadline be for that?",
+          "start": 310.18,
+          "end": 311.78
+        },
+        {
+          "s": "TUTOR",
+          "t": "My advice would be to get it done before you embark upon the research.",
+          "start": 312.38,
+          "end": 316.7
+        },
+        {
+          "s": "TUTOR",
+          "t": "You can always change it later if you need to.",
+          "q": [
+            30
+          ],
+          "start": 317.78,
+          "end": 319.9
+        },
+        {
+          "s": "SANDY",
+          "t": "OK.",
+          "start": 319.94,
+          "end": 320.06
+        },
+        {
+          "s": "SANDY",
+          "t": "I'll get going on that then.",
+          "start": 320.22,
+          "end": 321.9
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c6/t2p4.mp3",
+      "duration": 410,
+      "title": "The history of moving pictures",
+      "groups": [
+        {
+          "range": [
+            31,
+            37
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "The history of moving pictures",
+          "questions": [
+            {
+              "n": 31,
+              "text": "Some photographs of a horse running showed",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "all feet off the ground."
+                },
+                {
+                  "k": "B",
+                  "text": "at least one foot on the ground."
+                },
+                {
+                  "k": "C",
+                  "text": "two feet off the ground."
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "The Scotsman employed by Edison",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "designed a system to use the technology Edison had invented."
+                },
+                {
+                  "k": "B",
+                  "text": "used available technology to make a new system."
+                },
+                {
+                  "k": "C",
+                  "text": "was already an expert in motion picture technology."
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "One major problem with the first system was that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "only one person could be filmed."
+                },
+                {
+                  "k": "B",
+                  "text": "people could only see very short films."
+                },
+                {
+                  "k": "C",
+                  "text": "the camera was very heavy."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "Rival systems started to appear in Europe after people had",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "been told about the American system."
+                },
+                {
+                  "k": "B",
+                  "text": "seen the American system."
+                },
+                {
+                  "k": "C",
+                  "text": "used the American system."
+                }
+              ]
+            },
+            {
+              "n": 35,
+              "text": "In 1895, a famous new system was developed by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a French team working alone."
+                },
+                {
+                  "k": "B",
+                  "text": "a French and German team working together."
+                },
+                {
+                  "k": "C",
+                  "text": "a German team who invented the word 'cinema'."
+                }
+              ]
+            },
+            {
+              "n": 36,
+              "text": "Longer films were not made at the time because of problems involving",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the subject matter."
+                },
+                {
+                  "k": "B",
+                  "text": "the camera."
+                },
+                {
+                  "k": "C",
+                  "text": "the film projector."
+                }
+              ]
+            },
+            {
+              "n": 37,
+              "text": "The 'Lantham Loop' invention relied on",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "removing tension between the film reels."
+                },
+                {
+                  "k": "B",
+                  "text": "adding three more film reels to the system."
+                },
+                {
+                  "k": "C",
+                  "text": "making one of the film reels more effective."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            38,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN THREE WORDS for each answer.",
+          "lines": [
+            "The first motion picture was called The {{38}}.",
+            "{{39}} were used for the first time on film in 1926.",
+            "Subtitles were added to The Lights of New York because of its {{40}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Many believe that the story first began in America in 1877, when two friends were arguing over whether a horse ever had all four feet or hooves off the ground when it galloped.",
+          "start": 59.47,
+          "end": 72.51
+        },
+        {
+          "s": "SPEAKER",
+          "t": "To settle the bet, a photographer was asked to photograph a horse galloping and the bet was settled because you could see that all the hooves were off the ground in some of the photos.",
+          "q": [
+            31
+          ],
+          "start": 73.52,
+          "end": 85.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What was even more interesting was that if the photos were shown in quick succession the horse looked like it was running - in other words 'moving pictures'.",
+          "start": 86.44,
+          "end": 95.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The person who became interested in taking the moving pictures to its next step was the famous American inventor Thomas Edison.",
+          "start": 98.85,
+          "end": 106.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Actually, he didn't do the work himself but rather asked a young Scotsman in his employ to design a system, which he did.",
+          "start": 107.81,
+          "end": 115.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now this young fellow was clever because the first thing he did was study other systems - primitive as they were - of moving pictures and then put all the existing technologies together to make the first entire motion picture system.",
+          "q": [
+            32
+          ],
+          "start": 116.29,
+          "end": 132.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He designed a camera, a projection device and the film.",
+          "start": 133.72,
+          "end": 137.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The system was first shown in New York in 1894 and was really very popular.",
+          "start": 138.72,
+          "end": 144.24
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Apparently people lined up around the block to see the wonderful new invention.",
+          "start": 145.09,
+          "end": 149.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There were, however, a couple of problems with the system.",
+          "start": 150.69,
+          "end": 153.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The camera weighed over 200 kilograms and only one person at a time could see the film.",
+          "q": [
+            33
+          ],
+          "start": 154.53,
+          "end": 161.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well now, news of the new system in America travelled fast and a number of rival European systems started to appear once people had heard about it.",
+          "q": [
+            34
+          ],
+          "start": 162.31,
+          "end": 172.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The single problem with all the systems was they couldn't really project the film onto a screen - you know, so more than one person could see it.",
+          "start": 173.55,
+          "end": 182.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then in 1895, three systems were all developed, more or less at the same time and independently of each other.",
+          "q": [
+            35
+          ],
+          "start": 184.16,
+          "end": 191.64
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I guess the most famous of these was by the Lumiere Brothers from France, and they called their system the cinematographe which of course is where the word cinema comes from.",
+          "start": 192.76,
+          "end": 203.31
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There were also two brothers in Germany who developed a successful system and they called it a bioskop.",
+          "start": 204.39,
+          "end": 209.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well now, once the problem of projection had been solved, the next challenge for the inventors was to make the films longer and more interesting.",
+          "start": 211.12,
+          "end": 219.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A continuing problem at the time was that the films had a tendency to break when they were being played - a problem which was caused by the tension between the two wheels, or 'reels' as they are called, which hold the film.",
+          "q": [
+            36
+          ],
+          "start": 220.52,
+          "end": 234.46
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now this problem was solved by two American brothers.",
+          "start": 235.18,
+          "end": 238.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They developed the 'Lantham Loop', which was the simple addition of a third reel between the two main reels, and this took all the tension away with the result that the film stopped snapping.",
+          "q": [
+            37
+          ],
+          "start": 239.87,
+          "end": 251.47
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So now there was a real possibility of having films of more than two or three minutes, and this led to the making of The Great Train Robbery- the very first movie made.",
+          "start": 257.08,
+          "end": 268.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It only lasted 11 minutes but was an absolute sensation, and there were cases of people watching the movie and actually fainting when the character fired a gun at the camera!",
+          "q": [
+            38
+          ],
+          "start": 269.82,
+          "end": 281.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Almost overnight movies became a craze, and by 1905 people in America were lining up to see movies in 'store theatres', as they were called then.",
+          "start": 282.18,
+          "end": 293.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I guess the next big step in terms of development of technology was to have people actually talking on the film, and the first step towards this was in 1926 when sound effects were first used on a film.",
+          "q": [
+            39
+          ],
+          "start": 294.61,
+          "end": 309.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It wasn't until the following year however that the first 'talkie', as they were called then, was made.",
+          "start": 310.6,
+          "end": 316.44
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This film featured actors speaking only during parts of the film and was called The Jazz Singer, and it wasn't until 1928 that the first all-talking film was produced, and this was called The Lights of New York.",
+          "start": 316.68,
+          "end": 332.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Unfortunately, the sound on this early film was not very good and I believe they put subtitles on the film- that is, they printed the dialogue along the bottom of the film to compensate for this poor sound quality. Now, with the addition of sound, moving pictures became far more difficult to make...",
+          "q": [
+            40
+          ],
+          "start": 333.59,
+          "end": 354.39
+        }
+      ]
+    }
+  ]
+}

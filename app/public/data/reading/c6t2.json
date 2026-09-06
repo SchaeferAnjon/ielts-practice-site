@@ -1,0 +1,914 @@
+{
+  "id": "c6t2",
+  "book": "剑桥雅思6",
+  "test": 2,
+  "title": "剑6 Test 2 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "ii"
+    ],
+    "2": [
+      "vii"
+    ],
+    "3": [
+      "iv"
+    ],
+    "4": [
+      "i"
+    ],
+    "5": [
+      "iii"
+    ],
+    "6": [
+      "FALSE"
+    ],
+    "7": [
+      "TRUE"
+    ],
+    "8": [
+      "NOT GIVEN"
+    ],
+    "9": [
+      "FALSE"
+    ],
+    "10": [
+      "TRUE"
+    ],
+    "11": [
+      "F"
+    ],
+    "12": [
+      "D"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "B"
+    ],
+    "15": [
+      "I"
+    ],
+    "16": [
+      "F"
+    ],
+    "17": [
+      "M"
+    ],
+    "18": [
+      "J"
+    ],
+    "19": [
+      "N"
+    ],
+    "20": [
+      "K"
+    ],
+    "21": [
+      "G"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "G"
+    ],
+    "24": [
+      "E"
+    ],
+    "25": [
+      "H"
+    ],
+    "26": [
+      "C"
+    ],
+    "27": [
+      "B"
+    ],
+    "28": [
+      "E"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "G"
+    ],
+    "32": [
+      "TRUE"
+    ],
+    "33": [
+      "FALSE"
+    ],
+    "34": [
+      "TRUE"
+    ],
+    "35": [
+      "FALSE"
+    ],
+    "36": [
+      "NOT GIVEN"
+    ],
+    "37": [
+      "TRUE"
+    ],
+    "38": [
+      "FALSE"
+    ],
+    "39": [
+      "TRUE"
+    ],
+    "40": [
+      "NOT GIVEN"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p8",
+      "why": "段落 A 讲 Portland 通过公投把资金投向轻轨、后续轨道系统不断扩展，是「人民力量促成的成功案例」，对应标题 ii。",
+      "key": "In fact, Newman believes the main reason for adopting one sort of transport over another is politics: 'The more democratic the process, the more public transport is favored.' He considers Portland, Oregon, a perfect example of this ."
+    },
+    "2": {
+      "loc": "p9",
+      "why": "段落 B 讲英国人通勤时间六百年来稳定在半小时内，但基础设施跟不上导致通勤时间大幅增加，对应标题 vii「出行时间增加」。",
+      "key": "In the UK, travel times to work had been stable for at least six centuries, with people avoiding situations that required them to spend more than half an hour travelling to work ."
+    },
+    "3": {
+      "loc": "p10",
+      "why": "段落 C 反驳「收入越高越依赖汽车」的看法，举欧洲和亚洲城市为例，对应标题 iv「收入提高不代表用车更多」。",
+      "key": "There is a widespread belief that increasing wealth encourages people to live farther out where cars are the only viable transport."
+    },
+    "4": {
+      "loc": "p11",
+      "why": "段落 D 说 The Urban Village 报告主张不要把人都挤进市中心，而是在车站周围建多个「城市村落」，对应标题 i「避免中心过度拥挤」。",
+      "key": "Instead, the proposal advocated the creation of urban villages at hundreds of sites, mostly around railway stations."
+    },
+    "5": {
+      "loc": "p12",
+      "why": "段落 E 说创造力在人们聚集共事时才能繁荣，说明城市里人们协作的好处，对应标题 iii。",
+      "key": "'The new world will largely depend on human creativity, and creativity flourishes where people come together face-to-face.'"
+    },
+    "6": {
+      "loc": "p1",
+      "why": "研究只比较了 37 个城市，并非「世界上每一个城市」，与题干矛盾，故 FALSE。",
+      "key": "The study compared the proportion of wealth poured into transport by thirty-seven cities around the world ."
+    },
+    "7": {
+      "loc": "p2",
+      "why": "高效城市能把省下的钱用来「创造更好的居住环境」，与题干「提升居民生活质量」一致，故 TRUE。",
+      "key": "Professor Peter Newman, ISTP Director, pointed out that these more efficient cities were able to put the difference into attracting industry and jobs or creating a better place to live."
+    },
+    "8": {
+      "loc": "p3",
+      "why": "原文只说市内电车网络降低了市中心用车量，没有提到电车网络对司机有危险，故 NOT GIVEN。",
+      "key": "Melbourne's large tram network has made car use in the inner city much lower, but the outer suburbs have the same car-based structure as most other Australian cities."
+    },
+    "9": {
+      "loc": "p3",
+      "why": "原文说内城郊区住房需求暴涨，说明人们更偏好住在内城而非外郊区，与题干相反，故 FALSE。",
+      "key": "The explosion in demand for accommodation in the inner suburbs of Melbourne suggests a recent change in many people's preferences as to where they live ."
+    },
+    "10": {
+      "loc": "p5",
+      "why": "阿姆斯特丹和哥本哈根公共交通只是「过得去但不出色」却依然高效，对应题干「公共交通只是一般水平也能高效」，故 TRUE。",
+      "key": "Bicycle use was not included in the study but Newman noted that the two most 'bicycle friendly' cities considered -Amsterdam and Copenhagen -were very efficient, even though their public transport systems were 'reasonable but not special' ."
+    },
+    "11": {
+      "loc": "p2",
+      "why": "珀斯公共交通极少，17% 的财富都花在交通上，对应描述 F「因公共交通有限而低效」。",
+      "key": "The study found that the Western Australian city of Perth is a good example of a city with minimal public transport."
+    },
+    "12": {
+      "loc": "p7",
+      "why": "原文说像奥克兰这样多山的城市很难发展好的铁路网，对应描述 D「多山不适合建铁路系统」。",
+      "key": "For example, Newman accepts it would be hard for a city as hilly as Auckland to develop a really good rail network."
+    },
+    "13": {
+      "loc": "p8",
+      "why": "波特兰经公投把资金改投轻轨，轻轨运行效果极好，对应描述 C「成功从公路转向轻轨且获利」。",
+      "key": "The rail proposal won and the railway worked spectacularly well ."
+    },
+    "14": {
+      "loc": "p2",
+      "why": "原文说这些疾病影响的人口比例逐年变小，对应 falling（下降）。",
+      "key": "Researchers, now analysing the results of data gathered in 1994, say arthritis, high blood pressure and circulation problems - the major medical complaints in this age group - are troubling a smaller proportion every year."
+    },
+    "15": {
+      "loc": "p2",
+      "why": "原文说这种下降的速度还在「加快」，对应 increasing（速度在增加）。",
+      "key": "And the data confirms that the rate at which these diseases are declining continues to accelerate."
+    },
+    "16": {
+      "loc": "p3",
+      "why": "1982 年医生认为 65 岁正常出现的问题，现在要到 70 或 75 岁才出现，也就是疾病发生得「更晚」，对应 later。",
+      "key": "He says the problems doctors accepted as normal in a 65-year-old in 1982 are often not appearing until people are 70 or 75."
+    },
+    "17": {
+      "loc": "p1",
+      "why": "疾病的减少归功于「医学进步」，对应 medicine。",
+      "key": "Clearly, certain diseases are beating a retreat in the face of medical advances."
+    },
+    "18": {
+      "loc": "p4",
+      "why": "另一个促成因素是童年时期「营养」的改善，对应 nutrition。",
+      "key": "Improvements in childhood nutrition in the first quarter of the twentieth century, for example, gave today's elderly people a better start in life than their predecessors."
+    },
+    "19": {
+      "loc": "p5",
+      "why": "某些疾病（如癌症、支气管炎）增加与吸烟习惯和「污染」加重有关，对应 pollution。",
+      "key": "'These may be subtle influences,' says Manton, 'but our subjects have been exposed to worse and worse pollution for over 60 years."
+    },
+    "20": {
+      "loc": "p6",
+      "why": "受教育程度越高的人寿命越长，说明「教育」水平与预期寿命相关，对应 education。",
+      "key": "One interesting correlation Manton uncovered is that better-educated people are likely to live longer."
+    },
+    "21": {
+      "loc": "p7",
+      "why": "调查发现「失能」老人的数量明显下降，对应 disabled。",
+      "key": "That represents a significant drop in the number of disabled old people in the population ."
+    },
+    "22": {
+      "loc": "p7",
+      "why": "失能老人减少为政府医疗保险系统节省了两千多亿美元，也就是抚养这部分人口的「成本」比预期更低，对应 cost。",
+      "key": "According to Manton, slowing the trend has saved the United States government's Medicare system more than $200 billion, suggesting that the greying of America's population may prove less of a financial burden than expected."
+    },
+    "23": {
+      "loc": "p8",
+      "why": "老年人自理能力提高与使用家用医疗辅具（如加高马桶座）有关，对应 G「让老人更独立」。",
+      "key": "The increasing self-reliance of many elderly people is probably linked to a massive increase in the use of simple home medical aids."
+    },
+    "24": {
+      "loc": "p9",
+      "why": "运动使大脑衍生神经营养因子升高，可能防止大脑功能衰退，对应 E「有助于防止智力衰退」。",
+      "key": "He found that rats that exercise on a treadmill have raised levels of brain-derived neurotrophic factor coursing through their brains."
+    },
+    "25": {
+      "loc": "p10",
+      "why": "在模拟驾驶等有挑战性的活动中，感觉自己能掌控局面的人分泌的压力荷尔蒙更少，对应 H「能降低困难情境下的压力」。",
+      "key": "In laboratory simulations of challenging activities such as driving, those who felt in control of their lives pumped out lower levels of stress hormones such as cortisol."
+    },
+    "26": {
+      "loc": "p11",
+      "why": "感到情感孤立的老人即使睡觉时压力荷尔蒙水平也更高，对应 C「可能导致压力荷尔蒙水平上升」。",
+      "key": "Seeman found that elderly people who felt emotionally isolated maintained higher levels of stress hormones even when asleep."
+    },
+    "27": {
+      "loc": "p2",
+      "why": "人类开始定居、种植和放牧后，才迫切需要更完善的数字系统，对应 B「人们开始务农时才需要」。",
+      "key": "As they began to settle, grow plants and herd animals, the need for a sophisticated number system became paramount."
+    },
+    "28": {
+      "loc": "p3",
+      "why": "在「一、二、很多」这种有限的数词系统里，人们用手势（举起手指）来补充表达数量，对应 E「在数词范围受限时使用」。",
+      "key": "For example, when using the one, two, many type of system, the word many would mean, Look at my hands and see how many fingers I am showing you."
+    },
+    "29": {
+      "loc": "p4",
+      "why": "七世纪时要在法庭上作证必须能数到九，说明数数能力是履行「公民角色」的必要条件，对应 A。",
+      "key": "In fact, to qualify as a witness in a court of law a man had to be able to count to nine!"
+    },
+    "30": {
+      "loc": "p5",
+      "why": "把数字 4 当作独立于具体物体的抽象概念，是迈向数字符号系统、进而发展出算术的第一步，对应 C「是算术发展的必要条件」。",
+      "key": "When the number 4 can be registered in the mind as a specific word, independent of the object being referenced, the individual is ready to take the first step toward the development of a notational system for numbers and, from there, to arithmetic ."
+    },
+    "31": {
+      "loc": "p6",
+      "why": "Tsimshian 语言按物品类别使用不同数词，是较早期数字系统的特征，对应 G。",
+      "key": "The numeration system of the Tsimshian language in British Columbia contains seven distinct sets of words for numbers according to the class of the item being counted : for counting flat objects and animals, for round objects and time, for people, for long objects and trees, for canoes, for measures, and for counting when no particular object is being numerated ."
+    },
+    "32": {
+      "loc": "p2",
+      "why": "原文说早期人类对具体数字用处不大，更关心「够不够」而非「多少」，说明「充足与否」比「数量」更重要，故 TRUE。",
+      "key": "Our ancestors had little use for actual numbers; instead their considerations would have been more of the kind Is this enough? rather than How many? when they were engaged in food gathering, for example."
+    },
+    "33": {
+      "loc": "p3",
+      "why": "塔斯马尼亚原住民只有「一、二、很多」三个数词，题干说是四个，故 FALSE。",
+      "key": "The indigenous peoples of Tasmania were only able to count one, two, many; those of South Africa counted one, two, two and one, two twos, two twos and one, and so on."
+    },
+    "34": {
+      "loc": "p3",
+      "why": "原文明确说数词会配合手势来消除歧义，对应题干「用肢体语言防止误解」，故 TRUE。",
+      "key": "But in real situations the number and words are often accompanied by gestures to help resolve any confusion ."
+    },
+    "35": {
+      "loc": "p4",
+      "why": "欧洲语言追溯早期版本时数词非常匮乏，说明并非所有文化都能清楚表达大数字，与题干相反，故 FALSE。",
+      "key": "European languages, when traced back to their earlier version, are very poor in number words and expressions."
+    },
+    "36": {
+      "loc": "p4",
+      "why": "原文提到「hund」「teon」等盎格鲁-撒克逊词根表示一百，但没有提到「thousand」一词的来源，故 NOT GIVEN。",
+      "key": "By the seventh century, the word teon had become interchangeable with the tachund or hund of the Anglo-Saxon language, and so 100 was denoted as hund teontig, or ten times ten ."
+    },
+    "37": {
+      "loc": "p4",
+      "why": "原文说七世纪欧洲普通人对数字的熟悉程度远不如今天，只能数到九就算合格，说明当时人们数数能力普遍较差，故 TRUE。",
+      "key": "The average person in the seventh century in Europe was not as familiar with numbers as we are today."
+    },
+    "38": {
+      "loc": "p6",
+      "why": "Tsimshian 语言里「长条物体和树木」与「独木舟」是两套不同的数词，并非同一个词，故 FALSE。",
+      "key": "The numeration system of the Tsimshian language in British Columbia contains seven distinct sets of words for numbers according to the class of the item being counted : for counting flat objects and animals, for round objects and time, for people, for long objects and trees, for canoes, for measures, and for counting when no particular object is being numerated ."
+    },
+    "39": {
+      "loc": "p6",
+      "why": "原文说最后一组是较晚发展出来的，前六组则保留了旧系统的痕迹，说明新旧系统并存，故 TRUE。",
+      "key": "It seems that the last is a later development while the first six groups show the relics of an older system ."
+    },
+    "40": {
+      "loc": "p7",
+      "why": "原文只是并列列出用鹅卵石、玉米粒或手指计数的方式，并未比较哪种更容易，故 NOT GIVEN。",
+      "key": "Counting is not directly related to the formation of a number concept because it is possible to count by matching the items being counted against a group of pebbles, grains of corn , or the counter's fingers ."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Advantages of Public Transport",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "groups": [
+        {
+          "range": [
+            1,
+            5
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 1 has five marked paragraphs, A-E. Choose the correct heading for each paragraph from the list of headings below.",
+          "limit": "Write the correct number, i-viii, in boxes 1-5 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "Avoiding an overcrowded centre"
+            },
+            {
+              "k": "ii",
+              "text": "A successful exercise in people power"
+            },
+            {
+              "k": "iii",
+              "text": "The benefits of working together in cities"
+            },
+            {
+              "k": "iv",
+              "text": "Higher incomes need not mean more cars"
+            },
+            {
+              "k": "v",
+              "text": "Economic arguments fail to persuade"
+            },
+            {
+              "k": "vi",
+              "text": "The impact of telecommunications on population distribution"
+            },
+            {
+              "k": "vii",
+              "text": "Increases in travelling time"
+            },
+            {
+              "k": "viii",
+              "text": "Responding to arguments against public transport"
+            }
+          ],
+          "itemsTitle": "Paragraphs",
+          "items": [
+            {
+              "n": 1,
+              "text": "Paragraph A"
+            },
+            {
+              "n": 2,
+              "text": "Paragraph B"
+            },
+            {
+              "n": 3,
+              "text": "Paragraph C"
+            },
+            {
+              "n": 4,
+              "text": "Paragraph D"
+            },
+            {
+              "n": 5,
+              "text": "Paragraph E"
+            }
+          ]
+        },
+        {
+          "range": [
+            6,
+            10
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 6,
+              "text": "The ISTP study examined public and private systems in every city of the world."
+            },
+            {
+              "n": 7,
+              "text": "Efficient cities can improve the quality of life for their inhabitants."
+            },
+            {
+              "n": 8,
+              "text": "An inner-city tram network is dangerous for car drivers."
+            },
+            {
+              "n": 9,
+              "text": "In Melbourne, people prefer to live in the outer suburbs."
+            },
+            {
+              "n": 10,
+              "text": "Cities with high levels of bicycle usage can be efficient even when public transport is only averagely good."
+            }
+          ]
+        },
+        {
+          "range": [
+            11,
+            13
+          ],
+          "type": "matching",
+          "instruction": "Look at the following cities (Questions 11-13) and the list of descriptions below. Match each city with the correct description, A-F.",
+          "limit": "Write the correct letter, A-F, in boxes 11-13 on your answer sheet.",
+          "optionsTitle": "List of Descriptions",
+          "options": [
+            {
+              "k": "A",
+              "text": "successfully uses a light rail transport system in hilly environment"
+            },
+            {
+              "k": "B",
+              "text": "successful public transport system despite cold winters"
+            },
+            {
+              "k": "C",
+              "text": "profitably moved from road to light rail transport system"
+            },
+            {
+              "k": "D",
+              "text": "hilly and inappropriate for rail transport system"
+            },
+            {
+              "k": "E",
+              "text": "heavily dependent on cars despite widespread poverty"
+            },
+            {
+              "k": "F",
+              "text": "inefficient due to a limited public transport system"
+            }
+          ],
+          "items": [
+            {
+              "n": 11,
+              "text": "Perth"
+            },
+            {
+              "n": 12,
+              "text": "Auckland"
+            },
+            {
+              "n": 13,
+              "text": "Portland"
+            }
+          ]
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "A new study conducted for the World Bank by Murdoch University's Institute for Science and Technology Policy (ISTP) has demonstrated that public transport is more efficient than cars. The study compared the proportion of wealth poured into transport by thirty-seven cities around the world . This included both the public and private costs of building, maintaining and using a transport system .",
+          "id": "p1"
+        },
+        {
+          "text": "The study found that the Western Australian city of Perth is a good example of a city with minimal public transport. As a result, 17% of its wealth went into transport costs . Some European and Asian cities, on the other hand, spent as little as 5% . Professor Peter Newman, ISTP Director, pointed out that these more efficient cities were able to put the difference into attracting industry and jobs or creating a better place to live.",
+          "id": "p2"
+        },
+        {
+          "text": "According to Professor Newman, the larger Australian city of Melbourne is a rather unusual city in this sort of comparison . He describes it as two cities: 'A European city surrounded by a car-dependent one' . Melbourne's large tram network has made car use in the inner city much lower, but the outer suburbs have the same car-based structure as most other Australian cities. The explosion in demand for accommodation in the inner suburbs of Melbourne suggests a recent change in many people's preferences as to where they live .",
+          "id": "p3"
+        },
+        {
+          "text": "Newman says this is a new, broader way of considering public transport issues . In the past, the case for public transport has been made on the basis of environmental and social justice considerations rather than economics . Newman, however, believes the study demonstrates that 'the auto-dependent city model is inefficient and grossly inadequate in economic as well as environmental terms' .",
+          "id": "p4"
+        },
+        {
+          "text": "Bicycle use was not included in the study but Newman noted that the two most 'bicycle friendly' cities considered -Amsterdam and Copenhagen -were very efficient, even though their public transport systems were 'reasonable but not special' .",
+          "id": "p5"
+        },
+        {
+          "text": "It is common for supporters of road networks to reject the models of cities with good public transport by arguing that such systems would not work in their particular city. One objection is climate. Some people say their city could not make more use of public transport because it is either too hot or too cold . Newman rejects this, pointing out that public transport has been successful in both Toronto and Singapore and, in fact, he has checked the use of cars against climate and found 'zero correlation' .",
+          "id": "p6"
+        },
+        {
+          "text": "When it comes to other physical features, road lobbies are on stronger ground . For example, Newman accepts it would be hard for a city as hilly as Auckland to develop a really good rail network. However, he points out that both Hong Kong and Zurich have managed to make a success of their rail systems, heavy and light respectively, though there are few cities in the world as hilly.",
+          "id": "p7"
+        },
+        {
+          "text": "In fact, Newman believes the main reason for adopting one sort of transport over another is politics: 'The more democratic the process, the more public transport is favored.' He considers Portland, Oregon, a perfect example of this . Some years ago, federal money was granted to build a new road . However, local pressure groups forced a referendum over whether to spend the money on light rail instead. The rail proposal won and the railway worked spectacularly well . In the years that have followed, more and more rail systems have been put in, dramatically changing the nature of the city. Newman notes that Portland has about the same population as Perth and had a similar population density at the time .",
+          "label": "A",
+          "id": "p8"
+        },
+        {
+          "text": "In the UK, travel times to work had been stable for at least six centuries, with people avoiding situations that required them to spend more than half an hour travelling to work . Trains and cars initially allowed people to live at greater distances without taking longer to reach their destination. However, public infrastructure did not keep pace with urban sprawl, causing massive congestion problems which now make commuting times far higher.",
+          "label": "B",
+          "id": "p9"
+        },
+        {
+          "text": "There is a widespread belief that increasing wealth encourages people to live farther out where cars are the only viable transport. The example of European cities refutes that. They are often wealthier than their American counterparts but have not generated the same level of car use . In Stockholm, car use has actually fallen in recent years as the city has become larger and wealthier. A new study makes this point even more starkly. Developing cities in Asia, such as Jakarta and Bangkok, make more use of the car than wealthy Asian cities such as Tokyo and Singapore . In cities that developed later, the World Bank and Asian Development Bank discouraged the building of public transport and people have been forced to rely on cars - creating the massive traffic jams that characterize those cities .",
+          "label": "C",
+          "id": "p10"
+        },
+        {
+          "text": "Newman believes one of the best studies on how cities built for cars might be converted to rail use is The Urban Village report, which used Melbourne as an example. It found that pushing everyone into the city centre was not the best approach . Instead, the proposal advocated the creation of urban villages at hundreds of sites, mostly around railway stations.",
+          "label": "D",
+          "id": "p11"
+        },
+        {
+          "text": "It was once assumed that improvements in telecommunications would lead .to more dispersal in the population as people were no longer forced into cities. However, the ISTP team's research demonstrates that the population and job density of cities rose or remained constant in the 1980s after decades of decline. The explanation for this seems to be that it is valuable to place people working in related fields together. 'The new world will largely depend on human creativity, and creativity flourishes where people come together face-to-face.'",
+          "label": "E",
+          "id": "p12"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Greying Population Stays in the Pink",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "groups": [
+        {
+          "range": [
+            14,
+            22
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words, A-Q, below.",
+          "limit": "Write the correct letter, A-Q, in boxes 14-22 on your answer sheet.",
+          "text": "Research carried out by scientists in the United States has shown that the proportion of people over 65 suffering from the most common age-related medical problems is {{14}} and that the speed of this change is {{15}}. It also seems that these diseases are affecting people {{16}} in life than they did in the past. This is largely due to developments in {{17}}, but other factors such as improved {{18}} may also be playing a part. Increases in some other illnesses may be due to changes in personal habits and to {{19}}. The research establishes a link between levels of {{20}} and life expectancy. It also shows that there has been a considerable reduction in the number of elderly people who are {{21}}, which means that the {{22}} involved in supporting this section of the population may be less than previously predicted.",
+          "options": [
+            {
+              "k": "A",
+              "text": "cost"
+            },
+            {
+              "k": "B",
+              "text": "falling"
+            },
+            {
+              "k": "C",
+              "text": "technology"
+            },
+            {
+              "k": "D",
+              "text": "undernourished"
+            },
+            {
+              "k": "E",
+              "text": "earlier"
+            },
+            {
+              "k": "F",
+              "text": "later"
+            },
+            {
+              "k": "G",
+              "text": "disabled"
+            },
+            {
+              "k": "H",
+              "text": "more"
+            },
+            {
+              "k": "I",
+              "text": "increasing"
+            },
+            {
+              "k": "J",
+              "text": "nutrition"
+            },
+            {
+              "k": "K",
+              "text": "education"
+            },
+            {
+              "k": "L",
+              "text": "constant"
+            },
+            {
+              "k": "M",
+              "text": "medicine"
+            },
+            {
+              "k": "N",
+              "text": "pollution"
+            },
+            {
+              "k": "O",
+              "text": "environmental"
+            },
+            {
+              "k": "P",
+              "text": "health"
+            },
+            {
+              "k": "Q",
+              "text": "independent"
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            26
+          ],
+          "type": "matching",
+          "instruction": "Complete each sentence with the correct ending, A-H, below.",
+          "limit": "Write the correct letter, A-H, in boxes 23-26 on your answer sheet.",
+          "optionsTitle": "Sentence endings",
+          "options": [
+            {
+              "k": "A",
+              "text": "may cause heart disease."
+            },
+            {
+              "k": "B",
+              "text": "can be helped by hormone treatment."
+            },
+            {
+              "k": "C",
+              "text": "may cause rises in levels of stress hormones."
+            },
+            {
+              "k": "D",
+              "text": "have cost the United States government more than $200 billion."
+            },
+            {
+              "k": "E",
+              "text": "may help prevent mental decline."
+            },
+            {
+              "k": "F",
+              "text": "may get stronger at night."
+            },
+            {
+              "k": "G",
+              "text": "allow old people to be more independent."
+            },
+            {
+              "k": "H",
+              "text": "can reduce stress in difficult situations."
+            }
+          ],
+          "items": [
+            {
+              "n": 23,
+              "text": "Home medical aids"
+            },
+            {
+              "n": 24,
+              "text": "Regular amounts of exercise"
+            },
+            {
+              "n": 25,
+              "text": "Feelings of control over life"
+            },
+            {
+              "n": 26,
+              "text": "Feelings of loneliness"
+            }
+          ]
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Elderly people are growing healthier, happier and more independent, say American scientists. The results of a 14-year study to be announced later this month reveal that the diseases associated with old age are afflicting fewer and fewer people and when they do strike, it is much later in life."
+        },
+        {
+          "id": "p2",
+          "text": "In the last 14 years, the National Long-term Health Care Survey has gathered data on the health and lifestyles of more than 20,000 men and women over 65 . Researchers, now analysing the results of data gathered in 1994, say arthritis, high blood pressure and circulation problems - the major medical complaints in this age group - are troubling a smaller proportion every year. And the data confirms that the rate at which these diseases are declining continues to accelerate. Other diseases of old age - dementia, stroke, arteriosclerosis and emphysema - are also troubling fewer and fewer people."
+        },
+        {
+          "id": "p3",
+          "text": "'It really raises the question of what should be considered normal ageing,' says Kenneth Manton, a demographer from Duke University in North Carolina. He says the problems doctors accepted as normal in a 65-year-old in 1982 are often not appearing until people are 70 or 75."
+        },
+        {
+          "id": "p4",
+          "text": "Clearly, certain diseases are beating a retreat in the face of medical advances. But there may be other contributing factors. Improvements in childhood nutrition in the first quarter of the twentieth century, for example, gave today's elderly people a better start in life than their predecessors."
+        },
+        {
+          "id": "p5",
+          "text": "On the downside, the data also reveals failures in public health that have caused surges in some illnesses. An increase in some cancers and bronchitis may reflect changing smoking habits and poorer air quality, say the researchers. 'These may be subtle influences,' says Manton, 'but our subjects have been exposed to worse and worse pollution for over 60 years. It's not surprising we see some effect.'"
+        },
+        {
+          "id": "p6",
+          "text": "One interesting correlation Manton uncovered is that better-educated people are likely to live longer. For example, 65-year-old women with fewer than eight years of schooling are expected, on average, to live to 82. Those who continued their education live an extra seven years. Although some of this can be attributed to a higher income, Manton believes it is mainly because educated people seek more medical attention."
+        },
+        {
+          "id": "p7",
+          "text": "The survey also assessed how independent people over 65 were, and again found a striking trend. Almost 80% of those in the 1994 survey could complete everyday activities ranging from eating and dressing unaided to complex tasks such as cooking and managing their finances. That represents a significant drop in the number of disabled old people in the population . If the trends apparent in the United States 14 years ago had continued, researchers calculate there would be an additional one million disabled elderly people in today's population. According to Manton, slowing the trend has saved the United States government's Medicare system more than $200 billion, suggesting that the greying of America's population may prove less of a financial burden than expected."
+        },
+        {
+          "id": "p8",
+          "text": "The increasing self-reliance of many elderly people is probably linked to a massive increase in the use of simple home medical aids. For instance, the use of raised toilet seats has more than doubled since the start of the study, and the use of bath seats has grown by more than 50% . These developments also bring some health benefits, according to a report from the MacArthur Foundation's research group on successful ageing. The group found that those elderly people who were able to retain a sense of independence were more likely to stay healthy in old age."
+        },
+        {
+          "id": "p9",
+          "text": "Maintaining a level of daily physical activity may help mental functioning, says Carl Cotman, a neuroscientist at the University of California at Irvine. He found that rats that exercise on a treadmill have raised levels of brain-derived neurotrophic factor coursing through their brains. Cotman believes this hormone, which keeps neurons functioning, may prevent the brains of active humans from deteriorating."
+        },
+        {
+          "id": "p10",
+          "text": "As part of the same study, Teresa Seeman, a social epidemiologist at the University of Southern California in Los Angeles, found a connection between self-esteem and stress in people over 70. In laboratory simulations of challenging activities such as driving, those who felt in control of their lives pumped out lower levels of stress hormones such as cortisol. Chronically high levels of these hormones have been linked to heart disease."
+        },
+        {
+          "id": "p11",
+          "text": "But independence can have drawbacks. Seeman found that elderly people who felt emotionally isolated maintained higher levels of stress hormones even when asleep. The research suggests that older people fare best when they feel independent but know they can get help when they need it."
+        },
+        {
+          "id": "p12",
+          "text": "'Like much research into ageing, these results support common sense,' says Seeman. They also show that we may be underestimating the impact of these simple factors. 'The sort of thing that your grandmother always told you turns out to be right on target,' she says."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Numeration",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "groups": [
+        {
+          "range": [
+            27,
+            31
+          ],
+          "type": "matching",
+          "instruction": "Complete each sentence with the correct ending, A-G, below.",
+          "limit": "Write the correct letter, A-G, in boxes 27-31 on your answer sheet.",
+          "optionsTitle": "Sentence endings",
+          "options": [
+            {
+              "k": "A",
+              "text": "was necessary in order to fulfil a civic role."
+            },
+            {
+              "k": "B",
+              "text": "was necessary when people began farming."
+            },
+            {
+              "k": "C",
+              "text": "was necessary for the development of arithmetic."
+            },
+            {
+              "k": "D",
+              "text": "persists in all societies."
+            },
+            {
+              "k": "E",
+              "text": "was used when the range of number words was restricted."
+            },
+            {
+              "k": "F",
+              "text": "can be traced back to early European languages."
+            },
+            {
+              "k": "G",
+              "text": "was a characteristic of early numeration systems."
+            }
+          ],
+          "items": [
+            {
+              "n": 27,
+              "text": "A developed system of numbering"
+            },
+            {
+              "n": 28,
+              "text": "An additional hand signal"
+            },
+            {
+              "n": 29,
+              "text": "In seventh-century Europe, the ability to count to a certain number"
+            },
+            {
+              "n": 30,
+              "text": "Thinking about numbers as concepts separate from physical objects"
+            },
+            {
+              "n": 31,
+              "text": "Expressing number differently according to class of item"
+            }
+          ]
+        },
+        {
+          "range": [
+            32,
+            40
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 32,
+              "text": "For the earliest tribes, the concept of sufficiency was more important than the concept of quantity."
+            },
+            {
+              "n": 33,
+              "text": "Indigenous Tasmanians used only four terms to indicate numbers of objects."
+            },
+            {
+              "n": 34,
+              "text": "Some peoples with simple number systems use body language to prevent misunderstanding of expressions of number."
+            },
+            {
+              "n": 35,
+              "text": "All cultures have been able to express large numbers clearly."
+            },
+            {
+              "n": 36,
+              "text": "The word 'thousand' has Anglo-Saxon origins."
+            },
+            {
+              "n": 37,
+              "text": "In general, people in seventh-century Europe had poor counting ability."
+            },
+            {
+              "n": 38,
+              "text": "In the Tsimshian language, the number for long objects and canoes is expressed with the same word."
+            },
+            {
+              "n": 39,
+              "text": "The Tsimshian language contains both older and newer systems of counting."
+            },
+            {
+              "n": 40,
+              "text": "Early peoples found it easier to count by using their fingers rather than a group of pebbles."
+            }
+          ]
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "One of the first great intellectual feats of a young child is learning how to talk, closely followed by learning how to count. From earliest childhood we are so bound up with our system of numeration that it is a feat of imagination to consider the problems faced by early humans who had not yet developed this facility. Careful consideration of our system of numeration leads to the conviction that, rather than being a facility that comes naturally to a person, it is one of the great and remarkable achievements of the human race ."
+        },
+        {
+          "id": "p2",
+          "text": "It is impossible to learn the sequence of events that led to our developing the concept of number. Even the earliest of tribes had a system of numeration that, if not advanced, was sufficient for the tasks that they had to perform. Our ancestors had little use for actual numbers; instead their considerations would have been more of the kind Is this enough? rather than How many? when they were engaged in food gathering, for example. However, when early humans first began to reflect on the nature of things around them, they discovered that they needed an idea of number simply to keep their thoughts in order. As they began to settle, grow plants and herd animals, the need for a sophisticated number system became paramount. It will never be known how and when this numeration ability developed, but it is certain that numeration was well developed by the time humans had formed even semi-permanent settlements ."
+        },
+        {
+          "id": "p3",
+          "text": "Evidence of early stages of arithmetic and numeration can be readily found . The indigenous peoples of Tasmania were only able to count one, two, many; those of South Africa counted one, two, two and one, two twos, two twos and one, and so on. But in real situations the number and words are often accompanied by gestures to help resolve any confusion . For example, when using the one, two, many type of system, the word many would mean, Look at my hands and see how many fingers I am showing you. This basic approach is limited in the range of numbers that it can express, but this range will generally suffice when dealing with the simpler aspects of human existence."
+        },
+        {
+          "id": "p4",
+          "text": "The lack of ability of some cultures to deal with large numbers is not really surprising. European languages, when traced back to their earlier version, are very poor in number words and expressions. The ancient Gothic word for ten, tachund, is used to express the number 100 as tachund tachund. By the seventh century, the word teon had become interchangeable with the tachund or hund of the Anglo-Saxon language, and so 100 was denoted as hund teontig, or ten times ten . The average person in the seventh century in Europe was not as familiar with numbers as we are today. In fact, to qualify as a witness in a court of law a man had to be able to count to nine!"
+        },
+        {
+          "id": "p5",
+          "text": "Perhaps the most fundamental step in developing a sense of number is not the ability to count, but rather to see that a number is really an abstract idea instead of a simple attachment to a group of particular objects. It must have been within the grasp of the earliest humans to conceive that four birds are distinct from two birds; however, it is not an elementary step to associate the number 4, as connected with four birds, to the number 4 , as connected with four rocks. Associating a number as one of the qualities of a specific object is a great hindrance to the development of a true number sense . When the number 4 can be registered in the mind as a specific word, independent of the object being referenced, the individual is ready to take the first step toward the development of a notational system for numbers and, from there, to arithmetic ."
+        },
+        {
+          "id": "p6",
+          "text": "Traces of the very first stages in the development of numeration can be seen in several living languages today. The numeration system of the Tsimshian language in British Columbia contains seven distinct sets of words for numbers according to the class of the item being counted : for counting flat objects and animals, for round objects and time, for people, for long objects and trees, for canoes, for measures, and for counting when no particular object is being numerated . It seems that the last is a later development while the first six groups show the relics of an older system . This diversity of number names can also be found in some widely used languages such as Japanese."
+        },
+        {
+          "id": "p7",
+          "text": "Intermixed with the development of a number sense is the development of an ability to count. Counting is not directly related to the formation of a number concept because it is possible to count by matching the items being counted against a group of pebbles, grains of corn , or the counter's fingers . These aids would have been indispensable to very early people who would have found the process impossible without some form of mechanical aid . Such aids, while different, are still used even by the most educated in today's society due to their convenience . All counting ultimately involves reference to something other than the things being counted . At first it may have been grains or pebbles but now it is a memorised sequence of words that happen to be the names of the numbers ."
+        }
+      ]
+    }
+  ]
+}
