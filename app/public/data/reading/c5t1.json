@@ -1,0 +1,975 @@
+{
+  "id": "c5t1",
+  "book": "剑桥雅思5",
+  "test": 1,
+  "title": "剑5 Test 1 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "D",
+      "E",
+      "G"
+    ],
+    "2": [
+      "D",
+      "E",
+      "G"
+    ],
+    "3": [
+      "D",
+      "E",
+      "G"
+    ],
+    "4": [
+      "clerks",
+      "copying clerks"
+    ],
+    "5": [
+      "library"
+    ],
+    "6": [
+      "stability"
+    ],
+    "7": [
+      "pension"
+    ],
+    "8": [
+      "TRUE"
+    ],
+    "9": [
+      "FALSE"
+    ],
+    "10": [
+      "NOT GIVEN"
+    ],
+    "11": [
+      "FALSE"
+    ],
+    "12": [
+      "FALSE"
+    ],
+    "13": [
+      "TRUE"
+    ],
+    "14": [
+      "F"
+    ],
+    "15": [
+      "A"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "D"
+    ],
+    "18": [
+      "I"
+    ],
+    "19": [
+      "C"
+    ],
+    "20": [
+      "B"
+    ],
+    "21": [
+      "D"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "NOT GIVEN"
+    ],
+    "24": [
+      "TRUE"
+    ],
+    "25": [
+      "FALSE"
+    ],
+    "26": [
+      "FALSE"
+    ],
+    "27": [
+      "YES"
+    ],
+    "28": [
+      "NOT GIVEN"
+    ],
+    "29": [
+      "NO"
+    ],
+    "30": [
+      "NOT GIVEN"
+    ],
+    "31": [
+      "YES"
+    ],
+    "32": [
+      "NO"
+    ],
+    "33": [
+      "C"
+    ],
+    "34": [
+      "D"
+    ],
+    "35": [
+      "C"
+    ],
+    "36": [
+      "B"
+    ],
+    "37": [
+      "B"
+    ],
+    "38": [
+      "E"
+    ],
+    "39": [
+      "D"
+    ],
+    "40": [
+      "I"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p7",
+      "why": "题干说该词典主要关注当代文本用语；原文说例句取自从伊丽莎白时代到约翰逊自己时代的英语写作，且他把英语当作\"活的语言\"来处理（living language），说明词典聚焦于当时通行的用法 → D 正确。",
+      "key": "The work was immense; filling about eighty large notebooks (and without a library to hand), Johnson wrote the definitions of over 40,000 words, and illustrated their many meanings with some 114,000 quotations drawn from English writing on every subject, from the Elizabethans to his own time."
+    },
+    "2": {
+      "loc": "p7",
+      "why": "working to a deadline 直接对应题干 time limit for its completion → E 正确。",
+      "key": "Working to a deadline, he had to draw on the best of all previous dictionaries, and to make his work one of heroic synthesis."
+    },
+    "3": {
+      "loc": "p7",
+      "why": "shades of meaning = subtleties of meaning，原文明确说约翰逊考虑了词义的许多细微差别 → G 正确。",
+      "key": "Unlike his predecessors, Johnson treated English very practically, as a living language, with many different shades of meaning."
+    },
+    "4": {
+      "loc": "p5",
+      "why": "题干 a number of ___ 指在长桌前站着工作的人，原文写明是 copying clerks（抄写员）。",
+      "key": "James Boswell, his biographer, described the garret where Johnson worked as 'fitted up like a counting house' with a long desk running down the middle at which the copying clerks would work standing up."
+    },
+    "5": {
+      "loc": "p7",
+      "why": "原文说他编写时手边没有图书馆可用，对应空格 library。",
+      "key": "The work was immense; filling about eighty large notebooks (and without a library to hand), Johnson wrote the definitions of over 40,000 words, and illustrated their many meanings with some 114,000 quotations drawn from English writing on every subject, from the Elizabethans to his own time."
+    },
+    "6": {
+      "loc": "p9",
+      "why": "Boswell 原话说约翰逊的词典给英语language带来了 stability，直接对应空格。",
+      "key": "It is the cornerstone of Standard English, an achievement which, in James Boswell's words, 'conferred stability on the language of his country'."
+    },
+    "7": {
+      "loc": "p10",
+      "why": "原文说朋友们说动乔治三世授予他一份 pension（养老金），对应空格 7。",
+      "key": "The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George III to offer him a pension."
+    },
+    "8": {
+      "loc": "p3",
+      "why": "题干 middle classes 需求增加词典 = 原文说词典的兴起与英国中产阶级的兴起相关联 → TRUE。",
+      "key": "Beyond the practical need to make order out of chaos, the rise of dictionaries is associated with the rise of the English middle class, who were anxious to define and circumscribe the various worlds to conquer - lexical as well as social and commercial."
+    },
+    "9": {
+      "loc": "p10",
+      "why": "原文只说词典让约翰逊在生前就出名、备受尊敬，并没有说他死后比生前更出名，无法得出\"死后更有名\"的比较 → 但原文明确描述他生前已成名并被称为 the Johnson of folklore，没有提及死后知名度的变化，属于无根据的比较，故标为 FALSE（原书判定）。",
+      "key": "The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George III to offer him a pension."
+    },
+    "10": {
+      "loc": "p4",
+      "why": "原文只交代1764年签合同开始编写，并未提及此前是否已计划多年 → NOT GIVEN。",
+      "key": "Johnson signed the contract for the Dictionary with the bookseller Robert Dosley at a breakfast held at the Golden Anchor Inn near Holborn Bar on 18 June 1764."
+    },
+    "11": {
+      "loc": "p4",
+      "why": "原文明确说约翰逊认为自己不需要成立学会（academy），单独完成，与题干\"设立学会帮助编写\"相矛盾 → FALSE。",
+      "key": "Johnson decided he did not need an academy to settle arguments about language; he would write a dictionary himself; and he would do it single-handed."
+    },
+    "12": {
+      "loc": "p4",
+      "why": "原文说稿酬是分期支付（in instalments），并非完成后才付款，与题干矛盾 → FALSE。",
+      "key": "He was to be paid £1,575 in instalments, and from this he took money to rent 17 Gough Square, in which he set up his 'dictionary workshop'."
+    },
+    "13": {
+      "loc": "p6",
+      "why": "六名助手中有两人在词典编写完成前去世，说明并非所有助手都活着见证出版 → TRUE。",
+      "key": "He was also helped by six assistants, two of whom died whilst the Dictionary was still in preparation."
+    },
+    "14": {
+      "loc": "p6",
+      "why": "F段提出\"先天基因/攻击本能\"的生物学解释，讲述该本能作为进化优势特征遗留至今 → 对应 biological explanation。",
+      "key": "A modern hard-core sociobiologist might even go so far as to claim that this aggressive instinct evolved as an advantageous trait, having been of survival value to our ancestors in their struggle against the hardships of life on the plains and in the caves, ultimately finding its way into our genetic make-up as a remnant of our ancient animal ways."
+    },
+    "15": {
+      "loc": "p1",
+      "why": "A段是米尔格拉姆一开始向teacher-subject解释实验目的：为教育的崇高目的，测试惩罚是否有助学习 → 对应 the explanation Milgram gave。",
+      "key": "Specifically, Milgram told each volunteer 'teacher-subject' that the experiment was in the noble cause of education, and was designed to test whether or not punishing pupils for their mistakes would have a positive effect on the pupils' ability to learn."
+    },
+    "16": {
+      "loc": "p2",
+      "why": "B段说明所谓的\"pupil\"其实是米尔格拉姆雇来的演员 → 对应 the identity of the pupils。",
+      "key": "The supposed 'pupil' was in reality an actor hired by Milgram to simulate receiving the shocks by emitting a spectrum of groans, screams and writhings together with an assortment of statements and expletives denouncing both the experiment and the experimenter."
+    },
+    "17": {
+      "loc": "p4",
+      "why": "D段是实验前精神科医生对结果的统计预测 → 对应 the expected statistical outcome。",
+      "key": "Prior to carrying out the experiment, Milgram explained his idea to a group of 39 psychiatrists and asked them to predict the average percentage of people in an ordinary population who would be willing to administer the highest shock level of 450 volts."
+    },
+    "18": {
+      "loc": "p9",
+      "why": "I段总结指出这正是现代社会生物学要研究的总体问题 → 对应 the general aim of sociobiological study。",
+      "key": "This, in essence, is the problem of modern sociobiology - to discover the degree to which hard-wired genetic programming dictates, or at least strongly biases, the interaction of animals and humans with their environment, that is, their behaviour."
+    },
+    "19": {
+      "loc": "p3",
+      "why": "C段记录米尔格拉姆如何一再劝说受试者\"必须继续下去\"（You have no other choice. You must go on.）→ 对应说服方式。",
+      "key": "If the subject was still reluctant to proceed, Milgram said that it was important for the sake of the experiment that the procedure be followed through to the end."
+    },
+    "20": {
+      "loc": "p1",
+      "why": "题干问受试者被告知测试的是什么；原文说是测试惩罚是否对学习有正面效果，对应选项 B punishment helps learning。",
+      "key": "Specifically, Milgram told each volunteer 'teacher-subject' that the experiment was in the noble cause of education, and was designed to test whether or not punishing pupils for their mistakes would have a positive effect on the pupils' ability to learn."
+    },
+    "21": {
+      "loc": "p2",
+      "why": "原文说受试者被要求按规则施加相应等级的电击，对应选项 D give punishment according to a rule。",
+      "key": "Milgram told the teacher-subject to ignore the reactions of the pupil, and to administer whatever level of shock was called for, as per the rule governing the experimental situation of the moment."
+    },
+    "22": {
+      "loc": "p4",
+      "why": "精神科医生普遍预测几乎所有人都会拒绝服从，严重低估了后来60%以上人会服从的真实比例 → 对应选项 C underestimated the teacher-subjects' willingness。",
+      "key": "The overwhelming consensus was that virtually all the teacher-subjects would refuse to obey the experimenter."
+    },
+    "23": {
+      "loc": "p1",
+      "why": "原文只说受试者来自各行各业，没有说明是耶鲁大学的心理学学生 → NOT GIVEN。",
+      "key": "A few years ago, in one of the most fascinating and disturbing experiments in behavioural psychology, Stanley Milgram of Yale University tested 40 subjects from all walks of life for their willingness to obey instructions given by a 'leader' in a situation in which the subjects might feel a personal distaste for the actions they were called upon to perform."
+    },
+    "24": {
+      "loc": "p6",
+      "why": "F段提到这种攻击本能可能是进化出的、有生存价值的优势特征，即有人可能把受试者行为解释为一种积极的生存机制 → TRUE。",
+      "key": "A modern hard-core sociobiologist might even go so far as to claim that this aggressive instinct evolved as an advantageous trait, having been of survival value to our ancestors in their struggle against the hardships of life on the plains and in the caves, ultimately finding its way into our genetic make-up as a remnant of our ancient animal ways."
+    },
+    "25": {
+      "loc": "p8",
+      "why": "H段说个人把忠诚、自我牺牲等特质交给了更大的权威系统支配，暗示权威压过个人价值观，与题干\"个人价值观比权威更强大\"相矛盾 → FALSE。",
+      "key": "Thus, in this explanation the subject merges his unique personality and personal and moral code with that of larger institutional structures, surrendering individual properties like loyalty, self-sacrifice and discipline to the service of malevolent systems of authority."
+    },
+    "26": {
+      "loc": "p9",
+      "why": "I段说这仍是留给生物学家、心理学家和人类学家去解决的未决问题，并未被这次实验\"解决\" → FALSE。",
+      "key": "The problem for biologists, psychologists and anthropologists is to sort out which of these two polar explanations is more plausible."
+    },
+    "27": {
+      "loc": "p1",
+      "why": "作者说环保主义者列出了一份\"主要担忧清单\"，说明他们对世界持悲观看法且理由不止一个 → YES。",
+      "key": "They have developed a hit-list of our main fears: that natural resources are running out; that the population is ever growing, leaving less and less to eat; that species are becoming extinct in vast numbers, and that the planet's air and water are becoming ever more polluted."
+    },
+    "28": {
+      "loc": "p2",
+      "why": "原文只提到1972年出版了《增长的极限》一书，并未说明地球自然资源数据只从那时才开始收集 → NOT GIVEN。",
+      "key": "First, energy and other natural resources have become more abundant, not less so, since the book 'The Limits to Growth' was published in 1972 by a group of scientists."
+    },
+    "29": {
+      "loc": "p2",
+      "why": "原文说挨饿的人在减少，与题干\"挨饿人数增加\"相反 → NO。",
+      "key": "Fewer people are starving."
+    },
+    "30": {
+      "loc": "p2",
+      "why": "原文只给出物种灭绝的预期比例，没有提到灭绝物种被新物种取代 → NOT GIVEN。",
+      "key": "Third, although species are indeed becoming extinct, only about 0.7% of them are expected to disappear in the next 50 years, not 25-50%, as has so often been predicted."
+    },
+    "31": {
+      "loc": "p2",
+      "why": "原文承认有些污染问题确实与工业化早期阶段有关 → YES。",
+      "key": "And finally, most forms of environmental pollution either appear to have been exaggerated, or are transient - associated with the early phases of industrialisation and therefore best cured not by restricting economic growth, but by accelerating it."
+    },
+    "32": {
+      "loc": "p2",
+      "why": "作者认为应对污染最好的办法是加速而非限制经济增长，与题干\"应放慢经济增长\"相反 → NO。",
+      "key": "And finally, most forms of environmental pollution either appear to have been exaggerated, or are transient - associated with the early phases of industrialisation and therefore best cured not by restricting economic growth, but by accelerating it."
+    },
+    "33": {
+      "loc": "p3",
+      "why": "第4段说科研经费主要投向问题多的领域，作者担心的是研究领域的选择性偏差 → 对应选项 C the selection of areas to research。",
+      "key": "Scientific funding goes mainly to areas with many problems."
+    },
+    "34": {
+      "loc": "p4",
+      "why": "世界自然基金会声称\"三分之二森林永远消失\"，但真相接近20%，作者用这个例子说明环保团体夸大其词 → 对应选项 D。",
+      "key": "In 1997, for example, the World Wide Fund for Nature issued a press release entitled: 'Two thirds of the world's forests lost forever'."
+    },
+    "35": {
+      "loc": "p5",
+      "why": "作者指出同样是游说，贸易组织被视为自利，绿色组织却被视为无私，说明不同游说团体受到的批评程度不同 → 对应选项 C Some receive more criticism than others。",
+      "key": "A trade organisation arguing for, say, weaker pollution controls is instantly seen as self-interested."
+    },
+    "36": {
+      "loc": "p6",
+      "why": "原文说媒体是为了迎合公众的需求而报道新闻 → 对应选项 B meet their readers' expectations。",
+      "key": "Newspapers and broadcasters are there to provide what the public wants."
+    },
+    "37": {
+      "loc": "p7",
+      "why": "原文说即使到21世纪末美国全部垃圾也只占国土面积的万分之一多一点，说明这个问题并不像人们想的那么严重 → 对应选项 B It is not as important as we have been led to believe。",
+      "key": "Yet, even if America's trash output continues to rise as it has done in the past, and even if the American population doubles by 2100, all the rubbish America produces through the entire 21st century will still take up only one-12,000th of the area of the entire United States."
+    },
+    "38": {
+      "loc": "p8",
+      "why": "作者承认气候变暖会造成长期持续的严重问题，对应空格 long-term challenge。",
+      "key": "As we know, carbon dioxide emissions are causing the planet to warm."
+    },
+    "39": {
+      "loc": "p10",
+      "why": "作者比较了减排的高昂成本与延缓增温的有限效果，主张把钱花在更值得的地方，即以\"正确的方式\"应对问题，对应空格 right。",
+      "key": "So this does not prevent global warming, but merely buys the world six years."
+    },
+    "40": {
+      "loc": "p10",
+      "why": "作者认为提供清洁饮用水是世界上最紧迫（urgent）的健康问题，比减排更值得优先投入资金。",
+      "key": "Yet the cost of reducing carbon dioxide emissions, for the United States alone, will be higher than the cost of solving the world's single, most pressing health problem: providing universal access to clean drinking water and sanitation."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Johnson's Dictionary",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "For the century before Johnson's Dictionary was published in 1775, there had been concern about the state of the English language. There was no standard way of speaking or writing and no agreement as to the best way of bringing some order to the chaos of English spelling. Dr Johnson provided the solution."
+        },
+        {
+          "id": "p2",
+          "text": "There had, of course, been dictionaries in the past, the first of these being a little book of some 120 pages, compiled by a certain Robert Cawdray, published in 1604 under the title A Table Alphabeticall 'of hard usuall English wordes'. Like the various dictionaries that came after it during the seventeenth century, Cawdray's tended to concentrate on 'scholarly' words; one function of the dictionary was to enable its student to convey an impression of fine learning."
+        },
+        {
+          "id": "p3",
+          "text": "Beyond the practical need to make order out of chaos, the rise of dictionaries is associated with the rise of the English middle class, who were anxious to define and circumscribe the various worlds to conquer - lexical as well as social and commercial. It is highly appropriate that Dr Samuel Johnson, the very model of an eighteenth-century literary man, as famous in his own time as in ours, should have published his Dictionary at the very beginning of the heyday of the middle class."
+        },
+        {
+          "id": "p4",
+          "text": "Johnson was a poet and critic who raised common sense to the heights of genius. His approach to the problems that had worried writers throughout the late seventeenth and early eighteenth centuries was intensely practical. Up until his time, the task of producing a dictionary on such a large scale had seemed impossible without the establishment of an academy to make decisions about right and wrong usage. Johnson decided he did not need an academy to settle arguments about language; he would write a dictionary himself; and he would do it single-handed. Johnson signed the contract for the Dictionary with the bookseller Robert Dosley at a breakfast held at the Golden Anchor Inn near Holborn Bar on 18 June 1764. He was to be paid £1,575 in instalments, and from this he took money to rent 17 Gough Square, in which he set up his 'dictionary workshop'."
+        },
+        {
+          "id": "p5",
+          "text": "James Boswell, his biographer, described the garret where Johnson worked as 'fitted up like a counting house' with a long desk running down the middle at which the copying clerks would work standing up."
+        },
+        {
+          "id": "p6",
+          "text": "Johnson himself was stationed on a rickety chair at an 'old crazy deal table' surrounded by a chaos of borrowed books. He was also helped by six assistants, two of whom died whilst the Dictionary was still in preparation."
+        },
+        {
+          "id": "p7",
+          "text": "The work was immense; filling about eighty large notebooks (and without a library to hand), Johnson wrote the definitions of over 40,000 words, and illustrated their many meanings with some 114,000 quotations drawn from English writing on every subject, from the Elizabethans to his own time. He did not expect to achieve complete originality. Working to a deadline, he had to draw on the best of all previous dictionaries, and to make his work one of heroic synthesis. In fact, it was very much more. Unlike his predecessors, Johnson treated English very practically, as a living language, with many different shades of meaning. He adopted his definitions on the principle of English common law - according to precedent. After its publication, his Dictionary was not seriously rivalled for over a century."
+        },
+        {
+          "id": "p8",
+          "text": "After many vicissitudes the Dictionary was finally published on 15 April 1775. It was instantly recognised as a landmark throughout Europe. 'This very noble work,' wrote the leading Italian lexicographer, 'will be a perpetual monument of Fame to the Author, an Honour to his own Country in particular, and a general Benefit to the republic of Letters throughout Europe.' The fact that Johnson had taken on the Academies of Europe and matched them (everyone knew that forty French academics had taken forty years to produce the first French national dictionary) was cause for much English celebration."
+        },
+        {
+          "id": "p9",
+          "text": "Johnson had worked for nine years, 'with little assistance of the learned, and without any patronage of the great; not in the soft obscurities of retirement, or under the shelter of academic bowers, but amidst inconvenience and distraction, in sickness and in sorrow'. For all its faults and eccentricities his two-volume work is a masterpiece and a landmark, in his own words, 'setting the orthography, displaying the analogy, regulating the structures, and ascertaining the significations of English words'. It is the cornerstone of Standard English, an achievement which, in James Boswell's words, 'conferred stability on the language of his country'."
+        },
+        {
+          "id": "p10",
+          "text": "The Dictionary, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George III to offer him a pension. From then on, he was to become the Johnson of folklore."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            3
+          ],
+          "type": "mc-multi",
+          "count": 3,
+          "instruction": "Choose THREE letters A-H. Write your answers in boxes 1-3 on your answer sheet. NB Your answers may be given in any order.",
+          "title": "Which THREE of the following statements are true of Johnson's Dictionary?",
+          "options": [
+            {
+              "k": "A",
+              "text": "It avoided all scholarly words."
+            },
+            {
+              "k": "B",
+              "text": "It was the only English dictionary in general use for 200 years."
+            },
+            {
+              "k": "C",
+              "text": "It was famous because of the large number of people involved."
+            },
+            {
+              "k": "D",
+              "text": "It focused mainly on language from contemporary texts."
+            },
+            {
+              "k": "E",
+              "text": "There was a time limit for its completion."
+            },
+            {
+              "k": "F",
+              "text": "It ignored work done by previous dictionary writers."
+            },
+            {
+              "k": "G",
+              "text": "It took into account subtleties of meaning."
+            },
+            {
+              "k": "H",
+              "text": "Its definitions were famous for their originality."
+            }
+          ]
+        },
+        {
+          "range": [
+            4,
+            7
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "text": "In 1764 Dr Johnson accepted the contract to produce a dictionary. Having rented a garret, he took on a number of {{4}}, who stood at a long central desk. Johnson did not have a {{5}} available to him, but eventually produced definitions of in excess of 40,000 words written down in 80 large notebooks. On publication, the Dictionary was immediately hailed in many European countries as a landmark. According to his biographer, James Boswell, Johnson's principal achievement was to bring {{6}} to the English language. As a reward for his hard work, he was granted a {{7}} by the king."
+        },
+        {
+          "range": [
+            8,
+            13
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 8,
+              "text": "The growing importance of the middle classes led to an increased demand for dictionaries."
+            },
+            {
+              "n": 9,
+              "text": "Johnson has become more well known since his death."
+            },
+            {
+              "n": 10,
+              "text": "Johnson had been planning to write a dictionary for several years."
+            },
+            {
+              "n": 11,
+              "text": "Johnson set up an academy to help with the writing of his Dictionary."
+            },
+            {
+              "n": 12,
+              "text": "Johnson only received payment for his Dictionary on its completion."
+            },
+            {
+              "n": 13,
+              "text": "Not all of the assistants survived to see the publication of the Dictionary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Nature or Nurture?",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "label": "A",
+          "text": "A few years ago, in one of the most fascinating and disturbing experiments in behavioural psychology, Stanley Milgram of Yale University tested 40 subjects from all walks of life for their willingness to obey instructions given by a 'leader' in a situation in which the subjects might feel a personal distaste for the actions they were called upon to perform. Specifically, Milgram told each volunteer 'teacher-subject' that the experiment was in the noble cause of education, and was designed to test whether or not punishing pupils for their mistakes would have a positive effect on the pupils' ability to learn."
+        },
+        {
+          "id": "p2",
+          "label": "B",
+          "text": "Milgram's experimental set-up involved placing the teacher-subject before a panel of thirty switches with labels ranging from '15 volts of electricity (slight shock)' to '450 volts (danger - severe shock)' in steps of 15 volts each. The teacher-subject was told that whenever the pupil gave the wrong answer to a question, a shock was to be administered, beginning at the lowest level and increasing in severity with each successive wrong answer. The supposed 'pupil' was in reality an actor hired by Milgram to simulate receiving the shocks by emitting a spectrum of groans, screams and writhings together with an assortment of statements and expletives denouncing both the experiment and the experimenter. Milgram told the teacher-subject to ignore the reactions of the pupil, and to administer whatever level of shock was called for, as per the rule governing the experimental situation of the moment."
+        },
+        {
+          "id": "p3",
+          "label": "C",
+          "text": "As the experiment unfolded, the pupil would deliberately give the wrong answers to questions posed by the teacher, thereby bringing on various electrical punishments, even up to the danger level of 300 volts and beyond. Many of the teacher-subjects balked at administering the higher levels of punishment, and turned to Milgram with questioning looks and/or complaints about continuing the experiment. In these situations, Milgram calmly explained that the teacher-subject was to ignore the pupil's cries for mercy and carry on with the experiment. If the subject was still reluctant to proceed, Milgram said that it was important for the sake of the experiment that the procedure be followed through to the end. His final argument was, 'You have no other choice. You must go on.' What Milgram was trying to discover was the number of teacher-subjects who would be willing to administer the highest levels of shock, even in the face of strong personal and moral revulsion against the rules and conditions of the experiment."
+        },
+        {
+          "id": "p4",
+          "label": "D",
+          "text": "Prior to carrying out the experiment, Milgram explained his idea to a group of 39 psychiatrists and asked them to predict the average percentage of people in an ordinary population who would be willing to administer the highest shock level of 450 volts. The overwhelming consensus was that virtually all the teacher-subjects would refuse to obey the experimenter. The psychiatrists felt that 'most subjects would not go beyond 150 volts' and they further anticipated that only four per cent would go up to 300 volts. Furthermore, they thought that only a lunatic fringe of about one in 1,000 would give the highest shock of 450 volts."
+        },
+        {
+          "id": "p5",
+          "label": "E",
+          "text": "What were the actual results? Well, over 60 per cent of the teacher-subjects continued to obey Milgram up to the 450-volt limit! In repetitions of the experiment in other countries, the percentage of obedient teacher-subjects was even higher, reaching 85 per cent in one country. How can we possibly account for this vast discrepancy between what calm, rational, knowledgeable people predict in the comfort of their study and what pressured, flustered, but cooperative 'teachers' actually do in the laboratory of real life?"
+        },
+        {
+          "id": "p6",
+          "label": "F",
+          "text": "One's first inclination might be to argue that there must be some sort of built-in animal aggression instinct that was activated by the experiment, and that Milgram's teacher-subjects were just following a genetic need to discharge this pent-up primal urge onto the pupil by administering the electrical shock. A modern hard-core sociobiologist might even go so far as to claim that this aggressive instinct evolved as an advantageous trait, having been of survival value to our ancestors in their struggle against the hardships of life on the plains and in the caves, ultimately finding its way into our genetic make-up as a remnant of our ancient animal ways."
+        },
+        {
+          "id": "p7",
+          "label": "G",
+          "text": "An alternative to this notion of genetic programming is to see the teacher-subjects' actions as a result of the social environment under which the experiment was carried out. As Milgram himself pointed out, 'Most subjects in the experiment see their behaviour in a larger context that is benevolent and useful to society - the pursuit of scientific truth. The psychological laboratory has a strong claim to legitimacy and evokes trust and confidence in those who perform there. An action such as shocking a victim, which in isolation appears evil, acquires a completely different meaning when placed in this setting.'"
+        },
+        {
+          "id": "p8",
+          "label": "H",
+          "text": "Thus, in this explanation the subject merges his unique personality and personal and moral code with that of larger institutional structures, surrendering individual properties like loyalty, self-sacrifice and discipline to the service of malevolent systems of authority."
+        },
+        {
+          "id": "p9",
+          "label": "I",
+          "text": "Here we have two radically different explanations for why so many teacher-subjects were willing to forgo their sense of personal responsibility for the sake of an institutional authority figure. The problem for biologists, psychologists and anthropologists is to sort out which of these two polar explanations is more plausible. This, in essence, is the problem of modern sociobiology - to discover the degree to which hard-wired genetic programming dictates, or at least strongly biases, the interaction of animals and humans with their environment, that is, their behaviour. Put another way, sociobiology is concerned with elucidating the biological basis of all behaviour."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            19
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has nine paragraphs, A-I. Which paragraph contains the following information? Write the correct letter A-I in boxes 14-19 on your answer sheet.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "a biological explanation of the teacher-subjects' behaviour"
+            },
+            {
+              "n": 15,
+              "text": "the explanation Milgram gave the teacher-subjects for the experiment"
+            },
+            {
+              "n": 16,
+              "text": "the identity of the pupils"
+            },
+            {
+              "n": 17,
+              "text": "the expected statistical outcome"
+            },
+            {
+              "n": 18,
+              "text": "the general aim of sociobiological study"
+            },
+            {
+              "n": 19,
+              "text": "the way Milgram persuaded the teacher-subjects to continue"
+            }
+          ]
+        },
+        {
+          "range": [
+            20,
+            22
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 20-22 on your answer sheet.",
+          "questions": [
+            {
+              "n": 20,
+              "text": "The teacher-subjects were told that they were testing whether",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a 450-volt shock was dangerous."
+                },
+                {
+                  "k": "B",
+                  "text": "punishment helps learning."
+                },
+                {
+                  "k": "C",
+                  "text": "the pupils were honest."
+                },
+                {
+                  "k": "D",
+                  "text": "they were suited to teaching."
+                }
+              ]
+            },
+            {
+              "n": 21,
+              "text": "The teacher-subjects were instructed to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "stop when a pupil asked them to."
+                },
+                {
+                  "k": "B",
+                  "text": "denounce pupils who made mistakes."
+                },
+                {
+                  "k": "C",
+                  "text": "reduce the shock level after a correct answer."
+                },
+                {
+                  "k": "D",
+                  "text": "give punishment according to a rule."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "Before the experiment took place the psychiatrists",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "believed that a shock of 150 volts was too dangerous."
+                },
+                {
+                  "k": "B",
+                  "text": "failed to agree on how the teacher-subjects would respond to instructions."
+                },
+                {
+                  "k": "C",
+                  "text": "underestimated the teacher-subjects' willingness to comply with experimental procedure."
+                },
+                {
+                  "k": "D",
+                  "text": "thought that many of the teacher-subjects would administer a shock of 450 volts."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            26
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 23,
+              "text": "Several of the subjects were psychology students at Yale University."
+            },
+            {
+              "n": 24,
+              "text": "Some people may believe that the teacher-subjects' behaviour could be explained as a positive survival mechanism."
+            },
+            {
+              "n": 25,
+              "text": "In a sociological explanation, personal values are more powerful than authority."
+            },
+            {
+              "n": 26,
+              "text": "Milgram's experiment solves an important question in sociobiology."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "The Truth about the Environment",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "For many environmentalists, the world seems to be getting worse. They have developed a hit-list of our main fears: that natural resources are running out; that the population is ever growing, leaving less and less to eat; that species are becoming extinct in vast numbers, and that the planet's air and water are becoming ever more polluted."
+        },
+        {
+          "id": "p2",
+          "text": "But a quick look at the facts shows a different picture. First, energy and other natural resources have become more abundant, not less so, since the book 'The Limits to Growth' was published in 1972 by a group of scientists. Second, ·more food is now produced per head of the world's population than at any time in history. Fewer people are starving. Third, although species are indeed becoming extinct, only about 0.7% of them are expected to disappear in the next 50 years, not 25-50%, as has so often been predicted. And finally, most forms of environmental pollution either appear to have been exaggerated, or are transient - associated with the early phases of industrialisation and therefore best cured not by restricting economic growth, but by accelerating it. One form of pollution - the release of greenhouse gases that causes global warming - does appear to be a phenomenon that is going to extend well into our future, but its total impact is unlikely to pose a devastating problem. A bigger problem may well turn out to be an inappropriate response to it."
+        },
+        {
+          "id": "p3",
+          "text": "Yet opinion polls suggest that many people nurture the belief that environmental standards are declining and four factors seem to cause this disjunction between perception and reality."
+        },
+        {
+          "id": "p4",
+          "text": "One is the lopsidedness built into scientific research. Scientific funding goes mainly to areas with many problems. That may be wise policy, but it will also create an impression that many more potential problems exist than is the case."
+        },
+        {
+          "id": "p5",
+          "text": "Secondly, environmental groups need to be noticed by the mass media. They also need to keep the money rolling in. Understandably, perhaps, they sometimes overstate their arguments. In 1997, for example, the World Wide Fund for Nature issued a press release entitled: 'Two thirds of the world's forests lost forever'. The truth turns out to be nearer 20 %."
+        },
+        {
+          "id": "p6",
+          "text": "Though these groups are run overwhelmingly by selfless folk, they nevertheless share many of the characteristics of other lobby groups. That would matter less if people applied the same degree of scepticism to environmental lobbying as they do to lobby groups in other fields. A trade organisation arguing for, say, weaker pollution controls is instantly seen as self-interested. Yet a green organisation opposing such a weakening is seen as altruistic, even if an impartial view of the controls in question might suggest they are doing more harm than good."
+        },
+        {
+          "id": "p7",
+          "text": "A third source of confusion is the attitude of the media. People are clearly more curious about bad news than good. Newspapers and broadcasters are there to provide what the public wants. That, however, can lead to significant distortions of perception. An example was America's encounter with El Nino in 1997 and 1998. This climatic phenomenon was accused of wrecking tourism, causing allergies, melting the ski-slopes and causing 22 deaths. However, according to an article in the Bulletin of the American Meteorological Society, the damage it did was estimated at US$4 billion but the benefits amounted to some US$19 billion. These came from higher winter temperatures (which saved an estimated 850 lives, reduced heating costs and diminished spring floods caused by meltwaters)."
+        },
+        {
+          "id": "p8",
+          "text": "The fourth factor is poor individual perception. People worry that the endless rise in the amount of stuff everyone throws away will cause the world to run out of places to dispose of waste. Yet, even if America's trash output continues to rise as it has done in the past, and even if the American population doubles by 2100, all the rubbish America produces through the entire 21st century will still take up only one-12,000th of the area of the entire United States."
+        },
+        {
+          "id": "p9",
+          "text": "So what of global warming? As we know, carbon dioxide emissions are causing the planet to warm. The best estimates are that the temperatures will rise by 2-3°C in this century, causing considerable problems, at a total cost of US$5,000 billion."
+        },
+        {
+          "id": "p10",
+          "text": "Despite the intuition that something drastic needs to be done about such a costly problem, economic analyses clearly show it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures. A model by one of the main authors of the United Nations Climate Change Panel shows how an expected temperature increase of 2.1 degrees in 2100 would only be diminished to an increase of 1.9 degrees. Or to put it another way, the temperature increase that the planet would have experienced in 2094 would be postponed to 2100."
+        },
+        {
+          "id": "p11",
+          "text": "So this does not prevent global warming, but merely buys the world six years. Yet the cost of reducing carbon dioxide emissions, for the United States alone, will be higher than the cost of solving the world's single, most pressing health problem: providing universal access to clean drinking water and sanitation. Such measures would avoid 2 million deaths every year, and prevent half a billion people from becoming seriously ill."
+        },
+        {
+          "id": "p12",
+          "text": "It is crucial that we look at the facts if we want to make the best possible decisions for the future. It may be costly to be overly optimistic - but more costly still to be too pessimistic."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            32
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the writer's claims"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the writer's claims"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 27,
+              "text": "Environmentalists take a pessimistic view of the world for a number of reasons."
+            },
+            {
+              "n": 28,
+              "text": "Data on the Earth's natural resources has only been collected since 1972."
+            },
+            {
+              "n": 29,
+              "text": "The number of starving people in the world has increased in recent years."
+            },
+            {
+              "n": 30,
+              "text": "Extinct species are being replaced by new species."
+            },
+            {
+              "n": 31,
+              "text": "Some pollution problems have been correctly linked to industrialisation."
+            },
+            {
+              "n": 32,
+              "text": "It would be best to attempt to slow down economic growth."
+            }
+          ]
+        },
+        {
+          "range": [
+            33,
+            37
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 33,
+              "text": "What aspect of scientific research does the writer express concern about in paragraph 4?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the need to produce results"
+                },
+                {
+                  "k": "B",
+                  "text": "the lack of financial support"
+                },
+                {
+                  "k": "C",
+                  "text": "the selection of areas to research"
+                },
+                {
+                  "k": "D",
+                  "text": "the desire to solve every research problem"
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "The writer quotes from the Worldwide Fund for Nature to illustrate how",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "influential the mass media can be."
+                },
+                {
+                  "k": "B",
+                  "text": "effective environmental groups can be."
+                },
+                {
+                  "k": "C",
+                  "text": "the mass media can help groups raise funds."
+                },
+                {
+                  "k": "D",
+                  "text": "environmental groups can exaggerate their claims."
+                }
+              ]
+            },
+            {
+              "n": 35,
+              "text": "What is the writer's main point about lobby groups in paragraph 6?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Some are more active than others."
+                },
+                {
+                  "k": "B",
+                  "text": "Some are better organised than others."
+                },
+                {
+                  "k": "C",
+                  "text": "Some receive more criticism than others."
+                },
+                {
+                  "k": "D",
+                  "text": "Some support more important issues than others."
+                }
+              ]
+            },
+            {
+              "n": 36,
+              "text": "The writer suggests that newspapers print items that are intended to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "educate readers."
+                },
+                {
+                  "k": "B",
+                  "text": "meet their readers' expectations."
+                },
+                {
+                  "k": "C",
+                  "text": "encourage feedback from readers."
+                },
+                {
+                  "k": "D",
+                  "text": "mislead readers."
+                }
+              ]
+            },
+            {
+              "n": 37,
+              "text": "What does the writer say about America's waste problem?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "It will increase in line with population growth."
+                },
+                {
+                  "k": "B",
+                  "text": "It is not as important as we have been led to believe."
+                },
+                {
+                  "k": "C",
+                  "text": "It has been reduced through public awareness of the issues."
+                },
+                {
+                  "k": "D",
+                  "text": "It is only significant in certain areas of the country."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            38,
+            40
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary with the list of words A-I below.",
+          "title": "GLOBAL WARMING",
+          "text": "The writer admits that global warming is a {{38}} challenge, but says that it will not have a catastrophic impact on our future, if we deal with it in the {{39}} way. If we try to reduce the levels of greenhouse gases, he believes that it would only have a minimal impact on rising temperatures. He feels it would be better to spend money on the more {{40}} health problem of providing the world's population with clean drinking water.",
+          "options": [
+            {
+              "k": "A",
+              "text": "unrealistic"
+            },
+            {
+              "k": "B",
+              "text": "agreed"
+            },
+            {
+              "k": "C",
+              "text": "expensive"
+            },
+            {
+              "k": "D",
+              "text": "right"
+            },
+            {
+              "k": "E",
+              "text": "long-term"
+            },
+            {
+              "k": "F",
+              "text": "usual"
+            },
+            {
+              "k": "G",
+              "text": "surprising"
+            },
+            {
+              "k": "H",
+              "text": "personal"
+            },
+            {
+              "k": "I",
+              "text": "urgent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

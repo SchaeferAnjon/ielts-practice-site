@@ -1,0 +1,1680 @@
+{
+  "id": "c5t1",
+  "book": "剑桥雅思5",
+  "test": 1,
+  "title": "剑5 Test 1 · Listening",
+  "source": "Cambridge IELTS 5, Test 1（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "by minibus",
+      "a minibus",
+      "minibus"
+    ],
+    "2": [
+      "15",
+      "15 people",
+      "fifteen",
+      "fifteen people"
+    ],
+    "3": [
+      "April 18th",
+      "April the 18th",
+      "the 18th of April",
+      "18th April"
+    ],
+    "4": [
+      "Pallisades",
+      "The Pallisades"
+    ],
+    "5": [
+      "B",
+      "D"
+    ],
+    "6": [
+      "B",
+      "D"
+    ],
+    "7": [
+      "280",
+      "$280"
+    ],
+    "8": [
+      "14"
+    ],
+    "9": [
+      "20%",
+      "20 %"
+    ],
+    "10": [
+      "39745T"
+    ],
+    "11": [
+      "move around",
+      "move about"
+    ],
+    "12": [
+      "brakes"
+    ],
+    "13": [
+      "fingers"
+    ],
+    "14": [
+      "satisfactory"
+    ],
+    "15": [
+      "put together",
+      "put it together"
+    ],
+    "16": [
+      "too wide"
+    ],
+    "17": [
+      "dangerous"
+    ],
+    "18": [
+      "wheels"
+    ],
+    "19": [
+      "the best",
+      "best",
+      "the best buy",
+      "best buy",
+      "safe"
+    ],
+    "20": [
+      "sharp"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "B",
+      "D"
+    ],
+    "25": [
+      "B",
+      "D"
+    ],
+    "26": [
+      "full-time"
+    ],
+    "27": [
+      "a term",
+      "one term"
+    ],
+    "28": [
+      "intensive"
+    ],
+    "29": [
+      "two modules",
+      "for two terms",
+      "two terms"
+    ],
+    "30": [
+      "a topic",
+      "one topic"
+    ],
+    "31": [
+      "politics"
+    ],
+    "32": [
+      "learn"
+    ],
+    "33": [
+      "children's education",
+      "their children's education"
+    ],
+    "34": [
+      "a car"
+    ],
+    "35": [
+      "nursing care"
+    ],
+    "36": [
+      "crisis"
+    ],
+    "37": [
+      "early twenties"
+    ],
+    "38": [
+      "confidence"
+    ],
+    "39": [
+      "money management"
+    ],
+    "40": [
+      "low-risk investments"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c5/t1p1.mp3",
+      "duration": 496,
+      "title": "Dreamtime Travel Agency",
+      "groups": [
+        {
+          "range": [
+            1,
+            4
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "Dreamtime Travel Agency - Tour information",
+          "lines": [
+            "Holiday length: 2 days",
+            "Type of transportation: {{1}}",
+            "Maximum group size: {{2}}",
+            "Next tour date: {{3}}",
+            "Hotel name: The {{4}}"
+          ]
+        },
+        {
+          "range": [
+            5,
+            6
+          ],
+          "type": "mc-multi",
+          "count": 2,
+          "instruction": "Choose TWO letters A-E.",
+          "title": "Which TWO things are included in the price of the tour?",
+          "options": [
+            {
+              "k": "A",
+              "text": "fishing trip"
+            },
+            {
+              "k": "B",
+              "text": "guided bushwalk"
+            },
+            {
+              "k": "C",
+              "text": "reptile park entry"
+            },
+            {
+              "k": "D",
+              "text": "table tennis"
+            },
+            {
+              "k": "E",
+              "text": "tennis"
+            }
+          ]
+        },
+        {
+          "range": [
+            7,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "lines": [
+            "The tour costs ${{7}}.",
+            "Bookings must be made no later than {{8}} days in advance.",
+            "A {{9}} deposit is required.",
+            "The customer's reference number is {{10}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "RECEPTIONIST",
+          "t": "Good afternoon, Dreamtime Travel.",
+          "start": 96.67,
+          "end": 98.35
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "How can I help you?",
+          "start": 98.99,
+          "end": 99.87
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Oh hello.",
+          "start": 100.43,
+          "end": 100.87
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "I'm interested in the holidays you offer along the coast near here.",
+          "start": 101.23,
+          "end": 104.75
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Yes.",
+          "start": 104.75,
+          "end": 105.71
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "We operate several tours up the coast.",
+          "start": 105.95,
+          "end": 107.95
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Where in particular did you want to go?",
+          "start": 108.81,
+          "end": 110.53
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Well, I like the sound of the holiday that mentioned whales. Was it 'Whale Watching'?",
+          "start": 111.29,
+          "end": 115.05
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Oh, that's our Whale Watch Experience.",
+          "start": 174.45,
+          "end": 176.53
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "It's very popular and it's based in a lovely little town with nice beaches.",
+          "start": 177.09,
+          "end": 181.33
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Oh right, and how long does it last?",
+          "start": 181.89,
+          "end": 184.25
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "It's two days - that includes four hours' travel time each way from here.",
+          "start": 184.89,
+          "end": 189.81
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Good, I don't want to be away any longer than that.",
+          "start": 191.54,
+          "end": 193.1
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "So is that by coach?",
+          "start": 193.7,
+          "end": 195.22
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Actually it's by minibus.",
+          "q": [
+            1
+          ],
+          "start": 195.42,
+          "end": 197.3
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "We like to keep those tours small and personal so we don't take a whole coachload of people.",
+          "start": 198.06,
+          "end": 203.58
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "In fact, we only take up to fifteen people on this tour, although we do run it with just twelve or thirteen.",
+          "q": [
+            2
+          ],
+          "start": 203.94,
+          "end": 210.48
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Oh, right.",
+          "start": 211.12,
+          "end": 211.92
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "So do you run these tours often?",
+          "start": 212.36,
+          "end": 214.2
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Well it depends on the time of year.",
+          "start": 214.4,
+          "end": 216.4
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Of course in peak times like the summer holidays we do them every weekend, but at the moment it's usually once a month at most.",
+          "start": 216.87,
+          "end": 224.23
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "And when is the next one going?",
+          "start": 224.43,
+          "end": 226.27
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Mmm, let me see.",
+          "start": 227.61,
+          "end": 228.85
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Urn, there's one in three weeks' time which is April the 18th, and then we don't have another one until June the 2nd.",
+          "q": [
+            3
+          ],
+          "start": 232.45,
+          "end": 242.29
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "All right, and is April a good time to go?",
+          "start": 242.49,
+          "end": 246.85
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Pretty good.",
+          "start": 246.85,
+          "end": 248.05
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Though the really good time is later in the year.",
+          "start": 248.63,
+          "end": 251.51
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "I have to say though that the whale sighting is only one of the many things offered.",
+          "start": 252.15,
+          "end": 256.23
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Really?",
+          "start": 256.51,
+          "end": 257.11
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Yes.",
+          "start": 257.43,
+          "end": 257.83
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "The hotel itself where you stay has great facilities.",
+          "start": 258.31,
+          "end": 261.23
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "It's called The Pallisades.",
+          "start": 261.63,
+          "end": 262.23
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "The Paris what?",
+          "start": 264.0,
+          "end": 264.88
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "No, it's actually The Pallisades, P-A-L-L-I-S-A-D-E-S.",
+          "start": 265.72,
+          "end": 273.36
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "It's right on the main beach there.",
+          "q": [
+            4
+          ],
+          "start": 274.0,
+          "end": 275.72
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Oh, I see.",
+          "start": 275.8,
+          "end": 276.72
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "All of the rooms have nice views and the food is really good there too.",
+          "start": 276.96,
+          "end": 281.36
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Oh right.",
+          "start": 281.84,
+          "end": 282.28
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "And what about the other things?",
+          "start": 319.31,
+          "end": 320.67
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "You know, that are included in the price.",
+          "start": 321.51,
+          "end": 323.11
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Oh, there are lots of things.",
+          "start": 323.95,
+          "end": 325.23
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "If you don't want to do the whale watch cruise, your guide will take anyone who is interested either on a bushwalk through the national park near the hotel, and there's no extra charge for that, or on a fishing trip.",
+          "q": [
+            5,
+            6
+          ],
+          "start": 325.23,
+          "end": 338.08
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "That's an extra $12 I think.",
+          "start": 338.84,
+          "end": 341.52
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "And there's also a reptile park in town - that costs more or less the same.",
+          "start": 342.08,
+          "end": 346.24
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "No, I think I'd prefer whales to snakes.",
+          "start": 347.0,
+          "end": 348.92
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Yeah.",
+          "start": 349.2,
+          "end": 349.76
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "And if you just want to relax you are free to sit by the hotel pool or go down the beach.",
+          "start": 350.36,
+          "end": 355.44
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Oh, and they also have tennis courts at the hotel, but you have to pay for those by the hour.",
+          "start": 356.38,
+          "end": 361.1
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "But there are table tennis tables downstairs and they're part of the accommodation package.",
+          "q": [
+            5,
+            6
+          ],
+          "start": 361.9,
+          "end": 366.58
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Just speak to your guide.",
+          "start": 366.7,
+          "end": 367.9
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Well that sounds good.",
+          "start": 368.74,
+          "end": 369.58
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "So how much is the basic tour price?",
+          "start": 370.54,
+          "end": 372.38
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "At this time of year it's usually around $300 but let me check.",
+          "start": 373.22,
+          "end": 378.46
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Er. .. oh, it's actually $280.",
+          "q": [
+            7
+          ],
+          "start": 380.43,
+          "end": 382.87
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "And the next tour, are there any places on that one?",
+          "start": 383.87,
+          "end": 386.63
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "How many people is it for?",
+          "start": 387.47,
+          "end": 388.51
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "There are two of us.",
+          "start": 389.23,
+          "end": 389.79
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Yes, that should be fine.",
+          "start": 390.35,
+          "end": 391.71
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Can I just mention that we require all bookings to be made at least fourteen days before you travel to avoid cancellations of tours.",
+          "q": [
+            8
+          ],
+          "start": 392.71,
+          "end": 400.75
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "And if you cancel within seven days of departure you will have to pay 50% of your total booking.",
+          "start": 401.5,
+          "end": 408.06
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "OK.",
+          "start": 408.82,
+          "end": 409.42
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "And you also need to pay a 20% deposit at the time of booking.",
+          "q": [
+            9
+          ],
+          "start": 409.82,
+          "end": 414.01
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Can I pay that by credit card?",
+          "start": 414.29,
+          "end": 416.13
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Yes, you can .",
+          "start": 416.33,
+          "end": 417.25
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "All right, what I'll do is I'll talk to my partner and get back to you.",
+          "start": 417.25,
+          "end": 421.37
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Fine.",
+          "start": 421.53,
+          "end": 422.13
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "So I'll make a provisional booking, shall I? - two for the Whale Watch Experience.",
+          "start": 423.17,
+          "end": 428.25
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Let me issue you with a customer reference number for when you call back.",
+          "start": 429.05,
+          "end": 432.61
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "Do you have a pen?",
+          "start": 433.11,
+          "end": 433.63
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Yes.",
+          "start": 434.03,
+          "end": 434.55
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "OK, it's three nine seven. four five, T .",
+          "q": [
+            10
+          ],
+          "start": 435.73,
+          "end": 437.53
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "That's T for tango.",
+          "start": 441.45,
+          "end": 442.77
+        },
+        {
+          "s": "RECEPTIONIST",
+          "t": "When you call back, ask to speak to the Tour Manager, that's me, Tracy.",
+          "start": 443.49,
+          "end": 447.93
+        },
+        {
+          "s": "CUSTOMER",
+          "t": "Fine, I will.",
+          "start": 448.81,
+          "end": 449.53
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c5/t1p2.mp3",
+      "duration": 290,
+      "title": "Buyer Beware: Baby Cots",
+      "groups": [
+        {
+          "range": [
+            11,
+            19
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS for each answer.",
+          "table": {
+            "head": [
+              "",
+              "Good points",
+              "Problems",
+              "Verdict"
+            ],
+            "rows": [
+              [
+                "Baby Safe",
+                "Easy to {{11}}",
+                "Did not have any {{12}}\nBabies could trap their {{13}} in the side bar",
+                "{{14}}"
+              ],
+              [
+                "Choice Cots",
+                "Easy to {{15}}",
+                "Side did not drop down\nSpaces between the bars were {{16}}",
+                "{{17}}"
+              ],
+              [
+                "Mother's Choice",
+                "Base of cot could be moved",
+                "Did not have any {{18}}\nPictures could be removed easily",
+                "{{19}}"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            20,
+            20
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for the answer.",
+          "lines": [
+            "Metal should not be rusted or bent",
+            "Edges of cot should not be {{20}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Hello and welcome to today's 'Buyer Beware' programme, where we give you some tips on how to spend your money wisely.",
+          "start": 43.0,
+          "end": 49.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, in today's show we're looking at beds for children and babies.",
+          "start": 50.32,
+          "end": 54.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's start by looking at baby cots, that's for children of up to three years old.",
+          "start": 55.53,
+          "end": 60.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We tested three different cots all in the budget price range and, as usual, we will feature the good points, the problems and our verdict.",
+          "start": 60.45,
+          "end": 69.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The first cot we looked at was by Baby Safe and it had several good points to recommend it.",
+          "start": 71.55,
+          "end": 76.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our testers liked the fact that it had four wheels, so it was easy to move around.",
+          "q": [
+            11
+          ],
+          "start": 77.83,
+          "end": 82.59
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The only slight problems with this cot were that it had no brakes, but they didn't think that mattered too much.",
+          "q": [
+            12
+          ],
+          "start": 83.55,
+          "end": 89.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At first they were a bit concerned about the side bar, because they felt babies could trap their fingers in it,",
+          "q": [
+            13
+          ],
+          "start": 90.03,
+          "end": 95.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But our testers felt that this was unlikely to happen so they have given this one a verdict of 'satisfactory'.",
+          "q": [
+            14
+          ],
+          "start": 95.79,
+          "end": 100.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The next cot was by Choice Cots and this time our testers were pleased to find a cot which is simple to put together - unlike others we looked at.",
+          "q": [
+            15
+          ],
+          "start": 103.92,
+          "end": 112.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "On the minus side, our testers did not like the fact that the side of the cot did not drop down, making it difficult to pick up newborn babies.",
+          "start": 113.08,
+          "end": 121.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, the real problem with this cot was the space between the bars; our testers found they were too wide and a baby could easily trap his head.",
+          "q": [
+            16
+          ],
+          "start": 121.51,
+          "end": 130.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We felt this was a real safety hazard and so we have labelled this one dangerous, I'm afraid.",
+          "q": [
+            17
+          ],
+          "start": 130.79,
+          "end": 136.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And finally better news for the Mother's Choice cot.",
+          "start": 173.24,
+          "end": 175.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This cot was slightly different in that, although the side bar did not drop down, the base could be raised or lowered into two different positions making it safe as well as convenient.",
+          "start": 176.0,
+          "end": 187.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The negatives for this one were quite minor; the only niggle everyone had was the fact that it has no wheels and the only other problem anyone could find, was that there were pictures which were simply stuck on and so could easily become detached.",
+          "q": [
+            18
+          ],
+          "start": 188.34,
+          "end": 201.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The makers have now promised to discontinue this practice.",
+          "start": 201.81,
+          "end": 204.85
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As this cot will then be safe in every way, we have made the Mother's Choice cot our best buy.",
+          "q": [
+            19
+          ],
+          "start": 205.21,
+          "end": 210.61
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Congratulations Mother's Choice!",
+          "start": 211.24,
+          "end": 212.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, what features should you look for in a baby's cot?",
+          "start": 214.36,
+          "end": 216.92
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well obviously safety is a very important factor as well as comfort and convenience.",
+          "start": 217.72,
+          "end": 222.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We recommend that, if you are buying a cot, do make sure that any metal present is not rusted or bent in any way.",
+          "start": 223.84,
+          "end": 230.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You should ensure your cot has only rounded or smooth edging without any sharp edges, this is especially important for wooden cots.",
+          "q": [
+            20
+          ],
+          "start": 231.41,
+          "end": 239.97
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And now on to beds for toddlers .. .",
+          "start": 239.97,
+          "end": 242.97
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c5/t1p3.mp3",
+      "duration": 383,
+      "title": "Management Diploma Courses",
+      "groups": [
+        {
+          "range": [
+            21,
+            23
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 21,
+              "text": "Andrew has worked at the hospital for",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "two years."
+                },
+                {
+                  "k": "B",
+                  "text": "three years."
+                },
+                {
+                  "k": "C",
+                  "text": "five years."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "During the course Andrew's employers will pay",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "his fees."
+                },
+                {
+                  "k": "B",
+                  "text": "his living costs."
+                },
+                {
+                  "k": "C",
+                  "text": "his salary."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "The part-time course lasts for",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "one whole year."
+                },
+                {
+                  "k": "B",
+                  "text": "18 months."
+                },
+                {
+                  "k": "C",
+                  "text": "two years."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            24,
+            25
+          ],
+          "type": "mc-multi",
+          "count": 2,
+          "instruction": "Choose TWO letters A-E.",
+          "title": "What TWO types of coursework are required each month on the part-time course?",
+          "options": [
+            {
+              "k": "A",
+              "text": "a case study"
+            },
+            {
+              "k": "B",
+              "text": "an essay"
+            },
+            {
+              "k": "C",
+              "text": "a survey"
+            },
+            {
+              "k": "D",
+              "text": "a short report"
+            },
+            {
+              "k": "E",
+              "text": "a study diary"
+            }
+          ]
+        },
+        {
+          "range": [
+            26,
+            30
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Modular Courses",
+          "text": "Students study {{26}} during each module. A module takes {{27}} and the work is very {{28}}. To get a Diploma each student has to study {{29}} and then work on {{30}} in depth."
+        }
+      ],
+      "transcript": [
+        {
+          "s": "ANDREW",
+          "t": "Excuse me, I was told to come here for advice about , erm, Management Diploma courses?",
+          "start": 45.28,
+          "end": 51.28
+        },
+        {
+          "s": "MONICA",
+          "t": "You've certainly come to the right place.",
+          "start": 51.84,
+          "end": 53.4
+        },
+        {
+          "s": "MONICA",
+          "t": "Hi, my name is Monica.",
+          "start": 53.88,
+          "end": 55.48
+        },
+        {
+          "s": "ANDREW",
+          "t": "Nice to meet you.",
+          "start": 56.26,
+          "end": 57.06
+        },
+        {
+          "s": "ANDREW",
+          "t": "My name is Andrew, Andrew Harris.",
+          "start": 57.58,
+          "end": 59.7
+        },
+        {
+          "s": "MONICA",
+          "t": "So, Andrew, have you seen our diploma course prospectus yet?",
+          "start": 60.02,
+          "end": 64.74
+        },
+        {
+          "s": "ANDREW",
+          "t": "Yes, I've already looked at it.",
+          "start": 64.9,
+          "end": 66.78
+        },
+        {
+          "s": "ANDREW",
+          "t": "In fact, I thought the information on course content was really useful, but I'm afraid I'm a bit confused by all the different ways you can do the course: full-time intensive, part-time and so on.",
+          "start": 66.98,
+          "end": 80.18
+        },
+        {
+          "s": "MONICA",
+          "t": "Well, let's see if I can help.",
+          "start": 81.16,
+          "end": 82.56
+        },
+        {
+          "s": "MONICA",
+          "t": "I think each course type has its advantages and disadvantages, so it really depends on you - your own study habits, and your financial circumstances, of course.",
+          "start": 83.92,
+          "end": 94.36
+        },
+        {
+          "s": "MONICA",
+          "t": "Are you working at the moment?",
+          "start": 95.11,
+          "end": 96.43
+        },
+        {
+          "s": "ANDREW",
+          "t": "Yes.",
+          "start": 96.79,
+          "end": 97.19
+        },
+        {
+          "s": "ANDREW",
+          "t": "I've been working in the administration section of the local hospital for the last three years.",
+          "start": 97.19,
+          "end": 102.59
+        },
+        {
+          "s": "ANDREW",
+          "t": "And before that I worked in the office of a computer engineering company for two years.",
+          "q": [
+            21
+          ],
+          "start": 103.19,
+          "end": 107.75
+        },
+        {
+          "s": "ANDREW",
+          "t": "So, I've got about five years of relevant work experience.",
+          "start": 108.51,
+          "end": 111.23
+        },
+        {
+          "s": "ANDREW",
+          "t": "And what I'm hoping to focus on is Personnel Management.",
+          "start": 111.75,
+          "end": 115.07
+        },
+        {
+          "s": "MONICA",
+          "t": "I see.",
+          "start": 115.63,
+          "end": 116.11
+        },
+        {
+          "s": "MONICA",
+          "t": "And are you planning to leave your current job to study, or are you thinking about just taking a year off?",
+          "start": 116.79,
+          "end": 122.67
+        },
+        {
+          "s": "ANDREW",
+          "t": "I want to know what my options are, really.",
+          "start": 123.82,
+          "end": 125.94
+        },
+        {
+          "s": "ANDREW",
+          "t": "I don't want to quit my job or anything and my employers are keen for me to get some more qualifications but obviously, it would be better if I could do a course without taking too much time away from work.",
+          "start": 126.5,
+          "end": 139.7
+        },
+        {
+          "s": "MONICA",
+          "t": "Right, so you don't really want to do the full-time course, then?",
+          "start": 139.94,
+          "end": 144.5
+        },
+        {
+          "s": "ANDREW",
+          "t": "No, not really.",
+          "start": 145.18,
+          "end": 145.9
+        },
+        {
+          "s": "ANDREW",
+          "t": "It 's also a question of finances.",
+          "start": 147.02,
+          "end": 148.3
+        },
+        {
+          "s": "ANDREW",
+          "t": "You see, my office have agreed to pay the cost of the course itself, but I would have to take unpaid leave if I want to study full-time and, well, I don't think I could afford to support myself with no salary for a whole year.",
+          "q": [
+            22
+          ],
+          "start": 148.62,
+          "end": 162.29
+        },
+        {
+          "s": "MONICA",
+          "t": "OK.",
+          "start": 163.13,
+          "end": 164.53
+        },
+        {
+          "s": "MONICA",
+          "t": "Well, you have two other possibilities: you could either do the part-time course - that would be over two years and you wouldn't have to take any time off work - or you could do what we call a 'modular' course.",
+          "q": [
+            23
+          ],
+          "start": 164.57,
+          "end": 177.13
+        },
+        {
+          "s": "MONICA",
+          "t": "You could do that in eighteen months if you wanted -or longer, it's quite flexible and it would be up to you.",
+          "start": 177.89,
+          "end": 183.56
+        },
+        {
+          "s": "ANDREW",
+          "t": "Mmm.",
+          "start": 183.56,
+          "end": 183.56,
+          "estimated": true
+        },
+        {
+          "s": "ANDREW",
+          "t": "So what does the part-time course involve?",
+          "start": 185.24,
+          "end": 187.56
+        },
+        {
+          "s": "MONICA",
+          "t": "For that you would join an evening class and have a lecture twice a week.",
+          "start": 187.68,
+          "end": 192.32
+        },
+        {
+          "s": "MONICA",
+          "t": "Then, you'd have to attend a seminar or discussion workshop one weekend a month.",
+          "start": 193.2,
+          "end": 197.72
+        },
+        {
+          "s": "ANDREW",
+          "t": "What kind of coursework would I have to do?",
+          "start": 197.88,
+          "end": 200.44
+        },
+        {
+          "s": "MONICA",
+          "t": "Well, it's a mixture.",
+          "start": 200.72,
+          "end": 201.76
+        },
+        {
+          "s": "MONICA",
+          "t": "You'd be expected to write an essay each month, which counts towards your final assessment.",
+          "q": [
+            24,
+            25
+          ],
+          "start": 201.92,
+          "end": 207.0
+        },
+        {
+          "s": "MONICA",
+          "t": "You have a case study to do by the end of the course, which might involve doing a survey or something like that,",
+          "start": 207.77,
+          "end": 213.57
+        },
+        {
+          "s": "MONICA",
+          "t": "and also you need to hand in a short report every four weeks.",
+          "q": [
+            24,
+            25
+          ],
+          "start": 214.13,
+          "end": 217.89
+        },
+        {
+          "s": "ANDREW",
+          "t": "So, that's quite a lot of work, then, on top of working every day.",
+          "start": 218.48,
+          "end": 222.24
+        },
+        {
+          "s": "ANDREW",
+          "t": "It sounds like a lot of studying - and really tiring.",
+          "start": 223.0,
+          "end": 226.12
+        },
+        {
+          "s": "MONICA",
+          "t": "Yes, you certainly wouldn't have much free time!",
+          "start": 227.04,
+          "end": 228.88
+        },
+        {
+          "s": "ANDREW",
+          "t": "What about the 'modular' course?",
+          "start": 267.81,
+          "end": 269.53
+        },
+        {
+          "s": "ANDREW",
+          "t": "What would I have to do for that?",
+          "start": 270.05,
+          "end": 271.33
+        },
+        {
+          "s": "MONICA",
+          "t": "That's where you get the opportunity to study full-time for short periods.",
+          "q": [
+            26
+          ],
+          "start": 272.17,
+          "end": 276.17
+        },
+        {
+          "s": "MONICA",
+          "t": "That way you can cover a lot of coursework and attend lectures and seminars during the day.",
+          "start": 276.93,
+          "end": 281.57
+        },
+        {
+          "s": "MONICA",
+          "t": "And each module lasts for one term, say, about twelve weeks at a time.",
+          "q": [
+            27
+          ],
+          "start": 282.21,
+          "end": 287.13
+        },
+        {
+          "s": "MONICA",
+          "t": "There are obvious advantages in this - the main one being that you can study in a much more intensive way, which suits some people much better.",
+          "q": [
+            28
+          ],
+          "start": 287.89,
+          "end": 295.22
+        },
+        {
+          "s": "ANDREW",
+          "t": "And how many of these 'modules' would I have to do to get the diploma?",
+          "start": 295.42,
+          "end": 300.02
+        },
+        {
+          "s": "MONICA",
+          "t": "The current programme is two modules -",
+          "q": [
+            29
+          ],
+          "start": 300.46,
+          "end": 302.62
+        },
+        {
+          "s": "MONICA",
+          "t": "and then you have to choose a topic to work in more depth - but you can base that on your job, and so you don't need to be away from the office, and how long it takes is up to you.",
+          "q": [
+            30
+          ],
+          "start": 303.14,
+          "end": 313.09
+        },
+        {
+          "s": "MONICA",
+          "t": "The important thing is that you don't have to study and work.",
+          "start": 313.41,
+          "end": 317.26
+        },
+        {
+          "s": "MONICA",
+          "t": "You can focus on one thing at a time.",
+          "start": 317.78,
+          "end": 319.78
+        },
+        {
+          "s": "ANDREW",
+          "t": "Yes, I can see that.",
+          "start": 320.22,
+          "end": 321.22
+        },
+        {
+          "s": "ANDREW",
+          "t": "It certainly sounds attractive!",
+          "start": 321.78,
+          "end": 322.98
+        },
+        {
+          "s": "ANDREW",
+          "t": "It would be more expensive, though.",
+          "start": 323.5,
+          "end": 325.06
+        },
+        {
+          "s": "ANDREW",
+          "t": "I mean, I'd have to support myself without pay for each module.",
+          "start": 325.62,
+          "end": 328.82
+        },
+        {
+          "s": "MONICA",
+          "t": "That's true, so that might be a problem for you.",
+          "start": 329.38,
+          "end": 331.7
+        },
+        {
+          "s": "MONICA",
+          "t": "Look, why don't you talk this over with your employers and ...",
+          "start": 332.29,
+          "end": 335.45
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c5/t1p4.mp3",
+      "duration": 396,
+      "title": "Gender and Saving Money",
+      "groups": [
+        {
+          "range": [
+            31,
+            35
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN THREE WORDS for each answer.",
+          "lines": [
+            "According to George Bernard Shaw, men are supposed to understand {{31}}, economics and finance.",
+            "However, women are more prepared to {{32}} about them.",
+            "Women tend to save for {{33}} and a house.",
+            "Men tend to save for {{34}} and for retirement.",
+            "Women who are left alone may have to pay for {{35}} when they are old."
+          ]
+        },
+        {
+          "range": [
+            36,
+            40
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Saving for the future",
+          "text": "Research indicates that many women only think about their financial future when a {{36}} occurs. This is the worst time to make decisions. It is best for women to start thinking about pensions when they are in their {{37}}. A good way for women to develop their {{38}} in dealing with financial affairs would be to attend classes in {{39}}. When investing in stocks and shares, it is suggested that women should put a high proportion of their savings in {{40}}. In such ways, women can have a comfortable, independent retirement."
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "OK, so we've been looking at the attitudes of various social and cultural groups towards the management of their personal finances- how important they feel it is to save money, and what they save their money for.",
+          "start": 63.79,
+          "end": 76.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One aspect that we haven't yet considered is gender.",
+          "start": 76.88,
+          "end": 79.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So if we consider gender issues we're basically asking whether men and women have different attitudes towards saving money, and whether they save money for different things.",
+          "start": 80.04,
+          "end": 89.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Back in 1928 the British writer George Bernard Shaw wrote in his Intelligent Women's Guide to Socialism and Capitalism that 'A man is supposed to understand politics, economics and finance and is therefore unwilling to accept essential instruction.' He also said, 'A woman, having fewer pretensions, is far more willing to learn'.",
+          "q": [
+            31
+          ],
+          "start": 91.06,
+          "end": 111.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, though these days people might questi on a lot of the assumptions contained in those statements, recent research does suggest that there are some quite fundamental differences between men and women in their attitudes to economic matters.",
+          "q": [
+            32
+          ],
+          "start": 112.75,
+          "end": 125.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's look at what men and women actually save for.",
+          "start": 127.63,
+          "end": 130.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Research studies of women in North America have found that women are far more likely to save for their children's education and they are also more likely to save up in order to buy a house one day.",
+          "q": [
+            33
+          ],
+          "start": 132.43,
+          "end": 144.15
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The same studies have found that men, on the other hand, tend to save for a car, which by the way takes a surprisingly large amount of the household budget in North America.",
+          "q": [
+            34
+          ],
+          "start": 145.06,
+          "end": 155.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But the other main priority for men when saving money is their retirement.",
+          "start": 156.94,
+          "end": 161.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When they're earning, they're far more likely to put money aside for their old age than women are.",
+          "start": 162.14,
+          "end": 167.66
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now this is rather disturbing, because in fact the need for women to save for their old age is far greater than for men.",
+          "start": 169.06,
+          "end": 177.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's consider this for a moment.",
+          "start": 178.5,
+          "end": 179.98
+        },
+        {
+          "s": "SPEAKER",
+          "t": "To start with, it is a fact that throughout the world, women are likely to live many years longer than men, so they need money to support them during this time.",
+          "start": 180.96,
+          "end": 190.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Since women are likely to be the ones left without a partner in old age, they may therefore have to pay for nursing care, because they don't have a spouse to look after them.",
+          "q": [
+            35
+          ],
+          "start": 191.81,
+          "end": 201.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Furthermore the high divorce rates in North America are creating a poverty cycle for women.",
+          "start": 202.73,
+          "end": 208.41
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It is the divorced women who will most often have to look after the children and thus they need more money to look after not just themselves but others.",
+          "start": 209.61,
+          "end": 219.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So what can be done about this situation?",
+          "start": 224.44,
+          "end": 226.24
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The population in North America is likely to contain an increasing number of elderly women.",
+          "start": 227.48,
+          "end": 232.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The research indicates that at present for women it takes a crisis to make them think about their future financial situation.",
+          "q": [
+            36
+          ],
+          "start": 233.24,
+          "end": 240.19
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But of course this is the very worst time for anyone to make important decisions.",
+          "start": 241.11,
+          "end": 245.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Women today need to look ahead, think ahead- not wait until they're under pressure.",
+          "start": 247.18,
+          "end": 252.34
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Even women in their early twenties need to think about pensions, for example, and with increasing numbers of women in professional positions there are signs that this is beginning to happen.",
+          "q": [
+            37
+          ],
+          "start": 252.5,
+          "end": 264.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then research also suggests that women avoid dealing effectively with their economic situation because of a lack of confidence.",
+          "start": 265.82,
+          "end": 273.22
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The best way for them to overcome this is by getting themselves properly informed so they are less dependent on other people's advice.",
+          "q": [
+            38
+          ],
+          "start": 274.86,
+          "end": 282.54
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A number of initiatives have been set up to help them do this.",
+          "start": 284.26,
+          "end": 287.22
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This College, for example, is one of the educational institutions which offers night classes in Money Management, and increasing numbers of women are enrolling on such courses.",
+          "q": [
+            39
+          ],
+          "start": 288.44,
+          "end": 298.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Here, they can be given advice on different ways of saving.",
+          "start": 299.71,
+          "end": 303.03
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Many women are unwilling to invest in stocks and shares, for instance, but these can be extremely profitable.",
+          "start": 303.27,
+          "end": 310.83
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It is usually advised that at least 70% of a person's savings should be in low-risk investments but for the rest, financial advisors often advise taking some well-informed risks.",
+          "q": [
+            40
+          ],
+          "start": 312.03,
+          "end": 323.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Initiatives such as this can give women the economic skills and knowledge they need for a comfortable, independent retirement.",
+          "start": 325.45,
+          "end": 332.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The increasing proportion of elderly women in the population is likely to have other economic consequences ...",
+          "start": 333.45,
+          "end": 339.45
+        }
+      ]
+    }
+  ]
+}

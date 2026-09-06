@@ -1,0 +1,80 @@
+{
+  "id": "c5t1",
+  "book": "剑桥雅思5",
+  "test": 1,
+  "title": "剑5 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "line-graph",
+      "kindZh": "曲线图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The graph below shows the proportion of the population aged 65 and over between 1940 and 2040 in three different countries.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c5t1-task1.webp",
+      "imageCaption": "Proportion of population aged 65 and over, 1940-2040",
+      "data": {
+        "unit": "% of population",
+        "years": [
+          1940,
+          1960,
+          1980,
+          2000,
+          2020,
+          2040
+        ],
+        "series": {
+          "Japan": [
+            5,
+            3,
+            3,
+            5,
+            10,
+            23
+          ],
+          "Sweden": [
+            7,
+            10,
+            14,
+            13,
+            18,
+            25
+          ],
+          "USA": [
+            9,
+            10,
+            15,
+            14,
+            16,
+            23
+          ]
+        }
+      },
+      "sample": {
+        "band": 9,
+        "text": "The graph shows the increase in the ageing population in Japan, Sweden and the USA. It indicates that the percentage of elderly people in all three countries is expected to increase to almost 25% of the respective populations by the year 2040.\n\nIn 1940 the proportion of people aged 65 or more stood at only 5% in Japan, approximately 7% in Sweden and 9% in the US. However, while the figures for the Western countries grew to about 15% in around 1990, the figure for Japan dipped to only 2.5% for much of this period, before rising to almost 5% again at the present time.\n\nIn spite of some fluctuation in the expected percentages, the proportion of older people will probably continue to increase in the next two decades in the three countries. A more dramatic rise is predicted between 2030 and 2040 in Japan, by which time it is thought that the proportion of elderly people will be similar in the three countries.",
+        "comment": "This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Universities should accept equal numbers of male and female students in every subject.",
+        "To what extent do you agree or disagree?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 4,
+        "text": "According to universities should accept equal numbers of male and female students in every subject. Therefore, this essay will show some reasons of argument for and argument against.\n\nFirstly, I will discuss about two reasons of argument for to begin with universities should accept equal numbers of male and female students in every subject because it will be balance of idea while studying. In general, there usually are different ideas between man and woman. These lead to, new ideas from different vision will happen. Another reason is it display that have equal of society not eccept in each side. In addition, nowadays, the most societies become to accept ability of both in any way.\n\nSecondly, I will discuss about one reason of argument against that is some subjects not suitable for each other. For example, some subject of sports such as weight putting. It is not suitable for female because there are different of body between male and female.\n\nIn conclusion, I agree with universities should accept equal numbers of male and female students in every subject. Moreover, it depen on what the subjects that the students want to study, they can choose by themselve because I believe that if the students like to study their subjects, they will do it well so that I strongly agree with this topic.",
+        "comment": "It is difficult to find the main arguments in this answer. There are long, formulaic introductions, not many ideas that deal with the actual issues and the writer's point of view is not consistent. The prompt is copied directly three times in the response and the remainder is underlength at 181 words, so marks are lost for this.\n\nThe response is organised into sections, but the relationship between ideas is not always clear and the linking expressions are sometimes inaccurate, as in the opening paragraph, or used in a mechanical way, as in the second paragraph.\n\nThe dependence on formulaic language and the input material indicates a limited range of vocabulary and there is a lot of repetition and inaccuracy. A range of structures is attempted, but control is weak. Errors in grammar and punctuation are frequent and cause problems for the reader."
+      }
+    }
+  ]
+}
