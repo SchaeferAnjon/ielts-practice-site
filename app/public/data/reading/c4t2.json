@@ -1,0 +1,866 @@
+{
+  "id": "c4t2",
+  "book": "剑桥雅思4",
+  "test": 2,
+  "title": "剑4 Test 2 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "isolation"
+    ],
+    "2": [
+      "economic globalisation",
+      "economic globalization",
+      "socio-economic pressures"
+    ],
+    "3": [
+      "cultural identity"
+    ],
+    "4": [
+      "traditional skill"
+    ],
+    "5": [
+      "E"
+    ],
+    "6": [
+      "B"
+    ],
+    "7": [
+      "D"
+    ],
+    "8": [
+      "C"
+    ],
+    "9": [
+      "B"
+    ],
+    "10": [
+      "NO"
+    ],
+    "11": [
+      "YES"
+    ],
+    "12": [
+      "NOT GIVEN"
+    ],
+    "13": [
+      "YES"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "YES"
+    ],
+    "17": [
+      "NO"
+    ],
+    "18": [
+      "YES"
+    ],
+    "19": [
+      "YES"
+    ],
+    "20": [
+      "YES"
+    ],
+    "21": [
+      "NOT GIVEN"
+    ],
+    "22": [
+      "NO"
+    ],
+    "23": [
+      "YES"
+    ],
+    "24": [
+      "emotional",
+      "emotional problems"
+    ],
+    "25": [
+      "headache",
+      "headaches"
+    ],
+    "26": [
+      "general ill health"
+    ],
+    "27": [
+      "H"
+    ],
+    "28": [
+      "F"
+    ],
+    "29": [
+      "A"
+    ],
+    "30": [
+      "H"
+    ],
+    "31": [
+      "I"
+    ],
+    "32": [
+      "B"
+    ],
+    "33": [
+      "A",
+      "C",
+      "F"
+    ],
+    "34": [
+      "A",
+      "C",
+      "F"
+    ],
+    "35": [
+      "A",
+      "C",
+      "F"
+    ],
+    "36": [
+      "B"
+    ],
+    "37": [
+      "G"
+    ],
+    "38": [
+      "E"
+    ],
+    "39": [
+      "D"
+    ],
+    "40": [
+      "A"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p3",
+      "why": "题干说语言多样性源于地理隔离，原文首句“Isolation breeds linguistic diversity”直接对应 isolation，即地理隔离/孤立。",
+      "key": "Isolation breeds linguistic diversity: as a result, the world is peppered with languages spoken by only a few people."
+    },
+    "2": {
+      "loc": "p7",
+      "why": "原文指出使语言消亡的“最致命武器不是政府政策而是经济全球化”，与题干“government initiatives and ___”并列的另一因素即 economic globalisation。",
+      "key": "But Salikoko Mufwene, who chairs the Linguistics Department at the University of Chicago, argues that the deadliest weapon is not government policy but economic globalisation."
+    },
+    "3": {
+      "loc": "p9",
+      "why": "原文提到人们对“cultural identity”日益重视，是延缓语言消亡的因素，对应题干“people's increasing appreciation of their ___”。",
+      "key": "But a growing interest in cultural identity may prevent the direst predictions from coming true."
+    },
+    "4": {
+      "loc": "p9",
+      "why": "学徒计划中用濒危语言教授“a traditional skill”（如编篮子），对应题干“teach people a ___”。",
+      "key": "Volunteer 'apprentices' pair up with one of the last living speakers of a Native American tongue to learn a traditional skill such as basket weaving, with instruction exclusively in the endangered language."
+    },
+    "5": {
+      "loc": "p9",
+      "why": "Doug Whalen 认为大多数语言若无“大量双语现象（bilingualism）”将无法存续，对应题干“learn to speak more than one language”。",
+      "key": "'Most of these languages will not survive without a large degree of bilingualism,' he says."
+    },
+    "6": {
+      "loc": "p9",
+      "why": "Salikoko Mufwene 指出“防止语言消失”与“让语言重新焕发活力”并不相同，暗示单纯保存语言本身并不够，对应题干“not in itself a satisfactory goal”。",
+      "key": "But Mufwene says that preventing a language dying out is not the same as giving it new life by using it every day."
+    },
+    "7": {
+      "loc": "p8",
+      "why": "Mark Pagel 提出语言可能“影响我们的思维和感知”，对应题干“the way we think may be determined by our language”。",
+      "key": "'Your brain and mine are different from the brain of someone who speaks French, for instance, ' Pagel says, and this could affect our thoughts and perceptions."
+    },
+    "8": {
+      "loc": "p5",
+      "why": "Nicholas Ostler 指出年轻一代“可能不愿意被引入旧传统”，对应题干“reject the established way of life”。",
+      "key": "'When the next generation reaches their teens, they might not want to be induced into the old traditions.'"
+    },
+    "9": {
+      "loc": "p8",
+      "why": "Mufwene 说“若一个人从纳瓦霍语转用英语，他会失去某些东西”，对应题干“a change of language may mean a loss of traditional culture”。",
+      "key": "'If a person shifts from Navajo to English, they lose something, ' Mufwene says."
+    },
+    "10": {
+      "loc": "p4",
+      "why": "原文说纳瓦霍语尽管有15万使用者仍被视为濒危，可见语言消亡并非因为使用者太少，故题干“because it currently has too few speakers”与原文矛盾，答案为 NO。",
+      "key": "Navajo is considered endangered despite having 150,000 speakers."
+    },
+    "11": {
+      "loc": "p4",
+      "why": "原文明确指出决定语言是否濒危的关键不只是使用者数量，还有年龄结构，说明大量使用者不能保证语言存续，与题干一致，答案 YES。",
+      "key": "What makes a language endangered is not just the number of speakers, but how old they are."
+    },
+    "12": {
+      "loc": "p6",
+      "why": "原文只说政府会主动打压少数语言，并未提及政府“本可以做更多”来保护濒危语言，文中无相关评价，答案为 NOT GIVEN。",
+      "key": "Quite often, governments try to kill off a minority language by banning its use in public or discouraging its use in schools, all to promote national unity."
+    },
+    "13": {
+      "loc": "p2",
+      "why": "Mark Pagel 称语言消亡是一场“大灭绝”，且难以逆转，暗示语言多样性的丧失不可避免，与题干一致，答案 YES。",
+      "key": "'It's a mass extinction, and whether we will ever rebound from the loss is difficult to know.'"
+    },
+    "14": {
+      "loc": "p2",
+      "why": "原文说澳大利亚医生对自然/替代疗法一直持保守态度，对应选项 C“不愿接受替代治疗师”。",
+      "key": "Australia has been unusual in the Western world in having a very conservative attitude to natural or alternative therapies, according to Dr Paul Laver, a lecturer in Public Health at the University of Sydney."
+    },
+    "15": {
+      "loc": "p2",
+      "why": "原文说1990年美国人光顾替代疗法医师的次数多于正统医生，对应选项 B。",
+      "key": "Americans made more visits to alternative therapists than to orthodox doctors in 1990, and each year they spend about $US1.2 billion on therapies that have not been scientifically tested."
+    },
+    "16": {
+      "loc": "p3",
+      "why": "原文说过去20年替代疗法的受欢迎程度持续攀升，与题干一致，答案 YES。",
+      "key": "Disenchantment with orthodox medicine has seen the popularity of alternative therapies in Australia climb steadily during the past 20 years."
+    },
+    "17": {
+      "loc": "p3",
+      "why": "原文数据是从1.9%升至2.6%，增幅约0.7个百分点，并非题干所说的“又新增8%人口”，答案 NO。",
+      "key": "By 1990, this figure had risen to 2.6% of the population."
+    },
+    "18": {
+      "loc": "p3",
+      "why": "原文明确提到1990年调查涉及55万次咨询，与题干数字一致，答案 YES。",
+      "key": "The 550,000 consultations with alternative therapists reported in the 1990 survey represented about an eighth of the total number of consultations with medically qualified personnel covered by the survey, according to Dr Laver and colleagues writing in the Australian Journal of Public Health in 1993."
+    },
+    "19": {
+      "loc": "p3",
+      "why": "原文说专业人士（包括医生）的崇高地位已被削弱，说明过去人们对医生评价更高，与题干一致，答案 YES。",
+      "key": "'The high standing of professionals, including doctors, has been eroded as a consequence.'"
+    },
+    "20": {
+      "loc": "p4",
+      "why": "原文说越来越多医生自己修读针灸等替代疗法课程，对应题干“retraining in alternative therapies”，答案 YES。",
+      "key": "Rather than resisting or criticising this trend, increasing numbers of Australian doctors, particularly younger ones, are forming group practices with alternative therapists or taking courses themselves, particularly in acupuncture and herbalism."
+    },
+    "21": {
+      "loc": "p4",
+      "why": "原文只提到医生转型的部分动机是经济因素，并未比较替代疗法师与医生的收入高低，答案 NOT GIVEN。",
+      "key": "Part of the incentive was financial, Dr Laver said."
+    },
+    "22": {
+      "loc": "p5",
+      "why": "原文说调查涉及25名治疗师提供的多种替代疗法，并非只针对针灸，题干“for acupuncture treatment”与原文不符，答案 NO。",
+      "key": "These practices offered a wide range of alternative therapies from 25 therapists."
+    },
+    "23": {
+      "loc": "p5",
+      "why": "原文说受访者都患有正统医学难以缓解的慢性疾病，对应题干“long-term medical complaints”，答案 YES。",
+      "key": "Those surveyed had experienced chronic illnesses, for which orthodox medicine had been able to provide little relief."
+    },
+    "24": {
+      "loc": "p6",
+      "why": "原文说消化问题占12%，仅比情绪问题（emotional problems）多1个百分点，故情绪问题占11%，对应图表空格24。",
+      "key": "According to the Australian Journal of Public Health, 18% of patients visiting alternative therapists do so because they suffer from musculo-skeletal complaints; 12% suffer from digestive problems, which is only 1% more than those suffering from emotional problems."
+    },
+    "25": {
+      "loc": "p6",
+      "why": "原文提到头痛（headache）患者占6%，对应图表空格25。",
+      "key": "Headache sufferers and those complaining of general ill health represent 6% and 5% of patients respectively, and a further 4% see therapists for general health maintenance."
+    },
+    "26": {
+      "loc": "p6",
+      "why": "原文提到一般健康不佳（general ill health）者占5%，对应图表空格26。",
+      "key": "Headache sufferers and those complaining of general ill health represent 6% and 5% of patients respectively, and a further 4% see therapists for general health maintenance."
+    },
+    "27": {
+      "loc": "H",
+      "why": "H段提到玩耍让原本不常联通的脑区之间建立连接，从而可能提升创造力，对应题干“unusual connections in the brain which are beneficial”。",
+      "key": "By allowing link-ups between brain areas that might not normally communicate with each other, play may enhance creativity."
+    },
+    "28": {
+      "loc": "F",
+      "why": "F段描述 Byers 通过记录幼年动物每天花在玩耍上的时间来发现“敏感期”规律，对应题干“recording how much time young animals spend playing”。",
+      "key": "If you plot the amount of time a juvenile devotes to play each day over the course of its development, you discover a pattern typically associated with a 'sensitive period' - a brief development window during which the brain can actually be modified in ways that are not possible earlier or later in life."
+    },
+    "29": {
+      "loc": "A",
+      "why": "A段提到玩耍甚至可能让动物付出生命代价（如幼海豹因玩耍而未察觉天敌），对应题干“physical hazards that can accompany play”。",
+      "key": "For a start, play can even cost animals their lives."
+    },
+    "30": {
+      "loc": "H",
+      "why": "H段强调玩耍中涉及“巨大的认知参与”，包括对玩伴的复杂判断等，对应题干“mental activities which are exercised and developed”。",
+      "key": "'There's enormous cognitive involvement in play,' says Bekoff."
+    },
+    "31": {
+      "loc": "I",
+      "why": "I段讨论“进一步实验对当今许多社会中儿童教养方式可能带来的启示”，对应题干“effects that a reduction in play opportunities will have on humans”。",
+      "key": "What might further experimentation suggest about the way children are raised in many societies today?"
+    },
+    "32": {
+      "loc": "B",
+      "why": "B段指出玩耍行为只在哺乳动物中普遍，少数大脑较大的鸟类也会玩耍，对应题干“the classes of animals for which play is important”。",
+      "key": "Playfulness, it seems, is common only among mammals, although a few of the larger-brained birds also indulge."
+    },
+    "33": {
+      "loc": "D",
+      "why": "D段（技能训练假说）提到玩耍看似是在“练习成年后需要的复杂动作”，对应选项 A“为日后成年活动做预演”。",
+      "key": "At first glance, playing animals do appear to be practising the complex manoeuvres they will need in adulthood."
+    },
+    "34": {
+      "loc": "C",
+      "why": "C段（锻炼理论）提到玩耍被认为是“为增强肌肉或作耐力训练”，对应选项 C“为成年积蓄体力的活动”。",
+      "key": "If play evolved to build muscle or as a kind of endurance training, then you would expect to see permanent benefits."
+    },
+    "35": {
+      "loc": "E",
+      "why": "E段提到大脑越大越需要通过玩耍来“塑造”大脑发育，对应选项 F“协助器官（大脑）生长的活动”。",
+      "key": "Robert Barton of Durham University believes that, because large brains are more sensitive to developmental stimuli than smaller brains, they require more play to help mould them for adulthood."
+    },
+    "36": {
+      "loc": "E",
+      "why": "Robert Barton 认为玩耍为发育中的大脑提供环境信息，对应选项 B“玩耍提供有关周围环境的信息”。",
+      "key": "'I concluded it's to do with learning, and with the importance of environmental data to the brain during development,' he says."
+    },
+    "37": {
+      "loc": "G",
+      "why": "Marc Bekoff 把玩耍比作“行为万花筒”，动物在多种活动间快速切换，对应选项 G“玩耍时会结合多种不同活动”。",
+      "key": "Bekoff likens it to a behavioural kaleidoscope, with animals at play jumping rapidly between activities."
+    },
+    "38": {
+      "loc": "C",
+      "why": "John Byers 指出锻炼带来的好处在训练停止后很快消失，说明玩耍并非为未来做体能训练，对应选项 E。",
+      "key": "But Byers points out that the benefits of increased exercise disappear rapidly after training stops, so any improvement in endurance resulting from juvenile play would be lost by adulthood."
+    },
+    "39": {
+      "loc": "E",
+      "why": "Sergio Pellis 的研究发现大脑越大的哺乳动物越爱玩耍，反之亦然，即脑小的哺乳动物玩耍更少，对应选项 D。",
+      "key": "Comparing measurements for fifteen orders of mammal, he and his team found larger brains (for a given body size) are linked to greater playfulness."
+    },
+    "40": {
+      "loc": "H",
+      "why": "Stephen Siviy 研究玩耍如何影响大脑中与神经细胞刺激、生长相关的某种化学物质水平，对应选项 A“大脑中某种特定物质与玩耍有关”。",
+      "key": "Siviy studied how bouts of play affected the brain's levels of a particular chemical associated with the stimulation and growth of nerve cells."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Many minority languages are on the danger list",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "In the Native American Navajo nation, which sprawls across four states in the American south-west, the native language is dying. Most of its speakers are middle-aged or elderly. Although many students take classes in Navajo, the schools are run in English. Street signs, supermarket goods and even their own newspaper are all in English. Not surprisingly. linguists doubt that any native speakers of Navajo will remain in a hundred years' time."
+        },
+        {
+          "id": "p2",
+          "text": "Navajo is far from alone. Half the world's 6,800 languages are likely to vanish within two generations - that's one language lost every ten days. Never before has the planet's linguistic diversity shrunk at such a pace. At the moment, we are heading for about three or four languages dominating the world,' says Mark Pagel, an evolutionary biologist at the University of Reading. 'It's a mass extinction, and whether we will ever rebound from the loss is difficult to know.'"
+        },
+        {
+          "id": "p3",
+          "text": "Isolation breeds linguistic diversity: as a result, the world is peppered with languages spoken by only a few people. Only 250 languages have more than a list million speakers, and at least 3,000 have fewer than 2,500. It is not necessarily these small languages that are about to disappear. Navajo is considered endangered despite having 150,000 speakers. What makes a language endangered is not just the number of speakers, but how old they are. If it is spoken by children it is relatively safe."
+        },
+        {
+          "id": "p4",
+          "text": "The critically endangered languages are those that are only spoken by the elderly. according to Michael Krauss, director of the Alaska Native Language Center, in Fairbanks."
+        },
+        {
+          "id": "p5",
+          "text": "Why do people reject the language of their parents? It begins with a crisis of confidence, when a small community finds itself alongside a larger, wealthier society, says Nicholas Ostler, of Britain's Foundation for Endangered Languages, in Bath. 'People lose faith in their culture,' he says. 'When the next generation reaches their teens, they might not want to be induced into the old traditions.'"
+        },
+        {
+          "id": "p6",
+          "text": "The change is not always voluntary. Quite often, governments try to kill off a minority language by banning its use in public or discouraging its use in schools, all to promote national unity."
+        },
+        {
+          "id": "p7",
+          "text": "The former US policy of running Indian reservation schools in English, for example, effectively put languages such as Navajo on the danger list. But Salikoko Mufwene, who chairs the Linguistics Department at the University of Chicago, argues that the deadliest weapon is not government policy but economic globalisation. 'Native Americans have not lost pride in their language, but they have had to adapt to socio-economic pressures,' he says. They cannot refuse to speak English if most commercial activity is in English.' But are languages worth saving? At the very least, there is a loss of data for the study of languages and their evolution, which relies on comparisons between languages, both living and dead . When an unwritten and unrecorded language disappears, it is lost to science."
+        },
+        {
+          "id": "p8",
+          "text": "Language is also intimately bound up with culture, so it may be difficult to preserve one without the other. 'If a person shifts from Navajo to English, they lose something, ' Mufwene says. 'Moreover, the loss of diversity may also deprive us of different ways of looking at the world,' says Pagel. There is mounting evidence that learning a language produces physiological changes in the brain. 'Your brain and mine are different from the brain of someone who speaks French, for instance, ' Pagel says, and this could affect our thoughts and perceptions. 'The patterns and connections we make among various concepts may be structured by the linguistic habits of our community.'"
+        },
+        {
+          "id": "p9",
+          "text": "So despite linguists' best efforts, many languages will disappear over the next century. But a growing interest in cultural identity may prevent the direst predictions from coming true. 'The key to fostering diversity is for people to learn their ancestral tongue, as well as the dominant language,' says Doug Whalen , founder and president of the Endangered Language Fund in New Haven, Connecticut. 'Most of these languages will not survive without a large degree of bilingualism,' he says. In New Zealand, classes for children have slowed the erosion of Maori and rekindled interest in the language. A similar approach in Hawaii has produced about 8,000 new speakers of Polynesian languages in the past few years. In California, 'apprentice' programmes have provided life support to several indigenous languages. Volunteer 'apprentices' pair up with one of the last living speakers of a Native American tongue to learn a traditional skill such as basket weaving, with instruction exclusively in the endangered language. After about 300 hours of training they are generally sufficiently fluent to transmit the language to the next generation. But Mufwene says that preventing a language dying out is not the same as giving it new life by using it every day. 'Preserving a language is more like preserving fruits in ajar,' he says."
+        },
+        {
+          "id": "p10",
+          "text": "However, preservation can bring a language back from the dead. There are examples of languages that have survived in written form and then been revived by later generations. But a written form is essential for this, so the mere possibility of revival has led many speakers of endangered languages to develop systems of writing where none existed before."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            4
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "text": "There are currently approximately 6,800 languages in the world. This great variety of languages came about largely as a result of geographical {{1}}. But in today's world, factors such as government initiatives and {{2}} are contributing to a huge decrease in the number of languages. One factor which may help to ensure that some endangered languages do not die out completely is people's increasing appreciation of their {{3}}. This has been encouraged through programmes of language classes for children and through 'apprentice' schemes, in which the endangered language is used as the medium of instruction to teach people a {{4}}. Some speakers of endangered languages have even produced writing systems in order to help secure the survival of their mother tongue."
+        },
+        {
+          "range": [
+            5,
+            9
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following statements (Questions 5-9) and the list of people in the box below. Match each statement with the correct person A-E.",
+          "limit": "NB You may use any letter more than once.",
+          "optionsTitle": "People",
+          "options": [
+            {
+              "k": "A",
+              "text": "Michael Krauss"
+            },
+            {
+              "k": "B",
+              "text": "Salikoko Mufwene"
+            },
+            {
+              "k": "C",
+              "text": "Nicholas Ostler"
+            },
+            {
+              "k": "D",
+              "text": "Mark Pagel"
+            },
+            {
+              "k": "E",
+              "text": "Doug Whalen"
+            }
+          ],
+          "questions": [
+            {
+              "n": 5,
+              "text": "Endangered languages cannot be saved unless people learn to speak more than one language."
+            },
+            {
+              "n": 6,
+              "text": "Saving languages from extinction is not in itself a satisfactory goal."
+            },
+            {
+              "n": 7,
+              "text": "The way we think may be determined by our language."
+            },
+            {
+              "n": 8,
+              "text": "Young people often reject the established way of life in their community."
+            },
+            {
+              "n": 9,
+              "text": "A change of language may mean a loss of traditional culture."
+            }
+          ]
+        },
+        {
+          "range": [
+            10,
+            13
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 1?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the views of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the views of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 10,
+              "text": "The Navajo language will die out because it currently has too few speakers."
+            },
+            {
+              "n": 11,
+              "text": "A large number of native speakers fail to guarantee the survival of a language."
+            },
+            {
+              "n": 12,
+              "text": "National governments could do more to protect endangered languages."
+            },
+            {
+              "n": 13,
+              "text": "The loss of linguistic diversity is inevitable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Alternative Medicine in Australia",
+      "intro": "You should spend about 20 minutes on Questions 14-26 which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "The first students to study alternative medicine at university level in Australia began their four-year, full-time course at the University of Technology, Sydney, in early 1994. Their course covered, among other therapies, acupuncture. The theory they learnt is based on the traditional Chinese explanation of this ancient healing art: that it can regulate the flow of 'Qi' or energy through pathways in the body. This course reflects how far some alternative therapies have come in their struggle for acceptance by the medical establishment."
+        },
+        {
+          "id": "p2",
+          "text": "Australia has been unusual in the Western world in having a very conservative attitude to natural or alternative therapies, according to Dr Paul Laver, a lecturer in Public Health at the University of Sydney. 'We've had a tradition of doctors being fairly powerful and I guess they are pretty loath to allow any pretenders to their position to come into it.' In many other industrialised countries, orthodox and alternative medicine have worked 'hand in glove' for years. In Europe, only orthodox doctors can prescribe herbal medicine. In Germany, plant remedies account for 10% of the national turnover of pharmaceuticals. Americans made more visits to alternative therapists than to orthodox doctors in 1990, and each year they spend about $US1.2 billion on therapies that have not been scientifically tested."
+        },
+        {
+          "id": "p3",
+          "text": "Disenchantment with orthodox medicine has seen the popularity of alternative therapies in Australia climb steadily during the past 20 years. In a 1983 national health survey, 1.9% of people said they had contacted a chiropractor, naturopath, osteopath, acupuncturist or herbalist in the two weeks prior to the survey. By 1990, this figure had risen to 2.6% of the population. The 550,000 consultations with alternative therapists reported in the 1990 survey represented about an eighth of the total number of consultations with medically qualified personnel covered by the survey, according to Dr Laver and colleagues writing in the Australian Journal of Public Health in 1993. 'A better educated and less accepting public has become disillusioned with the experts in general, and increasingly sceptical about science and empirically based knowledge,' they said. 'The high standing of professionals, including doctors, has been eroded as a consequence.'"
+        },
+        {
+          "id": "p4",
+          "text": "Rather than resisting or criticising this trend, increasing numbers of Australian doctors, particularly younger ones, are forming group practices with alternative therapists or taking courses themselves, particularly in acupuncture and herbalism. Part of the incentive was financial, Dr Laver said. 'The bottom line is that most general practitioners are business people. If they see potential clientele going elsewhere, they might want to be able to offer a similar service.'"
+        },
+        {
+          "id": "p5",
+          "text": "In 1993, Dr Laver and his colleagues published a survey of 289 Sydney people who attended eight alternative therapists' practices in Sydney. These practices offered a wide range of alternative therapies from 25 therapists. Those surveyed had experienced chronic illnesses, for which orthodox medicine had been able to provide little relief. They commented that they liked the holistic approach of their alternative therapists and the friendly, concerned and detailed attention they had received. The cold, impersonal manner of orthodox doctors featured in the survey. An increasing exodus from their clinics, coupled with this and a number of other relevant surveys carried out in Australia, all pointing to orthodox doctors' inadequacies, have led mainstream doctors themselves to begin to admit they could learn from the personal style of alternative therapists. Dr Patrick Store, President of the Royal College of General Practitioners, concurs that orthodox doctors could learn a lot about bedside manner and advising patients on preventative health from alternative therapists."
+        },
+        {
+          "id": "p6",
+          "text": "According to the Australian Journal of Public Health, 18% of patients visiting alternative therapists do so because they suffer from musculo-skeletal complaints; 12% suffer from digestive problems, which is only 1% more than those suffering from emotional problems. Those suffering from respiratory complaints represent 7% of their patients, and candida sufferers represent an equal percentage. Headache sufferers and those complaining of general ill health represent 6% and 5% of patients respectively, and a further 4% see therapists for general health maintenance."
+        },
+        {
+          "id": "p7",
+          "text": "The survey suggested that complementary medicine is probably a better term than alternative medicine. Alternative medicine appears to be an adjunct, sought in times of disenchantment when conventional medicine seems not to offer the answer."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            15
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 14,
+              "text": "Traditionally, how have Australian doctors differed from doctors in many Western countries?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "They have worked closely with pharmaceutical companies."
+                },
+                {
+                  "k": "B",
+                  "text": "They have often worked alongside other therapists."
+                },
+                {
+                  "k": "C",
+                  "text": "They have been reluctant to accept alternative therapists."
+                },
+                {
+                  "k": "D",
+                  "text": "They have regularly prescribed alternative remedies."
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "In 1990, Americans",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "were prescribed more herbal medicines than in previous years."
+                },
+                {
+                  "k": "B",
+                  "text": "consulted alternative therapists more often than doctors."
+                },
+                {
+                  "k": "C",
+                  "text": "spent more on natural therapies than orthodox medicines."
+                },
+                {
+                  "k": "D",
+                  "text": "made more complaints about doctors than in previous years."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            16,
+            23
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 2?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the views of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the views of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 16,
+              "text": "Australians have been turning to alternative therapies in increasing numbers over the past 20 years."
+            },
+            {
+              "n": 17,
+              "text": "Between 1983 and 1990 the numbers of patients visiting alternative therapists rose to include a further 8% of the population."
+            },
+            {
+              "n": 18,
+              "text": "The 1990 survey related to 550,000 consultations with alternative therapists."
+            },
+            {
+              "n": 19,
+              "text": "In the past, Australians had a higher opinion of doctors than they do today."
+            },
+            {
+              "n": 20,
+              "text": "Some Australian doctors are retraining in alternative therapies."
+            },
+            {
+              "n": 21,
+              "text": "Alternative therapists earn higher salaries than doctors."
+            },
+            {
+              "n": 22,
+              "text": "The 1993 Sydney survey involved 289 patients who visited alternative therapists for acupuncture treatment."
+            },
+            {
+              "n": 23,
+              "text": "All the patients in the 1993 Sydney survey had long-term medical complaints."
+            }
+          ]
+        },
+        {
+          "range": [
+            24,
+            26
+          ],
+          "type": "notes",
+          "instruction": "Complete the vertical axis on the table below.",
+          "limit": "Choose NO MORE THAN THREE WORDS from Reading Passage 2 for each answer.",
+          "title": "Medical complaints of patients visiting therapists (% of patients)",
+          "lines": [
+            "Musculo-skeletal - 18%",
+            "Digestive - 12%",
+            "{{24}} - 11%",
+            "Respiratory - 7%",
+            "Candida - 7%",
+            "{{25}} - 6%",
+            "{{26}} - 5%",
+            "General health maintenance - 4%"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Play is a serious business",
+      "subtitle": "Does play help develop bigger, better brains? Bryant Furlow investigates",
+      "intro": "You should spend about 20 minutes on Questions 27-40 which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Playing is a serious business. Children engrossed in a make-believe world, fox cubs play-fighting or kittens teasing a ball of string aren't just having fun. Play may look like a carefree and exuberant way to pass the time before the hard work of adulthood comes along, but there's much more to it than that. For a start, play can even cost animals their lives. Eighty per cent of deaths among juvenile fur seals occur because playing pups fail to spot predators approaching. It is also extremely expensive in terms of energy. Playful young animals use around two or three per cent of their energy cavorting, and in children that figure can be closer to fifteen per cent. 'Even two or three per cent is huge,' says John Byers of Idaho University. 'You just don't find animals wasting energy like that,' he adds. There must be a reason."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "But if play is not simply a developmental hiccup, as biologists once thought, why did it evolve? The latest idea suggests that play has evolved to build big brains. In other words, playing makes you intelligent. Playfulness, it seems, is common only among mammals, although a few of the larger-brained birds also indulge. Animals at play often use unique signs - tail-wagging in dogs, for example - to indicate that activity superficially resembling adult behaviour is not really in earnest. A popular explanation of play has been that it helps juveniles develop the skills they will need to hunt, mate and socialise as adults. Another has been that it allows young animals to get in shape for adult life by improving their respiratory endurance. Both these ideas have been questioned in recent years."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Take the exercise theory. If play evolved to build muscle or as a kind of endurance training, then you would expect to see permanent benefits. But Byers points out that the benefits of increased exercise disappear rapidly after training stops, so any improvement in endurance resulting from juvenile play would be lost by adulthood. 'If the function of play was to get into shape,' says Byers, 'the optimum time for playing would depend on when it was most advantageous for the young of a particular species to do so. But it doesn't work like that.' Across species, play tends to peak about halfway through the suckling stage and then decline."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Then there's the skills-training hypothesis. At first glance, playing animals do appear to be practising the complex manoeuvres they will need in adulthood. But a closer inspection reveals this interpretation as too simplistic. In one study, behavioural ecologist Tim Caro, from the University of California, looked at the predatory play of kittens and their predatory behaviour when they reached adulthood. He found that the way the cats played had no significant effect on their hunting prowess in later life."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Earlier this year, Sergio Pellis of Lethbridge University, Canada, reported that there is a strong positive link between brain size and playfulness among mammals in general. Comparing measurements for fifteen orders of mammal, he and his team found larger brains (for a given body size) are linked to greater playfulness. The converse was also found to be true. Robert Barton of Durham University believes that, because large brains are more sensitive to developmental stimuli than smaller brains, they require more play to help mould them for adulthood. 'I concluded it's to do with learning, and with the importance of environmental data to the brain during development,' he says."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "According to Byers, the timing of the playful stage in young animals provides an important clue to what's going on. If you plot the amount of time a juvenile devotes to play each day over the course of its development, you discover a pattern typically associated with a 'sensitive period' - a brief development window during which the brain can actually be modified in ways that are not possible earlier or later in life. Think of the relative ease with which young children - but not infants or adults - absorb language. Other researchers have found that play in cats, rats and mice is at its most intense just as this 'window of opportunity' reaches its peak."
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "'People have not paid enough attention to the amount of the brain activated by play,' says Marc Bekoff from Colorado University. Bekoff studied coyote pups at play and found that the kind of behaviour involved was markedly more variable and unpredictable than that of adults. Such behaviour activates many different parts of the brain, he reasons. Bekoff likens it to a behavioural kaleidoscope, with animals at play jumping rapidly between activities. 'They use behaviour from a lot of different contexts - predation, aggression, reproduction,' he says. 'Their developing brain is getting all sorts of stimulation.'"
+        },
+        {
+          "id": "H",
+          "label": "H",
+          "text": "Not only is more of the brain involved in play than was suspected, but it also seems to activate higher cognitive processes. 'There's enormous cognitive involvement in play,' says Bekoff. He points out that play often involves complex assessments of playmates, ideas of reciprocity and the use of specialised signals and rules. He believes that play creates a brain that has greater behavioural flexibility and improved potential for learning later in life. The idea is backed up by the work of Stephen Siviy of Gettysburg College. Siviy studied how bouts of play affected the brain's levels of a particular chemical associated with the stimulation and growth of nerve cells. He was surprised by the extent of the activation. 'Play just lights everything up,' he says. By allowing link-ups between brain areas that might not normally communicate with each other, play may enhance creativity."
+        },
+        {
+          "id": "I",
+          "label": "I",
+          "text": "What might further experimentation suggest about the way children are raised in many societies today? We already know that rat pups denied the chance to play grow smaller brain components and fail to develop the ability to apply social rules when they interact with their peers. With schooling beginning earlier and becoming increasingly exam-orientated, play is likely to get even less of a look-in. Who knows what the result of that will be?"
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            32
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 3 has nine paragraphs labelled A-I. Which paragraph contains the following information? Write the correct letter A-I.",
+          "limit": "NB You may use any letter more than once.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "questions": [
+            {
+              "n": 27,
+              "text": "the way play causes unusual connections in the brain which are beneficial"
+            },
+            {
+              "n": 28,
+              "text": "insights from recording how much time young animals spend playing"
+            },
+            {
+              "n": 29,
+              "text": "a description of the physical hazards that can accompany play"
+            },
+            {
+              "n": 30,
+              "text": "a description of the mental activities which are exercised and developed during play"
+            },
+            {
+              "n": 31,
+              "text": "the possible effects that a reduction in play opportunities will have on humans"
+            },
+            {
+              "n": 32,
+              "text": "the classes of animals for which play is important"
+            }
+          ]
+        },
+        {
+          "range": [
+            33,
+            35
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose THREE letters A-F.",
+          "text": "The list below gives some ways of regarding play. Which THREE ways are mentioned by the writer of the text?",
+          "count": 3,
+          "options": [
+            {
+              "k": "A",
+              "text": "a rehearsal for later adult activities"
+            },
+            {
+              "k": "B",
+              "text": "a method animals use to prove themselves to their peer group"
+            },
+            {
+              "k": "C",
+              "text": "an activity intended to build up strength for adulthood"
+            },
+            {
+              "k": "D",
+              "text": "a means of communicating feelings"
+            },
+            {
+              "k": "E",
+              "text": "a defensive strategy"
+            },
+            {
+              "k": "F",
+              "text": "an activity assisting organ growth"
+            }
+          ]
+        },
+        {
+          "range": [
+            36,
+            40
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following researchers (Questions 36-40) and the list of findings below. Match each researcher with the correct finding.",
+          "limit": "Write the correct letter A-H.",
+          "optionsTitle": "List of Findings",
+          "options": [
+            {
+              "k": "A",
+              "text": "There is a link between a specific substance in the brain and playing."
+            },
+            {
+              "k": "B",
+              "text": "Play provides input concerning physical surroundings."
+            },
+            {
+              "k": "C",
+              "text": "Varieties of play can be matched to different stages of evolutionary history."
+            },
+            {
+              "k": "D",
+              "text": "There is a tendency for mammals with smaller brains to play less."
+            },
+            {
+              "k": "E",
+              "text": "Play is not a form of fitness training for the future."
+            },
+            {
+              "k": "F",
+              "text": "Some species of larger-brained birds engage in play."
+            },
+            {
+              "k": "G",
+              "text": "A wide range of activities are combined during play."
+            },
+            {
+              "k": "H",
+              "text": "Play is a method of teaching survival techniques."
+            }
+          ],
+          "questions": [
+            {
+              "n": 36,
+              "text": "Robert Barton"
+            },
+            {
+              "n": 37,
+              "text": "Marc Bekoff"
+            },
+            {
+              "n": 38,
+              "text": "John Byers"
+            },
+            {
+              "n": 39,
+              "text": "Sergio Pellis"
+            },
+            {
+              "n": 40,
+              "text": "Stephen Siviy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

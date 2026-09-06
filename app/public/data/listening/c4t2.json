@@ -1,0 +1,1581 @@
+{
+  "id": "c4t2",
+  "book": "剑桥雅思4",
+  "test": 2,
+  "title": "剑4 Test 2 · Listening",
+  "source": "Cambridge IELTS 4, Test 2（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "C"
+    ],
+    "2": [
+      "C"
+    ],
+    "3": [
+      "B"
+    ],
+    "4": [
+      "B"
+    ],
+    "5": [
+      "A"
+    ],
+    "6": [
+      "Cathedral"
+    ],
+    "7": [
+      "Markets"
+    ],
+    "8": [
+      "Gardens"
+    ],
+    "9": [
+      "Art Gallery"
+    ],
+    "10": [
+      "climb the tower",
+      "see the view"
+    ],
+    "11": [
+      "C"
+    ],
+    "12": [
+      "B"
+    ],
+    "13": [
+      "A"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "C"
+    ],
+    "17": [
+      "A"
+    ],
+    "18": [
+      "B"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "collecting data",
+      "gathering data",
+      "data collection"
+    ],
+    "22": [
+      "1,500",
+      "1500",
+      "fifteen hundred"
+    ],
+    "23": [
+      "5",
+      "five"
+    ],
+    "24": [
+      "3,000-4,000",
+      "3000-4000",
+      "three to four thousand"
+    ],
+    "25": [
+      "B",
+      "C"
+    ],
+    "26": [
+      "B",
+      "C"
+    ],
+    "27": [
+      "Mehta"
+    ],
+    "28": [
+      "Survey Research"
+    ],
+    "29": [
+      "London University",
+      "London University Press"
+    ],
+    "30": [
+      "1988"
+    ],
+    "31": [
+      "C"
+    ],
+    "32": [
+      "A"
+    ],
+    "33": [
+      "mass media",
+      "media"
+    ],
+    "34": [
+      "academic circles",
+      "academics",
+      "researchers"
+    ],
+    "35": [
+      "specialist knowledge",
+      "specialised knowledge"
+    ],
+    "36": [
+      "unaware"
+    ],
+    "37": [
+      "individual customers",
+      "individual consumers",
+      "individuals"
+    ],
+    "38": [
+      "illegal profit",
+      "illegal profits"
+    ],
+    "39": [
+      "D",
+      "E"
+    ],
+    "40": [
+      "D",
+      "E"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c4/t2p1.mp3",
+      "duration": 0,
+      "title": "A Day of Sightseeing",
+      "groups": [
+        {
+          "range": [
+            1,
+            5
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Section 1",
+          "questions": [
+            {
+              "n": 1,
+              "text": "What does Peter want to drink?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "tea"
+                },
+                {
+                  "k": "B",
+                  "text": "coffee"
+                },
+                {
+                  "k": "C",
+                  "text": "a cold drink"
+                }
+              ]
+            },
+            {
+              "n": 2,
+              "text": "What caused Peter problems at the bank?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "The exchange rate was down."
+                },
+                {
+                  "k": "B",
+                  "text": "He was late."
+                },
+                {
+                  "k": "C",
+                  "text": "The computers weren't working."
+                }
+              ]
+            },
+            {
+              "n": 3,
+              "text": "Who did Peter talk to at the bank?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "an old friend"
+                },
+                {
+                  "k": "B",
+                  "text": "an American man"
+                },
+                {
+                  "k": "C",
+                  "text": "a German man"
+                }
+              ]
+            },
+            {
+              "n": 4,
+              "text": "Henry gave Peter a map of",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the city."
+                },
+                {
+                  "k": "B",
+                  "text": "the bus routes."
+                },
+                {
+                  "k": "C",
+                  "text": "the train system."
+                }
+              ]
+            },
+            {
+              "n": 5,
+              "text": "What do Peter and Sally decide to order?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "food and drinks"
+                },
+                {
+                  "k": "B",
+                  "text": "just food"
+                },
+                {
+                  "k": "C",
+                  "text": "just drinks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            6,
+            8
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below using words from the box.",
+          "limit": "Word bank: Art Gallery, Cathedral, Castle, Gardens, Markets.",
+          "title": "Tourist attractions",
+          "lines": [
+            "Tourist attractions open all day: {{6}} and Gardens",
+            "Tourist attractions NOT open on Mondays: {{7}} and Castle",
+            "Tourist attractions which have free entry: {{8}} and Markets"
+          ]
+        },
+        {
+          "range": [
+            9,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN THREE WORDS for each answer.",
+          "lines": [
+            "The first place Peter and Sally will visit is the {{9}}.",
+            "At the Cathedral, Peter really wants to {{10}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SALLY",
+          "t": "Oh, Peter, there you are."
+        },
+        {
+          "s": "SALLY",
+          "t": "You've been ages."
+        },
+        {
+          "s": "SALLY",
+          "t": "What kept you so long?"
+        },
+        {
+          "s": "PETER",
+          "t": "I'm sorry I'm so late, Sally."
+        },
+        {
+          "s": "PETER",
+          "t": "Have you been waiting long?"
+        },
+        {
+          "s": "SALLY",
+          "t": "Oh, half an hour."
+        },
+        {
+          "s": "SALLY",
+          "t": "But it doesn't matter."
+        },
+        {
+          "s": "SALLY",
+          "t": "I've had a coffee and I've been reading this guidebook for tourists."
+        },
+        {
+          "s": "SALLY",
+          "t": "Sit down."
+        },
+        {
+          "s": "SALLY",
+          "t": "You look very hot and tired."
+        },
+        {
+          "s": "SALLY",
+          "t": "What would you like to drink?"
+        },
+        {
+          "s": "PETER",
+          "t": "I'd love a really chilled mineral water or something."
+        },
+        {
+          "s": "PETER",
+          "t": "Will you have another coffee?",
+          "q": [
+            1
+          ]
+        },
+        {
+          "s": "SALLY",
+          "t": "Yes."
+        },
+        {
+          "s": "SALLY",
+          "t": "I will."
+        },
+        {
+          "s": "SALLY",
+          "t": "The waitress will be back in a moment."
+        },
+        {
+          "s": "SALLY",
+          "t": "Why were you so late?"
+        },
+        {
+          "s": "SALLY",
+          "t": "Did something happen?"
+        },
+        {
+          "s": "PETER",
+          "t": "Yes."
+        },
+        {
+          "s": "PETER",
+          "t": "You know I went to the bank to cash some travellers cheques?"
+        },
+        {
+          "s": "PETER",
+          "t": "Well, the exchange rate was looking healthy, but when I went to the teller, they told me the computer system was temporarily down, so they couldn't do any transactions.",
+          "q": [
+            2
+          ]
+        },
+        {
+          "s": "PETER",
+          "t": "They said the problem would be fixed in a few minutes, so I waited."
+        },
+        {
+          "s": "PETER",
+          "t": "And then I started talking to another guy in the bank, and I forgot the time."
+        },
+        {
+          "s": "SALLY",
+          "t": "Oh, really?"
+        },
+        {
+          "s": "SALLY",
+          "t": "Someone you met in the bank?"
+        },
+        {
+          "s": "SALLY",
+          "t": "Does he work there?"
+        },
+        {
+          "s": "PETER",
+          "t": "No, he was a tourist from New York."
+        },
+        {
+          "s": "PETER",
+          "t": "His name's Henry, and he's been here for a week, but he's moving on to Germany tomorrow.",
+          "q": [
+            3
+          ]
+        },
+        {
+          "s": "PETER",
+          "t": "He's an architect, and he's spending four weeks travelling around Europe."
+        },
+        {
+          "s": "SALLY",
+          "t": "Just like us!"
+        },
+        {
+          "s": "PETER",
+          "t": "Yeah, just like us."
+        },
+        {
+          "s": "PETER",
+          "t": "He told me the names of some places where we should eat."
+        },
+        {
+          "s": "PETER",
+          "t": "Great food, and not too expensive, he said."
+        },
+        {
+          "s": "PETER",
+          "t": "Oh, and he also gave me this map of the bus system."
+        },
+        {
+          "s": "PETER",
+          "t": "He said he didn't need it any more.",
+          "q": [
+            4
+          ]
+        },
+        {
+          "s": "SALLY",
+          "t": "That's useful."
+        },
+        {
+          "s": "SALLY",
+          "t": "Pity he's moving on tomorrow."
+        },
+        {
+          "s": "SALLY",
+          "t": "Ah, here's the waitress."
+        },
+        {
+          "s": "SALLY",
+          "t": "Let's order."
+        },
+        {
+          "s": "SALLY",
+          "t": "Do you want anything to eat, or shall we just have a drink?"
+        },
+        {
+          "s": "PETER",
+          "t": "Well, I'm hungry, and we've got a lot of sightseeing to do, so let's just have a snack and a drink.",
+          "q": [
+            5
+          ]
+        },
+        {
+          "s": "SALLY",
+          "t": "Sounds good to me!"
+        },
+        {
+          "s": "PETER",
+          "t": "Well, let's decide what we'll see today."
+        },
+        {
+          "s": "PETER",
+          "t": "I guess the best place to start is the Cathedral, and then the Castle."
+        },
+        {
+          "s": "PETER",
+          "t": "What are the opening times for those two?"
+        },
+        {
+          "s": "SALLY",
+          "t": "Well, according to this guidebook, the Cathedral is only open from nine-thirty' in the morning until midday."
+        },
+        {
+          "s": "SALLY",
+          "t": "No, hang on."
+        },
+        {
+          "s": "SALLY",
+          "t": "That's the Cathedral Museum."
+        },
+        {
+          "s": "SALLY",
+          "t": "The Cathedral itself is open morning and afternoon."
+        },
+        {
+          "s": "SALLY",
+          "t": "The Castle is just open from one to five, so we can't go there until after lunch.",
+          "q": [
+            6
+          ]
+        },
+        {
+          "s": "SALLY",
+          "t": "I really want to spend some time in the Art Gallery, because they've got this wonderful painting by Rembrandt that I've always wanted to see."
+        },
+        {
+          "s": "PETER",
+          "t": "What else should we see?"
+        },
+        {
+          "s": "SALLY",
+          "t": "Well, the guidebook says the Botanical Gardens are worth spending some time in, and they're open all day, from eight to six, so we can go there any time."
+        },
+        {
+          "s": "SALLY",
+          "t": "I'd like to go to the Markets near the river too, but . . . oh . . . no, wait, that's only in the mornings, too."
+        },
+        {
+          "s": "PETER",
+          "t": "As well as today and tomorrow, we can see some other places on Monday, you know."
+        },
+        {
+          "s": "PETER",
+          "t": "But I don't think the Markets will be open then; they only open on Thursdays, so we've missed them for this week.",
+          "q": [
+            7
+          ]
+        },
+        {
+          "s": "PETER",
+          "t": "Maybe we should go to the Cathedral today because it's Sunday tomorrow, and even though it's open every day it might be more difficult to get in tomorrow because of the church services."
+        },
+        {
+          "s": "SALLY",
+          "t": "That's true, but the Art Gallery isn't open on Sundays at all, so we'll have to go there today."
+        },
+        {
+          "s": "SALLY",
+          "t": "The Castle's open every day except Mondays, so we're OK there, and the Gardens of course only close at night."
+        },
+        {
+          "s": "PETER",
+          "t": "Are all these places free or do we have to pay to go in?"
+        },
+        {
+          "s": "PETER",
+          "t": "What does the guidebook say?"
+        },
+        {
+          "s": "SALLY",
+          "t": "I think there's a charge for all of them except the Botanical Gardens."
+        },
+        {
+          "s": "SALLY",
+          "t": "Oh, and the Markets, of course you don't pay to go in.",
+          "q": [
+            8
+          ]
+        },
+        {
+          "s": "PETER",
+          "t": "OK. well, it looks like our plan is this: we'll go to see the painting you like first, the Rembrandt, then have lunch and go on to the Castle after that, and then the Cathedral.",
+          "q": [
+            9
+          ]
+        },
+        {
+          "s": "SALLY",
+          "t": "OK."
+        },
+        {
+          "s": "SALLY",
+          "t": "It says here that the roof of the Cathedral is really beautiful."
+        },
+        {
+          "s": "PETER",
+          "t": "Is that right?"
+        },
+        {
+          "s": "PETER",
+          "t": "What I really want to do at the Cathedral is climb the tower.",
+          "q": [
+            10
+          ]
+        },
+        {
+          "s": "PETER",
+          "t": "The view is supposed to be spectacular."
+        },
+        {
+          "s": "SALLY",
+          "t": "OK. well, that'll be more than enough for today."
+        },
+        {
+          "s": "SALLY",
+          "t": "Then, tomorrow, let's go to the Botanical Gardens and have a picnic."
+        },
+        {
+          "s": "SALLY",
+          "t": "I want to sit by the river and watch the swans."
+        },
+        {
+          "s": "SALLY",
+          "t": "This city's famous for them."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c4/t2p2.mp3",
+      "duration": 0,
+      "title": "University Counselling Service",
+      "groups": [
+        {
+          "range": [
+            11,
+            20
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Section 2",
+          "questions": [
+            {
+              "n": 11,
+              "text": "The Counselling Service may contact tutors if",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "they are too slow in marking assignments."
+                },
+                {
+                  "k": "B",
+                  "text": "they give students a lot of work."
+                },
+                {
+                  "k": "C",
+                  "text": "they don't inform students about their progress."
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "Stress may be caused by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "new teachers."
+                },
+                {
+                  "k": "B",
+                  "text": "time pressure."
+                },
+                {
+                  "k": "C",
+                  "text": "unfamiliar subject matter."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "International students may find stress difficult to handle because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "they lack support from family and friends."
+                },
+                {
+                  "k": "B",
+                  "text": "they don't have time to make new friends."
+                },
+                {
+                  "k": "C",
+                  "text": "they find it difficult to socialise."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "A personal crisis may be caused by",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "studying for too long overseas."
+                },
+                {
+                  "k": "B",
+                  "text": "business problems in the student's own country."
+                },
+                {
+                  "k": "C",
+                  "text": "disruptions to personal relationships."
+                }
+              ]
+            },
+            {
+              "n": 15,
+              "text": "Students may lose self-esteem if",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "they have to change courses."
+                },
+                {
+                  "k": "B",
+                  "text": "they don't complete a course."
+                },
+                {
+                  "k": "C",
+                  "text": "their family puts too much pressure on them."
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "Students should consult Glenda Roberts if",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "their general health is poor."
+                },
+                {
+                  "k": "B",
+                  "text": "their diet is too strict."
+                },
+                {
+                  "k": "C",
+                  "text": "they can't eat the local food."
+                }
+              ]
+            },
+            {
+              "n": 17,
+              "text": "Students in financial difficulties can receive",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "assistance to buy books."
+                },
+                {
+                  "k": "B",
+                  "text": "a loan to pay their course fees."
+                },
+                {
+                  "k": "C",
+                  "text": "a no-interest loan to cover study expenses."
+                }
+              ]
+            },
+            {
+              "n": 18,
+              "text": "Loans are also available to students who",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "can't pay their rent."
+                },
+                {
+                  "k": "B",
+                  "text": "need to buy furniture."
+                },
+                {
+                  "k": "C",
+                  "text": "can't cover their living expenses."
+                }
+              ]
+            },
+            {
+              "n": 19,
+              "text": "The number of students counselled by the service last year was",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "214."
+                },
+                {
+                  "k": "B",
+                  "text": "240."
+                },
+                {
+                  "k": "C",
+                  "text": "2,600."
+                }
+              ]
+            },
+            {
+              "n": 20,
+              "text": "The speaker thinks the Counselling Service",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "has been effective in spite of staff shortages."
+                },
+                {
+                  "k": "B",
+                  "text": "is under-used by students."
+                },
+                {
+                  "k": "C",
+                  "text": "has suffered badly because of staff cuts."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "So the counselling services we offer deal with any problems arising from your studies, or in your life outside the university."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's take academic counselling."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you're confused about subjects or how to combine them in your degree, then we can advise you and discuss the career you are aiming for, so that you can see it all in context."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We can also chase up your tutor if you're not getting proper feedback on how you are getting on in your subject.",
+          "q": [
+            11
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Besides help with academic problems, you may also need personal counselling: if you think you're already under stress, well, just wait till classes begin next week."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll have to start adjusting to teaching and learning methods that may be unfamiliar to you, as well as the mounting pressure as the deadline for that first assignment creeps up on you.",
+          "q": [
+            12
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And of course, you have to cope with all this without your usual social network - you know, the social contacts. family and friends you could normally rely on for help."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "All of this causes anxiety.",
+          "q": [
+            13
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Studying overseas can trigger a personal crisis - you may have left a lot of what you might call 'unfinished business' back in your own country, or you may have interrupted personal relationships or even sometimes have broken them off to come overseas, and so the student often feels lonely, unhappy, unmotivated and unable to concentrate on studying.",
+          "q": [
+            14
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Or there may be other things bothering you."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our resident chaplain can offer you spiritual guidance if that's what you want, or we can put you in touch with community groups that can provide you with social contacts and friendship."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What about exam stress?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It affects nearly everyone to some extent, but especially overseas students like yourselves."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There may be a huge amount of family pressure on you to succeed, and if you fail a subject or drop out of a course because it's too difficult then your self-esteem can suffer.",
+          "q": [
+            15
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But it's not the end of the world if you don't pass an exam - I had to resit First Year Anthropology, so I can certainly offer you a sympathetic ear!"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Anyway, exam failure can lead to worrying changes in the way you normally behave."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You may also be off your food, or you may have dietary problems because the local food is not to your liking and upsets you, and this can affect your health and studies.",
+          "q": [
+            16
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Glenda Roberts is our dietician in the Health Service and we can put you on to her."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And we all have money problems, don't we?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But remember, full-time students can get a low-interest loan of up to six hundred dollars to buy books and for similar study-related expenses.",
+          "q": [
+            17
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's right, and you can get double that amount if you can't afford an item of equipment you need for your course - a musical instrument, for example."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And it doesn't stop there."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When you move into a flat, starting-up expenses, including furniture for it, can be covered by a loan through the Welfare Service - see Jill Freeman for details.",
+          "q": [
+            18
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Can we help you?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, last academic year, in spite of staff cuts, we counselled two hundred and forty international students for a total of twenty-six hundred hours counselling, and, finally we won all but just one of the twelve appeals that we launched on behalf of students.",
+          "q": [
+            19
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Not too bad for an understaffed service, don't you think?"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's all from me.",
+          "q": [
+            20
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Thank you."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c4/t2p3.mp3",
+      "duration": 0,
+      "title": "Social Science Assignment",
+      "groups": [
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "Details of assignment",
+          "lines": [
+            "## Part 1",
+            "Title: 'Assess the two main methods of {{21}} in social science research'",
+            "Number of words: {{22}}",
+            "## Part 2 (Small-scale study)",
+            "Choose one method.",
+            "Gather data from at least {{23}} subjects.",
+            "## Part 3 (Report on study)",
+            "Number of words: {{24}}"
+          ]
+        },
+        {
+          "range": [
+            25,
+            26
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters A-E.",
+          "text": "What TWO disadvantages of the questionnaire form of data collection do the students discuss?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "The data is sometimes invalid."
+            },
+            {
+              "k": "B",
+              "text": "Too few people may respond."
+            },
+            {
+              "k": "C",
+              "text": "It is less likely to reveal the unexpected."
+            },
+            {
+              "k": "D",
+              "text": "It can only be used with literate populations."
+            },
+            {
+              "k": "E",
+              "text": "There is a delay between the distribution and return of questionnaires."
+            }
+          ]
+        },
+        {
+          "range": [
+            27,
+            30
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS OR A NUMBER for each answer.",
+          "table": {
+            "head": [
+              "AUTHOR",
+              "TITLE",
+              "PUBLISHER",
+              "YEAR OF PUBLICATION"
+            ],
+            "rows": [
+              [
+                "{{27}}",
+                "'Sample Surveys in Social Science Research'",
+                "",
+                ""
+              ],
+              [
+                "Bell",
+                "{{28}}",
+                "{{29}}",
+                ""
+              ],
+              [
+                "Wilson",
+                "'Interviews That Work'",
+                "Oxford University Press",
+                "{{30}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "ROSA",
+          "t": "Oh, there you are, good."
+        },
+        {
+          "s": "ROSA",
+          "t": "Sorry I'm a bit late - there was a long queue."
+        },
+        {
+          "s": "ROSA",
+          "t": "So, have you worked out how to deal with this assignment then?"
+        },
+        {
+          "s": "MICK",
+          "t": "Not yet, we've only been here a couple of minutes ourselves."
+        },
+        {
+          "s": "ROSA",
+          "t": "Can you just remind me what the task is exactly?"
+        },
+        {
+          "s": "PETE",
+          "t": "Well, there are two, no, three, parts to it: first, we've got to write an essay about ways of collecting data."
+        },
+        {
+          "s": "PETE",
+          "t": "Then . . ."
+        },
+        {
+          "s": "ROSA",
+          "t": "What's the title of the essay exactly?"
+        },
+        {
+          "s": "MICK",
+          "t": "I've got it here: 'Assess the two main methods of collecting data in social science research' .",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "ROSA",
+          "t": "And how much do we need to write?"
+        },
+        {
+          "s": "MICK",
+          "t": "Fifteen hundred words.",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "MICK",
+          "t": "That's for the essay."
+        },
+        {
+          "s": "MICK",
+          "t": "Then, for the second part of the assignment, we have to choose one method of data collection, and 'carry out a small-scale study, making appropriate use of the method chosen to gather data from at least five subjects'.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "ROSA",
+          "t": "And then we have to write a report on the study?"
+        },
+        {
+          "s": "PETE",
+          "t": "That's right, of three to four thousand words.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "ROSA",
+          "t": "Did you get as far as discussing which form of data collection we should go for - questionnaire or interview, isn't it?"
+        },
+        {
+          "s": "MICK",
+          "t": "Yeah, I think we should use a questionnaire."
+        },
+        {
+          "s": "MICK",
+          "t": "It'll be so much less time-consuming than organising interviews, I reckon."
+        },
+        {
+          "s": "MICK",
+          "t": "Once we've agreed on the wording of it, we only have to send it out and wait for the responses."
+        },
+        {
+          "s": "ROSA",
+          "t": "Yes, I think it probably would be quicker."
+        },
+        {
+          "s": "ROSA",
+          "t": "But what did that article he gave us last week say about the quality of data from questionnaires?"
+        },
+        {
+          "s": "MICK",
+          "t": "I'm pretty sure it recommended questionnaires as a source of 'highly reliable data' ."
+        },
+        {
+          "s": "MICK",
+          "t": "As long as you design the questionnaire properly in the first place, the data will be fine."
+        },
+        {
+          "s": "ROSA",
+          "t": "No, I'm sure it talked about drawbacks as well, didn't it?"
+        },
+        {
+          "s": "ROSA",
+          "t": "Something about the response rate and the problems you get if it's too low.",
+          "q": [
+            25
+          ]
+        },
+        {
+          "s": "MICK",
+          "t": "Yeah, but we only need data from five subjects anyway."
+        },
+        {
+          "s": "ROSA",
+          "t": "I suppose so."
+        },
+        {
+          "s": "ROSA",
+          "t": "Another drawback I remember it mentioned was that questionnaire data tends not to reveal anything unexpected, because it is limited to the questions fixed in advance by the researcher.",
+          "q": [
+            26
+          ]
+        },
+        {
+          "s": "MICK",
+          "t": "Come on, Rosa."
+        },
+        {
+          "s": "MICK",
+          "t": "This is only a practice."
+        },
+        {
+          "s": "MICK",
+          "t": "It's not meant to be real research, is it?"
+        },
+        {
+          "s": "ROSA",
+          "t": "Well, I'm not sure about that."
+        },
+        {
+          "s": "ROSA",
+          "t": "Maybe I'd better go through the article again, just to be sure."
+        },
+        {
+          "s": "ROSA",
+          "t": "Can you remember what it was called?"
+        },
+        {
+          "s": "MICK",
+          "t": "'Sample Surveys in Social Science Research'."
+        },
+        {
+          "s": "MICK",
+          "t": "I think."
+        },
+        {
+          "s": "MICK",
+          "t": "By Mehta.",
+          "q": [
+            27
+          ]
+        },
+        {
+          "s": "ROSA",
+          "t": "M-E-H-T-A?"
+        },
+        {
+          "s": "MICK",
+          "t": "Yeah."
+        },
+        {
+          "s": "MICK",
+          "t": "And he also recommended a more recent book, called 'Survey Research', by Bell, I think.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "MICK",
+          "t": "It's in that series published by London University.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "PETE",
+          "t": "And if we tried to use interviews instead, I saw a book in the departmental library that'll be helpful: it's called 'Interviews That Work', by Wilson, published in Oxford in nineteen eighty-eight.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "ROSA",
+          "t": "Right."
+        },
+        {
+          "s": "ROSA",
+          "t": "I've got a tutorial now."
+        },
+        {
+          "s": "ROSA",
+          "t": "Can we meet up again later this week?"
+        },
+        {
+          "s": "ROSA",
+          "t": "What about Friday morning?"
+        },
+        {
+          "s": "PETE",
+          "t": "Suits me."
+        },
+        {
+          "s": "PETE",
+          "t": "Eleven o'clock?"
+        },
+        {
+          "s": "ROSA",
+          "t": "Fine."
+        },
+        {
+          "s": "MICK",
+          "t": "Before Friday, I think we should all look through the reading list."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c4/t2p4.mp3",
+      "duration": 0,
+      "title": "Corporate Crime",
+      "groups": [
+        {
+          "range": [
+            31,
+            32
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Section 4",
+          "questions": [
+            {
+              "n": 31,
+              "text": "Corporate crime is generally committed",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "against individuals."
+                },
+                {
+                  "k": "B",
+                  "text": "by groups."
+                },
+                {
+                  "k": "C",
+                  "text": "for companies."
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "Corporate crime does NOT include",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "employees stealing from their company."
+                },
+                {
+                  "k": "B",
+                  "text": "unintentional crime by employees."
+                },
+                {
+                  "k": "C",
+                  "text": "fraud resulting from company policy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            33,
+            38
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN THREE WORDS for each answer.",
+          "lines": [
+            "Corporate crime has been ignored by:",
+            "a) the {{33}} e.g. films",
+            "b) {{34}}",
+            "Reasons:",
+            "a) often more complex, and needing {{35}}",
+            "b) less human interest than conventional crime",
+            "c) victims often {{36}}",
+            "Effects:",
+            "a) Economic costs",
+            "- may appear unimportant to {{37}}",
+            "- can make large {{38}} for company",
+            "- cause more losses to individuals than conventional crimes",
+            "b) Social costs",
+            "- make people lose trust in business world",
+            "- affect poorer people most"
+          ]
+        },
+        {
+          "range": [
+            39,
+            40
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters A-F.",
+          "text": "The oil tanker explosion was an example of a crime which",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "was no-one's fault."
+            },
+            {
+              "k": "B",
+              "text": "was not a corporate crime."
+            },
+            {
+              "k": "C",
+              "text": "was intentional."
+            },
+            {
+              "k": "D",
+              "text": "was caused by indifference."
+            },
+            {
+              "k": "E",
+              "text": "had tragic results."
+            },
+            {
+              "k": "F",
+              "text": "made a large profit for the company."
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "So far, in these lectures, we've been looking at crimes like robbery and murder - both from a historical viewpoint and also in contemporary society - and we've seen that the preoccupation in Western society with crime and with lawlessness is part of a long and continuous tradition, rather than something which is new and unique to modern society."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But over the past seventy years or so. there has been a massive increase in one type of crime, which is what's known as 'corporate crime'."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Corporate crime is crime which, as the name suggests, is connected with companies, with business organisations."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It includes illegal acts of either individuals or a group within the company, but what is important is that these acts are normally in accordance with the goals of the company - they're for the good of the company rather than the individual.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's been defined as, quote, 'crime which is committed for the corporate organisation' - the company - 'not against it', unquote."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So crimes like theft by employees - things like embezzlement or fraud against one's actual employer are excluded according to this definition.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The employees may be involved but they're acting in the first place for the company - they may not even realise they're committing a crime or they may realise but they feel it's excusable because it's policy, or because otherwise they may lose their jobs."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So here, really, we're talking about the links between power and crime."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now, this is one area that much less is generally known about than conventional or traditional crime."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It has been relatively ignored by the mass media - for example, it tends to be under-reported in comparison with conventional crime in news broadcasts, and in crime serials and films and so on - they very rarely deal with corporate crime.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And it also tends to be ignored in academic circles - there's been far more research on conventional crime and far more data is available.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are several reasons for this lack of interest in corporate crime, compared with other types of crime."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's often very complex, whereas with conventional crime it's usually possible to follow what's going on without specialist knowledge."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As well as this, whereas conventional crime usually has a lot of human interest, corporate crime often has much less.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The third reason, and possibly the most significant one, is that very often the victims are unaware - they think their misfortune is an accident or that it's the fault of no-one in particular.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They're unaware that they've been victims of a crime."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, when we look at the effects of corporate crime we may find it's very difficult to assess the costs."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But these costs can be very considerable in both their economic and social aspects."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's look at the economic costs first."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For example, if a company is producing fruit juice and it dilutes its product so that it's just a little below the concentration it should be, many millions of people may be paying a small amount extra for their carton of orange juice."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now small amounts like this may seem insignificant for individual customers - too small to worry about - but for the company this deception might result in massive illegal profit.",
+          "q": [
+            37,
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, all studies of corporate crime agree that the individuals are in fact deprived of far more money by such crime than they are by conventional crime like robbery and theft."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In addition to this, we have to consider the social costs of corporate crime and these are again very difficult to assess, but they are considerable."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They're important because they can undermine the faith of the public in the business world and also, more importantly, because the main group of people they affect are, in fact, not the richer sections of society but the poorer - so here companies are robbing the poor to benefit the rich."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are two more points to do with corporate crime that I'd like to illustrate with reference to a specific event which occurred several years ago."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This was an explosion of a large oil tanker which caused the loss of more than fifty lives of the crew."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It was an explosion which never should have happened and a subsequent inquiry laid the blame not on anyone who had actually been on the tanker at the time, but on the owners of the tanker."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They had deliberately decided not to carry out necessary repair work on the tanker as it was due to be sold, and it was this lack of repair work which was directly responsible for the explosion."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now this illustrates two points to do with corporate crime."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "First of all. that it does not have to be intentional."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The owners of the tanker certainly did not intend it to explode."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But very serious consequences can result from people or organisations not considering the possible results of their actions seriously enough."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The main crime here was indifference to the human results rather than actual intention to harm anyone, but that didn't make the results any less tragic.",
+          "q": [
+            39,
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And this leads me to my second point - that corporate crime can have very severe consequences."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's not just a matter of companies making bigger profits than they should do, but of events which may affect the lives of innocent people, and yet very often companies, because they say they didn't intend to harm anyone, can avoid taking responsibility for the results of their actions."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And that has been a very dangerous loophole in the law."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A further example of corporate crime was . . ."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "(fade out)"
+        }
+      ]
+    }
+  ]
+}

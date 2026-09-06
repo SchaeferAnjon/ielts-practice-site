@@ -1,0 +1,83 @@
+{
+  "id": "c4t2",
+  "book": "剑桥雅思4",
+  "test": 2,
+  "title": "剑4 Test 2 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "mixed",
+      "kindZh": "混合图表",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The graph below shows the demand for electricity in England during typical days in winter and summer. The pie chart shows how electricity is used in an average English home.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c4t2-task1.webp",
+      "imageCaption": "Typical daily demand for electricity (winter and summer), and what the electricity is used for",
+      "data": {
+        "unit": "Units of electricity (x1000)",
+        "years": [
+          0,
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24
+        ],
+        "series": {
+          "Winter": [
+            34,
+            39,
+            34,
+            31,
+            36,
+            40,
+            40,
+            45,
+            35
+          ],
+          "Summer": [
+            17,
+            15,
+            14,
+            13,
+            17,
+            20,
+            16,
+            17,
+            15
+          ]
+        }
+      },
+      "sample": {
+        "band": 6,
+        "text": "The use of electricity in England is indispensed with. Demand for electricity in England during typical days in winter and summer is illustrated in the graph. The use of electricity in an average English home is shown in the pie chart. From the graph, it is generally obvious that the demand is in its maximum around 2100, and in its minimum around 600, being almost constant between 1200 and 2100 in winter times. During summer times, on the other hand, the demand reaches its top point around 1300, and the bottom point around 900, being almost constant between 1550 and 2000.\n\nIn winter times, the curve gradually increares to reach 40,000 units of electricity by 3 o'clock in the morning. This is followed by gradual decline to its lowest limite of 30,000 units at 9 o'clock. A gradual rise is obvious again to reach a stationary level between 3 o'clock and 9 o'clock of about 40,000 units again. Then, there is a sharp rise in the next hour to rech its maximum before collapsing again to a lower level by the end of the day.\n\nIn summer time, the curve gradually decrease to reach its lower limit around 9 o'clock of a bit more than 10,000 units. A gradual increase is noticed to reach its top of 20,000 after which a stationary phase is obvious between 3 o'clock and 10 o'clock at night of about 15,000 unites.\n\nThe pie chart, on the other hand, shows that 52.5% of the electricity is used for heating rooms and water. 17.5% is consumed for ovens, kettles and washing machines, 15% is used in lighting, TV and radio, and finally 15% is consumed in the sue of vacuum cleaners, food mixtures and electric tools.",
+        "comment": "This answer focuses too closely on the details in the graph but fails to compare trends or general differences between figures for winter and summer. Some comparisons are made, but these are about details, and it is difficult to get a clear idea of the information from this description.\n\nSimilarly, information in the pie chart is simply listed using the language from the chart and there is no attempt to relate this to information in the graph.\n\nThe description is not well organised, although a range of linkers are used, and the use of paragraphs does not reflect the different sections of information covered.\n\nThere is a suitable range of vocabulary for this task, although some words are misused and there are several spelling errors. The range and control of grammatical structures is the strong point of the main part of this response. There are examples of complex structures that are used with accuracy and some flexibility."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "two-part",
+      "kindZh": "双问题",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Happiness is considered very important in life.",
+        "Why is it difficult to define?",
+        "What factors are important in achieving happiness?",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 9,
+        "text": "Happiness is very difficult to define, because it means so many different things to different people. While some people link happiness to wealth and material success, others think it lies in emotions and loving personal relationships. Yet others think that spiritual paths, rather than either the material world or relationships with people, are the only way to true happiness.\n\nBecause people interpret happiness for themselves in so many different ways, it is difficult to give any definition that is true for everyone. However, if there are different kinds of happiness for different individuals then the first step in achieving it would be to have a degree of self-knowledge. A person needs to know who he or she is before being able to know what it is that makes him or her happy.\n\nOf course, factors such as loving relationships, good health, the skills to earn a living and a peaceful environment all contribute to our happiness too. But this does not mean that people without these conditions cannot be happy.\n\nOverall, I think an ability to keep clear perspectives in life is a more essential factor in achieving happiness. By that I mean an ability to have a clear sense of what is important in our lives (the welfare of our families, the quality of our relationships, making other people happy, etc.) and what is not (a problem at work, getting annoyed about trivial things, etc.).\n\nLike self-awareness, this is also very difficult to achieve, but I think these are the two factors that may be the most important for achieving happiness.",
+        "comment": "本篇为考官示范范文（MODEL ANSWER），书中原文说明：This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches. 书中未给出具体分数，按惯例记为 Band 9。"
+      }
+    }
+  ]
+}
