@@ -8,7 +8,7 @@ id="$1"; shift
 exclude=""; asr=""
 while [ $# -gt 0 ]; do case "$1" in --exclude) exclude="$2"; shift 2;; --asr) asr="$2"; shift 2;; *) echo "unknown $1"; exit 2;; esac; done
 n=$(echo "$id" | sed -E 's/c([0-9]+)t[0-9]+/\1/')
-for m in listening reading writing; do [ -f public/data/$m/$id.json ] && python3 scripts/validate_paper.py $m public/data/$m/$id.json | tail -1 || echo "（无 $m）"; done
+for m in listening reading writing; do if [ -f public/data/$m/$id.json ]; then python3 scripts/validate_paper.py $m public/data/$m/$id.json | tail -1; else echo "（无 $m）"; fi; done
 node scripts/check_answers.mjs "$id" | tail -1
 python3 scripts/optimize_images.py "$id" | tail -1
 if [ -n "$asr" ] && [ -d "$asr/c$n" ] && [ -f public/data/listening/$id.json ]; then python3 scripts/align_transcript.py public/data/listening/$id.json --asr-dir "$asr/c$n" 2>&1 | tail -1; fi
