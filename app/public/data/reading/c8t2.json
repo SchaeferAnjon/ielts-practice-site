@@ -1,0 +1,895 @@
+{
+  "id": "c8t2",
+  "book": "剑桥雅思8",
+  "test": 2,
+  "title": "剑8 Test 2 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "spinning"
+    ],
+    "2": [
+      "unblemished",
+      "perfectly unblemished"
+    ],
+    "3": [
+      "labour-intensive",
+      "labor-intensive"
+    ],
+    "4": [
+      "thickness"
+    ],
+    "5": [
+      "marked"
+    ],
+    "6": [
+      "glass",
+      "molten glass"
+    ],
+    "7": [
+      "tin",
+      "metal",
+      "molten tin",
+      "molten metal"
+    ],
+    "8": [
+      "rollers"
+    ],
+    "9": [
+      "TRUE"
+    ],
+    "10": [
+      "NOT GIVEN"
+    ],
+    "11": [
+      "FALSE"
+    ],
+    "12": [
+      "TRUE"
+    ],
+    "13": [
+      "TRUE"
+    ],
+    "14": [
+      "ii"
+    ],
+    "15": [
+      "vii"
+    ],
+    "16": [
+      "ix"
+    ],
+    "17": [
+      "iv"
+    ],
+    "18": [
+      "B",
+      "C"
+    ],
+    "19": [
+      "B",
+      "C"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "H"
+    ],
+    "22": [
+      "G"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "C"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "B"
+    ],
+    "27": [
+      "viii"
+    ],
+    "28": [
+      "ii"
+    ],
+    "29": [
+      "vi"
+    ],
+    "30": [
+      "i"
+    ],
+    "31": [
+      "iii"
+    ],
+    "32": [
+      "v"
+    ],
+    "33": [
+      "C"
+    ],
+    "34": [
+      "A"
+    ],
+    "35": [
+      "C"
+    ],
+    "36": [
+      "D"
+    ],
+    "37": [
+      "clothing"
+    ],
+    "38": [
+      "vocabulary"
+    ],
+    "39": [
+      "chemicals"
+    ],
+    "40": [
+      "cultures"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "why": "第一段说最早成功制作平板玻璃的方法是spinning（旋转法），题目表格第一行方法名对应这里。",
+      "key": "The first successful method for making clear, flat glass involved spinning."
+    },
+    "2": {
+      "loc": "p1",
+      "why": "旋转法玻璃没有接触任何表面，所以保持完美无瑕(unblemished)，对应Advantages一栏。",
+      "key": "This method was very effective as the glass had not touched any surfaces between being soft and becoming hard, so it stayed perfectly unblemished, with a 'fire finish'."
+    },
+    "3": {
+      "loc": "p1",
+      "why": "旋转法耗时长且labour-intensive（劳动密集），对应Disadvantages一栏的Slow之后一项。",
+      "key": "However, the process took a long time and was labour-intensive."
+    },
+    "4": {
+      "loc": "p2",
+      "why": "Ribbon法可以生产任意thickness（厚度）的玻璃，对应varying后的空格。",
+      "key": "This allowed glass of virtually any thickness to be made non-stop, but the rollers would leave both sides of the glass marked, and these would then need to be ground and polished."
+    },
+    "5": {
+      "loc": "p2",
+      "why": "滚轮会在玻璃两面留下marked（痕迹），对应Disadvantages一栏。",
+      "key": "This allowed glass of virtually any thickness to be made non-stop, but the rollers would leave both sides of the glass marked, and these would then need to be ground and polished."
+    },
+    "6": {
+      "loc": "p4",
+      "why": "图示中标号6处于熔化区起点，对应文中molten glass被倒入锡液面的位置。",
+      "key": "Consequently, when pouring molten glass onto the molten tin, the underside of the glass would also be perfectly flat."
+    },
+    "7": {
+      "loc": "p4",
+      "why": "玻璃漂浮在molten tin（熔融锡）表面，对应图中标号7所指的底层材料。",
+      "key": "Consequently, when pouring molten glass onto the molten tin, the underside of the glass would also be perfectly flat."
+    },
+    "8": {
+      "loc": "p4",
+      "why": "文中说明玻璃冷却后由rollers（滚轮）运出冷却区，对应图示出口处的标号8。",
+      "key": "Once the glass cooled to 600°C or less it was too hard to mark and could be transported out of the cooling zone by rollers."
+    },
+    "9": {
+      "loc": "p3",
+      "why": "文中详细说明金属必须满足熔点低于玻璃硬化点、沸点高于玻璃熔化温度等specific properties，与题干一致，故为TRUE。",
+      "key": "The metal had to melt at a temperature less than the hardening point of glass (about 600°C), but could not boil at a temperature below the temperature of the molten glass (about 1500°C)."
+    },
+    "10": {
+      "loc": "p5",
+      "why": "文中只提到工厂建造成本，没有提到Pilkington本人是否投入了自己的钱，因此是NOT GIVEN。",
+      "key": "However, it took 14 months of non-stop production, costing the company £100,000 a month, before the plant produced any usable glass."
+    },
+    "11": {
+      "loc": "p5",
+      "why": "文中说全尺寸工厂运行14个月才产出可用玻璃，说明并非立刻成功，与题干\"instant commercial success\"矛盾，故为FALSE。",
+      "key": "However, it took 14 months of non-stop production, costing the company £100,000 a month, before the plant produced any usable glass."
+    },
+    "12": {
+      "loc": "p7",
+      "why": "文中说明float glass的产品已发生巨大改变（厚度范围扩大、质量提升），说明该工艺一直在被改进，故为TRUE。",
+      "key": "However, the product has changed dramatically, from a single thickness of 6 mm to a range from sub-millimetre to 25 mm, from a ribbon frequently marred by inclusions and bubbles to almost optical perfection."
+    },
+    "13": {
+      "loc": "p7",
+      "why": "文中说自动检测技术能发现人眼无法看到的瑕疵，说明计算机比人类更擅长发现缺陷，故为TRUE。",
+      "key": "Inspection technology allows more than 100 million measurements a second to be made across the ribbon, locating flaws the unaided eye would be unable to see."
+    },
+    "14": {
+      "loc": "p2",
+      "why": "B段描述小冰期是快速气候变化的\"跷跷板\"，忽冷忽热、忽干忽湿，对应标题ii\"The relevance of the Little Ice Age today\"里强调的持续快速变化特征（该段还说明其对当今全球变暖的重要意义）。",
+      "key": "The Little Ice Age was far from a deep freeze, however, rather an irregular seesaw of rapid climatic shifts, few lasting more than a quarter-century, driven by complex and still little understood interactions between the atmosphere and the ocean."
+    },
+    "15": {
+      "loc": "p4",
+      "why": "D段开头说明本书是过去十个世纪气候变化的叙事史，对应标题vii\"A study covering a thousand years\"。",
+      "key": "This book is a narrative history of climatic shifts during the past ten centuries, and some of the ways in which people in Europe adapted to them."
+    },
+    "16": {
+      "loc": "p5",
+      "why": "E段描述小冰期变冷导致航海改道、渔业变化、农业革命等一系列人类应对饥荒和环境变化的措施，对应标题ix\"Enough food at last\"（农业革命最终缓解了粮食问题）。",
+      "key": "Colder, much wetter weather descended on Europe between 1315 and 1319, when thousands perished in a continent-wide famine."
+    },
+    "17": {
+      "loc": "p6",
+      "why": "F段说明现代暖期人类活动（砍伐森林、燃烧化石燃料）首次引发了人为全球变暖，对应标题iv\"Human impact on the climate\"。",
+      "key": "The unprecedented land clearance released vast quantities of carbon dioxide into the atmosphere, triggering for the first time humanly caused global warming."
+    },
+    "18": {
+      "loc": "p3",
+      "why": "C段说明过去气候的知识主要来自tree rings（树轮）和ice cores（冰芯）这两种代用记录，对应18、19两空（顺序不限）。",
+      "key": "For the time before records began, we have only 'proxy records' reconstructed largely from tree rings and ice cores, supplemented by a few incomplete written accounts."
+    },
+    "19": {
+      "loc": "p3",
+      "why": "同上，tree rings和ice cores是18、19题的两个答案，可互换顺序。",
+      "key": "For the time before records began, we have only 'proxy records' reconstructed largely from tree rings and ice cores, supplemented by a few incomplete written accounts."
+    },
+    "20": {
+      "loc": "p2",
+      "why": "B段指出小冰期是climatic shifts（气候变化）的不规则跷跷板，而非持续冰冻，对应summary中\"time of ___\"的空格。",
+      "key": "The Little Ice Age was far from a deep freeze, however, rather an irregular seesaw of rapid climatic shifts, few lasting more than a quarter-century, driven by complex and still little understood interactions between the atmosphere and the ocean."
+    },
+    "21": {
+      "loc": "p2",
+      "why": "B段提到小冰期有些时期出现大西洋storms（风暴）与强降雨，对应21题空格。",
+      "key": "The seesaw brought cycles of intensely cold winters and easterly winds, then switched abruptly to years of heavy spring and early summer rains, mild winters, and frequent Atlantic storms, or to periods of droughts, light northeasterly winds, and summer heat waves."
+    },
+    "22": {
+      "loc": "p2",
+      "why": "B段提到另一些时期出现干旱和summer heat waves（热浪），没有降雨，对应22题空格。",
+      "key": "The seesaw brought cycles of intensely cold winters and easterly winds, then switched abruptly to years of heavy spring and early summer rains, mild winters, and frequent Atlantic storms, or to periods of droughts, light northeasterly winds, and summer heat waves."
+    },
+    "23": {
+      "loc": "p6",
+      "why": "F段描述现代暖期大量欧洲农民移民到北美、澳洲等地开垦农业，对应\"Many Europeans started farming abroad\"，属于Modern Warm Period(C)。",
+      "key": "There was a vast migration from Europe by land-hungry farmers and others, to which the famine caused by the Irish potato blight contributed, to North America, Australia, New Zealand, and southern Africa."
+    },
+    "24": {
+      "loc": "p6",
+      "why": "F段说明大规模砍伐森林释放二氧化碳、引发人为变暖，对应\"cutting down of trees began to affect the climate\"，同属Modern Warm Period(C)。",
+      "key": "The unprecedented land clearance released vast quantities of carbon dioxide into the atmosphere, triggering for the first time humanly caused global warming."
+    },
+    "25": {
+      "loc": "p4",
+      "why": "D段描述中世纪暖期挪威航海者探索北方海域、定居格陵兰、到访北美，对应\"Europeans discovered other lands\"，属于Medieval Warm Period(A)。",
+      "key": "During these three centuries, Norse voyagers from Northern Europe explored northern seas, settled Greenland, and visited North America."
+    },
+    "26": {
+      "loc": "p5",
+      "why": "E段说明小冰期水温变化迫使渔船到更远海域作业，渔业模式发生改变，对应\"Changes took place in fishing patterns\"，属于Little Ice Age(B)。",
+      "key": "Dried cod and herring were already the staples of the European fish trade, but changes in water temperatures forced fishing fleets to work further offshore."
+    },
+    "27": {
+      "loc": "p1",
+      "why": "A段介绍调查发现气味能唤起强烈情感反应，贯穿人们对气味的情感联想，对应标题viii\"The relationship between smell and feelings\"。",
+      "key": "It became apparent that smell can evoke strong emotional responses."
+    },
+    "28": {
+      "loc": "p2",
+      "why": "B段讲述气味在亲密关系和家庭识别中的作用（父母认出孩子、夫妻凭衣物气味辨认对方），对应标题ii\"The role of smell in personal relationships\"。",
+      "key": "One respondent to the survey believed that there is no true emotional bonding without touching and smelling a loved one."
+    },
+    "29": {
+      "loc": "p3",
+      "why": "C段指出嗅觉在许多文化中是最不被重视的感官，对应标题vi\"Why our sense of smell is not appreciated\"。",
+      "key": "In spite of its importance to our emotional and sensory lives, smell is probably the most undervalued sense in many cultures."
+    },
+    "30": {
+      "loc": "p4",
+      "why": "D段说明气味难以用语言描述、无法被记录，对应标题i\"The difficulties of talking about smells\"。",
+      "key": "Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn't exist."
+    },
+    "31": {
+      "loc": "p5",
+      "why": "E段列举了关于嗅觉尚待解答的科学问题，并指出这将是未来研究的重点，对应标题iii\"Future studies into smell\"。",
+      "key": "Questions like these mean that interest in the psychology of smell is inevitably set to play an increasingly important role for researchers."
+    },
+    "32": {
+      "loc": "p6",
+      "why": "F段说明气味具有文化意义，不同文化对气味的评价不同，帮助界定群体身份，对应标题v\"The interpretation of smells as a factor in defining groups\"。",
+      "key": "Importantly, our commonly held feelings about smells can help distinguish us from other cultures."
+    },
+    "33": {
+      "loc": "p0",
+      "why": "引言段说明只有当嗅觉受损(impaired)时，人们才意识到嗅觉的重要性，对应选项C\"our ability to smell is damaged\"。",
+      "key": "It is only when the faculty of smell is impaired for some reason that we begin to realise the essential role the sense of smell plays in our sense of well-being."
+    },
+    "34": {
+      "loc": "p2",
+      "why": "B段的实验说明人们能凭气味辨认伴侣的衣物，即使平时没有意识到气味的作用，对应选项A\"shows how we make use of smell without realising it\"。",
+      "key": "Most of the subjects would probably never have given much thought to odour as a cue for identifying family members before being involved in the test, but as the experiment revealed, even when not consciously considered, smells register."
+    },
+    "35": {
+      "loc": "p3",
+      "why": "C段先提出\"人类嗅觉不如动物发达\"这一常见说法，随后反驳说人类嗅觉其实依然十分敏锐，属于反驳常见看法，对应选项C\"rejecting a common belief\"。",
+      "key": "The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped."
+    },
+    "36": {
+      "loc": "p5",
+      "why": "E段指出关于嗅觉的许多基本问题（如嗅觉是一种感觉还是两种）仍未有定论，对应选项D\"Smell is yet to be defined\"。",
+      "key": "Significant advances have been made in the understanding of the biological and chemical nature of olfaction, but many fundamental questions have yet to be answered."
+    },
+    "37": {
+      "loc": "p2",
+      "why": "B段实验中受试者靠气味辨认配偶穿过的clothing（衣物），对应37题空格。",
+      "key": "In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people."
+    },
+    "38": {
+      "loc": "p4",
+      "why": "D段说明许多语言缺乏描述气味的specific vocabulary（词汇），对应38题空格。",
+      "key": "Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn't exist."
+    },
+    "39": {
+      "loc": "p5",
+      "why": "E段提到嗅觉可能还涉及对不发出气味的chemicals（化学物质）的反应，对应39题空格。",
+      "key": "Researchers have still to decide whether smell is one sense or two - one responding to odours proper and the other registering odourless chemicals in the air."
+    },
+    "40": {
+      "loc": "p6",
+      "why": "F段说明某些气味在某些cultures（文化）中被认为令人不快，在其他文化中却完全可以接受，对应40题空格。",
+      "key": "Odours are invested with cultural values: smells that are considered to be offensive in some cultures may be perfectly acceptable in others."
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "Sheet glass manufacture: the float process",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Glass, which has been made since the time of the Mesopotamians and Egyptians, is little more than a mixture of sand, soda ash and lime. When heated to about 1500 degrees Celsius (°C) this becomes a molten mass that hardens when slowly cooled. The first successful method for making clear, flat glass involved spinning. This method was very effective as the glass had not touched any surfaces between being soft and becoming hard, so it stayed perfectly unblemished, with a 'fire finish'. However, the process took a long time and was labour-intensive."
+        },
+        {
+          "id": "p2",
+          "text": "Nevertheless, demand for flat glass was very high and glassmakers across the world were looking for a method of making it continuously. The first continuous ribbon process involved squeezing molten glass through two hot rollers, similar to an old mangle. This allowed glass of virtually any thickness to be made non-stop, but the rollers would leave both sides of the glass marked, and these would then need to be ground and polished. This part of the process rubbed away around 20 per cent of the glass, and the machines were very expensive."
+        },
+        {
+          "id": "p3",
+          "text": "The float process for making flat glass was invented by Alistair Pilkington. This process allows the manufacture of clear, tinted and coated glass for buildings, and clear and tinted glass for vehicles. Pilkington had been experimenting with improving the melting process, and in 1952 he had the idea of using a bed of molten metal to form the flat glass, eliminating altogether the need for rollers within the float bath. The metal had to melt at a temperature less than the hardening point of glass (about 600°C), but could not boil at a temperature below the temperature of the molten glass (about 1500°C). The best metal for the job was tin."
+        },
+        {
+          "id": "p4",
+          "text": "The rest of the concept relied on gravity, which guaranteed that the surface of the molten metal was perfectly flat and horizontal. Consequently, when pouring molten glass onto the molten tin, the underside of the glass would also be perfectly flat. If the glass were kept hot enough, it would flow over the molten tin until the top surface was also flat, horizontal and perfectly parallel to the bottom surface. Once the glass cooled to 600°C or less it was too hard to mark and could be transported out of the cooling zone by rollers. The glass settled to a thickness of six millimetres because of surface tension interactions between the glass and the tin. By fortunate coincidence, 60 per cent of the flat glass market at that time was for six-millimetre glass."
+        },
+        {
+          "id": "p5",
+          "text": "Pilkington built a pilot plant in 1953 and by 1955 he had convinced his company to build a full-scale plant. However, it took 14 months of non-stop production, costing the company £100,000 a month, before the plant produced any usable glass. Furthermore, once they succeeded in making marketable flat glass, the machine was turned off for a service to prepare it for years of continuous production. When it started up again it took another four months to get the process right again. They finally succeeded in 1959 and there are now float plants all over the world, with each able to produce around 1000 tons of glass every day, non-stop for around 15 years."
+        },
+        {
+          "id": "p6",
+          "text": "Float plants today make glass of near optical quality. Several processes — melting, refining, homogenising — take place simultaneously in the 2000 tonnes of molten glass in the furnace. They occur in separate zones in a complex glass flow driven by high temperatures. It adds up to a continuous melting process, lasting as long as 50 hours, that delivers glass smoothly and continuously to the float bath, and from there to a coating zone and finally a heat treatment zone, where stresses formed during cooling are relieved."
+        },
+        {
+          "id": "p7",
+          "text": "The principle of float glass is unchanged since the 1950s. However, the product has changed dramatically, from a single thickness of 6 mm to a range from sub-millimetre to 25 mm, from a ribbon frequently marred by inclusions and bubbles to almost optical perfection. To ensure the highest quality, inspection takes place at every stage. Occasionally, a bubble is not removed during refining, a sand grain refuses to melt, a tremor in the tin puts ripples into the glass ribbon. Automated on-line inspection does two things. Firstly, it reveals process faults upstream that can be corrected. Inspection technology allows more than 100 million measurements a second to be made across the ribbon, locating flaws the unaided eye would be unable to see. Secondly, it enables computers downstream to steer cutters around flaws."
+        },
+        {
+          "id": "p8",
+          "text": "Float glass is sold by the square metre, and at the final stage computers translate customer requirements into patterns of cuts designed to minimise waste."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            5
+          ],
+          "type": "table",
+          "instruction": "Complete the table and diagram below.",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "title": "Early methods of producing flat glass",
+          "table": {
+            "head": [
+              "Method",
+              "Advantages",
+              "Disadvantages"
+            ],
+            "rows": [
+              [
+                "{{1}}",
+                "Glass remained {{2}}",
+                "Slow\n{{3}}"
+              ],
+              [
+                "Ribbon",
+                "Could produce glass sheets of varying {{4}}\nNon-stop process",
+                "Glass was {{5}}\n20% of glass rubbed away\nMachines were expensive"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            6,
+            8
+          ],
+          "type": "notes",
+          "instruction": "Label the diagram below (Pilkington's float process).",
+          "limit": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "title": "Pilkington's float process",
+          "lines": [
+            "{{6}} flows in at the start of the melting zone.",
+            "The glass ribbon floats on a bed of {{7}}.",
+            "{{8}} carry the finished glass out of the cooling zone."
+          ]
+        },
+        {
+          "range": [
+            9,
+            13
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 9,
+              "text": "The metal used in the float process had to have specific properties."
+            },
+            {
+              "n": 10,
+              "text": "Pilkington invested some of his own money in his float plant."
+            },
+            {
+              "n": 11,
+              "text": "Pilkington's first full-scale plant was an instant commercial success."
+            },
+            {
+              "n": 12,
+              "text": "The process invented by Pilkington has now been improved."
+            },
+            {
+              "n": 13,
+              "text": "Computers are better than humans at detecting faults in glass."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The Little Ice Age",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 on the following pages.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "label": "A",
+          "text": "This book will provide a detailed examination of the Little Ice Age and other climatic shifts, but, before I embark on that, let me provide a historical context. We tend to think of climate - as opposed to weather - as something unchanging, yet humanity has been at the mercy of climate change for its entire existence, with at least eight glacial episodes in the past 730,000 years. Our ancestors adapted to the universal but irregular global warming since the end of the last great Ice Age, around 10,000 years ago, with dazzling opportunism. They developed strategies for surviving harsh drought cycles, decades of heavy rainfall or unaccustomed cold; adopted agriculture and stock-raising, which revolutionised human life; and founded the world's first pre-industrial civilisations in Egypt, Mesopotamia and the Americas. But the price of sudden climate change, in famine, disease and suffering, was often high."
+        },
+        {
+          "id": "p2",
+          "label": "B",
+          "text": "The Little Ice Age lasted from roughly 1300 until the middle of the nineteenth century. Only two centuries ago, Europe experienced a cycle of bitterly cold winters; mountain glaciers in the Swiss Alps were the lowest in recorded memory, and pack ice surrounded Iceland for much of the year. The climatic events of the Little Ice Age did more than help shape the modern world. They are the deeply important context for the current unprecedented global warming. The Little Ice Age was far from a deep freeze, however, rather an irregular seesaw of rapid climatic shifts, few lasting more than a quarter-century, driven by complex and still little understood interactions between the atmosphere and the ocean. The seesaw brought cycles of intensely cold winters and easterly winds, then switched abruptly to years of heavy spring and early summer rains, mild winters, and frequent Atlantic storms, or to periods of droughts, light northeasterly winds, and summer heat waves."
+        },
+        {
+          "id": "p3",
+          "label": "C",
+          "text": "Reconstructing the climate changes of the past is extremely difficult, because systematic weather observations began only a few centuries ago, in Europe and North America. Records from India and tropical Africa are even more recent. For the time before records began, we have only 'proxy records' reconstructed largely from tree rings and ice cores, supplemented by a few incomplete written accounts. We now have hundreds of tree-ring records from throughout the northern hemisphere, and many from south of the equator, too, amplified with a growing body of temperature data from ice cores drilled in Antarctica, Greenland, the Peruvian Andes, and other locations. We are close to a knowledge of annual summer and winter temperature variations over much of the northern hemisphere going back 600 years."
+        },
+        {
+          "id": "p4",
+          "label": "D",
+          "text": "This book is a narrative history of climatic shifts during the past ten centuries, and some of the ways in which people in Europe adapted to them. Part One describes the Medieval Warm Period, roughly 900 to 1200. During these three centuries, Norse voyagers from Northern Europe explored northern seas, settled Greenland, and visited North America. It was not a time of uniform warmth, for then, as always since the Great Ice Age, there were constant shifts in rainfall and temperature. Mean European temperatures were about the same as today, perhaps slightly cooler."
+        },
+        {
+          "id": "p5",
+          "label": "E",
+          "text": "It is known that the Little Ice Age cooling began in Greenland and the Arctic in about 1200. As the Arctic ice pack spread southward, Norse voyages to the west were rerouted into the open Atlantic, then ended altogether. Storminess increased in the North Atlantic and North Sea. Colder, much wetter weather descended on Europe between 1315 and 1319, when thousands perished in a continent-wide famine. By 1400, the weather had become decidedly more unpredictable and stormier, with sudden shifts and lower temperatures that culminated in the cold decades of the late sixteenth century. Fish were a vital commodity in growing towns and cities, where food supplies were a constant concern. Dried cod and herring were already the staples of the European fish trade, but changes in water temperatures forced fishing fleets to work further offshore. The Basques, Dutch, and English developed the first offshore fishing boats adapted to a colder and stormier Atlantic. A gradual agricultural revolution in northern Europe stemmed from concerns over food supplies at a time of rising populations. The revolution involved intensive commercial farming and the growing of animal fodder on land not previously used for crops. The increased productivity from farmland made some countries self-sufficient in grain and livestock and offered effective protection against famine."
+        },
+        {
+          "id": "p6",
+          "label": "F",
+          "text": "Global temperatures began to rise slowly after 1850, with the beginning of the Modern Warm Period. There was a vast migration from Europe by land-hungry farmers and others, to which the famine caused by the Irish potato blight contributed, to North America, Australia, New Zealand, and southern Africa. Millions of hectares of forest and woodland fell before the newcomers' axes between 1850 and 1890, as intensive European farming methods expanded across the world. The unprecedented land clearance released vast quantities of carbon dioxide into the atmosphere, triggering for the first time humanly caused global warming. Temperatures climbed more rapidly in the twentieth century as the use of fossil fuels proliferated and greenhouse gas levels continued to soar. The rise has been even steeper since the early 1980s. The Little Ice Age has given way to a new climatic regime, marked by prolonged and steady warming. At the same time, extreme weather events like Category 5 hurricanes are becoming more frequent."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            17
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F. Choose the correct heading for paragraphs B and D-F from the list of headings below.",
+          "limit": "Write the correct number, i-ix, in boxes 14-17 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "Predicting climatic changes"
+            },
+            {
+              "k": "ii",
+              "text": "The relevance of the Little Ice Age today"
+            },
+            {
+              "k": "iii",
+              "text": "How cities contribute to climate change"
+            },
+            {
+              "k": "iv",
+              "text": "Human impact on the climate"
+            },
+            {
+              "k": "v",
+              "text": "How past climatic conditions can be determined"
+            },
+            {
+              "k": "vi",
+              "text": "A growing need for weather records"
+            },
+            {
+              "k": "vii",
+              "text": "A study covering a thousand years"
+            },
+            {
+              "k": "viii",
+              "text": "People have always responded to climate change"
+            },
+            {
+              "k": "ix",
+              "text": "Enough food at last"
+            }
+          ],
+          "itemsTitle": "Paragraphs",
+          "items": [
+            {
+              "n": 14,
+              "text": "Paragraph B"
+            },
+            {
+              "n": 15,
+              "text": "Paragraph D"
+            },
+            {
+              "n": 16,
+              "text": "Paragraph E"
+            },
+            {
+              "n": 17,
+              "text": "Paragraph F"
+            }
+          ]
+        },
+        {
+          "range": [
+            18,
+            22
+          ],
+          "type": "summary-select",
+          "instruction": "Complete the summary using the list of words, A-I, below.",
+          "limit": "Write the correct letter, A-I, in boxes 18-22 on your answer sheet.",
+          "title": "Weather during the Little Ice Age",
+          "text": "Documentation of past weather conditions is limited: our main sources of knowledge of conditions in the distant past are {{18}} and {{19}}. We can deduce that the Little Ice Age was a time of {{20}}, rather than of consistent freezing. Within it there were some periods of very cold winters, others of {{21}} and heavy rain, and yet others that saw {{22}} with no rain at all.",
+          "options": [
+            {
+              "k": "A",
+              "text": "climatic shifts"
+            },
+            {
+              "k": "B",
+              "text": "ice cores"
+            },
+            {
+              "k": "C",
+              "text": "tree rings"
+            },
+            {
+              "k": "D",
+              "text": "glaciers"
+            },
+            {
+              "k": "E",
+              "text": "interactions"
+            },
+            {
+              "k": "F",
+              "text": "weather observations"
+            },
+            {
+              "k": "G",
+              "text": "heat waves"
+            },
+            {
+              "k": "H",
+              "text": "storms"
+            },
+            {
+              "k": "I",
+              "text": "written accounts"
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            26
+          ],
+          "type": "matching",
+          "instruction": "Classify the following events as occurring during the periods below.",
+          "limit": "Write the correct letter, A, B or C, in boxes 23-26 on your answer sheet.",
+          "optionsTitle": "Periods",
+          "options": [
+            {
+              "k": "A",
+              "text": "Medieval Warm Period"
+            },
+            {
+              "k": "B",
+              "text": "Little Ice Age"
+            },
+            {
+              "k": "C",
+              "text": "Modern Warm Period"
+            }
+          ],
+          "itemsTitle": "Events",
+          "items": [
+            {
+              "n": 23,
+              "text": "Many Europeans started farming abroad."
+            },
+            {
+              "n": 24,
+              "text": "The cutting down of trees began to affect the climate."
+            },
+            {
+              "n": 25,
+              "text": "Europeans discovered other lands."
+            },
+            {
+              "n": 26,
+              "text": "Changes took place in fishing patterns."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "The meaning and power of smell",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 on the following pages.",
+      "paragraphs": [
+        {
+          "id": "p0",
+          "text": "The sense of smell, or olfaction, is powerful. Odours affect us on a physical, psychological and social level. For the most part, however, we breathe in the aromas which surround us without being consciously aware of their importance to us. It is only when the faculty of smell is impaired for some reason that we begin to realise the essential role the sense of smell plays in our sense of well-being."
+        },
+        {
+          "id": "p1",
+          "label": "A",
+          "text": "A survey conducted by Anthony Synott at Montreal's Concordia University asked participants to comment on how important smell was to them in their lives. It became apparent that smell can evoke strong emotional responses. A scent associated with a good experience can bring a rush of joy, while a foul odour or one associated with a bad memory may make us grimace with disgust. Respondents to the survey noted that many of their olfactory likes and dislikes were based on emotional associations. Such associations can be powerful enough so that odours that we would generally label unpleasant become agreeable, and those that we would generally consider fragrant become disagreeable for particular individuals. The perception of smell, therefore, consists not only of the sensation of the odours themselves, but of the experiences and emotions associated with them."
+        },
+        {
+          "id": "p2",
+          "label": "B",
+          "text": "Odours are also essential cues in social bonding. One respondent to the survey believed that there is no true emotional bonding without touching and smelling a loved one. In fact, infants recognise the odours of their mothers soon after birth and adults can often identify their children or spouses by scent. In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people. Most of the subjects would probably never have given much thought to odour as a cue for identifying family members before being involved in the test, but as the experiment revealed, even when not consciously considered, smells register."
+        },
+        {
+          "id": "p3",
+          "label": "C",
+          "text": "In spite of its importance to our emotional and sensory lives, smell is probably the most undervalued sense in many cultures. The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped. While it is true that the olfactory powers of humans are nothing like as fine as those possessed by certain animals, they are still remarkably acute. Our noses are able to recognise thousands of smells, and to perceive odours which are present only in extremely small quantities."
+        },
+        {
+          "id": "p4",
+          "label": "D",
+          "text": "Smell, however, is a highly elusive phenomenon. Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn't exist. 'It smells like . . .', we have to say when describing an odour, struggling to express our olfactory experience. Nor can odours be recorded: there is no effective way to either capture or store them over time. In the realm of olfaction, we must make do with descriptions and recollections. This has implications for olfactory research."
+        },
+        {
+          "id": "p5",
+          "label": "E",
+          "text": "Most of the research on smell undertaken to date has been of a physical scientific nature. Significant advances have been made in the understanding of the biological and chemical nature of olfaction, but many fundamental questions have yet to be answered. Researchers have still to decide whether smell is one sense or two - one responding to odours proper and the other registering odourless chemicals in the air. Other unanswered questions are whether the nose is the only part of the body affected by odours, and how smells can be measured objectively given the non-physical components. Questions like these mean that interest in the psychology of smell is inevitably set to play an increasingly important role for researchers."
+        },
+        {
+          "id": "p6",
+          "label": "F",
+          "text": "However, smell is not simply a biological and psychological phenomenon. Smell is cultural, hence it is a social and historical phenomenon. Odours are invested with cultural values: smells that are considered to be offensive in some cultures may be perfectly acceptable in others. Therefore, our sense of smell is a means of, and model for, interacting with the world. Different smells can provide us with intimate and emotionally charged experiences and the value that we attach to these experiences is interiorised by the members of society in a deeply personal way. Importantly, our commonly held feelings about smells can help distinguish us from other cultures. The study of the cultural history of smell is, therefore, in a very real sense, an investigation into the essence of human culture."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            32
+          ],
+          "type": "matching",
+          "instruction": "Reading Passage 3 has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below.",
+          "limit": "Write the correct number, i-viii, in boxes 27-32 on your answer sheet.",
+          "optionsTitle": "List of Headings",
+          "options": [
+            {
+              "k": "i",
+              "text": "The difficulties of talking about smells"
+            },
+            {
+              "k": "ii",
+              "text": "The role of smell in personal relationships"
+            },
+            {
+              "k": "iii",
+              "text": "Future studies into smell"
+            },
+            {
+              "k": "iv",
+              "text": "The relationship between the brain and the nose"
+            },
+            {
+              "k": "v",
+              "text": "The interpretation of smells as a factor in defining groups"
+            },
+            {
+              "k": "vi",
+              "text": "Why our sense of smell is not appreciated"
+            },
+            {
+              "k": "vii",
+              "text": "Smell is our superior sense"
+            },
+            {
+              "k": "viii",
+              "text": "The relationship between smell and feelings"
+            }
+          ],
+          "itemsTitle": "Paragraphs",
+          "items": [
+            {
+              "n": 27,
+              "text": "Paragraph A"
+            },
+            {
+              "n": 28,
+              "text": "Paragraph B"
+            },
+            {
+              "n": 29,
+              "text": "Paragraph C"
+            },
+            {
+              "n": 30,
+              "text": "Paragraph D"
+            },
+            {
+              "n": 31,
+              "text": "Paragraph E"
+            },
+            {
+              "n": 32,
+              "text": "Paragraph F"
+            }
+          ]
+        },
+        {
+          "range": [
+            33,
+            36
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "n": 33,
+              "text": "According to the introduction, we become aware of the importance of smell when",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "we discover a new smell."
+                },
+                {
+                  "k": "B",
+                  "text": "we experience a powerful smell."
+                },
+                {
+                  "k": "C",
+                  "text": "our ability to smell is damaged."
+                },
+                {
+                  "k": "D",
+                  "text": "we are surrounded by odours."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "The experiment described in paragraph B",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "shows how we make use of smell without realising it."
+                },
+                {
+                  "k": "B",
+                  "text": "demonstrates that family members have a similar smell."
+                },
+                {
+                  "k": "C",
+                  "text": "proves that a sense of smell is learnt."
+                },
+                {
+                  "k": "D",
+                  "text": "compares the sense of smell in males and females."
+                }
+              ]
+            },
+            {
+              "n": 35,
+              "text": "What is the writer doing in paragraph C?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "supporting other research"
+                },
+                {
+                  "k": "B",
+                  "text": "making a proposal"
+                },
+                {
+                  "k": "C",
+                  "text": "rejecting a common belief"
+                },
+                {
+                  "k": "D",
+                  "text": "describing limitations"
+                }
+              ]
+            },
+            {
+              "n": 36,
+              "text": "What does the writer suggest about the study of smell in the atmosphere in paragraph E?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "The measurement of smell is becoming more accurate."
+                },
+                {
+                  "k": "B",
+                  "text": "Researchers believe smell is a purely physical reaction."
+                },
+                {
+                  "k": "C",
+                  "text": "Most smells are inoffensive."
+                },
+                {
+                  "k": "D",
+                  "text": "Smell is yet to be defined."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            37,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "lines": [
+            "Tests have shown that odours can help people recognise the {{37}} belonging to their husbands and wives.",
+            "Certain linguistic groups may have difficulty describing smell because they lack the appropriate {{38}}.",
+            "The sense of smell may involve response to {{39}} which do not smell, in addition to obvious odours.",
+            "Odours regarded as unpleasant in certain {{40}} are not regarded as unpleasant in others."
+          ]
+        }
+      ]
+    }
+  ]
+}

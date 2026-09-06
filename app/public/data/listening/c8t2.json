@@ -1,0 +1,1868 @@
+{
+  "id": "c8t2",
+  "book": "剑桥雅思8",
+  "test": 2,
+  "title": "剑8 Test 2 · Listening",
+  "answers": {
+    "1": [
+      "Milperra"
+    ],
+    "2": [
+      "First Class Movers"
+    ],
+    "3": [
+      "28 November",
+      "28th November",
+      "28th of November"
+    ],
+    "4": [
+      "screen"
+    ],
+    "5": [
+      "bathroom"
+    ],
+    "6": [
+      "door"
+    ],
+    "7": [
+      "140",
+      "$140"
+    ],
+    "8": [
+      "leg"
+    ],
+    "9": [
+      "plates"
+    ],
+    "10": [
+      "60",
+      "$60"
+    ],
+    "11": [
+      "B"
+    ],
+    "12": [
+      "Forest",
+      "the Forest"
+    ],
+    "13": [
+      "Fish Farms",
+      "Fish Farm",
+      "the Fish Farms"
+    ],
+    "14": [
+      "Market Garden",
+      "the Market Garden"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "A"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "B"
+    ],
+    "19": [
+      "C"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "B"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "A"
+    ],
+    "25": [
+      "insects"
+    ],
+    "26": [
+      "feeding",
+      "eating"
+    ],
+    "27": [
+      "laboratory"
+    ],
+    "28": [
+      "water"
+    ],
+    "29": [
+      "wings"
+    ],
+    "30": [
+      "reliable",
+      "accurate"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "B"
+    ],
+    "33": [
+      "A"
+    ],
+    "34": [
+      "A"
+    ],
+    "35": [
+      "C"
+    ],
+    "36": [
+      "C"
+    ],
+    "37": [
+      "B"
+    ],
+    "38": [
+      "F"
+    ],
+    "39": [
+      "D"
+    ],
+    "40": [
+      "C"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c8/t2p1.mp3",
+      "duration": 479,
+      "title": "SECTION 1",
+      "groups": [
+        {
+          "range": [
+            1,
+            3
+          ],
+          "type": "table",
+          "instruction": "Complete the form below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Total Insurance Incident Report",
+          "table": {
+            "head": [
+              "Field",
+              "Detail"
+            ],
+            "rows": [
+              [
+                "Name",
+                "Michael Alexander (example)"
+              ],
+              [
+                "Address",
+                "24 Manly Street, {{1}}, Sydney"
+              ],
+              [
+                "Shipping agent",
+                "{{2}}"
+              ],
+              [
+                "Place of origin",
+                "China"
+              ],
+              [
+                "Date of arrival",
+                "{{3}}"
+              ],
+              [
+                "Reference number",
+                "601 ACK"
+              ]
+            ]
+          }
+        },
+        {
+          "range": [
+            4,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Damaged items",
+          "table": {
+            "head": [
+              "Item",
+              "Damage",
+              "Cost to repair/replace"
+            ],
+            "rows": [
+              [
+                "Television",
+                "The {{4}} needs to be replaced",
+                "not known"
+              ],
+              [
+                "The {{5}} cabinet",
+                "The {{6}} of the cabinet is damaged",
+                "${{7}}"
+              ],
+              [
+                "Dining room table",
+                "A {{8}} is split",
+                "$200"
+              ],
+              [
+                "Set of china",
+                "Six {{9}} were broken",
+                "about ${{10}} in total"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "JUDY",
+          "t": "Good morning.",
+          "start": 89.37,
+          "end": 89.69
+        },
+        {
+          "s": "JUDY",
+          "t": "Total Insurance.",
+          "start": 89.93,
+          "end": 90.77
+        },
+        {
+          "s": "JUDY",
+          "t": "Judy speaking, how may I help you?",
+          "start": 90.97,
+          "end": 92.69
+        },
+        {
+          "s": "MICHAEL",
+          "t": "I recently shipped my belongings from overseas back here to Australia and I took out insurance with your company.",
+          "start": 93.17,
+          "end": 99.61
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Some items were damaged during the move so I need to make a claim.",
+          "start": 100.57,
+          "end": 104.05
+        },
+        {
+          "s": "MICHAEL",
+          "t": "What do I have to do?",
+          "start": 104.25,
+          "end": 105.29
+        },
+        {
+          "s": "JUDY",
+          "t": "Okay, well first I need to get a few details about this.",
+          "start": 106.54,
+          "end": 109.18
+        },
+        {
+          "s": "JUDY",
+          "t": "Can you give me your name please?",
+          "start": 109.74,
+          "end": 111.3
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Yes.",
+          "start": 111.54,
+          "end": 111.94
+        },
+        {
+          "s": "MICHAEL",
+          "t": "It's Michael Alexander.",
+          "start": 112.22,
+          "end": 114.02
+        },
+        {
+          "s": "JUDY",
+          "t": "Okay.",
+          "start": 114.02,
+          "end": 114.02,
+          "estimated": true
+        },
+        {
+          "s": "JUDY",
+          "t": "And your address please?",
+          "start": 167.84,
+          "end": 169.24
+        },
+        {
+          "s": "MICHAEL",
+          "t": "My old address or my current one?",
+          "start": 169.6,
+          "end": 171.84
+        },
+        {
+          "s": "JUDY",
+          "t": "Your current one.",
+          "start": 172.16,
+          "end": 172.92
+        },
+        {
+          "s": "MICHAEL",
+          "t": "It's 24 Manly Street, Milperra near Sydney.",
+          "start": 173.04,
+          "end": 177.86
+        },
+        {
+          "s": "JUDY",
+          "t": "What was the suburb, sorry?",
+          "start": 178.58,
+          "end": 179.74
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Milperra.",
+          "start": 179.9,
+          "end": 180.7
+        },
+        {
+          "s": "MICHAEL",
+          "t": "M-I-L-P-E-R-R-A.",
+          "q": [
+            1
+          ],
+          "start": 180.78,
+          "end": 185.86
+        },
+        {
+          "s": "JUDY",
+          "t": "Right.",
+          "start": 186.02,
+          "end": 186.1
+        },
+        {
+          "s": "JUDY",
+          "t": "Now, who was the shipping agent Mr Alexander?",
+          "start": 186.1,
+          "end": 189.7
+        },
+        {
+          "s": "MICHAEL",
+          "t": "You mean the company we used?",
+          "start": 190.95,
+          "end": 192.31
+        },
+        {
+          "s": "JUDY",
+          "t": "Yes, the company who packed everything up at the point of origin.",
+          "start": 192.59,
+          "end": 196.03
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Oh, it was...er...",
+          "start": 196.75,
+          "end": 197.63
+        },
+        {
+          "s": "MICHAEL",
+          "t": "First Class Movers.",
+          "q": [
+            2
+          ],
+          "start": 199.55,
+          "end": 200.71
+        },
+        {
+          "s": "JUDY",
+          "t": "Okay . . . where were the goods shipped from?",
+          "start": 203.57,
+          "end": 205.13
+        },
+        {
+          "s": "MICHAEL",
+          "t": "China, but the ship came via Singapore and was there for about a week.",
+          "start": 205.25,
+          "end": 210.69
+        },
+        {
+          "s": "JUDY",
+          "t": "Don't worry, all of that information will be in the documentation.",
+          "start": 211.41,
+          "end": 214.41
+        },
+        {
+          "s": "JUDY",
+          "t": "Now, the dates.",
+          "start": 214.69,
+          "end": 216.25
+        },
+        {
+          "s": "JUDY",
+          "t": "Do you know when the ship arrived?",
+          "start": 216.69,
+          "end": 218.17
+        },
+        {
+          "s": "MICHAEL",
+          "t": "It left on the 11th of October and got to Sydney on the 28th of November.",
+          "q": [
+            3
+          ],
+          "start": 218.89,
+          "end": 223.61
+        },
+        {
+          "s": "JUDY",
+          "t": "Okay.",
+          "start": 223.61,
+          "end": 223.61,
+          "estimated": true
+        },
+        {
+          "s": "JUDY",
+          "t": "I need one more thing.",
+          "start": 225.27,
+          "end": 226.59
+        },
+        {
+          "s": "JUDY",
+          "t": "There's a reference number. it should be in the top right-hand corner of the pink form they gave you.",
+          "start": 226.71,
+          "end": 232.75
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Let me have a look.",
+          "start": 233.75,
+          "end": 234.55
+        },
+        {
+          "s": "MICHAEL",
+          "t": "I have so many papers.",
+          "start": 235.37,
+          "end": 237.17
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Yes, here it is.",
+          "start": 238.73,
+          "end": 239.57
+        },
+        {
+          "s": "MICHAEL",
+          "t": "It's 601 ACK.",
+          "start": 240.01,
+          "end": 243.37
+        },
+        {
+          "s": "JUDY",
+          "t": "Thanks.",
+          "start": 243.41,
+          "end": 243.85
+        },
+        {
+          "s": "JUDY",
+          "t": "I need to take down a few details of the actual damage over the phone before you put in a full report.",
+          "start": 290.89,
+          "end": 295.97
+        },
+        {
+          "s": "JUDY",
+          "t": "Can you tell me how many items were damaged and what the damage was?",
+          "start": 296.61,
+          "end": 299.97
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Yes, well four things actually.",
+          "start": 300.77,
+          "end": 302.41
+        },
+        {
+          "s": "MICHAEL",
+          "t": "I'll start with the big things.",
+          "start": 302.65,
+          "end": 304.17
+        },
+        {
+          "s": "MICHAEL",
+          "t": "My TV first of all.",
+          "start": 304.81,
+          "end": 306.33
+        },
+        {
+          "s": "MICHAEL",
+          "t": "It's a large one . . . very expensive.",
+          "start": 306.73,
+          "end": 308.57
+        },
+        {
+          "s": "JUDY",
+          "t": "Our insurance doesn't cover electrical problems.",
+          "start": 309.69,
+          "end": 311.77
+        },
+        {
+          "s": "MICHAEL",
+          "t": "It isn't an electrical problem.",
+          "start": 312.31,
+          "end": 313.59
+        },
+        {
+          "s": "MICHAEL",
+          "t": "The screen has a huge crack in it so it's unusable.",
+          "q": [
+            4
+          ],
+          "start": 313.79,
+          "end": 316.55
+        },
+        {
+          "s": "JUDY",
+          "t": "I see.",
+          "start": 317.31,
+          "end": 317.83
+        },
+        {
+          "s": "JUDY",
+          "t": "Any idea of the price to repair it?",
+          "start": 318.71,
+          "end": 320.67
+        },
+        {
+          "s": "MICHAEL",
+          "t": "No, Well, I don't think it can be repaired.",
+          "start": 320.83,
+          "end": 323.43
+        },
+        {
+          "s": "MICHAEL",
+          "t": "It will need a new one.",
+          "q": [
+            4
+          ],
+          "start": 324.05,
+          "end": 325.09
+        },
+        {
+          "s": "JUDY",
+          "t": "Okay.",
+          "start": 325.09,
+          "end": 325.09,
+          "estimated": true
+        },
+        {
+          "s": "JUDY",
+          "t": "I'll make a note of that and we'll see what we can do.",
+          "start": 325.81,
+          "end": 328.77
+        },
+        {
+          "s": "JUDY",
+          "t": "Now, what was the second item?",
+          "start": 328.89,
+          "end": 331.29
+        },
+        {
+          "s": "MICHAEL",
+          "t": "The cabinet from the bathroom was damaged as well.",
+          "start": 331.77,
+          "end": 335.01
+        },
+        {
+          "s": "MICHAEL",
+          "t": "It's a lovely cabinet, we use it to keep our towels in.",
+          "q": [
+            5
+          ],
+          "start": 335.29,
+          "end": 338.25
+        },
+        {
+          "s": "JUDY",
+          "t": "And what is the extent of the damage?",
+          "start": 338.56,
+          "end": 340.16
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Well, the back and the sides seem okay but the door has a huge hole in it.",
+          "q": [
+            6
+          ],
+          "start": 340.44,
+          "end": 345.4
+        },
+        {
+          "s": "MICHAEL",
+          "t": "It can't be repaired.",
+          "start": 345.76,
+          "end": 346.72
+        },
+        {
+          "s": "MICHAEL",
+          "t": "I'm really not very happy about it.",
+          "start": 347.36,
+          "end": 349.0
+        },
+        {
+          "s": "JUDY",
+          "t": "And how much do you think it will cost to replace it?",
+          "start": 349.38,
+          "end": 351.5
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Well, when I bought it last year I paid $125 for it.",
+          "start": 351.58,
+          "end": 356.9
+        },
+        {
+          "s": "MICHAEL",
+          "t": "But the one I've seen here in Sydney is a bit more expensive, it's $140.",
+          "q": [
+            7
+          ],
+          "start": 357.46,
+          "end": 362.46
+        },
+        {
+          "s": "JUDY",
+          "t": "Right, and what was the third item?",
+          "start": 363.18,
+          "end": 365.34
+        },
+        {
+          "s": "MICHAEL",
+          "t": "My dining room table.",
+          "start": 365.98,
+          "end": 367.18
+        },
+        {
+          "s": "MICHAEL",
+          "t": "It's a lovely table from Indonesia.",
+          "start": 367.74,
+          "end": 369.82
+        },
+        {
+          "s": "MICHAEL",
+          "t": "It must have been very hot inside the container because one leg has completely split down the middle.",
+          "q": [
+            8
+          ],
+          "start": 369.94,
+          "end": 376.06
+        },
+        {
+          "s": "MICHAEL",
+          "t": "The top and the other three look okay thank goodness.",
+          "start": 377.22,
+          "end": 380.1
+        },
+        {
+          "s": "JUDY",
+          "t": "Any idea of the price to repair it?",
+          "start": 380.34,
+          "end": 382.58
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Well, I had an estimate done on this actually because it is a very special table to us.",
+          "start": 382.62,
+          "end": 387.62
+        },
+        {
+          "s": "MICHAEL",
+          "t": "They quoted us $200, which is really pricey so I hope the insurance will cover the total cost.",
+          "start": 388.35,
+          "end": 394.91
+        },
+        {
+          "s": "JUDY",
+          "t": "I'm sure that will be fine.",
+          "start": 395.23,
+          "end": 396.55
+        },
+        {
+          "s": "JUDY",
+          "t": "What was the last item, Mr Alexander?",
+          "start": 397.43,
+          "end": 399.31
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Well, we have a lovely set of china plates and dishes, you know, with matching cups, saucers, the lot.",
+          "start": 400.02,
+          "end": 406.14
+        },
+        {
+          "s": "MICHAEL",
+          "t": "They were all in the one box which must have got dropped because some plates were broken — six actually.",
+          "q": [
+            9
+          ],
+          "start": 406.86,
+          "end": 413.02
+        },
+        {
+          "s": "JUDY",
+          "t": "And can you tell me the replacement value of these?",
+          "start": 413.52,
+          "end": 415.84
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Well, it's hard to say because they were part of a set but they can be up to $10 each as it's such a good set.",
+          "start": 416.12,
+          "end": 422.56
+        },
+        {
+          "s": "JUDY",
+          "t": "Okay, so that would be around $60 altogether?",
+          "q": [
+            10
+          ],
+          "start": 423.68,
+          "end": 425.96
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Yes, that's right.",
+          "start": 426.32,
+          "end": 427.2
+        },
+        {
+          "s": "JUDY",
+          "t": "And is that all of the items?",
+          "start": 427.82,
+          "end": 429.18
+        },
+        {
+          "s": "MICHAEL",
+          "t": "Yes.",
+          "start": 429.82,
+          "end": 429.94
+        },
+        {
+          "s": "MICHAEL",
+          "t": "So what do I have to do now?",
+          "start": 430.7,
+          "end": 432.58
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c8/t2p2.mp3",
+      "duration": 387,
+      "title": "SECTION 2",
+      "groups": [
+        {
+          "range": [
+            11,
+            11
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 11,
+              "text": "According to the speaker, the main purposes of the park are",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "education and entertainment."
+                },
+                {
+                  "k": "B",
+                  "text": "research and education."
+                },
+                {
+                  "k": "C",
+                  "text": "research and entertainment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            12,
+            14
+          ],
+          "type": "notes",
+          "instruction": "Label the plan below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Agricultural Park plan",
+          "lines": [
+            "The park entrance leads to the Reception Block, with the Rare Breeds Section and Grazing Area beyond it.",
+            "East of the Grazing Area is the {{12}} Area.",
+            "In the middle of the park, near the lake inside the Experimental Crops Area, are the {{13}}.",
+            "South of the Marsh, in the south-eastern corner, is the {{14}} Area."
+          ]
+        },
+        {
+          "range": [
+            15,
+            20
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 15,
+              "text": "When are the experimental areas closed to the public?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "all the year round"
+                },
+                {
+                  "k": "B",
+                  "text": "almost all the year"
+                },
+                {
+                  "k": "C",
+                  "text": "a short time every year"
+                }
+              ]
+            },
+            {
+              "n": 16,
+              "text": "How can you move around the park?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "by tram, walking or bicycle"
+                },
+                {
+                  "k": "B",
+                  "text": "by solar car or bicycle"
+                },
+                {
+                  "k": "C",
+                  "text": "by bicycle, walking or bus"
+                }
+              ]
+            },
+            {
+              "n": 17,
+              "text": "The rare breed animals kept in the park include",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "hens and horses."
+                },
+                {
+                  "k": "B",
+                  "text": "goats and cows."
+                },
+                {
+                  "k": "C",
+                  "text": "goats and hens."
+                }
+              ]
+            },
+            {
+              "n": 18,
+              "text": "What is the main purpose of having the Rare Breeds Section?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "to save unusual animals"
+                },
+                {
+                  "k": "B",
+                  "text": "to keep a variety of breeds"
+                },
+                {
+                  "k": "C",
+                  "text": "to educate the public"
+                }
+              ]
+            },
+            {
+              "n": 19,
+              "text": "What can you see in the park at the present time?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the arrival of wild birds"
+                },
+                {
+                  "k": "B",
+                  "text": "fruit tree blossom"
+                },
+                {
+                  "k": "C",
+                  "text": "a demonstration of fishing"
+                }
+              ]
+            },
+            {
+              "n": 20,
+              "text": "The shop contains books about",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "animals."
+                },
+                {
+                  "k": "B",
+                  "text": "local traditions."
+                },
+                {
+                  "k": "C",
+                  "text": "the history of the park."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Welcome to Green Vale Agricultural Park.",
+          "start": 40.2,
+          "end": 42.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As you know, we have only been open a week so you are amongst our first visitors.",
+          "start": 42.52,
+          "end": 47.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We have lots of fascinating indoor and outdoor exhibits on our huge complex, spreading hundreds of hectares.",
+          "start": 48.52,
+          "end": 54.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our remit is to give educational opportunities to the wider public as well as to offer research sites for a wide variety of agriculturists and other scientists.",
+          "q": [
+            11
+          ],
+          "start": 55.24,
+          "end": 65.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's start by seeing what there is to do.",
+          "start": 67.0,
+          "end": 69.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As you can see here on our giant wall plan, we are now situated in the Reception block . . here.",
+          "start": 70.64,
+          "end": 77.34
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As you walk out of the main door into the park there is a path you can follow.",
+          "start": 79.08,
+          "end": 82.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you follow this route you will immediately come into the Rare Breeds section, where we keep a wide variety of animals which I shall be telling you a little more about later.",
+          "start": 83.88,
+          "end": 93.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Next to this . . moving east. . is the large grazing area for the rare breeds.",
+          "start": 95.04,
+          "end": 100.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then further east . . . in the largest section of our Park is the Forest Area.",
+          "q": [
+            12
+          ],
+          "start": 101.16,
+          "end": 105.84
+        },
+        {
+          "s": "SPEAKER",
+          "t": "South of the grazing area and in fact just next to the Reception block is our Experimental Crop Area.",
+          "start": 107.0,
+          "end": 112.08
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the middle of the Park . . this circular area is our lake . ..",
+          "start": 113.55,
+          "end": 117.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These two small rectangular shapes here . . are the Fish Farms where we rear fish for sale.",
+          "start": 118.87,
+          "end": 125.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "To the east of those is the marsh area which attracts a great many migrant birds.",
+          "q": [
+            13
+          ],
+          "start": 126.78,
+          "end": 131.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the south-eastern corner, beyond the marsh, is our Market Garden area, growing vegetables and flowers.",
+          "q": [
+            14
+          ],
+          "start": 133.38,
+          "end": 139.89
+        },
+        {
+          "s": "SPEAKER",
+          "t": "All these areas can be visited by the general public for almost all the year... although . . please take note of the large signs at the entrance to each area which tell. . which tell you when certain areas are being used for particular controlled experiments and are therefore temporarily out of bounds to the public.",
+          "q": [
+            15
+          ],
+          "start": 196.85,
+          "end": 217.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You can see for yourself what a huge area the park covers and a key question is always, how can we move around?",
+          "start": 219.51,
+          "end": 227.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well you have a choice of means . . all environmentally friendly .. cars are banned in the park.",
+          "start": 227.55,
+          "end": 234.4
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We have bicycles which you can hire behind the Reception block... here . . the healthy ones of you can go on foot and finally there's our electric tram, powered from solar cells.",
+          "q": [
+            16
+          ],
+          "start": 234.72,
+          "end": 246.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You find more information about this at the front entrance.",
+          "start": 246.68,
+          "end": 248.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "A good place to start on your tour is the Rare Breeds section.",
+          "start": 250.38,
+          "end": 253.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We keep goats, sheep and hens and other kinds of poultry.",
+          "q": [
+            17
+          ],
+          "start": 253.98,
+          "end": 258.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We are also thinking of bringing in cows and horses but we do not, as yet, have facilities for these bigger animals.",
+          "start": 259.3,
+          "end": 264.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The animals are fed in public twice a day and a short lecture given on their feeding habits and nutritional needs.",
+          "start": 266.4,
+          "end": 273.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These are very popular with the public but of course we mustn't lose sight of the main purpose of having this section, not as such to preserve rare animals but to maintain the diversity of breeds to broaden the gene pool for agricultural development.",
+          "q": [
+            18
+          ],
+          "start": 274.04,
+          "end": 288.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Green Vale changes with the seasons ; with different events happening at different times of the year.",
+          "start": 290.99,
+          "end": 294.87
+        },
+        {
+          "s": "SPEAKER",
+          "t": "May will be perhaps our most spectacular month with the arrival of the Canada geese and when our fruit trees will be in full blossom, but there are interesting events on all year round . . for example John Havers, our expert fly fisherman, is currently giving displays on the lake.",
+          "start": 294.95,
+          "end": 313.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Each of the sections has its own seasonal calendar . . please consult the summary board at the main entrance.",
+          "q": [
+            19
+          ],
+          "start": 315.5,
+          "end": 321.14
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the final section, as we return to the Reception blocks, is the orchard.",
+          "start": 322.18,
+          "end": 326.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Do take time to browse round our shop. . there is a wide selection of books on wildlife, some of them written by local authors, and the history of farming, including organic farming, something which the park will be diversifying into in the coming months.",
+          "q": [
+            20
+          ],
+          "start": 327.15,
+          "end": 341.26
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c8/t2p3.mp3",
+      "duration": 407,
+      "title": "SECTION 3",
+      "groups": [
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Honey Bees in Australia",
+          "questions": [
+            {
+              "n": 21,
+              "text": "Where in Australia have Asian honey bees been found in the past?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Queensland"
+                },
+                {
+                  "k": "B",
+                  "text": "New South Wales"
+                },
+                {
+                  "k": "C",
+                  "text": "several states"
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "A problem with Asian honey bees is that they",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "attack native bees."
+                },
+                {
+                  "k": "B",
+                  "text": "carry parasites."
+                },
+                {
+                  "k": "C",
+                  "text": "damage crops."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "What point is made about Australian bees?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Their honey varies in quality."
+                },
+                {
+                  "k": "B",
+                  "text": "Their size stops them from pollinating some flowers."
+                },
+                {
+                  "k": "C",
+                  "text": "They are sold to customers abroad."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "Grant Freeman says that if Asian honey bees got into Australia,",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the country's economy would be affected."
+                },
+                {
+                  "k": "B",
+                  "text": "they could be used in the study of allergies."
+                },
+                {
+                  "k": "C",
+                  "text": "certain areas of agriculture would benefit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            30
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Looking for Asian honey bees",
+          "text": "Birds called Rainbow Bee Eaters eat only {{25}}, and cough up small bits of skeleton and other products in a pellet. Researchers go to the locations the bee eaters like to use for {{26}}. They collect the pellets and take them to a {{27}} for analysis. Here {{28}} is used to soften them, and the researchers look for the {{29}} of Asian bees in the pellets. The benefit of this research is that the result is more {{30}} than searching for live Asian bees."
+        }
+      ],
+      "transcript": [
+        {
+          "s": "PROFESSOR",
+          "t": "Good morning everyone.",
+          "start": 56.34,
+          "end": 57.26
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "In today's seminar, Grant Freeman, a biologist who specialises in identifying insects, and who works for the Australian Quarantine Service, has come to talk to us about his current research work.",
+          "start": 58.06,
+          "end": 69.34
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Right, well, over to you, Grant.",
+          "start": 69.9,
+          "end": 71.82
+        },
+        {
+          "s": "GRANT",
+          "t": "Good morning, everyone.",
+          "start": 71.94,
+          "end": 73.22
+        },
+        {
+          "s": "GRANT",
+          "t": "I'm sure that you know that the quarantine service regulates all food brought into Australia.",
+          "start": 73.62,
+          "end": 79.14
+        },
+        {
+          "s": "GRANT",
+          "t": "Well, obviously they want to protect Australia from diseases that might come in with imported goods, but they also want to prevent insect pests from being introduced into the country, and that's where I have a part to play.",
+          "start": 79.88,
+          "end": 93.16
+        },
+        {
+          "s": "GRANT",
+          "t": "Anyway, my current research involves trying to find a particular type of bee, the Asian Honey Bee, and finding out whether there are any of them around in various states of Australia.",
+          "start": 93.28,
+          "end": 105.93
+        },
+        {
+          "s": "GRANT",
+          "t": "We discovered a few of them in Queensland once and eradicated them.",
+          "q": [
+            21
+          ],
+          "start": 106.85,
+          "end": 110.69
+        },
+        {
+          "s": "GRANT",
+          "t": "Now, we're pretty keen to make sure that there aren't any more getting in, particularly to New South Wales and other states.",
+          "start": 111.27,
+          "end": 117.95
+        },
+        {
+          "s": "STUDENT 1",
+          "t": "What's wrong with Asian Honey Bees?",
+          "start": 118.27,
+          "end": 119.95
+        },
+        {
+          "s": "STUDENT 1",
+          "t": "Are they so different from Australian bees?",
+          "start": 121.07,
+          "end": 123.23
+        },
+        {
+          "s": "GRANT",
+          "t": "Well, in fact, they look almost the same, but they are infested with mites — microscopic creatures which live on them, and which can seriously damage our own home-grown bees, or could even wipe them out.",
+          "q": [
+            22
+          ],
+          "start": 124.13,
+          "end": 137.69
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Well, what would happen if Australian bees died out?",
+          "start": 138.33,
+          "end": 141.17
+        },
+        {
+          "s": "GRANT",
+          "t": "Well, the honey from Australian bees is of excellent quality, much better than the stuff the Asian bees produce.",
+          "start": 141.49,
+          "end": 148.29
+        },
+        {
+          "s": "GRANT",
+          "t": "In fact, Australia exports native Queen bees to a large number of countries because of this.",
+          "q": [
+            23
+          ],
+          "start": 148.94,
+          "end": 154.34
+        },
+        {
+          "s": "GRANT",
+          "t": "When the European Honey Bee was first discovered out in the bush, we found they made really unpleasant honey and they were also too big to pollinate many of our native flowers here in Australia.",
+          "start": 154.94,
+          "end": 167.05
+        },
+        {
+          "s": "STUDENT 2",
+          "t": "That must have had a devastating effect on the natural flora.",
+          "start": 167.73,
+          "end": 170.81
+        },
+        {
+          "s": "STUDENT 2",
+          "t": "Did you lose any species?",
+          "start": 171.77,
+          "end": 173.01
+        },
+        {
+          "s": "GRANT",
+          "t": "No, we managed to get them under control before that happened but if Asian bees got in there could be other consequences.",
+          "start": 173.77,
+          "end": 180.73
+        },
+        {
+          "s": "GRANT",
+          "t": "We could lose alot of money because you might not be aware, but it's estimated that native bees' pollination of flower and vegetable crops is worth 1.2 billion dollars a year.",
+          "q": [
+            24
+          ],
+          "start": 181.69,
+          "end": 193.05
+        },
+        {
+          "s": "GRANT",
+          "t": "So in a way they're the farmers' friend.",
+          "start": 193.76,
+          "end": 195.68
+        },
+        {
+          "s": "GRANT",
+          "t": "Oh, and another thing is, if you're stung by an Asian Honey Bee, it can produce an allergic reaction in some people; so they're much more dangerous than native bees.",
+          "start": 196.6,
+          "end": 205.32
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "How will you know if Asian bees have entered Australia?",
+          "start": 253.63,
+          "end": 256.35
+        },
+        {
+          "s": "GRANT",
+          "t": "We're looking at the diet of the bird called the Rainbow Bee Eater.",
+          "start": 256.91,
+          "end": 260.67
+        },
+        {
+          "s": "GRANT",
+          "t": "The Bee Eater doesn't care what it eats, as long as they're insects.",
+          "start": 261.31,
+          "end": 264.95
+        },
+        {
+          "s": "GRANT",
+          "t": "But the interesting thing about this bird is that we are able to analyse exactly what it eats and that's really helpful if we're looking for introduced insects.",
+          "q": [
+            25
+          ],
+          "start": 265.7,
+          "end": 274.1
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "How come?",
+          "start": 274.42,
+          "end": 275.06
+        },
+        {
+          "s": "GRANT",
+          "t": "Because insects have their skeletons outside their bodies, so the Bee Eaters digest the meat from the inside.",
+          "start": 275.66,
+          "end": 282.06
+        },
+        {
+          "s": "GRANT",
+          "t": "Then they bring up all the indigestible bits of skeleton and, of course, the wings in a pellet - a small ball of waste material which they cough up.",
+          "start": 282.94,
+          "end": 292.58
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "That sounds a bit unpleasant.",
+          "start": 292.98,
+          "end": 293.98
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "So, how do you go about it?",
+          "start": 294.66,
+          "end": 296.02
+        },
+        {
+          "s": "GRANT",
+          "t": "In the field we track down the Bee Eaters and find their favourite feeding spots, you know, the places where the birds usually feed.",
+          "q": [
+            26
+          ],
+          "start": 296.64,
+          "end": 303.4
+        },
+        {
+          "s": "GRANT",
+          "t": "It's here that we can find the pellets.",
+          "start": 304.24,
+          "end": 306.2
+        },
+        {
+          "s": "GRANT",
+          "t": "We collect them up and take them back to the laboratory to examine the contents.",
+          "q": [
+            27
+          ],
+          "start": 307.21,
+          "end": 311.09
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "How do you do that?",
+          "start": 311.81,
+          "end": 312.57
+        },
+        {
+          "s": "GRANT",
+          "t": "The pellets are really hard, especially if they have been out in the sun for a few days so, first of all, we treat them by adding water to moisten them and make them softer.",
+          "q": [
+            28
+          ],
+          "start": 313.33,
+          "end": 323.92
+        },
+        {
+          "s": "GRANT",
+          "t": "Then we pull them apart under the microscope.",
+          "start": 324.6,
+          "end": 327.16
+        },
+        {
+          "s": "GRANT",
+          "t": "Everything's all scrunched up but we're looking for wings so we just pull them all out and straighten them. Then we identify them to see if we can find any Asian bee wings.",
+          "q": [
+            29
+          ],
+          "start": 327.28,
+          "end": 338.14
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "And how many have you found?",
+          "start": 338.14,
+          "end": 339.78
+        },
+        {
+          "s": "GRANT",
+          "t": "So far our research shows that Asian bees have not entered Australia in any number — it's a good result and much more reliable than trying to find live ones as evidence of introduced insects.",
+          "q": [
+            30
+          ],
+          "start": 340.06,
+          "end": 351.67
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Well, that's fascinating!",
+          "start": 352.39,
+          "end": 353.59
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "Thank you, Grant, for those insights.",
+          "start": 354.07,
+          "end": 355.55
+        },
+        {
+          "s": "PROFESSOR",
+          "t": "I hope that you might inspire some of our students here to conduct some similar experiments.",
+          "start": 356.14,
+          "end": 360.7
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c8/t2p4.mp3",
+      "duration": 0,
+      "title": "SECTION 4",
+      "groups": [
+        {
+          "range": [
+            31,
+            36
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 31,
+              "text": "In order to set up her research programme, Shona got",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "advice from personal friends in other countries."
+                },
+                {
+                  "k": "B",
+                  "text": "help from students in other countries."
+                },
+                {
+                  "k": "C",
+                  "text": "information from her tutor's contacts in other countries."
+                }
+              ]
+            },
+            {
+              "n": 32,
+              "text": "What types of people were included in the research?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "young people in their first job"
+                },
+                {
+                  "k": "B",
+                  "text": "men who were working"
+                },
+                {
+                  "k": "C",
+                  "text": "women who were unemployed"
+                }
+              ]
+            },
+            {
+              "n": 33,
+              "text": "Shona says that in her questionnaire her aim was",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "to get a wide range of data."
+                },
+                {
+                  "k": "B",
+                  "text": "to limit people's responses."
+                },
+                {
+                  "k": "C",
+                  "text": "to guide people through interviews."
+                }
+              ]
+            },
+            {
+              "n": 34,
+              "text": "What do Shona's initial results show about medical services in Britain?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Current concerns are misrepresented by the press."
+                },
+                {
+                  "k": "B",
+                  "text": "Financial issues are critical to the government."
+                },
+                {
+                  "k": "C",
+                  "text": "Reforms within hospitals have been unsuccessful."
+                }
+              ]
+            },
+            {
+              "n": 35,
+              "text": "Shona needs to do further research in order to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "present the government with her findings."
+                },
+                {
+                  "k": "B",
+                  "text": "decide the level of extra funding needed."
+                },
+                {
+                  "k": "C",
+                  "text": "identify the preferences of the public."
+                }
+              ]
+            },
+            {
+              "n": 36,
+              "text": "Shona has learnt from the research project that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "it is important to plan projects carefully."
+                },
+                {
+                  "k": "B",
+                  "text": "people do not like answering questions."
+                },
+                {
+                  "k": "C",
+                  "text": "colleagues do not always agree."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            37,
+            40
+          ],
+          "type": "matching",
+          "instruction": "Which statement applies to each of the following people who were interviewed by Shona? Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 37-40.",
+          "optionsTitle": "Statements",
+          "options": [
+            {
+              "k": "A",
+              "text": "gave false data"
+            },
+            {
+              "k": "B",
+              "text": "decided to stop participating"
+            },
+            {
+              "k": "C",
+              "text": "refused to tell Shona about their job"
+            },
+            {
+              "k": "D",
+              "text": "kept changing their mind about participating"
+            },
+            {
+              "k": "E",
+              "text": "became very angry with Shona"
+            },
+            {
+              "k": "F",
+              "text": "was worried about confidentiality"
+            }
+          ],
+          "itemsTitle": "People interviewed by Shona",
+          "items": [
+            {
+              "n": 37,
+              "text": "a person interviewed in the street"
+            },
+            {
+              "n": 38,
+              "text": "an undergraduate at the university"
+            },
+            {
+              "n": 39,
+              "text": "a colleague in her department"
+            },
+            {
+              "n": 40,
+              "text": "a tutor in a foreign university"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "I've been doing some research into what people in Britain think of doctors, the ones who work in general practice — the first call for medical care — and comparing this with the situation in a couple of other countries."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I want to talk about the rationale behind what I decided to do."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now I had to set up my programme of research in three different countries so I approached postgraduates in my field in overseas departments, contacting them by email, to organise things for me at their end.",
+          "q": [
+            31
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I thought I would have trouble recruiting help but in fact everyone was very willing and sometimes their tutors got involved too."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I had to give my helpers clear instructions about what kind of sample population I wanted them to use."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I decided that people under 18 should be excluded because most of them are students or looking for their first job, and also I decided at this stage just to focus on men who were in employment, and set up something for people who didn't have jobs and for employed women later on as a separate investigation.",
+          "q": [
+            32
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I specifically wanted to do a questionnaire, and interviews with a focus group."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "With the questionnaire, rather than limiting it to one specific point, I wanted to include as much variety as possible.",
+          "q": [
+            33
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I know questionnaires are a very controlled way to do things but I thought I could do taped interviews later on to counteract the effects of this."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And the focus group may also prove useful in future, by targeting subjects I can easily return to, as the participants tend to be more involved."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So I'm just collating the results now."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "At the moment it looks as if, in the UK, despite the fact that newspapers continually report that people are unhappy with medical care, in fact it is mainly the third level of care, which takes place in hospitals, that they are worried about.",
+          "q": [
+            34
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Government reforms have been proposed at all levels and although their success is not guaranteed, long-term hospital care is in fact probably less of an issue than the media would have us believe."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "However, I've still got quite a bit of data to look at."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Certainly I will need to do more far-reaching research than I had anticipated in order to establish if people want extra medical staff invested in the community, or if they want care to revert to fewer, but larger, key medical units.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The solution may well be something that can be easily implemented by those responsible in local government, with central government support of course.",
+          "q": [
+            35
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This first stage has proved very valuable though."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I was surprised by how willing most of the subjects were to get involved in the project — I had expected some unwillingness to answer questions honestly."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But I was taken aback and rather concerned that something I thought I'd set up very well didn't necessarily seem that way to everyone in my own department.",
+          "q": [
+            36
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I thought you might also be interested in some of the problems I encountered in collecting my data."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There were odd cases that threw me — one of the subjects who I had approached while he was out shopping in town, decided to pull out when it came to the second round."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It was a shame as it was someone who I would like to have interviewed more closely.",
+          "q": [
+            37
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And one of the first-year students I interviewed wanted reassurance that no names would be traceable from the answers.",
+          "q": [
+            38
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I was so surprised, because they think nothing of telling you about themselves and their opinions in seminar groups!"
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then, one of the people that I work with got a bit funny."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The questions were quite personal and one minute he said he'd do it, then the next day he wouldn't, and in the end he did do it.",
+          "q": [
+            39
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's hard not to get angry in that situation but I tried to keep focused on the overall picture in order to stay calm."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "The most bizarre case was a telephone interview I did with a teacher at a university in France."
+        },
+        {
+          "s": "SPEAKER",
+          "t": "He answered all my questions in great detail — but then when I asked how much access he had to dangerous substances he wouldn't tell me exactly what his work involved.",
+          "q": [
+            40
+          ]
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It's a real eye-opener..."
+        }
+      ]
+    }
+  ]
+}
