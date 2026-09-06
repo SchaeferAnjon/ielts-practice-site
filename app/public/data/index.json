@@ -746,7 +746,11 @@
    "bookNo": 11,
    "test": 3,
    "type": "A",
-   "modules": [],
+   "modules": [
+    "listening",
+    "reading",
+    "writing"
+   ],
    "audioParts": [
     1,
     2,

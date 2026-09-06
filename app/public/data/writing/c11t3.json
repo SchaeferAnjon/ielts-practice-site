@@ -1,0 +1,85 @@
+{
+  "id": "c11t3",
+  "book": "剑桥雅思11",
+  "test": 3,
+  "title": "剑11 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "line-graph",
+      "kindZh": "曲线图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The graph below shows average carbon dioxide (CO2) emissions per person in the United Kingdom, Sweden, Italy and Portugal between 1967 and 2007.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c11t3-task1.webp",
+      "imageCaption": "Average carbon dioxide (CO2) emissions per person, 1967-2007",
+      "data": {
+        "unit": "CO2 emissions in metric tonnes",
+        "years": [
+          1967,
+          1977,
+          1987,
+          1997,
+          2007
+        ],
+        "series": {
+          "United Kingdom": [
+            10.8,
+            10.7,
+            10.1,
+            9.5,
+            8.7
+          ],
+          "Sweden": [
+            8.6,
+            10.2,
+            7.0,
+            6.2,
+            5.4
+          ],
+          "Italy": [
+            4.2,
+            6.3,
+            6.7,
+            7.6,
+            7.6
+          ],
+          "Portugal": [
+            1.2,
+            2.1,
+            3.0,
+            5.3,
+            5.5
+          ]
+        }
+      },
+      "sample": {
+        "band": 6,
+        "text": "The graph shows the changes in the emission of carbon dioxide in 4 European countries in the period from 1967 to 2007.\n\nThe production of carbon dioxide in Portugal and Italy was steadily increasing during that period. In 1967 emission of carbon dioxide in Portugal was approximately 1.3 metric tonnes and in 2007 the emission there achieved 5.4. In Italy in the beginning of the period was a bit higher than 4. However, it increased only till 7.8 by 2007.\n\nThe emission of carbon dioxide in United Kingdom and Sweden was under decrease during that period of time. The emission of carbon dioxide in United Kingdom in 1967 was the highest one among all these 4 countries (about 11). But after 1967, it gradually decreased to about 9 metric tones. The emission in Sweden was around 8.6 metric tones in the beginning, then it steadily increased till 10.5 metric tones. However, in 1977 it got tremendous deacrease in the emission of carbon dioxide which underwent till 2007. In 2007 the emission in Sweden was at the same level with Portugal - around 5.4-5.6.\n\nThe changes in emission of carbon dioxide can be connected with the changes in economical development and appearance of some new technologies which reduce emissions.",
+        "comment": "The candidate has reported all the data in the graph and provides summaries of the main trends (The production of carbon dioxide in Portugal and Italy was steadily increasing during that period, The emission of carbon dioxide in United Kingdom and Sweden was under decrease during that period of time). There are attempts at comparison (The emission of carbon dioxide in United Kingdom in 1967 was the highest one among all these 4 countries, In 2007 the emission in Sweden was at the same level with Portugal), but there is some irrelevant material in the final paragraph.\n\nThere is a clear overall progression, with some use of cohesive devices (However, in the beginning). The range of lexis is adequate and appropriate for the task (production of carbon dioxide, a bit higher, increased, decreased) and although there are some errors in word choice (was under decrease, underwent/continued) and spelling (tones/tonnes, deacrease), these do not prevent the message from coming across. There are some attempts to produce complex sentence forms, with good control over grammatical accuracy."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people say that the only reason for learning a foreign language is in order to travel to or work in a foreign country. Others say that these are not the only reasons why someone should learn a foreign language.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your knowledge or experience.",
+        "Write at least 250 words."
+      ],
+      "sample": {
+        "band": 7,
+        "text": "Many may say, and I agree, that today's society has almost erased all its boarders and soon will become limitless in what concerns travelling for both work and pleasure. Therefore, if this is to happen, then learning a new language is necessary.\n\nNowadays, learning a new language for the purpose of working in other countries seems to become more and more popular. Adults in need of money or, why not, recognision are trying to pursue their happiness far away from home. Also, the hey days of employers looking only for capable people have gone. It seems that today's employers are looking not only for multi-skilled employees, but they also want people who know more than their mother tongue. Sooner or later, those who omitted learning more are prone to become jobless.\n\nHowever, to my mind, a new language shouldn't be learned just for travelling or working in a foreign country. A foreign language should help the learner broaden his mind. By this I mean that the new language should and will allow us to understand more about the world itself, and maybe our ancestors' ways of thinking and acting. Needless to say, knowing another language will help us when it comes to understanding the human race, because language is the first poem of a country.\n\nAll of this being said, I believe that learning a different language should be not only for satisfying our physical needs, like money, but also our moral needs, because never before had such a big thirst for knowledge been displayed.",
+        "comment": "All parts of the prompt are addressed and a clear position is presented throughout the response. Main ideas are extended and supported. Ideas are logically organised and there is a clear progression throughout the response. A range of cohesive devices is used flexibly, while each paragraph has a clear central topic which is developed.\n\nThe lexical resource is sufficient to allow some flexibility and precision and although there are a few spelling errors, these do not detract from the overall clarity of the response. A variety of complex structures is used with some flexibility and accuracy. Grammar and punctuation are well controlled and error-free sentences are frequent."
+      }
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "id": "c11t3",
+  "book": "剑桥雅思11",
+  "test": 3,
+  "title": "剑11 Test 3 · Reading",
+  "minutes": 60,
+  "answers": {
+    "1": [
+      "tea"
+    ],
+    "2": [
+      "reel"
+    ],
+    "3": [
+      "women"
+    ],
+    "4": [
+      "royalty"
+    ],
+    "5": [
+      "currency"
+    ],
+    "6": [
+      "paper"
+    ],
+    "7": [
+      "wool"
+    ],
+    "8": [
+      "monks"
+    ],
+    "9": [
+      "nylon"
+    ],
+    "10": [
+      "FALSE"
+    ],
+    "11": [
+      "TRUE"
+    ],
+    "12": [
+      "FALSE"
+    ],
+    "13": [
+      "NOT GIVEN"
+    ],
+    "14": [
+      "FALSE"
+    ],
+    "15": [
+      "TRUE"
+    ],
+    "16": [
+      "NOT GIVEN"
+    ],
+    "17": [
+      "TRUE"
+    ],
+    "18": [
+      "FALSE"
+    ],
+    "19": [
+      "G"
+    ],
+    "20": [
+      "C"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "E"
+    ],
+    "23": [
+      "speed"
+    ],
+    "24": [
+      "plains"
+    ],
+    "25": [
+      "bottlenecks"
+    ],
+    "26": [
+      "corridor",
+      "passageway"
+    ],
+    "27": [
+      "D"
+    ],
+    "28": [
+      "B"
+    ],
+    "29": [
+      "G"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "B"
+    ],
+    "32": [
+      "E"
+    ],
+    "33": [
+      "A"
+    ],
+    "34": [
+      "F"
+    ],
+    "35": [
+      "beginner"
+    ],
+    "36": [
+      "arithmetic"
+    ],
+    "37": [
+      "intuitive"
+    ],
+    "38": [
+      "scientists"
+    ],
+    "39": [
+      "experiments"
+    ],
+    "40": [
+      "theorems"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "key": "one of the cocoons that she had collected landed in the hot tea and started to unravel into a fine thread",
+      "why": "题干 fell into emperor's wife's ___ = 原文 landed in the hot tea，填 tea。"
+    },
+    "2": {
+      "loc": "p1",
+      "key": "She also devised a special reel to draw the fibres from the cocoon into a single thread",
+      "why": "题干 invented a ___ to pull out silk fibres = 原文 devised a special reel to draw the fibres，填 reel。"
+    },
+    "3": {
+      "loc": "p2",
+      "key": "silkworm farming was solely restricted to women",
+      "why": "题干 Only ___ were allowed to produce silk = 原文 solely restricted to women。"
+    },
+    "4": {
+      "loc": "p2",
+      "key": "only royalty were entitled to have clothes made of silk",
+      "why": "题干 Only ___ were allowed to wear silk = 原文 only royalty were entitled to have clothes made of silk。"
+    },
+    "5": {
+      "loc": "p2",
+      "key": "silk was so prized that it was also used as a unit of currency",
+      "why": "题干 Silk used as a form of ___ = 原文 used as a unit of currency，填 currency。"
+    },
+    "6": {
+      "loc": "p2",
+      "key": "The earliest indication of silk paper being used was discovered in the tomb of a noble … died around 168AD",
+      "why": "题干 evidence found of ___ made from silk around 168 AD = 原文 silk paper … around 168AD，填 paper。"
+    },
+    "7": {
+      "loc": "p3",
+      "key": "taking silk westward and bringing gold, silver and wool to the East",
+      "why": "题干 bring back ___ and precious metals = 原文 gold、silver 是 precious metals，另一项是 wool。"
+    },
+    "8": {
+      "loc": "p4",
+      "key": "monks working for the Byzantine emperor Justinian smuggled silkworm eggs to Constantinople",
+      "why": "题干 550AD: ___ hide silkworm eggs in canes = 原文 monks smuggled silkworm eggs …concealed inside hollow bamboo walking canes。"
+    },
+    "9": {
+      "loc": "p5",
+      "key": "new manmade fibres, such as nylon, started to be used in what had traditionally been silk products",
+      "why": "题干 20th century: ___ and other manmade fibres = 原文举例 nylon。"
+    },
+    "10": {
+      "loc": "p3",
+      "key": "named the Silk Road after its most precious commodity, which was considered to be worth more than gold",
+      "why": "原文说被视为比黄金更值钱的是丝绸本身（这条路因此得名），题干说黄金最值钱，与原文矛盾 → FALSE。"
+    },
+    "11": {
+      "loc": "p3",
+      "key": "Few merchants travelled the entire route; goods were handled mostly by a series of middlemen",
+      "why": "题干 only went along certain sections = 原文 few travelled the entire route，靠中间商接力 → TRUE。"
+    },
+    "12": {
+      "loc": "p4",
+      "key": "The Byzantines were as secretive as the Chinese … Then in the seventh century, the Arabs conquered Persia … Silk production thus spread through Africa, Sicily and Spain",
+      "why": "原文说拜占庭人和中国人一样保密，真正把丝绸生产传播到西方的是阿拉伯人，题干说是拜占庭人 → FALSE。"
+    },
+    "13": {
+      "loc": "p5",
+      "key": "around 125,000 metric tons of silk are produced in the world, and almost two thirds of that production takes place in China",
+      "why": "原文只说中国产量占世界三分之二，没有说丝线（silk yarn）占中国现今出口的比例 → NOT GIVEN。"
+    },
+    "14": {
+      "loc": "p2",
+      "key": "local gulls will dive voraciously for such handouts, the tern flies on",
+      "why": "原文说海鸥会为食物俯冲，燕鸥却不理会径直飞走，行为不同，与题干「行为相同」矛盾 → FALSE。"
+    },
+    "15": {
+      "loc": "p4",
+      "key": "Joel Berger … prefers what he calls a simple, practical definition suited to his beasts' movements",
+      "why": "题干 vary according to their area of study = 不同学者按自己研究的动物给出不同定义（Berger 研究哺乳动物，Dingle 研究昆虫）→ TRUE。"
+    },
+    "16": {
+      "loc": "p5",
+      "key": "So can the movement of aphids … be considered migration",
+      "why": "原文只是说蚜虫的移动也可被视为迁徙，并未提及有多少专家认同或反对 → NOT GIVEN。"
+    },
+    "17": {
+      "loc": "p6",
+      "key": "aphids will become sensitive to blue light … and sensitive to yellow light … when it's appropriate to land",
+      "why": "题干 affected by changes in the light = 原文蚜虫对蓝光、黄光敏感，据此起飞和降落 → TRUE。"
+    },
+    "18": {
+      "loc": "p6",
+      "key": "helps guide researchers towards understanding how evolution has produced them all",
+      "why": "Dingle 的定义目的是找出不同物种迁徙行为的共性以理解演化，而非区分不同物种的迁徙行为，与题干矛盾 → FALSE。"
+    },
+    "19": {
+      "loc": "p1",
+      "key": "they tend to be linear, not zigzaggy",
+      "why": "题干 migratory routes are likely to = 原文 tend to be linear（不是曲折的）= follow a straight line → G。"
+    },
+    "20": {
+      "loc": "p6",
+      "key": "Birds will fatten themselves with heavy feeding in advance of a long migrational flight",
+      "why": "题干 prepare for migration = 原文迁徙前大量进食增肥 = eat more than they need → C。"
+    },
+    "21": {
+      "loc": "p1",
+      "key": "undeterred by challenges that would turn other animals aside",
+      "why": "题干 unlikely to = 原文 undeterred by challenges（不会因困难而放弃）→ be discouraged by difficulties，A。"
+    },
+    "22": {
+      "loc": "p2",
+      "key": "The arctic tern resists distraction because it is driven … by an instinctive sense of … larger purpose",
+      "why": "题干 ability to = 原文燕鸥能抵抗诱惑、不受干扰 = ignore distractions，E。"
+    },
+    "23": {
+      "loc": "p7",
+      "key": "Pronghorn, dependent on distance vision and speed to keep safe from predators",
+      "why": "题干 rely on their eyesight and ___ = 原文 distance vision and speed，填 speed。"
+    },
+    "24": {
+      "loc": "p7",
+      "key": "follows a narrow route from its summer range in the mountains … and down onto the plains",
+      "why": "题干 winter home is on the ___ = 原文 down onto the plains，填 plains。"
+    },
+    "25": {
+      "loc": "p7",
+      "key": "the severity of its constriction at three bottlenecks",
+      "why": "题干 route contains three ___ = 原文 three bottlenecks，填 bottlenecks。"
+    },
+    "26": {
+      "loc": "p7",
+      "key": "leaving a corridor of open ground only about 150 metres wide, filled with private homes",
+      "why": "题干 a narrow ___ of land = 原文 a corridor of open ground，填 corridor（也写作 passageway）。"
+    },
+    "27": {
+      "loc": "D",
+      "key": "Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics",
+      "why": "D 段说其他科普书因为读者不懂数学而不得不省略数学内容，对应「假设读者缺乏数学知识」。"
+    },
+    "28": {
+      "loc": "B",
+      "key": "this book differs from most books on mathematics written for the general public. Some present the lives of colorful mathematicians. Others describe … Yet others go into mathematical procedures",
+      "why": "B 段说明本书与其他数学科普书的不同之处，对应「这不是一本典型的数学书」。"
+    },
+    "29": {
+      "loc": "G",
+      "key": "A physician wrote … A lawyer made the same point",
+      "why": "G 段引用医生和律师的亲身经历，说明数学如何帮助了他们，对应「个人受数学帮助的例子」。"
+    },
+    "30": {
+      "loc": "C",
+      "key": "a structural engineer who is an artist, an electrical engineer who is an opera singer … a mathematician who publishes short stories",
+      "why": "C 段列举几个人各自具备看似不相容的能力（工程师兼艺术家等），对应题干。"
+    },
+    "31": {
+      "loc": "B",
+      "key": "Some present the lives of colorful mathematicians. Others describe important applications of mathematics. Yet others go into mathematical procedures",
+      "why": "B 段列举了几类数学科普书不同的侧重点，对应「书籍的不同关注点」。"
+    },
+    "32": {
+      "loc": "E",
+      "key": "You will turn these pages much more slowly than when reading a novel or a newspaper",
+      "why": "E 段把读本书和读小说/报纸作对比，对应「读本书与读其他出版物的对比」。"
+    },
+    "33": {
+      "loc": "A",
+      "key": "Anyone can understand every step in the reasoning",
+      "why": "A 段声称任何人都能理解书中每一步推理，对应「整本书人人都能读懂」。"
+    },
+    "34": {
+      "loc": "F",
+      "key": "I kept in mind two types of readers: those who enjoyed mathematics until they were turned off … and mathematics aficionados",
+      "why": "F 段提到作者写作时设想的两类不同读者，对应「本书目标读者的不同类别」。"
+    },
+    "35": {
+      "loc": "A",
+      "key": "there are beautiful, but easy parts - parts so simple a beginner could play them",
+      "why": "题干 suitable for someone who is a ___ = 原文用音乐类比，简单到初学者也能弹，填 beginner。"
+    },
+    "36": {
+      "loc": "A",
+      "key": "not even on algebra, geometry, or trigonometry. Instead they may involve, at most, a little arithmetic",
+      "why": "题干 no more than a limited knowledge of ___ = 原文只需要一点算术，填 arithmetic。"
+    },
+    "37": {
+      "loc": "C",
+      "key": "the right brain (intuitive) and the left brain (analytical, numerical) … intuition plays a significant role",
+      "why": "题干 requires ___ thinking, as well as analytical skills = 原文强调直觉（intuitive）思维也很重要，填 intuitive。"
+    },
+    "38": {
+      "loc": "D",
+      "key": "Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics",
+      "why": "题干 books written by ___ = 原文 other scientists，填 scientists。"
+    },
+    "39": {
+      "loc": "E",
+      "key": "It may help to have a pencil and paper ready to check claims and carry out experiments",
+      "why": "题干 advises readers to perform ___ while reading = 原文建议边读边做实验，填 experiments。"
+    },
+    "40": {
+      "loc": "G",
+      "key": "through the study of mathematics, and, in particular, theorems, how to analyze complicated principles",
+      "why": "题干 studying ___ helped even more than other areas of mathematics = 原文律师特别提到 theorems，填 theorems。"
+    }
+  },
+  "passages": [
+    {
+      "n": 1,
+      "title": "The Story of Silk",
+      "subtitle": "The history of the world's most luxurious fabric, from ancient China to the present day",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Silk is a fine, smooth material produced from the cocoons - soft protective shells that are made by mulberry silkworm (insect larvae). Legend has it that it was Lei Tzu, wife of the Yellow Emperor, ruler of China in about 3000 BC, who discovered silkworms. One account of the story goes that as she was taking a walk in her husband's gardens, she discovered that silkworms were responsible for the destruction of several mulberry trees. She collected a number of cocoons and sat down to have a rest. It just so happened that while she was sipping some tea, one of the cocoons that she had collected landed in the hot tea and started to unravel into a fine thread. Lei Tzu found that she could wind this thread around her fingers. Subsequently, she persuaded her husband to allow her to rear silkworms on a grove of mulberry trees. She also devised a special reel to draw the fibres from the cocoon into a single thread so that they would be strong enough to be woven into fabric. While it is unknown just how much of this is true, it is certainly known that silk cultivation has existed in China for several millennia."
+        },
+        {
+          "id": "p2",
+          "text": "Originally, silkworm farming was solely restricted to women, and it was they who were responsible for the growing, harvesting and weaving. Silk quickly grew into a symbol of status, and originally, only royalty were entitled to have clothes made of silk. The rules were gradually relaxed over the years until finally during the Qing Dynasty (1644-1911 AD), even peasants, the lowest caste, were also entitled to wear silk. Sometime during the Han Dynasty (206 BC-220 AD), silk was so prized that it was also used as a unit of currency. Government officials were paid their salary in silk, and farmers paid their taxes in grain and silk. Silk was also used as diplomatic gifts by the emperor. Fishing lines, bowstrings, musical instruments and paper were all made using silk. The earliest indication of silk paper being used was discovered in the tomb of a noble who is estimated to have died around 168AD."
+        },
+        {
+          "id": "p3",
+          "text": "Demand for this exotic fabric eventually created the lucrative trade route now known as the Silk Road, taking silk westward and bringing gold, silver and wool to the East. It was named the Silk Road after its most precious commodity, which was considered to be worth more than gold. The Silk Road stretched over 6,000 kilometres from Eastern China to the Mediterranean Sea, following the Great Wall of China, climbing the Pamir mountain range, crossing modern-day Afghanistan and going on to the Middle East, with a major trading market in Damascus. From there, the merchandise was shipped across the Mediterranean Sea. Few merchants travelled the entire route; goods were handled mostly by a series of middlemen."
+        },
+        {
+          "id": "p4",
+          "text": "With the mulberry silkworm being native to China, the country was the world's sole producer of silk for many hundreds of years. The secret of silk-making eventually reached the rest of the world via the Byzantine Empire, which ruled over the Mediterranean region of southern Europe, North Africa and the Middle East during the period 330-1453 AD. According to another legend, monks working for the Byzantine emperor Justinian smuggled silkworm eggs to Constantinople (Istanbul in modern-day Turkey) in 550 AD, concealed inside hollow bamboo walking canes. The Byzantines were as secretive as the Chinese, however, and for many centuries the weaving and trading of silk fabric was a strict imperial monopoly. Then in the seventh century, the Arabs conquered Persia, capturing their magnificent silks in the process. Silk production thus spread through Africa, Sicily and Spain as the Arabs swept through these lands. Andalusia in southern Spain was Europe's main silk-producing centre in the tenth century. By the thirteenth century, however, Italy had become Europe's leader in silk production and export. Venetian merchants traded extensively in silk and encouraged silk growers to settle in Italy. Even now, silk processed in the province of Como in northern Italy enjoys an esteemed reputation."
+        },
+        {
+          "id": "p5",
+          "text": "The nineteenth century and industrialisation saw the downfall of the European silk industry. Cheaper Japanese silk, trade in which was greatly facilitated by the opening of the Suez Canal, was one of the many factors driving the trend. Then in the twentieth century, new manmade fibres, such as nylon, started to be used in what had traditionally been silk products, such as stockings and parachutes. The two world wars, which interrupted the supply of raw material from Japan, also stifled the European silk industry. After the Second World War, Japan's silk production was restored, with improved production and quality of raw silk. Japan was to remain the world's biggest producer of raw silk, and practically the only major exporter of raw silk, until the 1970s. However, in more recent decades, China has gradually recaptured its position as the world's biggest producer and exporter of raw silk and silk yarn. Today, around 125,000 metric tons of silk are produced in the world, and almost two thirds of that production takes place in China."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            9
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "THE STORY OF SILK",
+          "lines": [
+            "## Early silk production in China",
+            "Around 3000 BC, according to legend:",
+            "silkworm cocoon fell into emperor's wife's {{1}}",
+            "emperor's wife invented a {{2}} to pull out silk fibres",
+            "Only {{3}} were allowed to produce silk",
+            "Only {{4}} were allowed to wear silk",
+            "Silk used as a form of {{5}}",
+            "e.g. farmers' taxes consisted partly of silk",
+            "Silk used for many purposes",
+            "e.g. evidence found of {{6}} made from silk around 168 AD",
+            "## Silk reaches rest of world",
+            "Merchants use Silk Road to take silk westward and bring back {{7}} and precious metals",
+            "550AD: {{8}} hide silkworm eggs in canes and take them to Constantinople",
+            "Silk production spreads across Middle East and Europe",
+            "20th century: {{9}} and other manmade fibres cause decline in silk production"
+          ]
+        },
+        {
+          "range": [
+            10,
+            13
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 10,
+              "text": "Gold was the most valuable material transported along the Silk Road."
+            },
+            {
+              "n": 11,
+              "text": "Most tradesmen only went along certain sections of the Silk Road."
+            },
+            {
+              "n": 12,
+              "text": "The Byzantines spread the practice of silk production across the West."
+            },
+            {
+              "n": 13,
+              "text": "Silk yarn makes up the majority of silk currently exported from China."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Great Migrations",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Animal migration, however it is defined, is far more than just the movement of animals. It can loosely be described as travel that takes place at regular intervals - often in an annual cycle - that may involve many members of a species, and is rewarded only after a long journey. It suggests inherited instinct. The biologist Hugh Dingle has identified five characteristics that apply, in varying degrees and combination, to all migrations. They are prolonged movements that carry animals outside familiar habitats; they tend to be linear, not zigzaggy; they involve special behaviours concerning Preparation (such as overfeeding) and arrival; they demand special allocations of energy. And one more migrating animals maintain an intense attentiveness to the greater mission, which keeps them undistracted by temptations and undeterred by challenges that would turn other animals aside."
+        },
+        {
+          "id": "p2",
+          "text": "An arctic tern, on its 20,000 km flight from the extreme south of South America to the Arctic circle, will take no notice of a nice smelly herring offered from a bird-watcher's boat along the way. While local gulls will dive voraciously for such handouts, the tern flies on. Why? The arctic tern resists distraction because it is driven at that moment by an instinctive sense of something we humans find admirable: larger purpose. In other words, it is determined to reach its destination. The bird senses that it can eat, rest and mate later. Right now it is totally focused on the journey; its undivided intent is arrival."
+        },
+        {
+          "id": "p3",
+          "text": "Reaching some gravelly coastline in the Arctic, upon which other arctic terns have converged, will serve its larger purpose as shaped by evolution: finding a place, a time, and a set of circumstances in which it can successfully hatch and rear offspring."
+        },
+        {
+          "id": "p4",
+          "text": "But migration is a complex issue, and biologists define it differently, depending in part on what sorts of animals they study. Joel Berger, of the University of Montana, who works on the American pronghorn and other large terrestrial mammals, prefers what he calls a simple, practical definition suited to his beasts' movements from a seasonal home area away to another home area and back again. Generally the reason for such seasonal back-and-forth movement is to seek resources that aren't available within a single area year-round."
+        },
+        {
+          "id": "p5",
+          "text": "But daily vertical movements by zooplankton in the ocean - upward by night to seek food, downward by day to escape predators - can also be considered migration. So can the movement of aphids when, having depleted the young leaves on one food plant, their offspring then fly onward to a different host plant, with no one aphid ever returning to where it started."
+        },
+        {
+          "id": "p6",
+          "text": "Dingle is an evolutionary biologist who studies insects. His definition is more intricate than Berger's, citing those five features that distinguish migration from other forms of movement. They allow for the fact that, for example, aphids will become sensitive to blue light (from the sky) when it's time for takeoff on their big journey, and sensitive to yellow light （reflected from tender young leaves) when it's appropriate to land. Birds will fatten themselves with heavy feeding in advance of a long migrational flight. The value of his definition, Dingle argues, is that it focuses attention on what the phenomenon of wildebeest migration shares with the phenomenon of the aphids, and therefore helps guide researchers towards understanding how evolution has produced them all."
+        },
+        {
+          "id": "p7",
+          "text": "Human behaviour, however, is having a detrimental impact on animal migration. The pronghorn, which resembles an antelope, though they are unrelated, is the fastest land mammal of the New World. One population, which spends the summer in the mountainous Grand Teton National Park of the western USA, follows a narrow route from its summer range in the mountains, across a river, and down onto the plains. Here they wait out the frozen months, feeding mainly on sagebrush blown clear of snow. These pronghorn are notable for the invariance of their migration route and the severity of its constriction at three bottlenecks. If they can't pass through each of the three during their spring migration, they can't reach their bounty of summer grazing; if they can't pass through again in autumn, escaping south onto those windblown plains, they are likely to die trying to overwinter in the deep snow. Pronghorn, dependent on distance vision and speed to keep safe from predators, traverse high, open shoulders of land, where they can see and run. At one of the bottlenecks, forested hills rise to form a wall, leaving a corridor of open ground only about 150 metres wide, filled with private homes. Increasing development is leading toward a crisis for the pronghorn, threatening to choke off their passageway."
+        },
+        {
+          "id": "p8",
+          "text": "Conservation scientists, along with some biologists and land managers within the USA's National Park Service and other agencies, are now working to preserve migrational behaviours, not just species and habitats. A National Forest has recognised the path of the pronghorn, much of which passes across its land, as a protected migration corridor. But neither the Forest Service nor the Park Service can control what happens on private land at a bottleneck. And with certain other migrating species, the challenge is complicated further - by vastly greater distances traversed, more jurisdictions, more borders, more dangers along the way."
+        },
+        {
+          "id": "p9",
+          "text": "We will require wisdom and resoluteness to ensure that migrating species can continue their journeying a while longer."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            18
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "Local gulls and migrating arctic terns behave in the same way when offered food."
+            },
+            {
+              "n": 15,
+              "text": "Experts' definitions of migration tend to vary according to their area of study."
+            },
+            {
+              "n": 16,
+              "text": "Very few experts agree that the movement of aphids can be considered migration."
+            },
+            {
+              "n": 17,
+              "text": "Aphids' journeys are affected by changes in the light that they perceive."
+            },
+            {
+              "n": 18,
+              "text": "Dingle's aim is to distinguish between the migratory behaviours of different species."
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            22
+          ],
+          "type": "matching",
+          "instruction": "Complete each sentence with the correct ending, A-G, below.",
+          "limit": "Write the correct letter, A-G, in boxes 19-22 on your answer sheet.",
+          "options": [
+            {
+              "k": "A",
+              "text": "be discouraged by difficulties."
+            },
+            {
+              "k": "B",
+              "text": "travel on open land where they can look out for predators."
+            },
+            {
+              "k": "C",
+              "text": "eat more than they need for immediate purposes."
+            },
+            {
+              "k": "D",
+              "text": "be repeated daily."
+            },
+            {
+              "k": "E",
+              "text": "ignore distractions."
+            },
+            {
+              "k": "F",
+              "text": "be governed by the availability of water."
+            },
+            {
+              "k": "G",
+              "text": "follow a straight line."
+            }
+          ],
+          "items": [
+            {
+              "n": 19,
+              "text": "According to Dingle, migratory routes are likely to"
+            },
+            {
+              "n": 20,
+              "text": "To prepare for migration, animals are likely to"
+            },
+            {
+              "n": 21,
+              "text": "During migration, animals are unlikely to"
+            },
+            {
+              "n": 22,
+              "text": "Arctic terns illustrate migrating animals' ability to"
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            26
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "The migration of pronghorns",
+          "text": "Pronghorns rely on their eyesight and {{23}} to avoid predators. One particular population's summer habitat is a national park, and their winter home is on the {{24}}, where they go to avoid the danger presented by the snow at that time of year. However, their route between these two areas contains three {{25}}. One problem is the construction of new homes in a narrow {{26}} of land on the pronghorns' route."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Preface to 'How the other half thinks: Adventures in mathematical reasoning '",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "Occasionally, in some difficult musical compositions, there are beautiful, but easy parts - parts so simple a beginner could play them. So it is with mathematics as well. There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, or trigonometry. Instead they may involve, at most, a little arithmetic, such as ' the sum of two odd numbers is even', and common sense. Each of the eight chapters in this book illustrates this phenomenon. Anyone can understand every step in the reasoning. The thinking in each chapter uses at most only elementary arithmetic, and sometimes not even that. Thus all readers will have the chance to participate in a mathematical experience, to appreciate the beauty of mathematics, and to become familiar with its logical, yet intuitive, style of thinking."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "One of my purposes in writing this book is to give readers who haven't had the opportunity to see and enjoy real mathematics the chance to appreciate the mathematical way of thinking. I want to reveal not only some of the fascinating discoveries, but, more importantly, the reasoning behind them. In that respect, this book differs from most books on mathematics written for the general public. Some present the lives of colorful mathematicians. Others describe important applications of mathematics. Yet others go into mathematical procedures, but assume that the reader is adept in using algebra."
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "I hope this book will help bridge that notorious gap that separates the two cultures: the humanities and the sciences, or should I say the right brain (intuitive) and the left brain (analytical, numerical). As the chapters will illustrate, mathematics is not restricted to the analytical and numerical; intuition plays a significant role. The alleged gap can be narrowed or completely overcome by anyone, in part because each of us is far from using the full capacity of either side of the brain. To illustrate our human potential, I cite a structural engineer who is an artist, an electrical engineer who is an opera singer, an opera singer who published mathematical research, and a mathematician who publishes short stories."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics, although it provides the foundation of their theories. The reader must remain a tantalized spectator rather than an involved participant, since the appropriate language for describing the details in much of science is mathematics, whether the subject is expanding universe, subatomic particles, or chromosomes. Though the broad outline of a scientific theorycan be sketched intuitively,when a part of the physical universe is finally understood, its description often looks like a page in a mathematics text."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Still, the non-mathematical reader can go far in understanding mathematical reasoning. This book presents the details that illustrate the mathematical style of thinking, which involves sustained, step-by-step analysis, experiments, and insights. You will turn these pages much more slowly than when reading a novel or a newspaper. It may help to have a pencil and paper ready to check claims and carry out experiments."
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "As I wrote, I kept in mind two types of readers: those who enjoyed mathematics until they were turned off by an unpleasant episode,usually around fifth grade,and mathematics aficionados, who will find much that is new throughout the book. This book also serves readers who simply want to sharpen their analytical skills. Many careers,such as law and medicine,require extended, precise analysis. Each chapter offers practice in following a sustained and closely argued line of thought. That mathematics can develop this skill is shown by these two testimonials:"
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "A physician wrote, 'The discipline of analytical thought processes [in mathematics) prepared me extremely well for medical school. In medicine one is faced with a problem which must be thoroughly analyzed before a solution can be found. The process is similar to doing mathematics.' A lawyer made the same point, 'Although I had no background in law - not even one political science course - I did well at one of the best law schools. I attribute much of my success there to having learned, through the study of mathematics, and,in particular, theorems, how to analyze complicated principles. Lawyers who have studied mathematics can master the legal principles in a way that most others cannot.' I hope you will share my delight in watching as simple, even naive, questions lead to remarkable solutions and purely theoretical discoveries find unanticipated applications."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            34
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 3 has seven sections, A-G. Which section contains the following information?",
+          "limit": "Write the correct letter, A-G, in boxes 27-34 on your answer sheet. NB You may use any letter more than once.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "questions": [
+            {
+              "n": 27,
+              "text": "a reference to books that assume a lack of mathematical knowledge"
+            },
+            {
+              "n": 28,
+              "text": "the way in which this is not a typical book about mathematics"
+            },
+            {
+              "n": 29,
+              "text": "personal examples of being helped by mathematics"
+            },
+            {
+              "n": 30,
+              "text": "examples of people who each had abilities that seemed incompatible"
+            },
+            {
+              "n": 31,
+              "text": "mention of different focuses of books about mathematics"
+            },
+            {
+              "n": 32,
+              "text": "a contrast between reading this book and reading other kinds of publication"
+            },
+            {
+              "n": 33,
+              "text": "a claim that the whole of the book is accessible to everybody"
+            },
+            {
+              "n": 34,
+              "text": "a reference to different categories of intended readers of this book"
+            }
+          ]
+        },
+        {
+          "range": [
+            35,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "lines": [
+            "Some areas of both music and mathematics are suitable for someone who is a {{35}}.",
+            "It is sometimes possible to understand advanced mathematics using no more than a limited knowledge of {{36}}.",
+            "The writer intends to show that mathematics requires {{37}} thinking, as well as analytical skills.",
+            "Some books written by {{38}} have had to leave out the mathematics that is central to their theories.",
+            "The writer advises non-mathematical readers to perform {{39}} while reading the book.",
+            "A lawyer found that studying {{40}} helped even more than other areas of mathematics in the study of law."
+          ]
+        }
+      ]
+    }
+  ]
+}
