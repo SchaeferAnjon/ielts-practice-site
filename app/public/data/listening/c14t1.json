@@ -1,0 +1,1247 @@
+{
+  "id": "c14t1",
+  "book": "剑桥雅思14",
+  "test": 1,
+  "title": "剑14 Test 1 · Listening",
+  "source": "剑桥雅思14 Academic, Test 1（文字层抽取 + 人工校对）",
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c14/t1p1.mp3",
+      "duration": 523,
+      "title": "Crime report",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the form below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Crime Report Form",
+          "lines": [
+            "Type of crime: theft",
+            "## Personal information",
+            "Name: Louise Taylor (example)",
+            "Nationality: {{1}}",
+            "Date of birth: 14 December 1977",
+            "Occupation: interior designer",
+            "Reason for visit: business (to buy antique {{2}})",
+            "Length of stay: two months",
+            "Current address: {{3}} Apartments (No 15)",
+            "## Details of theft",
+            "Items stolen:\n- a wallet containing approximately £{{4}}\n- a {{5}}",
+            "Date of theft: {{6}}",
+            "## Possible time and place of theft",
+            "Location: outside the {{7}}, at about 4 pm",
+            "Details of suspect:\n- some boys asked for the {{8}}, then ran off\n- one had a T-shirt with a picture of a tiger\n- he was about 12, slim build, with {{9}} hair",
+            "Crime reference number allocated: {{10}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "OFFICER",
+          "t": "Good morning. What can I do for you?",
+          "start": 107.01,
+          "end": 155.7
+        },
+        {
+          "s": "LOUISE",
+          "t": "I want to report a theft. I had some things stolen out of my bag yesterday.",
+          "start": 156.34,
+          "end": 160.62
+        },
+        {
+          "s": "OFFICER",
+          "t": "I'm sorry to hear that. Right, so I'll need to take a few details. Can I start with your name?",
+          "start": 160.66,
+          "end": 168.18
+        },
+        {
+          "s": "LOUISE",
+          "t": "Louise Taylor.",
+          "start": 168.34,
+          "end": 169.66
+        },
+        {
+          "s": "OFFICER",
+          "t": "OK, thank you. And are you resident in the UK?",
+          "start": 169.82,
+          "end": 173.74
+        },
+        {
+          "s": "LOUISE",
+          "t": "No, I'm actually Canadian, though my mother was British.",
+          "q": [
+            1
+          ],
+          "start": 174.18,
+          "end": 177.82
+        },
+        {
+          "s": "OFFICER",
+          "t": "And your date of birth?",
+          "start": 178.1,
+          "end": 179.62
+        },
+        {
+          "s": "LOUISE",
+          "t": "December 14th, 1977.",
+          "start": 179.86,
+          "end": 182.98
+        },
+        {
+          "s": "OFFICER",
+          "t": "So you're just visiting this country?",
+          "start": 183.22,
+          "end": 185.5
+        },
+        {
+          "s": "LOUISE",
+          "t": "That's right. I come over most summers on business. I'm an interior designer and I come over to buy old furniture, antiques you know. There are some really lovely things around here, but you need to get out to the small towns. I've had a really good trip this year until this happened.",
+          "q": [
+            2
+          ],
+          "start": 185.74,
+          "end": 204.01
+        },
+        {
+          "s": "OFFICER",
+          "t": "OK. So you've been here quite a while?",
+          "start": 204.29,
+          "end": 207.45
+        },
+        {
+          "s": "LOUISE",
+          "t": "Yes, I'm here for two months. I go back next week.",
+          "start": 208.01,
+          "end": 211.74
+        },
+        {
+          "s": "OFFICER",
+          "t": "So may I ask where you're staying now?",
+          "start": 211.94,
+          "end": 214.54
+        },
+        {
+          "s": "LOUISE",
+          "t": "Well at present I've got a place at Park Apartments, that's on King Street. I was staying at the Riverside Apartments on the same street, but the apartment there was only available for six weeks so I had to find another one.",
+          "q": [
+            3
+          ],
+          "start": 214.82,
+          "end": 230.37
+        },
+        {
+          "s": "OFFICER",
+          "t": "OK. And the apartment number?",
+          "start": 230.41,
+          "end": 232.79
+        },
+        {
+          "s": "LOUISE",
+          "t": "Fifteen.",
+          "start": 232.79,
+          "end": 232.79,
+          "estimated": true
+        },
+        {
+          "s": "OFFICER",
+          "t": "Right. Now, I need to take some details of the theft. So you said you had some things stolen out of your bag?",
+          "start": 233.59,
+          "end": 294.83
+        },
+        {
+          "s": "LOUISE",
+          "t": "That's right.",
+          "start": 294.99,
+          "end": 295.63
+        },
+        {
+          "s": "OFFICER",
+          "t": "And were you actually carrying the bag when the theft took place?",
+          "start": 295.91,
+          "end": 300.23
+        },
+        {
+          "s": "LOUISE",
+          "t": "Yes. I really can't understand it. I had my backpack on. And I went into a supermarket to buy a few things and when I opened it up my wallet wasn't there.",
+          "start": 300.47,
+          "end": 312.55
+        },
+        {
+          "s": "OFFICER",
+          "t": "And what did your wallet have in it?",
+          "start": 313.25,
+          "end": 315.33
+        },
+        {
+          "s": "LOUISE",
+          "t": "Well, fortunately I don't keep my credit cards in that wallet - I keep them with my passport in an inside compartment in my backpack. But there was quite a bit of cash there... about £250 sterling, I should think. I withdrew £300 from my account yesterday, but I did a bit of shopping, so I must have already spent about £50 of that.",
+          "q": [
+            4
+          ],
+          "start": 315.89,
+          "end": 342.16
+        },
+        {
+          "s": "OFFICER",
+          "t": "OK.",
+          "start": 342.16,
+          "end": 342.72
+        },
+        {
+          "s": "LOUISE",
+          "t": "At first I thought, oh I must have left the wallet back in the apartment, but then I realised my phone had gone as well. It was only a week old, and that's when I realised I'd been robbed. Anyway, at least they didn't take the keys to my rental car.",
+          "q": [
+            5
+          ],
+          "start": 343.68,
+          "end": 360.61
+        },
+        {
+          "s": "OFFICER",
+          "t": "Yes. So you say the theft occurred yesterday?",
+          "start": 361.25,
+          "end": 364.5
+        },
+        {
+          "s": "LOUISE",
+          "t": "Yes.",
+          "start": 364.5,
+          "end": 365.46
+        },
+        {
+          "s": "OFFICER",
+          "t": "So that was September the tenth. And do you have any idea at all of where or when the things might possibly have been stolen?",
+          "q": [
+            6
+          ],
+          "start": 365.46,
+          "end": 375.62
+        },
+        {
+          "s": "LOUISE",
+          "t": "Well at first I couldn't believe it because the bag had been on my back ever since I left the apartment after lunch. It's just a small backpack, but I generally use it when I'm travelling because it seems safer than a handbag. Anyway, I met up with a friend, and we spent a couple of hours in the museum.",
+          "q": [
+            7
+          ],
+          "start": 376.59,
+          "end": 397.5
+        },
+        {
+          "s": "LOUISE",
+          "t": "But I do remember that as we were leaving there, at about 4 o'clock, a group of young boys ran up to us, and they were really crowding round us, and they were asking us what time it was, then all of a sudden they ran off.",
+          "q": [
+            8
+          ],
+          "start": 398.68,
+          "end": 414.87
+        },
+        {
+          "s": "OFFICER",
+          "t": "Can you remember anything about them?",
+          "start": 414.99,
+          "end": 417.51
+        },
+        {
+          "s": "LOUISE",
+          "t": "The one who did most of the talking was wearing a T-shirt with a picture of something... let's see... a tiger.",
+          "start": 417.91,
+          "end": 428.37
+        },
+        {
+          "s": "OFFICER",
+          "t": "Right. Any idea of how old he might have been?",
+          "start": 428.73,
+          "end": 431.85
+        },
+        {
+          "s": "LOUISE",
+          "t": "Around twelve years old?",
+          "start": 432.13,
+          "end": 434.69
+        },
+        {
+          "s": "OFFICER",
+          "t": "And can you remember anything else about his appearance?",
+          "start": 434.93,
+          "end": 438.49
+        },
+        {
+          "s": "LOUISE",
+          "t": "Not much. He was quite thin...",
+          "start": 439.57,
+          "end": 442.41
+        },
+        {
+          "s": "OFFICER",
+          "t": "Colour of hair?",
+          "start": 443.41,
+          "end": 443.77
+        },
+        {
+          "s": "LOUISE",
+          "t": "I do remember that he was blond. All the others were dark-haired.",
+          "q": [
+            9
+          ],
+          "start": 444.41,
+          "end": 449.31
+        },
+        {
+          "s": "OFFICER",
+          "t": "And any details of the others?",
+          "start": 449.47,
+          "end": 452.11
+        },
+        {
+          "s": "LOUISE",
+          "t": "Not really. They came and went so quickly.",
+          "start": 452.67,
+          "end": 456.27
+        },
+        {
+          "s": "OFFICER",
+          "t": "Right. So what I'm going to do now is give you a crime reference number so you can contact your insurance company. So this is ten digits: 87954 82361.",
+          "q": [
+            10
+          ],
+          "start": 457.11,
+          "end": 467.63
+        },
+        {
+          "s": "LOUISE",
+          "t": "Thank you. So should I...",
+          "start": 474.14,
+          "end": 477.26
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c14/t1p2.mp3",
+      "duration": 405,
+      "title": "Induction talk for new apprentices",
+      "groups": [
+        {
+          "range": [
+            11,
+            12
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO pieces of advice for the first week of an apprenticeship does the manager give?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "get to know colleagues"
+            },
+            {
+              "k": "B",
+              "text": "learn from any mistakes"
+            },
+            {
+              "k": "C",
+              "text": "ask lots of questions"
+            },
+            {
+              "k": "D",
+              "text": "react positively to feedback"
+            },
+            {
+              "k": "E",
+              "text": "enjoy new challenges"
+            }
+          ]
+        },
+        {
+          "range": [
+            13,
+            14
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO things does the manager say mentors can help with?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "confidence-building"
+            },
+            {
+              "k": "B",
+              "text": "making career plans"
+            },
+            {
+              "k": "C",
+              "text": "completing difficult tasks"
+            },
+            {
+              "k": "D",
+              "text": "making a weekly timetable"
+            },
+            {
+              "k": "E",
+              "text": "reviewing progress"
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            20
+          ],
+          "type": "matching",
+          "instruction": "What does the manager say about each of the following aspects of the company policy for apprentices?",
+          "limit": "Write the correct letter, A, B or C, next to Questions 15-20.",
+          "options": [
+            {
+              "k": "A",
+              "text": "It is encouraged."
+            },
+            {
+              "k": "B",
+              "text": "There are some restrictions."
+            },
+            {
+              "k": "C",
+              "text": "It is against the rules."
+            }
+          ],
+          "itemsTitle": "Company policy for apprentices",
+          "items": [
+            {
+              "n": 15,
+              "text": "Using the internet"
+            },
+            {
+              "n": 16,
+              "text": "Flexible working"
+            },
+            {
+              "n": 17,
+              "text": "Booking holidays"
+            },
+            {
+              "n": 18,
+              "text": "Working overtime"
+            },
+            {
+              "n": 19,
+              "text": "Wearing trainers"
+            },
+            {
+              "n": 20,
+              "text": "Bringing food to work"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Good morning everyone. My name's Janet Parker and I'm the human resources manager. We're very happy to welcome you to your new apprenticeship. I hope that the next six months will be a positive and enjoyable experience for you.",
+          "start": 49.0,
+          "end": 66.09
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'd like to start with some general advice about being an apprentice. Most of you have very little or no experience of working for a big organisation and the first week or so may be quite challenging. There will be a lot of new information to take in but don't worry too much about trying to remember everything. The important thing is to check with someone if you're not sure what to do - you'll find your supervisor is very approachable and won't mind explaining things or helping you out.",
+          "q": [
+            11
+          ],
+          "start": 66.13,
+          "end": 103.46
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You're here to learn so make the most of that opportunity. You'll be spending time in different departments during your first week so make an effort to talk to as many people as possible about their work - you'll make some new friends and find out lots of useful information.",
+          "q": [
+            12
+          ],
+          "start": 104.62,
+          "end": 123.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As well as having a supervisor, you'll each be assigned a mentor. This person will be someone who's recently completed an apprenticeship and you'll meet with them on a weekly basis. Their role is to provide help and support throughout your apprenticeship. Of course, this doesn't mean they'll actually do any of your work for you - instead they'll be asking you about what goals you've achieved so far, as well as helping you to identify any areas for improvement.",
+          "q": [
+            13
+          ],
+          "start": 125.3,
+          "end": 158.06
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You can also discuss your more long-term ambitions with them as well.",
+          "q": [
+            14
+          ],
+          "start": 159.02,
+          "end": 162.98
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Now I just want to run through a few company policies for our apprenticeship scheme with you... Most importantly, the internet. As part of your job you'll be doing some research online so obviously you'll have unlimited access for that but please don't use it for personal use - you'll have your own phones for that.",
+          "q": [
+            15
+          ],
+          "start": 210.92,
+          "end": 234.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Some of you have already asked me about flexible working. After your probationary three month period - some of you will be eligible for this - but it will depend on which department you're in and what your personal circumstances are. So please don't assume you'll automatically be permitted to do this.",
+          "q": [
+            16
+          ],
+          "start": 236.03,
+          "end": 256.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I want to make sure there's no confusion about our holiday policy. Apart from any statutory public holidays we ask that you don't book any holidays until after your six-month apprenticeship has finished. Time off should only be taken if you are unwell. Please speak to your supervisor if this is going to be a problem.",
+          "q": [
+            17
+          ],
+          "start": 258.28,
+          "end": 281.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll be expected to work a 40-hour week but there may be opportunities to do overtime during busy periods. Although you're not required to do this, it can be valuable experience so we advise you to take it up if possible. Obviously, we understand that people do have commitments outside work, so don't worry if there are times when you are unavailable.",
+          "q": [
+            18
+          ],
+          "start": 282.62,
+          "end": 308.91
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As you know we don't have a formal dress code here - you may wear casual clothes as long as they're practical - and the only restriction for shoes we have is on high heels for health and safety reasons. Comfortable shoes like trainers are preferable.",
+          "q": [
+            19
+          ],
+          "start": 310.28,
+          "end": 328.27
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's a heavily subsidised canteen on site where you can get hot meals or salads cheaply. Snacks and drinks are also provided so we've decided to introduce a no packed lunch policy. This is partly to encourage healthy eating at work and partly to stop people from eating at their workstation, which is unhygienic.",
+          "q": [
+            20
+          ],
+          "start": 329.86,
+          "end": 354.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "OK moving on to...",
+          "start": 355.54,
+          "end": 357.46
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c14/t1p3.mp3",
+      "duration": 431,
+      "title": "Cities built by the sea",
+      "groups": [
+        {
+          "range": [
+            21,
+            25
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Cities built by the sea",
+          "questions": [
+            {
+              "n": 21,
+              "text": "Carla and Rob were surprised to learn that coastal cities",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "contain nearly half the world's population."
+                },
+                {
+                  "k": "B",
+                  "text": "include most of the world's largest cities."
+                },
+                {
+                  "k": "C",
+                  "text": "are growing twice as fast as other cities."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "According to Rob, building coastal cities near to rivers",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "may bring pollution to the cities."
+                },
+                {
+                  "k": "B",
+                  "text": "may reduce the land available for agriculture."
+                },
+                {
+                  "k": "C",
+                  "text": "may mean the countryside is spoiled by industry."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "What mistake was made when building water drainage channels in Miami in the 1950s?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "There were not enough of them."
+                },
+                {
+                  "k": "B",
+                  "text": "They were made of unsuitable materials."
+                },
+                {
+                  "k": "C",
+                  "text": "They did not allow for the effects of climate change."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "What do Rob and Carla think that the authorities in Miami should do immediately?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "take measures to restore ecosystems"
+                },
+                {
+                  "k": "B",
+                  "text": "pay for a new flood prevention system"
+                },
+                {
+                  "k": "C",
+                  "text": "stop disposing of waste materials into the ocean"
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "What do they agree should be the priority for international action?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "greater coordination of activities"
+                },
+                {
+                  "k": "B",
+                  "text": "more sharing of information"
+                },
+                {
+                  "k": "C",
+                  "text": "agreement on shared policies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            26,
+            30
+          ],
+          "type": "matching",
+          "instruction": "What decision do the students make about each of the following parts of their presentation?",
+          "limit": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30.",
+          "optionsTitle": "Decisions",
+          "options": [
+            {
+              "k": "A",
+              "text": "use visuals"
+            },
+            {
+              "k": "B",
+              "text": "keep it short"
+            },
+            {
+              "k": "C",
+              "text": "involve other students"
+            },
+            {
+              "k": "D",
+              "text": "check the information is accurate"
+            },
+            {
+              "k": "E",
+              "text": "provide a handout"
+            },
+            {
+              "k": "F",
+              "text": "focus on one example"
+            },
+            {
+              "k": "G",
+              "text": "do online research"
+            }
+          ],
+          "itemsTitle": "Parts of the presentation",
+          "items": [
+            {
+              "n": 26,
+              "text": "Historical background"
+            },
+            {
+              "n": 27,
+              "text": "Geographical factors"
+            },
+            {
+              "n": 28,
+              "text": "Past mistakes"
+            },
+            {
+              "n": 29,
+              "text": "Future risks"
+            },
+            {
+              "n": 30,
+              "text": "International implications"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TUTOR",
+          "t": "OK, so what I'd like you to do now is to talk to your partner about your presentations on urban planning. You should have done most of the reading now, so I'd like you to share your ideas and talk about the structure of your presentation and what you need to do next.",
+          "start": 68.67,
+          "end": 85.43
+        },
+        {
+          "s": "CARLA",
+          "t": "OK Rob. I'm glad we chose quite a specific topic - cities built next to the sea. It made it much easier to find relevant information.",
+          "start": 86.77,
+          "end": 95.53
+        },
+        {
+          "s": "ROB",
+          "t": "Yeah. And cities are growing so quickly - I mean, we know that more than half the world's population lives in cities now.",
+          "start": 96.13,
+          "end": 103.65
+        },
+        {
+          "s": "CARLA",
+          "t": "Yeah, though that's all cities, not just ones on the coast. But most of the biggest cities are actually built by the sea. I'd not realised that before.",
+          "q": [
+            21
+          ],
+          "start": 104.12,
+          "end": 113.72
+        },
+        {
+          "s": "ROB",
+          "t": "Nor me. And what's more, a lot of them are built at places where rivers come out into the sea. But apparently this can be a problem.",
+          "start": 114.4,
+          "end": 121.9
+        },
+        {
+          "s": "CARLA",
+          "t": "Why?",
+          "start": 121.98,
+          "end": 122.58
+        },
+        {
+          "s": "ROB",
+          "t": "Well, as the city expands, agriculture and industry tend to spread further inland along the rivers, and so agriculture moves even further inland up the river. That's not necessarily a problem, except it means more and more pollutants are discharged into the rivers.",
+          "q": [
+            22
+          ],
+          "start": 123.22,
+          "end": 139.87
+        },
+        {
+          "s": "CARLA",
+          "t": "So these are brought downstream to the cities?",
+          "start": 140.62,
+          "end": 143.26
+        },
+        {
+          "s": "ROB",
+          "t": "Right. Hmm. Did you read that article about Miami, on the east coast of the USA?",
+          "start": 143.42,
+          "end": 149.06
+        },
+        {
+          "s": "CARLA",
+          "t": "No.",
+          "start": 149.22,
+          "end": 149.3
+        },
+        {
+          "s": "ROB",
+          "t": "Well, apparently back in the 1950s they built channels to drain away the water in case of flooding.",
+          "start": 149.9,
+          "end": 155.53
+        },
+        {
+          "s": "CARLA",
+          "t": "Sounds sensible.",
+          "start": 156.37,
+          "end": 156.61
+        },
+        {
+          "s": "ROB",
+          "t": "Yeah, they spent quite a lot of money on them. But what they didn't take into account was global warming. So they built the drainage channels too close to sea level, and now sea levels are rising, they're more or less useless. If there's a lot of rain, the water can't run away, there's nowhere for it to go. The whole design was faulty.",
+          "q": [
+            23
+          ],
+          "start": 156.89,
+          "end": 176.86
+        },
+        {
+          "s": "CARLA",
+          "t": "So what are the authorities doing about it now?",
+          "start": 177.06,
+          "end": 180.3
+        },
+        {
+          "s": "ROB",
+          "t": "I don't know. I did read that they're aiming to stop disposing of waste water into the ocean over the next ten years.",
+          "start": 180.98,
+          "end": 187.14
+        },
+        {
+          "s": "CARLA",
+          "t": "But that won't help with flood prevention now, will it?",
+          "start": 187.34,
+          "end": 190.54
+        },
+        {
+          "s": "ROB",
+          "t": "No. Really they just need to find the money for something to replace the drainage channels, in order to protect against flooding now. But in the long term they need to consider the whole ecosystem.",
+          "q": [
+            24
+          ],
+          "start": 191.22,
+          "end": 202.02
+        },
+        {
+          "s": "CARLA",
+          "t": "Right. Really, though, coastal cities can't deal with their problems on their own can they? I mean, they've got to start acting together at an international level instead of just doing their own thing.",
+          "start": 202.26,
+          "end": 215.28
+        },
+        {
+          "s": "ROB",
+          "t": "Absolutely. The thing is, everyone knows what the problems are and environmentalists have a pretty good idea of what we should be doing about them, so they should be able to work together to some extent. But it's going to be a long time before countries come to a decision on what principles they're prepared to abide by.",
+          "q": [
+            25
+          ],
+          "start": 215.4,
+          "end": 233.6
+        },
+        {
+          "s": "CARLA",
+          "t": "Yes, if they ever do.",
+          "start": 234.48,
+          "end": 235.36
+        },
+        {
+          "s": "CARLA",
+          "t": "So I think we've probably got enough for our presentation. It's only fifteen minutes.",
+          "start": 278.83,
+          "end": 283.35
+        },
+        {
+          "s": "ROB",
+          "t": "OK. So I suppose we'll begin with some general historical background about why coastal cities were established. But we don't want to spend too long on that, the other students will already know a bit about it. It's all to do with communications and so on.",
+          "q": [
+            26
+          ],
+          "start": 283.79,
+          "end": 299.21
+        },
+        {
+          "s": "CARLA",
+          "t": "Yes. We should mention some geographical factors, things like wetlands and river estuaries and coastal erosion and so on. We could have some maps of different cities with these features marked.",
+          "start": 299.33,
+          "end": 313.24
+        },
+        {
+          "s": "ROB",
+          "t": "On a handout you mean? Or some slides everyone can see?",
+          "q": [
+            27
+          ],
+          "start": 313.64,
+          "end": 317.24
+        },
+        {
+          "s": "CARLA",
+          "t": "Yeah, that'd be better.",
+          "start": 317.32,
+          "end": 318.8
+        },
+        {
+          "s": "ROB",
+          "t": "It'd be good to go into past mistakes in a bit more detail. Did you read that case study of the problems there were in New Orleans with flooding a few years ago?",
+          "start": 319.6,
+          "end": 328.4
+        },
+        {
+          "s": "CARLA",
+          "t": "Yes. We could use that as the basis for that part of the talk. I don't think the other students will have read it but they'll remember hearing about the flooding at the time.",
+          "q": [
+            28
+          ],
+          "start": 328.48,
+          "end": 338.8
+        },
+        {
+          "s": "ROB",
+          "t": "OK. So that's probably enough background.",
+          "start": 339.76,
+          "end": 342.8
+        },
+        {
+          "s": "CARLA",
+          "t": "So then we'll go on to talk about what action's being taken to deal with the problems of coastal cities.",
+          "start": 343.52,
+          "end": 349.32
+        },
+        {
+          "s": "ROB",
+          "t": "OK. What else do we need to talk about? Maybe something on future risks, looking more at the long term, if populations continue to grow.",
+          "start": 349.56,
+          "end": 358.95
+        },
+        {
+          "s": "CARLA",
+          "t": "Yeah. We'll need to do a bit of work there, haven't got much information, have you?",
+          "start": 359.19,
+          "end": 365.35
+        },
+        {
+          "s": "ROB",
+          "t": "No. We'll need to look at some websites. Shouldn't take too long.",
+          "q": [
+            29
+          ],
+          "start": 365.51,
+          "end": 369.15
+        },
+        {
+          "s": "CARLA",
+          "t": "OK. And I think we should end by talking about international implications. Maybe we could ask people in the audience. We've got people from quite a lot of different places.",
+          "q": [
+            30
+          ],
+          "start": 369.23,
+          "end": 380.68
+        },
+        {
+          "s": "ROB",
+          "t": "That'd be interesting, if we have time, yes. So now shall we...",
+          "start": 381.04,
+          "end": 385.47
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c14/t1p4.mp3",
+      "duration": 488,
+      "title": "Marine renewable energy",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Marine renewable energy (ocean energy)",
+          "lines": [
+            "## Introduction",
+            "More energy required because of growth in population and {{31}}",
+            "What's needed:",
+            "- renewable energy sources",
+            "- methods that won't create pollution",
+            "## Wave energy",
+            "Advantage: waves provide a {{32}} source of renewable energy",
+            "Electricity can be generated using offshore or onshore systems",
+            "Onshore systems may use a reservoir",
+            "Problems:",
+            "- waves can move in any {{33}}",
+            "- movement of sand, etc. on the {{34}} of the ocean may be affected",
+            "## Tidal energy",
+            "Tides are more {{35}} than waves",
+            "Planned tidal lagoon in Wales:",
+            "- will be created in a {{36}} at Swansea",
+            "- breakwater (dam) containing 16 turbines",
+            "- rising tide forces water through turbines, generating electricity",
+            "- stored water is released through {{37}}, driving the turbines in the reverse direction",
+            "Advantages:",
+            "- not dependent on weather",
+            "- no {{38}} is required to make it work",
+            "- likely to create a number of {{39}}",
+            "Problem:",
+            "- may harm fish and birds, e.g. by affecting {{40}} and building up silt",
+            "## Ocean thermal energy conversion",
+            "Uses a difference in temperature between the surface and lower levels",
+            "Water brought to the surface in a pipe"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LECTURER",
+          "t": "Producing enough energy to meet our needs has become a serious problem. Demand is rising rapidly, because of the world's increasing population and expanding industry.",
+          "q": [
+            31
+          ],
+          "start": 76.77,
+          "end": 88.57
+        },
+        {
+          "s": "LECTURER",
+          "t": "Burning fossil fuels, like gas, coal and oil, seriously damages the environment and they'll eventually run out. For a number of years now, scientists have been working out how we can derive energy from renewable sources, such as the sun and wind, without causing pollution. Today I'll outline marine renewable energy - also called ocean energy - which harnesses the movement of the oceans. Marine renewable energy can be divided into three main categories: wave energy, tidal energy and ocean thermal energy conversion, and I'll say a few words about each one.",
+          "start": 89.94,
+          "end": 137.68
+        },
+        {
+          "s": "LECTURER",
+          "t": "First, wave energy. Numerous devices have been invented to harvest wave energy, with names such as Wave Dragon, the Penguin and Mighty Whale, and research is going on to try and come up with a really efficient method. This form of energy has plenty of potential, as the source is constant, and there's no danger of waves coming to a standstill.",
+          "q": [
+            32
+          ],
+          "start": 139.4,
+          "end": 167.22
+        },
+        {
+          "s": "LECTURER",
+          "t": "Electricity can be generated using onshore systems using a reservoir, or offshore systems. But the problem with ocean waves is that they're erratic with the wind making them travel in every direction.",
+          "q": [
+            33
+          ],
+          "start": 168.58,
+          "end": 185.5
+        },
+        {
+          "s": "LECTURER",
+          "t": "This adds to the difficulty of creating efficient technology: ideally all the waves would travel smoothly and regularly along the same straight line. Another drawback is that sand and other sediment on the ocean floor might be stopped from flowing normally, which can lead to environmental problems.",
+          "q": [
+            34
+          ],
+          "start": 187.38,
+          "end": 210.88
+        },
+        {
+          "s": "LECTURER",
+          "t": "The second category of marine energy that I'll mention is tidal energy. One major advantage of using the tide, rather than waves, as a source of energy is that it's predictable: we know the exact times of high and low tides for years to come.",
+          "q": [
+            35
+          ],
+          "start": 216.29,
+          "end": 235.79
+        },
+        {
+          "s": "LECTURER",
+          "t": "For tidal energy to be effective, the difference between high and low tides needs to be at least five metres, and this occurs naturally in only about forty places on Earth. But the right conditions can be created by constructing a tidal lagoon, an area of sea water separated from the sea. One current plan is to create a tidal lagoon on the coast of Wales. This will be an area of water within a bay at Swansea, sheltered by a U-shaped breakwater, or dam, built out from the coast.",
+          "q": [
+            36
+          ],
+          "start": 237.29,
+          "end": 279.42
+        },
+        {
+          "s": "LECTURER",
+          "t": "The breakwater will contain sixteen hydro turbines, and as the tide rises, water rushes through the breakwater, activating the turbines, which turn a generator to produce electricity. Then for three hours as the tide goes out, the water is held back within the breakwater, increasing the difference in water level, until it's several metres higher within the lagoon than in the open sea. Then in order to release the stored water, gates in the breakwater are opened.",
+          "q": [
+            37
+          ],
+          "start": 280.8,
+          "end": 317.76
+        },
+        {
+          "s": "LECTURER",
+          "t": "It pours powerfully out of the lagoon driving the turbines in the breakwater in the opposite direction and again generating thousands of megawatts of electricity. As there are two high tides a day, this lagoon scheme would generate electricity four times a day, every day for a total of around 14 hours in every 24 and enough electricity for over 150,000 homes.",
+          "start": 318.8,
+          "end": 349.67
+        },
+        {
+          "s": "LECTURER",
+          "t": "This system has quite a lot in its favour: unlike solar and wind energy it doesn't depend on the weather; the turbines are operated without the need for fuel, so it doesn't create any greenhouse gas emissions; and very little maintenance is needed.",
+          "q": [
+            38
+          ],
+          "start": 351.94,
+          "end": 367.75
+        },
+        {
+          "s": "LECTURER",
+          "t": "It's estimated that electricity generated in this way will be relatively cheap and that manufacturing the components would create more than 2,000 jobs, a big boost to the local economy.",
+          "q": [
+            39
+          ],
+          "start": 368.99,
+          "end": 381.85
+        },
+        {
+          "s": "LECTURER",
+          "t": "On the other hand, there are fears that lagoons might harm both fish and birds, for example by disturbing migration patterns and causing a build-up of silt, affecting local ecosystems.",
+          "q": [
+            40
+          ],
+          "start": 383.25,
+          "end": 397.05
+        },
+        {
+          "s": "LECTURER",
+          "t": "There are other forms of tidal energy but I'll go on to the third category of marine energy: ocean thermal energy conversion. This depends on there being a big difference in temperature between surface water and the water a couple of kilometres below the surface, and this occurs in tropical coastal areas. The idea is to bring cold water up to the surface using a submerged pipe. The concept dates back to 1881, when...",
+          "start": 398.84,
+          "end": 433.47
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "Canadian"
+    ],
+    "2": [
+      "furniture"
+    ],
+    "3": [
+      "Park"
+    ],
+    "4": [
+      "250",
+      "250 sterling",
+      "£250"
+    ],
+    "5": [
+      "phone"
+    ],
+    "6": [
+      "10 September",
+      "10th September",
+      "September 10th"
+    ],
+    "7": [
+      "museum"
+    ],
+    "8": [
+      "time"
+    ],
+    "9": [
+      "blond",
+      "blonde"
+    ],
+    "10": [
+      "87954 82361"
+    ],
+    "11": [
+      "A",
+      "C"
+    ],
+    "12": [
+      "A",
+      "C"
+    ],
+    "13": [
+      "B",
+      "E"
+    ],
+    "14": [
+      "B",
+      "E"
+    ],
+    "15": [
+      "B"
+    ],
+    "16": [
+      "B"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "A"
+    ],
+    "19": [
+      "A"
+    ],
+    "20": [
+      "C"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "A"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "B"
+    ],
+    "27": [
+      "A"
+    ],
+    "28": [
+      "F"
+    ],
+    "29": [
+      "G"
+    ],
+    "30": [
+      "C"
+    ],
+    "31": [
+      "industry"
+    ],
+    "32": [
+      "constant"
+    ],
+    "33": [
+      "direction"
+    ],
+    "34": [
+      "floor"
+    ],
+    "35": [
+      "predictable"
+    ],
+    "36": [
+      "bay"
+    ],
+    "37": [
+      "gates"
+    ],
+    "38": [
+      "fuel"
+    ],
+    "39": [
+      "jobs"
+    ],
+    "40": [
+      "migration"
+    ]
+  }
+}

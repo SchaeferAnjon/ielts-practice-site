@@ -1,0 +1,807 @@
+{
+  "id": "c14t1",
+  "book": "剑桥雅思14",
+  "test": 1,
+  "title": "剑14 Test 1 · Reading",
+  "minutes": 60,
+  "passages": [
+    {
+      "n": 1,
+      "title": "The Importance of Children's Play",
+      "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "Brick by brick, six-year-old Alice is building a magical kingdom. Imagining fairy-tale turrets and fire-breathing dragons, wicked witches and gallant heroes, she's creating an enchanting world. Although she isn't aware of it, this fantasy is helping her take her first steps towards her capacity for creativity and so it will have important repercussions in her adult life."
+        },
+        {
+          "id": "p2",
+          "text": "Minutes later, Alice has abandoned the kingdom in favour of playing schools with her younger brother. When she bosses him around as his 'teacher', she's practising how to regulate her emotions through pretence. Later on, when they tire of this and settle down with a board game, she's learning about the need to follow rules and take turns with a partner."
+        },
+        {
+          "id": "p3",
+          "text": "'Play in all its rich variety is one of the highest achievements of the human species,' says Dr David Whitebread from the Faculty of Education at the University of Cambridge, UK. 'It underpins how we develop as intellectual, problem-solving adults and is crucial to our success as a highly adaptable species.'"
+        },
+        {
+          "id": "p4",
+          "text": "Recognising the importance of play is not new: over two millennia ago, the Greek philosopher Plato extolled its virtues as a means of developing skills for adult life, and ideas about play-based learning have been developing since the 19th century."
+        },
+        {
+          "id": "p5",
+          "text": "But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities. 'The opportunities for free play, which I experienced almost every day of my childhood, are becoming increasingly scarce,' he says. Outdoor play is curtailed by perceptions of risk to do with traffic, as well as parents' increased wish to protect their children from being the victims of crime, and by the emphasis on 'earlier is better' which is leading to greater competition in academic learning and schools."
+        },
+        {
+          "id": "p6",
+          "text": "International bodies like the United Nations and the European Union have begun to develop policies concerned with children's right to play and to consider implications for leisure facilities and educational programmes. But what they often lack is the evidence to base policies on."
+        },
+        {
+          "id": "p7",
+          "text": "'The type of play we are interested in is child-initiated, spontaneous and unpredictable - but, as soon as you ask a five-year-old to play, then you as the researcher have intervened,' explains Dr Sara Baker. 'And we want to know what the long-term impact of play is. It's a real challenge.'"
+        },
+        {
+          "id": "p8",
+          "text": "Dr Jenny Gibson agrees, pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child's later life."
+        },
+        {
+          "id": "p9",
+          "text": "Now, thanks to the university's new Centre for Research on Play in Education, Development and Learning (PEDAL), Whitebread, Baker, Gibson and a team of researchers hope to provide evidence on the role played by play in how a child develops."
+        },
+        {
+          "id": "p10",
+          "text": "'A strong possibility is that play supports the early development of children's self-control,' explains Baker. 'This is our ability to develop awareness of our own thinking processes - it influences how effectively we go about undertaking challenging activities.'"
+        },
+        {
+          "id": "p11",
+          "text": "In a study carried out by Baker with toddlers and young pre-schoolers, she found that children with greater self-control solved problems more quickly when exploring an unfamiliar set-up requiring scientific reasoning. 'This sort of evidence makes us think that giving children the chance to play will make them more successful problem-solvers in the long run.'"
+        },
+        {
+          "id": "p12",
+          "text": "If playful experiences do facilitate this aspect of development, say the researchers, it could be extremely significant for educational practices, because the ability to self-regulate has been shown to be a key predictor of academic performance."
+        },
+        {
+          "id": "p13",
+          "text": "Gibson adds: 'Playful behaviour is also an important indicator of healthy social and emotional development. In my previous research, I investigated how observing children at play can give us important clues about their well-being and can even be useful in the diagnosis of neurodevelopmental disorders like autism.'"
+        },
+        {
+          "id": "p14",
+          "text": "Whitebread's recent research has involved developing a play-based approach to supporting children's writing. 'Many primary school children find writing difficult, but we showed in a previous study that a playful stimulus was far more effective than an instructional one.' Children wrote longer and better-structured stories when they first played with dolls representing characters in the story. In the latest study, children first created their story with Lego*, with similar results. 'Many teachers commented that they had always previously had children saying they didn't know what to write about. With the Lego building, however, not a single child said this through the whole year of the project.'"
+        },
+        {
+          "id": "p15",
+          "text": "Whitebread, who directs PEDAL, trained as a primary school teacher in the early 1970s, when, as he describes, 'the teaching of young children was largely a quiet backwater, untroubled by any serious intellectual debate or controversy.' Now, the landscape is very different, with hotly debated topics such as school starting age."
+        },
+        {
+          "id": "p16",
+          "text": "'Somehow the importance of play has been lost in recent decades. It's regarded as something trivial, or even as something negative that contrasts with \"work\". Let's not lose sight of its benefits, and the fundamental contributions it makes to human achievements in the arts, sciences and technology. Let's make sure children have a rich diet of play experiences.'"
+        }
+      ],
+      "footnotes": [
+        "* Lego: coloured plastic building blocks and other pieces that can be joined together"
+      ],
+      "groups": [
+        {
+          "range": [
+            1,
+            8
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Children's play",
+          "lines": [
+            "## Uses of children's play",
+            "building a 'magical kingdom' may help develop {{1}}",
+            "board games involve {{2}} and turn-taking",
+            "## Recent changes affecting children's play",
+            "populations of {{3}} have grown",
+            "opportunities for free play are limited due to",
+            "- fear of {{4}}",
+            "- fear of {{5}}",
+            "- increased {{6}} in schools",
+            "## International policies on children's play",
+            "it is difficult to find {{7}} to support new policies",
+            "research needs to study the impact of play on the rest of the child's {{8}}"
+          ]
+        },
+        {
+          "range": [
+            9,
+            13
+          ],
+          "type": "tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 9,
+              "text": "Children with good self-control are known to be likely to do well at school later on."
+            },
+            {
+              "n": 10,
+              "text": "The way a child plays may provide information about possible medical problems."
+            },
+            {
+              "n": 11,
+              "text": "Playing with dolls was found to benefit girls' writing more than boys' writing."
+            },
+            {
+              "n": 12,
+              "text": "Children had problems thinking up ideas when they first created the story with Lego."
+            },
+            {
+              "n": 13,
+              "text": "People nowadays regard children's play as less significant than they did in the past."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "The growth of bike-sharing schemes around the world",
+      "subtitle": "How Dutch engineer Luud Schimmelpennink helped to devise urban bike-sharing schemes",
+      "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "label": "A",
+          "text": "The original idea for an urban bike-sharing scheme dates back to a summer's day in Amsterdam in 1965. Provo, the organisation that came up with the idea, was a group of Dutch activists who wanted to change society. They believed the scheme, which was known as the Witte Fietsenplan, was an answer to the perceived threats of air pollution and consumerism. In the centre of Amsterdam, they painted a small number of used bikes white. They also distributed leaflets describing the dangers of cars and inviting people to use the white bikes. The bikes were then left unlocked at various locations around the city, to be used by anyone in need of transport."
+        },
+        {
+          "id": "B",
+          "label": "B",
+          "text": "Luud Schimmelpennink, a Dutch industrial engineer who still lives and cycles in Amsterdam, was heavily involved in the original scheme. He recalls how the scheme succeeded in attracting a great deal of attention - particularly when it came to publicising Provo's aims - but struggled to get off the ground. The police were opposed to Provo's initiatives and almost as soon as the white bikes were distributed around the city, they removed them. However, for Schimmelpennink and for bike-sharing schemes in general, this was just the beginning. 'The first Witte Fietsenplan was just a symbolic thing,' he says. 'We painted a few bikes white, that was all. Things got more serious when I became a member of the Amsterdam city council two years later.'"
+        },
+        {
+          "id": "C",
+          "label": "C",
+          "text": "Schimmelpennink seized this opportunity to present a more elaborate Witte Fietsenplan to the city council. 'My idea was that the municipality of Amsterdam would distribute 10,000 white bikes over the city, for everyone to use,' he explains. 'I made serious calculations. It turned out that a white bicycle - per person, per kilometre - would cost the municipality only 10% of what it contributed to public transport per person per kilometre.' Nevertheless, the council unanimously rejected the plan. 'They said that the bicycle belongs to the past. They saw a glorious future for the car,' says Schimmelpennink. But he was not in the least discouraged."
+        },
+        {
+          "id": "D",
+          "label": "D",
+          "text": "Schimmelpennink never stopped believing in bike-sharing, and in the mid-90s, two Danes asked for his help to set up a system in Copenhagen. The result was the world's first large-scale bike-share programme. It worked on a deposit: 'You dropped a coin in the bike and when you returned it, you got your money back.' After setting up the Danish system, Schimmelpennink decided to try his luck again in the Netherlands - and this time he succeeded in arousing the interest of the Dutch Ministry of Transport. 'Times had changed,' he recalls. 'People had become more environmentally conscious, and the Danish experiment had proved that bike-sharing was a real possibility.' A new Witte Fietsenplan was launched in 1999 in Amsterdam. However, riding a white bike was no longer free; it cost one guilder per trip and payment was made with a chip card developed by the Dutch bank Postbank. Schimmelpennink designed conspicuous, sturdy white bikes locked in special racks which could be opened with the chip card - the plan started with 250 bikes, distributed over five stations."
+        },
+        {
+          "id": "E",
+          "label": "E",
+          "text": "Theo Molenaar, who was a system designer for the project, worked alongside Schimmelpennink. 'I remember when we were testing the bike racks, he announced that he had already designed better ones. But of course, we had to go through with the ones we had,' The system, however, was prone to vandalism and theft. 'After every weekend there would always be a couple of bikes missing,' Molenaar says. 'I really have no idea what people did with them, because they could instantly be recognised as white bikes.' But the biggest blow came when Postbank decided to abolish the chip card, because it wasn't profitable. 'That chip card was pivotal to the system,' Molenaar says. 'To continue the project we would have needed to set up another system, but the business partner had lost interest.'"
+        },
+        {
+          "id": "F",
+          "label": "F",
+          "text": "Schimmelpennink was disappointed, but - characteristically - not for long. In 2002 he got a call from the French advertising corporation JC Decaux, who wanted to set up his bike-sharing scheme in Vienna. 'That went really well. After Vienna, they set up a system in Lyon. Then in 2007, Paris followed. That was a decisive moment in the history of bike-sharing.' The huge and unexpected success of the Parisian bike-sharing programme, which now boasts more than 20,000 bicycles, inspired cities all over the world to set up their own schemes, all modelled on Schimmelpennink's. 'It's wonderful that this happened,' he says. 'But financially I didn't really benefit from it, because I never filed for a patent.'"
+        },
+        {
+          "id": "G",
+          "label": "G",
+          "text": "In Amsterdam today, 38% of all trips are made by bike and, along with Copenhagen, it is regarded as one of the two most cycle-friendly capitals in the world - but the city never got another Witte Fietsenplan. Molenaar believes this may be because everybody in Amsterdam already has a bike. Schimmelpennink, however, cannot see that this changes Amsterdam's need for a bike-sharing scheme. 'People who travel on the underground don't carry their bikes around. But often they need additional transport to reach their final destination.' Although he thinks it is strange that a city like Amsterdam does not have a successful bike-sharing scheme, he is optimistic about the future. 'In the '60s we didn't stand a chance because people were prepared to give their lives to keep cars in the city. But that mentality has totally changed. Today everybody longs for cities that are not dominated by cars.'"
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            14,
+            18
+          ],
+          "type": "section-match",
+          "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information?",
+          "limit": "Write the correct letter, A-G, in boxes 14-18 on your answer sheet. NB You may use any letter more than once.",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "questions": [
+            {
+              "n": 14,
+              "text": "a description of how people misused a bike-sharing scheme"
+            },
+            {
+              "n": 15,
+              "text": "an explanation of why a proposed bike-sharing scheme was turned down"
+            },
+            {
+              "n": 16,
+              "text": "a reference to a person being unable to profit from their work"
+            },
+            {
+              "n": 17,
+              "text": "an explanation of the potential savings a bike-sharing scheme would bring"
+            },
+            {
+              "n": 18,
+              "text": "a reference to the problems a bike-sharing scheme was intended to solve"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO of the following statements are made in the text about the Amsterdam bike-sharing scheme of 1999?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "It was initially opposed by a government department."
+            },
+            {
+              "k": "B",
+              "text": "It failed when a partner in the scheme withdrew support."
+            },
+            {
+              "k": "C",
+              "text": "It aimed to be more successful than the Copenhagen scheme."
+            },
+            {
+              "k": "D",
+              "text": "It was made possible by a change in people's attitudes."
+            },
+            {
+              "k": "E",
+              "text": "It attracted interest from a range of bike designers."
+            }
+          ]
+        },
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO of the following statements are made in the text about Amsterdam today?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "The majority of residents would like to prevent all cars from entering the city."
+            },
+            {
+              "k": "B",
+              "text": "There is little likelihood of the city having another bike-sharing scheme."
+            },
+            {
+              "k": "C",
+              "text": "More trips in the city are made by bike than by any other form of transport."
+            },
+            {
+              "k": "D",
+              "text": "A bike-sharing scheme would benefit residents who use public transport."
+            },
+            {
+              "k": "E",
+              "text": "The city has a reputation as a place that welcomes cyclists."
+            }
+          ]
+        },
+        {
+          "range": [
+            23,
+            26
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "The first urban bike-sharing scheme",
+          "text": "The first bike-sharing scheme was the idea of the Dutch group Provo. The people who belonged to this group were {{23}}. They were concerned about damage to the environment and about {{24}}, and believed that the bike-sharing scheme would draw attention to these issues. As well as painting some bikes white, they handed out {{25}} that condemned the use of cars.\n\nHowever, the scheme was not a great success: almost as quickly as Provo left the bikes around the city, the {{26}} took them away. According to Schimmelpennink, the scheme was intended to be symbolic. The idea was to get people thinking about the issues."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Motivational factors and the hospitality industry",
+      "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "A critical ingredient in the success of hotels is developing and maintaining superior performance from their employees. How is that accomplished? What Human Resource Management (HRM) practices should organizations invest in to acquire and retain great employees?"
+        },
+        {
+          "id": "p2",
+          "text": "Some hotels aim to provide superior working conditions for their employees. The idea originated from workplaces - usually in the non-service sector - that emphasized fun and enjoyment as part of work-life balance. By contrast, the service sector, and more specifically hotels, has traditionally not extended these practices to address basic employee needs, such as good working conditions."
+        },
+        {
+          "id": "p3",
+          "text": "Pfeffer (1994) emphasizes that in order to succeed in a global business environment, organizations must make investment in Human Resource Management (HRM) to allow them to acquire employees who possess better skills and capabilities than their competitors. This investment will be to their competitive advantage. Despite this recognition of the importance of employee development, the hospitality industry has historically been dominated by underdeveloped HR practices (Lucas, 2002)."
+        },
+        {
+          "id": "p4",
+          "text": "Lucas also points out that 'The substance of HRM practices does not appear to be designed to foster constructive relations with employees or to represent a managerial approach that enables developing and drawing out the full potential of people, even though employees may be broadly satisfied with many aspects of their work' (Lucas, 2002). In addition, or maybe as a result, high employee turnover has been a recurring problem throughout the hospitality industry. Among the many cited reasons are low compensation, inadequate benefits, poor working conditions and compromised employee morale and attitudes (Maroudas et al., 2008)."
+        },
+        {
+          "id": "p5",
+          "text": "Ng and Sorensen (2008) demonstrated that when managers provide recognition to employees, motivate employees to work together, and remove obstacles preventing effective performance, employees feel more obligated to stay with the company. This was succinctly summarized by Michel et al. (2013): '[Providing] support to employees gives them the confidence to perform their jobs better and the motivation to stay with the organization.' Hospitality organizations can therefore enhance employee motivation and retention through the development and improvement of their working conditions. These conditions are inherently linked to the working environment."
+        },
+        {
+          "id": "p6",
+          "text": "While it seems likely that employees' reactions to their job characteristics could be affected by a predisposition to view their work environment negatively, no evidence exists to support this hypothesis (Spector et al., 2000). However, given the opportunity, many people will find something to complain about in relation to their workplace (Poulston, 2009). There is a strong link between the perceptions of employees and particular factors of their work environment that are separate from the work itself, including company policies, salary and vacations."
+        },
+        {
+          "id": "p7",
+          "text": "Such conditions are particularly troubling for the luxury hotel market, where high-quality service, requiring a sophisticated approach to HRM, is recognized as a critical source of competitive advantage (Maroudas et al., 2008). In a real sense, the services of hotel employees represent their industry (Schneider and Bowen, 1993). This representation has commonly been limited to guest experiences. This suggests that there has been a dichotomy between the guest environment provided in luxury hotels and the working conditions of their employees."
+        },
+        {
+          "id": "p8",
+          "text": "It is therefore essential for hotel management to develop HRM practices that enable them to inspire and retain competent employees. This requires an understanding of what motivates employees at different levels of management and different stages of their careers (Enz and Siguaw, 2000). This implies that it is beneficial for hotel managers to understand what practices are most favorable to increase employee satisfaction and retention."
+        },
+        {
+          "id": "p9",
+          "text": "Herzberg (1966) proposes that people have two major types of needs, the first being extrinsic motivation factors relating to the context in which work is performed, rather than the work itself. These include working conditions and job security. When these factors are unfavorable, job dissatisfaction may result. Significantly, though, just fulfilling these needs does not result in satisfaction, but only in the reduction of dissatisfaction (Maroudas et al., 2008)."
+        },
+        {
+          "id": "p10",
+          "text": "Employees also have intrinsic motivation needs or motivators, which include such factors as achievement and recognition. Unlike extrinsic factors, motivator factors may ideally result in job satisfaction (Maroudas et al., 2008). Herzberg's (1966) theory discusses the need for a 'balance' of these two types of needs."
+        },
+        {
+          "id": "p11",
+          "text": "The impact of fun as a motivating factor at work has also been explored. For example, Tews, Michel and Stafford (2013) conducted a study focusing on staff from a chain of themed restaurants in the United States. It was found that fun activities had a favorable impact on performance and manager support for fun had a favorable impact in reducing turnover. Their findings support the view that fun may indeed have a beneficial effect, but the framing of that fun must be carefully aligned with both organizational goals and employee characteristics. 'Managers must learn how to achieve the delicate balance of allowing employees the freedom to enjoy themselves at work while simultaneously maintaining high levels of performance' (Tews et al., 2013)."
+        },
+        {
+          "id": "p12",
+          "text": "Deery (2008) has recommended several actions that can be adopted at the organizational level to retain good staff as well as assist in balancing work and family life. Those particularly appropriate to the hospitality industry include allowing adequate breaks during the working day, staff functions that involve families, and providing health and well-being opportunities."
+        }
+      ],
+      "groups": [
+        {
+          "range": [
+            27,
+            31
+          ],
+          "type": "people-match",
+          "instruction": "Look at the following statements (Questions 27-31) and the list of researchers below. Match each statement with the correct researcher, A-F.",
+          "limit": "Write the correct letter, A-F, in boxes 27-31 on your answer sheet. NB You may use any letter more than once.",
+          "optionsTitle": "List of Researchers",
+          "options": [
+            {
+              "k": "A",
+              "text": "Pfeffer"
+            },
+            {
+              "k": "B",
+              "text": "Lucas"
+            },
+            {
+              "k": "C",
+              "text": "Maroudas et al."
+            },
+            {
+              "k": "D",
+              "text": "Ng and Sorensen"
+            },
+            {
+              "k": "E",
+              "text": "Enz and Siguaw"
+            },
+            {
+              "k": "F",
+              "text": "Deery"
+            }
+          ],
+          "questions": [
+            {
+              "n": 27,
+              "text": "Hotel managers need to know what would encourage good staff to remain."
+            },
+            {
+              "n": 28,
+              "text": "The actions of managers may make staff feel they shouldn't move to a different employer."
+            },
+            {
+              "n": 29,
+              "text": "Little is done in the hospitality industry to help workers improve their skills."
+            },
+            {
+              "n": 30,
+              "text": "Staff are less likely to change jobs if cooperation is encouraged."
+            },
+            {
+              "n": 31,
+              "text": "Dissatisfaction with pay is not the only reason why hospitality workers change jobs."
+            }
+          ]
+        },
+        {
+          "range": [
+            32,
+            35
+          ],
+          "type": "ynng",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+          "legend": [
+            [
+              "YES",
+              "if the statement agrees with the claims of the writer"
+            ],
+            [
+              "NO",
+              "if the statement contradicts the claims of the writer"
+            ],
+            [
+              "NOT GIVEN",
+              "if it is impossible to say what the writer thinks about this"
+            ]
+          ],
+          "questions": [
+            {
+              "n": 32,
+              "text": "One reason for high staff turnover in the hospitality industry is poor morale."
+            },
+            {
+              "n": 33,
+              "text": "Research has shown that staff have a tendency to dislike their workplace."
+            },
+            {
+              "n": 34,
+              "text": "An improvement in working conditions and job security makes staff satisfied with their jobs."
+            },
+            {
+              "n": 35,
+              "text": "Staff should be allowed to choose when they take breaks during the working day."
+            }
+          ]
+        },
+        {
+          "range": [
+            36,
+            40
+          ],
+          "type": "summary",
+          "instruction": "Complete the summary below.",
+          "limit": "Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "Fun at work",
+          "text": "Tews, Michel and Stafford carried out research on staff in an American chain of {{36}}. They discovered that activities designed for staff to have fun improved their {{37}}, and that management involvement led to lower staff {{38}}. They also found that the activities needed to fit with both the company's {{39}} and the {{40}} of the staff. A balance was required between a degree of freedom and maintaining work standards."
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": [
+      "creativity"
+    ],
+    "2": [
+      "rules"
+    ],
+    "3": [
+      "cities"
+    ],
+    "4": [
+      "traffic"
+    ],
+    "5": [
+      "crime"
+    ],
+    "6": [
+      "competition"
+    ],
+    "7": [
+      "evidence"
+    ],
+    "8": [
+      "life"
+    ],
+    "9": [
+      "TRUE"
+    ],
+    "10": [
+      "TRUE"
+    ],
+    "11": [
+      "NOT GIVEN"
+    ],
+    "12": [
+      "FALSE"
+    ],
+    "13": [
+      "TRUE"
+    ],
+    "14": [
+      "E"
+    ],
+    "15": [
+      "C"
+    ],
+    "16": [
+      "F"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "A"
+    ],
+    "19": [
+      "B",
+      "D"
+    ],
+    "20": [
+      "B",
+      "D"
+    ],
+    "21": [
+      "D",
+      "E"
+    ],
+    "22": [
+      "D",
+      "E"
+    ],
+    "23": [
+      "activists"
+    ],
+    "24": [
+      "consumerism"
+    ],
+    "25": [
+      "leaflets"
+    ],
+    "26": [
+      "police"
+    ],
+    "27": [
+      "E"
+    ],
+    "28": [
+      "D"
+    ],
+    "29": [
+      "B"
+    ],
+    "30": [
+      "D"
+    ],
+    "31": [
+      "C"
+    ],
+    "32": [
+      "YES"
+    ],
+    "33": [
+      "NO"
+    ],
+    "34": [
+      "NO"
+    ],
+    "35": [
+      "NOT GIVEN"
+    ],
+    "36": [
+      "restaurants"
+    ],
+    "37": [
+      "performance"
+    ],
+    "38": [
+      "turnover"
+    ],
+    "39": [
+      "goals"
+    ],
+    "40": [
+      "characteristics"
+    ]
+  },
+  "explain": {
+    "1": {
+      "loc": "p1",
+      "key": "this fantasy is helping her take her first steps towards her capacity for creativity",
+      "why": "题干 building a 'magical kingdom' 对应原文 Alice 搭建奇幻王国，原文明确说这有助于发展 creativity。"
+    },
+    "2": {
+      "loc": "p2",
+      "key": "settle down with a board game, she's learning about the need to follow rules and take turns",
+      "why": "题干 board games involve ... and turn-taking，原文对应 rules 和 take turns，填 rules。"
+    },
+    "3": {
+      "loc": "p5",
+      "key": "over half the people in the world now live in cities",
+      "why": "题干 populations of ... have grown，原文说超过一半世界人口现居住在城市，填 cities。"
+    },
+    "4": {
+      "loc": "p5",
+      "key": "Outdoor play is curtailed by perceptions of risk to do with traffic",
+      "why": "题干 fear of ...，原文第一个风险是 traffic（交通）。"
+    },
+    "5": {
+      "loc": "p5",
+      "key": "parents' increased wish to protect their children from being the victims of crime",
+      "why": "题干 fear of ...，原文第二个风险是 crime（犯罪）。"
+    },
+    "6": {
+      "loc": "p5",
+      "key": "the emphasis on 'earlier is better' which is leading to greater competition in academic learning",
+      "why": "题干 increased ... in schools，原文对应 competition in academic learning，填 competition。"
+    },
+    "7": {
+      "loc": "p6",
+      "key": "what they often lack is the evidence to base policies on",
+      "why": "题干 difficult to find ... to support new policies，原文对应 the evidence to base policies on，填 evidence。"
+    },
+    "8": {
+      "loc": "p8",
+      "key": "there is very little data on the impact it has on the child's later life",
+      "why": "题干 impact of play on the rest of the child's ...，原文对应 child's later life，填 life。"
+    },
+    "9": {
+      "loc": "p12",
+      "key": "the ability to self-regulate has been shown to be a key predictor of academic performance",
+      "why": "题干 good self-control ... likely to do well at school = 原文 self-regulate 是学业表现的关键预测因子 → TRUE。"
+    },
+    "10": {
+      "loc": "p13",
+      "key": "can even be useful in the diagnosis of neurodevelopmental disorders like autism",
+      "why": "题干 way a child plays may provide information about possible medical problems = 原文观察儿童玩耍有助于诊断神经发育障碍 → TRUE。"
+    },
+    "11": {
+      "loc": "p14",
+      "key": "Children wrote longer and better-structured stories when they first played with dolls",
+      "why": "原文只提到玩偶游戏有助于写作，没有区分男孩女孩谁受益更多 → NOT GIVEN。"
+    },
+    "12": {
+      "loc": "p14",
+      "key": "not a single child said this through the whole year of the project",
+      "why": "原文说用乐高搭建故事后，没有一个孩子说不知道写什么，与题干「有困难想不出点子」相反 → FALSE。"
+    },
+    "13": {
+      "loc": "p16",
+      "key": "It's regarded as something trivial, or even as something negative",
+      "why": "题干 regard children's play as less significant than in the past = 原文说如今游戏的重要性被忽视、被视为琐碎之事 → TRUE。"
+    },
+    "14": {
+      "loc": "E",
+      "key": "I really have no idea what people did with them, because they could instantly be recognised as white bikes",
+      "why": "E 段描述自行车被破坏和偷窃（misused a bike-sharing scheme）。"
+    },
+    "15": {
+      "loc": "C",
+      "key": "the council unanimously rejected the plan. 'They said that the bicycle belongs to the past.'",
+      "why": "C 段解释了市议会拒绝该方案的原因（an explanation of why ... was turned down）。"
+    },
+    "16": {
+      "loc": "F",
+      "key": "financially I didn't really benefit from it, because I never filed for a patent",
+      "why": "F 段提到 Schimmelpennink 因未申请专利而无法从中获利（unable to profit from their work）。"
+    },
+    "17": {
+      "loc": "C",
+      "key": "a white bicycle - per person, per kilometre - would cost the municipality only 10% of what it contributed to public transport",
+      "why": "C 段给出了具体的成本节省计算（the potential savings a bike-sharing scheme would bring）。"
+    },
+    "18": {
+      "loc": "A",
+      "key": "an answer to the perceived threats of air pollution and consumerism",
+      "why": "A 段说明最初的白色自行车计划是为了解决空气污染和消费主义问题（the problems a bike-sharing scheme was intended to solve）。"
+    },
+    "19": {
+      "loc": "E",
+      "key": "the business partner had lost interest",
+      "why": "题干组 19-20 选 B、D。B「失败因合作方退出」对应 E 段 Postbank 放弃芯片卡后失去兴趣、无以为继。"
+    },
+    "20": {
+      "loc": "D",
+      "key": "'Times had changed,' he recalls. 'People had become more environmentally conscious'",
+      "why": "D「因人们观念转变而得以推行」对应 D 段 Schimmelpennink 所说的人们变得更有环保意识，时代已经不同。"
+    },
+    "21": {
+      "loc": "G",
+      "key": "People who travel on the underground don't carry their bikes around. But often they need additional transport",
+      "why": "题干组 21-22 选 D、E。D「共享单车方案会让使用公共交通的居民受益」对应 G 段：地铁乘客常需要额外交通工具抵达目的地。"
+    },
+    "22": {
+      "loc": "G",
+      "key": "regarded as one of the two most cycle-friendly capitals in the world",
+      "why": "E「这座城市以欢迎骑行者著称」对应 G 段：阿姆斯特丹被认为是全球最适宜骑行的两个首都之一。"
+    },
+    "23": {
+      "loc": "A",
+      "key": "a group of Dutch activists who wanted to change society",
+      "why": "题干 people who belonged to this group were ... = 原文 Dutch activists，填 activists。"
+    },
+    "24": {
+      "loc": "A",
+      "key": "an answer to the perceived threats of air pollution and consumerism",
+      "why": "题干 damage to the environment and about ... = 原文另一个担忧 consumerism，填 consumerism。"
+    },
+    "25": {
+      "loc": "A",
+      "key": "They also distributed leaflets describing the dangers of cars",
+      "why": "题干 handed out ... that condemned the use of cars = 原文 distributed leaflets，填 leaflets。"
+    },
+    "26": {
+      "loc": "B",
+      "key": "The police were opposed to Provo's initiatives and almost as soon as the white bikes were distributed around the city, they removed them",
+      "why": "题干 the ... took them away = 原文 police removed them，填 police。"
+    },
+    "27": {
+      "loc": "p8",
+      "key": "This requires an understanding of what motivates employees at different levels of management and different stages of their careers (Enz and Siguaw, 2000)",
+      "why": "题干 need to know what would encourage good staff to remain 对应 Enz and Siguaw 关于理解员工动机以留住人才的论述 → E。"
+    },
+    "28": {
+      "loc": "p5",
+      "key": "employees feel more obligated to stay with the company",
+      "why": "题干 actions of managers may make staff feel they shouldn't move = 原文 Ng and Sorensen 的研究：经理的行为让员工感到有义务留下 → D。"
+    },
+    "29": {
+      "loc": "p4",
+      "key": "does not appear to be designed to ... draw out the full potential of people",
+      "why": "题干 little is done to help workers improve their skills = 原文 Lucas 指出 HRM 未能充分发掘员工潜力（即未帮助提升技能）→ B。"
+    },
+    "30": {
+      "loc": "p5",
+      "key": "motivate employees to work together ... employees feel more obligated to stay",
+      "why": "题干 less likely to change jobs if cooperation is encouraged = 原文 Ng and Sorensen 提到鼓励员工合作让员工更愿留下 → D。"
+    },
+    "31": {
+      "loc": "p4",
+      "key": "Among the many cited reasons are low compensation, inadequate benefits, poor working conditions and compromised employee morale and attitudes (Maroudas et al., 2008)",
+      "why": "题干 dissatisfaction with pay is not the only reason = 原文 Maroudas et al. 列举了薪酬之外的多个离职原因 → C。"
+    },
+    "32": {
+      "loc": "p4",
+      "key": "compromised employee morale and attitudes",
+      "why": "题干 poor morale is one reason for high staff turnover，原文将士气低落列为离职原因之一 → YES。"
+    },
+    "33": {
+      "loc": "p6",
+      "key": "no evidence exists to support this hypothesis",
+      "why": "题干 research has shown staff tend to dislike their workplace，原文明确说没有证据支持这一假设 → NO。"
+    },
+    "34": {
+      "loc": "p9",
+      "key": "just fulfilling these needs does not result in satisfaction, but only in the reduction of dissatisfaction",
+      "why": "题干说改善工作条件和工作保障会让员工满意，原文说这只能减少不满，并不能带来满意 → NO。"
+    },
+    "35": {
+      "loc": "p12",
+      "key": "allowing adequate breaks during the working day",
+      "why": "原文只建议允许充分的休息时间，没有提到员工可自行选择休息的时间 → NOT GIVEN。"
+    },
+    "36": {
+      "loc": "p11",
+      "key": "staff from a chain of themed restaurants in the United States",
+      "why": "题干 an American chain of ... = 原文 themed restaurants，填 restaurants。"
+    },
+    "37": {
+      "loc": "p11",
+      "key": "fun activities had a favorable impact on performance",
+      "why": "题干 improved their ... = 原文 favorable impact on performance，填 performance。"
+    },
+    "38": {
+      "loc": "p11",
+      "key": "manager support for fun had a favorable impact in reducing turnover",
+      "why": "题干 management involvement led to lower staff ... = 原文 reducing turnover，填 turnover。"
+    },
+    "39": {
+      "loc": "p11",
+      "key": "carefully aligned with both organizational goals and employee characteristics",
+      "why": "题干 fit with both the company's ... = 原文 organizational goals，填 goals。"
+    },
+    "40": {
+      "loc": "p11",
+      "key": "carefully aligned with both organizational goals and employee characteristics",
+      "why": "题干 and the ... of the staff = 原文 employee characteristics，填 characteristics。"
+    }
+  }
+}

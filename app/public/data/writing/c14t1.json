@@ -1,0 +1,44 @@
+{
+  "id": "c14t1",
+  "book": "剑桥雅思14",
+  "test": 1,
+  "title": "剑14 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "pie-chart",
+      "kindZh": "饼图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The charts below show the average percentages in typical meals of three types of nutrients, all of which may be unhealthy if eaten too much.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c14t1-task1.png",
+      "imageCaption": "Average percentages of sodium, saturated fats and added sugars in typical meals consumed in the USA",
+      "sample": {
+        "band": 6.5,
+        "text": "The diagrams illustrate the average proportions of three types of nutrients in typical meals, which can be unhealthy if consumed too much. The three types include sodium, saturated fats and added sugar. The data is taken from the United States of America.\n\nThe first chart shows the average percentages of sodium. Dinner contains the most sodium (43%). Breakfast and snacks include an equal proportion of sodium consumed, with each of them adding up 14% of sodium. Through eating lunch, 29% sodium is consumed. The second chart shows the percentages of saturated fat in meals. By eating dinner, 37% saturated fat is consumed. Lunch contributes to a consumption of 26% saturated fat, followed by snacks with 21% and breakfast with 16%. The last chart illustrates the proportions of added sugar. Snacks contain the highest amount of added sugar (42%). Dinner includes 23% A typical dinner includes 23% added sugar, while lunch contains 19% and breakfast includes 16%.\n\nAll in all, the diagrams show that every typical meal consumed in the USA contains a percentage of at least 14% of nutrients that can be unhealthy if eaten too much.",
+        "comment": "The candidate has accurately reported the data for each chart and has presented a summary of the information, but could achieve a higher score by making comparisons across the charts, e.g. breakfast contains the lowest amounts of sodium, saturated fats and added sugar. The information is logically organised and there is a clear progression throughout the script. The main points are clearly signalled [The first chart / The second chart / All in all] and there are examples of other cohesive devices [each of them]. The range of vocabulary is varied [data / contains / an equal proportion of / consumed / consumption / illustrates]. Minor errors do not cause misunderstanding [adding up 14% of sodium]. There is a mix of simple and complex sentence structures, using active, passive and modal verb forms and there is also subordination through the use of participles [Through eating lunch / By eating dinner / followed by]. More variety in grammatical structures would perhaps achieve a higher score."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "agree-disagree",
+      "kindZh": "是否同意",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 7,
+        "text": "Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations.\n\nBased on my knowledge, some people choose to accept the fate that they have to undergo the bad situation as they believe that good things might come out of it. Their solution is simply to just go with the flow because they think that they will learn something new along the journey. For example, a student received a grade B for his Physics examination. However, he only needs one more mark to get an A. If a student requires to receive a mark percentage of 70% to get an A, this student got a 69% on his paper. As the teacher looked through the questions with the whole class, he notices that the teacher accidentally marked his correct answer to wrong. So, realistically, he should get an A. However, he chooses to leave his grade as a B because he believes that his current grade will be a motivation for him to improve and work harder to get a better grade in the next examination. Hence, this explains why some people chooses to accept the bad situation.\n\nBesides that, it is also mentioned that others argue that is better to try and improve such situations. I believe the reason they act that way is because they feel a bit paranoid that the situation will become worse if they do not do so. For instance, a person had to undergo a shortage of money. Logically, they will feel a little paranoid that at one point, they might have to experience an empty pocket and had to live in the streets. Regarding that matter, they figured out a solution to improvise such situations by getting an extra or part-time job. This solution will help them to gain extra money to pay their daily expenses such as water and electricity bills. This means that their problems are solved and they are now worry-free.\n\nIn my honest opinion, I strongly suggest that one can choose to act in both situations according to situations. When facing a problem, think of the best solution to solve it. If the situation requires you to simply ignore it, then just do so. There is a no need in figuring out a way to improve those situations as it will take up your time and cause stress. However, if the situation requires you to take action quickly, by all means do so as you might not know what are the consequences if you ignore the problem.\n\nIn a conclusion, the main important thing when facing bad situations is to analyse the problem, then only you can react to them. Not all bad situations needs to be ignored and not all needs to be improved. Think wisely to get the best solution for all of your problems.",
+        "comment": "The candidate has addressed all parts of the task and shows a clear position throughout the response. Ideas are presented, extended and supported. The response is logically organised and there is a clear progression throughout, with a range of cohesive devices [Based on / For example / However / Hence / Besides that / Regarding that matter / This solution / This means that / In my honest opinion], with only occasional awkwardness or error [act in both situations according to situations / In a conclusion]. Each paragraph contains a clear, central topic. The range of vocabulary includes some less common items [fate / paranoid] and shows examples of style and collocation [go with the flow / figured out a solution / problems are solved / my honest opinion]. Occasional errors do not prevent the message from coming through. There is a range of grammatical structures and these are usually accurate, although there are a few errors [some people chooses / might not know what are the consequences / Not all bad situations needs to be ignored]. The meaning is still clear, however."
+      }
+    }
+  ]
+}
