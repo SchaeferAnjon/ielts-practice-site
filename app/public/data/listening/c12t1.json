@@ -1,0 +1,1428 @@
+{
+  "id": "c12t1",
+  "book": "剑桥雅思12",
+  "test": 1,
+  "title": "剑12 Test 1 · Listening",
+  "source": "Cambridge IELTS 12 Academic, Test 5（原书 Test 5 = 本站 Test 1；文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "mountains"
+    ],
+    "2": [
+      "horse"
+    ],
+    "3": [
+      "garden",
+      "gardens"
+    ],
+    "4": [
+      "lunch"
+    ],
+    "5": [
+      "map"
+    ],
+    "6": [
+      "experience"
+    ],
+    "7": [
+      "Ratchesons"
+    ],
+    "8": [
+      "helmet"
+    ],
+    "9": [
+      "shops"
+    ],
+    "10": [
+      "267"
+    ],
+    "11": [
+      "A"
+    ],
+    "12": [
+      "A"
+    ],
+    "13": [
+      "C"
+    ],
+    "14": [
+      "C"
+    ],
+    "15": [
+      "A",
+      "E"
+    ],
+    "16": [
+      "A",
+      "E"
+    ],
+    "17": [
+      "F"
+    ],
+    "18": [
+      "C"
+    ],
+    "19": [
+      "D"
+    ],
+    "20": [
+      "B"
+    ],
+    "21": [
+      "B"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "budget"
+    ],
+    "25": [
+      "employment"
+    ],
+    "26": [
+      "safety"
+    ],
+    "27": [
+      "insurance"
+    ],
+    "28": [
+      "diary"
+    ],
+    "29": [
+      "database"
+    ],
+    "30": [
+      "museum"
+    ],
+    "31": [
+      "damage"
+    ],
+    "32": [
+      "side effects"
+    ],
+    "33": [
+      "bridge"
+    ],
+    "34": [
+      "confusion"
+    ],
+    "35": [
+      "smartphone"
+    ],
+    "36": [
+      "resources"
+    ],
+    "37": [
+      "unnecessary",
+      "not necessary"
+    ],
+    "38": [
+      "chocolate bar"
+    ],
+    "39": [
+      "problem"
+    ],
+    "40": [
+      "market share"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c12/t1p1.mp3",
+      "duration": 501,
+      "title": "Family excursions",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Family excursions",
+          "lines": [
+            "## Cruise on a lake",
+            "Example: travel on an old steamship",
+            "Can take photos of the {{1}} that surround the lake",
+            "## Farm visit",
+            "Children can help feed the sheep",
+            "Visit can include a 40-minute ride on a {{2}}",
+            "Visitors can walk in the farm's {{3}} by the lake",
+            "{{4}} is available at extra cost",
+            "## Cycling trips",
+            "Cyclists explore the Back Road",
+            "A {{5}} is provided",
+            "Only suitable for cyclists who have some {{6}}",
+            "Bikes can be hired from {{7}} (near the Cruise Ship Terminal)",
+            "Cyclists need: a repair kit, food and drink, a {{8}} (can be hired)",
+            "There are no {{9}} or accommodation in the area",
+            "## Cost",
+            "Total cost for whole family of cruise and farm visit: ${{10}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TC EMPLOYEE",
+          "t": "Hi. Can I help you?",
+          "start": 169.36,
+          "end": 170.44
+        },
+        {
+          "s": "VISITOR",
+          "t": "I'd like to find out if you have any excursions suitable for families.",
+          "start": 170.6,
+          "end": 175.4
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "Sure. How about taking your family for a cruise? We have a steamship that takes passengers out several times a day – it's over 100 years old.",
+          "start": 176.28,
+          "end": 184.69
+        },
+        {
+          "s": "VISITOR",
+          "t": "That sounds interesting. How long is the trip?",
+          "start": 185.13,
+          "end": 187.65
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "About an hour and a half. And don't forget to take pictures of the mountains. They're all around you when you're on the boat and they look fantastic.",
+          "q": [
+            1
+          ],
+          "start": 187.85,
+          "end": 195.37
+        },
+        {
+          "s": "VISITOR",
+          "t": "OK. And I assume there's a cafe or something on board?",
+          "start": 195.61,
+          "end": 199.65
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "Sure. How old are your children?",
+          "start": 199.85,
+          "end": 201.56
+        },
+        {
+          "s": "VISITOR",
+          "t": "Er, my daughter's fifteen and my son's seven.",
+          "start": 202.68,
+          "end": 205.04
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "Right. Well there are various things you can do once you've crossed the lake, to make a day of it. One thing that's very popular is a visit to the Country Farm. You're met off the boat by the farmer and he'll take you to the holding pens, where the sheep are kept. Children love feeding them!",
+          "start": 206.0,
+          "end": 222.0
+        },
+        {
+          "s": "VISITOR",
+          "t": "My son would love that. He really likes animals.",
+          "start": 222.08,
+          "end": 225.09
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "Well, there's also a 40-minute trek round the farm on a horse, if he wants.",
+          "q": [
+            2
+          ],
+          "start": 225.57,
+          "end": 229.69
+        },
+        {
+          "s": "VISITOR",
+          "t": "Do you think he'd manage it? He hasn't done that before.",
+          "start": 230.49,
+          "end": 234.05
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "Sure. It's suitable for complete beginners.",
+          "start": 234.77,
+          "end": 236.93
+        },
+        {
+          "s": "VISITOR",
+          "t": "Ah, good.",
+          "start": 237.01,
+          "end": 237.41
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "And again, visitors are welcome to explore the farm on their own, as long as they take care to close gates and so on. There are some very beautiful gardens along the side of the lake which also belong to the farm – they'll be just at their best now. You could easily spend an hour or two there.",
+          "q": [
+            3
+          ],
+          "start": 237.41,
+          "end": 254.51
+        },
+        {
+          "s": "VISITOR",
+          "t": "OK. Well that all sounds good. And can we get lunch there?",
+          "q": [
+            4
+          ],
+          "start": 254.75,
+          "end": 259.7
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "You can, and it's very good, though it's not included in the basic cost. You pay when you get there.",
+          "start": 260.26,
+          "end": 265.74
+        },
+        {
+          "s": "VISITOR",
+          "t": "Right.",
+          "start": 266.26,
+          "end": 266.34
+        },
+        {
+          "s": "VISITOR",
+          "t": "So is there anything else to do over on that side of the lake?",
+          "start": 313.82,
+          "end": 316.86
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "Well, what you can do is take a bike over on the ship and then go on a cycling trip. There's a trail there called the Back Road – you could easily spend three or four hours exploring it, and the scenery's wonderful. They'll give you a map when you get your ticket for the cruise – there's no extra charge.",
+          "q": [
+            5
+          ],
+          "start": 317.66,
+          "end": 335.18
+        },
+        {
+          "s": "VISITOR",
+          "t": "What's the trail like in terms of difficulty?",
+          "start": 336.22,
+          "end": 338.5
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "Quite challenging in places. It wouldn't be suitable for your seven-year-old. It needs someone who's got a bit more experience.",
+          "q": [
+            6
+          ],
+          "start": 338.9,
+          "end": 346.1
+        },
+        {
+          "s": "VISITOR",
+          "t": "Hmm. Well, my daughter loves cycling and so do I, so maybe the two of us could go, and my wife and son could stay on the farm. That might work out quite well. But we don't have bikes here... is there somewhere we could rent them?",
+          "start": 347.08,
+          "end": 365.31
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "Yes, there's a place here in the city. It's called Ratchesons.",
+          "q": [
+            7
+          ],
+          "start": 365.31,
+          "end": 369.08
+        },
+        {
+          "s": "VISITOR",
+          "t": "I'll just make a note of that – er, how do you spell it?",
+          "start": 370.24,
+          "end": 373.84
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "R-A-T-C-H-E-S-O-N-S. It's just by the cruise ship terminal.",
+          "start": 373.92,
+          "end": 383.22
+        },
+        {
+          "s": "VISITOR",
+          "t": "OK.",
+          "start": 383.46,
+          "end": 383.98
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "You'd also need to pick up a repair kit for the bike from there to take along with you, and you'd need to take along a snack and some water – it'd be best to get those in the city.",
+          "start": 385.1,
+          "end": 394.77
+        },
+        {
+          "s": "VISITOR",
+          "t": "Fine. That shouldn't be a problem. And I assume I can rent a helmet from the bike place?",
+          "q": [
+            8
+          ],
+          "start": 395.09,
+          "end": 400.93
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "Sure, you should definitely get that. It's a great ride, but you want to be well prepared because it's very remote – you won't see any shops round there, or anywhere to stay, so you need to get back in time for the last boat.",
+          "q": [
+            9
+          ],
+          "start": 401.61,
+          "end": 413.92
+        },
+        {
+          "s": "VISITOR",
+          "t": "Yeah. So what sort of prices are we looking at here?",
+          "start": 415.26,
+          "end": 417.86
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "Let's see, that'd be one adult and one child for the cruise with farm tour, that's $117, and an adult and a child for the cruise only so that's $214 dollars altogether. Oh, wait a minute, how old did you say your daughter was?",
+          "start": 418.62,
+          "end": 436.77
+        },
+        {
+          "s": "VISITOR",
+          "t": "Fifteen.",
+          "start": 436.77,
+          "end": 436.77,
+          "estimated": true
+        },
+        {
+          "s": "TC EMPLOYEE",
+          "t": "Then I'm afraid it's $267 because she has to pay the adult fare, which is $75 instead of the child fare which is $22 – sorry about that.",
+          "q": [
+            10
+          ],
+          "start": 437.37,
+          "end": 449.6
+        },
+        {
+          "s": "VISITOR",
+          "t": "That's OK. Er, so how do ...",
+          "start": 449.6,
+          "end": 449.6,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c12/t1p2.mp3",
+      "duration": 408,
+      "title": "Talk to new kitchen assistants",
+      "groups": [
+        {
+          "range": [
+            11,
+            14
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Talk to new kitchen assistants",
+          "questions": [
+            {
+              "n": 11,
+              "text": "According to the manager, what do most people like about the job of kitchen assistant?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the variety of work"
+                },
+                {
+                  "k": "B",
+                  "text": "the friendly atmosphere"
+                },
+                {
+                  "k": "C",
+                  "text": "the opportunities for promotion"
+                }
+              ]
+            },
+            {
+              "n": 12,
+              "text": "The manager is concerned about some of the new staff's",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "jewellery."
+                },
+                {
+                  "k": "B",
+                  "text": "hair styles."
+                },
+                {
+                  "k": "C",
+                  "text": "shoes."
+                }
+              ]
+            },
+            {
+              "n": 13,
+              "text": "The manager says that the day is likely to be busy for kitchen staff because",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "it is a public holiday."
+                },
+                {
+                  "k": "B",
+                  "text": "the head chef is absent."
+                },
+                {
+                  "k": "C",
+                  "text": "the restaurant is almost fully booked."
+                }
+              ]
+            },
+            {
+              "n": 14,
+              "text": "Only kitchen staff who are 18 or older are allowed to use",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "the waste disposal unit."
+                },
+                {
+                  "k": "B",
+                  "text": "the electric mixer."
+                },
+                {
+                  "k": "C",
+                  "text": "the meat slicer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            15,
+            16
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "According to the manager, which TWO things can make the job of kitchen assistant stressful?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "They have to follow orders immediately."
+            },
+            {
+              "k": "B",
+              "text": "The kitchen gets very hot."
+            },
+            {
+              "k": "C",
+              "text": "They may not be able to take a break."
+            },
+            {
+              "k": "D",
+              "text": "They have to do overtime."
+            },
+            {
+              "k": "E",
+              "text": "The work is physically demanding."
+            }
+          ]
+        },
+        {
+          "range": [
+            17,
+            20
+          ],
+          "type": "matching",
+          "instruction": "What is the responsibility of each of the following restaurant staff?",
+          "limit": "Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 17-20.",
+          "optionsTitle": "Responsibilities",
+          "options": [
+            {
+              "k": "A",
+              "text": "training courses"
+            },
+            {
+              "k": "B",
+              "text": "food stocks"
+            },
+            {
+              "k": "C",
+              "text": "first aid"
+            },
+            {
+              "k": "D",
+              "text": "breakages"
+            },
+            {
+              "k": "E",
+              "text": "staff discounts"
+            },
+            {
+              "k": "F",
+              "text": "timetables"
+            }
+          ],
+          "itemsTitle": "Restaurant staff",
+          "items": [
+            {
+              "n": 17,
+              "text": "Joy Parkins"
+            },
+            {
+              "n": 18,
+              "text": "David Field"
+            },
+            {
+              "n": 19,
+              "text": "Dexter Wills"
+            },
+            {
+              "n": 20,
+              "text": "Mike Smith"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MANAGER",
+          "t": "Good morning everyone. My name's Joy Parkins and I'm the restaurant manager.",
+          "start": 68.46,
+          "end": 73.98
+        },
+        {
+          "s": "MANAGER",
+          "t": "And I understand that none of you've had any previous experience as kitchen assistants?",
+          "start": 74.7,
+          "end": 78.9
+        },
+        {
+          "s": "MANAGER",
+          "t": "Well, you might be feeling a bit nervous now, but most of our kitchen assistants say they enjoy the work.",
+          "start": 80.79,
+          "end": 86.87
+        },
+        {
+          "s": "MANAGER",
+          "t": "OK, they might get shouted at sometimes, but it's nothing personal, and they're pleased that they have so many different things to do, which means they never get bored.",
+          "q": [
+            11
+          ],
+          "start": 87.95,
+          "end": 96.69
+        },
+        {
+          "s": "MANAGER",
+          "t": "And I'll tell you straightaway that if you do well, we might think about moving you up and giving you some more responsibility.",
+          "start": 97.21,
+          "end": 105.85
+        },
+        {
+          "s": "MANAGER",
+          "t": "Right, well, you've all shown up on time, which is an excellent start.",
+          "start": 107.57,
+          "end": 111.97
+        },
+        {
+          "s": "MANAGER",
+          "t": "Now I'm glad to see none of you have unsuitable footwear, so that's good – you need to be careful as the floors can get very wet and slippery.",
+          "start": 113.17,
+          "end": 122.46
+        },
+        {
+          "s": "MANAGER",
+          "t": "Those of you with long hair have got it well out of the way, but some of you'll need to remove your rings and bracelets – just put them somewhere safe for today, and remember to leave them at home tomorrow, as they can be a safety hazard.",
+          "q": [
+            12
+          ],
+          "start": 123.58,
+          "end": 138.15
+        },
+        {
+          "s": "MANAGER",
+          "t": "Now it's going to be a busy day for you all today – we don't have any tables free for this evening, and only a few for lunch.",
+          "q": [
+            13
+          ],
+          "start": 139.47,
+          "end": 148.14
+        },
+        {
+          "s": "MANAGER",
+          "t": "Fortunately we've got our Head Chef back – he was away on holiday all last week which meant the other chefs had extra work.",
+          "start": 149.5,
+          "end": 156.62
+        },
+        {
+          "s": "MANAGER",
+          "t": "Now, I'll tell you a bit more about the job in a minute but first, some general regulations.",
+          "start": 157.79,
+          "end": 163.43
+        },
+        {
+          "s": "MANAGER",
+          "t": "For all of you, whatever your age, there's some equipment you mustn't use until you've been properly trained, like the waste disposal system for example, for health and safety reasons.",
+          "q": [
+            14
+          ],
+          "start": 164.67,
+          "end": 177.76
+        },
+        {
+          "s": "MANAGER",
+          "t": "Then I think there are two of you here who are under 18 – that's Emma and Jake, isn't it? Right, so for you two, the meat slicer is out of bounds.",
+          "start": 179.0,
+          "end": 191.01
+        },
+        {
+          "s": "MANAGER",
+          "t": "And of course none of you are allowed to use the electric mixer until you've been shown how it works.",
+          "start": 191.65,
+          "end": 197.89
+        },
+        {
+          "s": "MANAGER",
+          "t": "Now you may have heard that this can be a stressful job, and I have to say that can be true.",
+          "start": 199.33,
+          "end": 206.21
+        },
+        {
+          "s": "MANAGER",
+          "t": "You'll be working an eight-hour day for the first week, though you'll have the chance to do overtime after that as well if you want to.",
+          "start": 207.25,
+          "end": 215.1
+        },
+        {
+          "s": "MANAGER",
+          "t": "But however long the hours are, you'll get a break in the middle.",
+          "start": 215.9,
+          "end": 219.86
+        },
+        {
+          "s": "MANAGER",
+          "t": "What you will find is that you're on your feet all day long, lifting and carrying, so if you're not fit now you soon will be!",
+          "q": [
+            15,
+            16
+          ],
+          "start": 221.23,
+          "end": 229.15
+        },
+        {
+          "s": "MANAGER",
+          "t": "You'll find you don't have much chance to take it easy – when someone tells you to do something you need to do it straightaway – but at least we do have a very efficient air conditioning system compared with some kitchens.",
+          "q": [
+            15,
+            16
+          ],
+          "start": 230.27,
+          "end": 242.83
+        },
+        {
+          "s": "MANAGER",
+          "t": "Now let me tell you about some of the people you need to know.",
+          "start": 281.23,
+          "end": 284.19
+        },
+        {
+          "s": "MANAGER",
+          "t": "So as I said, I'm Joy Parkins and I decide who does what during the day and how long they work for.",
+          "q": [
+            17
+          ],
+          "start": 284.79,
+          "end": 292.35
+        },
+        {
+          "s": "MANAGER",
+          "t": "I'll be trying to get you to work with as many different people in the kitchen as possible, so that you learn while you're on the job.",
+          "start": 293.23,
+          "end": 300.03
+        },
+        {
+          "s": "MANAGER",
+          "t": "One person whose name you must remember is David Field.",
+          "start": 301.31,
+          "end": 305.6
+        },
+        {
+          "s": "MANAGER",
+          "t": "If you injure yourself at all, even if it's really minor, you must report to him and he'll make sure the incident is recorded and you get the appropriate treatment.",
+          "q": [
+            18
+          ],
+          "start": 306.44,
+          "end": 316.42
+        },
+        {
+          "s": "MANAGER",
+          "t": "He's trained to give basic treatment to staff himself, or he'll send you off somewhere else if necessary.",
+          "start": 317.46,
+          "end": 322.9
+        },
+        {
+          "s": "MANAGER",
+          "t": "Then there's Dexter Wills – he's the person you need to see if you smash a plate or something like that.",
+          "q": [
+            19
+          ],
+          "start": 324.38,
+          "end": 330.92
+        },
+        {
+          "s": "MANAGER",
+          "t": "Don't just leave it and hope no one will notice – it's really important to get things noted and replaced or there could be problems later.",
+          "start": 331.76,
+          "end": 340.04
+        },
+        {
+          "s": "MANAGER",
+          "t": "And finally, there's Mike Smith.",
+          "start": 340.82,
+          "end": 342.82
+        },
+        {
+          "s": "MANAGER",
+          "t": "He's the member of staff who takes care of all the stores of perishables, so if you notice we're getting low in flour or sugar or something, make sure you let him know so he can put in an order.",
+          "q": [
+            20
+          ],
+          "start": 343.5,
+          "end": 356.44
+        },
+        {
+          "s": "MANAGER",
+          "t": "OK, now the next thing ...",
+          "start": 358.18,
+          "end": 359.74
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c12/t1p3.mp3",
+      "duration": 398,
+      "title": "Paper on public libraries",
+      "groups": [
+        {
+          "range": [
+            21,
+            23
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Paper on Public Libraries",
+          "questions": [
+            {
+              "n": 21,
+              "text": "What will be the main topic of Trudie and Stewart's paper?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "how public library services are organised in different countries"
+                },
+                {
+                  "k": "B",
+                  "text": "how changes in society are reflected in public libraries"
+                },
+                {
+                  "k": "C",
+                  "text": "how the funding of public libraries has changed"
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "They agree that one disadvantage of free digitalised books is that",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "they may take a long time to read."
+                },
+                {
+                  "k": "B",
+                  "text": "they can be difficult to read."
+                },
+                {
+                  "k": "C",
+                  "text": "they are generally old."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "Stewart expects that in the future libraries will",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "maintain their traditional function."
+                },
+                {
+                  "k": "B",
+                  "text": "become centres for local communities."
+                },
+                {
+                  "k": "C",
+                  "text": "no longer contain any books."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            24,
+            30
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "title": "Study of local library: possible questions",
+          "lines": [
+            "whether it has a {{24}} of its own",
+            "its policy regarding noise of various kinds",
+            "how it's affected by laws regarding all aspects of {{25}}",
+            "how the design needs to take the {{26}} of customers into account",
+            "what {{27}} is required in case of accidents",
+            "why a famous person's {{28}} is located in the library",
+            "whether it has a {{29}} of local organisations",
+            "how it's different from a library in a {{30}}"
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TRUDIE",
+          "t": "OK, Stewart. We need to start planning our paper on public libraries. Have you thought of an angle yet?",
+          "start": 54.0,
+          "end": 59.44
+        },
+        {
+          "s": "STEWART",
+          "t": "Well, there's so much we could look into. How libraries have changed over the centuries, for instance, or how different countries organise them. What do you think, Trudie?",
+          "start": 59.68,
+          "end": 69.61
+        },
+        {
+          "s": "TRUDIE",
+          "t": "Maybe we should concentrate on this country, and try and relate the changes in libraries to external developments, like the fact that far more people can read than a century ago, and that the local population may speak lots of different languages.",
+          "q": [
+            21
+          ],
+          "start": 70.13,
+          "end": 83.76
+        },
+        {
+          "s": "STEWART",
+          "t": "We could include something about changes in the source of funding, too.",
+          "start": 84.8,
+          "end": 88.12
+        },
+        {
+          "s": "TRUDIE",
+          "t": "Yes, but remember we're only supposed to write a short paper, so it's probably best if we don't go into funding in any detail.",
+          "start": 88.4,
+          "end": 95.2
+        },
+        {
+          "s": "STEWART",
+          "t": "Right. Well, shall we just brainstorm a few ideas, to get started?",
+          "start": 95.8,
+          "end": 100.48
+        },
+        {
+          "s": "TRUDIE",
+          "t": "OK. We obviously need to look at the impact of new technology, particularly the internet. Now that lots of books have been digitalised, people can access them from their own computers at home.",
+          "start": 100.72,
+          "end": 111.36
+        },
+        {
+          "s": "STEWART",
+          "t": "And if everyone did that, libraries would be obsolete.",
+          "start": 111.92,
+          "end": 114.52
+        },
+        {
+          "s": "TRUDIE",
+          "t": "Yes.",
+          "start": 114.6,
+          "end": 114.92
+        },
+        {
+          "s": "STEWART",
+          "t": "But the digitalised books that are available online for free are mostly out of copyright, aren't they? And copyright in this country lasts for 70 years after the author dies. So you won't find the latest best-seller or up-to-date information.",
+          "q": [
+            22
+          ],
+          "start": 115.32,
+          "end": 131.25
+        },
+        {
+          "s": "TRUDIE",
+          "t": "That's an important point. Anyway, I find it hard to concentrate when I'm reading a long text on a screen. I'd much rather read a physical book. And it takes longer to read on a screen.",
+          "start": 131.57,
+          "end": 142.33
+        },
+        {
+          "s": "STEWART",
+          "t": "Oh, I prefer it. I suppose it's just a personal preference.",
+          "start": 143.01,
+          "end": 146.9
+        },
+        {
+          "s": "TRUDIE",
+          "t": "Mm. I expect that libraries will go on evolving in the next few years. Some have already become centres where community activities take place, like local clubs meeting there. I think that'll become even more common.",
+          "start": 147.78,
+          "end": 159.02
+        },
+        {
+          "s": "STEWART",
+          "t": "I'd like to think so, and that they'll still be serving their traditional function, but I'm not so sure. There are financial implications, after all. What I'm afraid will happen is that books and magazines will all disappear, and there'll just be rows and rows of computers. They won't look anything like the libraries we're used to.",
+          "q": [
+            23
+          ],
+          "start": 159.26,
+          "end": 177.63
+        },
+        {
+          "s": "TRUDIE",
+          "t": "Well, we'll see.",
+          "start": 177.67,
+          "end": 178.75
+        },
+        {
+          "s": "TRUDIE",
+          "t": "I've just had an idea. Why don't we make an in-depth study of our local public library as background to our paper?",
+          "start": 231.99,
+          "end": 237.95
+        },
+        {
+          "s": "STEWART",
+          "t": "Yes, that'd be interesting, and raise all sorts of issues. Let's make a list of possible things we could ask about, then work out some sort of structure. For instance, um, we could interview some of the staff, and find out whether the library has its own budget, or if that's controlled by the local council.",
+          "q": [
+            24
+          ],
+          "start": 238.19,
+          "end": 256.36
+        },
+        {
+          "s": "TRUDIE",
+          "t": "And what their policies are. I know they don't allow food, but I'd love to find out what types of noise they ban – there always seems to be a lot of talking, but never music. I don't know if that's a policy or it just happens.",
+          "start": 256.64,
+          "end": 268.62
+        },
+        {
+          "s": "STEWART",
+          "t": "Ah, I've often wondered. Then there are things like how the library is affected by employment laws. I suppose there are rules about working hours, facilities for staff, and so on.",
+          "q": [
+            25
+          ],
+          "start": 268.9,
+          "end": 280.9
+        },
+        {
+          "s": "TRUDIE",
+          "t": "Right. Then there are other issues relating to the design of the building and how customers use it. Like what measures does the library take to ensure their safety? They'd need floor coverings that aren't slippery, and emergency exits, for instance.",
+          "q": [
+            26
+          ],
+          "start": 280.9,
+          "end": 294.38
+        },
+        {
+          "s": "TRUDIE",
+          "t": "Oh, and another thing – there's the question of the kind of insurance the library needs to have, in case anyone gets injured.",
+          "q": [
+            27
+          ],
+          "start": 294.38,
+          "end": 301.46
+        },
+        {
+          "s": "STEWART",
+          "t": "Yes, that's something else to find out. You know something I've often wondered?",
+          "start": 301.62,
+          "end": 305.68
+        },
+        {
+          "s": "TRUDIE",
+          "t": "What's that?",
+          "start": 305.92,
+          "end": 306.6
+        },
+        {
+          "s": "STEWART",
+          "t": "Well, you know they've got an archive of local newspapers going back years? Well, next to it they've got the diary of a well-known politician from the late 19th century. I wonder why it's there. Do you know what his connection was with this area?",
+          "q": [
+            28
+          ],
+          "start": 306.76,
+          "end": 321.46
+        },
+        {
+          "s": "TRUDIE",
+          "t": "No idea. Let's add it to our list of things to find out. Oh, I've just thought – you know people might ask in the library about local organisations, like sports clubs? Well, I wonder if they keep a database, or whether they just look online.",
+          "q": [
+            29
+          ],
+          "start": 322.02,
+          "end": 336.58
+        },
+        {
+          "s": "STEWART",
+          "t": "Right. I quite fancy finding out what the differences are between a library that's open to the public and one that's part of a museum, for example – they must be very different.",
+          "q": [
+            30
+          ],
+          "start": 337.38,
+          "end": 346.86
+        },
+        {
+          "s": "TRUDIE",
+          "t": "Mmm. Then something else I'd like to know is ...",
+          "start": 347.82,
+          "end": 349.54
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c12/t1p4.mp3",
+      "duration": 528,
+      "title": "Four business values",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Four business values",
+          "lines": [
+            "## Four business values",
+            "Many business values can result in {{31}}.",
+            "Senior managers need to understand and deal with the potential {{32}} that may result.",
+            "## Collaboration",
+            "During a training course, the speaker was in a team that had to build a {{33}}.",
+            "Other teams experienced {{34}} from trying to collaborate.",
+            "The speaker's team won because they reduced collaboration.",
+            "Sales of a {{35}} were poor because of collaboration.",
+            "## Industriousness",
+            "Hard work may be a bad use of various company {{36}}.",
+            "The word 'lazy' in this context refers to people who avoid doing tasks that are {{37}}.",
+            "## Creativity",
+            "An advertising campaign for a {{38}} was memorable but failed to boost sales.",
+            "Creativity should be used as a response to a particular {{39}}.",
+            "## Excellence",
+            "According to one study, on average, pioneers had a {{40}} that was far higher than that of followers.",
+            "Companies that always aim at excellence may miss opportunities."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "LECTURER",
+          "t": "In public discussion of business, we take certain values for granted.",
+          "start": 74.2,
+          "end": 78.36
+        },
+        {
+          "s": "LECTURER",
+          "t": "Today I'm going to talk about four of them: collaboration, hard work, creativity and excellence.",
+          "start": 79.44,
+          "end": 87.57
+        },
+        {
+          "s": "LECTURER",
+          "t": "Most people would say they're all 'good things'. I'm going to suggest that's an over-simple view.",
+          "start": 88.81,
+          "end": 95.01
+        },
+        {
+          "s": "LECTURER",
+          "t": "The trouble with these values is that they're theoretical concepts, removed from the reality of day-to-day business.",
+          "start": 96.22,
+          "end": 103.14
+        },
+        {
+          "s": "LECTURER",
+          "t": "Pursue values by all means, but be prepared for what may happen as a result. They can actually cause damage, which is not at all the intention.",
+          "q": [
+            31
+          ],
+          "start": 104.22,
+          "end": 114.0
+        },
+        {
+          "s": "LECTURER",
+          "t": "Business leaders generally try to do the right thing.",
+          "start": 115.5,
+          "end": 118.58
+        },
+        {
+          "s": "LECTURER",
+          "t": "But all too often the right thing backfires, if those leaders adopt values without understanding and managing the side effects that arise.",
+          "q": [
+            32
+          ],
+          "start": 119.06,
+          "end": 127.86
+        },
+        {
+          "s": "LECTURER",
+          "t": "The values can easily get in the way of what's actually intended.",
+          "start": 128.88,
+          "end": 132.24
+        },
+        {
+          "s": "LECTURER",
+          "t": "OK. So the first value I'm going to discuss is collaboration.",
+          "start": 134.06,
+          "end": 138.9
+        },
+        {
+          "s": "LECTURER",
+          "t": "Er, let me give you an example.",
+          "start": 140.06,
+          "end": 141.3
+        },
+        {
+          "s": "LECTURER",
+          "t": "On a management training course I once attended, we were put into groups and had to construct a bridge across a stream, using building blocks that we were given.",
+          "q": [
+            33
+          ],
+          "start": 142.42,
+          "end": 152.77
+        },
+        {
+          "s": "LECTURER",
+          "t": "The rule was that everyone in the team had to move at least one building block during the construction. This was intended to encourage teamwork.",
+          "start": 153.53,
+          "end": 163.29
+        },
+        {
+          "s": "LECTURER",
+          "t": "But it was really a job best done by one person.",
+          "start": 164.17,
+          "end": 167.37
+        },
+        {
+          "s": "LECTURER",
+          "t": "The other teams tried to collaborate on building the structure, and descended into confusion, with everyone getting in each other's way.",
+          "q": [
+            34
+          ],
+          "start": 168.24,
+          "end": 175.8
+        },
+        {
+          "s": "LECTURER",
+          "t": "Our team leader solved the challenge brilliantly. She simply asked everyone in the team to move a piece a few centimetres, to comply with the rule, and then let the person in the team with an aptitude for puzzles like this build it alone.",
+          "start": 177.12,
+          "end": 191.54
+        },
+        {
+          "s": "LECTURER",
+          "t": "We finished before any other team. My point is that the task wasn't really suited to teamworking, so why make it one?",
+          "start": 192.72,
+          "end": 202.28
+        },
+        {
+          "s": "LECTURER",
+          "t": "Teamwork can also lead to inconsistency – a common cause of poor sales.",
+          "start": 203.74,
+          "end": 209.42
+        },
+        {
+          "s": "LECTURER",
+          "t": "In the case of a smartphone that a certain company launched, one director wanted to target the business market, and another demanded it was aimed at consumers.",
+          "q": [
+            35
+          ],
+          "start": 210.22,
+          "end": 221.14
+        },
+        {
+          "s": "LECTURER",
+          "t": "The company wanted both directors to be involved, so gave the product a consumer-friendly name, but marketed it to companies.",
+          "start": 221.22,
+          "end": 231.05
+        },
+        {
+          "s": "LECTURER",
+          "t": "The result was that it met the needs of neither group. It would have been better to let one director or the other have his way, not both.",
+          "start": 232.17,
+          "end": 241.31
+        },
+        {
+          "s": "LECTURER",
+          "t": "Now industriousness, or hard work.",
+          "start": 246.82,
+          "end": 250.66
+        },
+        {
+          "s": "LECTURER",
+          "t": "It's easy to mock people who say they work hard: after all, a hamster running around in a wheel is working hard – and getting nowhere.",
+          "start": 252.15,
+          "end": 261.39
+        },
+        {
+          "s": "LECTURER",
+          "t": "Of course hard work is valuable, but only when properly targeted. Otherwise it wastes the resources that companies value most – time and energy.",
+          "q": [
+            36
+          ],
+          "start": 262.2,
+          "end": 272.2
+        },
+        {
+          "s": "LECTURER",
+          "t": "And that's bad for the organisation.",
+          "start": 272.85,
+          "end": 273.93
+        },
+        {
+          "s": "LECTURER",
+          "t": "There's a management model that groups people according to four criteria: clever, hard-working, stupid and lazy.",
+          "start": 276.25,
+          "end": 285.05
+        },
+        {
+          "s": "LECTURER",
+          "t": "Here 'lazy' means having a rational determination not to carry out unnecessary tasks. It doesn't mean trying to avoid work altogether.",
+          "q": [
+            37
+          ],
+          "start": 286.49,
+          "end": 295.37
+        },
+        {
+          "s": "LECTURER",
+          "t": "Most people display two of these characteristics, and the most valuable people are those who are both clever and lazy: they possess intellectual clarity, and they don't rush into making decisions.",
+          "start": 296.48,
+          "end": 310.71
+        },
+        {
+          "s": "LECTURER",
+          "t": "They come up with solutions to save the time and energy spent by the stupid and hard-working group.",
+          "start": 311.83,
+          "end": 317.83
+        },
+        {
+          "s": "LECTURER",
+          "t": "Instead of throwing more man-hours at a problem, the clever and lazy group looks for a more effective solution.",
+          "start": 318.5,
+          "end": 325.38
+        },
+        {
+          "s": "LECTURER",
+          "t": "Next we come to creativity.",
+          "start": 325.62,
+          "end": 329.3
+        },
+        {
+          "s": "LECTURER",
+          "t": "This often works well – creating an attention-grabbing TV commercial, for example, might lead to increased sales. But it isn't always a good thing.",
+          "start": 330.43,
+          "end": 341.59
+        },
+        {
+          "s": "LECTURER",
+          "t": "Some advertising campaigns are remembered for their creativity, without having any effect on sales.",
+          "start": 343.05,
+          "end": 348.85
+        },
+        {
+          "s": "LECTURER",
+          "t": "This happened a few years ago with the launch of a chocolate bar: subsequent research showed that plenty of consumers remembered the adverts, but had no idea what was being advertised.",
+          "q": [
+            38
+          ],
+          "start": 348.97,
+          "end": 360.76
+        },
+        {
+          "s": "LECTURER",
+          "t": "The trouble is that the creator derives pleasure from coming up with the idea, and wrongly assumes the audience for the campaign will share that feeling.",
+          "start": 361.6,
+          "end": 370.75
+        },
+        {
+          "s": "LECTURER",
+          "t": "A company that brings out thousands of new products may seem more creative than a company that only has a few, but it may be too creative, and make smaller profits.",
+          "start": 372.91,
+          "end": 384.6
+        },
+        {
+          "s": "LECTURER",
+          "t": "Creativity needs to be targeted, to solve a problem that the company has identified.",
+          "q": [
+            39
+          ],
+          "start": 384.72,
+          "end": 391.16
+        },
+        {
+          "s": "LECTURER",
+          "t": "Just coming up with more and more novel products isn't necessarily a good thing.",
+          "start": 391.64,
+          "end": 396.56
+        },
+        {
+          "s": "LECTURER",
+          "t": "So finally, excellence. We all know companies that claim they 'strive for excellence', but it takes a long time to achieve excellence.",
+          "start": 399.11,
+          "end": 409.15
+        },
+        {
+          "s": "LECTURER",
+          "t": "In business, being first with a product is more profitable than having the best product.",
+          "start": 409.91,
+          "end": 415.75
+        },
+        {
+          "s": "LECTURER",
+          "t": "A major study of company performance compared pioneers – that is, companies bringing out the first version of a particular product – with followers, the companies that copied and improved on that product.",
+          "start": 417.03,
+          "end": 431.22
+        },
+        {
+          "s": "LECTURER",
+          "t": "The study found that the pioneers commanded an average market share of 29 percent, while the followers achieved less than half that, only 13 percent – even though their product might have been better.",
+          "q": [
+            40
+          ],
+          "start": 432.54,
+          "end": 446.98
+        },
+        {
+          "s": "LECTURER",
+          "t": "Insisting on excellence in everything we do is time-consuming, wastes energy and leads to losing out on opportunities.",
+          "start": 448.44,
+          "end": 457.32
+        },
+        {
+          "s": "LECTURER",
+          "t": "Sometimes, second-rate work is more worthwhile than excellence.",
+          "start": 458.6,
+          "end": 462.64
+        },
+        {
+          "s": "LECTURER",
+          "t": "'Make sure it's excellent' sounds like a good approach to business, but the 'just-get-started' approach is likely to be more successful.",
+          "start": 464.04,
+          "end": 472.54
+        }
+      ]
+    }
+  ]
+}

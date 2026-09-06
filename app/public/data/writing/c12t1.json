@@ -1,0 +1,73 @@
+{
+  "id": "c12t1",
+  "book": "剑桥雅思12",
+  "test": 1,
+  "title": "剑12 Test 1 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "bar-chart",
+      "kindZh": "柱状图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The bar chart below shows the percentage of Australian men and women in different age groups who did regular physical activity in 2010.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c12t1-task1.webp",
+      "imageCaption": "Percentage of Australian men and women doing regular physical activity: 2010",
+      "data": {
+        "unit": "Percentage (%)",
+        "years": [
+          15,
+          25,
+          35,
+          45,
+          55,
+          65
+        ],
+        "series": {
+          "Male": [
+            52.8,
+            42.2,
+            39.5,
+            43.1,
+            45.1,
+            46.7
+          ],
+          "Female": [
+            47.7,
+            48.9,
+            52.5,
+            53.3,
+            53,
+            47.1
+          ]
+        }
+      },
+      "sample": {
+        "band": 5.0,
+        "text": "The bar chart below shows the percentage of Australia men and women in different age group who did regular physical activity in 2010. It's interesting to the bar chart.\n\nIn 15 to 24, Australian men's percentage of doing regular physical activity is 52.8 and women's percentage is 47.7. Compare with men and women, men's percentage is higher than women's percentage. However, bars's changed and interesting. After 25 to 64, men's percentage are increasing. In 25 to 34, men's percentage is 42.2. Besides, In 35 to 44, the percentage more decrease until 39.5.\n\nAfter over 45 age, a few increase like 43.7, 45.1 and 46.7.\n\nHowever, the percentage couldn't over 50%.\n\nThen, women's percentages are increase until 54 age like 52.5, 53.3. Although women's percentages are decrease after 55 age, the percentages are higher than men's percentages.\n\nIn conclusion, men did regular physical activity more than women when they were teenager and mid twenties.\n\nAfter mid-twenties, however, men's percentage was decreased and women's percentage was increase.",
+        "comment": "The candidate covers the key features and rounds off the description with an overview. Organisation is evident, however not wholly logical, and it is sometimes difficult to relate data to specific age groups. Vocabulary is just about adequate, but is rather dependent on input material [regular physical activity / percentage]: original material is limited to e.g. [teenager / mid-twenties] with a lot of inaccuracy in word formation. Most sentence forms consist of simple structures and these are often inaccurate [bars's changed and interesting / men's percentage are increasing / the percentage more decrease until], though there is some accuracy in comparative forms [is higher than]."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Write about the following topic:",
+        "Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 6.0,
+        "text": "Sharing information is actual issue in our world where it has strong influence on people. There are various spheres of our life where information is more or less important for people working there on out of this. For this reason some people consider that it is good to share information while others think in opposite way.\n\nFor example, practically all scientists are glad to share information with ordinary people or other scientist. There is no competition in this sphere. Sometimes it is bad for govenment which scientist share the secret information with international spy but it will not hurt information.\n\nThere are some simple rules in academic world which limite informational sources between people. If person is interested in theme discussing with you and you are ready to keep talking then the person gives you all information what he knows for free. On the other hand, if the person knows much and he knows that you can not give him actual or new information then he will share information with you just for money. For example, student pay for his learning while two students can cooperate and share information with each other. It is obviously that sharing information in business world can followes by releases. There is large competition and it may takes much costs for companies. Companies loose their profit every day because some one can not keep silence especially IT companies.\n\nTo sum up all above it is neccessery to say that there are some spheres in which sharing information is a crime. In my opinion, in many cases information can be too important or sharing at all.",
+        "comment": "The candidate addresses all parts of the prompt, although there is some misunderstanding of the term shared freely. Ideas relating to each sector mentioned in the prompt are presented, yet there is not much development of these, especially of sharing ideas in the business world. There is a clear overall progression, with the candidate's own opinion presented at the end, but there are some errors in the use of cohesive devices [working there on out of this / which scientist]. Lexis is mainly appropriate for the task, though there are some errors in word choice [actual / releases] and spelling [govenment / limite / theme / loose]. There is a mix of simple and complex sentence forms, with a fair degree of accuracy: errors in grammatical control seldom prevent meaning from coming through."
+      }
+    }
+  ]
+}
