@@ -1,0 +1,1878 @@
+{
+  "id": "c8t1",
+  "book": "剑桥雅思8",
+  "test": 1,
+  "title": "剑8 Test 1 · Listening",
+  "source": "Cambridge IELTS 8, Test 1（OCR 扫描件 + 人工校对）",
+  "answers": {
+    "1": [
+      "C"
+    ],
+    "2": [
+      "B"
+    ],
+    "3": [
+      "48 North Avenue"
+    ],
+    "4": [
+      "WS6 2YH"
+    ],
+    "5": [
+      "01674 553242"
+    ],
+    "6": [
+      "drink",
+      "drinks",
+      "refreshment",
+      "refreshments",
+      "free drink",
+      "free drinks",
+      "free refreshment",
+      "free refreshments"
+    ],
+    "7": [
+      "pianist",
+      "the pianist",
+      "a pianist",
+      "piano player",
+      "the piano player",
+      "a piano player"
+    ],
+    "8": [
+      "10.50"
+    ],
+    "9": [
+      "4",
+      "four"
+    ],
+    "10": [
+      "50%"
+    ],
+    "11": [
+      "1.30"
+    ],
+    "12": [
+      "25 December",
+      "Christmas Day"
+    ],
+    "13": [
+      "car-park",
+      "car park",
+      "parking lot"
+    ],
+    "14": [
+      "45"
+    ],
+    "15": [
+      "tables",
+      "some tables"
+    ],
+    "16": [
+      "C",
+      "F",
+      "G"
+    ],
+    "17": [
+      "C",
+      "F",
+      "G"
+    ],
+    "18": [
+      "C",
+      "F",
+      "G"
+    ],
+    "19": [
+      "B",
+      "E"
+    ],
+    "20": [
+      "B",
+      "E"
+    ],
+    "21": [
+      "A"
+    ],
+    "22": [
+      "C"
+    ],
+    "23": [
+      "A"
+    ],
+    "24": [
+      "B"
+    ],
+    "25": [
+      "B",
+      "C",
+      "F"
+    ],
+    "26": [
+      "B",
+      "C",
+      "F"
+    ],
+    "27": [
+      "B",
+      "C",
+      "F"
+    ],
+    "28": [
+      "12,000",
+      "12000"
+    ],
+    "29": [
+      "horses",
+      "horse"
+    ],
+    "30": [
+      "caves",
+      "cave"
+    ],
+    "31": [
+      "surface"
+    ],
+    "32": [
+      "environment"
+    ],
+    "33": [
+      "impact",
+      "impacts",
+      "effect",
+      "effects"
+    ],
+    "34": [
+      "urban"
+    ],
+    "35": [
+      "problems",
+      "problem"
+    ],
+    "36": [
+      "images",
+      "image"
+    ],
+    "37": [
+      "patterns",
+      "pattern"
+    ],
+    "38": [
+      "distortion",
+      "distortions"
+    ],
+    "39": [
+      "traffic"
+    ],
+    "40": [
+      "weather"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c8/t1p1.mp3",
+      "duration": 424,
+      "title": "Summer Music Festival Booking",
+      "groups": [
+        {
+          "range": [
+            1,
+            2
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "In the library George found a brochure.",
+          "questions": [
+            {
+              "n": 1,
+              "text": "In the lobby of the library George saw",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "a group playing music."
+                },
+                {
+                  "k": "B",
+                  "text": "a display of instruments."
+                },
+                {
+                  "k": "C",
+                  "text": "a video about the festival."
+                }
+              ]
+            },
+            {
+              "n": 2,
+              "text": "George wants to sit at the back so they can",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "see well."
+                },
+                {
+                  "k": "B",
+                  "text": "hear clearly."
+                },
+                {
+                  "k": "C",
+                  "text": "pay less."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            3,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the form below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "SUMMER MUSIC FESTIVAL BOOKING FORM",
+          "table": {
+            "head": [
+              "Date",
+              "Event",
+              "Price",
+              "Tickets"
+            ],
+            "rows": [
+              [
+                "NAME: George O'Neill",
+                "",
+                "",
+                ""
+              ],
+              [
+                "ADDRESS: {{3}}, {{4}}",
+                "",
+                "",
+                ""
+              ],
+              [
+                "PHONE: {{5}}",
+                "",
+                "",
+                ""
+              ],
+              [
+                "5 June",
+                "Instrumental group – Guitarrini",
+                "£7.50",
+                "2"
+              ],
+              [
+                "17 June",
+                "Singer (price £6.00 includes {{6}} in the garden)",
+                "£6.00",
+                "2"
+              ],
+              [
+                "22 June",
+                "{{7}} (Anna Ventura)",
+                "£7.00",
+                "1"
+              ],
+              [
+                "23 June",
+                "Spanish Dance & Guitar Concert",
+                "£{{8}}",
+                "{{9}}"
+              ],
+              [
+                "NB",
+                "Children / Students / Senior Citizens have {{10}} discount on all tickets.",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "NINA",
+          "t": "Hi, George!",
+          "start": 94.34,
+          "end": 94.86
+        },
+        {
+          "s": "NINA",
+          "t": "Glad you're back.",
+          "start": 95.78,
+          "end": 96.58
+        },
+        {
+          "s": "NINA",
+          "t": "Loads of people have phoned you.",
+          "start": 96.74,
+          "end": 99.06
+        },
+        {
+          "s": "GEORGE",
+          "t": "Really?",
+          "start": 99.18,
+          "end": 99.62
+        },
+        {
+          "s": "NINA",
+          "t": "I felt just like your secretary!",
+          "start": 100.1,
+          "end": 101.7
+        },
+        {
+          "s": "GEORGE",
+          "t": "Sorry!",
+          "start": 102.06,
+          "end": 102.5
+        },
+        {
+          "s": "GEORGE",
+          "t": "I went into the library this afternoon to have a look at a newspaper and I came across something really interesting.",
+          "start": 103.14,
+          "end": 108.3
+        },
+        {
+          "s": "NINA",
+          "t": "What?",
+          "start": 109.09,
+          "end": 109.17
+        },
+        {
+          "s": "NINA",
+          "t": "A book?",
+          "start": 109.37,
+          "end": 110.13
+        },
+        {
+          "s": "GEORGE",
+          "t": "No, a brochure from a summer festival — mainly Spanish music.",
+          "start": 110.33,
+          "end": 113.53
+        },
+        {
+          "s": "GEORGE",
+          "t": "Look, I've got it here.",
+          "start": 113.77,
+          "end": 115.09
+        },
+        {
+          "s": "GEORGE",
+          "t": "NINA!",
+          "start": 115.09,
+          "end": 115.09,
+          "estimated": true
+        },
+        {
+          "s": "GEORGE",
+          "t": "Spanish music?",
+          "start": 163.01,
+          "end": 164.21
+        },
+        {
+          "s": "GEORGE",
+          "t": "I really love the guitar.",
+          "start": 165.05,
+          "end": 166.61
+        },
+        {
+          "s": "GEORGE",
+          "t": "Let's have a look.",
+          "start": 167.63,
+          "end": 168.31
+        },
+        {
+          "s": "GEORGE",
+          "t": "So what's this group 'Guitarrin?'?",
+          "start": 169.39,
+          "end": 170.87
+        },
+        {
+          "s": "GEORGE",
+          "t": "They're really good.",
+          "start": 172.91,
+          "end": 174.03
+        },
+        {
+          "s": "GEORGE",
+          "t": "They had a video with all the highlights of the festival at a stand in the lobby to the library, so I heard them.",
+          "q": [
+            1
+          ],
+          "start": 175.11,
+          "end": 180.47
+        },
+        {
+          "s": "GEORGE",
+          "t": "They play fantastic instruments — drums and flutes and old kinds of guitars.",
+          "start": 181.11,
+          "end": 185.47
+        },
+        {
+          "s": "GEORGE",
+          "t": "I've never heard anything like it before.",
+          "start": 185.63,
+          "end": 188.27
+        },
+        {
+          "s": "NINA",
+          "t": "Sounds great.",
+          "start": 189.07,
+          "end": 189.63
+        },
+        {
+          "s": "GEORGE",
+          "t": "Okay.",
+          "start": 189.63,
+          "end": 189.63,
+          "estimated": true
+        },
+        {
+          "s": "GEORGE",
+          "t": "Shall we go then?",
+          "start": 190.86,
+          "end": 191.54
+        },
+        {
+          "s": "GEORGE",
+          "t": "Spoil ourselves?",
+          "start": 191.54,
+          "end": 192.42
+        },
+        {
+          "s": "NINA",
+          "t": "Yes, let's. .",
+          "start": 193.58,
+          "end": 194.42
+        },
+        {
+          "s": "GEORGE",
+          "t": "The only problem is there aren't any cheap seats . . . it's all one price.",
+          "start": 194.9,
+          "end": 198.98
+        },
+        {
+          "s": "NINA",
+          "t": "Well, in that case we could sit right at the front —- we'd have a really good view.",
+          "start": 200.8,
+          "end": 205.28
+        },
+        {
+          "s": "GEORGE",
+          "t": "Yeah, though I think that if you sit at the back you can actually hear the whole thing better.",
+          "q": [
+            2
+          ],
+          "start": 205.44,
+          "end": 210.36
+        },
+        {
+          "s": "NINA",
+          "t": "Yes.",
+          "start": 211.7,
+          "end": 211.98
+        },
+        {
+          "s": "NINA",
+          "t": "Anyway we can decide when we get there.",
+          "start": 212.78,
+          "end": 214.74
+        },
+        {
+          "s": "NINA",
+          "t": "So will you fill in the form or shall I?",
+          "start": 271.48,
+          "end": 273.96
+        },
+        {
+          "s": "GEORGE",
+          "t": "I'll do it.",
+          "start": 274.28,
+          "end": 274.92
+        },
+        {
+          "s": "GEORGE",
+          "t": "Name: George O'Neill.",
+          "start": 274.96,
+          "end": 276.6
+        },
+        {
+          "s": "GEORGE",
+          "t": "Address: 48 North Avenue, Westsea.",
+          "q": [
+            3
+          ],
+          "start": 277.76,
+          "end": 281.76
+        },
+        {
+          "s": "GEORGE",
+          "t": "Do you remember our new postcode?",
+          "start": 283.73,
+          "end": 285.09
+        },
+        {
+          "s": "GEORGE",
+          "t": "Still can't remember it.",
+          "start": 285.45,
+          "end": 286.53
+        },
+        {
+          "s": "NINA",
+          "t": "Just a minute — I've got it written down here.",
+          "start": 287.61,
+          "end": 290.33
+        },
+        {
+          "s": "NINA",
+          "t": "WS6 2YH.",
+          "q": [
+            4
+          ],
+          "start": 290.33,
+          "end": 290.33,
+          "estimated": true
+        },
+        {
+          "s": "NINA",
+          "t": "Do you need the phone too?",
+          "start": 296.28,
+          "end": 297.44
+        },
+        {
+          "s": "GEORGE",
+          "t": "Please. I'm really bad at numbers.",
+          "start": 297.6,
+          "end": 299.92
+        },
+        {
+          "s": "NINA",
+          "t": "01674 553242.",
+          "q": [
+            5
+          ],
+          "start": 301.04,
+          "end": 303.6
+        },
+        {
+          "s": "NINA",
+          "t": "So, let's book two tickets for Guitarrini.",
+          "start": 308.8,
+          "end": 310.6
+        },
+        {
+          "s": "GEORGE",
+          "t": "Okay.",
+          "start": 310.6,
+          "end": 310.6,
+          "estimated": true
+        },
+        {
+          "s": "GEORGE",
+          "t": "If you're sure £7.50 each is all right.",
+          "start": 312.48,
+          "end": 314.68
+        },
+        {
+          "s": "GEORGE",
+          "t": "How do you feel about the singer?",
+          "start": 314.99,
+          "end": 316.15
+        },
+        {
+          "s": "NINA",
+          "t": "I haven't quite decided.",
+          "start": 317.31,
+          "end": 318.35
+        },
+        {
+          "s": "NINA",
+          "t": "But I've noticed something on the booking form that might just persuade me!",
+          "start": 319.15,
+          "end": 322.71
+        },
+        {
+          "s": "GEORGE",
+          "t": "What's that then?",
+          "start": 322.79,
+          "end": 323.51
+        },
+        {
+          "s": "NINA",
+          "t": "Free refreshments!",
+          "start": 323.59,
+          "end": 325.19
+        },
+        {
+          "s": "GEORGE",
+          "t": "Really?",
+          "start": 325.47,
+          "end": 325.91
+        },
+        {
+          "s": "NINA",
+          "t": "Yes, look here.",
+          "start": 326.15,
+          "end": 327.23
+        },
+        {
+          "s": "NINA",
+          "t": "Sunday 17th of June.",
+          "start": 327.74,
+          "end": 329.54
+        },
+        {
+          "s": "NINA",
+          "t": "Singer, ticket £6.00 includes drinks in the garden.",
+          "q": [
+            6
+          ],
+          "start": 330.26,
+          "end": 334.14
+        },
+        {
+          "s": "GEORGE",
+          "t": "Sounds like a bargain to me!",
+          "start": 334.38,
+          "end": 335.82
+        },
+        {
+          "s": "NINA",
+          "t": "Yes, let's book two tickets for that.",
+          "start": 336.22,
+          "end": 338.94
+        },
+        {
+          "s": "NINA",
+          "t": "So, what else?",
+          "start": 339.79,
+          "end": 340.67
+        },
+        {
+          "s": "NINA",
+          "t": "I'm feeling quite keen now!",
+          "start": 340.67,
+          "end": 342.87
+        },
+        {
+          "s": "NINA",
+          "t": "How about the pianist on the 22nd of June?",
+          "q": [
+            7
+          ],
+          "start": 343.03,
+          "end": 345.83
+        },
+        {
+          "s": "GEORGE",
+          "t": "Anna Ventura?",
+          "start": 345.83,
+          "end": 345.83,
+          "estimated": true
+        },
+        {
+          "s": "GEORGE",
+          "t": "I've just remembered that's my evening class night.",
+          "start": 347.87,
+          "end": 350.19
+        },
+        {
+          "s": "NINA",
+          "t": "That's okay.",
+          "start": 350.92,
+          "end": 351.2
+        },
+        {
+          "s": "NINA",
+          "t": "I'll just have to go on my own — but we can go to the Spanish dance and guitar concert together, can't we?",
+          "start": 351.88,
+          "end": 357.2
+        },
+        {
+          "s": "GEORGE",
+          "t": "Yes — I'm sure Tom and Kieran would enjoy that too.",
+          "start": 357.24,
+          "end": 359.96
+        },
+        {
+          "s": "GEORGE",
+          "t": "Good heavens — £10.50 a ticket!",
+          "q": [
+            8
+          ],
+          "start": 360.64,
+          "end": 362.76
+        },
+        {
+          "s": "GEORGE",
+          "t": "I can see we're going to have to go without food for the rest of the week — we'll need to book four!",
+          "q": [
+            9
+          ],
+          "start": 364.29,
+          "end": 368.81
+        },
+        {
+          "s": "NINA",
+          "t": "Wish we were students — look!",
+          "start": 369.65,
+          "end": 371.53
+        },
+        {
+          "s": "NINA",
+          "t": "Children, Students and Senior Citizens get a 50% discount on everything.",
+          "q": [
+            10
+          ],
+          "start": 372.13,
+          "end": 377.13
+        },
+        {
+          "s": "GEORGE",
+          "t": "If only!",
+          "start": 377.87,
+          "end": 378.35
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c8/t1p2.mp3",
+      "duration": 361,
+      "title": "The Dinosaur Museum",
+      "groups": [
+        {
+          "range": [
+            11,
+            15
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "The Dinosaur Museum",
+          "lines": [
+            "The museum closes at {{11}} p.m. on Mondays.",
+            "The museum is not open on {{12}}.",
+            "School groups are met by tour guides in the {{13}}.",
+            "The whole visit takes 90 minutes, including {{14}} minutes for the guided tour.",
+            "There are {{15}} behind the museum where students can have lunch."
+          ]
+        },
+        {
+          "range": [
+            16,
+            18
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose THREE letters, A-G.",
+          "text": "Which THREE things can students have with them in the museum?",
+          "count": 3,
+          "options": [
+            {
+              "k": "A",
+              "text": "food"
+            },
+            {
+              "k": "B",
+              "text": "water"
+            },
+            {
+              "k": "C",
+              "text": "cameras"
+            },
+            {
+              "k": "D",
+              "text": "books"
+            },
+            {
+              "k": "E",
+              "text": "bags"
+            },
+            {
+              "k": "F",
+              "text": "pens"
+            },
+            {
+              "k": "G",
+              "text": "worksheets"
+            }
+          ]
+        },
+        {
+          "range": [
+            19,
+            20
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose TWO letters, A-E.",
+          "text": "Which TWO activities can students do after the tour at present?",
+          "count": 2,
+          "options": [
+            {
+              "k": "A",
+              "text": "build model dinosaurs"
+            },
+            {
+              "k": "B",
+              "text": "watch films"
+            },
+            {
+              "k": "C",
+              "text": "draw dinosaurs"
+            },
+            {
+              "k": "D",
+              "text": "find dinosaur eggs"
+            },
+            {
+              "k": "E",
+              "text": "play computer games"
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "Hello, and thank you for asking me to your teachers' meeting to talk about the Dinosaur Museum and to tell you a bit about what you can do with your students there.",
+          "start": 48.58,
+          "end": 57.34
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, let me give you some of the basic information first.",
+          "start": 58.38,
+          "end": 61.54
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In regard to opening hours, we're open every day of the week from 9.00 am to 8.00 pm except on Mondays when we close at 1.30 pm.",
+          "q": [
+            11
+          ],
+          "start": 62.46,
+          "end": 71.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And, in fact the only day in the year when we're closed is on the 25th of December.",
+          "q": [
+            12
+          ],
+          "start": 73.21,
+          "end": 77.53
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You can book a guided tour for your school group any time that we're open.",
+          "start": 78.77,
+          "end": 82.69
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you bring a school group to the museum, when you arrive we ask you to remain with your group in the car park.",
+          "q": [
+            13
+          ],
+          "start": 83.98,
+          "end": 90.58
+        },
+        {
+          "s": "SPEAKER",
+          "t": "One or more of the tour guides will welcome you there and brief you about what the tour will be about.",
+          "start": 91.42,
+          "end": 96.98
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We do this there because our entrance is quite small and we really haven't got much room for briefing groups in the exhibition area.",
+          "start": 98.06,
+          "end": 105.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "As far as the amount of time you'll need goes, if you bring a school group you should plan on allowing a minimum of 90 minutes for the visit.",
+          "start": 107.24,
+          "end": 116.12
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This allows 15 minutes to get on and off the coach, 45 minutes for the guided tour and 30 minutes for after-tour activities.",
+          "q": [
+            14
+          ],
+          "start": 117.08,
+          "end": 126.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you're going to have lunch at the museum you will, of course, have to allow more time.",
+          "start": 128.13,
+          "end": 132.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are two cafés in the museum, with seating for 80 people.",
+          "start": 133.77,
+          "end": 137.57
+        },
+        {
+          "s": "SPEAKER",
+          "t": "If you want to eat there you'll need to reserve some seating, as they can get quite crowded at lunch time.",
+          "start": 138.86,
+          "end": 144.1
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then outside the museum at the back there are tables, and students can bring their own lunch and eat it there in the open air.",
+          "q": [
+            15
+          ],
+          "start": 145.66,
+          "end": 152.54
+        },
+        {
+          "s": "SPEAKER",
+          "t": "When the students come into the museum foyer we ask them to check in their backpacks with their books, lunch boxes, etc, at the cloakroom before they enter the museum proper.",
+          "start": 194.84,
+          "end": 205.16
+        },
+        {
+          "s": "SPEAKER",
+          "t": "I'm afraid in the past we have had a few things gone missing after school visits so this is a strict rule.",
+          "start": 206.0,
+          "end": 212.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Also, some of the exhibits are fragile and we don't want them to be accidentally knocked.",
+          "start": 212.36,
+          "end": 218.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But we do provide school students with handouts with questions and quizzes on them.",
+          "q": [
+            16,
+            17,
+            18
+          ],
+          "start": 218.6,
+          "end": 224.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's so much that students can learn in the museum and it's fun for them to have something to do.",
+          "start": 225.24,
+          "end": 230.48
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Of course they'll need to bring something to write with for these.",
+          "q": [
+            16,
+            17,
+            18
+          ],
+          "start": 230.56,
+          "end": 234.36
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We do allow students to take photographs.",
+          "q": [
+            16,
+            17,
+            18
+          ],
+          "start": 235.44,
+          "end": 238.04
+        },
+        {
+          "s": "SPEAKER",
+          "t": "For students who are doing projects it's useful to make some kind of visual record of what they see that they can add to their reports.",
+          "start": 238.79,
+          "end": 246.07
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And finally, they should not bring anything to eat into the museum, or drinks of any kind.",
+          "start": 247.11,
+          "end": 253.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are also a few things the students can do after the tour.",
+          "start": 254.95,
+          "end": 258.23
+        },
+        {
+          "s": "SPEAKER",
+          "t": "In the theatrette on the ground floor there are continuous screenings of short documentaries about dinosaurs which they can see at any time.",
+          "q": [
+            19,
+            20
+          ],
+          "start": 259.15,
+          "end": 267.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We used to have an activity room with more interactive things like making models of dinosaurs and drawing and painting pictures, even hunting for dinosaur eggs, but unfortunately the room was damaged in a bad storm recently when water came in the roof, so that’s closed at the moment.",
+          "start": 268.58,
+          "end": 286.35
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But we do have an IT centre where students have access to CD ROMs with a range of dinosaur games.",
+          "q": [
+            19,
+            20
+          ],
+          "start": 286.75,
+          "end": 293.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These games are a lot of fun, but they also teach the students about the lives of dinosaurs, how they found food, protected their habitat, survived threats, that kind of thing.",
+          "start": 293.86,
+          "end": 305.96
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And... I think that's all I have to tell you.",
+          "start": 307.08,
+          "end": 309.8
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Please feel free to ask any questions if you would like to know anything else...",
+          "start": 309.84,
+          "end": 314.44
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c8/t1p3.mp3",
+      "duration": 0,
+      "title": "Field Trip Proposal",
+      "groups": [
+        {
+          "range": [
+            21,
+            24
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "title": "Field Trip Proposal",
+          "questions": [
+            {
+              "n": 21,
+              "text": "The tutor thinks that Sandra's proposal",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "should be re-ordered in some parts."
+                },
+                {
+                  "k": "B",
+                  "text": "needs a contents page."
+                },
+                {
+                  "k": "C",
+                  "text": "ought to include more information."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "The proposal would be easier to follow if Sandra",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "inserted subheadings."
+                },
+                {
+                  "k": "B",
+                  "text": "used more paragraphs."
+                },
+                {
+                  "k": "C",
+                  "text": "shortened her sentences."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "What was the problem with the formatting on Sandra's proposal?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Separate points were not clearly identified."
+                },
+                {
+                  "k": "B",
+                  "text": "The headings were not always clear."
+                },
+                {
+                  "k": "C",
+                  "text": "Page numbering was not used in an appropriate way."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "Sandra became interested in visiting the Navajo National Park through",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "articles she read."
+                },
+                {
+                  "k": "B",
+                  "text": "movies she saw as a child."
+                },
+                {
+                  "k": "C",
+                  "text": "photographs she found on the internet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "range": [
+            25,
+            27
+          ],
+          "type": "mc-multi",
+          "instruction": "Choose THREE letters, A-G.",
+          "text": "Which THREE topics does Sandra agree to include in the proposal?",
+          "count": 3,
+          "options": [
+            {
+              "k": "A",
+              "text": "climate change"
+            },
+            {
+              "k": "B",
+              "text": "field trip activities"
+            },
+            {
+              "k": "C",
+              "text": "geographical features"
+            },
+            {
+              "k": "D",
+              "text": "impact of tourism"
+            },
+            {
+              "k": "E",
+              "text": "myths and legends"
+            },
+            {
+              "k": "F",
+              "text": "plant and animal life"
+            },
+            {
+              "k": "G",
+              "text": "social history"
+            }
+          ]
+        },
+        {
+          "range": [
+            28,
+            30
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "lines": [
+            "The tribal park covers {{28}} hectares.",
+            "Sandra suggests that they share the {{29}} for transport.",
+            "She says they could also explore the local {{30}}."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "TUTOR",
+          "t": "Right, Sandra."
+        },
+        {
+          "s": "TUTOR",
+          "t": "You wanted to see me to get some feedback on your group's proposal."
+        },
+        {
+          "s": "TUTOR",
+          "t": "The one you're submitting for the Geography Society field trip competition."
+        },
+        {
+          "s": "TUTOR",
+          "t": "I've had a look through your proposal and I think it's a really good choice. In fact, I only have a few things to say about it, but even in an outline document like this you really have to be careful to avoid typos and problems with layout in the proposal, and even in the contents page."
+        },
+        {
+          "s": "TUTOR",
+          "t": "So read it through carefully before submitting it, okay?"
+        },
+        {
+          "s": "SANDRA",
+          "t": "Will do."
+        },
+        {
+          "s": "TUTOR",
+          "t": "And I've made a few notes on the proposal about things which could have been better sequenced.",
+          "q": [
+            21
+          ]
+        },
+        {
+          "s": "SANDRA",
+          "t": "Okay."
+        },
+        {
+          "s": "TUTOR",
+          "t": "As for the writing itself, I've annotated the proposal as and where I thought it could be improved."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Generally speaking, I feel you've often used complex structures and long sentences for the sake of it and as a consequence . . . although your paragraphing and inclusion of sub-headings help . . . it's quite hard to follow your train of thought at times."
+        },
+        {
+          "s": "TUTOR",
+          "t": "So cut them down a bit, can you?",
+          "q": [
+            22
+          ]
+        },
+        {
+          "s": "SANDRA",
+          "t": "Really?"
+        },
+        {
+          "s": "TUTOR",
+          "t": "Yes."
+        },
+        {
+          "s": "TUTOR",
+          "t": "And don't forget simple formatting like numbering."
+        },
+        {
+          "s": "SANDRA",
+          "t": "Didn't I use page numbers?"
+        },
+        {
+          "s": "TUTOR",
+          "t": "I didn't mean that."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Look, you've remembered to include headers and footers, which is good, but listing ideas clearly is important."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Number them or use bullet points, which is even clearer.",
+          "q": [
+            23
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "Then you'll focus the reader on your main points."
+        },
+        {
+          "s": "TUTOR",
+          "t": "I thought your suggestion to go to the Navajo Tribal Park was a very good idea."
+        },
+        {
+          "s": "SANDRA",
+          "t": "I've always wanted to go there."
+        },
+        {
+          "s": "SANDRA",
+          "t": "My father was a great fan of cowboy films and the Wild West so I was subjected to seeing all the epics, many of which were shot there.",
+          "q": [
+            24
+          ]
+        },
+        {
+          "s": "SANDRA",
+          "t": "As a consequence, it feels very familiar to me and it's awesome both geographically and visually, so it's somewhere I've always wanted to visit."
+        },
+        {
+          "s": "SANDRA",
+          "t": "The subsequent research I did and the online photographs made me even keener."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Interesting."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Right, let's look at the content of your proposal now."
+        },
+        {
+          "s": "SANDRA",
+          "t": "Did you find it comprehensive enough?"
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, yes and no. You've listed several different topics on your contents page, but I'm not sure they're all relevant."
+        },
+        {
+          "s": "SANDRA",
+          "t": "No?"
+        },
+        {
+          "s": "SANDRA",
+          "t": "Well, I thought that from the perspective of a field trip, one thing I needed to focus on was the sandstone plateaux and cliffs themselves.",
+          "q": [
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "s": "SANDRA",
+          "t": "The way they tower up from the flat landscape is just amazing."
+        },
+        {
+          "s": "SANDRA",
+          "t": "The fact that the surrounding softer rocks were eroded by wind and rain, leaving these huge outcrops high above the plain."
+        },
+        {
+          "s": "SANDRA",
+          "t": "It's hardly surprising that tourists flock to see the area."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, yes, I'd agree with including those points . . ."
+        },
+        {
+          "s": "SANDRA",
+          "t": "And then the fact that it's been home to native American Navajos and all the social history that goes with that."
+        },
+        {
+          "s": "SANDRA",
+          "t": "The hardships they endured trying to save their territory from the invading settlers."
+        },
+        {
+          "s": "SANDRA",
+          "t": "Their culture is so rich — all those wonderful stories."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Well, I agree it's interesting, but it's not immediately relevant to your proposal, Sandra, so at this stage, I suggest you focus on other considerations."
+        },
+        {
+          "s": "TUTOR",
+          "t": "I think an indication of what the students on the trip could actually do when they get there should be far more central, so that certainly needs to be included and to be expanded upon.",
+          "q": [
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "And I'd like to see something about the local wildlife, and vegetation too, not that I imagine there's much to see.",
+          "q": [
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "Presumably the tourist invasion hasn't helped."
+        },
+        {
+          "s": "SANDRA",
+          "t": "Okay, I'll do some work on those two areas as well."
+        },
+        {
+          "s": "SANDRA",
+          "t": "But you're right, there's not much apart from some very shallow-rooted species."
+        },
+        {
+          "s": "SANDRA",
+          "t": "Although it's cold and snowy there in the winter, the earth is baked so hard in the summer sun that rainwater can't penetrate."
+        },
+        {
+          "s": "SANDRA",
+          "t": "So it's a case of flood or drought, really."
+        },
+        {
+          "s": "TUTOR",
+          "t": "So, I understand."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Now, before we look at everything in more detail, I've got a few factual questions for you."
+        },
+        {
+          "s": "TUTOR",
+          "t": "It would be a good idea to include the answers in your finished proposal, because they're missing from your draft."
+        },
+        {
+          "s": "SANDRA",
+          "t": "Fine."
+        },
+        {
+          "s": "TUTOR",
+          "t": "So, you mentioned the monoliths and the spires, which was good, but what area does the tribal park cover?"
+        },
+        {
+          "s": "TUTOR",
+          "t": "Do you know?"
+        },
+        {
+          "s": "SANDRA",
+          "t": "12,000 hectares, and the plain is at about 5,850 metres above sea level.",
+          "q": [
+            28
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "Larger than I expected."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Okay. Where's the nearest accommodation?"
+        },
+        {
+          "s": "TUTOR",
+          "t": "That's a practical detail that you haven't included."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Have you done any research on that?"
+        },
+        {
+          "s": "SANDRA",
+          "t": "Yes."
+        },
+        {
+          "s": "SANDRA",
+          "t": "There's nowhere to stay in the park itself, but there's an old trading post called Goulding quite near."
+        },
+        {
+          "s": "SANDRA",
+          "t": "All kinds of tours start from Goulding, too."
+        },
+        {
+          "s": "TUTOR",
+          "t": "What kind of tours?"
+        },
+        {
+          "s": "SANDRA",
+          "t": "Well, the most popular are in four-wheel drive jeeps — but I wouldn't recommend hiring those."
+        },
+        {
+          "s": "SANDRA",
+          "t": "I think the best way to appreciate the area would be to hire horses instead and trek around on those."
+        },
+        {
+          "s": "SANDRA",
+          "t": "Biking is not allowed and it's impossible to drive around the area in private vehicles.",
+          "q": [
+            29
+          ]
+        },
+        {
+          "s": "SANDRA",
+          "t": "The tracks are too rough."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Okay, lastly, what else is worth visiting there?"
+        },
+        {
+          "s": "SANDRA",
+          "t": "There are several caves, but I haven't looked into any details."
+        },
+        {
+          "s": "SANDRA",
+          "t": "I'll find out about them.",
+          "q": [
+            30
+          ]
+        },
+        {
+          "s": "TUTOR",
+          "t": "Okay, good."
+        },
+        {
+          "s": "TUTOR",
+          "t": "Now what I'd like to know is . . ."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c8/t1p4.mp3",
+      "duration": 444,
+      "title": "Introduction to Geography",
+      "groups": [
+        {
+          "range": [
+            31,
+            40
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write ONE WORD ONLY for each answer.",
+          "lines": [
+            "## Studying geography helps us to understand:",
+            "the effects of different processes on the {{31}} of the Earth",
+            "the dynamic between {{32}} and population",
+            "## Two main branches of study:",
+            "physical features",
+            "human lifestyles and their {{33}}",
+            "## Specific study areas:",
+            "biophysical, topographic, political, social, economic, historical and {{34}} geography, and also cartography",
+            "Key point: geography helps us to understand our surroundings and the associated {{35}}",
+            "## What do geographers do?",
+            "find data — e.g. conduct censuses, collect information in the form of {{36}} using computer and satellite technology",
+            "analyse data — identify {{37}}, e.g. cause and effect",
+            "## Publish findings in the form of:",
+            "a) maps — easy to carry, can show physical features of large and small areas, BUT a two-dimensional map will always have some {{38}}",
+            "b) aerial photos — can show vegetation problems, {{39}} density, ocean floor etc.",
+            "c) Landsat pictures sent to receiving stations — used for monitoring {{40}} conditions etc."
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "SPEAKER",
+          "t": "So, welcome to your introductory geography lecture.",
+          "start": 70.17,
+          "end": 73.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We'll begin with some basics.",
+          "start": 73.41,
+          "end": 75.37
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Firstly, what do we learn by studying geography?",
+          "start": 75.65,
+          "end": 79.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, we learn a great deal about all the processes that have affected and that continue to affect the earth's surface.",
+          "q": [
+            31
+          ],
+          "start": 80.29,
+          "end": 87.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But we learn far more than that, because studying geography also informs us about the different kinds of relationships that develop between a particular environment and the people that live there.",
+          "q": [
+            32
+          ],
+          "start": 88.09,
+          "end": 99.55
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Okay.",
+          "start": 99.55,
+          "end": 99.55,
+          "estimated": true
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We like to think of geography as having two main branches.",
+          "start": 101.31,
+          "end": 104.71
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's the study of the nature of our planet — its physical features, what it actually looks like — and then there's the study of the ways in which we choose to live and of the impact of those on our planet.",
+          "q": [
+            33
+          ],
+          "start": 105.59,
+          "end": 117.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Our current use of carbon fuels is a good example of that.",
+          "start": 118.44,
+          "end": 121.24
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But there are more specific study areas to consider too, and we'll be looking at each of these in turn throughout this semester.",
+          "start": 122.71,
+          "end": 129.11
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These include bio-physical geography, by which I mean the study of the natural environment and all its living things.",
+          "start": 130.31,
+          "end": 136.99
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then there's topography — that looks at the shapes of the land and oceans.",
+          "start": 137.99,
+          "end": 142.39
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There's the study of political geography and social geography too, of course, which is the study of communities of people.",
+          "start": 143.52,
+          "end": 150.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We have economic geography — in which we examine all kinds of resources and their use — agriculture, for example.",
+          "start": 151.24,
+          "end": 158.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Next comes historical geography — the understanding of how people and their environments and the ways they interact have changed over a period of time — and urban geography, an aspect I'm particularly interested in, which takes as its focus the location of cities, the services that those cities provide, and migration of people to and from such cities.",
+          "q": [
+            34
+          ],
+          "start": 159.73,
+          "end": 184.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And lastly, we have cartography.",
+          "start": 184.12,
+          "end": 187.28
+        },
+        {
+          "s": "SPEAKER",
+          "t": "That's the art and science of map-making.",
+          "start": 188.2,
+          "end": 190.32
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll be doing a lot of that!",
+          "start": 191.0,
+          "end": 192.24
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, to summarise before we continue, we now have our key answer . . . studying this subject is important because without geographical knowledge, we would know very little about our surroundings and we wouldn't be able to identify all the problems that relate to them.",
+          "q": [
+            35
+          ],
+          "start": 193.67,
+          "end": 211.56
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, by definition, we wouldn't be in an informed position to work out how to solve any of them.",
+          "start": 212.32,
+          "end": 218.0
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Okay, now for some practicalities.",
+          "start": 223.97,
+          "end": 225.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "What do geographers actually do?",
+          "start": 226.57,
+          "end": 228.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Well, we collect data to begin with!",
+          "start": 228.85,
+          "end": 231.77
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll be doing a lot of that on your first field trip!",
+          "start": 231.77,
+          "end": 234.73
+        },
+        {
+          "s": "SPEAKER",
+          "t": "How do we do this?",
+          "start": 235.41,
+          "end": 236.29
+        },
+        {
+          "s": "SPEAKER",
+          "t": "There are several means.",
+          "start": 237.05,
+          "end": 238.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We might, for example, conduct a census — count a population in a given area perhaps.",
+          "start": 238.73,
+          "end": 244.33
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We also need images of the earth's surface which we can produce by means of computer-generation technology or with the help of satellite relays.",
+          "q": [
+            36
+          ],
+          "start": 245.49,
+          "end": 253.93
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We've come a very long way from the early exploration of the world by sailing ships when geographers only had pens and paper at their disposal.",
+          "start": 253.93,
+          "end": 263.09
+        },
+        {
+          "s": "SPEAKER",
+          "t": "After we've gathered our information, we must analyse it!",
+          "start": 265.03,
+          "end": 268.43
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We need to look for patterns, most commonly those of causes and consequences.",
+          "q": [
+            37
+          ],
+          "start": 269.55,
+          "end": 273.95
+        },
+        {
+          "s": "SPEAKER",
+          "t": "This kind of information helps us to predict and resolve problems that could affect the world we live in.",
+          "start": 275.09,
+          "end": 280.65
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But we don't keep all this information confidential.",
+          "start": 281.69,
+          "end": 284.17
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We then need to publish our findings so that other people can access it and be informed by it.",
+          "start": 285.17,
+          "end": 290.49
+        },
+        {
+          "s": "SPEAKER",
+          "t": "And one way in which this information can be published is in the form of maps.",
+          "start": 291.37,
+          "end": 295.61
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You'll all have used one at some stage of your life already.",
+          "start": 297.17,
+          "end": 300.01
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Let's consider the benefits of maps from a geographer's perspective.",
+          "start": 300.81,
+          "end": 304.33
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Maps can be folded and put in a pocket and can provide a great store of reference when they're collected into an atlas.",
+          "start": 304.53,
+          "end": 312.2
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They can depict the physical features of the entire planet if necessary, or just a small part of it in much greater detail.",
+          "start": 313.4,
+          "end": 320.6
+        },
+        {
+          "s": "SPEAKER",
+          "t": "But there is a drawback.",
+          "start": 321.21,
+          "end": 322.45
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You can't exactly replicate something that is three-dimensional, like our planet, on a flat piece of paper, because paper has only two dimensions, and that means there'll always be a certain degree of distortion on a map.",
+          "q": [
+            38
+          ],
+          "start": 323.21,
+          "end": 336.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "It can't be avoided.",
+          "start": 337.14,
+          "end": 337.94
+        },
+        {
+          "s": "SPEAKER",
+          "t": "We can also use aerial photographs . . . pictures taken by cameras at high altitude above the earth.",
+          "start": 339.66,
+          "end": 345.78
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These are great for showing all kinds of geographical features that are not easy to see from the ground.",
+          "start": 346.9,
+          "end": 352.18
+        },
+        {
+          "s": "SPEAKER",
+          "t": "You can easily illustrate areas of diseased trees or how much traffic is on the roads at a given time or information about deep sea beds, for example.",
+          "q": [
+            39
+          ],
+          "start": 353.48,
+          "end": 362.68
+        },
+        {
+          "s": "SPEAKER",
+          "t": "Then there are Landsats.",
+          "start": 364.14,
+          "end": 365.38
+        },
+        {
+          "s": "SPEAKER",
+          "t": "These are satellites that circle the earth and transmit visual information to computers at receiving stations.",
+          "start": 365.46,
+          "end": 372.5
+        },
+        {
+          "s": "SPEAKER",
+          "t": "They circle the earth several times a day and can provide a mass of information — you'll all be familiar with the information they give us about the weather, for example.",
+          "q": [
+            40
+          ],
+          "start": 373.74,
+          "end": 382.74
+        },
+        {
+          "s": "SPEAKER",
+          "t": "So, what we're going to do now is look at a short presentation in which you'll see all these tools ...",
+          "start": 383.98,
+          "end": 389.3
+        }
+      ]
+    }
+  ]
+}
