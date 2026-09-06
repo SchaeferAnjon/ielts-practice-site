@@ -1,0 +1,2152 @@
+{
+  "id": "c5t3",
+  "book": "剑桥雅思5",
+  "test": 3,
+  "title": "剑5 Test 3 · Listening",
+  "source": "Cambridge IELTS 5, Test 3（文字层抽取 + 人工校对）",
+  "answers": {
+    "1": [
+      "1.4",
+      "1.4 litres",
+      "1.4 liters"
+    ],
+    "2": [
+      "automatic"
+    ],
+    "3": [
+      "light",
+      "sky"
+    ],
+    "4": [
+      "credit"
+    ],
+    "5": [
+      "Harries"
+    ],
+    "6": [
+      "Dr",
+      "Doctor"
+    ],
+    "7": [
+      "Alton"
+    ],
+    "8": [
+      "messages"
+    ],
+    "9": [
+      "Lion"
+    ],
+    "10": [
+      "reasonable"
+    ],
+    "11": [
+      "C",
+      "E"
+    ],
+    "12": [
+      "C",
+      "E"
+    ],
+    "13": [
+      "references"
+    ],
+    "14": [
+      "country"
+    ],
+    "15": [
+      "weather"
+    ],
+    "16": [
+      "C"
+    ],
+    "17": [
+      "C"
+    ],
+    "18": [
+      "A"
+    ],
+    "19": [
+      "B"
+    ],
+    "20": [
+      "C"
+    ],
+    "21": [
+      "5th May",
+      "May 5th",
+      "the 5th of May"
+    ],
+    "22": [
+      "16th July",
+      "Friday 16th July",
+      "July 16th",
+      "the 16th of July"
+    ],
+    "23": [
+      "clear",
+      "was clear"
+    ],
+    "24": [
+      "an outline",
+      "the outline",
+      "a course outline",
+      "the course outline",
+      "outline",
+      "course outline"
+    ],
+    "25": [
+      "the 2nd half",
+      "2nd half",
+      "the second half",
+      "second half"
+    ],
+    "26": [
+      "standard of teaching",
+      "standard of teachers",
+      "teaching",
+      "teachers"
+    ],
+    "27": [
+      "discussion",
+      "group discussion"
+    ],
+    "28": [
+      "handouts"
+    ],
+    "29": [
+      "written work"
+    ],
+    "30": [
+      "student support",
+      "support for students"
+    ],
+    "31": [
+      "12.5%",
+      "12.5 %"
+    ],
+    "32": [
+      "incineration plants"
+    ],
+    "33": [
+      "drop-off"
+    ],
+    "34": [
+      "cooking"
+    ],
+    "35": [
+      "500,000"
+    ],
+    "36": [
+      "roads"
+    ],
+    "37": [
+      "soil conditioner"
+    ],
+    "38": [
+      "containers"
+    ],
+    "39": [
+      "pencils"
+    ],
+    "40": [
+      "business cards"
+    ]
+  },
+  "parts": [
+    {
+      "part": 1,
+      "audio": "/audio/c5/t3p1.mp3",
+      "duration": 473,
+      "title": "Minton's Car Mart — Customer Enquiry",
+      "groups": [
+        {
+          "range": [
+            1,
+            10
+          ],
+          "type": "table",
+          "instruction": "Complete the form below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "MINTONS CAR MART — Customer Enquiry",
+          "table": {
+            "head": [
+              "Field",
+              "Detail"
+            ],
+            "rows": [
+              [
+                "Make",
+                "Lida"
+              ],
+              [
+                "Engine size",
+                "{{1}}"
+              ],
+              [
+                "Model",
+                "Max"
+              ],
+              [
+                "Type of gears",
+                "{{2}}"
+              ],
+              [
+                "Preferred colour",
+                "{{3}} blue"
+              ],
+              [
+                "Customer wishes to arrange",
+                "{{4}}"
+              ],
+              [
+                "Part exchange?",
+                "yes"
+              ],
+              [
+                "Name",
+                "Wendy {{5}}"
+              ],
+              [
+                "Title",
+                "{{6}}"
+              ],
+              [
+                "Address",
+                "20, Green Banks\n{{7}}\nHampshire"
+              ],
+              [
+                "Postcode",
+                "GU8 9EW"
+              ],
+              [
+                "Contact number",
+                "(for {{8}} only) 0798 257643"
+              ],
+              [
+                "CURRENT CAR — Make",
+                "Conti"
+              ],
+              [
+                "Model name",
+                "{{9}}"
+              ],
+              [
+                "Year",
+                "1994"
+              ],
+              [
+                "Mileage",
+                "maximum 70,000"
+              ],
+              [
+                "Colour",
+                "metallic grey"
+              ],
+              [
+                "Condition",
+                "{{10}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MAN",
+          "t": "Good morning, please take a seat.",
+          "start": 100.67,
+          "end": 102.47
+        },
+        {
+          "s": "MAN",
+          "t": "How can I help you?",
+          "start": 102.71,
+          "end": 104.59
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, I'm thinking of buying a new car and I'd like some advice.",
+          "start": 104.87,
+          "end": 108.87
+        },
+        {
+          "s": "MAN",
+          "t": "Sure, yes.",
+          "start": 109.35,
+          "end": 110.35
+        },
+        {
+          "s": "MAN",
+          "t": "Had you got any particular make in mind?",
+          "start": 111.25,
+          "end": 113.37
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm interested in a Lida - I've had one before and liked it.",
+          "start": 113.65,
+          "end": 166.13
+        },
+        {
+          "s": "WOMAN",
+          "t": "But I haven't really made up my mind.",
+          "start": 166.29,
+          "end": 168.17
+        },
+        {
+          "s": "MAN",
+          "t": "Sure.",
+          "start": 169.44,
+          "end": 169.56
+        },
+        {
+          "s": "MAN",
+          "t": "We've got various models.",
+          "start": 170.08,
+          "end": 171.64
+        },
+        {
+          "s": "MAN",
+          "t": "Umm, right.",
+          "start": 173.12,
+          "end": 173.2
+        },
+        {
+          "s": "MAN",
+          "t": "What about the engine size?",
+          "start": 174.0,
+          "end": 175.52
+        },
+        {
+          "s": "MAN",
+          "t": "Any ideas?",
+          "start": 175.68,
+          "end": 176.12
+        },
+        {
+          "s": "WOMAN",
+          "t": "The one I've got at the moment's a 1.2 litre engine but I find it a bit slow on long journeys.",
+          "start": 177.48,
+          "end": 183.24
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'd like a bit more power this time ... a 1.4 should do,",
+          "q": [
+            1
+          ],
+          "start": 183.8,
+          "end": 188.04
+        },
+        {
+          "s": "WOMAN",
+          "t": "I don't think I need a 1.6 or anything.",
+          "start": 188.56,
+          "end": 190.24
+        },
+        {
+          "s": "MAN",
+          "t": "Right.",
+          "start": 190.44,
+          "end": 190.92
+        },
+        {
+          "s": "MAN",
+          "t": "Well I think the model you're looking at is the Max.",
+          "start": 191.44,
+          "end": 194.64
+        },
+        {
+          "s": "MAN",
+          "t": "Here's a picture.",
+          "start": 195.08,
+          "end": 195.68
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh, yes . . . have you got one in?",
+          "start": 196.56,
+          "end": 199.56
+        },
+        {
+          "s": "MAN",
+          "t": "Yes.",
+          "start": 199.68,
+          "end": 200.0
+        },
+        {
+          "s": "MAN",
+          "t": "I'll take you to have a look at it in a minute.",
+          "start": 200.0,
+          "end": 202.28
+        },
+        {
+          "s": "MAN",
+          "t": "I'll just get a few more details.",
+          "start": 202.44,
+          "end": 204.64
+        },
+        {
+          "s": "MAN",
+          "t": "Er ...",
+          "start": 204.64,
+          "end": 204.64,
+          "estimated": true
+        },
+        {
+          "s": "MAN",
+          "t": "Is there anything else to do with the engine?",
+          "start": 205.92,
+          "end": 207.76
+        },
+        {
+          "s": "MAN",
+          "t": "What kind of gear change do you want?",
+          "start": 208.2,
+          "end": 209.76
+        },
+        {
+          "s": "MAN",
+          "t": "I presume you'd want a manual?",
+          "start": 210.13,
+          "end": 211.33
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'd want automatic- I've never driven a car with manual gears.",
+          "q": [
+            2
+          ],
+          "start": 211.45,
+          "end": 215.05
+        },
+        {
+          "s": "MAN",
+          "t": "Right.",
+          "start": 215.13,
+          "end": 215.89
+        },
+        {
+          "s": "MAN",
+          "t": "Well now, here's the colour chart for the Max.",
+          "start": 215.89,
+          "end": 219.73
+        },
+        {
+          "s": "MAN",
+          "t": "Have you given that any thought?",
+          "start": 220.25,
+          "end": 221.53
+        },
+        {
+          "s": "MAN",
+          "t": "This blue's very popular at the moment.",
+          "start": 222.22,
+          "end": 224.1
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, it is nice, I like blue.",
+          "start": 224.42,
+          "end": 226.62
+        },
+        {
+          "s": "WOMAN",
+          "t": "What's it called?",
+          "start": 228.1,
+          "end": 228.78
+        },
+        {
+          "s": "WOMAN",
+          "t": "'Royal'?",
+          "start": 228.78,
+          "end": 228.78,
+          "estimated": true
+        },
+        {
+          "s": "MAN",
+          "t": "Yes.",
+          "start": 229.5,
+          "end": 229.82
+        },
+        {
+          "s": "WOMAN",
+          "t": "But actually, I think I prefer this lighter shade here- 'Sky'.",
+          "q": [
+            3
+          ],
+          "start": 231.54,
+          "end": 234.38
+        },
+        {
+          "s": "MAN",
+          "t": "Yes, that's popular too.",
+          "start": 235.33,
+          "end": 236.81
+        },
+        {
+          "s": "WOMAN",
+          "t": "I think I'll go for that.",
+          "start": 236.89,
+          "end": 237.85
+        },
+        {
+          "s": "MAN",
+          "t": "You might have to wait a week or so for that colour, but I assume that'd be OK?",
+          "start": 237.93,
+          "end": 242.45
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh yes, fine.",
+          "start": 242.77,
+          "end": 243.57
+        },
+        {
+          "s": "MAN",
+          "t": "Well, we can go outside and you can have a good look at one, and perhaps take it out.",
+          "start": 243.73,
+          "end": 249.17
+        },
+        {
+          "s": "MAN",
+          "t": "But first, can I just ask you about finance?",
+          "start": 249.33,
+          "end": 252.46
+        },
+        {
+          "s": "MAN",
+          "t": "The cash price is going to be somewhere in the region of seven and a half thousand.",
+          "start": 252.98,
+          "end": 257.26
+        },
+        {
+          "s": "MAN",
+          "t": "How would you like to pay?",
+          "start": 257.5,
+          "end": 258.9
+        },
+        {
+          "s": "MAN",
+          "t": "Are you in a position to pay cash, or would you need credit?",
+          "start": 259.02,
+          "end": 261.94
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'd like credit provided the terms are reasonable.",
+          "q": [
+            4
+          ],
+          "start": 262.49,
+          "end": 265.01
+        },
+        {
+          "s": "MAN",
+          "t": "Well you can discuss that with my colleague in a moment; we have various arrangements.",
+          "start": 265.21,
+          "end": 270.05
+        },
+        {
+          "s": "MAN",
+          "t": "And would you be interested in us taking your present car as part exchange?",
+          "start": 270.65,
+          "end": 274.65
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes.",
+          "start": 275.24,
+          "end": 275.32
+        },
+        {
+          "s": "MAN",
+          "t": "OK, fine.",
+          "start": 275.88,
+          "end": 276.6
+        },
+        {
+          "s": "MAN",
+          "t": "So I'll just need some details from you and then we can do a valuation .. .",
+          "start": 277.28,
+          "end": 280.96
+        },
+        {
+          "s": "MAN",
+          "t": "Is that OK?",
+          "start": 282.12,
+          "end": 282.84
+        },
+        {
+          "s": "WOMAN",
+          "t": "Fine, yes.",
+          "start": 282.88,
+          "end": 283.8
+        },
+        {
+          "s": "MAN",
+          "t": "Could I have your full name?",
+          "start": 320.75,
+          "end": 322.23
+        },
+        {
+          "s": "WOMAN",
+          "t": "Wendy Harries, that's H-A-double R-I-E-S.",
+          "q": [
+            5
+          ],
+          "start": 322.83,
+          "end": 328.19
+        },
+        {
+          "s": "MAN",
+          "t": "And is that Mrs .. .",
+          "start": 328.23,
+          "end": 328.99
+        },
+        {
+          "s": "MAN",
+          "t": "Miss ...",
+          "start": 329.11,
+          "end": 329.95
+        },
+        {
+          "s": "MAN",
+          "t": "Ms .. . ?",
+          "start": 329.95,
+          "end": 329.95,
+          "estimated": true
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's Doctor, actually.",
+          "q": [
+            6
+          ],
+          "start": 331.64,
+          "end": 333.04
+        },
+        {
+          "s": "MAN",
+          "t": "Oh, right.",
+          "start": 333.84,
+          "end": 334.44
+        },
+        {
+          "s": "MAN",
+          "t": "And your address?",
+          "start": 335.12,
+          "end": 336.12
+        },
+        {
+          "s": "WOMAN",
+          "t": "20 Green Banks.",
+          "start": 336.92,
+          "end": 338.24
+        },
+        {
+          "s": "MAN",
+          "t": "Is that 'Green' spelled as in the colour?",
+          "start": 338.72,
+          "end": 341.16
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes, that's right.",
+          "start": 342.01,
+          "end": 342.69
+        },
+        {
+          "s": "MAN",
+          "t": "OK.",
+          "start": 342.81,
+          "end": 342.93
+        },
+        {
+          "s": "WOMAN",
+          "t": "Alton.",
+          "start": 343.25,
+          "end": 345.01
+        },
+        {
+          "s": "MAN",
+          "t": "Is that O-L-T-O-N?",
+          "start": 345.73,
+          "end": 348.45
+        },
+        {
+          "s": "WOMAN",
+          "t": "Not quite, it begins with an A, not an O.",
+          "q": [
+            7
+          ],
+          "start": 348.49,
+          "end": 350.89
+        },
+        {
+          "s": "MAN",
+          "t": "Oh yes, that's in Hampshire isn't it?",
+          "start": 351.57,
+          "end": 353.69
+        },
+        {
+          "s": "WOMAN",
+          "t": "That's right.",
+          "start": 353.77,
+          "end": 354.29
+        },
+        {
+          "s": "MAN",
+          "t": "And do you know your postcode?",
+          "start": 355.05,
+          "end": 356.37
+        },
+        {
+          "s": "WOMAN",
+          "t": "Yes.",
+          "start": 357.05,
+          "end": 357.29
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's GU8 9EW",
+          "start": 357.53,
+          "end": 357.89
+        },
+        {
+          "s": "MAN",
+          "t": "Do you have a daytime phone number?",
+          "start": 360.61,
+          "end": 363.09
+        },
+        {
+          "s": "WOMAN",
+          "t": "Well, I work at the hospital but it's a bit difficult to get hold of me.",
+          "start": 363.33,
+          "end": 367.21
+        },
+        {
+          "s": "WOMAN",
+          "t": "I can give you a number just for messages, and then I'll get back to you when I can.",
+          "q": [
+            8
+          ],
+          "start": 367.89,
+          "end": 371.69
+        },
+        {
+          "s": "WOMAN",
+          "t": "Is that OK?",
+          "start": 371.81,
+          "end": 372.17
+        },
+        {
+          "s": "MAN",
+          "t": "That's fine.",
+          "start": 372.37,
+          "end": 373.05
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's 0-7-9-8-2-5-7-6-4-3.",
+          "start": 373.93,
+          "end": 374.25
+        },
+        {
+          "s": "MAN",
+          "t": "Fine.",
+          "start": 380.07,
+          "end": 380.23
+        },
+        {
+          "s": "MAN",
+          "t": "And about the car you have now, what make is it?",
+          "start": 381.31,
+          "end": 384.59
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's a Conti.",
+          "start": 384.91,
+          "end": 385.55
+        },
+        {
+          "s": "MAN",
+          "t": "Do you know the year or the model name?",
+          "start": 386.27,
+          "end": 388.27
+        },
+        {
+          "s": "WOMAN",
+          "t": "I think it's 1996, and it's called a Lion - like the animal.",
+          "q": [
+            9
+          ],
+          "start": 388.8,
+          "end": 394.0
+        },
+        {
+          "s": "MAN",
+          "t": "Then it must be 1994, because they brought out the Fox after that.",
+          "start": 394.16,
+          "end": 398.88
+        },
+        {
+          "s": "WOMAN",
+          "t": "Oh right, yes.",
+          "start": 399.4,
+          "end": 400.24
+        },
+        {
+          "s": "MAN",
+          "t": "Mileage?",
+          "start": 400.44,
+          "end": 401.16
+        },
+        {
+          "s": "MAN",
+          "t": "Roughly?",
+          "start": 401.8,
+          "end": 401.88
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'm not sure.",
+          "start": 402.28,
+          "end": 403.72
+        },
+        {
+          "s": "WOMAN",
+          "t": "I know it's less than seventy thousand.",
+          "start": 404.12,
+          "end": 406.2
+        },
+        {
+          "s": "MAN",
+          "t": "OK.",
+          "start": 407.36,
+          "end": 407.48
+        },
+        {
+          "s": "MAN",
+          "t": "What colour is it?",
+          "start": 409.08,
+          "end": 409.96
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's grey, metallic grey.",
+          "start": 410.4,
+          "end": 411.72
+        },
+        {
+          "s": "MAN",
+          "t": "Right, and one last thing- what sort of condition would you say it's in?",
+          "start": 412.68,
+          "end": 417.08
+        },
+        {
+          "s": "WOMAN",
+          "t": "I'd probably describe it as reasonable.",
+          "start": 417.76,
+          "end": 420.04
+        },
+        {
+          "s": "WOMAN",
+          "t": "Do you need to see it?",
+          "start": 420.84,
+          "end": 421.6
+        },
+        {
+          "s": "WOMAN",
+          "t": "It's parked outside.",
+          "q": [
+            10
+          ],
+          "start": 421.72,
+          "end": 422.4
+        },
+        {
+          "s": "MAN",
+          "t": "Not at the moment, no.",
+          "start": 422.72,
+          "end": 423.88
+        },
+        {
+          "s": "MAN",
+          "t": "Perhaps you could call in one day next week .. .",
+          "start": 424.24,
+          "end": 426.44
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "audio": "/audio/c5/t3p2.mp3",
+      "duration": 499,
+      "title": "Rexford University — Studying Abroad Briefing",
+      "groups": [
+        {
+          "range": [
+            11,
+            12
+          ],
+          "type": "mc-multi",
+          "count": 2,
+          "instruction": "Choose TWO letters A-E.",
+          "text": "What TWO advantages does the speaker say Rexford University has for the students he is speaking to?",
+          "options": [
+            {
+              "k": "A",
+              "text": "higher than average results in examinations"
+            },
+            {
+              "k": "B",
+              "text": "good transport links with central London"
+            },
+            {
+              "k": "C",
+              "text": "near London Airport"
+            },
+            {
+              "k": "D",
+              "text": "special government funding"
+            },
+            {
+              "k": "E",
+              "text": "good links with local industry"
+            }
+          ]
+        },
+        {
+          "range": [
+            13,
+            15
+          ],
+          "type": "notes",
+          "instruction": "Complete the notes below.",
+          "limit": "Write NO MORE THAN ONE WORD for each answer.",
+          "lines": [
+            "When application is received, confirmation will be sent",
+            "Application processing may be slowed down by",
+            "  postal problems",
+            "  delays in sending {{13}}",
+            "University tries to put international applicants in touch with a student from the same {{14}} who can give information and advice on",
+            "  academic atmosphere",
+            "  leisure facilities",
+            "  English {{15}} and food",
+            "  what to pack"
+          ]
+        },
+        {
+          "range": [
+            16,
+            20
+          ],
+          "type": "mc",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "n": 16,
+              "text": "The speaker says international students at UK universities will be",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "offered accommodation with local families."
+                },
+                {
+                  "k": "B",
+                  "text": "given special help by their lecturers."
+                },
+                {
+                  "k": "C",
+                  "text": "expected to work independently."
+                }
+              ]
+            },
+            {
+              "n": 17,
+              "text": "What does the speaker say about university accommodation on campus?",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "Most places are given to undergraduates."
+                },
+                {
+                  "k": "B",
+                  "text": "No places are available for postgraduates with families."
+                },
+                {
+                  "k": "C",
+                  "text": "A limited number of places are available for new postgraduates."
+                }
+              ]
+            },
+            {
+              "n": 18,
+              "text": "Students wishing to live off-campus should apply",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "several months in advance."
+                },
+                {
+                  "k": "B",
+                  "text": "two or three weeks in advance."
+                },
+                {
+                  "k": "C",
+                  "text": "at the beginning of term."
+                }
+              ]
+            },
+            {
+              "n": 19,
+              "text": "The university accommodation officer will",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "send a list of agents for students to contact."
+                },
+                {
+                  "k": "B",
+                  "text": "contact accommodation agencies for students."
+                },
+                {
+                  "k": "C",
+                  "text": "ensure that students have suitable accommodation."
+                }
+              ]
+            },
+            {
+              "n": 20,
+              "text": "With regard to their English, the speaker advises the students to",
+              "options": [
+                {
+                  "k": "A",
+                  "text": "tell their lecturers if they have problems understanding."
+                },
+                {
+                  "k": "B",
+                  "text": "have private English lessons when they arrive."
+                },
+                {
+                  "k": "C",
+                  "text": "practise their spoken English before they arrive."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": [
+        {
+          "s": "MAN",
+          "t": "As I said earlier, there is I think at Rexford an excellent combination of physical and geographical advantages - as well as having a rural setting and still being close to central London, something that will certainly be of interest to you is that Rexford is just 35 minutes from London Airport.",
+          "q": [
+            11,
+            12
+          ],
+          "start": 48.38,
+          "end": 68.0
+        },
+        {
+          "s": "MAN",
+          "t": "At Rexford we have a strong research capability.",
+          "start": 68.0,
+          "end": 72.44
+        },
+        {
+          "s": "MAN",
+          "t": "We came 7th out of 101 universities in last year's research assessment, carried out by a government body and did particularly well in your particular subjects, engineering and science.",
+          "start": 73.3,
+          "end": 87.05
+        },
+        {
+          "s": "MAN",
+          "t": "Actually we got a top research grade of five for engineering, geography and computer sciences.",
+          "start": 87.41,
+          "end": 94.65
+        },
+        {
+          "s": "MAN",
+          "t": "One further point -and I know from talking to you individually that a number of you may be looking for some experience in industry after the course - is that all our science and engineering research departments have unusually close relationships with industry in the area.",
+          "q": [
+            11,
+            12
+          ],
+          "start": 96.15,
+          "end": 114.15
+        },
+        {
+          "s": "MAN",
+          "t": "Anyway that's enough sales talk from me ...",
+          "start": 114.67,
+          "end": 117.43
+        },
+        {
+          "s": "MAN",
+          "t": "I'll just take a sip of this coffee that's just arrived, thank you, and then I'll say something about what actually happens when you apply.",
+          "start": 118.04,
+          "end": 125.48
+        },
+        {
+          "s": "MAN",
+          "t": "Right . ..",
+          "start": 129.03,
+          "end": 129.19
+        },
+        {
+          "s": "MAN",
+          "t": "Now if you do decide to make an application, what you do is send it directly to me in my department.",
+          "start": 129.71,
+          "end": 136.63
+        },
+        {
+          "s": "MAN",
+          "t": "I will then immediately send confirmation and the application process begins.",
+          "start": 137.31,
+          "end": 142.06
+        },
+        {
+          "s": "MAN",
+          "t": "Er . . .",
+          "start": 142.06,
+          "end": 142.06,
+          "estimated": true
+        },
+        {
+          "s": "MAN",
+          "t": "I'd like to say at this point that you shouldn't worry if this process doesn't work all that quickly - I mean occasionally there are postal problems, but most often the hold-up is caused by references - the people you give as referees, shall we say, take their time to reply.",
+          "q": [
+            13
+          ],
+          "start": 143.81,
+          "end": 161.0
+        },
+        {
+          "s": "MAN",
+          "t": "Anyway, it's absolutely normal for this process to take three to four months.",
+          "start": 161.4,
+          "end": 165.88
+        },
+        {
+          "s": "MAN",
+          "t": "What I do in this period is keep in touch with you and reassure you that things are moving along.",
+          "start": 167.01,
+          "end": 172.53
+        },
+        {
+          "s": "MAN",
+          "t": "One of the ways we've devised to help you decide about applying as well as later when you've been accepted . .. hopefully . .. is to put you in contact with, if possible, a student from your own country who is at present studying with us.",
+          "q": [
+            14
+          ],
+          "start": 173.93,
+          "end": 187.64
+        },
+        {
+          "s": "MAN",
+          "t": "What you can do is phone them up - we will, of course, liaise between you- and discuss your concerns with them.",
+          "start": 188.36,
+          "end": 195.37
+        },
+        {
+          "s": "MAN",
+          "t": "That way you can get an objective· opinion of what you can expect if you come to live and study at Rexford - not only the academic atmosphere but important details like what the leisure facilities are like and whether the English weather and food are really as awful as everybody says!",
+          "q": [
+            15
+          ],
+          "start": 196.05,
+          "end": 212.42
+        },
+        {
+          "s": "MAN",
+          "t": "If you decide you can face it, the contact can also help you just before you leave, with tips on what to pack and that sort of thing.",
+          "start": 214.36,
+          "end": 222.68
+        },
+        {
+          "s": "MAN",
+          "t": "At the moment I think we've got two second-year students and one postgraduate from this country. .",
+          "start": 223.4,
+          "end": 228.72
+        },
+        {
+          "s": "MAN",
+          "t": "Now to move on to the other concerns you expressed earlier.",
+          "start": 266.05,
+          "end": 269.33
+        },
+        {
+          "s": "MAN",
+          "t": "At a UK university - as I'm sure you know - you will be in an environment where independent learning is the norm, which takes most students a while to adjust to, and at a time when you will be separated from your normal surroundings and, in most cases, your family.",
+          "q": [
+            16
+          ],
+          "start": 270.09,
+          "end": 286.83
+        },
+        {
+          "s": "MAN",
+          "t": "This can be a difficult time.",
+          "start": 287.73,
+          "end": 289.01
+        },
+        {
+          "s": "MAN",
+          "t": "But remember that something like 25% of our student body are international students like yourselves, and that there are several organisations in the university and city whose main purpose is to offer help and ensure that your time with us is enjoyable and useful.",
+          "start": 289.65,
+          "end": 307.07
+        },
+        {
+          "s": "MAN",
+          "t": "One or two of you touched on the subject of accommodation earlier.",
+          "start": 308.56,
+          "end": 311.56
+        },
+        {
+          "s": "MAN",
+          "t": "So I'll just add a few points: it is the University's policy to give priority in the allocation of residence places to three categories, and those are: visiting students, exchange students and new postgraduate students.",
+          "q": [
+            17
+          ],
+          "start": 311.96,
+          "end": 327.64
+        },
+        {
+          "s": "MAN",
+          "t": "However, demand exceeds supply, so there is still a need to put your name down early for campus accommodation, particularly if your family is accompanying you.",
+          "start": 327.92,
+          "end": 337.98
+        },
+        {
+          "s": "MAN",
+          "t": "This means that the earlier you decide whether you want to study with us . .. and so get the procedure moving, the better it will be for everybody.",
+          "start": 339.02,
+          "end": 346.95
+        },
+        {
+          "s": "MAN",
+          "t": "Yes?",
+          "start": 347.95,
+          "end": 348.47
+        },
+        {
+          "s": "WOMAN",
+          "t": "What if you would prefer to live outside the university?",
+          "start": 349.31,
+          "end": 352.43
+        },
+        {
+          "s": "MAN",
+          "t": "If you're planning to live off-campus, you've got to sort things out even earlier.",
+          "start": 352.91,
+          "end": 357.43
+        },
+        {
+          "s": "MAN",
+          "t": "As with everything in short supply, the good accommodation gets snapped up months before the beginning of term- in other words if you're starting in October you need to be thinking about it in June or at the very latest July.",
+          "q": [
+            18
+          ],
+          "start": 358.03,
+          "end": 371.63
+        },
+        {
+          "s": "MAN",
+          "t": "So you do need to think very carefully about what you need, how much you can afford to pay, well in advance.",
+          "start": 372.44,
+          "end": 380.04
+        },
+        {
+          "s": "MAN",
+          "t": "What you can't do is leave it until a few days before the start of term.",
+          "start": 381.32,
+          "end": 385.76
+        },
+        {
+          "s": "MAN",
+          "t": "The agencies in town are pretty good - it's just a matter of contacting them in good time.",
+          "start": 386.65,
+          "end": 391.65
+        },
+        {
+          "s": "MAN",
+          "t": "Of course, we have a full-time accommodation officer available to help all students.",
+          "start": 391.85,
+          "end": 396.81
+        },
+        {
+          "s": "MAN",
+          "t": "She'll get in touch with you when you're accepted- she's got plenty of contacts in the town and will deal with the agencies on your behalf.",
+          "q": [
+            19
+          ],
+          "start": 397.66,
+          "end": 405.14
+        },
+        {
+          "s": "MAN",
+          "t": "One or two of you asked me earlier about your level of spoken English. .",
+          "start": 406.53,
+          "end": 409.93
+        },
+        {
+          "s": "MAN",
+          "t": "Obviously most of you have already achieved a lot- I wish I could speak your language half as well.",
+          "start": 410.29,
+          "end": 416.33
+        },
+        {
+          "s": "MAN",
+          "t": "Having said that though, I'm afraid the lecturers will make little or no allowance for the presence of non-native speakers in the audience.",
+          "start": 417.05,
+          "end": 424.29
+        },
+        {
+          "s": "MAN",
+          "t": "So anything you can do to improve your spoken English- even beyond the pretty high levels most of you have already reached - will help make your stay with us that bit more fun for you.",
+          "start": 425.21,
+          "end": 436.9
+        },
+        {
+          "s": "MAN",
+          "t": "Some extra practice before you arrive is worth more than ... for example private lessons afterwards, when you won't really have time.",
+          "q": [
+            20
+          ],
+          "start": 436.94,
+          "end": 445.33
+        },
+        {
+          "s": "MAN",
+          "t": "Oh .. . and one last thing before I invite further questions: it's very important that you . ..",
+          "start": 445.89,
+          "end": 451.78
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "audio": "/audio/c5/t3p3.mp3",
+      "duration": 392,
+      "title": "Course Feedback Form",
+      "groups": [
+        {
+          "range": [
+            21,
+            22
+          ],
+          "type": "notes",
+          "instruction": "Complete the form below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Feedback Form",
+          "lines": [
+            "Course: Communication in Business",
+            "Course code: CB162",
+            "Dates: From {{21}} to {{22}}"
+          ]
+        },
+        {
+          "range": [
+            23,
+            30
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "title": "Please give your comments on the following aspects of the course:",
+          "table": {
+            "head": [
+              "",
+              "Good Points",
+              "Suggestions for Improvement"
+            ],
+            "rows": [
+              [
+                "Course organisation",
+                "{{23}}\nuseful to have {{24}} at beginning of course",
+                "too much work in {{25}} of the course - could be more evenly balanced"
+              ],
+              [
+                "Course delivery",
+                "good {{26}}",
+                "some {{27}} sessions went on too long"
+              ],
+              [
+                "Materials and equipment",
+                "good {{28}}",
+                "not enough copies of key texts available\nneed more computers"
+              ],
+              [
+                "Testing and evaluation",
+                "quick feedback from oral presentations\nmarking criteria for oral presentations known in advance",
+                "too much {{29}}\ncan we know criteria for marking final exams?"
+              ],
+              [
+                "Other comments",
+                "excellent {{30}}",
+                ""
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "ANNIE",
+          "t": "Oh Ben - I just remembered I never filled in that form for Nick - did you do it?",
+          "start": 41.14,
+          "end": 47.18
+        },
+        {
+          "s": "BEN",
+          "t": "The course feedback form?",
+          "start": 47.3,
+          "end": 48.54
+        },
+        {
+          "s": "ANNIE",
+          "t": "Yes.",
+          "start": 48.7,
+          "end": 49.14
+        },
+        {
+          "s": "ANNIE",
+          "t": "If you want, we can do it together, I've got mine here.",
+          "start": 49.74,
+          "end": 52.78
+        },
+        {
+          "s": "BEN",
+          "t": "Is that OK?",
+          "start": 52.94,
+          "end": 53.86
+        },
+        {
+          "s": "ANNIE",
+          "t": "Yeah.",
+          "start": 54.02,
+          "end": 54.38
+        },
+        {
+          "s": "BEN",
+          "t": "OK, let's have a look then.",
+          "start": 55.07,
+          "end": 57.07
+        },
+        {
+          "s": "BEN",
+          "t": "What do we have to do?",
+          "start": 57.79,
+          "end": 58.75
+        },
+        {
+          "s": "ANNIE",
+          "t": "Let's fill in the top first, let's see, Course, Course code . ..",
+          "start": 58.91,
+          "end": 64.51
+        },
+        {
+          "s": "BEN",
+          "t": "Er, it's Communication in Business.",
+          "start": 65.83,
+          "end": 67.39
+        },
+        {
+          "s": "ANNIE",
+          "t": "OK, Communication . . . in . ..",
+          "start": 67.71,
+          "end": 71.09
+        },
+        {
+          "s": "ANNIE",
+          "t": "Business, I do know that, but what's the code?",
+          "start": 71.77,
+          "end": 74.81
+        },
+        {
+          "s": "BEN",
+          "t": "CB16 something, CB162, isn't it?",
+          "start": 77.29,
+          "end": 79.45
+        },
+        {
+          "s": "ANNIE",
+          "t": "Mmm, that's it, OK and dates, when did we start?",
+          "start": 80.05,
+          "end": 84.21
+        },
+        {
+          "s": "ANNIE",
+          "t": "I remember, my birthday's on May 4th and it was the day after, it must have been May 5th.",
+          "q": [
+            21
+          ],
+          "start": 84.85,
+          "end": 90.17
+        },
+        {
+          "s": "BEN",
+          "t": "Gosh, doesn't seem that long ago, does it?",
+          "start": 90.69,
+          "end": 92.69
+        },
+        {
+          "s": "ANNIE",
+          "t": "No, and we finish at the end of this week, on Friday, so that's July 15th?",
+          "start": 93.01,
+          "end": 98.21
+        },
+        {
+          "s": "BEN",
+          "t": "Er 16th, Monday was the 12th.",
+          "q": [
+            22
+          ],
+          "start": 99.41,
+          "end": 101.25
+        },
+        {
+          "s": "BEN",
+          "t": "Right, that was the easy bit, now let's have a look- \"Please give your comments on the following aspects of the course\", OK, what's the first one?",
+          "start": 101.77,
+          "end": 111.13
+        },
+        {
+          "s": "BEN",
+          "t": "Oh, course organisation.",
+          "start": 111.73,
+          "end": 112.21
+        },
+        {
+          "s": "BEN",
+          "t": "What do you think?",
+          "start": 113.85,
+          "end": 114.33
+        },
+        {
+          "s": "ANNIE",
+          "t": "Er, clear?",
+          "start": 115.93,
+          "end": 116.05
+        },
+        {
+          "s": "ANNIE",
+          "t": "It was, wasn't it?",
+          "start": 116.69,
+          "end": 117.65
+        },
+        {
+          "s": "BEN",
+          "t": "Yes, I think the organisation was clear.",
+          "start": 118.41,
+          "end": 119.81
+        },
+        {
+          "s": "BEN",
+          "t": "OK, anything else for course organisation?",
+          "q": [
+            23
+          ],
+          "start": 120.05,
+          "end": 122.21
+        },
+        {
+          "s": "ANNIE",
+          "t": "It was a good thing he gave us the course outline at the beginning, in the first session, that was useful, so I'll put that down, shall I?",
+          "q": [
+            24
+          ],
+          "start": 124.65,
+          "end": 131.45
+        },
+        {
+          "s": "ANNIE",
+          "t": "Now, going on to suggestions for improvement, one thing that wasn't so good, I think we could have done a bit more work at the beginning, I mean at the beginning it seemed dead easy.",
+          "start": 132.62,
+          "end": 143.62
+        },
+        {
+          "s": "BEN",
+          "t": "Yeah.",
+          "start": 143.74,
+          "end": 144.26
+        },
+        {
+          "s": "ANNIE",
+          "t": "I thought it was going to be really easy and then all of a sudden in the second half of the course we got a whole load of work, reading to do and essays and things.",
+          "q": [
+            25
+          ],
+          "start": 144.66,
+          "end": 153.74
+        },
+        {
+          "s": "BEN",
+          "t": "Yes, it'd be better if it was more even.",
+          "start": 154.26,
+          "end": 155.78
+        },
+        {
+          "s": "BEN",
+          "t": "OK, now course delivery, does that mean teaching?",
+          "start": 157.0,
+          "end": 160.12
+        },
+        {
+          "s": "ANNIE",
+          "t": "Yeah, I suppose so.",
+          "start": 160.44,
+          "end": 162.08
+        },
+        {
+          "s": "ANNIE",
+          "t": "Well, what I thought was really good on this course was the standard of teaching.",
+          "start": 162.2,
+          "end": 166.8
+        },
+        {
+          "s": "ANNIE",
+          "t": "Actually - I mean some of the teachers were better than others - but the standard generally was fine.",
+          "q": [
+            26
+          ],
+          "start": 167.74,
+          "end": 173.58
+        },
+        {
+          "s": "ANNIE",
+          "t": "Much better than other courses I've been on.",
+          "start": 174.1,
+          "end": 175.82
+        },
+        {
+          "s": "BEN",
+          "t": "Yeah, I agree.",
+          "start": 175.9,
+          "end": 176.62
+        },
+        {
+          "s": "BEN",
+          "t": "Let's put that then.",
+          "start": 176.82,
+          "end": 177.78
+        },
+        {
+          "s": "BEN",
+          "t": "What about suggestions for improvement?",
+          "start": 178.7,
+          "end": 180.7
+        },
+        {
+          "s": "ANNIE",
+          "t": "I . ..",
+          "start": 181.42,
+          "end": 181.46
+        },
+        {
+          "s": "ANNIE",
+          "t": "I didn't think it was all that wonderful when we had great long group discussion sessions that went on for hours and hours.",
+          "q": [
+            27
+          ],
+          "start": 182.66,
+          "end": 190.66
+        },
+        {
+          "s": "ANNIE",
+          "t": "I don't mean we shouldn't have group discussions, just that they shouldn't go on too long.",
+          "start": 191.58,
+          "end": 196.18
+        },
+        {
+          "s": "ANNIE",
+          "t": "Now, on to materials and equipment.",
+          "start": 203.03,
+          "end": 236.44
+        },
+        {
+          "s": "BEN",
+          "t": "Oh, now what was good about some sessions was the handouts.",
+          "q": [
+            28
+          ],
+          "start": 236.6,
+          "end": 240.04
+        },
+        {
+          "s": "ANNIE",
+          "t": "Yes, I thought all the handouts were good actually, and some were great, with website addresses and everything.",
+          "start": 240.8,
+          "end": 246.93
+        },
+        {
+          "s": "BEN",
+          "t": "One problem though with materials was the key texts.",
+          "start": 247.85,
+          "end": 250.85
+        },
+        {
+          "s": "ANNIE",
+          "t": "Yes' There just weren't enough copies on reserve in the library.",
+          "start": 252.25,
+          "end": 255.05
+        },
+        {
+          "s": "ANNIE",
+          "t": "And if you can't get the key texts before the session, how are you supposed to do the reading?",
+          "start": 255.65,
+          "end": 260.29
+        },
+        {
+          "s": "ANNIE",
+          "t": "And not enough computers.",
+          "start": 260.89,
+          "end": 263.09
+        },
+        {
+          "s": "ANNIE",
+          "t": "You have to wait ages to get one.",
+          "start": 263.45,
+          "end": 265.29
+        },
+        {
+          "s": "BEN",
+          "t": "OK, testing and evaluation - well, I don't know, it's hard to say until we've got our written assignments back.",
+          "start": 265.41,
+          "end": 271.97
+        },
+        {
+          "s": "ANNIE",
+          "t": "Don't talk about it, I only got mine in yesterday, it was a real struggle.",
+          "start": 272.77,
+          "end": 277.81
+        },
+        {
+          "s": "ANNIE",
+          "t": "I hate to think what mark I'll get.",
+          "start": 279.41,
+          "end": 281.13
+        },
+        {
+          "s": "BEN",
+          "t": "Yes, but at least we've done the oral presentation- I thought that was good, the way I got my feedback really quickly.",
+          "start": 281.89,
+          "end": 287.49
+        },
+        {
+          "s": "ANNIE",
+          "t": "Yes, it was.",
+          "start": 287.77,
+          "end": 288.73
+        },
+        {
+          "s": "ANNIE",
+          "t": "And I liked the way we knew what we'd be evaluated on, we knew the criteria, so we knew we had to think about clarity, organisation, and so on.",
+          "start": 289.38,
+          "end": 298.38
+        },
+        {
+          "s": "BEN",
+          "t": "Yeah, but I'm not so sure about the written work.",
+          "start": 298.46,
+          "end": 300.98
+        },
+        {
+          "s": "BEN",
+          "t": "One thing I think is that there's just too much, it's really stressful.",
+          "q": [
+            29
+          ],
+          "start": 301.99,
+          "end": 305.95
+        },
+        {
+          "s": "ANNIE",
+          "t": "Yes, I'd agree and I don't see why they can't let us know the criteria they use for marking.",
+          "start": 306.75,
+          "end": 311.87
+        },
+        {
+          "s": "BEN",
+          "t": "The written assignments?",
+          "start": 312.27,
+          "end": 313.19
+        },
+        {
+          "s": "BEN",
+          "t": "But he told us.",
+          "start": 313.55,
+          "end": 314.31
+        },
+        {
+          "s": "ANNIE",
+          "t": "No, for the final exams.",
+          "start": 314.39,
+          "end": 316.31
+        },
+        {
+          "s": "ANNIE",
+          "t": "What are they looking for- what are the criteria?",
+          "start": 316.51,
+          "end": 319.75
+        },
+        {
+          "s": "ANNIE",
+          "t": "What makes a pass or a fail?",
+          "start": 320.27,
+          "end": 321.75
+        },
+        {
+          "s": "BEN",
+          "t": "Yeah, I never thought of that.",
+          "start": 321.95,
+          "end": 323.51
+        },
+        {
+          "s": "BEN",
+          "t": "It'd be really useful.",
+          "start": 323.79,
+          "end": 324.67
+        },
+        {
+          "s": "ANNIE",
+          "t": "OK, any other comments?",
+          "start": 325.79,
+          "end": 327.87
+        },
+        {
+          "s": "BEN",
+          "t": "I thought student support was excellent.",
+          "q": [
+            30
+          ],
+          "start": 328.55,
+          "end": 330.79
+        },
+        {
+          "s": "ANNIE",
+          "t": "Yeah, me too.",
+          "start": 331.03,
+          "end": 332.27
+        },
+        {
+          "s": "ANNIE",
+          "t": "OK, excellent.",
+          "start": 332.43,
+          "end": 335.39
+        },
+        {
+          "s": "ANNIE",
+          "t": "Other comments?",
+          "start": 335.75,
+          "end": 336.95
+        },
+        {
+          "s": "BEN",
+          "t": "No, I can't think of anything else.",
+          "start": 337.79,
+          "end": 339.47
+        },
+        {
+          "s": "ANNIE",
+          "t": "Nor me.",
+          "start": 339.99,
+          "end": 340.51
+        },
+        {
+          "s": "ANNIE",
+          "t": "OK, so that's done.",
+          "start": 341.07,
+          "end": 342.83
+        },
+        {
+          "s": "ANNIE",
+          "t": "Thanks, Ben.",
+          "start": 342.95,
+          "end": 343.95
+        },
+        {
+          "s": "BEN",
+          "t": "No. thank you.",
+          "start": 344.43,
+          "end": 345.43
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "audio": "/audio/c5/t3p4.mp3",
+      "duration": 427,
+      "title": "Household Waste Recycling",
+      "groups": [
+        {
+          "range": [
+            31,
+            35
+          ],
+          "type": "notes",
+          "instruction": "Complete the sentences below.",
+          "limit": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "HOUSEHOLD WASTE RECYCLING",
+          "lines": [
+            "By 2008, carbon dioxide emissions need to be {{31}} lower than in 1990.",
+            "Recycling saves energy and reduces emissions from landfill sites and {{32}}.",
+            "People say that one problem is a lack of '{{33}}' sites for household waste. At the 'bring banks', household waste is sorted and unsuitable items removed.",
+            "Glass designed to be utilised for {{34}} cannot be recycled with other types of glass.",
+            "In the UK, {{35}} tons of glass is recycled each year."
+          ]
+        },
+        {
+          "range": [
+            36,
+            40
+          ],
+          "type": "table",
+          "instruction": "Complete the table below.",
+          "limit": "Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Companies working with recycled materials",
+          "table": {
+            "head": [
+              "Material",
+              "Company",
+              "Product that the company manufactures"
+            ],
+            "rows": [
+              [
+                "glass",
+                "CLF Aggregates",
+                "material used for making {{36}}"
+              ],
+              [
+                "paper",
+                "Martin's",
+                "office stationery"
+              ],
+              [
+                "",
+                "Papersave",
+                "{{37}} for use on farms"
+              ],
+              [
+                "plastic",
+                "Pacrite",
+                "{{38}} for collecting waste"
+              ],
+              [
+                "",
+                "Waterford",
+                "{{39}}"
+              ],
+              [
+                "",
+                "Johnson & Jones",
+                "{{40}}"
+              ]
+            ]
+          }
+        }
+      ],
+      "transcript": [
+        {
+          "s": "STUDENT",
+          "t": "Well, my group has been doing a project on how household waste is recycled in Britain.",
+          "start": 62.65,
+          "end": 68.21
+        },
+        {
+          "s": "STUDENT",
+          "t": "We were quite shocked to discover that only 9% of people here in the UK make an effort to recycle their household waste.",
+          "start": 69.25,
+          "end": 77.13
+        },
+        {
+          "s": "STUDENT",
+          "t": "This is a lower figure than in most other European countries, and needs to increase dramatically in the next few years if the government is going to meet its recycling targets.",
+          "start": 78.09,
+          "end": 88.17
+        },
+        {
+          "s": "STUDENT",
+          "t": "The agreed targets for the UK mean that by 2008 we must reduce our carbon dioxide emissions by 12.5%, compared with 1990.",
+          "q": [
+            31
+          ],
+          "start": 89.27,
+          "end": 99.75
+        },
+        {
+          "s": "STUDENT",
+          "t": "And recycling can help to achieve that goal, in two main ways: the production of recycled glass and paper uses much less energy than producing them from virgin materials, and also recycling reduces greenhouse gas emissions from landfill sites and incineration plants.",
+          "q": [
+            32
+          ],
+          "start": 100.54,
+          "end": 120.76
+        },
+        {
+          "s": "STUDENT",
+          "t": "As part of our project, we carried out a survey of people in the street, and the thing that came up over and over again is that people don't think it's easy enough to recycle their waste.",
+          "start": 122.55,
+          "end": 134.43
+        },
+        {
+          "s": "STUDENT",
+          "t": "One problem is that there aren't enough 'drop- off' sites, that is, the places where the public are supposed to take their waste.",
+          "q": [
+            33
+          ],
+          "start": 135.79,
+          "end": 142.11
+        },
+        {
+          "s": "STUDENT",
+          "t": "We also discovered that waste that's collected from householders is taken to places called 'bring banks', for sorting and baling into loads.",
+          "start": 143.6,
+          "end": 152.0
+        },
+        {
+          "s": "STUDENT",
+          "t": "One problem here is taking out everything that shouldn't have been placed in the recycling containers: people put all sorts of things into bottle banks, like plastic bags and even broken umbrellas.",
+          "start": 152.96,
+          "end": 165.14
+        },
+        {
+          "s": "STUDENT",
+          "t": "All this has to be removed by hand.",
+          "start": 165.89,
+          "end": 168.05
+        },
+        {
+          "s": "STUDENT",
+          "t": "Another difficulty is that toughened glass used for cooking doesn't fully melt at the temperature required for other glass, and so that also has to be picked out by hand.",
+          "q": [
+            34
+          ],
+          "start": 168.25,
+          "end": 179.58
+        },
+        {
+          "s": "STUDENT",
+          "t": "Glass is easy to recycle because it can be reused over and over again without becoming weaker.",
+          "start": 179.78,
+          "end": 186.42
+        },
+        {
+          "s": "STUDENT",
+          "t": "Two million tons of glass is thrown away each year, that is, seven billion bottles and jars; but only 500,000 tons of that is collected and recycled.",
+          "q": [
+            35
+          ],
+          "start": 187.22,
+          "end": 199.46
+        },
+        {
+          "s": "STUDENT",
+          "t": "Oddly enough, half the glass that's collected is green, and a lot of that is imported, so more green glass is recycled than the UK needs.",
+          "start": 205.86,
+          "end": 214.58
+        },
+        {
+          "s": "STUDENT",
+          "t": "As a result, new uses are being developed for recycled glass, particularly green glass, for example in fibreglass manufacture and water filtration.",
+          "start": 215.46,
+          "end": 225.99
+        },
+        {
+          "s": "STUDENT",
+          "t": "A company called CLF Aggregates makes a product for roads, and 30% of the material is crushed glass.",
+          "q": [
+            36
+          ],
+          "start": 226.71,
+          "end": 234.02
+        },
+        {
+          "s": "STUDENT",
+          "t": "For recycling paper, Britain comes second in Europe with 40%, behind Germany's amazing 70%.",
+          "start": 235.66,
+          "end": 243.14
+        },
+        {
+          "s": "STUDENT",
+          "t": "When recycling started, there were quality problems, so it was difficult to use recycled paper in office printers.",
+          "start": 244.84,
+          "end": 252.16
+        },
+        {
+          "s": "STUDENT",
+          "t": "But these problems have now been solved, and Martin's, based in South London, produces a range of office stationery which is 100% recycled, costs the same as normal paper and is of equally high quality.",
+          "start": 252.16,
+          "end": 267.65
+        },
+        {
+          "s": "STUDENT",
+          "t": "But this high quality comes at a cost in terms of the waste produced during the process.",
+          "start": 267.89,
+          "end": 273.85
+        },
+        {
+          "s": "STUDENT",
+          "t": "Over a third of the waste paper that comes in can't be used in the recycled paper, leaving the question of what to do with it.",
+          "start": 274.21,
+          "end": 281.41
+        },
+        {
+          "s": "STUDENT",
+          "t": "One firm, Papersave, currently sells this to farmers as a soil conditioner, though this practice will soon be banned because of transport costs and the smell, and the company is looking into the possibility of alternative uses.",
+          "q": [
+            37
+          ],
+          "start": 282.84,
+          "end": 296.77
+        },
+        {
+          "s": "STUDENT",
+          "t": "Plastic causes problems, because there are so many different types of plastic in use today, and each one has to be dealt with differently.",
+          "start": 296.77,
+          "end": 306.07
+        },
+        {
+          "s": "STUDENT",
+          "t": "Pacrite recycles all sorts of things, from bottles to car bumpers, and one of its most successful activities is recycling plastic bottles to make containers which are used all over the country to collect waste.",
+          "q": [
+            38
+          ],
+          "start": 307.87,
+          "end": 320.11
+        },
+        {
+          "s": "STUDENT",
+          "t": "The Save-a-Cup scheme was set up by the vending and plastics industries to recycle as many as possible of the three-and-a-half billion polystyrene cups used each year.",
+          "start": 321.52,
+          "end": 332.52
+        },
+        {
+          "s": "STUDENT",
+          "t": "At the moment 500 million polycups are collected, processed and sold on to other businesses, such as Waterford, which turns the cups into pencils, and Johnson & Jones, a Welsh-based firm, which has developed a wide variety of items, including business cards.",
+          "q": [
+            39,
+            40
+          ],
+          "start": 333.33,
+          "end": 350.87
+        },
+        {
+          "s": "STUDENT",
+          "t": "Well, to sum up, there seems to be plenty of research going on into how to re-use materials, but the biggest problem is getting people to think about recycling instead of throwing things away.",
+          "start": 352.42,
+          "end": 365.94
+        },
+        {
+          "s": "STUDENT",
+          "t": "At least doing the research made us much more careful.",
+          "start": 366.7,
+          "end": 370.22
+        }
+      ]
+    }
+  ]
+}

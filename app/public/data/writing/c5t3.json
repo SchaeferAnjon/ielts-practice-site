@@ -1,0 +1,43 @@
+{
+  "id": "c5t3",
+  "book": "剑桥雅思5",
+  "test": 3,
+  "title": "剑5 Test 3 · Writing",
+  "tasks": [
+    {
+      "task": 1,
+      "kind": "map",
+      "kindZh": "地图",
+      "minutes": 20,
+      "minWords": 150,
+      "prompt": [
+        "The map below is of the town of Garlsdon. A new supermarket (S) is planned for the town. The map shows two possible sites for the supermarket.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+      ],
+      "image": "/img/c5t3-task1.webp",
+      "imageCaption": "Map of Garlsdon showing two proposed supermarket sites (S1 and S2), surrounding towns, railway and main roads",
+      "sample": {
+        "band": 9,
+        "text": "The map shows two proposed locations for a new supermarket for the town of Garlsdon.\n\nThe first potential location (S1) is outside the town itself, and is sited just off the main road to the town of Hindon, lying 12 kms to the north-west. This site is in the countryside and so would be able to accommodate a lot of car parking. This would make it accessible to shoppers from both Hindon and Garlsdon who could travel by car. As it is also close to the railway line linking the two towns to Cransdon (25 km to the south-east), a potentially large number of shoppers would also be able to travel by train.\n\nIn contrast, the suggested location, S2, is right in the town centre, which would be good for local residents. Theoretically the store could be accessed by road or rail from the surrounding towns, including Bransdon, but as the central area is a no-traffic zone, cars would be unable to park and access would be difficult.\n\nOverall, neither site is appropriate for all the towns, but for customers in Cransdon, Hindon and Garlsdon, the out-of-town site (S1) would probably offer more advantages.",
+        "comment": "This model has been prepared by an examiner as an example of a very good answer. However, please note that this is just one example out of many possible approaches."
+      }
+    },
+    {
+      "task": 2,
+      "kind": "discuss-both",
+      "kindZh": "双边讨论",
+      "minutes": 40,
+      "minWords": 250,
+      "prompt": [
+        "Some people think that a sense of competition in children should be encouraged. Others believe that children who are taught to co-operate rather than compete become more useful adults.",
+        "Discuss both these views and give your own opinion.",
+        "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+      ],
+      "sample": {
+        "band": 6,
+        "text": "Nowadays, purpose of education being changed in Korea. There are some people who think that competition in children should be made, also others believe that children who are taught to co-operate as well as become more useful adults. There are advantages and disadvantages for both of the arguements.\n\nTo begin with, what is good if a sense of competition in children is made? They could develope themselves more and more as they learn and study a lot to win from the competition. To prove this, in Korea, it is popular - even common now - to have a tutor who come to student's house to teach extra pieces of study with paying a lot of money. They learn faster than what they learn at school. Furthermore, during the vacations, students study abroad to learn English for a month instead of revise school work. If they have experiments such as study abroad, it is one of the greatest plus point to go to the famous well-known highschool. Moreover, there are four big school exam and two national examinations to test students' level of studies. Generally, only the highest 40% can go to the good quality highschools and colleges. Children learn as much as they can, to win the competition to obtain good quality schools.\n\nOn the other hand, as they are busy to enter the schools and study individually with their own tutors, there are problems. They become selfish. They become careless and don't help others alot if it is about studies. There will be no co-operations for them. Then, why are there companies for many people to work in? Each of them are clever, however, there are weak parts and strong parts for each person. To co-operate is to improve this part. People talk and listen to what others thinking of and learn. That could also be a great opportunity to learn instead of learning alone with one teacher.\n\nIn conclusion, I strongly agree with that children should be taught to co-operate rather than compete. Nobody is perfect. People learn together, work together to develop each other. Therefore, I want parents and teachers to educate children concentrating on co-operation, not compete and ranking them.",
+        "comment": "Although the answer considers the main issues in the question, it deals much more with the aspect of 'competition' than it does with 'co-operation'. Some of the supporting examples are overdeveloped and divert the reader away from the argument. However, the main points are relevant and the writer's point of view is generally clear.\n\nThe argument has a logical progression and there is some good use of linking expressions, though the use of rhetorical questions to signal topic changes is not very skilful. There are also examples of overusing markers, and of errors in referencing.\n\nThe candidate tries to use a range of language, but there are regular errors in word choice and word form, and this occasionally causes problems for the reader. Similarly, a range of structures is attempted, but not always with good control of punctuation or grammar. However, the meaning is generally clear."
+      }
+    }
+  ]
+}
