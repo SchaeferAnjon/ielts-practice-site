@@ -83,6 +83,7 @@ def clean(s: str, collapse: bool = True) -> str:
     s = re.sub(r"[’‘]\s*(II|H)\b", "'ll", s)
     s = re.sub(r"[’‘]", "'", s)
     s = re.sub(r"(?<=\s)\|(?=\s)", "I", s)  # OCR 把 I 认成竖线
+    s = re.sub(r"([.!?])(?=[A-Z][a-z])", r"\1 ", s)  # 句号后丢了空格
     if collapse:
         s = re.sub(r"[ \t]+", " ", s)
     return s
@@ -104,12 +105,14 @@ SENT_RE = re.compile(r"(?<=[.!?…])\s+(?=[A-Z\"'(])")
 
 
 def transcript(text: str) -> list[dict]:
-    turns: list[tuple[str, str, list[int]]] = []  # speaker, text, qs
+    """切成说话人 + 句子。Q 标记按它所在行的位置落到对应的句子上（独白也不会全堆到最后一句）。"""
+    turns: list[list] = []  # [speaker, text, marks]  marks: [(char_offset, q)]
     speaker = "SPEAKER"
     for raw in text.split("\n"):
         line = raw.strip()
-        if not line or HEADER_RE.match(line) or re.match(r"^SECTION\s*\d", line) or re.match(r"^PART\s*\d", line):
+        if not line or HEADER_RE.match(line) or re.match(r"^SECTION\s*\d", line) or re.match(r"^PART\s*\d", line) or re.match(r"^\d{1,3}$", line):
             continue
+        line = re.sub(r"^\d{2,3}\s+(?=[A-Z])", "", line)  # 行首页码
         qs: list[int] = []
         while True:
             m = QMARK_RE.search(line)
@@ -122,22 +125,36 @@ def transcript(text: str) -> list[dict]:
         if m:
             speaker = re.sub(r"\s+", "", m.group(1)).upper()
             line = m.group(2)
-            turns.append((speaker, line, qs))
-        elif turns and turns[-1][0] == speaker:
-            s, t, q = turns[-1]
-            turns[-1] = (s, (t + " " + line).strip(), q + qs)
-        else:
-            turns.append((speaker, line, qs))
+            turns.append([speaker, "", []])
+        elif not turns or turns[-1][0] != speaker:
+            turns.append([speaker, "", []])
+        t = turns[-1]
+        t[1] = (t[1] + " " + line).strip()
+        for q in qs:
+            t[2].append((max(0, len(t[1]) - 1), q))
     out = []
-    for s, t, qs in turns:
-        sents = [x.strip() for x in SENT_RE.split(t) if x.strip()]
+    for sp, t, marks in turns:
+        sents = []
+        pos = 0
+        for piece in SENT_RE.split(t):
+            piece = piece.strip()
+            if not piece:
+                continue
+            i = t.find(piece, pos)
+            sents.append((i, i + len(piece), piece))
+            pos = i + len(piece)
         if not sents:
             continue
-        for i, sent in enumerate(sents):
-            d = {"s": s, "t": sent}
-            if qs and i == len(sents) - 1:
-                d["q"] = sorted(set(qs))
+        for a, b, sent in sents:
+            d = {"s": sp, "t": sent}
+            qq = sorted({q for off, q in marks if a <= off <= b})
+            if qq:
+                d["q"] = qq
             out.append(d)
+        leftover = sorted({q for off, q in marks if not any(a <= off <= b for a, b, _ in sents)})
+        if leftover:
+            out[-1].setdefault("q", [])
+            out[-1]["q"] = sorted(set(out[-1]["q"]) | set(leftover))
     return out
 
 
