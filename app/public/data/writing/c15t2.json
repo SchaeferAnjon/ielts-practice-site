@@ -14,7 +14,7 @@
         "The graph below shows the number of tourists visiting a particular Caribbean island between 2010 and 2017.",
         "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
       ],
-      "image": "/img/c15t2-task1.png",
+      "image": "/img/c15t2-task1.webp",
       "imageCaption": "Number of tourists visiting a Caribbean island (2010-2017)",
       "data": {
         "unit": "Millions of visitors",

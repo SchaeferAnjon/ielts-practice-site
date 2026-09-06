@@ -76,6 +76,42 @@ def check_answers(ans: dict, errors: list, n: int = 40) -> None:
             errors.append(f"answers[{k}] 必须是非空字符串数组")
 
 
+def option_keys(opts) -> set[str]:
+    return {o if isinstance(o, str) else str(o.get("k", "")) for o in (opts or [])}
+
+
+def check_answer_groups(groups: list, ans: dict, errors: list, where: str) -> None:
+    """答案要和题组一致：多选题每个题号写同样的一组字母且个数等于 count；选择/配对题答案字母必须在选项里；判断题格式固定。"""
+    for g in groups:
+        t = g.get("type")
+        r = g.get("range") or [0, -1]
+        nums = range(r[0], r[1] + 1)
+        if t == "mc-multi":
+            sets = [tuple(ans.get(str(n), [])) for n in nums]
+            if len(set(sets)) != 1 or len(sets[0]) != g.get("count", 2):
+                errors.append(f"{where} {r} mc-multi: 每个题号的 answers 必须是同样的 {g.get('count', 2)} 个字母，实际 {sets}")
+            for a in sets[0]:
+                if a not in option_keys(g.get("options")):
+                    errors.append(f"{where} {r} mc-multi: 答案 {a} 不在选项里")
+        elif t == "mc":
+            for q in g.get("questions", []):
+                for a in ans.get(str(q.get("n")), []):
+                    if a not in option_keys(q.get("options")):
+                        errors.append(f"{where} Q{q.get('n')}: 答案 {a} 不在选项里")
+        elif t in ("matching", "people-match", "summary-select", "section-match"):
+            keys = option_keys(g.get("options"))
+            for n in nums:
+                for a in ans.get(str(n), []):
+                    if a not in keys:
+                        errors.append(f"{where} Q{n}: 答案 {a} 不在 {t} 选项里")
+        elif t in ("tfng", "ynng"):
+            ok = {"TRUE", "FALSE", "NOT GIVEN"} if t == "tfng" else {"YES", "NO", "NOT GIVEN"}
+            for n in nums:
+                for a in ans.get(str(n), []):
+                    if a not in ok:
+                        errors.append(f"{where} Q{n}: {t} 答案 \"{a}\" 必须是 {sorted(ok)} 之一")
+
+
 def validate_listening(d: dict, errors: list) -> None:
     parts = d.get("parts", [])
     if len(parts) != 4:
@@ -87,6 +123,7 @@ def validate_listening(d: dict, errors: list) -> None:
             if k not in p:
                 errors.append(f"{w}: 缺 {k}")
         covered |= check_groups(p.get("groups", []), errors, w)
+        check_answer_groups(p.get("groups", []), d.get("answers", {}), errors, w)
         tr = p.get("transcript", [])
         if len(tr) < 5:
             errors.append(f"{w}: transcript 只有 {len(tr)} 句")
@@ -122,6 +159,7 @@ def validate_reading(d: dict, errors: list) -> None:
         if len(ids) != len(set(ids)):
             errors.append(f"{w}: paragraphs id 重复")
         covered |= check_groups(p.get("groups", []), errors, w)
+        check_answer_groups(p.get("groups", []), d.get("answers", {}), errors, w)
         for g in p.get("groups", []):
             if g["type"] == "section-match":
                 labels = {x.get("label") for x in paras if x.get("label")}

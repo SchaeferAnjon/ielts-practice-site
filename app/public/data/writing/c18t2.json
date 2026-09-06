@@ -14,7 +14,7 @@
         "The chart below shows the number of households in the US by their annual income in 2007, 2011 and 2015.",
         "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
       ],
-      "image": "/img/c18t2-task1.png",
+      "image": "/img/c18t2-task1.webp",
       "imageCaption": "Number of US households (in millions), by annual income",
       "data": {
         "unit": "Number of households (millions)",

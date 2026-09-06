@@ -14,7 +14,7 @@
         "The graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.",
         "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
       ],
-      "image": "/img/c21t1-task1.png",
+      "image": "/img/c21t1-task1.webp",
       "imageCaption": "Number of jobs in four sectors of the economy in the US, 1960-2020",
       "data": {
         "unit": "Jobs in millions",

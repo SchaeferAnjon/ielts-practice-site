@@ -14,7 +14,7 @@
         "The graph below gives information on the numbers of participants for different activities at one social centre in Melbourne, Australia for the period 2000 to 2020.",
         "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
       ],
-      "image": "/img/c19t1-task1.png",
+      "image": "/img/c19t1-task1.webp",
       "imageCaption": "Number of participants, by activity 2000-2020",
       "data": {
         "unit": "Number of participants",

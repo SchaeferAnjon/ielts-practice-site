@@ -17,9 +17,9 @@ npm run build      # 产出 dist/，任意静态服务器可托管
 
 | 科目 | 内容 | 来源 |
 | --- | --- | --- |
-| 听力 | 剑21 Test 1 全 4 Part、40 题、答案、逐句原文（带题号标记与估算时间戳）、真实 MP3 | 剑21 A 类 PDF 文字层 + 官方音频 |
-| 阅读 | 剑21 Test 1 全 3 篇、40 题、答案、每题定位句 + 中文解析 | 同上，人工校对 |
-| 写作 | 剑21 Test 1 Task 1（曲线图，含图片与数据表）+ Task 2，官方范文与考官评语 | 同上 |
+| 听力 | 每套 4 Part、40 题、答案、逐句原文（题号标记 + ASR 精确时间戳）、MP3 | 剑桥真题 PDF + 官方音频，已上线的套数见 `public/data/index.json` |
+| 阅读 | 每套 3 篇、40 题、答案、每题定位句 + 中文解析 | 同上 |
+| 写作 | 每套 Task 1（图表图片 + 可读出的数据表）+ Task 2，官方范文与考官评语 | 同上 |
 | 口语 | 2026 年 5-8 月题库 101 个话题 / 554 题，其中 108 题 + 9 张 Part 2 卡片带真实参考答案（英 + 中） | `scripts/extract_speaking.py` 从文字版 PDF 全量抽取 |
 
 ## AI 辅助
@@ -31,38 +31,18 @@ npm run build      # 产出 dist/，任意静态服务器可托管
 
 划词查词：先查内置小词典（本篇生词），查不到走 dictionaryapi.dev（免费、无需 Key，离线时给占位）。
 
-## 扩充更多真题
+## 扩充更多真题（批量流水线）
 
-### 1. 登记试卷
+题库清单由 `public/data/index.json` 驱动（`scripts/build_index.py` 生成），首页和导航按它显示，不需要改代码。完整的接手手册见 `scripts/RUNBOOK.md`，每套题的流程：
 
-`src/services/data.ts` 的 `PAPERS` 里把对应 test 的 `modules` 填上（如 `["listening","reading","writing"]`），首页与导航自动出现。
+1. **拆书**：`python3 scripts/dump_book.py "<书.pdf>" --out drafts/cN`（扫描件加 `--ocr`，会同时渲染每页 PNG 供核对），得到带页码标记的 `book.txt` 和页索引 `pages.txt`。
+2. **抽题**：起一个子 Agent，按 `scripts/AGENT_TASK.md` 把某一套的听力 / 阅读 / 写作抄成 JSON（结构照 `c21t1.json`，类型见 `src/data/types.ts`），写作范文按段落分次抄进 `drafts/cN/samples/` 再用 `scripts/fill_samples.py` 拼进 JSON。
+3. **校验**：`python3 scripts/validate_paper.py <listening|reading|writing> <json>` 查结构；`node scripts/check_answers.mjs cNtT` 把标准答案喂给判分函数做回环，必须 40/40。
+4. **听力时间戳**：豆包 ASR 转写音频后 `python3 scripts/align_transcript.py <听力 json> --asr-dir <asr 目录>` 逐词对齐。
+5. **图片**：`python3 scripts/optimize_images.py cNtT` 把 Task 1 图表转成 WebP。
+6. **发布**：`python3 scripts/build_index.py --audio-manifest ../audio/manifest.json --audio-base <音频站>` 更新清单，commit + push，GitHub Actions 自动部署。
 
-### 2. 准备数据文件
-
-放到 `public/data/<module>/<id>.json`，音频放 `public/audio/<book>/`。结构直接照抄 `c21t1.json`：
-
-- 听力：`parts[]`（`audio`、`duration`、`groups[]`、`transcript[]`）+ `answers`。
-- 阅读：`passages[]`（`paragraphs[]`、`groups[]`）+ `answers` + `explain`（每题 `loc` 段落 id、`key` 定位句、`why` 中文解析，用于错因分析）。
-- 写作：`tasks[]`（`prompt[]`、`image`、`data`、`sample`）。
-
-题组 `type` 支持：`table` / `notes` / `summary`（文本中用 `{{n}}` 表示填空）、`summary-select`（选词填空）、`mc`、`mc-multi`、`matching`（拖拽或下拉）、`section-match`、`people-match`、`tfng` / `ynng`。答案 `answers` 每题是数组，多个可接受答案都写上（判分会归一化大小写 / 空格 / 连字符 / 数字英文）。
-
-### 3. 从 PDF 抽取
-
-**有文字层的 PDF（剑21 这种）**：`pdftotext -layout 书.pdf 书.txt`，按页复制到 JSON。本项目就是这么做的。
-
-**扫描版 PDF（剑20 等）**：
-
-```bash
-python3 scripts/ocr_paper.py "剑20-Test1.pdf" --out drafts/c20t1 --pages 2-34
-```
-
-得到 `drafts/c20t1/ocr.txt`（逐页文本）、`ocr.json`（每页置信度、低置信度行、识别到的题号）和 `pages/*.png`。校对流程：
-
-1. 看 `ocr.json` 里 `avg_conf < 80` 的页和 `low_conf_lines`，对照 `pages/p-xxx.png` 改正。
-2. 题干、选项按 `c21t1.json` 的结构整理；填空用 `{{n}}`。
-3. 答案从书末 answer key 页抄；听力原文从 audioscripts 页抄，每句加 `q` 标记哪些题的答案在这句。
-4. `npm run dev` 打开对应页面走一遍：填答案 → 提交 → 每题判分正确即可。
+音频不在本仓库：`scripts/audio_ingest.py` 把资料里的 MP3 统一转码归档到独立仓库 ielts-audio（GitHub Pages 托管），`manifest.json` 记录每套有哪些 Part；缺音频的套数前端会标"音频不全"。
 
 **口语题库换季**：
 
@@ -73,18 +53,21 @@ python3 scripts/extract_speaking.py \
   --out public/data/speaking.json
 ```
 
-脚本识别「N P1 话题」「N P2 中文标题 + Describe…」「P3」「万年老题」这些版式，答案按问题文本模糊匹配（阈值 0.82）。跑完看 stderr 的统计。
+脚本识别「N P1 话题」「N P2 中文标题 + Describe…」「P3」「万年老题」这些版式，答案按问题文本模糊匹配（阈值 0.82）。
 
 ## 目录
 
 ```
 app/
-  public/data/{listening,reading,writing}/c21t1.json   题目数据
+  public/data/index.json                               题库清单（build_index.py 生成）
+  public/data/{listening,reading,writing}/cNtT.json    题目数据
   public/data/speaking.json                            口语题库
-  public/audio/c21/t1p1-4.mp3                          听力音频
-  public/img/c21t1-task1.png                           写作图表
+  public/img/cNtT-task1.webp                           写作图表
+  scripts/RUNBOOK.md + AGENT_TASK.md                   批量数字化手册 / 子 Agent 任务书
+  scripts/{dump_book,validate_paper,align_transcript,build_index,optimize_images,fill_samples}.py
+  scripts/check_answers.mjs                            答案回环检查
+  scripts/audio_ingest.py                              音频归档转码
   scripts/extract_speaking.py                          口语题库抽取
-  scripts/ocr_paper.py                                 扫描版 OCR 草稿管线
   src/styles/tokens.css                                设计令牌（调研所得色值 / 圆角 / 阴影）
   src/services/{scoring,storage,ai,data}.ts            判分 / 存储 / AI 适配 / 数据加载
   src/components/QuestionGroup.tsx                     所有题型渲染
@@ -94,7 +77,7 @@ app/
 ## 说明
 
 - 判分换算表是雅思官方公布的 A 类近似区间。
-- 听力原文时间戳：剑21 Test 1 已用豆包 ASR（火山引擎 Seed-ASR）逐词对齐（`start` / `end` 字段）。新加的套数没有对齐时前端按台词长度估算；要精确值就跑：
+- 听力原文时间戳：有音频的套数都用豆包 ASR（火山引擎 Seed-ASR）逐词对齐过（`start` / `end` 字段）；没有对齐时前端按台词长度估算。对齐命令：
 
   ```bash
   VOLC_ASR_KEY=xxx python3 ~/.claude/skills/video-to-notes/scripts/asr_volc.py --audio-dir public/audio/c21 --out-dir /tmp/asr
