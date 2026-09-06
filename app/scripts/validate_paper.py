@@ -60,8 +60,12 @@ def check_groups(groups: list, errors: list, where: str) -> set[int]:
                     errors.append(f"{where} Q{q.get('n')}: 选项不足")
         if g["type"] in ("matching", "people-match", "summary-select", "mc-multi") and not g.get("options"):
             errors.append(f"{where} {r}: 缺 options")
-        if g["type"] in ("tfng", "ynng") and not g.get("legend"):
-            errors.append(f"{where} {r}: 缺 legend")
+        if g["type"] in ("tfng", "ynng"):
+            lg = g.get("legend")
+            if not lg:
+                errors.append(f"{where} {r}: 缺 legend")
+            elif not (isinstance(lg, list) and all(isinstance(x, list) and len(x) == 2 and all(isinstance(y, str) for y in x) for x in lg)):
+                errors.append(f"{where} {r}: legend 必须是 [[\"TRUE\", \"说明\"], ...] 这样的二元数组，不是对象")
         covered |= got
     return covered
 

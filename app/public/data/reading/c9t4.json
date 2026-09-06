@@ -389,11 +389,20 @@
           ],
           "type": "tfng",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "legend": {
-            "TRUE": "if the statement agrees with the information",
-            "FALSE": "if the statement contradicts the information",
-            "NOT GIVEN": "if there is no information on this"
-          },
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
           "questions": [
             {
               "n": 1,
@@ -833,11 +842,20 @@
           ],
           "type": "tfng",
           "instruction": "Do the following statements agree with the information given in Reading Passage 3?",
-          "legend": {
-            "TRUE": "if the statement agrees with the information",
-            "FALSE": "if the statement contradicts the information",
-            "NOT GIVEN": "if there is no information on this"
-          },
+          "legend": [
+            [
+              "TRUE",
+              "if the statement agrees with the information"
+            ],
+            [
+              "FALSE",
+              "if the statement contradicts the information"
+            ],
+            [
+              "NOT GIVEN",
+              "if there is no information on this"
+            ]
+          ],
           "questions": [
             {
               "n": 37,
